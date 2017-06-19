@@ -1,109 +1,71 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
-<!DOCTYPE rdf:RDF [
-    <!ENTITY rdf "http://www.w3.org/1999/02/22-rdf-syntax-ns#" >
-    <!ENTITY rdfs "http://www.w3.org/2000/01/rdf-schema#" >
-    <!ENTITY owl "http://www.w3.org/2002/07/owl#" >
-    <!ENTITY xsd "http://www.w3.org/2001/XMLSchema#" >
-    <!ENTITY dct "http://purl.org/dc/terms/" >
-    <!ENTITY skos "http://www.w3.org/2004/02/skos/core#" >
-    <!ENTITY sm "http://www.omg.org/techprocess/ab/SpecificationMetadata/" >
-    <!ENTITY lcc-spc "http://www.omg.org/spec/LCC/AboutLCC/" >
-    <!ENTITY lcc-spc-1.0 "http://www.omg.org/spec/LCC/1.0/AboutLCC-1.0/" >
-
-    <!ENTITY lcc-lng "http://www.omg.org/spec/LCC/Languages/AboutLanguages/" >
-    <!ENTITY lcc-lr "http://www.omg.org/spec/LCC/Languages/LanguageRepresentation/">    
-    <!ENTITY lcc-639-1 "http://www.omg.org/spec/LCC/Languages/ISO639-1-LanguageCodes/">
-    <!ENTITY lcc-639-2 "http://www.omg.org/spec/LCC/Languages/ISO639-2-LanguageCodes/">
-
-    <!ENTITY lcc-cty "http://www.omg.org/spec/LCC/Countries/AboutCountries/" >
-    <!ENTITY lcc-cr "http://www.omg.org/spec/LCC/Countries/CountryRepresentation/">    
-    <!ENTITY lcc-3166-1 "http://www.omg.org/spec/LCC/Countries/ISO3166-1-CountryCodes/">
-    <!ENTITY lcc-3166-2 "http://www.omg.org/spec/LCC/Countries/ISO3166-2-SubdivisionCodes/">
-]>
-
-<rdf:RDF 
-xml:base="http://www.omg.org/spec/LCC/1.0/AboutLCC-1.0/"
-     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
-     xmlns:owl="http://www.w3.org/2002/07/owl#"
-     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
-     xmlns:dct="http://purl.org/dc/terms/"
-     xmlns:skos="http://www.w3.org/2004/02/skos/core#"
-xmlns:sm="http://www.omg.org/techprocess/ab/SpecificationMetadata/"
-     xmlns:lcc-spc="http://www.omg.org/spec/LCC/AboutLCC/"
-     xmlns:lcc-spc-1.0="http://www.omg.org/spec/LCC/1.0/AboutLCC-1.0/"
-
-     xmlns:lcc-lng="http://www.omg.org/spec/LCC/Languages/AboutLanguages/"
-    xmlns:lcc-lr="http://www.omg.org/spec/LCC/Languages/LanguageRepresentation/"    
-    xmlns:lcc-639-1="http://www.omg.org/spec/LCC/Languages/ISO639-1-LanguageCodes/"
+<?xml version="1.0"?>
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:lcc-lng="http://www.omg.org/spec/LCC/Languages/AboutLanguages/"
+    xmlns:sm="http://www.omg.org/techprocess/ab/SpecificationMetadata/"
+    xmlns:lcc-spc-1.0="http://www.omg.org/spec/LCC/1.0/AboutLCC-1.0/"
+    xmlns:lcc-cty="http://www.omg.org/spec/LCC/Countries/AboutCountries/"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
     xmlns:lcc-639-2="http://www.omg.org/spec/LCC/Languages/ISO639-2-LanguageCodes/"
-
-     xmlns:lcc-cty="http://www.omg.org/spec/LCC/Countries/AboutCountries/"
+    xmlns:dct="http://purl.org/dc/terms/"
+    xmlns:lcc-3166-2="http://www.omg.org/spec/LCC/Countries/ISO3166-2-SubdivisionCodes/"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
     xmlns:lcc-cr="http://www.omg.org/spec/LCC/Countries/CountryRepresentation/"
+    xmlns:lcc-spc="http://www.omg.org/spec/LCC/AboutLCC/"
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:lcc-lr="http://www.omg.org/spec/LCC/Languages/LanguageRepresentation/"
+    xmlns:lcc-639-1="http://www.omg.org/spec/LCC/Languages/ISO639-1-LanguageCodes/"
     xmlns:lcc-3166-1="http://www.omg.org/spec/LCC/Countries/ISO3166-1-CountryCodes/"
-    xmlns:lcc-3166-2="http://www.omg.org/spec/LCC/Countries/ISO3166-2-SubdivisionCodes/">
-
-
-    <owl:Ontology rdf:about="http://www.omg.org/spec/LCC/1.0/AboutLCC-1.0/">
-        <rdfs:label>About the Languages, Countries and Codes (LCC) Specification Version 1.0</rdfs:label>
-
-
-    <!-- Curation and Rights Metadata for About the Languages, Countries and Codes (LCC) Specification Version 1.0 -->
-
-        <sm:copyright rdf:datatype="&xsd;string">Copyright (c) 2015 Adaptive, Inc.
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+  xml:base="http://www.omg.org/spec/LCC/1.0/AboutLCC-1.0/">
+  <owl:Ontology rdf:about="">
+    <owl:imports rdf:resource="http://www.omg.org/spec/LCC/AboutLCC/"/>
+    <rdfs:label>About the Languages, Countries and Codes (LCC) Specification Version 1.0</rdfs:label>
+    <owl:imports rdf:resource="http://www.omg.org/spec/LCC/Countries/CountryRepresentation/"/>
+    <sm:contentLanguage rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI"
+    >http://www.omg.org/spec/ODM/</sm:contentLanguage>
+    <sm:contentLanguage rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI"
+    >http://www.w3.org/standards/techs/owl#w3c_all</sm:contentLanguage>
+    <sm:fileAbbreviation rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >lcc-spc-1.0</sm:fileAbbreviation>
+    <owl:versionIRI rdf:resource="http://www.omg.org/spec/LCC/20151101/AboutLCC-1.0/"/>
+    <sm:filename rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >AboutLCC-1.0.rdf</sm:filename>
+    <sm:publicationDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2015-11-09T18:00:00</sm:publicationDate>
+    <owl:imports rdf:resource="http://www.omg.org/spec/LCC/Languages/ISO639-2-LanguageCodes/"/>
+    <owl:imports rdf:resource="http://www.omg.org/spec/LCC/Languages/ISO639-1-LanguageCodes/"/>
+    <owl:imports rdf:resource="http://www.omg.org/spec/LCC/Languages/AboutLanguages/"/>
+    <dct:license rdf:resource="http://www.omg.org/techprocess/ab/SpecificationMetadata/MITLicense"/>
+    <owl:imports rdf:resource="http://www.omg.org/spec/LCC/Countries/AboutCountries/"/>
+    <owl:imports rdf:resource="http://www.omg.org/spec/LCC/Languages/LanguageRepresentation/"/>
+    <sm:copyright rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >Copyright (c) 2015 Adaptive, Inc.
 Copyright (c) 2015 Object Management Group, Inc.
 Copyright (c) 2015 Thematix Partners LLC
 Copyright (c) 2015 Unisys</sm:copyright>
-        <dct:license rdf:resource="&sm;MITLicense"/>
-
-
-    <!-- Ontology/File-Level Metadata for About the Languages, Countries and Codes (LCC) Specification Version 1.0 -->
-
-        <sm:filename rdf:datatype="&xsd;string">AboutLCC-1.0.rdf</sm:filename>
-        <sm:fileAbbreviation rdf:datatype="&xsd;string">lcc-spc-1.0</sm:fileAbbreviation>
-        <owl:versionIRI rdf:resource="http://www.omg.org/spec/LCC/20151101/AboutLCC-1.0/"/>
-
-        <sm:publicationDate rdf:datatype="&xsd;dateTime">2015-11-09T18:00:00</sm:publicationDate>
-
-        <sm:contentLanguage rdf:datatype="&xsd;anyURI">http://www.w3.org/standards/techs/owl#w3c_all</sm:contentLanguage>
-        <sm:contentLanguage rdf:datatype="&xsd;anyURI">http://www.omg.org/spec/ODM/</sm:contentLanguage>
-
-        <owl:imports rdf:resource="http://www.omg.org/spec/LCC/AboutLCC/"/>
-
-        <owl:imports rdf:resource="http://www.omg.org/spec/LCC/Languages/AboutLanguages/"/>
-        <owl:imports rdf:resource="http://www.omg.org/spec/LCC/Languages/LanguageRepresentation/"/>
-        <owl:imports rdf:resource="http://www.omg.org/spec/LCC/Languages/ISO639-1-LanguageCodes/"/>
-        <owl:imports rdf:resource="http://www.omg.org/spec/LCC/Languages/ISO639-2-LanguageCodes/"/>
-
-         <owl:imports rdf:resource="http://www.omg.org/spec/LCC/Countries/AboutCountries/"/>
-       <owl:imports rdf:resource="http://www.omg.org/spec/LCC/Countries/CountryRepresentation/"/>
-        <owl:imports rdf:resource="http://www.omg.org/spec/LCC/Countries/ISO3166-1-CountryCodes/"/>
-        <owl:imports rdf:resource="http://www.omg.org/spec/LCC/Countries/ISO3166-2-SubdivisionCodes/"/>
-
-    </owl:Ontology>
-
-
-    <!-- 
-    ///////////////////////////////////////////////////////////////////////////////////////
-    //
-    // Individuals
-    //
-    ///////////////////////////////////////////////////////////////////////////////////////
-     -->
-
-    <owl:NamedIndividual rdf:about="&lcc-spc-1.0;LCCSpecification-1.0">
-        <rdf:type rdf:resource="&sm;SpecificationVersion"/>
-        <rdfs:label>Languages, Countries and Codes (LCC) Specification Version 1.0</rdfs:label>
-        <skos:definition rdf:datatype="&xsd;string">individual representing metadata about the Languages, Countries and Codes (LCC) Version 1.0 Specification</skos:definition>
-        <sm:publicationDate rdf:datatype="&xsd;dateTime">2015-11-09T18:00:00</sm:publicationDate>
-        <sm:specificationVersionURL rdf:datatype="&xsd;anyURI">http://www.omg.org/spec/LCC/1.0/</sm:specificationVersionURL>
-        <sm:specificationVersionStatus rdf:datatype="&xsd;string">Formal Specification</sm:specificationVersionStatus>
-        <sm:isVersionOf rdf:resource="&lcc-spc;LCCSpecification"/>
-        <skos:historyNote rdf:datatype="&xsd;string">Revisions to the Languages, Countries and Codes (LCC) Specification and related ontologies are managed per the process outlined in the Policies and Procedures for OMG standards, with the intent to maintain backwards compatibility in the ontologies to the degree possible.  It is anticipated that there will be revisions from time to time of the individuals represented herein as the ISO specifications themselves evolve.
+    <owl:imports rdf:resource="http://www.omg.org/spec/LCC/Countries/ISO3166-1-CountryCodes/"/>
+    <owl:imports rdf:resource="http://www.omg.org/spec/LCC/Countries/ISO3166-2-SubdivisionCodes/"/>
+  </owl:Ontology>
+  <owl:NamedIndividual rdf:about="http://www.omg.org/spec/LCC/1.0/AboutLCC-1.0/LCCSpecification-1.0">
+    <sm:publicationDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2015-11-09T18:00:00</sm:publicationDate>
+    <skos:definition rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >individual representing metadata about the Languages, Countries and Codes (LCC) Version 1.0 Specification</skos:definition>
+    <sm:addressForComments rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI"
+    >http://www.omg.org/issues/</sm:addressForComments>
+    <skos:historyNote rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >Revisions to the Languages, Countries and Codes (LCC) Specification and related ontologies are managed per the process outlined in the Policies and Procedures for OMG standards, with the intent to maintain backwards compatibility in the ontologies to the degree possible.  It is anticipated that there will be revisions from time to time of the individuals represented herein as the ISO specifications themselves evolve.
   
 The RDF/XML serialized OWL for the Foundations ODM/OWL ontologies have been checked for syntactic errors and logical consistency with Protege 4 (http://protege.stanford.edu/), HermiT 1.3.8 (http://www.hermit-reasoner.com/) and Pellet 2.3 (https://github.com/complexible/pellet/).</skos:historyNote>
-        <sm:addressForComments rdf:datatype="&xsd;anyURI">http://www.omg.org/issues/</sm:addressForComments>
-    </owl:NamedIndividual>
-
+    <sm:specificationVersionStatus rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >Formal Specification</sm:specificationVersionStatus>
+    <sm:isVersionOf rdf:resource="http://www.omg.org/spec/LCC/AboutLCC/LCCSpecification"/>
+    <sm:specificationVersionURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI"
+    >http://www.omg.org/spec/LCC/1.0/</sm:specificationVersionURL>
+    <rdfs:label>Languages, Countries and Codes (LCC) Specification Version 1.0</rdfs:label>
+    <rdf:type rdf:resource="http://www.omg.org/techprocess/ab/SpecificationMetadata/SpecificationVersion"/>
+  </owl:NamedIndividual>
 </rdf:RDF>
+
+<!-- Created with TopBraid -->
