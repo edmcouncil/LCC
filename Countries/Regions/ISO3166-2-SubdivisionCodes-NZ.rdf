@@ -36,9 +36,9 @@
 
       <!-- Curation and Rights Metadata for the LCC ISO 3166-2 Subdivision Codes for New Zealand Ontology -->
 
-      <sm:copyright rdf:datatype="&xsd;string">Copyright (c) 2015-2017 Object Management Group, Inc.
-          Copyright (c) 2015-2017 Adaptive Inc.
-          Copyright (c) 2015-2017 Thematix Partners LLC
+      <sm:copyright rdf:datatype="&xsd;string">Copyright (c) 2015-2019 Object Management Group, Inc.
+          Copyright (c) 2015-2019 Adaptive Inc.
+          Copyright (c) 2015-2019 Thematix Partners LLC
           Copyright (c) 2015-2017 Unisys
         </sm:copyright>
       <dct:license rdf:resource="&sm;MITLicense"/>
@@ -47,9 +47,9 @@
 
       <sm:filename rdf:datatype="&xsd;string">ISO3166-2-SubdivisionCodes-NZ.rdf</sm:filename>
       <sm:fileAbbreviation rdf:datatype="&xsd;string">lcc-3166-2-nz</sm:fileAbbreviation>
-      <owl:versionIRI rdf:resource="http://www.omg.org/spec/LCC/20170801/Countries/Regions/ISO3166-2-SubdivisionCodes-NZ/"/>
+      <owl:versionIRI rdf:resource="http://www.omg.org/spec/LCC/20190301/Countries/Regions/ISO3166-2-SubdivisionCodes-NZ/"/>
       <sm:fileAbstract rdf:datatype="&xsd;string">This ontology represents the subset of the ISO 3166 standard that includes the actual ISO 3166-2 subdivision codes for New Zealand, with the ontology and codes for the other parts of the standard represented in models that this ontology depends on.</sm:fileAbstract>
-      <dct:issued rdf:datatype="&xsd;dateTime">2017-07-20T22:26:02.631805+02:00</dct:issued>
+      <dct:issued rdf:datatype="&xsd;dateTime">2019-02-14T00:48:51.124818+01:00</dct:issued>
 
       <sm:dependsOn rdf:datatype="&xsd;anyURI">http://www.omg.org/spec/LCC/Languages/LanguageRepresentation/</sm:dependsOn>
       <sm:dependsOn rdf:datatype="&xsd;anyURI">http://www.omg.org/spec/LCC/Countries/CountryRepresentation/</sm:dependsOn>
@@ -104,6 +104,37 @@
   <!--
     ///////////////////////////////////////////////////////////////////////////////////////
     //
+    // Chatham Islands Territory
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+    -->
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-nz;ChathamIslandsTerritory">
+      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
+      <rdfs:label>Chatham Islands Territory</rdfs:label>
+      <skos:definition>The special island authority of Chatham Islands Territory in the country of New Zealand</skos:definition>
+      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;NewZealand"/>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="mi">Wharekauri</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Chatham Islands Territory</lcc-cr:hasEnglishShortName>
+      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-nz;SpecialIslandAuthority"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-nz;"/>
+   </owl:NamedIndividual>
+
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-nz;NZ-CIT">
+      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
+      <skos:definition>subdivision code for the special island authority of Chatham Islands Territory in the country of New Zealand</skos:definition>
+      <rdfs:label>NZ-CIT</rdfs:label>
+      <lcc-lr:hasTag rdf:datatype="&xsd;string">NZ-CIT</lcc-lr:hasTag>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-nz;ChathamIslandsTerritory"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-nz;ChathamIslandsTerritory"/>
+      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-nz;"/>
+   </owl:NamedIndividual>
+
+
+
+  <!--
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
     // Auckland
     //
     ///////////////////////////////////////////////////////////////////////////////////////
@@ -113,8 +144,8 @@
       <rdfs:label>Auckland</rdfs:label>
       <skos:definition>The region of Auckland in the country of New Zealand</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;NewZealand"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="mi">Tāmaki-makau-rau</lcc-cr:hasLocalShortName>
       <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Auckland</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="mi">Tāmaki-makau-rau</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-nz;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-nz;"/>
    </owl:NamedIndividual>
@@ -597,37 +628,6 @@
   <!--
     ///////////////////////////////////////////////////////////////////////////////////////
     //
-    // Chatham Islands Territory
-    //
-    ///////////////////////////////////////////////////////////////////////////////////////
-    -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-nz;ChathamIslandsTerritory">
-      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>Chatham Islands Territory</rdfs:label>
-      <skos:definition>The special island authority of Chatham Islands Territory in the country of New Zealand</skos:definition>
-      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;NewZealand"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="mi">Wharekauri</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Chatham Islands Territory</lcc-cr:hasEnglishShortName>
-      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-nz;SpecialIslandAuthority"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-nz;"/>
-   </owl:NamedIndividual>
-
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-nz;NZ-CIT">
-      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the special island authority of Chatham Islands Territory in the country of New Zealand</skos:definition>
-      <rdfs:label>NZ-CIT</rdfs:label>
-      <lcc-lr:hasTag rdf:datatype="&xsd;string">NZ-CIT</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-2-nz;ChathamIslandsTerritory"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-2-nz;ChathamIslandsTerritory"/>
-      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-nz;"/>
-   </owl:NamedIndividual>
-
-
-
-  <!--
-    ///////////////////////////////////////////////////////////////////////////////////////
-    //
     // Antipodes Islands
     //
     ///////////////////////////////////////////////////////////////////////////////////////
@@ -637,8 +637,8 @@
       <rdfs:label>Antipodes Islands</rdfs:label>
       <skos:definition>The territory of Antipodes Islands in the country of New Zealand</skos:definition>
       <lcc-cr:hasNumericRegionCode rdf:datatype="&xsd;string">1007</lcc-cr:hasNumericRegionCode>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Antipodes Islands</lcc-cr:hasEnglishShortName>
       <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">les Îles Antipodes</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Antipodes Islands</lcc-cr:hasEnglishShortName>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;NewZealand"/>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2;Territory"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-nz;"/>
@@ -656,8 +656,8 @@
       <rdfs:label>Auckland Islands</rdfs:label>
       <skos:definition>The territory of Auckland Islands in the country of New Zealand</skos:definition>
       <lcc-cr:hasNumericRegionCode rdf:datatype="&xsd;string">1010</lcc-cr:hasNumericRegionCode>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Auckland Islands</lcc-cr:hasEnglishShortName>
       <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">les Îles Auckland</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Auckland Islands</lcc-cr:hasEnglishShortName>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;NewZealand"/>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2;Territory"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-nz;"/>
@@ -675,8 +675,8 @@
       <rdfs:label>Campbell Island</rdfs:label>
       <skos:definition>The territory of Campbell Island in the country of New Zealand</skos:definition>
       <lcc-cr:hasNumericRegionCode rdf:datatype="&xsd;string">1033</lcc-cr:hasNumericRegionCode>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Campbell Island</lcc-cr:hasEnglishShortName>
       <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">l'Île Campbell</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Campbell Island</lcc-cr:hasEnglishShortName>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;NewZealand"/>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2;Territory"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-nz;"/>
@@ -694,8 +694,8 @@
       <rdfs:label>Chatham Islands</rdfs:label>
       <skos:definition>The territory of Chatham Islands in the country of New Zealand</skos:definition>
       <lcc-cr:hasNumericRegionCode rdf:datatype="&xsd;string">1041</lcc-cr:hasNumericRegionCode>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Chatham Islands</lcc-cr:hasEnglishShortName>
       <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">les Îles Chatham</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Chatham Islands</lcc-cr:hasEnglishShortName>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;NewZealand"/>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2;Territory"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-nz;"/>
@@ -713,8 +713,8 @@
       <rdfs:label>Kermadec Islands</rdfs:label>
       <skos:definition>The territory of Kermadec Islands in the country of New Zealand</skos:definition>
       <lcc-cr:hasNumericRegionCode rdf:datatype="&xsd;string">1097</lcc-cr:hasNumericRegionCode>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Kermadec Islands</lcc-cr:hasEnglishShortName>
       <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">les Îles Kermadec</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Kermadec Islands</lcc-cr:hasEnglishShortName>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;NewZealand"/>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2;Territory"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-nz;"/>

@@ -10,7 +10,7 @@
   <!ENTITY lcc-3166-2 "http://www.omg.org/spec/LCC/Countries/ISO3166-2-SubdivisionCodes/" >
 ]>
 
-<!-- This file is copyright 2017, Adaptive Inc.  -->
+<!-- This file is copyright 2017-2019, Adaptive Inc.  -->
 <!-- All rights reserved. -->
 <!-- A limited license is provided to use and modify this file purely for the purpose of maintaining the ontology 
      in the OMG specification "Languages Countries and Codes (LCC)" and purely by members of the LCC Revision Task Force (RTF)  -->
@@ -149,7 +149,7 @@ exclude-result-prefixes="xsl xs">
 <xsl:template match="/">
   <!-- Ontology here is root element for the about file. It will need boilerplate adding -->
   <rdf:RDF>
-    <owl:Ontology rdf:about="http://www.omg.org/spec/LCC/1.0/AboutLCC-1.0-Regions/">
+    <owl:Ontology rdf:about="http://www.omg.org/spec/LCC/1.0/AboutLCC-1.1-Regions/">
       <xsl:apply-templates select="country-codes/country"/>
     </owl:Ontology>
   </rdf:RDF>
@@ -240,9 +240,9 @@ exclude-result-prefixes="xsl xs">
             <xsl:value-of select="concat(' Curation and Rights Metadata for the LCC ISO 3166-2 Subdivision Codes for ', $country-name, ' Ontology ')"/>
         </xsl:comment>
         <xsl:value-of select="'&#x0A;&#x0A;'"/>
-        <sm:copyright rdf:datatype="&amp;xsd;string">Copyright (c) 2015-2017 Object Management Group, Inc.
-          Copyright (c) 2015-2017 Adaptive Inc.
-          Copyright (c) 2015-2017 Thematix Partners LLC
+        <sm:copyright rdf:datatype="&amp;xsd;string">Copyright (c) 2015-2019 Object Management Group, Inc.
+          Copyright (c) 2015-2019 Adaptive Inc.
+          Copyright (c) 2015-2019 Thematix Partners LLC
           Copyright (c) 2015-2017 Unisys
         </sm:copyright>
         <dct:license rdf:resource="&amp;sm;MITLicense"/>       
@@ -258,7 +258,7 @@ exclude-result-prefixes="xsl xs">
           <xsl:value-of select="$subdivs-ont-abbrev"/>
         </sm:fileAbbreviation>
         <owl:versionIRI>
-          <xsl:attribute name="rdf:resource" select="concat(substring-before($subdivs-ont-uri, 'Countries'), '20170801/', substring-after($subdivs-ont-uri, 'LCC/'))"/>         
+          <xsl:attribute name="rdf:resource" select="concat(substring-before($subdivs-ont-uri, 'Countries'), '20190301/', substring-after($subdivs-ont-uri, 'LCC/'))"/>         
         </owl:versionIRI> 
         <sm:fileAbstract rdf:datatype="&amp;xsd;string">
           <xsl:value-of select="concat('This ontology represents the subset of the ISO 3166 standard that includes the actual ISO 3166-2 subdivision codes for ', $country-name, ', with the ontology and codes for the other parts of the standard represented in models that this ontology depends on.')"/>

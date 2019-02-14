@@ -36,9 +36,9 @@
 
       <!-- Curation and Rights Metadata for the LCC ISO 3166-2 Subdivision Codes for Russian Federation (the) Ontology -->
 
-      <sm:copyright rdf:datatype="&xsd;string">Copyright (c) 2015-2017 Object Management Group, Inc.
-          Copyright (c) 2015-2017 Adaptive Inc.
-          Copyright (c) 2015-2017 Thematix Partners LLC
+      <sm:copyright rdf:datatype="&xsd;string">Copyright (c) 2015-2019 Object Management Group, Inc.
+          Copyright (c) 2015-2019 Adaptive Inc.
+          Copyright (c) 2015-2019 Thematix Partners LLC
           Copyright (c) 2015-2017 Unisys
         </sm:copyright>
       <dct:license rdf:resource="&sm;MITLicense"/>
@@ -47,9 +47,9 @@
 
       <sm:filename rdf:datatype="&xsd;string">ISO3166-2-SubdivisionCodes-RU.rdf</sm:filename>
       <sm:fileAbbreviation rdf:datatype="&xsd;string">lcc-3166-2-ru</sm:fileAbbreviation>
-      <owl:versionIRI rdf:resource="http://www.omg.org/spec/LCC/20170801/Countries/Regions/ISO3166-2-SubdivisionCodes-RU/"/>
+      <owl:versionIRI rdf:resource="http://www.omg.org/spec/LCC/20190301/Countries/Regions/ISO3166-2-SubdivisionCodes-RU/"/>
       <sm:fileAbstract rdf:datatype="&xsd;string">This ontology represents the subset of the ISO 3166 standard that includes the actual ISO 3166-2 subdivision codes for Russian Federation (the), with the ontology and codes for the other parts of the standard represented in models that this ontology depends on.</sm:fileAbstract>
-      <dct:issued rdf:datatype="&xsd;dateTime">2017-07-20T22:26:02.631805+02:00</dct:issued>
+      <dct:issued rdf:datatype="&xsd;dateTime">2019-02-14T00:48:51.124818+01:00</dct:issued>
 
       <sm:dependsOn rdf:datatype="&xsd;anyURI">http://www.omg.org/spec/LCC/Languages/LanguageRepresentation/</sm:dependsOn>
       <sm:dependsOn rdf:datatype="&xsd;anyURI">http://www.omg.org/spec/LCC/Countries/CountryRepresentation/</sm:dependsOn>
@@ -127,440 +127,6 @@
     //
     ///////////////////////////////////////////////////////////////////////////////////////
     -->
-
-
-  <!--
-    ///////////////////////////////////////////////////////////////////////////////////////
-    //
-    // Volgogradskaja oblast'
-    //
-    ///////////////////////////////////////////////////////////////////////////////////////
-    -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-ru;VolgogradskajaOblast">
-      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>Volgogradskaja oblast'</rdfs:label>
-      <skos:definition>The administrative region of Volgogradskaja oblast' in the country of Russian Federation (the)</skos:definition>
-      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;RussianFederation"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ru">Volgogradskaja oblast'</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ru">Volgogradskaya oblast'</lcc-cr:hasLocalShortName>
-      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ru;AdministrativeRegion"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ru;"/>
-   </owl:NamedIndividual>
-
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-ru;RU-VGG">
-      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the administrative region of Volgogradskaja oblast' in the country of Russian Federation (the)</skos:definition>
-      <rdfs:label>RU-VGG</rdfs:label>
-      <lcc-lr:hasTag rdf:datatype="&xsd;string">RU-VGG</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-2-ru;VolgogradskajaOblast"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-2-ru;VolgogradskajaOblast"/>
-      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ru;"/>
-   </owl:NamedIndividual>
-
-
-
-  <!--
-    ///////////////////////////////////////////////////////////////////////////////////////
-    //
-    // Altaj, Respublika
-    //
-    ///////////////////////////////////////////////////////////////////////////////////////
-    -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-ru;Altaj">
-      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>Altaj, Respublika</rdfs:label>
-      <skos:definition>The republic of Altaj, Respublika in the country of Russian Federation (the)</skos:definition>
-      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;RussianFederation"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ru">Altaj, Respublika</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ru">Altay, Respublika</lcc-cr:hasLocalShortName>
-      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ru;Republic"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ru;"/>
-   </owl:NamedIndividual>
-
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-ru;RU-AL">
-      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the republic of Altaj, Respublika in the country of Russian Federation (the)</skos:definition>
-      <rdfs:label>RU-AL</rdfs:label>
-      <lcc-lr:hasTag rdf:datatype="&xsd;string">RU-AL</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-2-ru;Altaj"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-2-ru;Altaj"/>
-      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ru;"/>
-   </owl:NamedIndividual>
-
-
-
-  <!--
-    ///////////////////////////////////////////////////////////////////////////////////////
-    //
-    // Arkhangel'skaya oblast'
-    //
-    ///////////////////////////////////////////////////////////////////////////////////////
-    -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-ru;ArkhangelskayaOblast">
-      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>Arkhangel'skaya oblast'</rdfs:label>
-      <skos:definition>The administrative region of Arkhangel'skaya oblast' in the country of Russian Federation (the)</skos:definition>
-      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;RussianFederation"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ru">Arkhangel'skaya oblast'</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ru">Arhangel'skaja oblast'</lcc-cr:hasLocalShortName>
-      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ru;AdministrativeRegion"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ru;"/>
-   </owl:NamedIndividual>
-
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-ru;RU-ARK">
-      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the administrative region of Arkhangel'skaya oblast' in the country of Russian Federation (the)</skos:definition>
-      <rdfs:label>RU-ARK</rdfs:label>
-      <lcc-lr:hasTag rdf:datatype="&xsd;string">RU-ARK</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-2-ru;ArkhangelskayaOblast"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-2-ru;ArkhangelskayaOblast"/>
-      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ru;"/>
-   </owl:NamedIndividual>
-
-
-
-  <!--
-    ///////////////////////////////////////////////////////////////////////////////////////
-    //
-    // Čečenskaja Respublika
-    //
-    ///////////////////////////////////////////////////////////////////////////////////////
-    -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-ru;CecenskajaRespublika">
-      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>Čečenskaja Respublika</rdfs:label>
-      <skos:definition>The republic of Čečenskaja Respublika in the country of Russian Federation (the)</skos:definition>
-      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;RussianFederation"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ru">Čečenskaja Respublika</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ru">Chechenskaya Respublika</lcc-cr:hasLocalShortName>
-      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ru;Republic"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ru;"/>
-   </owl:NamedIndividual>
-
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-ru;RU-CE">
-      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the republic of Čečenskaja Respublika in the country of Russian Federation (the)</skos:definition>
-      <rdfs:label>RU-CE</rdfs:label>
-      <lcc-lr:hasTag rdf:datatype="&xsd;string">RU-CE</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-2-ru;CecenskajaRespublika"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-2-ru;CecenskajaRespublika"/>
-      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ru;"/>
-   </owl:NamedIndividual>
-
-
-
-  <!--
-    ///////////////////////////////////////////////////////////////////////////////////////
-    //
-    // Kabardino-Balkarskaya Respublika
-    //
-    ///////////////////////////////////////////////////////////////////////////////////////
-    -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-ru;Kabardino-BalkarskayaRespublika">
-      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>Kabardino-Balkarskaya Respublika</rdfs:label>
-      <skos:definition>The republic of Kabardino-Balkarskaya Respublika in the country of Russian Federation (the)</skos:definition>
-      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;RussianFederation"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ru">Kabardino-Balkarskaya Respublika</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ru">Kabardino-Balkarskaja Respublika</lcc-cr:hasLocalShortName>
-      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ru;Republic"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ru;"/>
-   </owl:NamedIndividual>
-
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-ru;RU-KB">
-      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the republic of Kabardino-Balkarskaya Respublika in the country of Russian Federation (the)</skos:definition>
-      <rdfs:label>RU-KB</rdfs:label>
-      <lcc-lr:hasTag rdf:datatype="&xsd;string">RU-KB</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-2-ru;Kabardino-BalkarskayaRespublika"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-2-ru;Kabardino-BalkarskayaRespublika"/>
-      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ru;"/>
-   </owl:NamedIndividual>
-
-
-
-  <!--
-    ///////////////////////////////////////////////////////////////////////////////////////
-    //
-    // Kaliningradskaya oblast'
-    //
-    ///////////////////////////////////////////////////////////////////////////////////////
-    -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-ru;KaliningradskayaOblast">
-      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>Kaliningradskaya oblast'</rdfs:label>
-      <skos:definition>The administrative region of Kaliningradskaya oblast' in the country of Russian Federation (the)</skos:definition>
-      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;RussianFederation"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ru">Kaliningradskaya oblast'</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ru">Kaliningradskaja oblast'</lcc-cr:hasLocalShortName>
-      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ru;AdministrativeRegion"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ru;"/>
-   </owl:NamedIndividual>
-
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-ru;RU-KGD">
-      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the administrative region of Kaliningradskaya oblast' in the country of Russian Federation (the)</skos:definition>
-      <rdfs:label>RU-KGD</rdfs:label>
-      <lcc-lr:hasTag rdf:datatype="&xsd;string">RU-KGD</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-2-ru;KaliningradskayaOblast"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-2-ru;KaliningradskayaOblast"/>
-      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ru;"/>
-   </owl:NamedIndividual>
-
-
-
-  <!--
-    ///////////////////////////////////////////////////////////////////////////////////////
-    //
-    // Komi, Respublika
-    //
-    ///////////////////////////////////////////////////////////////////////////////////////
-    -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-ru;Komi">
-      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>Komi, Respublika</rdfs:label>
-      <skos:definition>The republic of Komi, Respublika in the country of Russian Federation (the)</skos:definition>
-      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;RussianFederation"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ru">Komi, Respublika</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ru">Komi, Respublika</lcc-cr:hasLocalShortName>
-      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ru;Republic"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ru;"/>
-   </owl:NamedIndividual>
-
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-ru;RU-KO">
-      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the republic of Komi, Respublika in the country of Russian Federation (the)</skos:definition>
-      <rdfs:label>RU-KO</rdfs:label>
-      <lcc-lr:hasTag rdf:datatype="&xsd;string">RU-KO</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-2-ru;Komi"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-2-ru;Komi"/>
-      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ru;"/>
-   </owl:NamedIndividual>
-
-
-
-  <!--
-    ///////////////////////////////////////////////////////////////////////////////////////
-    //
-    // Krasnojarskij kraj
-    //
-    ///////////////////////////////////////////////////////////////////////////////////////
-    -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-ru;KrasnojarskijKraj">
-      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>Krasnojarskij kraj</rdfs:label>
-      <skos:definition>The administrative territory of Krasnojarskij kraj in the country of Russian Federation (the)</skos:definition>
-      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;RussianFederation"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ru">Krasnojarskij kraj</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ru">Krasnoyarskiy kray</lcc-cr:hasLocalShortName>
-      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ru;AdministrativeTerritory"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ru;"/>
-   </owl:NamedIndividual>
-
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-ru;RU-KYA">
-      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the administrative territory of Krasnojarskij kraj in the country of Russian Federation (the)</skos:definition>
-      <rdfs:label>RU-KYA</rdfs:label>
-      <lcc-lr:hasTag rdf:datatype="&xsd;string">RU-KYA</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-2-ru;KrasnojarskijKraj"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-2-ru;KrasnojarskijKraj"/>
-      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ru;"/>
-   </owl:NamedIndividual>
-
-
-
-  <!--
-    ///////////////////////////////////////////////////////////////////////////////////////
-    //
-    // Nenetskiy avtonomnyy okrug
-    //
-    ///////////////////////////////////////////////////////////////////////////////////////
-    -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-ru;NenetskiyAvtonomnyyOkrug">
-      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>Nenetskiy avtonomnyy okrug</rdfs:label>
-      <skos:definition>The autonomous district of Nenetskiy avtonomnyy okrug in the country of Russian Federation (the)</skos:definition>
-      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;RussianFederation"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ru">Nenetskiy avtonomnyy okrug</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ru">Neneckij avtonomnyj okrug</lcc-cr:hasLocalShortName>
-      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ru;AutonomousDistrict"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ru;"/>
-   </owl:NamedIndividual>
-
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-ru;RU-NEN">
-      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the autonomous district of Nenetskiy avtonomnyy okrug in the country of Russian Federation (the)</skos:definition>
-      <rdfs:label>RU-NEN</rdfs:label>
-      <lcc-lr:hasTag rdf:datatype="&xsd;string">RU-NEN</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-2-ru;NenetskiyAvtonomnyyOkrug"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-2-ru;NenetskiyAvtonomnyyOkrug"/>
-      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ru;"/>
-   </owl:NamedIndividual>
-
-
-
-  <!--
-    ///////////////////////////////////////////////////////////////////////////////////////
-    //
-    // Primorskij kraj
-    //
-    ///////////////////////////////////////////////////////////////////////////////////////
-    -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-ru;PrimorskijKraj">
-      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>Primorskij kraj</rdfs:label>
-      <skos:definition>The administrative territory of Primorskij kraj in the country of Russian Federation (the)</skos:definition>
-      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;RussianFederation"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ur">Primorskij kraj</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ru">Primorskiy kray</lcc-cr:hasLocalShortName>
-      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ru;AdministrativeTerritory"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ru;"/>
-   </owl:NamedIndividual>
-
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-ru;RU-PRI">
-      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the administrative territory of Primorskij kraj in the country of Russian Federation (the)</skos:definition>
-      <rdfs:label>RU-PRI</rdfs:label>
-      <lcc-lr:hasTag rdf:datatype="&xsd;string">RU-PRI</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-2-ru;PrimorskijKraj"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-2-ru;PrimorskijKraj"/>
-      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ru;"/>
-   </owl:NamedIndividual>
-
-
-
-  <!--
-    ///////////////////////////////////////////////////////////////////////////////////////
-    //
-    // Rostovskaja oblast'
-    //
-    ///////////////////////////////////////////////////////////////////////////////////////
-    -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-ru;RostovskajaOblast">
-      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>Rostovskaja oblast'</rdfs:label>
-      <skos:definition>The administrative region of Rostovskaja oblast' in the country of Russian Federation (the)</skos:definition>
-      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;RussianFederation"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ur">Rostovskaja oblast'</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ru">Rostovskaya oblast'</lcc-cr:hasLocalShortName>
-      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ru;AdministrativeRegion"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ru;"/>
-   </owl:NamedIndividual>
-
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-ru;RU-ROS">
-      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the administrative region of Rostovskaja oblast' in the country of Russian Federation (the)</skos:definition>
-      <rdfs:label>RU-ROS</rdfs:label>
-      <lcc-lr:hasTag rdf:datatype="&xsd;string">RU-ROS</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-2-ru;RostovskajaOblast"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-2-ru;RostovskajaOblast"/>
-      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ru;"/>
-   </owl:NamedIndividual>
-
-
-
-  <!--
-    ///////////////////////////////////////////////////////////////////////////////////////
-    //
-    // Saratovskaya oblast'
-    //
-    ///////////////////////////////////////////////////////////////////////////////////////
-    -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-ru;SaratovskayaOblast">
-      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>Saratovskaya oblast'</rdfs:label>
-      <skos:definition>The administrative region of Saratovskaya oblast' in the country of Russian Federation (the)</skos:definition>
-      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;RussianFederation"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ru">Saratovskaya oblast'</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ru">Saratovskaja oblast'</lcc-cr:hasLocalShortName>
-      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ru;AdministrativeRegion"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ru;"/>
-   </owl:NamedIndividual>
-
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-ru;RU-SAR">
-      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the administrative region of Saratovskaya oblast' in the country of Russian Federation (the)</skos:definition>
-      <rdfs:label>RU-SAR</rdfs:label>
-      <lcc-lr:hasTag rdf:datatype="&xsd;string">RU-SAR</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-2-ru;SaratovskayaOblast"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-2-ru;SaratovskayaOblast"/>
-      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ru;"/>
-   </owl:NamedIndividual>
-
-
-
-  <!--
-    ///////////////////////////////////////////////////////////////////////////////////////
-    //
-    // Severnaya Osetiya, Respublika
-    //
-    ///////////////////////////////////////////////////////////////////////////////////////
-    -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-ru;SevernayaOsetiya">
-      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>Severnaya Osetiya, Respublika</rdfs:label>
-      <skos:definition>The republic of Severnaya Osetiya, Respublika in the country of Russian Federation (the)</skos:definition>
-      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;RussianFederation"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ru">Severnaya Osetiya, Respublika</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ru">Severnaja Osetija, Respublika</lcc-cr:hasLocalShortName>
-      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ru;Republic"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ru;"/>
-   </owl:NamedIndividual>
-
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-ru;RU-SE">
-      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the republic of Severnaya Osetiya, Respublika in the country of Russian Federation (the)</skos:definition>
-      <rdfs:label>RU-SE</rdfs:label>
-      <lcc-lr:hasTag rdf:datatype="&xsd;string">RU-SE</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-2-ru;SevernayaOsetiya"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-2-ru;SevernayaOsetiya"/>
-      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ru;"/>
-   </owl:NamedIndividual>
-
-
-
-  <!--
-    ///////////////////////////////////////////////////////////////////////////////////////
-    //
-    // Sankt-Peterburg
-    //
-    ///////////////////////////////////////////////////////////////////////////////////////
-    -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-ru;Sankt-Peterburg">
-      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>Sankt-Peterburg</rdfs:label>
-      <skos:definition>The autonomous city of Sankt-Peterburg in the country of Russian Federation (the)</skos:definition>
-      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;RussianFederation"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ru">Sankt-Peterburg</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ru">Sankt-Peterburg</lcc-cr:hasLocalShortName>
-      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ru;AutonomousCity"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ru;"/>
-   </owl:NamedIndividual>
-
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-ru;RU-SPE">
-      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the autonomous city of Sankt-Peterburg in the country of Russian Federation (the)</skos:definition>
-      <rdfs:label>RU-SPE</rdfs:label>
-      <lcc-lr:hasTag rdf:datatype="&xsd;string">RU-SPE</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-2-ru;Sankt-Peterburg"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-2-ru;Sankt-Peterburg"/>
-      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ru;"/>
-   </owl:NamedIndividual>
-
 
 
   <!--
@@ -2705,6 +2271,440 @@
   <!--
     ///////////////////////////////////////////////////////////////////////////////////////
     //
+    // Volgogradskaja oblast'
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+    -->
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-ru;VolgogradskajaOblast">
+      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
+      <rdfs:label>Volgogradskaja oblast'</rdfs:label>
+      <skos:definition>The administrative region of Volgogradskaja oblast' in the country of Russian Federation (the)</skos:definition>
+      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;RussianFederation"/>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ru">Volgogradskaja oblast'</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ru">Volgogradskaya oblast'</lcc-cr:hasLocalShortName>
+      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ru;AdministrativeRegion"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ru;"/>
+   </owl:NamedIndividual>
+
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-ru;RU-VGG">
+      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
+      <skos:definition>subdivision code for the administrative region of Volgogradskaja oblast' in the country of Russian Federation (the)</skos:definition>
+      <rdfs:label>RU-VGG</rdfs:label>
+      <lcc-lr:hasTag rdf:datatype="&xsd;string">RU-VGG</lcc-lr:hasTag>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-ru;VolgogradskajaOblast"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-ru;VolgogradskajaOblast"/>
+      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ru;"/>
+   </owl:NamedIndividual>
+
+
+
+  <!--
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Altaj, Respublika
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+    -->
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-ru;Altaj">
+      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
+      <rdfs:label>Altaj, Respublika</rdfs:label>
+      <skos:definition>The republic of Altaj, Respublika in the country of Russian Federation (the)</skos:definition>
+      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;RussianFederation"/>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ru">Altaj, Respublika</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ru">Altay, Respublika</lcc-cr:hasLocalShortName>
+      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ru;Republic"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ru;"/>
+   </owl:NamedIndividual>
+
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-ru;RU-AL">
+      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
+      <skos:definition>subdivision code for the republic of Altaj, Respublika in the country of Russian Federation (the)</skos:definition>
+      <rdfs:label>RU-AL</rdfs:label>
+      <lcc-lr:hasTag rdf:datatype="&xsd;string">RU-AL</lcc-lr:hasTag>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-ru;Altaj"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-ru;Altaj"/>
+      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ru;"/>
+   </owl:NamedIndividual>
+
+
+
+  <!--
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Arkhangel'skaya oblast'
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+    -->
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-ru;ArkhangelskayaOblast">
+      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
+      <rdfs:label>Arkhangel'skaya oblast'</rdfs:label>
+      <skos:definition>The administrative region of Arkhangel'skaya oblast' in the country of Russian Federation (the)</skos:definition>
+      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;RussianFederation"/>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ru">Arkhangel'skaya oblast'</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ru">Arhangel'skaja oblast'</lcc-cr:hasLocalShortName>
+      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ru;AdministrativeRegion"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ru;"/>
+   </owl:NamedIndividual>
+
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-ru;RU-ARK">
+      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
+      <skos:definition>subdivision code for the administrative region of Arkhangel'skaya oblast' in the country of Russian Federation (the)</skos:definition>
+      <rdfs:label>RU-ARK</rdfs:label>
+      <lcc-lr:hasTag rdf:datatype="&xsd;string">RU-ARK</lcc-lr:hasTag>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-ru;ArkhangelskayaOblast"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-ru;ArkhangelskayaOblast"/>
+      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ru;"/>
+   </owl:NamedIndividual>
+
+
+
+  <!--
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Čečenskaja Respublika
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+    -->
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-ru;CecenskajaRespublika">
+      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
+      <rdfs:label>Čečenskaja Respublika</rdfs:label>
+      <skos:definition>The republic of Čečenskaja Respublika in the country of Russian Federation (the)</skos:definition>
+      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;RussianFederation"/>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ru">Čečenskaja Respublika</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ru">Chechenskaya Respublika</lcc-cr:hasLocalShortName>
+      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ru;Republic"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ru;"/>
+   </owl:NamedIndividual>
+
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-ru;RU-CE">
+      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
+      <skos:definition>subdivision code for the republic of Čečenskaja Respublika in the country of Russian Federation (the)</skos:definition>
+      <rdfs:label>RU-CE</rdfs:label>
+      <lcc-lr:hasTag rdf:datatype="&xsd;string">RU-CE</lcc-lr:hasTag>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-ru;CecenskajaRespublika"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-ru;CecenskajaRespublika"/>
+      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ru;"/>
+   </owl:NamedIndividual>
+
+
+
+  <!--
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Kabardino-Balkarskaya Respublika
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+    -->
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-ru;Kabardino-BalkarskayaRespublika">
+      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
+      <rdfs:label>Kabardino-Balkarskaya Respublika</rdfs:label>
+      <skos:definition>The republic of Kabardino-Balkarskaya Respublika in the country of Russian Federation (the)</skos:definition>
+      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;RussianFederation"/>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ru">Kabardino-Balkarskaya Respublika</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ru">Kabardino-Balkarskaja Respublika</lcc-cr:hasLocalShortName>
+      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ru;Republic"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ru;"/>
+   </owl:NamedIndividual>
+
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-ru;RU-KB">
+      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
+      <skos:definition>subdivision code for the republic of Kabardino-Balkarskaya Respublika in the country of Russian Federation (the)</skos:definition>
+      <rdfs:label>RU-KB</rdfs:label>
+      <lcc-lr:hasTag rdf:datatype="&xsd;string">RU-KB</lcc-lr:hasTag>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-ru;Kabardino-BalkarskayaRespublika"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-ru;Kabardino-BalkarskayaRespublika"/>
+      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ru;"/>
+   </owl:NamedIndividual>
+
+
+
+  <!--
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Kaliningradskaya oblast'
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+    -->
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-ru;KaliningradskayaOblast">
+      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
+      <rdfs:label>Kaliningradskaya oblast'</rdfs:label>
+      <skos:definition>The administrative region of Kaliningradskaya oblast' in the country of Russian Federation (the)</skos:definition>
+      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;RussianFederation"/>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ru">Kaliningradskaya oblast'</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ru">Kaliningradskaja oblast'</lcc-cr:hasLocalShortName>
+      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ru;AdministrativeRegion"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ru;"/>
+   </owl:NamedIndividual>
+
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-ru;RU-KGD">
+      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
+      <skos:definition>subdivision code for the administrative region of Kaliningradskaya oblast' in the country of Russian Federation (the)</skos:definition>
+      <rdfs:label>RU-KGD</rdfs:label>
+      <lcc-lr:hasTag rdf:datatype="&xsd;string">RU-KGD</lcc-lr:hasTag>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-ru;KaliningradskayaOblast"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-ru;KaliningradskayaOblast"/>
+      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ru;"/>
+   </owl:NamedIndividual>
+
+
+
+  <!--
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Komi, Respublika
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+    -->
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-ru;Komi">
+      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
+      <rdfs:label>Komi, Respublika</rdfs:label>
+      <skos:definition>The republic of Komi, Respublika in the country of Russian Federation (the)</skos:definition>
+      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;RussianFederation"/>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ru">Komi, Respublika</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ru">Komi, Respublika</lcc-cr:hasLocalShortName>
+      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ru;Republic"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ru;"/>
+   </owl:NamedIndividual>
+
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-ru;RU-KO">
+      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
+      <skos:definition>subdivision code for the republic of Komi, Respublika in the country of Russian Federation (the)</skos:definition>
+      <rdfs:label>RU-KO</rdfs:label>
+      <lcc-lr:hasTag rdf:datatype="&xsd;string">RU-KO</lcc-lr:hasTag>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-ru;Komi"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-ru;Komi"/>
+      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ru;"/>
+   </owl:NamedIndividual>
+
+
+
+  <!--
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Krasnojarskij kraj
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+    -->
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-ru;KrasnojarskijKraj">
+      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
+      <rdfs:label>Krasnojarskij kraj</rdfs:label>
+      <skos:definition>The administrative territory of Krasnojarskij kraj in the country of Russian Federation (the)</skos:definition>
+      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;RussianFederation"/>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ru">Krasnojarskij kraj</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ru">Krasnoyarskiy kray</lcc-cr:hasLocalShortName>
+      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ru;AdministrativeTerritory"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ru;"/>
+   </owl:NamedIndividual>
+
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-ru;RU-KYA">
+      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
+      <skos:definition>subdivision code for the administrative territory of Krasnojarskij kraj in the country of Russian Federation (the)</skos:definition>
+      <rdfs:label>RU-KYA</rdfs:label>
+      <lcc-lr:hasTag rdf:datatype="&xsd;string">RU-KYA</lcc-lr:hasTag>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-ru;KrasnojarskijKraj"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-ru;KrasnojarskijKraj"/>
+      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ru;"/>
+   </owl:NamedIndividual>
+
+
+
+  <!--
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Nenetskiy avtonomnyy okrug
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+    -->
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-ru;NenetskiyAvtonomnyyOkrug">
+      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
+      <rdfs:label>Nenetskiy avtonomnyy okrug</rdfs:label>
+      <skos:definition>The autonomous district of Nenetskiy avtonomnyy okrug in the country of Russian Federation (the)</skos:definition>
+      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;RussianFederation"/>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ru">Nenetskiy avtonomnyy okrug</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ru">Neneckij avtonomnyj okrug</lcc-cr:hasLocalShortName>
+      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ru;AutonomousDistrict"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ru;"/>
+   </owl:NamedIndividual>
+
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-ru;RU-NEN">
+      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
+      <skos:definition>subdivision code for the autonomous district of Nenetskiy avtonomnyy okrug in the country of Russian Federation (the)</skos:definition>
+      <rdfs:label>RU-NEN</rdfs:label>
+      <lcc-lr:hasTag rdf:datatype="&xsd;string">RU-NEN</lcc-lr:hasTag>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-ru;NenetskiyAvtonomnyyOkrug"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-ru;NenetskiyAvtonomnyyOkrug"/>
+      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ru;"/>
+   </owl:NamedIndividual>
+
+
+
+  <!--
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Primorskij kraj
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+    -->
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-ru;PrimorskijKraj">
+      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
+      <rdfs:label>Primorskij kraj</rdfs:label>
+      <skos:definition>The administrative territory of Primorskij kraj in the country of Russian Federation (the)</skos:definition>
+      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;RussianFederation"/>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ur">Primorskij kraj</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ru">Primorskiy kray</lcc-cr:hasLocalShortName>
+      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ru;AdministrativeTerritory"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ru;"/>
+   </owl:NamedIndividual>
+
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-ru;RU-PRI">
+      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
+      <skos:definition>subdivision code for the administrative territory of Primorskij kraj in the country of Russian Federation (the)</skos:definition>
+      <rdfs:label>RU-PRI</rdfs:label>
+      <lcc-lr:hasTag rdf:datatype="&xsd;string">RU-PRI</lcc-lr:hasTag>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-ru;PrimorskijKraj"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-ru;PrimorskijKraj"/>
+      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ru;"/>
+   </owl:NamedIndividual>
+
+
+
+  <!--
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Rostovskaja oblast'
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+    -->
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-ru;RostovskajaOblast">
+      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
+      <rdfs:label>Rostovskaja oblast'</rdfs:label>
+      <skos:definition>The administrative region of Rostovskaja oblast' in the country of Russian Federation (the)</skos:definition>
+      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;RussianFederation"/>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ur">Rostovskaja oblast'</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ru">Rostovskaya oblast'</lcc-cr:hasLocalShortName>
+      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ru;AdministrativeRegion"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ru;"/>
+   </owl:NamedIndividual>
+
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-ru;RU-ROS">
+      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
+      <skos:definition>subdivision code for the administrative region of Rostovskaja oblast' in the country of Russian Federation (the)</skos:definition>
+      <rdfs:label>RU-ROS</rdfs:label>
+      <lcc-lr:hasTag rdf:datatype="&xsd;string">RU-ROS</lcc-lr:hasTag>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-ru;RostovskajaOblast"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-ru;RostovskajaOblast"/>
+      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ru;"/>
+   </owl:NamedIndividual>
+
+
+
+  <!--
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Saratovskaya oblast'
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+    -->
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-ru;SaratovskayaOblast">
+      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
+      <rdfs:label>Saratovskaya oblast'</rdfs:label>
+      <skos:definition>The administrative region of Saratovskaya oblast' in the country of Russian Federation (the)</skos:definition>
+      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;RussianFederation"/>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ru">Saratovskaya oblast'</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ru">Saratovskaja oblast'</lcc-cr:hasLocalShortName>
+      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ru;AdministrativeRegion"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ru;"/>
+   </owl:NamedIndividual>
+
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-ru;RU-SAR">
+      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
+      <skos:definition>subdivision code for the administrative region of Saratovskaya oblast' in the country of Russian Federation (the)</skos:definition>
+      <rdfs:label>RU-SAR</rdfs:label>
+      <lcc-lr:hasTag rdf:datatype="&xsd;string">RU-SAR</lcc-lr:hasTag>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-ru;SaratovskayaOblast"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-ru;SaratovskayaOblast"/>
+      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ru;"/>
+   </owl:NamedIndividual>
+
+
+
+  <!--
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Severnaya Osetiya, Respublika
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+    -->
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-ru;SevernayaOsetiya">
+      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
+      <rdfs:label>Severnaya Osetiya, Respublika</rdfs:label>
+      <skos:definition>The republic of Severnaya Osetiya, Respublika in the country of Russian Federation (the)</skos:definition>
+      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;RussianFederation"/>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ru">Severnaya Osetiya, Respublika</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ru">Severnaja Osetija, Respublika</lcc-cr:hasLocalShortName>
+      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ru;Republic"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ru;"/>
+   </owl:NamedIndividual>
+
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-ru;RU-SE">
+      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
+      <skos:definition>subdivision code for the republic of Severnaya Osetiya, Respublika in the country of Russian Federation (the)</skos:definition>
+      <rdfs:label>RU-SE</rdfs:label>
+      <lcc-lr:hasTag rdf:datatype="&xsd;string">RU-SE</lcc-lr:hasTag>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-ru;SevernayaOsetiya"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-ru;SevernayaOsetiya"/>
+      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ru;"/>
+   </owl:NamedIndividual>
+
+
+
+  <!--
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Sankt-Peterburg
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+    -->
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-ru;Sankt-Peterburg">
+      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
+      <rdfs:label>Sankt-Peterburg</rdfs:label>
+      <skos:definition>The autonomous city of Sankt-Peterburg in the country of Russian Federation (the)</skos:definition>
+      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;RussianFederation"/>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ru">Sankt-Peterburg</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ru">Sankt-Peterburg</lcc-cr:hasLocalShortName>
+      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ru;AutonomousCity"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ru;"/>
+   </owl:NamedIndividual>
+
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-ru;RU-SPE">
+      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
+      <skos:definition>subdivision code for the autonomous city of Sankt-Peterburg in the country of Russian Federation (the)</skos:definition>
+      <rdfs:label>RU-SPE</rdfs:label>
+      <lcc-lr:hasTag rdf:datatype="&xsd;string">RU-SPE</lcc-lr:hasTag>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-ru;Sankt-Peterburg"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-ru;Sankt-Peterburg"/>
+      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ru;"/>
+   </owl:NamedIndividual>
+
+
+
+  <!--
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
     // Kaliningrad Region
     //
     ///////////////////////////////////////////////////////////////////////////////////////
@@ -2714,8 +2714,8 @@
       <rdfs:label>Kaliningrad Region</rdfs:label>
       <skos:definition>The territory of Kaliningrad Region in the country of Russian Federation (the)</skos:definition>
       <lcc-cr:hasNumericRegionCode rdf:datatype="&xsd;string">1095</lcc-cr:hasNumericRegionCode>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Kaliningrad Region</lcc-cr:hasEnglishShortName>
       <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">la Région de Kaliningrad</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Kaliningrad Region</lcc-cr:hasEnglishShortName>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;RussianFederation"/>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2;Territory"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ru;"/>

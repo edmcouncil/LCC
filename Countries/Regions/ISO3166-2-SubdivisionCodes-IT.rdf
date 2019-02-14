@@ -36,9 +36,9 @@
 
       <!-- Curation and Rights Metadata for the LCC ISO 3166-2 Subdivision Codes for Italy Ontology -->
 
-      <sm:copyright rdf:datatype="&xsd;string">Copyright (c) 2015-2017 Object Management Group, Inc.
-          Copyright (c) 2015-2017 Adaptive Inc.
-          Copyright (c) 2015-2017 Thematix Partners LLC
+      <sm:copyright rdf:datatype="&xsd;string">Copyright (c) 2015-2019 Object Management Group, Inc.
+          Copyright (c) 2015-2019 Adaptive Inc.
+          Copyright (c) 2015-2019 Thematix Partners LLC
           Copyright (c) 2015-2017 Unisys
         </sm:copyright>
       <dct:license rdf:resource="&sm;MITLicense"/>
@@ -47,9 +47,9 @@
 
       <sm:filename rdf:datatype="&xsd;string">ISO3166-2-SubdivisionCodes-IT.rdf</sm:filename>
       <sm:fileAbbreviation rdf:datatype="&xsd;string">lcc-3166-2-it</sm:fileAbbreviation>
-      <owl:versionIRI rdf:resource="http://www.omg.org/spec/LCC/20170801/Countries/Regions/ISO3166-2-SubdivisionCodes-IT/"/>
+      <owl:versionIRI rdf:resource="http://www.omg.org/spec/LCC/20190301/Countries/Regions/ISO3166-2-SubdivisionCodes-IT/"/>
       <sm:fileAbstract rdf:datatype="&xsd;string">This ontology represents the subset of the ISO 3166 standard that includes the actual ISO 3166-2 subdivision codes for Italy, with the ontology and codes for the other parts of the standard represented in models that this ontology depends on.</sm:fileAbstract>
-      <dct:issued rdf:datatype="&xsd;dateTime">2017-07-20T22:26:02.631805+02:00</dct:issued>
+      <dct:issued rdf:datatype="&xsd;dateTime">2019-02-14T00:48:51.124818+01:00</dct:issued>
 
       <sm:dependsOn rdf:datatype="&xsd;anyURI">http://www.omg.org/spec/LCC/Languages/LanguageRepresentation/</sm:dependsOn>
       <sm:dependsOn rdf:datatype="&xsd;anyURI">http://www.omg.org/spec/LCC/Countries/CountryRepresentation/</sm:dependsOn>
@@ -132,36 +132,6 @@
   <!--
     ///////////////////////////////////////////////////////////////////////////////////////
     //
-    // Campobasso
-    //
-    ///////////////////////////////////////////////////////////////////////////////////////
-    -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-it;Campobasso">
-      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>Campobasso</rdfs:label>
-      <skos:definition>The province of Campobasso in the country of Italy</skos:definition>
-      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-it;Molise"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="it">Campobasso</lcc-cr:hasLocalShortName>
-      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-it;Province"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-it;"/>
-   </owl:NamedIndividual>
-
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-it;IT-CB">
-      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the province of Campobasso in the country of Italy</skos:definition>
-      <rdfs:label>IT-CB</rdfs:label>
-      <lcc-lr:hasTag rdf:datatype="&xsd;string">IT-CB</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-2-it;Campobasso"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-2-it;Campobasso"/>
-      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-it;"/>
-   </owl:NamedIndividual>
-
-
-
-  <!--
-    ///////////////////////////////////////////////////////////////////////////////////////
-    //
     // Isernia
     //
     ///////////////////////////////////////////////////////////////////////////////////////
@@ -183,6 +153,36 @@
       <lcc-lr:hasTag rdf:datatype="&xsd;string">IT-IS</lcc-lr:hasTag>
       <lcc-lr:denotes rdf:resource="&lcc-3166-2-it;Isernia"/>
       <lcc-lr:identifies rdf:resource="&lcc-3166-2-it;Isernia"/>
+      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-it;"/>
+   </owl:NamedIndividual>
+
+
+
+  <!--
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Campobasso
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+    -->
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-it;Campobasso">
+      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
+      <rdfs:label>Campobasso</rdfs:label>
+      <skos:definition>The province of Campobasso in the country of Italy</skos:definition>
+      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-it;Molise"/>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="it">Campobasso</lcc-cr:hasLocalShortName>
+      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-it;Province"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-it;"/>
+   </owl:NamedIndividual>
+
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-it;IT-CB">
+      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
+      <skos:definition>subdivision code for the province of Campobasso in the country of Italy</skos:definition>
+      <rdfs:label>IT-CB</rdfs:label>
+      <lcc-lr:hasTag rdf:datatype="&xsd;string">IT-CB</lcc-lr:hasTag>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-it;Campobasso"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-it;Campobasso"/>
       <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-it;"/>
    </owl:NamedIndividual>
@@ -280,6 +280,66 @@
       <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-it;"/>
    </owl:NamedIndividual>
+
+  <!--
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Cremona
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+    -->
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-it;Cremona">
+      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
+      <rdfs:label>Cremona</rdfs:label>
+      <skos:definition>The province of Cremona in the country of Italy</skos:definition>
+      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-it;Lombardia"/>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="it">Cremona</lcc-cr:hasLocalShortName>
+      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-it;Province"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-it;"/>
+   </owl:NamedIndividual>
+
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-it;IT-CR">
+      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
+      <skos:definition>subdivision code for the province of Cremona in the country of Italy</skos:definition>
+      <rdfs:label>IT-CR</rdfs:label>
+      <lcc-lr:hasTag rdf:datatype="&xsd;string">IT-CR</lcc-lr:hasTag>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-it;Cremona"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-it;Cremona"/>
+      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-it;"/>
+   </owl:NamedIndividual>
+
+
+
+  <!--
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Lecco
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+    -->
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-it;Lecco">
+      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
+      <rdfs:label>Lecco</rdfs:label>
+      <skos:definition>The province of Lecco in the country of Italy</skos:definition>
+      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-it;Lombardia"/>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="it">Lecco</lcc-cr:hasLocalShortName>
+      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-it;Province"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-it;"/>
+   </owl:NamedIndividual>
+
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-it;IT-LC">
+      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
+      <skos:definition>subdivision code for the province of Lecco in the country of Italy</skos:definition>
+      <rdfs:label>IT-LC</rdfs:label>
+      <lcc-lr:hasTag rdf:datatype="&xsd;string">IT-LC</lcc-lr:hasTag>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-it;Lecco"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-it;Lecco"/>
+      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-it;"/>
+   </owl:NamedIndividual>
+
+
 
   <!--
     ///////////////////////////////////////////////////////////////////////////////////////
@@ -575,66 +635,6 @@
       <lcc-lr:hasTag rdf:datatype="&xsd;string">IT-MB</lcc-lr:hasTag>
       <lcc-lr:denotes rdf:resource="&lcc-3166-2-it;MonzaEBrianza"/>
       <lcc-lr:identifies rdf:resource="&lcc-3166-2-it;MonzaEBrianza"/>
-      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-it;"/>
-   </owl:NamedIndividual>
-
-
-
-  <!--
-    ///////////////////////////////////////////////////////////////////////////////////////
-    //
-    // Cremona
-    //
-    ///////////////////////////////////////////////////////////////////////////////////////
-    -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-it;Cremona">
-      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>Cremona</rdfs:label>
-      <skos:definition>The province of Cremona in the country of Italy</skos:definition>
-      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-it;Lombardia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="it">Cremona</lcc-cr:hasLocalShortName>
-      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-it;Province"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-it;"/>
-   </owl:NamedIndividual>
-
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-it;IT-CR">
-      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the province of Cremona in the country of Italy</skos:definition>
-      <rdfs:label>IT-CR</rdfs:label>
-      <lcc-lr:hasTag rdf:datatype="&xsd;string">IT-CR</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-2-it;Cremona"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-2-it;Cremona"/>
-      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-it;"/>
-   </owl:NamedIndividual>
-
-
-
-  <!--
-    ///////////////////////////////////////////////////////////////////////////////////////
-    //
-    // Lecco
-    //
-    ///////////////////////////////////////////////////////////////////////////////////////
-    -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-it;Lecco">
-      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>Lecco</rdfs:label>
-      <skos:definition>The province of Lecco in the country of Italy</skos:definition>
-      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-it;Lombardia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="it">Lecco</lcc-cr:hasLocalShortName>
-      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-it;Province"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-it;"/>
-   </owl:NamedIndividual>
-
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-it;IT-LC">
-      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the province of Lecco in the country of Italy</skos:definition>
-      <rdfs:label>IT-LC</rdfs:label>
-      <lcc-lr:hasTag rdf:datatype="&xsd;string">IT-LC</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-2-it;Lecco"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-2-it;Lecco"/>
       <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-it;"/>
    </owl:NamedIndividual>
@@ -1214,6 +1214,126 @@
   <!--
     ///////////////////////////////////////////////////////////////////////////////////////
     //
+    // Forlì-Cesena
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+    -->
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-it;Forli-Cesena">
+      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
+      <rdfs:label>Forlì-Cesena</rdfs:label>
+      <skos:definition>The province of Forlì-Cesena in the country of Italy</skos:definition>
+      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-it;Emilia-Romagna"/>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="it">Forlì-Cesena</lcc-cr:hasLocalShortName>
+      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-it;Province"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-it;"/>
+   </owl:NamedIndividual>
+
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-it;IT-FC">
+      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
+      <skos:definition>subdivision code for the province of Forlì-Cesena in the country of Italy</skos:definition>
+      <rdfs:label>IT-FC</rdfs:label>
+      <lcc-lr:hasTag rdf:datatype="&xsd;string">IT-FC</lcc-lr:hasTag>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-it;Forli-Cesena"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-it;Forli-Cesena"/>
+      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-it;"/>
+   </owl:NamedIndividual>
+
+
+
+  <!--
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Ferrara
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+    -->
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-it;Ferrara">
+      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
+      <rdfs:label>Ferrara</rdfs:label>
+      <skos:definition>The province of Ferrara in the country of Italy</skos:definition>
+      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-it;Emilia-Romagna"/>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="it">Ferrara</lcc-cr:hasLocalShortName>
+      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-it;Province"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-it;"/>
+   </owl:NamedIndividual>
+
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-it;IT-FE">
+      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
+      <skos:definition>subdivision code for the province of Ferrara in the country of Italy</skos:definition>
+      <rdfs:label>IT-FE</rdfs:label>
+      <lcc-lr:hasTag rdf:datatype="&xsd;string">IT-FE</lcc-lr:hasTag>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-it;Ferrara"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-it;Ferrara"/>
+      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-it;"/>
+   </owl:NamedIndividual>
+
+
+
+  <!--
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Piacenza
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+    -->
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-it;Piacenza">
+      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
+      <rdfs:label>Piacenza</rdfs:label>
+      <skos:definition>The province of Piacenza in the country of Italy</skos:definition>
+      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-it;Emilia-Romagna"/>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="it">Piacenza</lcc-cr:hasLocalShortName>
+      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-it;Province"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-it;"/>
+   </owl:NamedIndividual>
+
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-it;IT-PC">
+      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
+      <skos:definition>subdivision code for the province of Piacenza in the country of Italy</skos:definition>
+      <rdfs:label>IT-PC</rdfs:label>
+      <lcc-lr:hasTag rdf:datatype="&xsd;string">IT-PC</lcc-lr:hasTag>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-it;Piacenza"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-it;Piacenza"/>
+      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-it;"/>
+   </owl:NamedIndividual>
+
+
+
+  <!--
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Ravenna
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+    -->
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-it;Ravenna">
+      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
+      <rdfs:label>Ravenna</rdfs:label>
+      <skos:definition>The province of Ravenna in the country of Italy</skos:definition>
+      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-it;Emilia-Romagna"/>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="it">Ravenna</lcc-cr:hasLocalShortName>
+      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-it;Province"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-it;"/>
+   </owl:NamedIndividual>
+
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-it;IT-RA">
+      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
+      <skos:definition>subdivision code for the province of Ravenna in the country of Italy</skos:definition>
+      <rdfs:label>IT-RA</rdfs:label>
+      <lcc-lr:hasTag rdf:datatype="&xsd;string">IT-RA</lcc-lr:hasTag>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-it;Ravenna"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-it;Ravenna"/>
+      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-it;"/>
+   </owl:NamedIndividual>
+
+
+
+  <!--
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
     // Bologna
     //
     ///////////////////////////////////////////////////////////////////////////////////////
@@ -1361,126 +1481,6 @@
 
 
 
-  <!--
-    ///////////////////////////////////////////////////////////////////////////////////////
-    //
-    // Forlì-Cesena
-    //
-    ///////////////////////////////////////////////////////////////////////////////////////
-    -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-it;Forli-Cesena">
-      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>Forlì-Cesena</rdfs:label>
-      <skos:definition>The province of Forlì-Cesena in the country of Italy</skos:definition>
-      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-it;Emilia-Romagna"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="it">Forlì-Cesena</lcc-cr:hasLocalShortName>
-      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-it;Province"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-it;"/>
-   </owl:NamedIndividual>
-
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-it;IT-FC">
-      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the province of Forlì-Cesena in the country of Italy</skos:definition>
-      <rdfs:label>IT-FC</rdfs:label>
-      <lcc-lr:hasTag rdf:datatype="&xsd;string">IT-FC</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-2-it;Forli-Cesena"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-2-it;Forli-Cesena"/>
-      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-it;"/>
-   </owl:NamedIndividual>
-
-
-
-  <!--
-    ///////////////////////////////////////////////////////////////////////////////////////
-    //
-    // Ferrara
-    //
-    ///////////////////////////////////////////////////////////////////////////////////////
-    -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-it;Ferrara">
-      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>Ferrara</rdfs:label>
-      <skos:definition>The province of Ferrara in the country of Italy</skos:definition>
-      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-it;Emilia-Romagna"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="it">Ferrara</lcc-cr:hasLocalShortName>
-      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-it;Province"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-it;"/>
-   </owl:NamedIndividual>
-
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-it;IT-FE">
-      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the province of Ferrara in the country of Italy</skos:definition>
-      <rdfs:label>IT-FE</rdfs:label>
-      <lcc-lr:hasTag rdf:datatype="&xsd;string">IT-FE</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-2-it;Ferrara"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-2-it;Ferrara"/>
-      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-it;"/>
-   </owl:NamedIndividual>
-
-
-
-  <!--
-    ///////////////////////////////////////////////////////////////////////////////////////
-    //
-    // Piacenza
-    //
-    ///////////////////////////////////////////////////////////////////////////////////////
-    -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-it;Piacenza">
-      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>Piacenza</rdfs:label>
-      <skos:definition>The province of Piacenza in the country of Italy</skos:definition>
-      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-it;Emilia-Romagna"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="it">Piacenza</lcc-cr:hasLocalShortName>
-      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-it;Province"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-it;"/>
-   </owl:NamedIndividual>
-
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-it;IT-PC">
-      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the province of Piacenza in the country of Italy</skos:definition>
-      <rdfs:label>IT-PC</rdfs:label>
-      <lcc-lr:hasTag rdf:datatype="&xsd;string">IT-PC</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-2-it;Piacenza"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-2-it;Piacenza"/>
-      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-it;"/>
-   </owl:NamedIndividual>
-
-
-
-  <!--
-    ///////////////////////////////////////////////////////////////////////////////////////
-    //
-    // Ravenna
-    //
-    ///////////////////////////////////////////////////////////////////////////////////////
-    -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-it;Ravenna">
-      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>Ravenna</rdfs:label>
-      <skos:definition>The province of Ravenna in the country of Italy</skos:definition>
-      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-it;Emilia-Romagna"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="it">Ravenna</lcc-cr:hasLocalShortName>
-      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-it;Province"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-it;"/>
-   </owl:NamedIndividual>
-
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-it;IT-RA">
-      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the province of Ravenna in the country of Italy</skos:definition>
-      <rdfs:label>IT-RA</rdfs:label>
-      <lcc-lr:hasTag rdf:datatype="&xsd;string">IT-RA</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-2-it;Ravenna"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-2-it;Ravenna"/>
-      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-it;"/>
-   </owl:NamedIndividual>
-
-
-
 
 
   <!--
@@ -1600,6 +1600,96 @@
       <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-it;"/>
    </owl:NamedIndividual>
+
+  <!--
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Agrigento
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+    -->
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-it;Agrigento">
+      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
+      <rdfs:label>Agrigento</rdfs:label>
+      <skos:definition>The province of Agrigento in the country of Italy</skos:definition>
+      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-it;Sicilia"/>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="it">Agrigento</lcc-cr:hasLocalShortName>
+      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-it;Province"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-it;"/>
+   </owl:NamedIndividual>
+
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-it;IT-AG">
+      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
+      <skos:definition>subdivision code for the province of Agrigento in the country of Italy</skos:definition>
+      <rdfs:label>IT-AG</rdfs:label>
+      <lcc-lr:hasTag rdf:datatype="&xsd;string">IT-AG</lcc-lr:hasTag>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-it;Agrigento"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-it;Agrigento"/>
+      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-it;"/>
+   </owl:NamedIndividual>
+
+
+
+  <!--
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Palermo
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+    -->
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-it;Palermo">
+      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
+      <rdfs:label>Palermo</rdfs:label>
+      <skos:definition>The province of Palermo in the country of Italy</skos:definition>
+      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-it;Sicilia"/>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="it">Palermo</lcc-cr:hasLocalShortName>
+      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-it;Province"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-it;"/>
+   </owl:NamedIndividual>
+
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-it;IT-PA">
+      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
+      <skos:definition>subdivision code for the province of Palermo in the country of Italy</skos:definition>
+      <rdfs:label>IT-PA</rdfs:label>
+      <lcc-lr:hasTag rdf:datatype="&xsd;string">IT-PA</lcc-lr:hasTag>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-it;Palermo"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-it;Palermo"/>
+      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-it;"/>
+   </owl:NamedIndividual>
+
+
+
+  <!--
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Trapani
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+    -->
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-it;Trapani">
+      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
+      <rdfs:label>Trapani</rdfs:label>
+      <skos:definition>The province of Trapani in the country of Italy</skos:definition>
+      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-it;Sicilia"/>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="it">Trapani</lcc-cr:hasLocalShortName>
+      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-it;Province"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-it;"/>
+   </owl:NamedIndividual>
+
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-it;IT-TP">
+      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
+      <skos:definition>subdivision code for the province of Trapani in the country of Italy</skos:definition>
+      <rdfs:label>IT-TP</rdfs:label>
+      <lcc-lr:hasTag rdf:datatype="&xsd;string">IT-TP</lcc-lr:hasTag>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-it;Trapani"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-it;Trapani"/>
+      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-it;"/>
+   </owl:NamedIndividual>
+
+
 
   <!--
     ///////////////////////////////////////////////////////////////////////////////////////
@@ -1781,96 +1871,6 @@
 
 
 
-  <!--
-    ///////////////////////////////////////////////////////////////////////////////////////
-    //
-    // Agrigento
-    //
-    ///////////////////////////////////////////////////////////////////////////////////////
-    -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-it;Agrigento">
-      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>Agrigento</rdfs:label>
-      <skos:definition>The province of Agrigento in the country of Italy</skos:definition>
-      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-it;Sicilia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="it">Agrigento</lcc-cr:hasLocalShortName>
-      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-it;Province"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-it;"/>
-   </owl:NamedIndividual>
-
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-it;IT-AG">
-      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the province of Agrigento in the country of Italy</skos:definition>
-      <rdfs:label>IT-AG</rdfs:label>
-      <lcc-lr:hasTag rdf:datatype="&xsd;string">IT-AG</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-2-it;Agrigento"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-2-it;Agrigento"/>
-      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-it;"/>
-   </owl:NamedIndividual>
-
-
-
-  <!--
-    ///////////////////////////////////////////////////////////////////////////////////////
-    //
-    // Palermo
-    //
-    ///////////////////////////////////////////////////////////////////////////////////////
-    -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-it;Palermo">
-      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>Palermo</rdfs:label>
-      <skos:definition>The province of Palermo in the country of Italy</skos:definition>
-      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-it;Sicilia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="it">Palermo</lcc-cr:hasLocalShortName>
-      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-it;Province"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-it;"/>
-   </owl:NamedIndividual>
-
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-it;IT-PA">
-      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the province of Palermo in the country of Italy</skos:definition>
-      <rdfs:label>IT-PA</rdfs:label>
-      <lcc-lr:hasTag rdf:datatype="&xsd;string">IT-PA</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-2-it;Palermo"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-2-it;Palermo"/>
-      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-it;"/>
-   </owl:NamedIndividual>
-
-
-
-  <!--
-    ///////////////////////////////////////////////////////////////////////////////////////
-    //
-    // Trapani
-    //
-    ///////////////////////////////////////////////////////////////////////////////////////
-    -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-it;Trapani">
-      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>Trapani</rdfs:label>
-      <skos:definition>The province of Trapani in the country of Italy</skos:definition>
-      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-it;Sicilia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="it">Trapani</lcc-cr:hasLocalShortName>
-      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-it;Province"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-it;"/>
-   </owl:NamedIndividual>
-
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-it;IT-TP">
-      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the province of Trapani in the country of Italy</skos:definition>
-      <rdfs:label>IT-TP</rdfs:label>
-      <lcc-lr:hasTag rdf:datatype="&xsd;string">IT-TP</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-2-it;Trapani"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-2-it;Trapani"/>
-      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-it;"/>
-   </owl:NamedIndividual>
-
-
-
 
 
   <!--
@@ -1900,126 +1900,6 @@
       <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-it;"/>
    </owl:NamedIndividual>
-
-  <!--
-    ///////////////////////////////////////////////////////////////////////////////////////
-    //
-    // Olbia-Tempio
-    //
-    ///////////////////////////////////////////////////////////////////////////////////////
-    -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-it;Olbia-Tempio">
-      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>Olbia-Tempio</rdfs:label>
-      <skos:definition>The province of Olbia-Tempio in the country of Italy</skos:definition>
-      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-it;Sardegna"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="it">Olbia-Tempio</lcc-cr:hasLocalShortName>
-      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-it;Province"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-it;"/>
-   </owl:NamedIndividual>
-
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-it;IT-OT">
-      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the province of Olbia-Tempio in the country of Italy</skos:definition>
-      <rdfs:label>IT-OT</rdfs:label>
-      <lcc-lr:hasTag rdf:datatype="&xsd;string">IT-OT</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-2-it;Olbia-Tempio"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-2-it;Olbia-Tempio"/>
-      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-it;"/>
-   </owl:NamedIndividual>
-
-
-
-  <!--
-    ///////////////////////////////////////////////////////////////////////////////////////
-    //
-    // Medio Campidano
-    //
-    ///////////////////////////////////////////////////////////////////////////////////////
-    -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-it;MedioCampidano">
-      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>Medio Campidano</rdfs:label>
-      <skos:definition>The province of Medio Campidano in the country of Italy</skos:definition>
-      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-it;Sardegna"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="it">Medio Campidano</lcc-cr:hasLocalShortName>
-      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-it;Province"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-it;"/>
-   </owl:NamedIndividual>
-
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-it;IT-VS">
-      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the province of Medio Campidano in the country of Italy</skos:definition>
-      <rdfs:label>IT-VS</rdfs:label>
-      <lcc-lr:hasTag rdf:datatype="&xsd;string">IT-VS</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-2-it;MedioCampidano"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-2-it;MedioCampidano"/>
-      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-it;"/>
-   </owl:NamedIndividual>
-
-
-
-  <!--
-    ///////////////////////////////////////////////////////////////////////////////////////
-    //
-    // Sassari
-    //
-    ///////////////////////////////////////////////////////////////////////////////////////
-    -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-it;Sassari">
-      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>Sassari</rdfs:label>
-      <skos:definition>The province of Sassari in the country of Italy</skos:definition>
-      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-it;Sardegna"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="it">Sassari</lcc-cr:hasLocalShortName>
-      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-it;Province"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-it;"/>
-   </owl:NamedIndividual>
-
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-it;IT-SS">
-      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the province of Sassari in the country of Italy</skos:definition>
-      <rdfs:label>IT-SS</rdfs:label>
-      <lcc-lr:hasTag rdf:datatype="&xsd;string">IT-SS</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-2-it;Sassari"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-2-it;Sassari"/>
-      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-it;"/>
-   </owl:NamedIndividual>
-
-
-
-  <!--
-    ///////////////////////////////////////////////////////////////////////////////////////
-    //
-    // Nuoro
-    //
-    ///////////////////////////////////////////////////////////////////////////////////////
-    -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-it;Nuoro">
-      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>Nuoro</rdfs:label>
-      <skos:definition>The province of Nuoro in the country of Italy</skos:definition>
-      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-it;Sardegna"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="it">Nuoro</lcc-cr:hasLocalShortName>
-      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-it;Province"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-it;"/>
-   </owl:NamedIndividual>
-
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-it;IT-NU">
-      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the province of Nuoro in the country of Italy</skos:definition>
-      <rdfs:label>IT-NU</rdfs:label>
-      <lcc-lr:hasTag rdf:datatype="&xsd;string">IT-NU</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-2-it;Nuoro"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-2-it;Nuoro"/>
-      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-it;"/>
-   </owl:NamedIndividual>
-
-
 
   <!--
     ///////////////////////////////////////////////////////////////////////////////////////
@@ -2141,6 +2021,126 @@
 
 
 
+  <!--
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Olbia-Tempio
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+    -->
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-it;Olbia-Tempio">
+      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
+      <rdfs:label>Olbia-Tempio</rdfs:label>
+      <skos:definition>The province of Olbia-Tempio in the country of Italy</skos:definition>
+      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-it;Sardegna"/>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="it">Olbia-Tempio</lcc-cr:hasLocalShortName>
+      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-it;Province"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-it;"/>
+   </owl:NamedIndividual>
+
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-it;IT-OT">
+      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
+      <skos:definition>subdivision code for the province of Olbia-Tempio in the country of Italy</skos:definition>
+      <rdfs:label>IT-OT</rdfs:label>
+      <lcc-lr:hasTag rdf:datatype="&xsd;string">IT-OT</lcc-lr:hasTag>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-it;Olbia-Tempio"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-it;Olbia-Tempio"/>
+      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-it;"/>
+   </owl:NamedIndividual>
+
+
+
+  <!--
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Medio Campidano
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+    -->
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-it;MedioCampidano">
+      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
+      <rdfs:label>Medio Campidano</rdfs:label>
+      <skos:definition>The province of Medio Campidano in the country of Italy</skos:definition>
+      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-it;Sardegna"/>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="it">Medio Campidano</lcc-cr:hasLocalShortName>
+      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-it;Province"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-it;"/>
+   </owl:NamedIndividual>
+
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-it;IT-VS">
+      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
+      <skos:definition>subdivision code for the province of Medio Campidano in the country of Italy</skos:definition>
+      <rdfs:label>IT-VS</rdfs:label>
+      <lcc-lr:hasTag rdf:datatype="&xsd;string">IT-VS</lcc-lr:hasTag>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-it;MedioCampidano"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-it;MedioCampidano"/>
+      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-it;"/>
+   </owl:NamedIndividual>
+
+
+
+  <!--
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Sassari
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+    -->
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-it;Sassari">
+      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
+      <rdfs:label>Sassari</rdfs:label>
+      <skos:definition>The province of Sassari in the country of Italy</skos:definition>
+      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-it;Sardegna"/>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="it">Sassari</lcc-cr:hasLocalShortName>
+      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-it;Province"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-it;"/>
+   </owl:NamedIndividual>
+
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-it;IT-SS">
+      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
+      <skos:definition>subdivision code for the province of Sassari in the country of Italy</skos:definition>
+      <rdfs:label>IT-SS</rdfs:label>
+      <lcc-lr:hasTag rdf:datatype="&xsd;string">IT-SS</lcc-lr:hasTag>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-it;Sassari"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-it;Sassari"/>
+      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-it;"/>
+   </owl:NamedIndividual>
+
+
+
+  <!--
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Nuoro
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+    -->
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-it;Nuoro">
+      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
+      <rdfs:label>Nuoro</rdfs:label>
+      <skos:definition>The province of Nuoro in the country of Italy</skos:definition>
+      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-it;Sardegna"/>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="it">Nuoro</lcc-cr:hasLocalShortName>
+      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-it;Province"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-it;"/>
+   </owl:NamedIndividual>
+
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-it;IT-NU">
+      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
+      <skos:definition>subdivision code for the province of Nuoro in the country of Italy</skos:definition>
+      <rdfs:label>IT-NU</rdfs:label>
+      <lcc-lr:hasTag rdf:datatype="&xsd;string">IT-NU</lcc-lr:hasTag>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-it;Nuoro"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-it;Nuoro"/>
+      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-it;"/>
+   </owl:NamedIndividual>
+
+
+
 
 
   <!--
@@ -2174,36 +2174,6 @@
   <!--
     ///////////////////////////////////////////////////////////////////////////////////////
     //
-    // Terni
-    //
-    ///////////////////////////////////////////////////////////////////////////////////////
-    -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-it;Terni">
-      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>Terni</rdfs:label>
-      <skos:definition>The province of Terni in the country of Italy</skos:definition>
-      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-it;Umbria"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="it">Terni</lcc-cr:hasLocalShortName>
-      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-it;Province"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-it;"/>
-   </owl:NamedIndividual>
-
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-it;IT-TR">
-      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the province of Terni in the country of Italy</skos:definition>
-      <rdfs:label>IT-TR</rdfs:label>
-      <lcc-lr:hasTag rdf:datatype="&xsd;string">IT-TR</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-2-it;Terni"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-2-it;Terni"/>
-      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-it;"/>
-   </owl:NamedIndividual>
-
-
-
-  <!--
-    ///////////////////////////////////////////////////////////////////////////////////////
-    //
     // Perugia
     //
     ///////////////////////////////////////////////////////////////////////////////////////
@@ -2225,6 +2195,36 @@
       <lcc-lr:hasTag rdf:datatype="&xsd;string">IT-PG</lcc-lr:hasTag>
       <lcc-lr:denotes rdf:resource="&lcc-3166-2-it;Perugia"/>
       <lcc-lr:identifies rdf:resource="&lcc-3166-2-it;Perugia"/>
+      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-it;"/>
+   </owl:NamedIndividual>
+
+
+
+  <!--
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Terni
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+    -->
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-it;Terni">
+      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
+      <rdfs:label>Terni</rdfs:label>
+      <skos:definition>The province of Terni in the country of Italy</skos:definition>
+      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-it;Umbria"/>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="it">Terni</lcc-cr:hasLocalShortName>
+      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-it;Province"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-it;"/>
+   </owl:NamedIndividual>
+
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-it;IT-TR">
+      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
+      <skos:definition>subdivision code for the province of Terni in the country of Italy</skos:definition>
+      <rdfs:label>IT-TR</rdfs:label>
+      <lcc-lr:hasTag rdf:datatype="&xsd;string">IT-TR</lcc-lr:hasTag>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-it;Terni"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-it;Terni"/>
       <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-it;"/>
    </owl:NamedIndividual>
@@ -2260,6 +2260,36 @@
       <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-it;"/>
    </owl:NamedIndividual>
+
+  <!--
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Napoli
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+    -->
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-it;Napoli">
+      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
+      <rdfs:label>Napoli</rdfs:label>
+      <skos:definition>The province of Napoli in the country of Italy</skos:definition>
+      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-it;Campania"/>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="it">Napoli</lcc-cr:hasLocalShortName>
+      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-it;Province"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-it;"/>
+   </owl:NamedIndividual>
+
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-it;IT-NA">
+      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
+      <skos:definition>subdivision code for the province of Napoli in the country of Italy</skos:definition>
+      <rdfs:label>IT-NA</rdfs:label>
+      <lcc-lr:hasTag rdf:datatype="&xsd;string">IT-NA</lcc-lr:hasTag>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-it;Napoli"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-it;Napoli"/>
+      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-it;"/>
+   </owl:NamedIndividual>
+
+
 
   <!--
     ///////////////////////////////////////////////////////////////////////////////////////
@@ -2381,36 +2411,6 @@
 
 
 
-  <!--
-    ///////////////////////////////////////////////////////////////////////////////////////
-    //
-    // Napoli
-    //
-    ///////////////////////////////////////////////////////////////////////////////////////
-    -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-it;Napoli">
-      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>Napoli</rdfs:label>
-      <skos:definition>The province of Napoli in the country of Italy</skos:definition>
-      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-it;Campania"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="it">Napoli</lcc-cr:hasLocalShortName>
-      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-it;Province"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-it;"/>
-   </owl:NamedIndividual>
-
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-it;IT-NA">
-      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the province of Napoli in the country of Italy</skos:definition>
-      <rdfs:label>IT-NA</rdfs:label>
-      <lcc-lr:hasTag rdf:datatype="&xsd;string">IT-NA</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-2-it;Napoli"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-2-it;Napoli"/>
-      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-it;"/>
-   </owl:NamedIndividual>
-
-
-
 
 
   <!--
@@ -2445,6 +2445,36 @@
   <!--
     ///////////////////////////////////////////////////////////////////////////////////////
     //
+    // Trento
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+    -->
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-it;Trento">
+      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
+      <rdfs:label>Trento</rdfs:label>
+      <skos:definition>The province of Trento in the country of Italy</skos:definition>
+      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-it;Trentino-Sudtirol"/>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="it">Trento</lcc-cr:hasLocalShortName>
+      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-it;Province"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-it;"/>
+   </owl:NamedIndividual>
+
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-it;IT-TN">
+      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
+      <skos:definition>subdivision code for the province of Trento in the country of Italy</skos:definition>
+      <rdfs:label>IT-TN</rdfs:label>
+      <lcc-lr:hasTag rdf:datatype="&xsd;string">IT-TN</lcc-lr:hasTag>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-it;Trento"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-it;Trento"/>
+      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-it;"/>
+   </owl:NamedIndividual>
+
+
+
+  <!--
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
     // Bolzano
     //
     ///////////////////////////////////////////////////////////////////////////////////////
@@ -2467,36 +2497,6 @@
       <lcc-lr:hasTag rdf:datatype="&xsd;string">IT-BZ</lcc-lr:hasTag>
       <lcc-lr:denotes rdf:resource="&lcc-3166-2-it;Bolzano"/>
       <lcc-lr:identifies rdf:resource="&lcc-3166-2-it;Bolzano"/>
-      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-it;"/>
-   </owl:NamedIndividual>
-
-
-
-  <!--
-    ///////////////////////////////////////////////////////////////////////////////////////
-    //
-    // Trento
-    //
-    ///////////////////////////////////////////////////////////////////////////////////////
-    -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-it;Trento">
-      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>Trento</rdfs:label>
-      <skos:definition>The province of Trento in the country of Italy</skos:definition>
-      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-it;Trentino-Sudtirol"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="it">Trento</lcc-cr:hasLocalShortName>
-      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-it;Province"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-it;"/>
-   </owl:NamedIndividual>
-
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-it;IT-TN">
-      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the province of Trento in the country of Italy</skos:definition>
-      <rdfs:label>IT-TN</rdfs:label>
-      <lcc-lr:hasTag rdf:datatype="&xsd;string">IT-TN</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-2-it;Trento"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-2-it;Trento"/>
       <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-it;"/>
    </owl:NamedIndividual>
@@ -2532,6 +2532,36 @@
       <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-it;"/>
    </owl:NamedIndividual>
+
+  <!--
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Frosinone
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+    -->
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-it;Frosinone">
+      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
+      <rdfs:label>Frosinone</rdfs:label>
+      <skos:definition>The province of Frosinone in the country of Italy</skos:definition>
+      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-it;Lazio"/>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="it">Frosinone</lcc-cr:hasLocalShortName>
+      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-it;Province"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-it;"/>
+   </owl:NamedIndividual>
+
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-it;IT-FR">
+      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
+      <skos:definition>subdivision code for the province of Frosinone in the country of Italy</skos:definition>
+      <rdfs:label>IT-FR</rdfs:label>
+      <lcc-lr:hasTag rdf:datatype="&xsd;string">IT-FR</lcc-lr:hasTag>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-it;Frosinone"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-it;Frosinone"/>
+      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-it;"/>
+   </owl:NamedIndividual>
+
+
 
   <!--
     ///////////////////////////////////////////////////////////////////////////////////////
@@ -2647,36 +2677,6 @@
       <lcc-lr:hasTag rdf:datatype="&xsd;string">IT-LT</lcc-lr:hasTag>
       <lcc-lr:denotes rdf:resource="&lcc-3166-2-it;Latina"/>
       <lcc-lr:identifies rdf:resource="&lcc-3166-2-it;Latina"/>
-      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-it;"/>
-   </owl:NamedIndividual>
-
-
-
-  <!--
-    ///////////////////////////////////////////////////////////////////////////////////////
-    //
-    // Frosinone
-    //
-    ///////////////////////////////////////////////////////////////////////////////////////
-    -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-it;Frosinone">
-      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>Frosinone</rdfs:label>
-      <skos:definition>The province of Frosinone in the country of Italy</skos:definition>
-      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-it;Lazio"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="it">Frosinone</lcc-cr:hasLocalShortName>
-      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-it;Province"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-it;"/>
-   </owl:NamedIndividual>
-
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-it;IT-FR">
-      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the province of Frosinone in the country of Italy</skos:definition>
-      <rdfs:label>IT-FR</rdfs:label>
-      <lcc-lr:hasTag rdf:datatype="&xsd;string">IT-FR</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-2-it;Frosinone"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-2-it;Frosinone"/>
       <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-it;"/>
    </owl:NamedIndividual>
@@ -3046,6 +3046,66 @@
   <!--
     ///////////////////////////////////////////////////////////////////////////////////////
     //
+    // Barletta-Andria-Trani
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+    -->
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-it;Barletta-Andria-Trani">
+      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
+      <rdfs:label>Barletta-Andria-Trani</rdfs:label>
+      <skos:definition>The province of Barletta-Andria-Trani in the country of Italy</skos:definition>
+      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-it;Puglia"/>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="it">Barletta-Andria-Trani</lcc-cr:hasLocalShortName>
+      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-it;Province"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-it;"/>
+   </owl:NamedIndividual>
+
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-it;IT-BT">
+      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
+      <skos:definition>subdivision code for the province of Barletta-Andria-Trani in the country of Italy</skos:definition>
+      <rdfs:label>IT-BT</rdfs:label>
+      <lcc-lr:hasTag rdf:datatype="&xsd;string">IT-BT</lcc-lr:hasTag>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-it;Barletta-Andria-Trani"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-it;Barletta-Andria-Trani"/>
+      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-it;"/>
+   </owl:NamedIndividual>
+
+
+
+  <!--
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Foggia
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+    -->
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-it;Foggia">
+      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
+      <rdfs:label>Foggia</rdfs:label>
+      <skos:definition>The province of Foggia in the country of Italy</skos:definition>
+      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-it;Puglia"/>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="it">Foggia</lcc-cr:hasLocalShortName>
+      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-it;Province"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-it;"/>
+   </owl:NamedIndividual>
+
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-it;IT-FG">
+      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
+      <skos:definition>subdivision code for the province of Foggia in the country of Italy</skos:definition>
+      <rdfs:label>IT-FG</rdfs:label>
+      <lcc-lr:hasTag rdf:datatype="&xsd;string">IT-FG</lcc-lr:hasTag>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-it;Foggia"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-it;Foggia"/>
+      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-it;"/>
+   </owl:NamedIndividual>
+
+
+
+  <!--
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
     // Lecce
     //
     ///////////////////////////////////////////////////////////////////////////////////////
@@ -3157,66 +3217,6 @@
       <lcc-lr:hasTag rdf:datatype="&xsd;string">IT-TA</lcc-lr:hasTag>
       <lcc-lr:denotes rdf:resource="&lcc-3166-2-it;Taranto"/>
       <lcc-lr:identifies rdf:resource="&lcc-3166-2-it;Taranto"/>
-      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-it;"/>
-   </owl:NamedIndividual>
-
-
-
-  <!--
-    ///////////////////////////////////////////////////////////////////////////////////////
-    //
-    // Barletta-Andria-Trani
-    //
-    ///////////////////////////////////////////////////////////////////////////////////////
-    -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-it;Barletta-Andria-Trani">
-      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>Barletta-Andria-Trani</rdfs:label>
-      <skos:definition>The province of Barletta-Andria-Trani in the country of Italy</skos:definition>
-      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-it;Puglia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="it">Barletta-Andria-Trani</lcc-cr:hasLocalShortName>
-      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-it;Province"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-it;"/>
-   </owl:NamedIndividual>
-
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-it;IT-BT">
-      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the province of Barletta-Andria-Trani in the country of Italy</skos:definition>
-      <rdfs:label>IT-BT</rdfs:label>
-      <lcc-lr:hasTag rdf:datatype="&xsd;string">IT-BT</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-2-it;Barletta-Andria-Trani"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-2-it;Barletta-Andria-Trani"/>
-      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-it;"/>
-   </owl:NamedIndividual>
-
-
-
-  <!--
-    ///////////////////////////////////////////////////////////////////////////////////////
-    //
-    // Foggia
-    //
-    ///////////////////////////////////////////////////////////////////////////////////////
-    -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-it;Foggia">
-      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>Foggia</rdfs:label>
-      <skos:definition>The province of Foggia in the country of Italy</skos:definition>
-      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-it;Puglia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="it">Foggia</lcc-cr:hasLocalShortName>
-      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-it;Province"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-it;"/>
-   </owl:NamedIndividual>
-
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-it;IT-FG">
-      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the province of Foggia in the country of Italy</skos:definition>
-      <rdfs:label>IT-FG</rdfs:label>
-      <lcc-lr:hasTag rdf:datatype="&xsd;string">IT-FG</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-2-it;Foggia"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-2-it;Foggia"/>
       <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-it;"/>
    </owl:NamedIndividual>
@@ -3436,6 +3436,36 @@
   <!--
     ///////////////////////////////////////////////////////////////////////////////////////
     //
+    // Vercelli
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+    -->
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-it;Vercelli">
+      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
+      <rdfs:label>Vercelli</rdfs:label>
+      <skos:definition>The province of Vercelli in the country of Italy</skos:definition>
+      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-it;Piemonte"/>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="it">Vercelli</lcc-cr:hasLocalShortName>
+      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-it;Province"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-it;"/>
+   </owl:NamedIndividual>
+
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-it;IT-VC">
+      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
+      <skos:definition>subdivision code for the province of Vercelli in the country of Italy</skos:definition>
+      <rdfs:label>IT-VC</rdfs:label>
+      <lcc-lr:hasTag rdf:datatype="&xsd;string">IT-VC</lcc-lr:hasTag>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-it;Vercelli"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-it;Vercelli"/>
+      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-it;"/>
+   </owl:NamedIndividual>
+
+
+
+  <!--
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
     // Biella
     //
     ///////////////////////////////////////////////////////////////////////////////////////
@@ -3643,36 +3673,6 @@
 
 
 
-  <!--
-    ///////////////////////////////////////////////////////////////////////////////////////
-    //
-    // Vercelli
-    //
-    ///////////////////////////////////////////////////////////////////////////////////////
-    -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-it;Vercelli">
-      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>Vercelli</rdfs:label>
-      <skos:definition>The province of Vercelli in the country of Italy</skos:definition>
-      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-it;Piemonte"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="it">Vercelli</lcc-cr:hasLocalShortName>
-      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-it;Province"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-it;"/>
-   </owl:NamedIndividual>
-
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-it;IT-VC">
-      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the province of Vercelli in the country of Italy</skos:definition>
-      <rdfs:label>IT-VC</rdfs:label>
-      <lcc-lr:hasTag rdf:datatype="&xsd;string">IT-VC</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-2-it;Vercelli"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-2-it;Vercelli"/>
-      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-it;"/>
-   </owl:NamedIndividual>
-
-
-
 
 
   <!--
@@ -3702,6 +3702,36 @@
       <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-it;"/>
    </owl:NamedIndividual>
+
+  <!--
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Fermo
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+    -->
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-it;Fermo">
+      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
+      <rdfs:label>Fermo</rdfs:label>
+      <skos:definition>The province of Fermo in the country of Italy</skos:definition>
+      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-it;Marche"/>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="it">Fermo</lcc-cr:hasLocalShortName>
+      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-it;Province"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-it;"/>
+   </owl:NamedIndividual>
+
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-it;IT-FM">
+      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
+      <skos:definition>subdivision code for the province of Fermo in the country of Italy</skos:definition>
+      <rdfs:label>IT-FM</rdfs:label>
+      <lcc-lr:hasTag rdf:datatype="&xsd;string">IT-FM</lcc-lr:hasTag>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-it;Fermo"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-it;Fermo"/>
+      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-it;"/>
+   </owl:NamedIndividual>
+
+
 
   <!--
     ///////////////////////////////////////////////////////////////////////////////////////
@@ -3823,36 +3853,6 @@
 
 
 
-  <!--
-    ///////////////////////////////////////////////////////////////////////////////////////
-    //
-    // Fermo
-    //
-    ///////////////////////////////////////////////////////////////////////////////////////
-    -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-it;Fermo">
-      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>Fermo</rdfs:label>
-      <skos:definition>The province of Fermo in the country of Italy</skos:definition>
-      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-it;Marche"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="it">Fermo</lcc-cr:hasLocalShortName>
-      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-it;Province"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-it;"/>
-   </owl:NamedIndividual>
-
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-it;IT-FM">
-      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the province of Fermo in the country of Italy</skos:definition>
-      <rdfs:label>IT-FM</rdfs:label>
-      <lcc-lr:hasTag rdf:datatype="&xsd;string">IT-FM</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-2-it;Fermo"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-2-it;Fermo"/>
-      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-it;"/>
-   </owl:NamedIndividual>
-
-
-
 
 
   <!--
@@ -3882,6 +3882,36 @@
       <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-it;"/>
    </owl:NamedIndividual>
+
+  <!--
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Pescara
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+    -->
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-it;Pescara">
+      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
+      <rdfs:label>Pescara</rdfs:label>
+      <skos:definition>The province of Pescara in the country of Italy</skos:definition>
+      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-it;Abruzzo"/>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="it">Pescara</lcc-cr:hasLocalShortName>
+      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-it;Province"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-it;"/>
+   </owl:NamedIndividual>
+
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-it;IT-PE">
+      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
+      <skos:definition>subdivision code for the province of Pescara in the country of Italy</skos:definition>
+      <rdfs:label>IT-PE</rdfs:label>
+      <lcc-lr:hasTag rdf:datatype="&xsd;string">IT-PE</lcc-lr:hasTag>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-it;Pescara"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-it;Pescara"/>
+      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-it;"/>
+   </owl:NamedIndividual>
+
+
 
   <!--
     ///////////////////////////////////////////////////////////////////////////////////////
@@ -3967,36 +3997,6 @@
       <lcc-lr:hasTag rdf:datatype="&xsd;string">IT-TE</lcc-lr:hasTag>
       <lcc-lr:denotes rdf:resource="&lcc-3166-2-it;Teramo"/>
       <lcc-lr:identifies rdf:resource="&lcc-3166-2-it;Teramo"/>
-      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-it;"/>
-   </owl:NamedIndividual>
-
-
-
-  <!--
-    ///////////////////////////////////////////////////////////////////////////////////////
-    //
-    // Pescara
-    //
-    ///////////////////////////////////////////////////////////////////////////////////////
-    -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-it;Pescara">
-      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>Pescara</rdfs:label>
-      <skos:definition>The province of Pescara in the country of Italy</skos:definition>
-      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-it;Abruzzo"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="it">Pescara</lcc-cr:hasLocalShortName>
-      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-it;Province"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-it;"/>
-   </owl:NamedIndividual>
-
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-it;IT-PE">
-      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the province of Pescara in the country of Italy</skos:definition>
-      <rdfs:label>IT-PE</rdfs:label>
-      <lcc-lr:hasTag rdf:datatype="&xsd;string">IT-PE</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-2-it;Pescara"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-2-it;Pescara"/>
       <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-it;"/>
    </owl:NamedIndividual>

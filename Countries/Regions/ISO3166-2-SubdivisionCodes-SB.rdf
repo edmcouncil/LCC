@@ -36,9 +36,9 @@
 
       <!-- Curation and Rights Metadata for the LCC ISO 3166-2 Subdivision Codes for Solomon Islands Ontology -->
 
-      <sm:copyright rdf:datatype="&xsd;string">Copyright (c) 2015-2017 Object Management Group, Inc.
-          Copyright (c) 2015-2017 Adaptive Inc.
-          Copyright (c) 2015-2017 Thematix Partners LLC
+      <sm:copyright rdf:datatype="&xsd;string">Copyright (c) 2015-2019 Object Management Group, Inc.
+          Copyright (c) 2015-2019 Adaptive Inc.
+          Copyright (c) 2015-2019 Thematix Partners LLC
           Copyright (c) 2015-2017 Unisys
         </sm:copyright>
       <dct:license rdf:resource="&sm;MITLicense"/>
@@ -47,9 +47,9 @@
 
       <sm:filename rdf:datatype="&xsd;string">ISO3166-2-SubdivisionCodes-SB.rdf</sm:filename>
       <sm:fileAbbreviation rdf:datatype="&xsd;string">lcc-3166-2-sb</sm:fileAbbreviation>
-      <owl:versionIRI rdf:resource="http://www.omg.org/spec/LCC/20170801/Countries/Regions/ISO3166-2-SubdivisionCodes-SB/"/>
+      <owl:versionIRI rdf:resource="http://www.omg.org/spec/LCC/20190301/Countries/Regions/ISO3166-2-SubdivisionCodes-SB/"/>
       <sm:fileAbstract rdf:datatype="&xsd;string">This ontology represents the subset of the ISO 3166 standard that includes the actual ISO 3166-2 subdivision codes for Solomon Islands, with the ontology and codes for the other parts of the standard represented in models that this ontology depends on.</sm:fileAbstract>
-      <dct:issued rdf:datatype="&xsd;dateTime">2017-07-20T22:26:02.631805+02:00</dct:issued>
+      <dct:issued rdf:datatype="&xsd;dateTime">2019-02-14T00:48:51.124818+01:00</dct:issued>
 
       <sm:dependsOn rdf:datatype="&xsd;anyURI">http://www.omg.org/spec/LCC/Languages/LanguageRepresentation/</sm:dependsOn>
       <sm:dependsOn rdf:datatype="&xsd;anyURI">http://www.omg.org/spec/LCC/Countries/CountryRepresentation/</sm:dependsOn>
@@ -99,36 +99,6 @@
     //
     ///////////////////////////////////////////////////////////////////////////////////////
     -->
-
-
-  <!--
-    ///////////////////////////////////////////////////////////////////////////////////////
-    //
-    // Choiseul
-    //
-    ///////////////////////////////////////////////////////////////////////////////////////
-    -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-sb;Choiseul">
-      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>Choiseul</rdfs:label>
-      <skos:definition>The province of Choiseul in the country of Solomon Islands</skos:definition>
-      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;SolomonIslands"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Choiseul</lcc-cr:hasEnglishShortName>
-      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-sb;Province"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-sb;"/>
-   </owl:NamedIndividual>
-
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-sb;SB-CH">
-      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the province of Choiseul in the country of Solomon Islands</skos:definition>
-      <rdfs:label>SB-CH</rdfs:label>
-      <lcc-lr:hasTag rdf:datatype="&xsd;string">SB-CH</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-2-sb;Choiseul"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-2-sb;Choiseul"/>
-      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-sb;"/>
-   </owl:NamedIndividual>
-
 
 
   <!--
@@ -404,6 +374,36 @@
   <!--
     ///////////////////////////////////////////////////////////////////////////////////////
     //
+    // Choiseul
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+    -->
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-sb;Choiseul">
+      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
+      <rdfs:label>Choiseul</rdfs:label>
+      <skos:definition>The province of Choiseul in the country of Solomon Islands</skos:definition>
+      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;SolomonIslands"/>
+      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Choiseul</lcc-cr:hasEnglishShortName>
+      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-sb;Province"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-sb;"/>
+   </owl:NamedIndividual>
+
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-sb;SB-CH">
+      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
+      <skos:definition>subdivision code for the province of Choiseul in the country of Solomon Islands</skos:definition>
+      <rdfs:label>SB-CH</rdfs:label>
+      <lcc-lr:hasTag rdf:datatype="&xsd;string">SB-CH</lcc-lr:hasTag>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-sb;Choiseul"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-sb;Choiseul"/>
+      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-sb;"/>
+   </owl:NamedIndividual>
+
+
+
+  <!--
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
     // Guadalcanal (principal island)
     //
     ///////////////////////////////////////////////////////////////////////////////////////
@@ -413,8 +413,8 @@
       <rdfs:label>Guadalcanal (principal island)</rdfs:label>
       <skos:definition>The territory of Guadalcanal (principal island) in the country of Solomon Islands</skos:definition>
       <lcc-cr:hasNumericRegionCode rdf:datatype="&xsd;string">1079</lcc-cr:hasNumericRegionCode>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Guadalcanal (principal island)</lcc-cr:hasEnglishShortName>
       <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Guadalcanal (île principale)</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Guadalcanal (principal island)</lcc-cr:hasEnglishShortName>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;SolomonIslands"/>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2;Territory"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-sb;"/>
@@ -451,8 +451,8 @@
       <rdfs:label>Santa Cruz Islands</rdfs:label>
       <skos:definition>The territory of Santa Cruz Islands in the country of Solomon Islands</skos:definition>
       <lcc-cr:hasNumericRegionCode rdf:datatype="&xsd;string">1186</lcc-cr:hasNumericRegionCode>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Santa Cruz Islands</lcc-cr:hasEnglishShortName>
       <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">les Îles Santa Cruz</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Santa Cruz Islands</lcc-cr:hasEnglishShortName>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;SolomonIslands"/>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2;Territory"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-sb;"/>

@@ -36,9 +36,9 @@
 
       <!-- Curation and Rights Metadata for the LCC ISO 3166-2 Subdivision Codes for Saint Kitts and Nevis Ontology -->
 
-      <sm:copyright rdf:datatype="&xsd;string">Copyright (c) 2015-2017 Object Management Group, Inc.
-          Copyright (c) 2015-2017 Adaptive Inc.
-          Copyright (c) 2015-2017 Thematix Partners LLC
+      <sm:copyright rdf:datatype="&xsd;string">Copyright (c) 2015-2019 Object Management Group, Inc.
+          Copyright (c) 2015-2019 Adaptive Inc.
+          Copyright (c) 2015-2019 Thematix Partners LLC
           Copyright (c) 2015-2017 Unisys
         </sm:copyright>
       <dct:license rdf:resource="&sm;MITLicense"/>
@@ -47,9 +47,9 @@
 
       <sm:filename rdf:datatype="&xsd;string">ISO3166-2-SubdivisionCodes-KN.rdf</sm:filename>
       <sm:fileAbbreviation rdf:datatype="&xsd;string">lcc-3166-2-kn</sm:fileAbbreviation>
-      <owl:versionIRI rdf:resource="http://www.omg.org/spec/LCC/20170801/Countries/Regions/ISO3166-2-SubdivisionCodes-KN/"/>
+      <owl:versionIRI rdf:resource="http://www.omg.org/spec/LCC/20190301/Countries/Regions/ISO3166-2-SubdivisionCodes-KN/"/>
       <sm:fileAbstract rdf:datatype="&xsd;string">This ontology represents the subset of the ISO 3166 standard that includes the actual ISO 3166-2 subdivision codes for Saint Kitts and Nevis, with the ontology and codes for the other parts of the standard represented in models that this ontology depends on.</sm:fileAbstract>
-      <dct:issued rdf:datatype="&xsd;dateTime">2017-07-20T22:26:02.631805+02:00</dct:issued>
+      <dct:issued rdf:datatype="&xsd;dateTime">2019-02-14T00:48:51.124818+01:00</dct:issued>
 
       <sm:dependsOn rdf:datatype="&xsd;anyURI">http://www.omg.org/spec/LCC/Languages/LanguageRepresentation/</sm:dependsOn>
       <sm:dependsOn rdf:datatype="&xsd;anyURI">http://www.omg.org/spec/LCC/Countries/CountryRepresentation/</sm:dependsOn>
@@ -312,6 +312,36 @@
   <!--
     ///////////////////////////////////////////////////////////////////////////////////////
     //
+    // Saint Mary Cayon
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+    -->
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-kn;SaintMaryCayon">
+      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
+      <rdfs:label>Saint Mary Cayon</rdfs:label>
+      <skos:definition>The parish of Saint Mary Cayon in the country of Saint Kitts and Nevis</skos:definition>
+      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-kn;SaintKitts"/>
+      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Saint Mary Cayon</lcc-cr:hasEnglishShortName>
+      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-kn;Parish"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-kn;"/>
+   </owl:NamedIndividual>
+
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-kn;KN-08">
+      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
+      <skos:definition>subdivision code for the parish of Saint Mary Cayon in the country of Saint Kitts and Nevis</skos:definition>
+      <rdfs:label>KN-08</rdfs:label>
+      <lcc-lr:hasTag rdf:datatype="&xsd;string">KN-08</lcc-lr:hasTag>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-kn;SaintMaryCayon"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-kn;SaintMaryCayon"/>
+      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-kn;"/>
+   </owl:NamedIndividual>
+
+
+
+  <!--
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
     // Saint Anne Sandy Point
     //
     ///////////////////////////////////////////////////////////////////////////////////////
@@ -549,36 +579,6 @@
 
 
 
-  <!--
-    ///////////////////////////////////////////////////////////////////////////////////////
-    //
-    // Saint Mary Cayon
-    //
-    ///////////////////////////////////////////////////////////////////////////////////////
-    -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-kn;SaintMaryCayon">
-      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>Saint Mary Cayon</rdfs:label>
-      <skos:definition>The parish of Saint Mary Cayon in the country of Saint Kitts and Nevis</skos:definition>
-      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-kn;SaintKitts"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Saint Mary Cayon</lcc-cr:hasEnglishShortName>
-      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-kn;Parish"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-kn;"/>
-   </owl:NamedIndividual>
-
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-kn;KN-08">
-      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the parish of Saint Mary Cayon in the country of Saint Kitts and Nevis</skos:definition>
-      <rdfs:label>KN-08</rdfs:label>
-      <lcc-lr:hasTag rdf:datatype="&xsd;string">KN-08</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-2-kn;SaintMaryCayon"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-2-kn;SaintMaryCayon"/>
-      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-kn;"/>
-   </owl:NamedIndividual>
-
-
-
 
 
   <!--
@@ -593,8 +593,8 @@
       <rdfs:label>Nevis *</rdfs:label>
       <skos:definition>The territory of Nevis * in the country of Saint Kitts and Nevis</skos:definition>
       <lcc-cr:hasNumericRegionCode rdf:datatype="&xsd;string">1137</lcc-cr:hasNumericRegionCode>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Nevis *</lcc-cr:hasEnglishShortName>
       <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Niévès*</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Nevis *</lcc-cr:hasEnglishShortName>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;SaintKittsAndNevis"/>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2;Territory"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-kn;"/>

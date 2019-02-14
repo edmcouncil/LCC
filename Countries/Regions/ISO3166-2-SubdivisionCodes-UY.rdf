@@ -36,9 +36,9 @@
 
       <!-- Curation and Rights Metadata for the LCC ISO 3166-2 Subdivision Codes for Uruguay Ontology -->
 
-      <sm:copyright rdf:datatype="&xsd;string">Copyright (c) 2015-2017 Object Management Group, Inc.
-          Copyright (c) 2015-2017 Adaptive Inc.
-          Copyright (c) 2015-2017 Thematix Partners LLC
+      <sm:copyright rdf:datatype="&xsd;string">Copyright (c) 2015-2019 Object Management Group, Inc.
+          Copyright (c) 2015-2019 Adaptive Inc.
+          Copyright (c) 2015-2019 Thematix Partners LLC
           Copyright (c) 2015-2017 Unisys
         </sm:copyright>
       <dct:license rdf:resource="&sm;MITLicense"/>
@@ -47,9 +47,9 @@
 
       <sm:filename rdf:datatype="&xsd;string">ISO3166-2-SubdivisionCodes-UY.rdf</sm:filename>
       <sm:fileAbbreviation rdf:datatype="&xsd;string">lcc-3166-2-uy</sm:fileAbbreviation>
-      <owl:versionIRI rdf:resource="http://www.omg.org/spec/LCC/20170801/Countries/Regions/ISO3166-2-SubdivisionCodes-UY/"/>
+      <owl:versionIRI rdf:resource="http://www.omg.org/spec/LCC/20190301/Countries/Regions/ISO3166-2-SubdivisionCodes-UY/"/>
       <sm:fileAbstract rdf:datatype="&xsd;string">This ontology represents the subset of the ISO 3166 standard that includes the actual ISO 3166-2 subdivision codes for Uruguay, with the ontology and codes for the other parts of the standard represented in models that this ontology depends on.</sm:fileAbstract>
-      <dct:issued rdf:datatype="&xsd;dateTime">2017-07-20T22:26:02.631805+02:00</dct:issued>
+      <dct:issued rdf:datatype="&xsd;dateTime">2019-02-14T00:48:51.124818+01:00</dct:issued>
 
       <sm:dependsOn rdf:datatype="&xsd;anyURI">http://www.omg.org/spec/LCC/Languages/LanguageRepresentation/</sm:dependsOn>
       <sm:dependsOn rdf:datatype="&xsd;anyURI">http://www.omg.org/spec/LCC/Countries/CountryRepresentation/</sm:dependsOn>
@@ -92,96 +92,6 @@
     //
     ///////////////////////////////////////////////////////////////////////////////////////
     -->
-
-
-  <!--
-    ///////////////////////////////////////////////////////////////////////////////////////
-    //
-    // Canelones
-    //
-    ///////////////////////////////////////////////////////////////////////////////////////
-    -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-uy;Canelones">
-      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>Canelones</rdfs:label>
-      <skos:definition>The department of Canelones in the country of Uruguay</skos:definition>
-      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Uruguay"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Canelones</lcc-cr:hasLocalShortName>
-      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-uy;Department"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-uy;"/>
-   </owl:NamedIndividual>
-
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-uy;UY-CA">
-      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the department of Canelones in the country of Uruguay</skos:definition>
-      <rdfs:label>UY-CA</rdfs:label>
-      <lcc-lr:hasTag rdf:datatype="&xsd;string">UY-CA</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-2-uy;Canelones"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-2-uy;Canelones"/>
-      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-uy;"/>
-   </owl:NamedIndividual>
-
-
-
-  <!--
-    ///////////////////////////////////////////////////////////////////////////////////////
-    //
-    // Montevideo
-    //
-    ///////////////////////////////////////////////////////////////////////////////////////
-    -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-uy;Montevideo">
-      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>Montevideo</rdfs:label>
-      <skos:definition>The department of Montevideo in the country of Uruguay</skos:definition>
-      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Uruguay"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Montevideo</lcc-cr:hasLocalShortName>
-      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-uy;Department"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-uy;"/>
-   </owl:NamedIndividual>
-
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-uy;UY-MO">
-      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the department of Montevideo in the country of Uruguay</skos:definition>
-      <rdfs:label>UY-MO</rdfs:label>
-      <lcc-lr:hasTag rdf:datatype="&xsd;string">UY-MO</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-2-uy;Montevideo"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-2-uy;Montevideo"/>
-      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-uy;"/>
-   </owl:NamedIndividual>
-
-
-
-  <!--
-    ///////////////////////////////////////////////////////////////////////////////////////
-    //
-    // Treinta y Tres
-    //
-    ///////////////////////////////////////////////////////////////////////////////////////
-    -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-uy;TreintaYTres">
-      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>Treinta y Tres</rdfs:label>
-      <skos:definition>The department of Treinta y Tres in the country of Uruguay</skos:definition>
-      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Uruguay"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Treinta y Tres</lcc-cr:hasLocalShortName>
-      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-uy;Department"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-uy;"/>
-   </owl:NamedIndividual>
-
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-uy;UY-TT">
-      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the department of Treinta y Tres in the country of Uruguay</skos:definition>
-      <rdfs:label>UY-TT</rdfs:label>
-      <lcc-lr:hasTag rdf:datatype="&xsd;string">UY-TT</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-2-uy;TreintaYTres"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-2-uy;TreintaYTres"/>
-      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-uy;"/>
-   </owl:NamedIndividual>
-
 
 
   <!--
@@ -658,6 +568,96 @@
       <lcc-lr:hasTag rdf:datatype="&xsd;string">UY-SO</lcc-lr:hasTag>
       <lcc-lr:denotes rdf:resource="&lcc-3166-2-uy;Soriano"/>
       <lcc-lr:identifies rdf:resource="&lcc-3166-2-uy;Soriano"/>
+      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-uy;"/>
+   </owl:NamedIndividual>
+
+
+
+  <!--
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Canelones
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+    -->
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-uy;Canelones">
+      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
+      <rdfs:label>Canelones</rdfs:label>
+      <skos:definition>The department of Canelones in the country of Uruguay</skos:definition>
+      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Uruguay"/>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Canelones</lcc-cr:hasLocalShortName>
+      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-uy;Department"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-uy;"/>
+   </owl:NamedIndividual>
+
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-uy;UY-CA">
+      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
+      <skos:definition>subdivision code for the department of Canelones in the country of Uruguay</skos:definition>
+      <rdfs:label>UY-CA</rdfs:label>
+      <lcc-lr:hasTag rdf:datatype="&xsd;string">UY-CA</lcc-lr:hasTag>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-uy;Canelones"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-uy;Canelones"/>
+      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-uy;"/>
+   </owl:NamedIndividual>
+
+
+
+  <!--
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Montevideo
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+    -->
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-uy;Montevideo">
+      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
+      <rdfs:label>Montevideo</rdfs:label>
+      <skos:definition>The department of Montevideo in the country of Uruguay</skos:definition>
+      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Uruguay"/>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Montevideo</lcc-cr:hasLocalShortName>
+      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-uy;Department"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-uy;"/>
+   </owl:NamedIndividual>
+
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-uy;UY-MO">
+      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
+      <skos:definition>subdivision code for the department of Montevideo in the country of Uruguay</skos:definition>
+      <rdfs:label>UY-MO</rdfs:label>
+      <lcc-lr:hasTag rdf:datatype="&xsd;string">UY-MO</lcc-lr:hasTag>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-uy;Montevideo"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-uy;Montevideo"/>
+      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-uy;"/>
+   </owl:NamedIndividual>
+
+
+
+  <!--
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Treinta y Tres
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+    -->
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-uy;TreintaYTres">
+      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
+      <rdfs:label>Treinta y Tres</rdfs:label>
+      <skos:definition>The department of Treinta y Tres in the country of Uruguay</skos:definition>
+      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Uruguay"/>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Treinta y Tres</lcc-cr:hasLocalShortName>
+      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-uy;Department"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-uy;"/>
+   </owl:NamedIndividual>
+
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-uy;UY-TT">
+      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
+      <skos:definition>subdivision code for the department of Treinta y Tres in the country of Uruguay</skos:definition>
+      <rdfs:label>UY-TT</rdfs:label>
+      <lcc-lr:hasTag rdf:datatype="&xsd;string">UY-TT</lcc-lr:hasTag>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-uy;TreintaYTres"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-uy;TreintaYTres"/>
       <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-uy;"/>
    </owl:NamedIndividual>

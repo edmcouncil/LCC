@@ -36,9 +36,9 @@
 
       <!-- Curation and Rights Metadata for the LCC ISO 3166-2 Subdivision Codes for Palau Ontology -->
 
-      <sm:copyright rdf:datatype="&xsd;string">Copyright (c) 2015-2017 Object Management Group, Inc.
-          Copyright (c) 2015-2017 Adaptive Inc.
-          Copyright (c) 2015-2017 Thematix Partners LLC
+      <sm:copyright rdf:datatype="&xsd;string">Copyright (c) 2015-2019 Object Management Group, Inc.
+          Copyright (c) 2015-2019 Adaptive Inc.
+          Copyright (c) 2015-2019 Thematix Partners LLC
           Copyright (c) 2015-2017 Unisys
         </sm:copyright>
       <dct:license rdf:resource="&sm;MITLicense"/>
@@ -47,9 +47,9 @@
 
       <sm:filename rdf:datatype="&xsd;string">ISO3166-2-SubdivisionCodes-PW.rdf</sm:filename>
       <sm:fileAbbreviation rdf:datatype="&xsd;string">lcc-3166-2-pw</sm:fileAbbreviation>
-      <owl:versionIRI rdf:resource="http://www.omg.org/spec/LCC/20170801/Countries/Regions/ISO3166-2-SubdivisionCodes-PW/"/>
+      <owl:versionIRI rdf:resource="http://www.omg.org/spec/LCC/20190301/Countries/Regions/ISO3166-2-SubdivisionCodes-PW/"/>
       <sm:fileAbstract rdf:datatype="&xsd;string">This ontology represents the subset of the ISO 3166 standard that includes the actual ISO 3166-2 subdivision codes for Palau, with the ontology and codes for the other parts of the standard represented in models that this ontology depends on.</sm:fileAbstract>
-      <dct:issued rdf:datatype="&xsd;dateTime">2017-07-20T22:26:02.631805+02:00</dct:issued>
+      <dct:issued rdf:datatype="&xsd;dateTime">2019-02-14T00:48:51.124818+01:00</dct:issued>
 
       <sm:dependsOn rdf:datatype="&xsd;anyURI">http://www.omg.org/spec/LCC/Languages/LanguageRepresentation/</sm:dependsOn>
       <sm:dependsOn rdf:datatype="&xsd;anyURI">http://www.omg.org/spec/LCC/Countries/CountryRepresentation/</sm:dependsOn>
@@ -92,68 +92,6 @@
     //
     ///////////////////////////////////////////////////////////////////////////////////////
     -->
-
-
-  <!--
-    ///////////////////////////////////////////////////////////////////////////////////////
-    //
-    // Hatohobei
-    //
-    ///////////////////////////////////////////////////////////////////////////////////////
-    -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-pw;Hatohobei">
-      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>Hatohobei</rdfs:label>
-      <skos:definition>The state of Hatohobei in the country of Palau</skos:definition>
-      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Palau"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string">Hatohobei</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Hatohobei</lcc-cr:hasEnglishShortName>
-      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-pw;State"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-pw;"/>
-   </owl:NamedIndividual>
-
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-pw;PW-050">
-      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the state of Hatohobei in the country of Palau</skos:definition>
-      <rdfs:label>PW-050</rdfs:label>
-      <lcc-lr:hasTag rdf:datatype="&xsd;string">PW-050</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-2-pw;Hatohobei"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-2-pw;Hatohobei"/>
-      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-pw;"/>
-   </owl:NamedIndividual>
-
-
-
-  <!--
-    ///////////////////////////////////////////////////////////////////////////////////////
-    //
-    // Kayangel
-    //
-    ///////////////////////////////////////////////////////////////////////////////////////
-    -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-pw;Kayangel">
-      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>Kayangel</rdfs:label>
-      <skos:definition>The state of Kayangel in the country of Palau</skos:definition>
-      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Palau"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Kayangel</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string">Kayangel</lcc-cr:hasLocalShortName>
-      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-pw;State"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-pw;"/>
-   </owl:NamedIndividual>
-
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-pw;PW-100">
-      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the state of Kayangel in the country of Palau</skos:definition>
-      <rdfs:label>PW-100</rdfs:label>
-      <lcc-lr:hasTag rdf:datatype="&xsd;string">PW-100</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-2-pw;Kayangel"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-2-pw;Kayangel"/>
-      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-pw;"/>
-   </owl:NamedIndividual>
-
 
 
   <!--
@@ -584,6 +522,68 @@
       <lcc-lr:hasTag rdf:datatype="&xsd;string">PW-370</lcc-lr:hasTag>
       <lcc-lr:denotes rdf:resource="&lcc-3166-2-pw;Sonsorol"/>
       <lcc-lr:identifies rdf:resource="&lcc-3166-2-pw;Sonsorol"/>
+      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-pw;"/>
+   </owl:NamedIndividual>
+
+
+
+  <!--
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Hatohobei
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+    -->
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-pw;Hatohobei">
+      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
+      <rdfs:label>Hatohobei</rdfs:label>
+      <skos:definition>The state of Hatohobei in the country of Palau</skos:definition>
+      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Palau"/>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string">Hatohobei</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Hatohobei</lcc-cr:hasEnglishShortName>
+      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-pw;State"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-pw;"/>
+   </owl:NamedIndividual>
+
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-pw;PW-050">
+      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
+      <skos:definition>subdivision code for the state of Hatohobei in the country of Palau</skos:definition>
+      <rdfs:label>PW-050</rdfs:label>
+      <lcc-lr:hasTag rdf:datatype="&xsd;string">PW-050</lcc-lr:hasTag>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-pw;Hatohobei"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-pw;Hatohobei"/>
+      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-pw;"/>
+   </owl:NamedIndividual>
+
+
+
+  <!--
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Kayangel
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+    -->
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-pw;Kayangel">
+      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
+      <rdfs:label>Kayangel</rdfs:label>
+      <skos:definition>The state of Kayangel in the country of Palau</skos:definition>
+      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Palau"/>
+      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Kayangel</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string">Kayangel</lcc-cr:hasLocalShortName>
+      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-pw;State"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-pw;"/>
+   </owl:NamedIndividual>
+
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-pw;PW-100">
+      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
+      <skos:definition>subdivision code for the state of Kayangel in the country of Palau</skos:definition>
+      <rdfs:label>PW-100</rdfs:label>
+      <lcc-lr:hasTag rdf:datatype="&xsd;string">PW-100</lcc-lr:hasTag>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-pw;Kayangel"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-pw;Kayangel"/>
       <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-pw;"/>
    </owl:NamedIndividual>

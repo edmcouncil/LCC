@@ -36,9 +36,9 @@
 
       <!-- Curation and Rights Metadata for the LCC ISO 3166-2 Subdivision Codes for Timor-Leste Ontology -->
 
-      <sm:copyright rdf:datatype="&xsd;string">Copyright (c) 2015-2017 Object Management Group, Inc.
-          Copyright (c) 2015-2017 Adaptive Inc.
-          Copyright (c) 2015-2017 Thematix Partners LLC
+      <sm:copyright rdf:datatype="&xsd;string">Copyright (c) 2015-2019 Object Management Group, Inc.
+          Copyright (c) 2015-2019 Adaptive Inc.
+          Copyright (c) 2015-2019 Thematix Partners LLC
           Copyright (c) 2015-2017 Unisys
         </sm:copyright>
       <dct:license rdf:resource="&sm;MITLicense"/>
@@ -47,9 +47,9 @@
 
       <sm:filename rdf:datatype="&xsd;string">ISO3166-2-SubdivisionCodes-TL.rdf</sm:filename>
       <sm:fileAbbreviation rdf:datatype="&xsd;string">lcc-3166-2-tl</sm:fileAbbreviation>
-      <owl:versionIRI rdf:resource="http://www.omg.org/spec/LCC/20170801/Countries/Regions/ISO3166-2-SubdivisionCodes-TL/"/>
+      <owl:versionIRI rdf:resource="http://www.omg.org/spec/LCC/20190301/Countries/Regions/ISO3166-2-SubdivisionCodes-TL/"/>
       <sm:fileAbstract rdf:datatype="&xsd;string">This ontology represents the subset of the ISO 3166 standard that includes the actual ISO 3166-2 subdivision codes for Timor-Leste, with the ontology and codes for the other parts of the standard represented in models that this ontology depends on.</sm:fileAbstract>
-      <dct:issued rdf:datatype="&xsd;dateTime">2017-07-20T22:26:02.631805+02:00</dct:issued>
+      <dct:issued rdf:datatype="&xsd;dateTime">2019-02-14T00:48:51.124818+01:00</dct:issued>
 
       <sm:dependsOn rdf:datatype="&xsd;anyURI">http://www.omg.org/spec/LCC/Languages/LanguageRepresentation/</sm:dependsOn>
       <sm:dependsOn rdf:datatype="&xsd;anyURI">http://www.omg.org/spec/LCC/Countries/CountryRepresentation/</sm:dependsOn>
@@ -76,10 +76,17 @@
     //
     ///////////////////////////////////////////////////////////////////////////////////////
     -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-tl;District">
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-tl;Municipality">
       <rdf:type rdf:resource="&lcc-cr;GeographicRegionKind"/>
-      <rdfs:label>district</rdfs:label>
-      <skos:definition>subdivision category district in the country of Timor-Leste</skos:definition>
+      <rdfs:label>municipality</rdfs:label>
+      <skos:definition>subdivision category municipality in the country of Timor-Leste</skos:definition>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-tl;"/>
+   </owl:NamedIndividual>
+
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-tl;SpecialAdministrativeRegion">
+      <rdf:type rdf:resource="&lcc-cr;GeographicRegionKind"/>
+      <rdfs:label>special administrative region</rdfs:label>
+      <skos:definition>subdivision category special administrative region in the country of Timor-Leste</skos:definition>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-tl;"/>
    </owl:NamedIndividual>
 
@@ -104,17 +111,17 @@
    <owl:NamedIndividual rdf:about="&lcc-3166-2-tl;Aileu">
       <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
       <rdfs:label>Aileu</rdfs:label>
-      <skos:definition>The district of Aileu in the country of Timor-Leste</skos:definition>
+      <skos:definition>The municipality of Aileu in the country of Timor-Leste</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Timor-Leste"/>
       <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string">Aileu</lcc-cr:hasLocalShortName>
       <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="pt">Aileu</lcc-cr:hasLocalShortName>
-      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-tl;District"/>
+      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-tl;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-tl;"/>
    </owl:NamedIndividual>
 
    <owl:NamedIndividual rdf:about="&lcc-3166-2-tl;TL-AL">
       <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the district of Aileu in the country of Timor-Leste</skos:definition>
+      <skos:definition>subdivision code for the municipality of Aileu in the country of Timor-Leste</skos:definition>
       <rdfs:label>TL-AL</rdfs:label>
       <lcc-lr:hasTag rdf:datatype="&xsd;string">TL-AL</lcc-lr:hasTag>
       <lcc-lr:denotes rdf:resource="&lcc-3166-2-tl;Aileu"/>
@@ -128,28 +135,28 @@
   <!--
     ///////////////////////////////////////////////////////////////////////////////////////
     //
-    // Oekusi-Ambenu
+    // Oé-Cusse Ambeno
     //
     ///////////////////////////////////////////////////////////////////////////////////////
     -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-tl;Oekusi-Ambenu">
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-tl;Oe-CusseAmbeno">
       <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>Oekusi-Ambenu</rdfs:label>
-      <skos:definition>The district of Oekusi-Ambenu in the country of Timor-Leste</skos:definition>
+      <rdfs:label>Oé-Cusse Ambeno</rdfs:label>
+      <skos:definition>The special administrative region of Oé-Cusse Ambeno in the country of Timor-Leste</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Timor-Leste"/>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="pt">Oé-Cusse Ambeno</lcc-cr:hasLocalShortName>
       <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string">Oekusi-Ambenu</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="pt">Oecussi</lcc-cr:hasLocalShortName>
-      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-tl;District"/>
+      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-tl;SpecialAdministrativeRegion"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-tl;"/>
    </owl:NamedIndividual>
 
    <owl:NamedIndividual rdf:about="&lcc-3166-2-tl;TL-OE">
       <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the district of Oekusi-Ambenu in the country of Timor-Leste</skos:definition>
+      <skos:definition>subdivision code for the special administrative region of Oé-Cusse Ambeno in the country of Timor-Leste</skos:definition>
       <rdfs:label>TL-OE</rdfs:label>
       <lcc-lr:hasTag rdf:datatype="&xsd;string">TL-OE</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-2-tl;Oekusi-Ambenu"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-2-tl;Oekusi-Ambenu"/>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-tl;Oe-CusseAmbeno"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-tl;Oe-CusseAmbeno"/>
       <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-tl;"/>
    </owl:NamedIndividual>
@@ -166,17 +173,17 @@
    <owl:NamedIndividual rdf:about="&lcc-3166-2-tl;Ermera">
       <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
       <rdfs:label>Ermera</rdfs:label>
-      <skos:definition>The district of Ermera in the country of Timor-Leste</skos:definition>
+      <skos:definition>The municipality of Ermera in the country of Timor-Leste</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Timor-Leste"/>
       <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="pt">Ermera</lcc-cr:hasLocalShortName>
       <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string">Ermera</lcc-cr:hasLocalShortName>
-      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-tl;District"/>
+      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-tl;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-tl;"/>
    </owl:NamedIndividual>
 
    <owl:NamedIndividual rdf:about="&lcc-3166-2-tl;TL-ER">
       <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the district of Ermera in the country of Timor-Leste</skos:definition>
+      <skos:definition>subdivision code for the municipality of Ermera in the country of Timor-Leste</skos:definition>
       <rdfs:label>TL-ER</rdfs:label>
       <lcc-lr:hasTag rdf:datatype="&xsd;string">TL-ER</lcc-lr:hasTag>
       <lcc-lr:denotes rdf:resource="&lcc-3166-2-tl;Ermera"/>
@@ -197,17 +204,17 @@
    <owl:NamedIndividual rdf:about="&lcc-3166-2-tl;Bobonaru">
       <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
       <rdfs:label>Bobonaru</rdfs:label>
-      <skos:definition>The district of Bobonaru in the country of Timor-Leste</skos:definition>
+      <skos:definition>The municipality of Bobonaru in the country of Timor-Leste</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Timor-Leste"/>
       <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string">Bobonaru</lcc-cr:hasLocalShortName>
       <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="pt">Bobonaro</lcc-cr:hasLocalShortName>
-      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-tl;District"/>
+      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-tl;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-tl;"/>
    </owl:NamedIndividual>
 
    <owl:NamedIndividual rdf:about="&lcc-3166-2-tl;TL-BO">
       <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the district of Bobonaru in the country of Timor-Leste</skos:definition>
+      <skos:definition>subdivision code for the municipality of Bobonaru in the country of Timor-Leste</skos:definition>
       <rdfs:label>TL-BO</rdfs:label>
       <lcc-lr:hasTag rdf:datatype="&xsd;string">TL-BO</lcc-lr:hasTag>
       <lcc-lr:denotes rdf:resource="&lcc-3166-2-tl;Bobonaru"/>
@@ -228,17 +235,17 @@
    <owl:NamedIndividual rdf:about="&lcc-3166-2-tl;CovaLima">
       <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
       <rdfs:label>Cova Lima</rdfs:label>
-      <skos:definition>The district of Cova Lima in the country of Timor-Leste</skos:definition>
+      <skos:definition>The municipality of Cova Lima in the country of Timor-Leste</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Timor-Leste"/>
       <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="pt">Cova Lima</lcc-cr:hasLocalShortName>
       <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string">Kovalima</lcc-cr:hasLocalShortName>
-      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-tl;District"/>
+      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-tl;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-tl;"/>
    </owl:NamedIndividual>
 
    <owl:NamedIndividual rdf:about="&lcc-3166-2-tl;TL-CO">
       <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the district of Cova Lima in the country of Timor-Leste</skos:definition>
+      <skos:definition>subdivision code for the municipality of Cova Lima in the country of Timor-Leste</skos:definition>
       <rdfs:label>TL-CO</rdfs:label>
       <lcc-lr:hasTag rdf:datatype="&xsd;string">TL-CO</lcc-lr:hasTag>
       <lcc-lr:denotes rdf:resource="&lcc-3166-2-tl;CovaLima"/>
@@ -259,17 +266,17 @@
    <owl:NamedIndividual rdf:about="&lcc-3166-2-tl;Manufahi">
       <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
       <rdfs:label>Manufahi</rdfs:label>
-      <skos:definition>The district of Manufahi in the country of Timor-Leste</skos:definition>
+      <skos:definition>The municipality of Manufahi in the country of Timor-Leste</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Timor-Leste"/>
       <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string">Manufahi</lcc-cr:hasLocalShortName>
       <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="pt">Manufahi</lcc-cr:hasLocalShortName>
-      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-tl;District"/>
+      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-tl;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-tl;"/>
    </owl:NamedIndividual>
 
    <owl:NamedIndividual rdf:about="&lcc-3166-2-tl;TL-MF">
       <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the district of Manufahi in the country of Timor-Leste</skos:definition>
+      <skos:definition>subdivision code for the municipality of Manufahi in the country of Timor-Leste</skos:definition>
       <rdfs:label>TL-MF</rdfs:label>
       <lcc-lr:hasTag rdf:datatype="&xsd;string">TL-MF</lcc-lr:hasTag>
       <lcc-lr:denotes rdf:resource="&lcc-3166-2-tl;Manufahi"/>
@@ -290,17 +297,17 @@
    <owl:NamedIndividual rdf:about="&lcc-3166-2-tl;Ainaru">
       <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
       <rdfs:label>Ainaru</rdfs:label>
-      <skos:definition>The district of Ainaru in the country of Timor-Leste</skos:definition>
+      <skos:definition>The municipality of Ainaru in the country of Timor-Leste</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Timor-Leste"/>
       <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string">Ainaru</lcc-cr:hasLocalShortName>
       <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="pt">Ainaro</lcc-cr:hasLocalShortName>
-      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-tl;District"/>
+      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-tl;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-tl;"/>
    </owl:NamedIndividual>
 
    <owl:NamedIndividual rdf:about="&lcc-3166-2-tl;TL-AN">
       <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the district of Ainaru in the country of Timor-Leste</skos:definition>
+      <skos:definition>subdivision code for the municipality of Ainaru in the country of Timor-Leste</skos:definition>
       <rdfs:label>TL-AN</rdfs:label>
       <lcc-lr:hasTag rdf:datatype="&xsd;string">TL-AN</lcc-lr:hasTag>
       <lcc-lr:denotes rdf:resource="&lcc-3166-2-tl;Ainaru"/>
@@ -321,17 +328,17 @@
    <owl:NamedIndividual rdf:about="&lcc-3166-2-tl;Baucau">
       <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
       <rdfs:label>Baucau</rdfs:label>
-      <skos:definition>The district of Baucau in the country of Timor-Leste</skos:definition>
+      <skos:definition>The municipality of Baucau in the country of Timor-Leste</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Timor-Leste"/>
       <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="pt">Baucau</lcc-cr:hasLocalShortName>
       <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string">Baukau</lcc-cr:hasLocalShortName>
-      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-tl;District"/>
+      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-tl;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-tl;"/>
    </owl:NamedIndividual>
 
    <owl:NamedIndividual rdf:about="&lcc-3166-2-tl;TL-BA">
       <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the district of Baucau in the country of Timor-Leste</skos:definition>
+      <skos:definition>subdivision code for the municipality of Baucau in the country of Timor-Leste</skos:definition>
       <rdfs:label>TL-BA</rdfs:label>
       <lcc-lr:hasTag rdf:datatype="&xsd;string">TL-BA</lcc-lr:hasTag>
       <lcc-lr:denotes rdf:resource="&lcc-3166-2-tl;Baucau"/>
@@ -345,28 +352,28 @@
   <!--
     ///////////////////////////////////////////////////////////////////////////////////////
     //
-    // Lautém
+    // Lautein
     //
     ///////////////////////////////////////////////////////////////////////////////////////
     -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-tl;Lautem">
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-tl;Lautein">
       <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>Lautém</rdfs:label>
-      <skos:definition>The district of Lautém in the country of Timor-Leste</skos:definition>
+      <rdfs:label>Lautein</rdfs:label>
+      <skos:definition>The municipality of Lautein in the country of Timor-Leste</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Timor-Leste"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string">Lautém</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="pt">Lautem</lcc-cr:hasLocalShortName>
-      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-tl;District"/>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string">Lautein</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="pt">Lautém</lcc-cr:hasLocalShortName>
+      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-tl;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-tl;"/>
    </owl:NamedIndividual>
 
    <owl:NamedIndividual rdf:about="&lcc-3166-2-tl;TL-LA">
       <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the district of Lautém in the country of Timor-Leste</skos:definition>
+      <skos:definition>subdivision code for the municipality of Lautein in the country of Timor-Leste</skos:definition>
       <rdfs:label>TL-LA</rdfs:label>
       <lcc-lr:hasTag rdf:datatype="&xsd;string">TL-LA</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-2-tl;Lautem"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-2-tl;Lautem"/>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-tl;Lautein"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-tl;Lautein"/>
       <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-tl;"/>
    </owl:NamedIndividual>
@@ -383,17 +390,17 @@
    <owl:NamedIndividual rdf:about="&lcc-3166-2-tl;Viqueque">
       <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
       <rdfs:label>Viqueque</rdfs:label>
-      <skos:definition>The district of Viqueque in the country of Timor-Leste</skos:definition>
+      <skos:definition>The municipality of Viqueque in the country of Timor-Leste</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Timor-Leste"/>
       <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="pt">Viqueque</lcc-cr:hasLocalShortName>
       <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string">Vikeke</lcc-cr:hasLocalShortName>
-      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-tl;District"/>
+      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-tl;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-tl;"/>
    </owl:NamedIndividual>
 
    <owl:NamedIndividual rdf:about="&lcc-3166-2-tl;TL-VI">
       <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the district of Viqueque in the country of Timor-Leste</skos:definition>
+      <skos:definition>subdivision code for the municipality of Viqueque in the country of Timor-Leste</skos:definition>
       <rdfs:label>TL-VI</rdfs:label>
       <lcc-lr:hasTag rdf:datatype="&xsd;string">TL-VI</lcc-lr:hasTag>
       <lcc-lr:denotes rdf:resource="&lcc-3166-2-tl;Viqueque"/>
@@ -414,17 +421,17 @@
    <owl:NamedIndividual rdf:about="&lcc-3166-2-tl;Dili">
       <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
       <rdfs:label>Díli</rdfs:label>
-      <skos:definition>The district of Díli in the country of Timor-Leste</skos:definition>
+      <skos:definition>The municipality of Díli in the country of Timor-Leste</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Timor-Leste"/>
       <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="pt">Díli</lcc-cr:hasLocalShortName>
       <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string">Díli</lcc-cr:hasLocalShortName>
-      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-tl;District"/>
+      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-tl;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-tl;"/>
    </owl:NamedIndividual>
 
    <owl:NamedIndividual rdf:about="&lcc-3166-2-tl;TL-DI">
       <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the district of Díli in the country of Timor-Leste</skos:definition>
+      <skos:definition>subdivision code for the municipality of Díli in the country of Timor-Leste</skos:definition>
       <rdfs:label>TL-DI</rdfs:label>
       <lcc-lr:hasTag rdf:datatype="&xsd;string">TL-DI</lcc-lr:hasTag>
       <lcc-lr:denotes rdf:resource="&lcc-3166-2-tl;Dili"/>
@@ -445,17 +452,17 @@
    <owl:NamedIndividual rdf:about="&lcc-3166-2-tl;Likisa">
       <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
       <rdfs:label>Likisá</rdfs:label>
-      <skos:definition>The district of Likisá in the country of Timor-Leste</skos:definition>
+      <skos:definition>The municipality of Likisá in the country of Timor-Leste</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Timor-Leste"/>
       <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string">Likisá</lcc-cr:hasLocalShortName>
       <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="pt">Liquiça</lcc-cr:hasLocalShortName>
-      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-tl;District"/>
+      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-tl;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-tl;"/>
    </owl:NamedIndividual>
 
    <owl:NamedIndividual rdf:about="&lcc-3166-2-tl;TL-LI">
       <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the district of Likisá in the country of Timor-Leste</skos:definition>
+      <skos:definition>subdivision code for the municipality of Likisá in the country of Timor-Leste</skos:definition>
       <rdfs:label>TL-LI</rdfs:label>
       <lcc-lr:hasTag rdf:datatype="&xsd;string">TL-LI</lcc-lr:hasTag>
       <lcc-lr:denotes rdf:resource="&lcc-3166-2-tl;Likisa"/>
@@ -476,17 +483,17 @@
    <owl:NamedIndividual rdf:about="&lcc-3166-2-tl;Manatutu">
       <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
       <rdfs:label>Manatutu</rdfs:label>
-      <skos:definition>The district of Manatutu in the country of Timor-Leste</skos:definition>
+      <skos:definition>The municipality of Manatutu in the country of Timor-Leste</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Timor-Leste"/>
       <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string">Manatutu</lcc-cr:hasLocalShortName>
       <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="pt">Manatuto</lcc-cr:hasLocalShortName>
-      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-tl;District"/>
+      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-tl;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-tl;"/>
    </owl:NamedIndividual>
 
    <owl:NamedIndividual rdf:about="&lcc-3166-2-tl;TL-MT">
       <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the district of Manatutu in the country of Timor-Leste</skos:definition>
+      <skos:definition>subdivision code for the municipality of Manatutu in the country of Timor-Leste</skos:definition>
       <rdfs:label>TL-MT</rdfs:label>
       <lcc-lr:hasTag rdf:datatype="&xsd;string">TL-MT</lcc-lr:hasTag>
       <lcc-lr:denotes rdf:resource="&lcc-3166-2-tl;Manatutu"/>
@@ -509,8 +516,8 @@
       <rdfs:label>the exclave of Oecussi</rdfs:label>
       <skos:definition>The territory of the exclave of Oecussi in the country of Timor-Leste</skos:definition>
       <lcc-cr:hasNumericRegionCode rdf:datatype="&xsd;string">1143</lcc-cr:hasNumericRegionCode>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">the exclave of Oecussi</lcc-cr:hasEnglishShortName>
       <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">l'exclave d'Oecussi</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">the exclave of Oecussi</lcc-cr:hasEnglishShortName>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Timor-Leste"/>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2;Territory"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-tl;"/>

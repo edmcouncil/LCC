@@ -36,9 +36,9 @@
 
       <!-- Curation and Rights Metadata for the LCC ISO 3166-2 Subdivision Codes for Peru Ontology -->
 
-      <sm:copyright rdf:datatype="&xsd;string">Copyright (c) 2015-2017 Object Management Group, Inc.
-          Copyright (c) 2015-2017 Adaptive Inc.
-          Copyright (c) 2015-2017 Thematix Partners LLC
+      <sm:copyright rdf:datatype="&xsd;string">Copyright (c) 2015-2019 Object Management Group, Inc.
+          Copyright (c) 2015-2019 Adaptive Inc.
+          Copyright (c) 2015-2019 Thematix Partners LLC
           Copyright (c) 2015-2017 Unisys
         </sm:copyright>
       <dct:license rdf:resource="&sm;MITLicense"/>
@@ -47,9 +47,9 @@
 
       <sm:filename rdf:datatype="&xsd;string">ISO3166-2-SubdivisionCodes-PE.rdf</sm:filename>
       <sm:fileAbbreviation rdf:datatype="&xsd;string">lcc-3166-2-pe</sm:fileAbbreviation>
-      <owl:versionIRI rdf:resource="http://www.omg.org/spec/LCC/20170801/Countries/Regions/ISO3166-2-SubdivisionCodes-PE/"/>
+      <owl:versionIRI rdf:resource="http://www.omg.org/spec/LCC/20190301/Countries/Regions/ISO3166-2-SubdivisionCodes-PE/"/>
       <sm:fileAbstract rdf:datatype="&xsd;string">This ontology represents the subset of the ISO 3166 standard that includes the actual ISO 3166-2 subdivision codes for Peru, with the ontology and codes for the other parts of the standard represented in models that this ontology depends on.</sm:fileAbstract>
-      <dct:issued rdf:datatype="&xsd;dateTime">2017-07-20T22:26:02.631805+02:00</dct:issued>
+      <dct:issued rdf:datatype="&xsd;dateTime">2019-02-14T00:48:51.124818+01:00</dct:issued>
 
       <sm:dependsOn rdf:datatype="&xsd;anyURI">http://www.omg.org/spec/LCC/Languages/LanguageRepresentation/</sm:dependsOn>
       <sm:dependsOn rdf:datatype="&xsd;anyURI">http://www.omg.org/spec/LCC/Countries/CountryRepresentation/</sm:dependsOn>
@@ -99,166 +99,6 @@
     //
     ///////////////////////////////////////////////////////////////////////////////////////
     -->
-
-
-  <!--
-    ///////////////////////////////////////////////////////////////////////////////////////
-    //
-    // Kashamarka
-    //
-    ///////////////////////////////////////////////////////////////////////////////////////
-    -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-pe;Kashamarka">
-      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>Kashamarka</rdfs:label>
-      <skos:definition>The region of Kashamarka in the country of Peru</skos:definition>
-      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Peru"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="qu">Kashamarka</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ay">Qajamarka</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Cajamarca</lcc-cr:hasLocalShortName>
-      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-pe;Region"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-pe;"/>
-   </owl:NamedIndividual>
-
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-pe;PE-CAJ">
-      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the region of Kashamarka in the country of Peru</skos:definition>
-      <rdfs:label>PE-CAJ</rdfs:label>
-      <lcc-lr:hasTag rdf:datatype="&xsd;string">PE-CAJ</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-2-pe;Kashamarka"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-2-pe;Kashamarka"/>
-      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-pe;"/>
-   </owl:NamedIndividual>
-
-
-
-  <!--
-    ///////////////////////////////////////////////////////////////////////////////////////
-    //
-    // Junín
-    //
-    ///////////////////////////////////////////////////////////////////////////////////////
-    -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-pe;Junin">
-      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>Junín</rdfs:label>
-      <skos:definition>The region of Junín in the country of Peru</skos:definition>
-      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Peru"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Junín</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ay">Junin</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="qu">Hunin</lcc-cr:hasLocalShortName>
-      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-pe;Region"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-pe;"/>
-   </owl:NamedIndividual>
-
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-pe;PE-JUN">
-      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the region of Junín in the country of Peru</skos:definition>
-      <rdfs:label>PE-JUN</rdfs:label>
-      <lcc-lr:hasTag rdf:datatype="&xsd;string">PE-JUN</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-2-pe;Junin"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-2-pe;Junin"/>
-      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-pe;"/>
-   </owl:NamedIndividual>
-
-
-
-  <!--
-    ///////////////////////////////////////////////////////////////////////////////////////
-    //
-    // Lima llaqta suyu
-    //
-    ///////////////////////////////////////////////////////////////////////////////////////
-    -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-pe;LimaLlaqtaSuyu">
-      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>Lima llaqta suyu</rdfs:label>
-      <skos:definition>The municipality of Lima llaqta suyu in the country of Peru</skos:definition>
-      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Peru"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="qu">Lima llaqta suyu</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ay">Lima hatun llaqta</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Municipalidad Metropolitana de Lima</lcc-cr:hasLocalShortName>
-      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-pe;Municipality"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-pe;"/>
-   </owl:NamedIndividual>
-
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-pe;PE-LMA">
-      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the municipality of Lima llaqta suyu in the country of Peru</skos:definition>
-      <rdfs:label>PE-LMA</rdfs:label>
-      <lcc-lr:hasTag rdf:datatype="&xsd;string">PE-LMA</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-2-pe;LimaLlaqtaSuyu"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-2-pe;LimaLlaqtaSuyu"/>
-      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-pe;"/>
-   </owl:NamedIndividual>
-
-
-
-  <!--
-    ///////////////////////////////////////////////////////////////////////////////////////
-    //
-    // Luritu
-    //
-    ///////////////////////////////////////////////////////////////////////////////////////
-    -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-pe;Luritu">
-      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>Luritu</rdfs:label>
-      <skos:definition>The region of Luritu in the country of Peru</skos:definition>
-      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Peru"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="qu">Luritu</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ay">Luritu</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Loreto</lcc-cr:hasLocalShortName>
-      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-pe;Region"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-pe;"/>
-   </owl:NamedIndividual>
-
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-pe;PE-LOR">
-      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the region of Luritu in the country of Peru</skos:definition>
-      <rdfs:label>PE-LOR</rdfs:label>
-      <lcc-lr:hasTag rdf:datatype="&xsd;string">PE-LOR</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-2-pe;Luritu"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-2-pe;Luritu"/>
-      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-pe;"/>
-   </owl:NamedIndividual>
-
-
-
-  <!--
-    ///////////////////////////////////////////////////////////////////////////////////////
-    //
-    // Ucayali
-    //
-    ///////////////////////////////////////////////////////////////////////////////////////
-    -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-pe;Ucayali">
-      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>Ucayali</rdfs:label>
-      <skos:definition>The region of Ucayali in the country of Peru</skos:definition>
-      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Peru"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Ucayali</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="qu">Ukayali</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ay">Ukayali</lcc-cr:hasLocalShortName>
-      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-pe;Region"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-pe;"/>
-   </owl:NamedIndividual>
-
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-pe;PE-UCA">
-      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the region of Ucayali in the country of Peru</skos:definition>
-      <rdfs:label>PE-UCA</rdfs:label>
-      <lcc-lr:hasTag rdf:datatype="&xsd;string">PE-UCA</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-2-pe;Ucayali"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-2-pe;Ucayali"/>
-      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-pe;"/>
-   </owl:NamedIndividual>
-
 
 
   <!--
@@ -927,6 +767,166 @@
       <lcc-lr:hasTag rdf:datatype="&xsd;string">PE-TUM</lcc-lr:hasTag>
       <lcc-lr:denotes rdf:resource="&lcc-3166-2-pe;Tumbes"/>
       <lcc-lr:identifies rdf:resource="&lcc-3166-2-pe;Tumbes"/>
+      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-pe;"/>
+   </owl:NamedIndividual>
+
+
+
+  <!--
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Kashamarka
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+    -->
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-pe;Kashamarka">
+      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
+      <rdfs:label>Kashamarka</rdfs:label>
+      <skos:definition>The region of Kashamarka in the country of Peru</skos:definition>
+      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Peru"/>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="qu">Kashamarka</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ay">Qajamarka</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Cajamarca</lcc-cr:hasLocalShortName>
+      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-pe;Region"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-pe;"/>
+   </owl:NamedIndividual>
+
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-pe;PE-CAJ">
+      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
+      <skos:definition>subdivision code for the region of Kashamarka in the country of Peru</skos:definition>
+      <rdfs:label>PE-CAJ</rdfs:label>
+      <lcc-lr:hasTag rdf:datatype="&xsd;string">PE-CAJ</lcc-lr:hasTag>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-pe;Kashamarka"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-pe;Kashamarka"/>
+      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-pe;"/>
+   </owl:NamedIndividual>
+
+
+
+  <!--
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Junín
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+    -->
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-pe;Junin">
+      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
+      <rdfs:label>Junín</rdfs:label>
+      <skos:definition>The region of Junín in the country of Peru</skos:definition>
+      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Peru"/>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Junín</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ay">Junin</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="qu">Hunin</lcc-cr:hasLocalShortName>
+      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-pe;Region"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-pe;"/>
+   </owl:NamedIndividual>
+
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-pe;PE-JUN">
+      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
+      <skos:definition>subdivision code for the region of Junín in the country of Peru</skos:definition>
+      <rdfs:label>PE-JUN</rdfs:label>
+      <lcc-lr:hasTag rdf:datatype="&xsd;string">PE-JUN</lcc-lr:hasTag>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-pe;Junin"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-pe;Junin"/>
+      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-pe;"/>
+   </owl:NamedIndividual>
+
+
+
+  <!--
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Lima llaqta suyu
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+    -->
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-pe;LimaLlaqtaSuyu">
+      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
+      <rdfs:label>Lima llaqta suyu</rdfs:label>
+      <skos:definition>The municipality of Lima llaqta suyu in the country of Peru</skos:definition>
+      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Peru"/>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="qu">Lima llaqta suyu</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ay">Lima hatun llaqta</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Municipalidad Metropolitana de Lima</lcc-cr:hasLocalShortName>
+      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-pe;Municipality"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-pe;"/>
+   </owl:NamedIndividual>
+
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-pe;PE-LMA">
+      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
+      <skos:definition>subdivision code for the municipality of Lima llaqta suyu in the country of Peru</skos:definition>
+      <rdfs:label>PE-LMA</rdfs:label>
+      <lcc-lr:hasTag rdf:datatype="&xsd;string">PE-LMA</lcc-lr:hasTag>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-pe;LimaLlaqtaSuyu"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-pe;LimaLlaqtaSuyu"/>
+      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-pe;"/>
+   </owl:NamedIndividual>
+
+
+
+  <!--
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Luritu
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+    -->
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-pe;Luritu">
+      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
+      <rdfs:label>Luritu</rdfs:label>
+      <skos:definition>The region of Luritu in the country of Peru</skos:definition>
+      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Peru"/>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="qu">Luritu</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ay">Luritu</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Loreto</lcc-cr:hasLocalShortName>
+      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-pe;Region"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-pe;"/>
+   </owl:NamedIndividual>
+
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-pe;PE-LOR">
+      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
+      <skos:definition>subdivision code for the region of Luritu in the country of Peru</skos:definition>
+      <rdfs:label>PE-LOR</rdfs:label>
+      <lcc-lr:hasTag rdf:datatype="&xsd;string">PE-LOR</lcc-lr:hasTag>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-pe;Luritu"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-pe;Luritu"/>
+      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-pe;"/>
+   </owl:NamedIndividual>
+
+
+
+  <!--
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Ucayali
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+    -->
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-pe;Ucayali">
+      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
+      <rdfs:label>Ucayali</rdfs:label>
+      <skos:definition>The region of Ucayali in the country of Peru</skos:definition>
+      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Peru"/>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Ucayali</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="qu">Ukayali</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ay">Ukayali</lcc-cr:hasLocalShortName>
+      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-pe;Region"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-pe;"/>
+   </owl:NamedIndividual>
+
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-pe;PE-UCA">
+      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
+      <skos:definition>subdivision code for the region of Ucayali in the country of Peru</skos:definition>
+      <rdfs:label>PE-UCA</rdfs:label>
+      <lcc-lr:hasTag rdf:datatype="&xsd;string">PE-UCA</lcc-lr:hasTag>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-pe;Ucayali"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-pe;Ucayali"/>
       <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-pe;"/>
    </owl:NamedIndividual>

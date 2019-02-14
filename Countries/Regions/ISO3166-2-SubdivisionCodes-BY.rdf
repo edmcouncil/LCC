@@ -36,9 +36,9 @@
 
       <!-- Curation and Rights Metadata for the LCC ISO 3166-2 Subdivision Codes for Belarus Ontology -->
 
-      <sm:copyright rdf:datatype="&xsd;string">Copyright (c) 2015-2017 Object Management Group, Inc.
-          Copyright (c) 2015-2017 Adaptive Inc.
-          Copyright (c) 2015-2017 Thematix Partners LLC
+      <sm:copyright rdf:datatype="&xsd;string">Copyright (c) 2015-2019 Object Management Group, Inc.
+          Copyright (c) 2015-2019 Adaptive Inc.
+          Copyright (c) 2015-2019 Thematix Partners LLC
           Copyright (c) 2015-2017 Unisys
         </sm:copyright>
       <dct:license rdf:resource="&sm;MITLicense"/>
@@ -47,9 +47,9 @@
 
       <sm:filename rdf:datatype="&xsd;string">ISO3166-2-SubdivisionCodes-BY.rdf</sm:filename>
       <sm:fileAbbreviation rdf:datatype="&xsd;string">lcc-3166-2-by</sm:fileAbbreviation>
-      <owl:versionIRI rdf:resource="http://www.omg.org/spec/LCC/20170801/Countries/Regions/ISO3166-2-SubdivisionCodes-BY/"/>
+      <owl:versionIRI rdf:resource="http://www.omg.org/spec/LCC/20190301/Countries/Regions/ISO3166-2-SubdivisionCodes-BY/"/>
       <sm:fileAbstract rdf:datatype="&xsd;string">This ontology represents the subset of the ISO 3166 standard that includes the actual ISO 3166-2 subdivision codes for Belarus, with the ontology and codes for the other parts of the standard represented in models that this ontology depends on.</sm:fileAbstract>
-      <dct:issued rdf:datatype="&xsd;dateTime">2017-07-20T22:26:02.631805+02:00</dct:issued>
+      <dct:issued rdf:datatype="&xsd;dateTime">2019-02-14T00:48:51.124818+01:00</dct:issued>
 
       <sm:dependsOn rdf:datatype="&xsd;anyURI">http://www.omg.org/spec/LCC/Languages/LanguageRepresentation/</sm:dependsOn>
       <sm:dependsOn rdf:datatype="&xsd;anyURI">http://www.omg.org/spec/LCC/Countries/CountryRepresentation/</sm:dependsOn>
@@ -302,16 +302,16 @@
   <!--
     ///////////////////////////////////////////////////////////////////////////////////////
     //
-    // Minskaja  voblasć
+    // Minskaja voblasć
     //
     ///////////////////////////////////////////////////////////////////////////////////////
     -->
    <owl:NamedIndividual rdf:about="&lcc-3166-2-by;MinskajaVoblasc">
       <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>Minskaja  voblasć</rdfs:label>
-      <skos:definition>The oblast of Minskaja  voblasć in the country of Belarus</skos:definition>
+      <rdfs:label>Minskaja voblasć</rdfs:label>
+      <skos:definition>The oblast of Minskaja voblasć in the country of Belarus</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Belarus"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="be">Minskaja  voblasć</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="be">Minskaja voblasć</lcc-cr:hasLocalShortName>
       <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ru">Minskaya oblast'</lcc-cr:hasLocalShortName>
       <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="be">Minskaya voblasts'</lcc-cr:hasLocalShortName>
       <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ru">Minskaja oblast'</lcc-cr:hasLocalShortName>
@@ -321,7 +321,7 @@
 
    <owl:NamedIndividual rdf:about="&lcc-3166-2-by;BY-MI">
       <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the oblast of Minskaja  voblasć in the country of Belarus</skos:definition>
+      <skos:definition>subdivision code for the oblast of Minskaja voblasć in the country of Belarus</skos:definition>
       <rdfs:label>BY-MI</rdfs:label>
       <lcc-lr:hasTag rdf:datatype="&xsd;string">BY-MI</lcc-lr:hasTag>
       <lcc-lr:denotes rdf:resource="&lcc-3166-2-by;MinskajaVoblasc"/>

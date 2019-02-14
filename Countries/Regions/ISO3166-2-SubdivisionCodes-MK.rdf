@@ -36,9 +36,9 @@
 
       <!-- Curation and Rights Metadata for the LCC ISO 3166-2 Subdivision Codes for Macedonia (the former Yugoslav Republic of) Ontology -->
 
-      <sm:copyright rdf:datatype="&xsd;string">Copyright (c) 2015-2017 Object Management Group, Inc.
-          Copyright (c) 2015-2017 Adaptive Inc.
-          Copyright (c) 2015-2017 Thematix Partners LLC
+      <sm:copyright rdf:datatype="&xsd;string">Copyright (c) 2015-2019 Object Management Group, Inc.
+          Copyright (c) 2015-2019 Adaptive Inc.
+          Copyright (c) 2015-2019 Thematix Partners LLC
           Copyright (c) 2015-2017 Unisys
         </sm:copyright>
       <dct:license rdf:resource="&sm;MITLicense"/>
@@ -47,9 +47,9 @@
 
       <sm:filename rdf:datatype="&xsd;string">ISO3166-2-SubdivisionCodes-MK.rdf</sm:filename>
       <sm:fileAbbreviation rdf:datatype="&xsd;string">lcc-3166-2-mk</sm:fileAbbreviation>
-      <owl:versionIRI rdf:resource="http://www.omg.org/spec/LCC/20170801/Countries/Regions/ISO3166-2-SubdivisionCodes-MK/"/>
+      <owl:versionIRI rdf:resource="http://www.omg.org/spec/LCC/20190301/Countries/Regions/ISO3166-2-SubdivisionCodes-MK/"/>
       <sm:fileAbstract rdf:datatype="&xsd;string">This ontology represents the subset of the ISO 3166 standard that includes the actual ISO 3166-2 subdivision codes for Macedonia (the former Yugoslav Republic of), with the ontology and codes for the other parts of the standard represented in models that this ontology depends on.</sm:fileAbstract>
-      <dct:issued rdf:datatype="&xsd;dateTime">2017-07-20T22:26:02.631805+02:00</dct:issued>
+      <dct:issued rdf:datatype="&xsd;dateTime">2019-02-14T00:48:51.124818+01:00</dct:issued>
 
       <sm:dependsOn rdf:datatype="&xsd;anyURI">http://www.omg.org/spec/LCC/Languages/LanguageRepresentation/</sm:dependsOn>
       <sm:dependsOn rdf:datatype="&xsd;anyURI">http://www.omg.org/spec/LCC/Countries/CountryRepresentation/</sm:dependsOn>
@@ -92,246 +92,6 @@
     //
     ///////////////////////////////////////////////////////////////////////////////////////
     -->
-
-
-  <!--
-    ///////////////////////////////////////////////////////////////////////////////////////
-    //
-    // Veles
-    //
-    ///////////////////////////////////////////////////////////////////////////////////////
-    -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-mk;Veles">
-      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>Veles</rdfs:label>
-      <skos:definition>The municipality of Veles in the country of Macedonia (the former Yugoslav Republic of)</skos:definition>
-      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Macedonia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="mk">Veles</lcc-cr:hasLocalShortName>
-      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mk;Municipality"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mk;"/>
-   </owl:NamedIndividual>
-
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-mk;MK-13">
-      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the municipality of Veles in the country of Macedonia (the former Yugoslav Republic of)</skos:definition>
-      <rdfs:label>MK-13</rdfs:label>
-      <lcc-lr:hasTag rdf:datatype="&xsd;string">MK-13</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-2-mk;Veles"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-2-mk;Veles"/>
-      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mk;"/>
-   </owl:NamedIndividual>
-
-
-
-  <!--
-    ///////////////////////////////////////////////////////////////////////////////////////
-    //
-    // Zrnovci
-    //
-    ///////////////////////////////////////////////////////////////////////////////////////
-    -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-mk;Zrnovci">
-      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>Zrnovci</rdfs:label>
-      <skos:definition>The municipality of Zrnovci in the country of Macedonia (the former Yugoslav Republic of)</skos:definition>
-      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Macedonia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="mk">Zrnovci</lcc-cr:hasLocalShortName>
-      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mk;Municipality"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mk;"/>
-   </owl:NamedIndividual>
-
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-mk;MK-33">
-      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the municipality of Zrnovci in the country of Macedonia (the former Yugoslav Republic of)</skos:definition>
-      <rdfs:label>MK-33</rdfs:label>
-      <lcc-lr:hasTag rdf:datatype="&xsd;string">MK-33</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-2-mk;Zrnovci"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-2-mk;Zrnovci"/>
-      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mk;"/>
-   </owl:NamedIndividual>
-
-
-
-  <!--
-    ///////////////////////////////////////////////////////////////////////////////////////
-    //
-    // Lozovo
-    //
-    ///////////////////////////////////////////////////////////////////////////////////////
-    -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-mk;Lozovo">
-      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>Lozovo</rdfs:label>
-      <skos:definition>The municipality of Lozovo in the country of Macedonia (the former Yugoslav Republic of)</skos:definition>
-      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Macedonia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="mk">Lozovo</lcc-cr:hasLocalShortName>
-      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mk;Municipality"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mk;"/>
-   </owl:NamedIndividual>
-
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-mk;MK-49">
-      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the municipality of Lozovo in the country of Macedonia (the former Yugoslav Republic of)</skos:definition>
-      <rdfs:label>MK-49</rdfs:label>
-      <lcc-lr:hasTag rdf:datatype="&xsd;string">MK-49</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-2-mk;Lozovo"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-2-mk;Lozovo"/>
-      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mk;"/>
-   </owl:NamedIndividual>
-
-
-
-  <!--
-    ///////////////////////////////////////////////////////////////////////////////////////
-    //
-    // Makedonski Brod
-    //
-    ///////////////////////////////////////////////////////////////////////////////////////
-    -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-mk;MakedonskiBrod">
-      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>Makedonski Brod</rdfs:label>
-      <skos:definition>The municipality of Makedonski Brod in the country of Macedonia (the former Yugoslav Republic of)</skos:definition>
-      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Macedonia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="mk">Makedonski Brod</lcc-cr:hasLocalShortName>
-      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mk;Municipality"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mk;"/>
-   </owl:NamedIndividual>
-
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-mk;MK-52">
-      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the municipality of Makedonski Brod in the country of Macedonia (the former Yugoslav Republic of)</skos:definition>
-      <rdfs:label>MK-52</rdfs:label>
-      <lcc-lr:hasTag rdf:datatype="&xsd;string">MK-52</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-2-mk;MakedonskiBrod"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-2-mk;MakedonskiBrod"/>
-      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mk;"/>
-   </owl:NamedIndividual>
-
-
-
-  <!--
-    ///////////////////////////////////////////////////////////////////////////////////////
-    //
-    // Petrovec
-    //
-    ///////////////////////////////////////////////////////////////////////////////////////
-    -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-mk;Petrovec">
-      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>Petrovec</rdfs:label>
-      <skos:definition>The municipality of Petrovec in the country of Macedonia (the former Yugoslav Republic of)</skos:definition>
-      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Macedonia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="mk">Petrovec</lcc-cr:hasLocalShortName>
-      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mk;Municipality"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mk;"/>
-   </owl:NamedIndividual>
-
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-mk;MK-59">
-      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the municipality of Petrovec in the country of Macedonia (the former Yugoslav Republic of)</skos:definition>
-      <rdfs:label>MK-59</rdfs:label>
-      <lcc-lr:hasTag rdf:datatype="&xsd;string">MK-59</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-2-mk;Petrovec"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-2-mk;Petrovec"/>
-      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mk;"/>
-   </owl:NamedIndividual>
-
-
-
-  <!--
-    ///////////////////////////////////////////////////////////////////////////////////////
-    //
-    // Sopište
-    //
-    ///////////////////////////////////////////////////////////////////////////////////////
-    -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-mk;Sopiste">
-      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>Sopište</rdfs:label>
-      <skos:definition>The municipality of Sopište in the country of Macedonia (the former Yugoslav Republic of)</skos:definition>
-      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Macedonia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="mk">Sopište</lcc-cr:hasLocalShortName>
-      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mk;Municipality"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mk;"/>
-   </owl:NamedIndividual>
-
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-mk;MK-70">
-      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the municipality of Sopište in the country of Macedonia (the former Yugoslav Republic of)</skos:definition>
-      <rdfs:label>MK-70</rdfs:label>
-      <lcc-lr:hasTag rdf:datatype="&xsd;string">MK-70</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-2-mk;Sopiste"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-2-mk;Sopiste"/>
-      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mk;"/>
-   </owl:NamedIndividual>
-
-
-
-  <!--
-    ///////////////////////////////////////////////////////////////////////////////////////
-    //
-    // Čučer Sandevo
-    //
-    ///////////////////////////////////////////////////////////////////////////////////////
-    -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-mk;CucerSandevo">
-      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>Čučer Sandevo</rdfs:label>
-      <skos:definition>The municipality of Čučer Sandevo in the country of Macedonia (the former Yugoslav Republic of)</skos:definition>
-      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Macedonia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="mk">Čučer Sandevo</lcc-cr:hasLocalShortName>
-      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mk;Municipality"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mk;"/>
-   </owl:NamedIndividual>
-
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-mk;MK-82">
-      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the municipality of Čučer Sandevo in the country of Macedonia (the former Yugoslav Republic of)</skos:definition>
-      <rdfs:label>MK-82</rdfs:label>
-      <lcc-lr:hasTag rdf:datatype="&xsd;string">MK-82</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-2-mk;CucerSandevo"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-2-mk;CucerSandevo"/>
-      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mk;"/>
-   </owl:NamedIndividual>
-
-
-
-  <!--
-    ///////////////////////////////////////////////////////////////////////////////////////
-    //
-    // Skopje
-    //
-    ///////////////////////////////////////////////////////////////////////////////////////
-    -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-mk;Skopje">
-      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>Skopje</rdfs:label>
-      <skos:definition>The municipality of Skopje in the country of Macedonia (the former Yugoslav Republic of)</skos:definition>
-      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Macedonia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="mk">Skopje</lcc-cr:hasLocalShortName>
-      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mk;Municipality"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mk;"/>
-   </owl:NamedIndividual>
-
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-mk;MK-85">
-      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the municipality of Skopje in the country of Macedonia (the former Yugoslav Republic of)</skos:definition>
-      <rdfs:label>MK-85</rdfs:label>
-      <lcc-lr:hasTag rdf:datatype="&xsd;string">MK-85</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-2-mk;Skopje"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-2-mk;Skopje"/>
-      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mk;"/>
-   </owl:NamedIndividual>
-
 
 
   <!--
@@ -2218,6 +1978,246 @@
       <lcc-lr:hasTag rdf:datatype="&xsd;string">MK-83</lcc-lr:hasTag>
       <lcc-lr:denotes rdf:resource="&lcc-3166-2-mk;Stip"/>
       <lcc-lr:identifies rdf:resource="&lcc-3166-2-mk;Stip"/>
+      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mk;"/>
+   </owl:NamedIndividual>
+
+
+
+  <!--
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Veles
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+    -->
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-mk;Veles">
+      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
+      <rdfs:label>Veles</rdfs:label>
+      <skos:definition>The municipality of Veles in the country of Macedonia (the former Yugoslav Republic of)</skos:definition>
+      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Macedonia"/>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="mk">Veles</lcc-cr:hasLocalShortName>
+      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mk;Municipality"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mk;"/>
+   </owl:NamedIndividual>
+
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-mk;MK-13">
+      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
+      <skos:definition>subdivision code for the municipality of Veles in the country of Macedonia (the former Yugoslav Republic of)</skos:definition>
+      <rdfs:label>MK-13</rdfs:label>
+      <lcc-lr:hasTag rdf:datatype="&xsd;string">MK-13</lcc-lr:hasTag>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-mk;Veles"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-mk;Veles"/>
+      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mk;"/>
+   </owl:NamedIndividual>
+
+
+
+  <!--
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Zrnovci
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+    -->
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-mk;Zrnovci">
+      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
+      <rdfs:label>Zrnovci</rdfs:label>
+      <skos:definition>The municipality of Zrnovci in the country of Macedonia (the former Yugoslav Republic of)</skos:definition>
+      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Macedonia"/>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="mk">Zrnovci</lcc-cr:hasLocalShortName>
+      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mk;Municipality"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mk;"/>
+   </owl:NamedIndividual>
+
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-mk;MK-33">
+      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
+      <skos:definition>subdivision code for the municipality of Zrnovci in the country of Macedonia (the former Yugoslav Republic of)</skos:definition>
+      <rdfs:label>MK-33</rdfs:label>
+      <lcc-lr:hasTag rdf:datatype="&xsd;string">MK-33</lcc-lr:hasTag>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-mk;Zrnovci"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-mk;Zrnovci"/>
+      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mk;"/>
+   </owl:NamedIndividual>
+
+
+
+  <!--
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Lozovo
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+    -->
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-mk;Lozovo">
+      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
+      <rdfs:label>Lozovo</rdfs:label>
+      <skos:definition>The municipality of Lozovo in the country of Macedonia (the former Yugoslav Republic of)</skos:definition>
+      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Macedonia"/>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="mk">Lozovo</lcc-cr:hasLocalShortName>
+      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mk;Municipality"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mk;"/>
+   </owl:NamedIndividual>
+
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-mk;MK-49">
+      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
+      <skos:definition>subdivision code for the municipality of Lozovo in the country of Macedonia (the former Yugoslav Republic of)</skos:definition>
+      <rdfs:label>MK-49</rdfs:label>
+      <lcc-lr:hasTag rdf:datatype="&xsd;string">MK-49</lcc-lr:hasTag>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-mk;Lozovo"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-mk;Lozovo"/>
+      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mk;"/>
+   </owl:NamedIndividual>
+
+
+
+  <!--
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Makedonski Brod
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+    -->
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-mk;MakedonskiBrod">
+      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
+      <rdfs:label>Makedonski Brod</rdfs:label>
+      <skos:definition>The municipality of Makedonski Brod in the country of Macedonia (the former Yugoslav Republic of)</skos:definition>
+      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Macedonia"/>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="mk">Makedonski Brod</lcc-cr:hasLocalShortName>
+      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mk;Municipality"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mk;"/>
+   </owl:NamedIndividual>
+
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-mk;MK-52">
+      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
+      <skos:definition>subdivision code for the municipality of Makedonski Brod in the country of Macedonia (the former Yugoslav Republic of)</skos:definition>
+      <rdfs:label>MK-52</rdfs:label>
+      <lcc-lr:hasTag rdf:datatype="&xsd;string">MK-52</lcc-lr:hasTag>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-mk;MakedonskiBrod"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-mk;MakedonskiBrod"/>
+      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mk;"/>
+   </owl:NamedIndividual>
+
+
+
+  <!--
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Petrovec
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+    -->
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-mk;Petrovec">
+      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
+      <rdfs:label>Petrovec</rdfs:label>
+      <skos:definition>The municipality of Petrovec in the country of Macedonia (the former Yugoslav Republic of)</skos:definition>
+      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Macedonia"/>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="mk">Petrovec</lcc-cr:hasLocalShortName>
+      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mk;Municipality"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mk;"/>
+   </owl:NamedIndividual>
+
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-mk;MK-59">
+      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
+      <skos:definition>subdivision code for the municipality of Petrovec in the country of Macedonia (the former Yugoslav Republic of)</skos:definition>
+      <rdfs:label>MK-59</rdfs:label>
+      <lcc-lr:hasTag rdf:datatype="&xsd;string">MK-59</lcc-lr:hasTag>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-mk;Petrovec"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-mk;Petrovec"/>
+      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mk;"/>
+   </owl:NamedIndividual>
+
+
+
+  <!--
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Sopište
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+    -->
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-mk;Sopiste">
+      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
+      <rdfs:label>Sopište</rdfs:label>
+      <skos:definition>The municipality of Sopište in the country of Macedonia (the former Yugoslav Republic of)</skos:definition>
+      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Macedonia"/>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="mk">Sopište</lcc-cr:hasLocalShortName>
+      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mk;Municipality"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mk;"/>
+   </owl:NamedIndividual>
+
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-mk;MK-70">
+      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
+      <skos:definition>subdivision code for the municipality of Sopište in the country of Macedonia (the former Yugoslav Republic of)</skos:definition>
+      <rdfs:label>MK-70</rdfs:label>
+      <lcc-lr:hasTag rdf:datatype="&xsd;string">MK-70</lcc-lr:hasTag>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-mk;Sopiste"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-mk;Sopiste"/>
+      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mk;"/>
+   </owl:NamedIndividual>
+
+
+
+  <!--
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Čučer Sandevo
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+    -->
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-mk;CucerSandevo">
+      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
+      <rdfs:label>Čučer Sandevo</rdfs:label>
+      <skos:definition>The municipality of Čučer Sandevo in the country of Macedonia (the former Yugoslav Republic of)</skos:definition>
+      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Macedonia"/>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="mk">Čučer Sandevo</lcc-cr:hasLocalShortName>
+      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mk;Municipality"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mk;"/>
+   </owl:NamedIndividual>
+
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-mk;MK-82">
+      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
+      <skos:definition>subdivision code for the municipality of Čučer Sandevo in the country of Macedonia (the former Yugoslav Republic of)</skos:definition>
+      <rdfs:label>MK-82</rdfs:label>
+      <lcc-lr:hasTag rdf:datatype="&xsd;string">MK-82</lcc-lr:hasTag>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-mk;CucerSandevo"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-mk;CucerSandevo"/>
+      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mk;"/>
+   </owl:NamedIndividual>
+
+
+
+  <!--
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Skopje
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+    -->
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-mk;Skopje">
+      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
+      <rdfs:label>Skopje</rdfs:label>
+      <skos:definition>The municipality of Skopje in the country of Macedonia (the former Yugoslav Republic of)</skos:definition>
+      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Macedonia"/>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="mk">Skopje</lcc-cr:hasLocalShortName>
+      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mk;Municipality"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mk;"/>
+   </owl:NamedIndividual>
+
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-mk;MK-85">
+      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
+      <skos:definition>subdivision code for the municipality of Skopje in the country of Macedonia (the former Yugoslav Republic of)</skos:definition>
+      <rdfs:label>MK-85</rdfs:label>
+      <lcc-lr:hasTag rdf:datatype="&xsd;string">MK-85</lcc-lr:hasTag>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-mk;Skopje"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-mk;Skopje"/>
       <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mk;"/>
    </owl:NamedIndividual>

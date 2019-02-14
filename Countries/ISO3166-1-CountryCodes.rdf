@@ -29,9 +29,9 @@
 
       <!--Curation and Rights Metadata for the LCC ISO 3166-1 Country Codes Ontology -->
 
-      <sm:copyright rdf:datatype="&xsd;string">Copyright (c) 2015-2017 Object Management Group, Inc.
-        Copyright (c) 2015-2017 Adaptive Inc.
-        Copyright (c) 2015-2017 Thematix Partners LLC
+      <sm:copyright rdf:datatype="&xsd;string">Copyright (c) 2015-2019 Object Management Group, Inc.
+        Copyright (c) 2015-2019 Adaptive Inc.
+        Copyright (c) 2015-2019 Thematix Partners LLC
         Copyright (c) 2015-2017 Unisys
       </sm:copyright>
       <dct:license rdf:datatype="&xsd;anyURI">http://www.omg.org/techprocess/ab/SpecificationMetadata/MITLicense</dct:license>
@@ -40,10 +40,10 @@
 
       <sm:filename rdf:datatype="&xsd;string">ISO3166-1-CountryCodes.rdf</sm:filename>
       <sm:fileAbbreviation rdf:datatype="&xsd;string">lcc-3166-1</sm:fileAbbreviation>
-      <owl:versionIRI rdf:resource="http://www.omg.org/spec/LCC/20170801/Countries/ISO3166-1-CountryCodes/"/>
+      <owl:versionIRI rdf:resource="http://www.omg.org/spec/LCC/20190301/Countries/ISO3166-1-CountryCodes/"/>
       <sm:fileAbstract rdf:datatype="&xsd;string">This ontology represents the subset of the ISO 3166 standard that include the actual ISO 3166-1 country codes, with the ontology and codes for the other parts of the standard represented in dependent models.</sm:fileAbstract>
       <skos:changeNote rdf:datatype="&xsd;string">The http://www.omg.org/spec/LCC/20151101/Countries/ISO3166-1-CountryCodes.rdf version of this ontology has been revised to reflect the issues addressed by the LCC 1.0 FTF report.  The country codes and related metadata contained herein are current as of the July 2017 revision to the online code set.</skos:changeNote>
-      <dct:issued rdf:datatype="&xsd;dateTime">2017-07-20T22:26:02.631805+02:00</dct:issued>
+      <dct:issued rdf:datatype="&xsd;dateTime">2019-02-14T00:48:51.124818+01:00</dct:issued>
 
       <sm:dependsOn rdf:datatype="&xsd;anyURI">http://www.omg.org/spec/LCC/Languages/LanguageRepresentation/</sm:dependsOn>
       <sm:dependsOn rdf:datatype="&xsd;anyURI">http://www.omg.org/spec/LCC/Countries/CountryRepresentation/</sm:dependsOn>
@@ -184,13 +184,13 @@
       <skos:definition>individual representing the country of Andorra</skos:definition>
       <lcc-cr:isIndependent rdf:datatype="&xsd;boolean">true</lcc-cr:isIndependent>
       <lcc-cr:hasNumericRegionCode rdf:datatype="&xsd;string">020</lcc-cr:hasNumericRegionCode>
-      <lcc-cr:hasEnglishFullName rdf:datatype="&xsd;string" xml:lang="en">the Principality of Andorra</lcc-cr:hasEnglishFullName>
       <lcc-cr:hasFrenchFullName rdf:datatype="&xsd;string" xml:lang="fr">la Principauté d'Andorre</lcc-cr:hasFrenchFullName>
+      <lcc-cr:hasEnglishFullName rdf:datatype="&xsd;string" xml:lang="en">the Principality of Andorra</lcc-cr:hasEnglishFullName>
       <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ca">Andorra</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Andorra</lcc-cr:hasEnglishShortName>
       <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Andorre (l')</lcc-cr:hasFrenchShortName>
-      <lcc-cr:hasEnglishShortNameInCapitals rdf:datatype="&xsd;string" xml:lang="en">ANDORRA</lcc-cr:hasEnglishShortNameInCapitals>
+      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Andorra</lcc-cr:hasEnglishShortName>
       <lcc-cr:hasFrenchShortNameInCapitals rdf:datatype="&xsd;string" xml:lang="fr">ANDORRE</lcc-cr:hasFrenchShortNameInCapitals>
+      <lcc-cr:hasEnglishShortNameInCapitals rdf:datatype="&xsd;string" xml:lang="en">ANDORRA</lcc-cr:hasEnglishShortNameInCapitals>
       <lcc-cr:usesAdministrativeLanguage rdf:resource="&lcc-639-1;Catalan"/>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-1;Country"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-1;"/>
@@ -231,13 +231,13 @@
       <skos:definition>individual representing the country of United Arab Emirates (the)</skos:definition>
       <lcc-cr:isIndependent rdf:datatype="&xsd;boolean">true</lcc-cr:isIndependent>
       <lcc-cr:hasNumericRegionCode rdf:datatype="&xsd;string">784</lcc-cr:hasNumericRegionCode>
-      <lcc-cr:hasEnglishFullName rdf:datatype="&xsd;string" xml:lang="en">the United Arab Emirates</lcc-cr:hasEnglishFullName>
       <lcc-cr:hasFrenchFullName rdf:datatype="&xsd;string" xml:lang="fr">les Émirats arabes unis</lcc-cr:hasFrenchFullName>
+      <lcc-cr:hasEnglishFullName rdf:datatype="&xsd;string" xml:lang="en">the United Arab Emirates</lcc-cr:hasEnglishFullName>
       <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Al Imārāt</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">United Arab Emirates (the)</lcc-cr:hasEnglishShortName>
       <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Émirats arabes unis (les)</lcc-cr:hasFrenchShortName>
-      <lcc-cr:hasEnglishShortNameInCapitals rdf:datatype="&xsd;string" xml:lang="en">UNITED ARAB EMIRATES</lcc-cr:hasEnglishShortNameInCapitals>
+      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">United Arab Emirates (the)</lcc-cr:hasEnglishShortName>
       <lcc-cr:hasFrenchShortNameInCapitals rdf:datatype="&xsd;string" xml:lang="fr">ÉMIRATS ARABES UNIS</lcc-cr:hasFrenchShortNameInCapitals>
+      <lcc-cr:hasEnglishShortNameInCapitals rdf:datatype="&xsd;string" xml:lang="en">UNITED ARAB EMIRATES</lcc-cr:hasEnglishShortNameInCapitals>
       <lcc-cr:usesAdministrativeLanguage rdf:resource="&lcc-639-1;Arabic"/>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-1;Country"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-1;"/>
@@ -278,14 +278,14 @@
       <skos:definition>individual representing the country of Afghanistan</skos:definition>
       <lcc-cr:isIndependent rdf:datatype="&xsd;boolean">true</lcc-cr:isIndependent>
       <lcc-cr:hasNumericRegionCode rdf:datatype="&xsd;string">004</lcc-cr:hasNumericRegionCode>
-      <lcc-cr:hasEnglishFullName rdf:datatype="&xsd;string" xml:lang="en">the Islamic Republic of Afghanistan</lcc-cr:hasEnglishFullName>
       <lcc-cr:hasFrenchFullName rdf:datatype="&xsd;string" xml:lang="fr">la République islamique d'Afghanistan</lcc-cr:hasFrenchFullName>
+      <lcc-cr:hasEnglishFullName rdf:datatype="&xsd;string" xml:lang="en">the Islamic Republic of Afghanistan</lcc-cr:hasEnglishFullName>
+      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Afghanistan (l')</lcc-cr:hasFrenchShortName>
       <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Afghanistan</lcc-cr:hasEnglishShortName>
       <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="fa">Afghānistān</lcc-cr:hasLocalShortName>
       <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ps">Afghānistān</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Afghanistan (l')</lcc-cr:hasFrenchShortName>
-      <lcc-cr:hasEnglishShortNameInCapitals rdf:datatype="&xsd;string" xml:lang="en">AFGHANISTAN</lcc-cr:hasEnglishShortNameInCapitals>
       <lcc-cr:hasFrenchShortNameInCapitals rdf:datatype="&xsd;string" xml:lang="fr">AFGHANISTAN</lcc-cr:hasFrenchShortNameInCapitals>
+      <lcc-cr:hasEnglishShortNameInCapitals rdf:datatype="&xsd;string" xml:lang="en">AFGHANISTAN</lcc-cr:hasEnglishShortNameInCapitals>
       <lcc-cr:usesAdministrativeLanguage rdf:resource="&lcc-639-1;Persian"/>
       <lcc-cr:usesAdministrativeLanguage rdf:resource="&lcc-639-1;Pushto"/>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-1;Country"/>
@@ -377,7 +377,7 @@
       <lcc-cr:hasEnglishShortNameInCapitals rdf:datatype="&xsd;string" xml:lang="en">ANGUILLA</lcc-cr:hasEnglishShortNameInCapitals>
       <lcc-cr:hasFrenchShortNameInCapitals rdf:datatype="&xsd;string" xml:lang="fr">ANGUILLA</lcc-cr:hasFrenchShortNameInCapitals>
       <lcc-cr:usesAdministrativeLanguage rdf:resource="&lcc-639-1;English"/>
-      <lcc-cr:hasRemarks>No subdivision reported.</lcc-cr:hasRemarks>
+      <lcc-cr:hasRemarks>No subdivisions relevant for this standard.</lcc-cr:hasRemarks>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-1;Country"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-1;"/>
    </owl:NamedIndividual>
@@ -417,13 +417,13 @@
       <skos:definition>individual representing the country of Albania</skos:definition>
       <lcc-cr:isIndependent rdf:datatype="&xsd;boolean">true</lcc-cr:isIndependent>
       <lcc-cr:hasNumericRegionCode rdf:datatype="&xsd;string">008</lcc-cr:hasNumericRegionCode>
-      <lcc-cr:hasEnglishFullName rdf:datatype="&xsd;string" xml:lang="en">the Republic of Albania</lcc-cr:hasEnglishFullName>
       <lcc-cr:hasFrenchFullName rdf:datatype="&xsd;string" xml:lang="fr">la République d'Albanie</lcc-cr:hasFrenchFullName>
+      <lcc-cr:hasEnglishFullName rdf:datatype="&xsd;string" xml:lang="en">the Republic of Albania</lcc-cr:hasEnglishFullName>
       <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sq">Shqipëria; Shqipëri</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Albania</lcc-cr:hasEnglishShortName>
       <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Albanie (l')</lcc-cr:hasFrenchShortName>
-      <lcc-cr:hasEnglishShortNameInCapitals rdf:datatype="&xsd;string" xml:lang="en">ALBANIA</lcc-cr:hasEnglishShortNameInCapitals>
+      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Albania</lcc-cr:hasEnglishShortName>
       <lcc-cr:hasFrenchShortNameInCapitals rdf:datatype="&xsd;string" xml:lang="fr">ALBANIE</lcc-cr:hasFrenchShortNameInCapitals>
+      <lcc-cr:hasEnglishShortNameInCapitals rdf:datatype="&xsd;string" xml:lang="en">ALBANIA</lcc-cr:hasEnglishShortNameInCapitals>
       <lcc-cr:usesAdministrativeLanguage rdf:resource="&lcc-639-1;Albanian"/>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-1;Country"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-1;"/>
@@ -464,13 +464,13 @@
       <skos:definition>individual representing the country of Armenia</skos:definition>
       <lcc-cr:isIndependent rdf:datatype="&xsd;boolean">true</lcc-cr:isIndependent>
       <lcc-cr:hasNumericRegionCode rdf:datatype="&xsd;string">051</lcc-cr:hasNumericRegionCode>
-      <lcc-cr:hasEnglishFullName rdf:datatype="&xsd;string" xml:lang="en">the Republic of Armenia</lcc-cr:hasEnglishFullName>
       <lcc-cr:hasFrenchFullName rdf:datatype="&xsd;string" xml:lang="fr">la République d'Arménie</lcc-cr:hasFrenchFullName>
+      <lcc-cr:hasEnglishFullName rdf:datatype="&xsd;string" xml:lang="en">the Republic of Armenia</lcc-cr:hasEnglishFullName>
       <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="hy">Hayastan</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Armenia</lcc-cr:hasEnglishShortName>
       <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Arménie (l')</lcc-cr:hasFrenchShortName>
-      <lcc-cr:hasEnglishShortNameInCapitals rdf:datatype="&xsd;string" xml:lang="en">ARMENIA</lcc-cr:hasEnglishShortNameInCapitals>
+      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Armenia</lcc-cr:hasEnglishShortName>
       <lcc-cr:hasFrenchShortNameInCapitals rdf:datatype="&xsd;string" xml:lang="fr">ARMÉNIE</lcc-cr:hasFrenchShortNameInCapitals>
+      <lcc-cr:hasEnglishShortNameInCapitals rdf:datatype="&xsd;string" xml:lang="en">ARMENIA</lcc-cr:hasEnglishShortNameInCapitals>
       <lcc-cr:usesAdministrativeLanguage rdf:resource="&lcc-639-1;Armenian"/>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-1;Country"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-1;"/>
@@ -564,7 +564,7 @@
       <lcc-cr:hasEnglishShortNameInCapitals rdf:datatype="&xsd;string" xml:lang="en">ANTARCTICA</lcc-cr:hasEnglishShortNameInCapitals>
       <lcc-cr:hasFrenchShortNameInCapitals rdf:datatype="&xsd;string" xml:lang="fr">ANTARCTIQUE</lcc-cr:hasFrenchShortNameInCapitals>
       <lcc-cr:hasRemarks>Territories south of 60° south latitude.</lcc-cr:hasRemarks>
-      <lcc-cr:hasRemarks>No subdivision reported.</lcc-cr:hasRemarks>
+      <lcc-cr:hasRemarks>No subdivisions relevant for this standard.</lcc-cr:hasRemarks>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-1;Country"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-1;"/>
    </owl:NamedIndividual>
@@ -657,7 +657,7 @@
       <lcc-cr:hasFrenchShortNameInCapitals rdf:datatype="&xsd;string" xml:lang="fr">SAMOA AMÉRICAINES</lcc-cr:hasFrenchShortNameInCapitals>
       <lcc-cr:usesAdministrativeLanguage rdf:resource="&lcc-639-1;English"/>
       <lcc-cr:hasRemarks>Principal island:Tutuila. Includes: Swain's Island</lcc-cr:hasRemarks>
-      <lcc-cr:hasRemarks>No subdivision reported. Included also as a subdivision of the United States (US-AS).</lcc-cr:hasRemarks>
+      <lcc-cr:hasRemarks>No subdivisions relevant for this standard. Included also as a subdivision of the United States (US-AS).</lcc-cr:hasRemarks>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-1;Country"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-1;"/>
    </owl:NamedIndividual>
@@ -798,7 +798,7 @@ Islands, and Coral Sea Islands which are Australian external territories.</lcc-c
       <lcc-cr:hasEnglishShortNameInCapitals rdf:datatype="&xsd;string" xml:lang="en">ARUBA</lcc-cr:hasEnglishShortNameInCapitals>
       <lcc-cr:usesAdministrativeLanguage rdf:resource="&lcc-639-1;Dutch"/>
       <lcc-cr:usesAdministrativeLanguage rdf:resource="&lcc-639-2;Papiamento"/>
-      <lcc-cr:hasRemarks>No subdivision reported. Included also as subdivision of Netherlands (NL-AW).</lcc-cr:hasRemarks>
+      <lcc-cr:hasRemarks>No subdivisions relevant for this standard. Included also as subdivision of Netherlands (NL-AW).</lcc-cr:hasRemarks>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-1;Country"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-1;"/>
    </owl:NamedIndividual>
@@ -844,7 +844,7 @@ Islands, and Coral Sea Islands which are Australian external territories.</lcc-c
       <lcc-cr:hasFrenchShortNameInCapitals rdf:datatype="&xsd;string" xml:lang="fr">ÅLAND, ÎLES</lcc-cr:hasFrenchShortNameInCapitals>
       <lcc-cr:hasEnglishShortNameInCapitals rdf:datatype="&xsd;string" xml:lang="en">ÅLAND ISLANDS</lcc-cr:hasEnglishShortNameInCapitals>
       <lcc-cr:usesAdministrativeLanguage rdf:resource="&lcc-639-1;Swedish"/>
-      <lcc-cr:hasRemarks>No subdivision reported.</lcc-cr:hasRemarks>
+      <lcc-cr:hasRemarks>No subdivisions relevant for this standard.</lcc-cr:hasRemarks>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-1;Country"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-1;"/>
    </owl:NamedIndividual>
@@ -1309,12 +1309,12 @@ Islands, and Coral Sea Islands which are Australian external territories.</lcc-c
       <skos:definition>individual representing the country of Benin</skos:definition>
       <lcc-cr:isIndependent rdf:datatype="&xsd;boolean">true</lcc-cr:isIndependent>
       <lcc-cr:hasNumericRegionCode rdf:datatype="&xsd;string">204</lcc-cr:hasNumericRegionCode>
-      <lcc-cr:hasEnglishFullName rdf:datatype="&xsd;string" xml:lang="en">the Republic of Benin</lcc-cr:hasEnglishFullName>
       <lcc-cr:hasFrenchFullName rdf:datatype="&xsd;string" xml:lang="fr">la République du Bénin</lcc-cr:hasFrenchFullName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Benin</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishFullName rdf:datatype="&xsd;string" xml:lang="en">the Republic of Benin</lcc-cr:hasEnglishFullName>
       <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Bénin (le)</lcc-cr:hasFrenchShortName>
-      <lcc-cr:hasEnglishShortNameInCapitals rdf:datatype="&xsd;string" xml:lang="en">BENIN</lcc-cr:hasEnglishShortNameInCapitals>
+      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Benin</lcc-cr:hasEnglishShortName>
       <lcc-cr:hasFrenchShortNameInCapitals rdf:datatype="&xsd;string" xml:lang="fr">BÉNIN</lcc-cr:hasFrenchShortNameInCapitals>
+      <lcc-cr:hasEnglishShortNameInCapitals rdf:datatype="&xsd;string" xml:lang="en">BENIN</lcc-cr:hasEnglishShortNameInCapitals>
       <lcc-cr:usesAdministrativeLanguage rdf:resource="&lcc-639-1;French"/>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-1;Country"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-1;"/>
@@ -1355,12 +1355,12 @@ Islands, and Coral Sea Islands which are Australian external territories.</lcc-c
       <skos:definition>individual representing the country of Saint Barthélemy</skos:definition>
       <lcc-cr:isIndependent rdf:datatype="&xsd;boolean">false</lcc-cr:isIndependent>
       <lcc-cr:hasNumericRegionCode rdf:datatype="&xsd;string">652</lcc-cr:hasNumericRegionCode>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Saint-Barthélemy</lcc-cr:hasFrenchShortName>
       <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Saint Barthélemy</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasFrenchShortNameInCapitals rdf:datatype="&xsd;string" xml:lang="fr">SAINT-BARTHÉLEMY</lcc-cr:hasFrenchShortNameInCapitals>
+      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Saint-Barthélemy</lcc-cr:hasFrenchShortName>
       <lcc-cr:hasEnglishShortNameInCapitals rdf:datatype="&xsd;string" xml:lang="en">SAINT BARTHÉLEMY</lcc-cr:hasEnglishShortNameInCapitals>
+      <lcc-cr:hasFrenchShortNameInCapitals rdf:datatype="&xsd;string" xml:lang="fr">SAINT-BARTHÉLEMY</lcc-cr:hasFrenchShortNameInCapitals>
       <lcc-cr:usesAdministrativeLanguage rdf:resource="&lcc-639-1;French"/>
-      <lcc-cr:hasRemarks>No subdivision reported. Included also as subdivision of France (FR-BL).</lcc-cr:hasRemarks>
+      <lcc-cr:hasRemarks>No subdivisions relevant for this standard. Included also as subdivision of France (FR-BL).</lcc-cr:hasRemarks>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-1;Country"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-1;"/>
    </owl:NamedIndividual>
@@ -1400,12 +1400,12 @@ Islands, and Coral Sea Islands which are Australian external territories.</lcc-c
       <skos:definition>individual representing the country of Bermuda</skos:definition>
       <lcc-cr:isIndependent rdf:datatype="&xsd;boolean">false</lcc-cr:isIndependent>
       <lcc-cr:hasNumericRegionCode rdf:datatype="&xsd;string">060</lcc-cr:hasNumericRegionCode>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Bermudes (les)</lcc-cr:hasFrenchShortName>
       <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Bermuda</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasFrenchShortNameInCapitals rdf:datatype="&xsd;string" xml:lang="fr">BERMUDES</lcc-cr:hasFrenchShortNameInCapitals>
+      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Bermudes (les)</lcc-cr:hasFrenchShortName>
       <lcc-cr:hasEnglishShortNameInCapitals rdf:datatype="&xsd;string" xml:lang="en">BERMUDA</lcc-cr:hasEnglishShortNameInCapitals>
+      <lcc-cr:hasFrenchShortNameInCapitals rdf:datatype="&xsd;string" xml:lang="fr">BERMUDES</lcc-cr:hasFrenchShortNameInCapitals>
       <lcc-cr:usesAdministrativeLanguage rdf:resource="&lcc-639-1;English"/>
-      <lcc-cr:hasRemarks>Subdivision in 2 municipalities and 9 parishes which is not relevant for this part of ISO 3166.</lcc-cr:hasRemarks>
+      <lcc-cr:hasRemarks>No subdivisions relevant for this standard.</lcc-cr:hasRemarks>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-1;Country"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-1;"/>
    </owl:NamedIndividual>
@@ -1644,6 +1644,7 @@ Islands, and Coral Sea Islands which are Australian external territories.</lcc-c
       <lcc-cr:hasEnglishShortNameInCapitals rdf:datatype="&xsd;string" xml:lang="en">BAHAMAS</lcc-cr:hasEnglishShortNameInCapitals>
       <lcc-cr:hasFrenchShortNameInCapitals rdf:datatype="&xsd;string" xml:lang="fr">BAHAMAS</lcc-cr:hasFrenchShortNameInCapitals>
       <lcc-cr:usesAdministrativeLanguage rdf:resource="&lcc-639-1;English"/>
+      <lcc-cr:hasRemarks>The island of New Providence, where the capital Nassau is located, is administered directly by the national government.</lcc-cr:hasRemarks>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-1;Country"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-1;"/>
    </owl:NamedIndividual>
@@ -1738,7 +1739,7 @@ Islands, and Coral Sea Islands which are Australian external territories.</lcc-c
       <lcc-cr:hasFrenchShortNameInCapitals rdf:datatype="&xsd;string" xml:lang="fr">BOUVET, ÎLE</lcc-cr:hasFrenchShortNameInCapitals>
       <lcc-cr:usesAdministrativeLanguage rdf:resource="&lcc-639-1;NorwegianBokmal"/>
       <lcc-cr:usesAdministrativeLanguage rdf:resource="&lcc-639-1;NorwegianNynorsk"/>
-      <lcc-cr:hasRemarks>No subdivision reported.</lcc-cr:hasRemarks>
+      <lcc-cr:hasRemarks>No subdivisions relevant for this standard.</lcc-cr:hasRemarks>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-1;Country"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-1;"/>
    </owl:NamedIndividual>
@@ -1873,10 +1874,10 @@ Islands, and Coral Sea Islands which are Australian external territories.</lcc-c
       <skos:definition>individual representing the country of Belize</skos:definition>
       <lcc-cr:isIndependent rdf:datatype="&xsd;boolean">true</lcc-cr:isIndependent>
       <lcc-cr:hasNumericRegionCode rdf:datatype="&xsd;string">084</lcc-cr:hasNumericRegionCode>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Belize (le)</lcc-cr:hasFrenchShortName>
       <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Belize</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasFrenchShortNameInCapitals rdf:datatype="&xsd;string" xml:lang="fr">BELIZE</lcc-cr:hasFrenchShortNameInCapitals>
+      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Belize (le)</lcc-cr:hasFrenchShortName>
       <lcc-cr:hasEnglishShortNameInCapitals rdf:datatype="&xsd;string" xml:lang="en">BELIZE</lcc-cr:hasEnglishShortNameInCapitals>
+      <lcc-cr:hasFrenchShortNameInCapitals rdf:datatype="&xsd;string" xml:lang="fr">BELIZE</lcc-cr:hasFrenchShortNameInCapitals>
       <lcc-cr:usesAdministrativeLanguage rdf:resource="&lcc-639-1;English"/>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-1;Country"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-1;"/>
@@ -1967,7 +1968,7 @@ Islands, and Coral Sea Islands which are Australian external territories.</lcc-c
       <lcc-cr:hasEnglishShortNameInCapitals rdf:datatype="&xsd;string" xml:lang="en">COCOS (KEELING) ISLANDS</lcc-cr:hasEnglishShortNameInCapitals>
       <lcc-cr:hasFrenchShortNameInCapitals rdf:datatype="&xsd;string" xml:lang="fr">COCOS (KEELING), ÎLES</lcc-cr:hasFrenchShortNameInCapitals>
       <lcc-cr:usesAdministrativeLanguage rdf:resource="&lcc-639-1;English"/>
-      <lcc-cr:hasRemarks>No subdivision reported.</lcc-cr:hasRemarks>
+      <lcc-cr:hasRemarks>No subdivisions relevant for this standard.</lcc-cr:hasRemarks>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-1;Country"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-1;"/>
    </owl:NamedIndividual>
@@ -2103,12 +2104,12 @@ Islands, and Coral Sea Islands which are Australian external territories.</lcc-c
       <skos:definition>individual representing the country of Congo (the)</skos:definition>
       <lcc-cr:isIndependent rdf:datatype="&xsd;boolean">true</lcc-cr:isIndependent>
       <lcc-cr:hasNumericRegionCode rdf:datatype="&xsd;string">178</lcc-cr:hasNumericRegionCode>
-      <lcc-cr:hasEnglishFullName rdf:datatype="&xsd;string" xml:lang="en">the Republic of the Congo</lcc-cr:hasEnglishFullName>
       <lcc-cr:hasFrenchFullName rdf:datatype="&xsd;string" xml:lang="fr">la République du Congo</lcc-cr:hasFrenchFullName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Congo (the)</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishFullName rdf:datatype="&xsd;string" xml:lang="en">the Republic of the Congo</lcc-cr:hasEnglishFullName>
       <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Congo (le)</lcc-cr:hasFrenchShortName>
-      <lcc-cr:hasEnglishShortNameInCapitals rdf:datatype="&xsd;string" xml:lang="en">CONGO</lcc-cr:hasEnglishShortNameInCapitals>
+      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Congo (the)</lcc-cr:hasEnglishShortName>
       <lcc-cr:hasFrenchShortNameInCapitals rdf:datatype="&xsd;string" xml:lang="fr">CONGO</lcc-cr:hasFrenchShortNameInCapitals>
+      <lcc-cr:hasEnglishShortNameInCapitals rdf:datatype="&xsd;string" xml:lang="en">CONGO</lcc-cr:hasEnglishShortNameInCapitals>
       <lcc-cr:usesAdministrativeLanguage rdf:resource="&lcc-639-1;French"/>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-1;Country"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-1;"/>
@@ -2149,15 +2150,15 @@ Islands, and Coral Sea Islands which are Australian external territories.</lcc-c
       <skos:definition>individual representing the country of Switzerland</skos:definition>
       <lcc-cr:isIndependent rdf:datatype="&xsd;boolean">true</lcc-cr:isIndependent>
       <lcc-cr:hasNumericRegionCode rdf:datatype="&xsd;string">756</lcc-cr:hasNumericRegionCode>
-      <lcc-cr:hasFrenchFullName rdf:datatype="&xsd;string" xml:lang="fr">la Confédération suisse</lcc-cr:hasFrenchFullName>
       <lcc-cr:hasEnglishFullName rdf:datatype="&xsd;string" xml:lang="en">the Swiss Confederation</lcc-cr:hasEnglishFullName>
+      <lcc-cr:hasFrenchFullName rdf:datatype="&xsd;string" xml:lang="fr">la Confédération suisse</lcc-cr:hasFrenchFullName>
+      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Switzerland</lcc-cr:hasEnglishShortName>
       <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="de">Schweiz (die)</lcc-cr:hasLocalShortName>
       <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Suisse (la)</lcc-cr:hasFrenchShortName>
       <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="it">Svizzera (la)</lcc-cr:hasLocalShortName>
       <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="rm">Svizra (la)</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Switzerland</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasFrenchShortNameInCapitals rdf:datatype="&xsd;string" xml:lang="fr">SUISSE</lcc-cr:hasFrenchShortNameInCapitals>
       <lcc-cr:hasEnglishShortNameInCapitals rdf:datatype="&xsd;string" xml:lang="en">SWITZERLAND</lcc-cr:hasEnglishShortNameInCapitals>
+      <lcc-cr:hasFrenchShortNameInCapitals rdf:datatype="&xsd;string" xml:lang="fr">SUISSE</lcc-cr:hasFrenchShortNameInCapitals>
       <lcc-cr:usesAdministrativeLanguage rdf:resource="&lcc-639-1;German"/>
       <lcc-cr:usesAdministrativeLanguage rdf:resource="&lcc-639-1;French"/>
       <lcc-cr:usesAdministrativeLanguage rdf:resource="&lcc-639-1;Italian"/>
@@ -2253,7 +2254,7 @@ Islands, and Coral Sea Islands which are Australian external territories.</lcc-c
       <lcc-cr:hasEnglishShortNameInCapitals rdf:datatype="&xsd;string" xml:lang="en">COOK ISLANDS</lcc-cr:hasEnglishShortNameInCapitals>
       <lcc-cr:usesAdministrativeLanguage rdf:resource="&lcc-639-1;English"/>
       <lcc-cr:hasRemarks>Principal island: Rarotonga.</lcc-cr:hasRemarks>
-      <lcc-cr:hasRemarks>No subdivision reported.</lcc-cr:hasRemarks>
+      <lcc-cr:hasRemarks>No subdivisions relevant for this standard.</lcc-cr:hasRemarks>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-1;Country"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-1;"/>
    </owl:NamedIndividual>
@@ -2636,7 +2637,7 @@ Islands, and Coral Sea Islands which are Australian external territories.</lcc-c
       <lcc-cr:usesAdministrativeLanguage rdf:resource="&lcc-639-1;English"/>
       <lcc-cr:usesAdministrativeLanguage rdf:resource="&lcc-639-1;Dutch"/>
       <lcc-cr:usesAdministrativeLanguage rdf:resource="&lcc-639-2;Papiamento"/>
-      <lcc-cr:hasRemarks>No subdivision reported. Included also as subdivision of Netherlands (NL-CW).</lcc-cr:hasRemarks>
+      <lcc-cr:hasRemarks>No subdivisions relevant for this standard. Included also as subdivision of Netherlands (NL-CW).</lcc-cr:hasRemarks>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-1;Country"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-1;"/>
    </owl:NamedIndividual>
@@ -2681,7 +2682,7 @@ Islands, and Coral Sea Islands which are Australian external territories.</lcc-c
       <lcc-cr:hasEnglishShortNameInCapitals rdf:datatype="&xsd;string" xml:lang="en">CHRISTMAS ISLAND</lcc-cr:hasEnglishShortNameInCapitals>
       <lcc-cr:hasFrenchShortNameInCapitals rdf:datatype="&xsd;string" xml:lang="fr">CHRISTMAS, ÎLE</lcc-cr:hasFrenchShortNameInCapitals>
       <lcc-cr:usesAdministrativeLanguage rdf:resource="&lcc-639-1;English"/>
-      <lcc-cr:hasRemarks>No subdivision reported.</lcc-cr:hasRemarks>
+      <lcc-cr:hasRemarks>No subdivisions relevant for this standard.</lcc-cr:hasRemarks>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-1;Country"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-1;"/>
    </owl:NamedIndividual>
@@ -3248,7 +3249,7 @@ Islands, and Coral Sea Islands which are Australian external territories.</lcc-c
       <lcc-cr:hasFrenchShortNameInCapitals rdf:datatype="&xsd;string" xml:lang="fr">SAHARA OCCIDENTAL*</lcc-cr:hasFrenchShortNameInCapitals>
       <lcc-cr:usesAdministrativeLanguage rdf:resource="&lcc-639-1;Arabic"/>
       <lcc-cr:hasRemarks>* Provisional name.</lcc-cr:hasRemarks>
-      <lcc-cr:hasRemarks>No subdivision reported.</lcc-cr:hasRemarks>
+      <lcc-cr:hasRemarks>No subdivisions relevant for this standard.</lcc-cr:hasRemarks>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-1;Country"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-1;"/>
    </owl:NamedIndividual>
@@ -3340,13 +3341,13 @@ Islands, and Coral Sea Islands which are Australian external territories.</lcc-c
       <lcc-cr:hasNumericRegionCode rdf:datatype="&xsd;string">724</lcc-cr:hasNumericRegionCode>
       <lcc-cr:hasEnglishFullName rdf:datatype="&xsd;string" xml:lang="en">the Kingdom of Spain</lcc-cr:hasEnglishFullName>
       <lcc-cr:hasFrenchFullName rdf:datatype="&xsd;string" xml:lang="fr">le Royaume d'Espagne</lcc-cr:hasFrenchFullName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">España</lcc-cr:hasLocalShortName>
       <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Spain</lcc-cr:hasEnglishShortName>
       <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Espagne (l')</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">España</lcc-cr:hasLocalShortName>
       <lcc-cr:hasEnglishShortNameInCapitals rdf:datatype="&xsd;string" xml:lang="en">SPAIN</lcc-cr:hasEnglishShortNameInCapitals>
       <lcc-cr:hasFrenchShortNameInCapitals rdf:datatype="&xsd;string" xml:lang="fr">ESPAGNE</lcc-cr:hasFrenchShortNameInCapitals>
       <lcc-cr:usesAdministrativeLanguage rdf:resource="&lcc-639-1;Spanish"/>
-      <lcc-cr:hasRemarks>Remark: In the autonomous communities of Galicia, Catalonia and the Balearics, the respective regional languages are the sole official languages of toponymy. Castilian language forms are given in square brackets for information.  For the toponyms of the autonomous communities of Navarra, Valencia and the Basque Country, with the exception of the province names Bizkaia and Gipuzkoa, the regional language has co-official status with Castilian. Regional language forms having equal status to that of Castillian are shown with an asterisk (in accordance with the official Spanish form of presentation).</lcc-cr:hasRemarks>
+      <lcc-cr:hasRemarks>Remark: In the autonomous communities of Galicia, Catalonia and the Balearics, the respective regional languages are the sole official languages of toponymy. Castilian language forms are given in square brackets for information. For the autonomous communities of Navarra, Valencia and the Basque Country, with the exception of the province names Bizkaia and Gipuzkoa, the regional language has co-official status with Castilian (regional language forms are marked with an asterisk).</lcc-cr:hasRemarks>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-1;Country"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-1;"/>
    </owl:NamedIndividual>
@@ -3537,7 +3538,7 @@ Islands, and Coral Sea Islands which are Australian external territories.</lcc-c
       <lcc-cr:hasEnglishShortNameInCapitals rdf:datatype="&xsd;string" xml:lang="en">FALKLAND ISLANDS (MALVINAS)</lcc-cr:hasEnglishShortNameInCapitals>
       <lcc-cr:hasFrenchShortNameInCapitals rdf:datatype="&xsd;string" xml:lang="fr">FALKLAND, ÎLES (MALVINAS)</lcc-cr:hasFrenchShortNameInCapitals>
       <lcc-cr:usesAdministrativeLanguage rdf:resource="&lcc-639-1;English"/>
-      <lcc-cr:hasRemarks>No subdivision reported.</lcc-cr:hasRemarks>
+      <lcc-cr:hasRemarks>No subdivisions relevant for this standard.</lcc-cr:hasRemarks>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-1;Country"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-1;"/>
    </owl:NamedIndividual>
@@ -3632,7 +3633,7 @@ Islands, and Coral Sea Islands which are Australian external territories.</lcc-c
       <lcc-cr:hasFrenchShortNameInCapitals rdf:datatype="&xsd;string" xml:lang="fr">FÉROÉ, ÎLES</lcc-cr:hasFrenchShortNameInCapitals>
       <lcc-cr:usesAdministrativeLanguage rdf:resource="&lcc-639-1;Danish"/>
       <lcc-cr:usesAdministrativeLanguage rdf:resource="&lcc-639-1;Faroese"/>
-      <lcc-cr:hasRemarks>No subdivision reported.</lcc-cr:hasRemarks>
+      <lcc-cr:hasRemarks>No subdivisions relevant for this standard.</lcc-cr:hasRemarks>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-1;Country"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-1;"/>
    </owl:NamedIndividual>
@@ -3908,7 +3909,7 @@ Islands, and Coral Sea Islands which are Australian external territories.</lcc-c
       <lcc-cr:hasEnglishShortNameInCapitals rdf:datatype="&xsd;string" xml:lang="en">FRENCH GUIANA</lcc-cr:hasEnglishShortNameInCapitals>
       <lcc-cr:hasFrenchShortNameInCapitals rdf:datatype="&xsd;string" xml:lang="fr">GUYANE FRANÇAISE</lcc-cr:hasFrenchShortNameInCapitals>
       <lcc-cr:usesAdministrativeLanguage rdf:resource="&lcc-639-1;French"/>
-      <lcc-cr:hasRemarks>Subdivision in 2 arrondissements, which is not relevant for this part of ISO 3166. Included also as subdivision of France (FR-GF).</lcc-cr:hasRemarks>
+      <lcc-cr:hasRemarks>No subdivisions relevant for this standard. Included also as subdivision of France (FR-GF).</lcc-cr:hasRemarks>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-1;Country"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-1;"/>
    </owl:NamedIndividual>
@@ -3955,7 +3956,7 @@ Islands, and Coral Sea Islands which are Australian external territories.</lcc-c
       <lcc-cr:usesAdministrativeLanguage rdf:resource="&lcc-639-1;English"/>
       <lcc-cr:usesAdministrativeLanguage rdf:resource="&lcc-639-1;French"/>
       <lcc-cr:hasRemarks>The Bailiwick of Guernsey also includes the islands of Alderney, Brecqhou, Burhou, Herm, Jethou, Lihou, Little Sark, and Sark.</lcc-cr:hasRemarks>
-      <lcc-cr:hasRemarks>No subdivision reported.</lcc-cr:hasRemarks>
+      <lcc-cr:hasRemarks>No subdivisions relevant for this standard.</lcc-cr:hasRemarks>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-1;Country"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-1;"/>
    </owl:NamedIndividual>
@@ -4046,7 +4047,7 @@ Islands, and Coral Sea Islands which are Australian external territories.</lcc-c
       <lcc-cr:hasEnglishShortNameInCapitals rdf:datatype="&xsd;string" xml:lang="en">GIBRALTAR</lcc-cr:hasEnglishShortNameInCapitals>
       <lcc-cr:hasFrenchShortNameInCapitals rdf:datatype="&xsd;string" xml:lang="fr">GIBRALTAR</lcc-cr:hasFrenchShortNameInCapitals>
       <lcc-cr:usesAdministrativeLanguage rdf:resource="&lcc-639-1;English"/>
-      <lcc-cr:hasRemarks>No subdivision reported.</lcc-cr:hasRemarks>
+      <lcc-cr:hasRemarks>No subdivisions relevant for this standard.</lcc-cr:hasRemarks>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-1;Country"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-1;"/>
    </owl:NamedIndividual>
@@ -4231,7 +4232,7 @@ Islands, and Coral Sea Islands which are Australian external territories.</lcc-c
       <lcc-cr:hasFrenchShortNameInCapitals rdf:datatype="&xsd;string" xml:lang="fr">GUADELOUPE</lcc-cr:hasFrenchShortNameInCapitals>
       <lcc-cr:usesAdministrativeLanguage rdf:resource="&lcc-639-1;French"/>
       <lcc-cr:hasRemarks>Includes: la Désirade, Marie-Galante, les Saintes.</lcc-cr:hasRemarks>
-      <lcc-cr:hasRemarks>Subdivision in 3 arrondissements, which is not relevant for this part of ISO 3166. Included also as subdivision of France (FR-GP).</lcc-cr:hasRemarks>
+      <lcc-cr:hasRemarks>No subdivisions relevant for this standard. Included also as subdivision of France (FR-GP).</lcc-cr:hasRemarks>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-1;Country"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-1;"/>
    </owl:NamedIndividual>
@@ -4370,12 +4371,12 @@ Islands, and Coral Sea Islands which are Australian external territories.</lcc-c
       <skos:definition>individual representing the country of South Georgia and the South Sandwich Islands</skos:definition>
       <lcc-cr:isIndependent rdf:datatype="&xsd;boolean">false</lcc-cr:isIndependent>
       <lcc-cr:hasNumericRegionCode rdf:datatype="&xsd;string">239</lcc-cr:hasNumericRegionCode>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">South Georgia and the South Sandwich Islands</lcc-cr:hasEnglishShortName>
       <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Géorgie du Sud-et-les Îles Sandwich du Sud (la)</lcc-cr:hasFrenchShortName>
-      <lcc-cr:hasEnglishShortNameInCapitals rdf:datatype="&xsd;string" xml:lang="en">SOUTH GEORGIA AND THE SOUTH SANDWICH ISLANDS</lcc-cr:hasEnglishShortNameInCapitals>
+      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">South Georgia and the South Sandwich Islands</lcc-cr:hasEnglishShortName>
       <lcc-cr:hasFrenchShortNameInCapitals rdf:datatype="&xsd;string" xml:lang="fr">GÉORGIE DU SUD-ET-LES ÎLES SANDWICH DU SUD</lcc-cr:hasFrenchShortNameInCapitals>
+      <lcc-cr:hasEnglishShortNameInCapitals rdf:datatype="&xsd;string" xml:lang="en">SOUTH GEORGIA AND THE SOUTH SANDWICH ISLANDS</lcc-cr:hasEnglishShortNameInCapitals>
       <lcc-cr:usesAdministrativeLanguage rdf:resource="&lcc-639-1;English"/>
-      <lcc-cr:hasRemarks>No subdivision reported</lcc-cr:hasRemarks>
+      <lcc-cr:hasRemarks>No subdivisions relevant for this standard.</lcc-cr:hasRemarks>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-1;Country"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-1;"/>
    </owl:NamedIndividual>
@@ -4467,7 +4468,7 @@ Islands, and Coral Sea Islands which are Australian external territories.</lcc-c
       <lcc-cr:hasEnglishShortNameInCapitals rdf:datatype="&xsd;string" xml:lang="en">GUAM</lcc-cr:hasEnglishShortNameInCapitals>
       <lcc-cr:hasFrenchShortNameInCapitals rdf:datatype="&xsd;string" xml:lang="fr">GUAM</lcc-cr:hasFrenchShortNameInCapitals>
       <lcc-cr:usesAdministrativeLanguage rdf:resource="&lcc-639-1;English"/>
-      <lcc-cr:hasRemarks>No subdivision reported. Included also as subdivision of the United States (US-GU).</lcc-cr:hasRemarks>
+      <lcc-cr:hasRemarks>No subdivisions relevant for this standard. Included also as subdivision of the United States (US-GU).</lcc-cr:hasRemarks>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-1;Country"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-1;"/>
    </owl:NamedIndividual>
@@ -4554,8 +4555,8 @@ Islands, and Coral Sea Islands which are Australian external territories.</lcc-c
       <skos:definition>individual representing the country of Guyana</skos:definition>
       <lcc-cr:isIndependent rdf:datatype="&xsd;boolean">true</lcc-cr:isIndependent>
       <lcc-cr:hasNumericRegionCode rdf:datatype="&xsd;string">328</lcc-cr:hasNumericRegionCode>
-      <lcc-cr:hasEnglishFullName rdf:datatype="&xsd;string" xml:lang="en">the Republic of Guyana</lcc-cr:hasEnglishFullName>
-      <lcc-cr:hasFrenchFullName rdf:datatype="&xsd;string" xml:lang="fr">la République du Guyana</lcc-cr:hasFrenchFullName>
+      <lcc-cr:hasEnglishFullName rdf:datatype="&xsd;string" xml:lang="en">the Co-operative Republic of Guyana</lcc-cr:hasEnglishFullName>
+      <lcc-cr:hasFrenchFullName rdf:datatype="&xsd;string" xml:lang="fr">la République coopérative du Guyana</lcc-cr:hasFrenchFullName>
       <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Guyana</lcc-cr:hasEnglishShortName>
       <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Guyana (le)</lcc-cr:hasFrenchShortName>
       <lcc-cr:hasEnglishShortNameInCapitals rdf:datatype="&xsd;string" xml:lang="en">GUYANA</lcc-cr:hasEnglishShortNameInCapitals>
@@ -4609,7 +4610,7 @@ Islands, and Coral Sea Islands which are Australian external territories.</lcc-c
       <lcc-cr:hasFrenchShortNameInCapitals rdf:datatype="&xsd;string" xml:lang="fr">HONG KONG</lcc-cr:hasFrenchShortNameInCapitals>
       <lcc-cr:usesAdministrativeLanguage rdf:resource="&lcc-639-1;English"/>
       <lcc-cr:usesAdministrativeLanguage rdf:resource="&lcc-639-1;Chinese"/>
-      <lcc-cr:hasRemarks>No subdivision reported. Included also as subdivision of China (CN-91).</lcc-cr:hasRemarks>
+      <lcc-cr:hasRemarks>No subdivisions relevant for this standard. Included also as subdivision of China (CN-HK).</lcc-cr:hasRemarks>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-1;Country"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-1;"/>
    </owl:NamedIndividual>
@@ -4655,7 +4656,7 @@ Islands, and Coral Sea Islands which are Australian external territories.</lcc-c
       <lcc-cr:hasEnglishShortNameInCapitals rdf:datatype="&xsd;string" xml:lang="en">HEARD ISLAND AND MCDONALD ISLANDS</lcc-cr:hasEnglishShortNameInCapitals>
       <lcc-cr:hasFrenchShortNameInCapitals rdf:datatype="&xsd;string" xml:lang="fr">HEARD-ET-ÎLES MACDONALD, ÎLE</lcc-cr:hasFrenchShortNameInCapitals>
       <lcc-cr:usesAdministrativeLanguage rdf:resource="&lcc-639-1;English"/>
-      <lcc-cr:hasRemarks>No subdivision reported</lcc-cr:hasRemarks>
+      <lcc-cr:hasRemarks>No subdivisions relevant for this standard.</lcc-cr:hasRemarks>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-1;Country"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-1;"/>
    </owl:NamedIndividual>
@@ -5030,7 +5031,7 @@ Islands, and Coral Sea Islands which are Australian external territories.</lcc-c
       <lcc-cr:hasEnglishShortNameInCapitals rdf:datatype="&xsd;string" xml:lang="en">ISLE OF MAN</lcc-cr:hasEnglishShortNameInCapitals>
       <lcc-cr:hasFrenchShortNameInCapitals rdf:datatype="&xsd;string" xml:lang="fr">ÎLE DE MAN</lcc-cr:hasFrenchShortNameInCapitals>
       <lcc-cr:usesAdministrativeLanguage rdf:resource="&lcc-639-1;English"/>
-      <lcc-cr:hasRemarks>No subdivision reported.</lcc-cr:hasRemarks>
+      <lcc-cr:hasRemarks>No subdivisions relevant for this standard.</lcc-cr:hasRemarks>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-1;Country"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-1;"/>
    </owl:NamedIndividual>
@@ -5128,7 +5129,7 @@ Islands, and Coral Sea Islands which are Australian external territories.</lcc-c
       <lcc-cr:usesAdministrativeLanguage rdf:resource="&lcc-639-1;English"/>
       <lcc-cr:hasRemarks> Comprises: Chagos Archipelago (Principal island: Diego Garcia).
 No subdivision reported</lcc-cr:hasRemarks>
-      <lcc-cr:hasRemarks>No subdivision reported.</lcc-cr:hasRemarks>
+      <lcc-cr:hasRemarks>No subdivisions relevant for this standard.</lcc-cr:hasRemarks>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-1;Country"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-1;"/>
    </owl:NamedIndividual>
@@ -5367,7 +5368,7 @@ No subdivision reported</lcc-cr:hasRemarks>
       <lcc-cr:hasFrenchShortNameInCapitals rdf:datatype="&xsd;string" xml:lang="fr">JERSEY</lcc-cr:hasFrenchShortNameInCapitals>
       <lcc-cr:usesAdministrativeLanguage rdf:resource="&lcc-639-1;English"/>
       <lcc-cr:usesAdministrativeLanguage rdf:resource="&lcc-639-1;French"/>
-      <lcc-cr:hasRemarks>No subdivision reported.</lcc-cr:hasRemarks>
+      <lcc-cr:hasRemarks>No subdivisions relevant for this standard.</lcc-cr:hasRemarks>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-1;Country"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-1;"/>
    </owl:NamedIndividual>
@@ -5789,10 +5790,10 @@ The language code "002" refers to the administrative language "Shikomor" that ha
       <skos:definition>individual representing the country of Saint Kitts and Nevis</skos:definition>
       <lcc-cr:isIndependent rdf:datatype="&xsd;boolean">true</lcc-cr:isIndependent>
       <lcc-cr:hasNumericRegionCode rdf:datatype="&xsd;string">659</lcc-cr:hasNumericRegionCode>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Saint Kitts and Nevis</lcc-cr:hasEnglishShortName>
       <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Saint-Kitts-et-Nevis</lcc-cr:hasFrenchShortName>
-      <lcc-cr:hasEnglishShortNameInCapitals rdf:datatype="&xsd;string" xml:lang="en">SAINT KITTS AND NEVIS</lcc-cr:hasEnglishShortNameInCapitals>
+      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Saint Kitts and Nevis</lcc-cr:hasEnglishShortName>
       <lcc-cr:hasFrenchShortNameInCapitals rdf:datatype="&xsd;string" xml:lang="fr">SAINT-KITTS-ET-NEVIS</lcc-cr:hasFrenchShortNameInCapitals>
+      <lcc-cr:hasEnglishShortNameInCapitals rdf:datatype="&xsd;string" xml:lang="en">SAINT KITTS AND NEVIS</lcc-cr:hasEnglishShortNameInCapitals>
       <lcc-cr:usesAdministrativeLanguage rdf:resource="&lcc-639-1;English"/>
       <lcc-cr:hasRemarks>the Federation of Saint Kitts and Nevis</lcc-cr:hasRemarks>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-1;Country"/>
@@ -5983,7 +5984,7 @@ The language code "002" refers to the administrative language "Shikomor" that ha
       <lcc-cr:hasFrenchShortNameInCapitals rdf:datatype="&xsd;string" xml:lang="fr">CAÏMANS, ÎLES</lcc-cr:hasFrenchShortNameInCapitals>
       <lcc-cr:usesAdministrativeLanguage rdf:resource="&lcc-639-1;English"/>
       <lcc-cr:hasRemarks>Principal island: Grand Cayman.</lcc-cr:hasRemarks>
-      <lcc-cr:hasRemarks>Subdivision into 8 districts, which is not relevant for this part of ISO 3166.</lcc-cr:hasRemarks>
+      <lcc-cr:hasRemarks>No subdivisions relevant for this standard.</lcc-cr:hasRemarks>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-1;Country"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-1;"/>
    </owl:NamedIndividual>
@@ -6167,10 +6168,10 @@ The language code "002" refers to the administrative language "Shikomor" that ha
       <skos:definition>individual representing the country of Saint Lucia</skos:definition>
       <lcc-cr:isIndependent rdf:datatype="&xsd;boolean">true</lcc-cr:isIndependent>
       <lcc-cr:hasNumericRegionCode rdf:datatype="&xsd;string">662</lcc-cr:hasNumericRegionCode>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Saint Lucia</lcc-cr:hasEnglishShortName>
       <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Sainte-Lucie</lcc-cr:hasFrenchShortName>
-      <lcc-cr:hasEnglishShortNameInCapitals rdf:datatype="&xsd;string" xml:lang="en">SAINT LUCIA</lcc-cr:hasEnglishShortNameInCapitals>
+      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Saint Lucia</lcc-cr:hasEnglishShortName>
       <lcc-cr:hasFrenchShortNameInCapitals rdf:datatype="&xsd;string" xml:lang="fr">SAINTE-LUCIE</lcc-cr:hasFrenchShortNameInCapitals>
+      <lcc-cr:hasEnglishShortNameInCapitals rdf:datatype="&xsd;string" xml:lang="en">SAINT LUCIA</lcc-cr:hasEnglishShortNameInCapitals>
       <lcc-cr:usesAdministrativeLanguage rdf:resource="&lcc-639-1;English"/>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-1;Country"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-1;"/>
@@ -6260,15 +6261,15 @@ The language code "002" refers to the administrative language "Shikomor" that ha
       <lcc-cr:hasNumericRegionCode rdf:datatype="&xsd;string">144</lcc-cr:hasNumericRegionCode>
       <lcc-cr:hasEnglishFullName rdf:datatype="&xsd;string" xml:lang="en">the Democratic Socialist Republic of Sri Lanka</lcc-cr:hasEnglishFullName>
       <lcc-cr:hasFrenchFullName rdf:datatype="&xsd;string" xml:lang="fr">la République socialiste démocratique du Sri Lanka</lcc-cr:hasFrenchFullName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="si">Shrī Laṁkā</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ta">Ilaṅkai</lcc-cr:hasLocalShortName>
       <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Sri Lanka</lcc-cr:hasEnglishShortName>
       <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Sri Lanka</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="si">Shrī Laṁkā</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ta">Ilaṅkai</lcc-cr:hasLocalShortName>
       <lcc-cr:hasEnglishShortNameInCapitals rdf:datatype="&xsd;string" xml:lang="en">SRI LANKA</lcc-cr:hasEnglishShortNameInCapitals>
       <lcc-cr:hasFrenchShortNameInCapitals rdf:datatype="&xsd;string" xml:lang="fr">SRI LANKA</lcc-cr:hasFrenchShortNameInCapitals>
+      <lcc-cr:usesAdministrativeLanguage rdf:resource="&lcc-639-1;English"/>
       <lcc-cr:usesAdministrativeLanguage rdf:resource="&lcc-639-1;Sinhala"/>
       <lcc-cr:usesAdministrativeLanguage rdf:resource="&lcc-639-1;Tamil"/>
-      <lcc-cr:usesAdministrativeLanguage rdf:resource="&lcc-639-1;English"/>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-1;Country"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-1;"/>
    </owl:NamedIndividual>
@@ -6546,6 +6547,8 @@ The language code "002" refers to the administrative language "Shikomor" that ha
       <skos:definition>individual representing the country of Libya</skos:definition>
       <lcc-cr:isIndependent rdf:datatype="&xsd;boolean">true</lcc-cr:isIndependent>
       <lcc-cr:hasNumericRegionCode rdf:datatype="&xsd;string">434</lcc-cr:hasNumericRegionCode>
+      <lcc-cr:hasEnglishFullName rdf:datatype="&xsd;string" xml:lang="en">the State of Libya</lcc-cr:hasEnglishFullName>
+      <lcc-cr:hasFrenchFullName rdf:datatype="&xsd;string" xml:lang="fr">l'État de Libye</lcc-cr:hasFrenchFullName>
       <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Libya</lcc-cr:hasEnglishShortName>
       <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Lībiyā</lcc-cr:hasLocalShortName>
       <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Libye (la)</lcc-cr:hasFrenchShortName>
@@ -6599,7 +6602,7 @@ The language code "002" refers to the administrative language "Shikomor" that ha
       <lcc-cr:hasEnglishShortNameInCapitals rdf:datatype="&xsd;string" xml:lang="en">MOROCCO</lcc-cr:hasEnglishShortNameInCapitals>
       <lcc-cr:hasFrenchShortNameInCapitals rdf:datatype="&xsd;string" xml:lang="fr">MAROC</lcc-cr:hasFrenchShortNameInCapitals>
       <lcc-cr:usesAdministrativeLanguage rdf:resource="&lcc-639-1;Arabic"/>
-      <lcc-cr:hasRemarks>Remark: Entries followed by "(EH)" are located in their entirety in the territory of Western Sahara (ISO 3166 alpha-2 code element EH).</lcc-cr:hasRemarks>
+      <lcc-cr:hasRemarks>Remark: Entries followed by "(EH)" are located partially or fully in the territory of Western Sahara (ISO 3166 alpha-2 code element EH).</lcc-cr:hasRemarks>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-1;Country"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-1;"/>
    </owl:NamedIndividual>
@@ -6738,10 +6741,8 @@ The language code "002" refers to the administrative language "Shikomor" that ha
       <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Monténégro (le)</lcc-cr:hasFrenchShortName>
       <lcc-cr:hasEnglishShortNameInCapitals rdf:datatype="&xsd;string" xml:lang="en">MONTENEGRO</lcc-cr:hasEnglishShortNameInCapitals>
       <lcc-cr:hasFrenchShortNameInCapitals rdf:datatype="&xsd;string" xml:lang="fr">MONTÉNÉGRO</lcc-cr:hasFrenchShortNameInCapitals>
-      <lcc-cr:usesAdministrativeLanguage rdf:resource="&lcc-3166-1;Montenegrin"/>
-      <lcc-cr:hasRemarks>Montenegro was formerly part of former entries: YUGOSLAVIA (YU, YUG, 891) then SERBIA AND MONTENEGRO (CS, SCG, 891).
-The language code "001" refers to the administrative language "Montenegrin" that has not been assigned an ISO 639 language code.</lcc-cr:hasRemarks>
-      <lcc-cr:hasRemarks>The language code "001" refers to the administrative language "Montenegrin" that has not been assigned an ISO 639 language code.</lcc-cr:hasRemarks>
+      <lcc-cr:usesAdministrativeLanguage rdf:resource="&lcc-639-2;Undetermined"/>
+      <lcc-cr:hasRemarks>Montenegro was formerly part of former entries: YUGOSLAVIA (YU, YUG, 891) then SERBIA AND MONTENEGRO (CS, SCG, 891).</lcc-cr:hasRemarks>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-1;Country"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-1;"/>
    </owl:NamedIndividual>
@@ -6781,13 +6782,13 @@ The language code "001" refers to the administrative language "Montenegrin" that
       <skos:definition>individual representing the country of Saint Martin (French part)</skos:definition>
       <lcc-cr:isIndependent rdf:datatype="&xsd;boolean">false</lcc-cr:isIndependent>
       <lcc-cr:hasNumericRegionCode rdf:datatype="&xsd;string">663</lcc-cr:hasNumericRegionCode>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Saint-Martin (partie française)</lcc-cr:hasFrenchShortName>
       <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Saint Martin (French part)</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasFrenchShortNameInCapitals rdf:datatype="&xsd;string" xml:lang="fr">SAINT-MARTIN (PARTIE FRANÇAISE)</lcc-cr:hasFrenchShortNameInCapitals>
+      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Saint-Martin (partie française)</lcc-cr:hasFrenchShortName>
       <lcc-cr:hasEnglishShortNameInCapitals rdf:datatype="&xsd;string" xml:lang="en">SAINT MARTIN (FRENCH PART)</lcc-cr:hasEnglishShortNameInCapitals>
+      <lcc-cr:hasFrenchShortNameInCapitals rdf:datatype="&xsd;string" xml:lang="fr">SAINT-MARTIN (PARTIE FRANÇAISE)</lcc-cr:hasFrenchShortNameInCapitals>
       <lcc-cr:usesAdministrativeLanguage rdf:resource="&lcc-639-1;French"/>
       <lcc-cr:hasRemarks>The island of Saint Martin is divided into the northern French part and the southern Dutch part.</lcc-cr:hasRemarks>
-      <lcc-cr:hasRemarks>No subdivision reported. Included also as subdivision of France (FR-MF).</lcc-cr:hasRemarks>
+      <lcc-cr:hasRemarks>No subdivisions relevant for this standard. Included also as subdivision of France (FR-MF).</lcc-cr:hasRemarks>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-1;Country"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-1;"/>
    </owl:NamedIndividual>
@@ -7121,7 +7122,7 @@ The language code "001" refers to the administrative language "Montenegrin" that
       <lcc-cr:hasFrenchShortNameInCapitals rdf:datatype="&xsd;string" xml:lang="fr">MACAO</lcc-cr:hasFrenchShortNameInCapitals>
       <lcc-cr:usesAdministrativeLanguage rdf:resource="&lcc-639-1;Portuguese"/>
       <lcc-cr:usesAdministrativeLanguage rdf:resource="&lcc-639-1;Chinese"/>
-      <lcc-cr:hasRemarks>Subdivision in 2 districts, distrito (pt), which is not relevant for this part of ISO 3166. Included also as a subdivision of China (CN-92).</lcc-cr:hasRemarks>
+      <lcc-cr:hasRemarks>Subdivision in 2 districts, distrito (pt), which is not relevant for this part of ISO 3166. Included also as a subdivision of China (CN-MO).</lcc-cr:hasRemarks>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-1;Country"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-1;"/>
    </owl:NamedIndividual>
@@ -7169,7 +7170,7 @@ The language code "001" refers to the administrative language "Montenegrin" that
       <lcc-cr:hasFrenchShortNameInCapitals rdf:datatype="&xsd;string" xml:lang="fr">MARIANNES DU NORD, ÎLES</lcc-cr:hasFrenchShortNameInCapitals>
       <lcc-cr:usesAdministrativeLanguage rdf:resource="&lcc-639-1;English"/>
       <lcc-cr:hasRemarks>Comprises: Mariana Islands (except GUAM, see separate entry). (Principal island: Saipan).</lcc-cr:hasRemarks>
-      <lcc-cr:hasRemarks>No subdivision reported. Included also as a subdivision of the United States (US-MP).</lcc-cr:hasRemarks>
+      <lcc-cr:hasRemarks>No subdivisions relevant for this standard. Included also as a subdivision of the United States (US-MP).</lcc-cr:hasRemarks>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-1;Country"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-1;"/>
    </owl:NamedIndividual>
@@ -7214,7 +7215,7 @@ The language code "001" refers to the administrative language "Montenegrin" that
       <lcc-cr:hasEnglishShortNameInCapitals rdf:datatype="&xsd;string" xml:lang="en">MARTINIQUE</lcc-cr:hasEnglishShortNameInCapitals>
       <lcc-cr:hasFrenchShortNameInCapitals rdf:datatype="&xsd;string" xml:lang="fr">MARTINIQUE</lcc-cr:hasFrenchShortNameInCapitals>
       <lcc-cr:usesAdministrativeLanguage rdf:resource="&lcc-639-1;French"/>
-      <lcc-cr:hasRemarks>Subdivision in 4 arrondissements, which is not relevant for this part of ISO 3166. Included also as a subdivision of France (FR-MQ).</lcc-cr:hasRemarks>
+      <lcc-cr:hasRemarks>No subdivisions relevant for this standard. Included also as a subdivision of France (FR-MQ).</lcc-cr:hasRemarks>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-1;Country"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-1;"/>
    </owl:NamedIndividual>
@@ -7306,7 +7307,7 @@ The language code "001" refers to the administrative language "Montenegrin" that
       <lcc-cr:hasEnglishShortNameInCapitals rdf:datatype="&xsd;string" xml:lang="en">MONTSERRAT</lcc-cr:hasEnglishShortNameInCapitals>
       <lcc-cr:hasFrenchShortNameInCapitals rdf:datatype="&xsd;string" xml:lang="fr">MONTSERRAT</lcc-cr:hasFrenchShortNameInCapitals>
       <lcc-cr:usesAdministrativeLanguage rdf:resource="&lcc-639-1;English"/>
-      <lcc-cr:hasRemarks>Subdivision in 3 parishes, which is not relevant for this part of ISO 3166.</lcc-cr:hasRemarks>
+      <lcc-cr:hasRemarks>No subdivisions relevant for this standard.</lcc-cr:hasRemarks>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-1;Country"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-1;"/>
    </owl:NamedIndividual>
@@ -7728,7 +7729,7 @@ The language code "001" refers to the administrative language "Montenegrin" that
       <lcc-cr:hasFrenchShortNameInCapitals rdf:datatype="&xsd;string" xml:lang="fr">NOUVELLE-CALÉDONIE</lcc-cr:hasFrenchShortNameInCapitals>
       <lcc-cr:usesAdministrativeLanguage rdf:resource="&lcc-639-1;French"/>
       <lcc-cr:hasRemarks>Includes: Loyalty Islands.</lcc-cr:hasRemarks>
-      <lcc-cr:hasRemarks>Subdivision in 3 provinces, which is not relevant for this part of ISO 3166. Included also as a subdivision of France (FR-NC).</lcc-cr:hasRemarks>
+      <lcc-cr:hasRemarks>No subdivisions relevant for this standard. Included also as a subdivision of France (FR-NC).</lcc-cr:hasRemarks>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-1;Country"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-1;"/>
    </owl:NamedIndividual>
@@ -7819,7 +7820,7 @@ The language code "001" refers to the administrative language "Montenegrin" that
       <lcc-cr:hasEnglishShortNameInCapitals rdf:datatype="&xsd;string" xml:lang="en">NORFOLK ISLAND</lcc-cr:hasEnglishShortNameInCapitals>
       <lcc-cr:hasFrenchShortNameInCapitals rdf:datatype="&xsd;string" xml:lang="fr">NORFOLK, ÎLE</lcc-cr:hasFrenchShortNameInCapitals>
       <lcc-cr:usesAdministrativeLanguage rdf:resource="&lcc-639-1;English"/>
-      <lcc-cr:hasRemarks>No subdivision reported.</lcc-cr:hasRemarks>
+      <lcc-cr:hasRemarks>No subdivisions relevant for this standard.</lcc-cr:hasRemarks>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-1;Country"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-1;"/>
    </owl:NamedIndividual>
@@ -8057,7 +8058,7 @@ The language code "001" refers to the administrative language "Montenegrin" that
       <lcc-cr:hasEnglishShortNameInCapitals rdf:datatype="&xsd;string" xml:lang="en">NEPAL</lcc-cr:hasEnglishShortNameInCapitals>
       <lcc-cr:hasFrenchShortNameInCapitals rdf:datatype="&xsd;string" xml:lang="fr">NÉPAL</lcc-cr:hasFrenchShortNameInCapitals>
       <lcc-cr:usesAdministrativeLanguage rdf:resource="&lcc-639-1;Nepali"/>
-      <lcc-cr:hasRemarks>Remark: Conventional names.</lcc-cr:hasRemarks>
+      <lcc-cr:hasRemarks>In September 2015 Nepal created a new federal structure consisting of 7 provinces. Until now only two of these provinces have names. The rest are identified by numbers only. These provinces should replace the zones and development regions but this has not yet been fully implemented.</lcc-cr:hasRemarks>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-1;Country"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-1;"/>
    </owl:NamedIndividual>
@@ -8152,7 +8153,7 @@ The language code "001" refers to the administrative language "Montenegrin" that
       <lcc-cr:hasFrenchShortNameInCapitals rdf:datatype="&xsd;string" xml:lang="fr">NIUE</lcc-cr:hasFrenchShortNameInCapitals>
       <lcc-cr:usesAdministrativeLanguage rdf:resource="&lcc-639-1;English"/>
       <lcc-cr:usesAdministrativeLanguage rdf:resource="&lcc-639-2;Niuean"/>
-      <lcc-cr:hasRemarks>No subdivision reported.</lcc-cr:hasRemarks>
+      <lcc-cr:hasRemarks>No subdivisions relevant for this standard.</lcc-cr:hasRemarks>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-1;Country"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-1;"/>
    </owl:NamedIndividual>
@@ -8289,9 +8290,9 @@ The language code "001" refers to the administrative language "Montenegrin" that
       <lcc-cr:hasNumericRegionCode rdf:datatype="&xsd;string">591</lcc-cr:hasNumericRegionCode>
       <lcc-cr:hasEnglishFullName rdf:datatype="&xsd;string" xml:lang="en">the Republic of Panama</lcc-cr:hasEnglishFullName>
       <lcc-cr:hasFrenchFullName rdf:datatype="&xsd;string" xml:lang="fr">la République du Panama</lcc-cr:hasFrenchFullName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Panamá</lcc-cr:hasLocalShortName>
       <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Panama</lcc-cr:hasEnglishShortName>
       <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Panama (le)</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Panamá</lcc-cr:hasLocalShortName>
       <lcc-cr:hasEnglishShortNameInCapitals rdf:datatype="&xsd;string" xml:lang="en">PANAMA</lcc-cr:hasEnglishShortNameInCapitals>
       <lcc-cr:hasFrenchShortNameInCapitals rdf:datatype="&xsd;string" xml:lang="fr">PANAMA</lcc-cr:hasFrenchShortNameInCapitals>
       <lcc-cr:usesAdministrativeLanguage rdf:resource="&lcc-639-1;Spanish"/>
@@ -8336,11 +8337,11 @@ The language code "001" refers to the administrative language "Montenegrin" that
       <lcc-cr:hasNumericRegionCode rdf:datatype="&xsd;string">604</lcc-cr:hasNumericRegionCode>
       <lcc-cr:hasEnglishFullName rdf:datatype="&xsd;string" xml:lang="en">the Republic of Peru</lcc-cr:hasEnglishFullName>
       <lcc-cr:hasFrenchFullName rdf:datatype="&xsd;string" xml:lang="fr">la République du Pérou</lcc-cr:hasFrenchFullName>
+      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Peru</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Pérou (le)</lcc-cr:hasFrenchShortName>
       <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ay">Perú</lcc-cr:hasLocalShortName>
       <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Perú (el)</lcc-cr:hasLocalShortName>
       <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="qu">Perú</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Peru</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Pérou (le)</lcc-cr:hasFrenchShortName>
       <lcc-cr:hasEnglishShortNameInCapitals rdf:datatype="&xsd;string" xml:lang="en">PERU</lcc-cr:hasEnglishShortNameInCapitals>
       <lcc-cr:hasFrenchShortNameInCapitals rdf:datatype="&xsd;string" xml:lang="fr">PÉROU</lcc-cr:hasFrenchShortNameInCapitals>
       <lcc-cr:usesAdministrativeLanguage rdf:resource="&lcc-639-1;Aymara"/>
@@ -8391,7 +8392,7 @@ The language code "001" refers to the administrative language "Montenegrin" that
       <lcc-cr:hasFrenchShortNameInCapitals rdf:datatype="&xsd;string" xml:lang="fr">POLYNÉSIE FRANÇAISE</lcc-cr:hasFrenchShortNameInCapitals>
       <lcc-cr:usesAdministrativeLanguage rdf:resource="&lcc-639-1;French"/>
       <lcc-cr:hasRemarks>Comprises: Austral Islands, Gambier Islands, Marquesas Islands, Society Archipelago (Principal island: Tahiti), Tuamotu Islands.</lcc-cr:hasRemarks>
-      <lcc-cr:hasRemarks>Subdivision in 5 subdivisions, which is not relevant for this part of ISO 3166. Included also as a subdivision of France (FR-PF).</lcc-cr:hasRemarks>
+      <lcc-cr:hasRemarks>No subdivisions relevant for this standard. Included also as a subdivision of France (FR-PF).</lcc-cr:hasRemarks>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-1;Country"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-1;"/>
    </owl:NamedIndividual>
@@ -8431,14 +8432,14 @@ The language code "001" refers to the administrative language "Montenegrin" that
       <skos:definition>individual representing the country of Papua New Guinea</skos:definition>
       <lcc-cr:isIndependent rdf:datatype="&xsd;boolean">true</lcc-cr:isIndependent>
       <lcc-cr:hasNumericRegionCode rdf:datatype="&xsd;string">598</lcc-cr:hasNumericRegionCode>
-      <lcc-cr:hasEnglishFullName rdf:datatype="&xsd;string" xml:lang="en">the Independent State of Papua New Guinea</lcc-cr:hasEnglishFullName>
       <lcc-cr:hasFrenchFullName rdf:datatype="&xsd;string" xml:lang="fr">l'État indépendant de Papouasie-Nouvelle-Guinée</lcc-cr:hasFrenchFullName>
+      <lcc-cr:hasEnglishFullName rdf:datatype="&xsd;string" xml:lang="en">the Independent State of Papua New Guinea</lcc-cr:hasEnglishFullName>
+      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Papouasie-Nouvelle-Guinée (la)</lcc-cr:hasFrenchShortName>
       <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Papua New Guinea</lcc-cr:hasEnglishShortName>
       <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ho">Papuaniugini</lcc-cr:hasLocalShortName>
       <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string">Papuaniugini</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Papouasie-Nouvelle-Guinée (la)</lcc-cr:hasFrenchShortName>
-      <lcc-cr:hasEnglishShortNameInCapitals rdf:datatype="&xsd;string" xml:lang="en">PAPUA NEW GUINEA</lcc-cr:hasEnglishShortNameInCapitals>
       <lcc-cr:hasFrenchShortNameInCapitals rdf:datatype="&xsd;string" xml:lang="fr">PAPOUASIE-NOUVELLE-GUINÉE</lcc-cr:hasFrenchShortNameInCapitals>
+      <lcc-cr:hasEnglishShortNameInCapitals rdf:datatype="&xsd;string" xml:lang="en">PAPUA NEW GUINEA</lcc-cr:hasEnglishShortNameInCapitals>
       <lcc-cr:usesAdministrativeLanguage rdf:resource="&lcc-639-1;English"/>
       <lcc-cr:usesAdministrativeLanguage rdf:resource="&lcc-639-1;HiriMotu"/>
       <lcc-cr:usesAdministrativeLanguage rdf:resource="&lcc-639-2;TokPisin"/>
@@ -8482,13 +8483,13 @@ The language code "001" refers to the administrative language "Montenegrin" that
       <skos:definition>individual representing the country of Philippines (the)</skos:definition>
       <lcc-cr:isIndependent rdf:datatype="&xsd;boolean">true</lcc-cr:isIndependent>
       <lcc-cr:hasNumericRegionCode rdf:datatype="&xsd;string">608</lcc-cr:hasNumericRegionCode>
-      <lcc-cr:hasEnglishFullName rdf:datatype="&xsd;string" xml:lang="en">the Republic of the Philippines</lcc-cr:hasEnglishFullName>
       <lcc-cr:hasFrenchFullName rdf:datatype="&xsd;string" xml:lang="fr">la République des Philippines</lcc-cr:hasFrenchFullName>
+      <lcc-cr:hasEnglishFullName rdf:datatype="&xsd;string" xml:lang="en">the Republic of the Philippines</lcc-cr:hasEnglishFullName>
+      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Philippines (les)</lcc-cr:hasFrenchShortName>
       <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Philippines (the)</lcc-cr:hasEnglishShortName>
       <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="tl">Pilipinas</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Philippines (les)</lcc-cr:hasFrenchShortName>
-      <lcc-cr:hasEnglishShortNameInCapitals rdf:datatype="&xsd;string" xml:lang="en">PHILIPPINES</lcc-cr:hasEnglishShortNameInCapitals>
       <lcc-cr:hasFrenchShortNameInCapitals rdf:datatype="&xsd;string" xml:lang="fr">PHILIPPINES</lcc-cr:hasFrenchShortNameInCapitals>
+      <lcc-cr:hasEnglishShortNameInCapitals rdf:datatype="&xsd;string" xml:lang="en">PHILIPPINES</lcc-cr:hasEnglishShortNameInCapitals>
       <lcc-cr:usesAdministrativeLanguage rdf:resource="&lcc-639-1;English"/>
       <lcc-cr:usesAdministrativeLanguage rdf:resource="&lcc-639-1;Tagalog"/>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-1;Country"/>
@@ -8580,9 +8581,9 @@ The language code "001" refers to the administrative language "Montenegrin" that
       <lcc-cr:hasNumericRegionCode rdf:datatype="&xsd;string">616</lcc-cr:hasNumericRegionCode>
       <lcc-cr:hasEnglishFullName rdf:datatype="&xsd;string" xml:lang="en">the Republic of Poland</lcc-cr:hasEnglishFullName>
       <lcc-cr:hasFrenchFullName rdf:datatype="&xsd;string" xml:lang="fr">la République de Pologne</lcc-cr:hasFrenchFullName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="pl">Polska</lcc-cr:hasLocalShortName>
       <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Poland</lcc-cr:hasEnglishShortName>
       <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Pologne (la)</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="pl">Polska</lcc-cr:hasLocalShortName>
       <lcc-cr:hasEnglishShortNameInCapitals rdf:datatype="&xsd;string" xml:lang="en">POLAND</lcc-cr:hasEnglishShortNameInCapitals>
       <lcc-cr:hasFrenchShortNameInCapitals rdf:datatype="&xsd;string" xml:lang="fr">POLOGNE</lcc-cr:hasFrenchShortNameInCapitals>
       <lcc-cr:usesAdministrativeLanguage rdf:resource="&lcc-639-1;Polish"/>
@@ -8625,13 +8626,13 @@ The language code "001" refers to the administrative language "Montenegrin" that
       <skos:definition>individual representing the country of Saint Pierre and Miquelon</skos:definition>
       <lcc-cr:isIndependent rdf:datatype="&xsd;boolean">false</lcc-cr:isIndependent>
       <lcc-cr:hasNumericRegionCode rdf:datatype="&xsd;string">666</lcc-cr:hasNumericRegionCode>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Saint-Pierre-et-Miquelon</lcc-cr:hasFrenchShortName>
       <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Saint Pierre and Miquelon</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasFrenchShortNameInCapitals rdf:datatype="&xsd;string" xml:lang="fr">SAINT-PIERRE-ET-MIQUELON</lcc-cr:hasFrenchShortNameInCapitals>
+      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Saint-Pierre-et-Miquelon</lcc-cr:hasFrenchShortName>
       <lcc-cr:hasEnglishShortNameInCapitals rdf:datatype="&xsd;string" xml:lang="en">SAINT PIERRE AND MIQUELON</lcc-cr:hasEnglishShortNameInCapitals>
+      <lcc-cr:hasFrenchShortNameInCapitals rdf:datatype="&xsd;string" xml:lang="fr">SAINT-PIERRE-ET-MIQUELON</lcc-cr:hasFrenchShortNameInCapitals>
       <lcc-cr:usesAdministrativeLanguage rdf:resource="&lcc-639-1;French"/>
       <lcc-cr:hasRemarks>Miquelon * is the second significant part of composite country name.</lcc-cr:hasRemarks>
-      <lcc-cr:hasRemarks>No subdivision reported. Included also as a subdivision of France (FR-PM).</lcc-cr:hasRemarks>
+      <lcc-cr:hasRemarks>No subdivisions relevant for this standard. Included also as a subdivision of France (FR-PM).</lcc-cr:hasRemarks>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-1;Country"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-1;"/>
    </owl:NamedIndividual>
@@ -8671,13 +8672,13 @@ The language code "001" refers to the administrative language "Montenegrin" that
       <skos:definition>individual representing the country of Pitcairn</skos:definition>
       <lcc-cr:isIndependent rdf:datatype="&xsd;boolean">false</lcc-cr:isIndependent>
       <lcc-cr:hasNumericRegionCode rdf:datatype="&xsd;string">612</lcc-cr:hasNumericRegionCode>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Pitcairn</lcc-cr:hasEnglishShortName>
       <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Pitcairn</lcc-cr:hasFrenchShortName>
-      <lcc-cr:hasEnglishShortNameInCapitals rdf:datatype="&xsd;string" xml:lang="en">PITCAIRN</lcc-cr:hasEnglishShortNameInCapitals>
+      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Pitcairn</lcc-cr:hasEnglishShortName>
       <lcc-cr:hasFrenchShortNameInCapitals rdf:datatype="&xsd;string" xml:lang="fr">PITCAIRN</lcc-cr:hasFrenchShortNameInCapitals>
+      <lcc-cr:hasEnglishShortNameInCapitals rdf:datatype="&xsd;string" xml:lang="en">PITCAIRN</lcc-cr:hasEnglishShortNameInCapitals>
       <lcc-cr:usesAdministrativeLanguage rdf:resource="&lcc-639-1;English"/>
       <lcc-cr:hasRemarks>Includes: Ducie Island, Henderson Island, Oeno Island.</lcc-cr:hasRemarks>
-      <lcc-cr:hasRemarks>No subdivision reported.</lcc-cr:hasRemarks>
+      <lcc-cr:hasRemarks>No subdivisions relevant for this standard.</lcc-cr:hasRemarks>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-1;Country"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-1;"/>
    </owl:NamedIndividual>
@@ -8717,14 +8718,14 @@ The language code "001" refers to the administrative language "Montenegrin" that
       <skos:definition>individual representing the country of Puerto Rico</skos:definition>
       <lcc-cr:isIndependent rdf:datatype="&xsd;boolean">false</lcc-cr:isIndependent>
       <lcc-cr:hasNumericRegionCode rdf:datatype="&xsd;string">630</lcc-cr:hasNumericRegionCode>
+      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Porto Rico</lcc-cr:hasFrenchShortName>
       <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Puerto Rico</lcc-cr:hasEnglishShortName>
       <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Puerto Rico</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Porto Rico</lcc-cr:hasFrenchShortName>
-      <lcc-cr:hasEnglishShortNameInCapitals rdf:datatype="&xsd;string" xml:lang="en">PUERTO RICO</lcc-cr:hasEnglishShortNameInCapitals>
       <lcc-cr:hasFrenchShortNameInCapitals rdf:datatype="&xsd;string" xml:lang="fr">PORTO RICO</lcc-cr:hasFrenchShortNameInCapitals>
+      <lcc-cr:hasEnglishShortNameInCapitals rdf:datatype="&xsd;string" xml:lang="en">PUERTO RICO</lcc-cr:hasEnglishShortNameInCapitals>
       <lcc-cr:usesAdministrativeLanguage rdf:resource="&lcc-639-1;English"/>
       <lcc-cr:usesAdministrativeLanguage rdf:resource="&lcc-639-1;Spanish"/>
-      <lcc-cr:hasRemarks>No subdivision reported. Included also as a subdivision of the United States (US-PR).</lcc-cr:hasRemarks>
+      <lcc-cr:hasRemarks>No subdivisions relevant for this standard. Included also as a subdivision of the United States (US-PR).</lcc-cr:hasRemarks>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-1;Country"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-1;"/>
    </owl:NamedIndividual>
@@ -8766,9 +8767,9 @@ The language code "001" refers to the administrative language "Montenegrin" that
       <lcc-cr:hasNumericRegionCode rdf:datatype="&xsd;string">275</lcc-cr:hasNumericRegionCode>
       <lcc-cr:hasEnglishFullName rdf:datatype="&xsd;string" xml:lang="en">the State of Palestine</lcc-cr:hasEnglishFullName>
       <lcc-cr:hasFrenchFullName rdf:datatype="&xsd;string" xml:lang="fr">l'État de Palestine</lcc-cr:hasFrenchFullName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Dawlat Filasţīn</lcc-cr:hasLocalShortName>
       <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Palestine, State of</lcc-cr:hasEnglishShortName>
       <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Palestine, État de</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Dawlat Filasţīn</lcc-cr:hasLocalShortName>
       <lcc-cr:hasEnglishShortNameInCapitals rdf:datatype="&xsd;string" xml:lang="en">PALESTINE, STATE OF</lcc-cr:hasEnglishShortNameInCapitals>
       <lcc-cr:hasFrenchShortNameInCapitals rdf:datatype="&xsd;string" xml:lang="fr">PALESTINE, ÉTAT DE</lcc-cr:hasFrenchShortNameInCapitals>
       <lcc-cr:usesAdministrativeLanguage rdf:resource="&lcc-639-1;Arabic"/>
@@ -8814,9 +8815,9 @@ The language code "001" refers to the administrative language "Montenegrin" that
       <lcc-cr:hasNumericRegionCode rdf:datatype="&xsd;string">620</lcc-cr:hasNumericRegionCode>
       <lcc-cr:hasEnglishFullName rdf:datatype="&xsd;string" xml:lang="en">the Portuguese Republic</lcc-cr:hasEnglishFullName>
       <lcc-cr:hasFrenchFullName rdf:datatype="&xsd;string" xml:lang="fr">la République portugaise</lcc-cr:hasFrenchFullName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="pt">Portugal</lcc-cr:hasLocalShortName>
       <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Portugal</lcc-cr:hasEnglishShortName>
       <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Portugal (le)</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="pt">Portugal</lcc-cr:hasLocalShortName>
       <lcc-cr:hasEnglishShortNameInCapitals rdf:datatype="&xsd;string" xml:lang="en">PORTUGAL</lcc-cr:hasEnglishShortNameInCapitals>
       <lcc-cr:hasFrenchShortNameInCapitals rdf:datatype="&xsd;string" xml:lang="fr">PORTUGAL</lcc-cr:hasFrenchShortNameInCapitals>
       <lcc-cr:usesAdministrativeLanguage rdf:resource="&lcc-639-1;Portuguese"/>
@@ -8859,13 +8860,13 @@ The language code "001" refers to the administrative language "Montenegrin" that
       <skos:definition>individual representing the country of Palau</skos:definition>
       <lcc-cr:isIndependent rdf:datatype="&xsd;boolean">true</lcc-cr:isIndependent>
       <lcc-cr:hasNumericRegionCode rdf:datatype="&xsd;string">585</lcc-cr:hasNumericRegionCode>
-      <lcc-cr:hasEnglishFullName rdf:datatype="&xsd;string" xml:lang="en">the Republic of Palau</lcc-cr:hasEnglishFullName>
       <lcc-cr:hasFrenchFullName rdf:datatype="&xsd;string" xml:lang="fr">la République des Palaos</lcc-cr:hasFrenchFullName>
+      <lcc-cr:hasEnglishFullName rdf:datatype="&xsd;string" xml:lang="en">the Republic of Palau</lcc-cr:hasEnglishFullName>
+      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Palaos (les)</lcc-cr:hasFrenchShortName>
       <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Palau</lcc-cr:hasEnglishShortName>
       <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string">Belau</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Palaos (les)</lcc-cr:hasFrenchShortName>
-      <lcc-cr:hasEnglishShortNameInCapitals rdf:datatype="&xsd;string" xml:lang="en">PALAU</lcc-cr:hasEnglishShortNameInCapitals>
       <lcc-cr:hasFrenchShortNameInCapitals rdf:datatype="&xsd;string" xml:lang="fr">PALAOS</lcc-cr:hasFrenchShortNameInCapitals>
+      <lcc-cr:hasEnglishShortNameInCapitals rdf:datatype="&xsd;string" xml:lang="en">PALAU</lcc-cr:hasEnglishShortNameInCapitals>
       <lcc-cr:usesAdministrativeLanguage rdf:resource="&lcc-639-1;English"/>
       <lcc-cr:usesAdministrativeLanguage rdf:resource="&lcc-639-2;Palauan"/>
       <lcc-cr:hasRemarks>Comprises: the west part of the Caroline Islands (Principal island: Babelthuap).</lcc-cr:hasRemarks>
@@ -8910,10 +8911,10 @@ The language code "001" refers to the administrative language "Montenegrin" that
       <lcc-cr:hasNumericRegionCode rdf:datatype="&xsd;string">600</lcc-cr:hasNumericRegionCode>
       <lcc-cr:hasEnglishFullName rdf:datatype="&xsd;string" xml:lang="en">the Republic of Paraguay</lcc-cr:hasEnglishFullName>
       <lcc-cr:hasFrenchFullName rdf:datatype="&xsd;string" xml:lang="fr">la République du Paraguay</lcc-cr:hasFrenchFullName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Paraguay (el)</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="gn">Paraguay</lcc-cr:hasLocalShortName>
       <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Paraguay</lcc-cr:hasEnglishShortName>
       <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Paraguay (le)</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Paraguay (el)</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="gn">Paraguay</lcc-cr:hasLocalShortName>
       <lcc-cr:hasEnglishShortNameInCapitals rdf:datatype="&xsd;string" xml:lang="en">PARAGUAY</lcc-cr:hasEnglishShortNameInCapitals>
       <lcc-cr:hasFrenchShortNameInCapitals rdf:datatype="&xsd;string" xml:lang="fr">PARAGUAY</lcc-cr:hasFrenchShortNameInCapitals>
       <lcc-cr:usesAdministrativeLanguage rdf:resource="&lcc-639-1;Spanish"/>
@@ -8959,9 +8960,9 @@ The language code "001" refers to the administrative language "Montenegrin" that
       <lcc-cr:hasNumericRegionCode rdf:datatype="&xsd;string">634</lcc-cr:hasNumericRegionCode>
       <lcc-cr:hasEnglishFullName rdf:datatype="&xsd;string" xml:lang="en">the State of Qatar</lcc-cr:hasEnglishFullName>
       <lcc-cr:hasFrenchFullName rdf:datatype="&xsd;string" xml:lang="fr">l'État du Qatar</lcc-cr:hasFrenchFullName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Qaţar</lcc-cr:hasLocalShortName>
       <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Qatar</lcc-cr:hasEnglishShortName>
       <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Qatar (le)</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Qaţar</lcc-cr:hasLocalShortName>
       <lcc-cr:hasEnglishShortNameInCapitals rdf:datatype="&xsd;string" xml:lang="en">QATAR</lcc-cr:hasEnglishShortNameInCapitals>
       <lcc-cr:hasFrenchShortNameInCapitals rdf:datatype="&xsd;string" xml:lang="fr">QATAR</lcc-cr:hasFrenchShortNameInCapitals>
       <lcc-cr:usesAdministrativeLanguage rdf:resource="&lcc-639-1;Arabic"/>
@@ -9004,12 +9005,12 @@ The language code "001" refers to the administrative language "Montenegrin" that
       <skos:definition>individual representing the country of Réunion</skos:definition>
       <lcc-cr:isIndependent rdf:datatype="&xsd;boolean">false</lcc-cr:isIndependent>
       <lcc-cr:hasNumericRegionCode rdf:datatype="&xsd;string">638</lcc-cr:hasNumericRegionCode>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Réunion (La)</lcc-cr:hasFrenchShortName>
       <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Réunion</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasFrenchShortNameInCapitals rdf:datatype="&xsd;string" xml:lang="fr">RÉUNION</lcc-cr:hasFrenchShortNameInCapitals>
+      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Réunion (La)</lcc-cr:hasFrenchShortName>
       <lcc-cr:hasEnglishShortNameInCapitals rdf:datatype="&xsd;string" xml:lang="en">RÉUNION</lcc-cr:hasEnglishShortNameInCapitals>
+      <lcc-cr:hasFrenchShortNameInCapitals rdf:datatype="&xsd;string" xml:lang="fr">RÉUNION</lcc-cr:hasFrenchShortNameInCapitals>
       <lcc-cr:usesAdministrativeLanguage rdf:resource="&lcc-639-1;French"/>
-      <lcc-cr:hasRemarks>Subdivision in 4 arrondissements, which is not relevant for this part of ISO 3166. Included also as a subdivision of France (FR-RE).</lcc-cr:hasRemarks>
+      <lcc-cr:hasRemarks>No subdivisions relevant for this standard. Included also as a subdivision of France (FR-RE).</lcc-cr:hasRemarks>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-1;Country"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-1;"/>
    </owl:NamedIndividual>
@@ -9049,11 +9050,11 @@ The language code "001" refers to the administrative language "Montenegrin" that
       <skos:definition>individual representing the country of Romania</skos:definition>
       <lcc-cr:isIndependent rdf:datatype="&xsd;boolean">true</lcc-cr:isIndependent>
       <lcc-cr:hasNumericRegionCode rdf:datatype="&xsd;string">642</lcc-cr:hasNumericRegionCode>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ro">România</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Roumanie (la)</lcc-cr:hasFrenchShortName>
       <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Romania</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasFrenchShortNameInCapitals rdf:datatype="&xsd;string" xml:lang="fr">ROUMANIE</lcc-cr:hasFrenchShortNameInCapitals>
+      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Roumanie (la)</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ro">România</lcc-cr:hasLocalShortName>
       <lcc-cr:hasEnglishShortNameInCapitals rdf:datatype="&xsd;string" xml:lang="en">ROMANIA</lcc-cr:hasEnglishShortNameInCapitals>
+      <lcc-cr:hasFrenchShortNameInCapitals rdf:datatype="&xsd;string" xml:lang="fr">ROUMANIE</lcc-cr:hasFrenchShortNameInCapitals>
       <lcc-cr:usesAdministrativeLanguage rdf:resource="&lcc-639-1;Romanian"/>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-1;Country"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-1;"/>
@@ -9094,13 +9095,13 @@ The language code "001" refers to the administrative language "Montenegrin" that
       <skos:definition>individual representing the country of Serbia</skos:definition>
       <lcc-cr:isIndependent rdf:datatype="&xsd;boolean">true</lcc-cr:isIndependent>
       <lcc-cr:hasNumericRegionCode rdf:datatype="&xsd;string">688</lcc-cr:hasNumericRegionCode>
-      <lcc-cr:hasFrenchFullName rdf:datatype="&xsd;string" xml:lang="fr">la République de Serbie</lcc-cr:hasFrenchFullName>
       <lcc-cr:hasEnglishFullName rdf:datatype="&xsd;string" xml:lang="en">the Republic of Serbia</lcc-cr:hasEnglishFullName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sr">Srbija</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Serbie (la)</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchFullName rdf:datatype="&xsd;string" xml:lang="fr">la République de Serbie</lcc-cr:hasFrenchFullName>
       <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Serbia</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasFrenchShortNameInCapitals rdf:datatype="&xsd;string" xml:lang="fr">SERBIE</lcc-cr:hasFrenchShortNameInCapitals>
+      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Serbie (la)</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sr">Srbija</lcc-cr:hasLocalShortName>
       <lcc-cr:hasEnglishShortNameInCapitals rdf:datatype="&xsd;string" xml:lang="en">SERBIA</lcc-cr:hasEnglishShortNameInCapitals>
+      <lcc-cr:hasFrenchShortNameInCapitals rdf:datatype="&xsd;string" xml:lang="fr">SERBIE</lcc-cr:hasFrenchShortNameInCapitals>
       <lcc-cr:usesAdministrativeLanguage rdf:resource="&lcc-639-1;Serbian"/>
       <lcc-cr:hasRemarks>Serbia was formerly part of former entries: YUGOSLAVIA (YU, YUG, 891) then SERBIA AND MONTENEGRO (CS, SCG, 891).</lcc-cr:hasRemarks>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-1;Country"/>
@@ -9142,13 +9143,13 @@ The language code "001" refers to the administrative language "Montenegrin" that
       <skos:definition>individual representing the country of Russian Federation (the)</skos:definition>
       <lcc-cr:isIndependent rdf:datatype="&xsd;boolean">true</lcc-cr:isIndependent>
       <lcc-cr:hasNumericRegionCode rdf:datatype="&xsd;string">643</lcc-cr:hasNumericRegionCode>
-      <lcc-cr:hasFrenchFullName rdf:datatype="&xsd;string" xml:lang="fr">la Fédération de Russie</lcc-cr:hasFrenchFullName>
       <lcc-cr:hasEnglishFullName rdf:datatype="&xsd;string" xml:lang="en">the Russian Federation</lcc-cr:hasEnglishFullName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ru">Rossijskaja Federacija</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Russie (la Fédération de)</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchFullName rdf:datatype="&xsd;string" xml:lang="fr">la Fédération de Russie</lcc-cr:hasFrenchFullName>
       <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Russian Federation (the)</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasFrenchShortNameInCapitals rdf:datatype="&xsd;string" xml:lang="fr">RUSSIE, FÉDÉRATION DE</lcc-cr:hasFrenchShortNameInCapitals>
+      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Russie (la Fédération de)</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ru">Rossijskaja Federacija</lcc-cr:hasLocalShortName>
       <lcc-cr:hasEnglishShortNameInCapitals rdf:datatype="&xsd;string" xml:lang="en">RUSSIAN FEDERATION</lcc-cr:hasEnglishShortNameInCapitals>
+      <lcc-cr:hasFrenchShortNameInCapitals rdf:datatype="&xsd;string" xml:lang="fr">RUSSIE, FÉDÉRATION DE</lcc-cr:hasFrenchShortNameInCapitals>
       <lcc-cr:usesAdministrativeLanguage rdf:resource="&lcc-639-1;Russian"/>
       <lcc-cr:hasRemarks>Includes: the Kaliningrad Region.</lcc-cr:hasRemarks>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-1;Country"/>
@@ -9239,13 +9240,13 @@ The language code "001" refers to the administrative language "Montenegrin" that
       <skos:definition>individual representing the country of Saudi Arabia</skos:definition>
       <lcc-cr:isIndependent rdf:datatype="&xsd;boolean">true</lcc-cr:isIndependent>
       <lcc-cr:hasNumericRegionCode rdf:datatype="&xsd;string">682</lcc-cr:hasNumericRegionCode>
-      <lcc-cr:hasFrenchFullName rdf:datatype="&xsd;string" xml:lang="fr">le Royaume d'Arabie saoudite</lcc-cr:hasFrenchFullName>
       <lcc-cr:hasEnglishFullName rdf:datatype="&xsd;string" xml:lang="en">the Kingdom of Saudi Arabia</lcc-cr:hasEnglishFullName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">As Su‘ūdīyah</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Arabie saoudite (l')</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchFullName rdf:datatype="&xsd;string" xml:lang="fr">le Royaume d'Arabie saoudite</lcc-cr:hasFrenchFullName>
       <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Saudi Arabia</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasFrenchShortNameInCapitals rdf:datatype="&xsd;string" xml:lang="fr">ARABIE SAOUDITE</lcc-cr:hasFrenchShortNameInCapitals>
+      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Arabie saoudite (l')</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">As Su‘ūdīyah</lcc-cr:hasLocalShortName>
       <lcc-cr:hasEnglishShortNameInCapitals rdf:datatype="&xsd;string" xml:lang="en">SAUDI ARABIA</lcc-cr:hasEnglishShortNameInCapitals>
+      <lcc-cr:hasFrenchShortNameInCapitals rdf:datatype="&xsd;string" xml:lang="fr">ARABIE SAOUDITE</lcc-cr:hasFrenchShortNameInCapitals>
       <lcc-cr:usesAdministrativeLanguage rdf:resource="&lcc-639-1;Arabic"/>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-1;Country"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-1;"/>
@@ -9287,10 +9288,10 @@ The language code "001" refers to the administrative language "Montenegrin" that
       <lcc-cr:isIndependent rdf:datatype="&xsd;boolean">true</lcc-cr:isIndependent>
       <lcc-cr:hasNumericRegionCode rdf:datatype="&xsd;string">090</lcc-cr:hasNumericRegionCode>
       <lcc-cr:hasFrenchFullName rdf:datatype="&xsd;string" xml:lang="fr">les Îles Salomon</lcc-cr:hasFrenchFullName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Solomon Islands</lcc-cr:hasEnglishShortName>
       <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Salomon (Îles)</lcc-cr:hasFrenchShortName>
-      <lcc-cr:hasEnglishShortNameInCapitals rdf:datatype="&xsd;string" xml:lang="en">SOLOMON ISLANDS</lcc-cr:hasEnglishShortNameInCapitals>
+      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Solomon Islands</lcc-cr:hasEnglishShortName>
       <lcc-cr:hasFrenchShortNameInCapitals rdf:datatype="&xsd;string" xml:lang="fr">SALOMON, ÎLES</lcc-cr:hasFrenchShortNameInCapitals>
+      <lcc-cr:hasEnglishShortNameInCapitals rdf:datatype="&xsd;string" xml:lang="en">SOLOMON ISLANDS</lcc-cr:hasEnglishShortNameInCapitals>
       <lcc-cr:usesAdministrativeLanguage rdf:resource="&lcc-639-1;English"/>
       <lcc-cr:hasRemarks>Comprises: Santa Cruz Islands, Southern Solomon Islands (Principal island: Guadalcanal).</lcc-cr:hasRemarks>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-1;Country"/>
@@ -9382,13 +9383,13 @@ The language code "001" refers to the administrative language "Montenegrin" that
       <skos:definition>individual representing the country of Sudan (the)</skos:definition>
       <lcc-cr:isIndependent rdf:datatype="&xsd;boolean">true</lcc-cr:isIndependent>
       <lcc-cr:hasNumericRegionCode rdf:datatype="&xsd;string">729</lcc-cr:hasNumericRegionCode>
-      <lcc-cr:hasFrenchFullName rdf:datatype="&xsd;string" xml:lang="fr">la République du Soudan</lcc-cr:hasFrenchFullName>
       <lcc-cr:hasEnglishFullName rdf:datatype="&xsd;string" xml:lang="en">the Republic of the Sudan</lcc-cr:hasEnglishFullName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">As Sūdān</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Soudan (le)</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchFullName rdf:datatype="&xsd;string" xml:lang="fr">la République du Soudan</lcc-cr:hasFrenchFullName>
       <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Sudan (the)</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasFrenchShortNameInCapitals rdf:datatype="&xsd;string" xml:lang="fr">SOUDAN</lcc-cr:hasFrenchShortNameInCapitals>
+      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Soudan (le)</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">As Sūdān</lcc-cr:hasLocalShortName>
       <lcc-cr:hasEnglishShortNameInCapitals rdf:datatype="&xsd;string" xml:lang="en">SUDAN</lcc-cr:hasEnglishShortNameInCapitals>
+      <lcc-cr:hasFrenchShortNameInCapitals rdf:datatype="&xsd;string" xml:lang="fr">SOUDAN</lcc-cr:hasFrenchShortNameInCapitals>
       <lcc-cr:usesAdministrativeLanguage rdf:resource="&lcc-639-1;Arabic"/>
       <lcc-cr:hasRemarks>Split of Sudan into Sudan (north part) and South Sudan (south part).</lcc-cr:hasRemarks>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-1;Country"/>
@@ -9430,13 +9431,13 @@ The language code "001" refers to the administrative language "Montenegrin" that
       <skos:definition>individual representing the country of Sweden</skos:definition>
       <lcc-cr:isIndependent rdf:datatype="&xsd;boolean">true</lcc-cr:isIndependent>
       <lcc-cr:hasNumericRegionCode rdf:datatype="&xsd;string">752</lcc-cr:hasNumericRegionCode>
-      <lcc-cr:hasFrenchFullName rdf:datatype="&xsd;string" xml:lang="fr">le Royaume de Suède</lcc-cr:hasFrenchFullName>
       <lcc-cr:hasEnglishFullName rdf:datatype="&xsd;string" xml:lang="en">the Kingdom of Sweden</lcc-cr:hasEnglishFullName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sv">Sverige</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Suède (la)</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchFullName rdf:datatype="&xsd;string" xml:lang="fr">le Royaume de Suède</lcc-cr:hasFrenchFullName>
       <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Sweden</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasFrenchShortNameInCapitals rdf:datatype="&xsd;string" xml:lang="fr">SUÈDE</lcc-cr:hasFrenchShortNameInCapitals>
+      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Suède (la)</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sv">Sverige</lcc-cr:hasLocalShortName>
       <lcc-cr:hasEnglishShortNameInCapitals rdf:datatype="&xsd;string" xml:lang="en">SWEDEN</lcc-cr:hasEnglishShortNameInCapitals>
+      <lcc-cr:hasFrenchShortNameInCapitals rdf:datatype="&xsd;string" xml:lang="fr">SUÈDE</lcc-cr:hasFrenchShortNameInCapitals>
       <lcc-cr:usesAdministrativeLanguage rdf:resource="&lcc-639-1;Swedish"/>
       <lcc-cr:hasRemarks>Remark: Alphabetic and numeric codes co-exist. The alphabetic code is traditionally well known to the general public, whereas the numeric code (placed after the name within square brackets) is used mainly within national administration; it may in the longer term supersede the alphabetic code. </lcc-cr:hasRemarks>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-1;Country"/>
@@ -9478,15 +9479,15 @@ The language code "001" refers to the administrative language "Montenegrin" that
       <skos:definition>individual representing the country of Singapore</skos:definition>
       <lcc-cr:isIndependent rdf:datatype="&xsd;boolean">true</lcc-cr:isIndependent>
       <lcc-cr:hasNumericRegionCode rdf:datatype="&xsd;string">702</lcc-cr:hasNumericRegionCode>
-      <lcc-cr:hasEnglishFullName rdf:datatype="&xsd;string" xml:lang="en">the Republic of Singapore</lcc-cr:hasEnglishFullName>
       <lcc-cr:hasFrenchFullName rdf:datatype="&xsd;string" xml:lang="fr">la République de Singapour</lcc-cr:hasFrenchFullName>
+      <lcc-cr:hasEnglishFullName rdf:datatype="&xsd;string" xml:lang="en">the Republic of Singapore</lcc-cr:hasEnglishFullName>
+      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Singapour</lcc-cr:hasFrenchShortName>
       <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Singapore</lcc-cr:hasEnglishShortName>
       <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ms">Singapura</lcc-cr:hasLocalShortName>
       <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ta">Chiṅkappūr</lcc-cr:hasLocalShortName>
       <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="zh">Xinjiapo</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Singapour</lcc-cr:hasFrenchShortName>
-      <lcc-cr:hasEnglishShortNameInCapitals rdf:datatype="&xsd;string" xml:lang="en">SINGAPORE</lcc-cr:hasEnglishShortNameInCapitals>
       <lcc-cr:hasFrenchShortNameInCapitals rdf:datatype="&xsd;string" xml:lang="fr">SINGAPOUR</lcc-cr:hasFrenchShortNameInCapitals>
+      <lcc-cr:hasEnglishShortNameInCapitals rdf:datatype="&xsd;string" xml:lang="en">SINGAPORE</lcc-cr:hasEnglishShortNameInCapitals>
       <lcc-cr:usesAdministrativeLanguage rdf:resource="&lcc-639-1;English"/>
       <lcc-cr:usesAdministrativeLanguage rdf:resource="&lcc-639-1;Malay"/>
       <lcc-cr:usesAdministrativeLanguage rdf:resource="&lcc-639-1;Tamil"/>
@@ -9530,10 +9531,10 @@ The language code "001" refers to the administrative language "Montenegrin" that
       <skos:definition>individual representing the country of Saint Helena, Ascension and Tristan da Cunha</skos:definition>
       <lcc-cr:isIndependent rdf:datatype="&xsd;boolean">false</lcc-cr:isIndependent>
       <lcc-cr:hasNumericRegionCode rdf:datatype="&xsd;string">654</lcc-cr:hasNumericRegionCode>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Saint Helena, Ascension and Tristan da Cunha</lcc-cr:hasEnglishShortName>
       <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Sainte-Hélène, Ascension et Tristan da Cunha</lcc-cr:hasFrenchShortName>
-      <lcc-cr:hasEnglishShortNameInCapitals rdf:datatype="&xsd;string" xml:lang="en">SAINT HELENA, ASCENSION AND TRISTAN DA CUNHA</lcc-cr:hasEnglishShortNameInCapitals>
+      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Saint Helena, Ascension and Tristan da Cunha</lcc-cr:hasEnglishShortName>
       <lcc-cr:hasFrenchShortNameInCapitals rdf:datatype="&xsd;string" xml:lang="fr">SAINTE-HÉLÈNE, ASCENSION ET TRISTAN DA CUNHA</lcc-cr:hasFrenchShortNameInCapitals>
+      <lcc-cr:hasEnglishShortNameInCapitals rdf:datatype="&xsd;string" xml:lang="en">SAINT HELENA, ASCENSION AND TRISTAN DA CUNHA</lcc-cr:hasEnglishShortNameInCapitals>
       <lcc-cr:usesAdministrativeLanguage rdf:resource="&lcc-639-1;English"/>
       <lcc-cr:hasRemarks>Comprises: Saint Helena Island, Ascension Island, Tristan da Cunha Archipelago (Gough Island, Inaccessible Island, Nightingale Island and Stoltenhoff Island).</lcc-cr:hasRemarks>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-1;Country"/>
@@ -9575,13 +9576,13 @@ The language code "001" refers to the administrative language "Montenegrin" that
       <skos:definition>individual representing the country of Slovenia</skos:definition>
       <lcc-cr:isIndependent rdf:datatype="&xsd;boolean">true</lcc-cr:isIndependent>
       <lcc-cr:hasNumericRegionCode rdf:datatype="&xsd;string">705</lcc-cr:hasNumericRegionCode>
-      <lcc-cr:hasFrenchFullName rdf:datatype="&xsd;string" xml:lang="fr">la République de Slovénie</lcc-cr:hasFrenchFullName>
       <lcc-cr:hasEnglishFullName rdf:datatype="&xsd;string" xml:lang="en">the Republic of Slovenia</lcc-cr:hasEnglishFullName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sl">Slovenija</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Slovénie (la)</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchFullName rdf:datatype="&xsd;string" xml:lang="fr">la République de Slovénie</lcc-cr:hasFrenchFullName>
       <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Slovenia</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasFrenchShortNameInCapitals rdf:datatype="&xsd;string" xml:lang="fr">SLOVÉNIE</lcc-cr:hasFrenchShortNameInCapitals>
+      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Slovénie (la)</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sl">Slovenija</lcc-cr:hasLocalShortName>
       <lcc-cr:hasEnglishShortNameInCapitals rdf:datatype="&xsd;string" xml:lang="en">SLOVENIA</lcc-cr:hasEnglishShortNameInCapitals>
+      <lcc-cr:hasFrenchShortNameInCapitals rdf:datatype="&xsd;string" xml:lang="fr">SLOVÉNIE</lcc-cr:hasFrenchShortNameInCapitals>
       <lcc-cr:usesAdministrativeLanguage rdf:resource="&lcc-639-1;Slovenian"/>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-1;Country"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-1;"/>
@@ -9622,16 +9623,16 @@ The language code "001" refers to the administrative language "Montenegrin" that
       <skos:definition>individual representing the country of Svalbard and Jan Mayen</skos:definition>
       <lcc-cr:isIndependent rdf:datatype="&xsd;boolean">false</lcc-cr:isIndependent>
       <lcc-cr:hasNumericRegionCode rdf:datatype="&xsd;string">744</lcc-cr:hasNumericRegionCode>
+      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Svalbard and Jan Mayen</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Svalbard et l'Île Jan Mayen (le)</lcc-cr:hasFrenchShortName>
       <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="nb">Svalbard og Jan Mayen</lcc-cr:hasLocalShortName>
       <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="nn">Svalbard og Jan Mayen</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Svalbard et l'Île Jan Mayen (le)</lcc-cr:hasFrenchShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Svalbard and Jan Mayen</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasFrenchShortNameInCapitals rdf:datatype="&xsd;string" xml:lang="fr">SVALBARD ET ÎLE JAN MAYEN</lcc-cr:hasFrenchShortNameInCapitals>
       <lcc-cr:hasEnglishShortNameInCapitals rdf:datatype="&xsd;string" xml:lang="en">SVALBARD AND JAN MAYEN</lcc-cr:hasEnglishShortNameInCapitals>
+      <lcc-cr:hasFrenchShortNameInCapitals rdf:datatype="&xsd;string" xml:lang="fr">SVALBARD ET ÎLE JAN MAYEN</lcc-cr:hasFrenchShortNameInCapitals>
       <lcc-cr:usesAdministrativeLanguage rdf:resource="&lcc-639-1;NorwegianBokmal"/>
       <lcc-cr:usesAdministrativeLanguage rdf:resource="&lcc-639-1;NorwegianNynorsk"/>
       <lcc-cr:hasRemarks>Includes: Bear Island.</lcc-cr:hasRemarks>
-      <lcc-cr:hasRemarks>No subdivision reported. Included also as a subdivision of Norway (NO-21, NO-22).</lcc-cr:hasRemarks>
+      <lcc-cr:hasRemarks>No subdivisions relevant for this standard. Included also as a subdivision of Norway (NO-21, NO-22).</lcc-cr:hasRemarks>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-1;Country"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-1;"/>
    </owl:NamedIndividual>
@@ -9671,13 +9672,13 @@ The language code "001" refers to the administrative language "Montenegrin" that
       <skos:definition>individual representing the country of Slovakia</skos:definition>
       <lcc-cr:isIndependent rdf:datatype="&xsd;boolean">true</lcc-cr:isIndependent>
       <lcc-cr:hasNumericRegionCode rdf:datatype="&xsd;string">703</lcc-cr:hasNumericRegionCode>
-      <lcc-cr:hasFrenchFullName rdf:datatype="&xsd;string" xml:lang="fr">la République slovaque</lcc-cr:hasFrenchFullName>
       <lcc-cr:hasEnglishFullName rdf:datatype="&xsd;string" xml:lang="en">the Slovak Republic</lcc-cr:hasEnglishFullName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sk">Slovensko</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Slovaquie (la)</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchFullName rdf:datatype="&xsd;string" xml:lang="fr">la République slovaque</lcc-cr:hasFrenchFullName>
       <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Slovakia</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasFrenchShortNameInCapitals rdf:datatype="&xsd;string" xml:lang="fr">SLOVAQUIE</lcc-cr:hasFrenchShortNameInCapitals>
+      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Slovaquie (la)</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sk">Slovensko</lcc-cr:hasLocalShortName>
       <lcc-cr:hasEnglishShortNameInCapitals rdf:datatype="&xsd;string" xml:lang="en">SLOVAKIA</lcc-cr:hasEnglishShortNameInCapitals>
+      <lcc-cr:hasFrenchShortNameInCapitals rdf:datatype="&xsd;string" xml:lang="fr">SLOVAQUIE</lcc-cr:hasFrenchShortNameInCapitals>
       <lcc-cr:usesAdministrativeLanguage rdf:resource="&lcc-639-1;Slovak"/>
       <lcc-cr:hasRemarks>Code element SK was formerly used for Sikkim (SK, SKM, --), now part of the entry for India (IN, IND, 356), was reused for Slovakia. See aslo code element SKIN.</lcc-cr:hasRemarks>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-1;Country"/>
@@ -9719,12 +9720,12 @@ The language code "001" refers to the administrative language "Montenegrin" that
       <skos:definition>individual representing the country of Sierra Leone</skos:definition>
       <lcc-cr:isIndependent rdf:datatype="&xsd;boolean">true</lcc-cr:isIndependent>
       <lcc-cr:hasNumericRegionCode rdf:datatype="&xsd;string">694</lcc-cr:hasNumericRegionCode>
-      <lcc-cr:hasEnglishFullName rdf:datatype="&xsd;string" xml:lang="en">the Republic of Sierra Leone</lcc-cr:hasEnglishFullName>
       <lcc-cr:hasFrenchFullName rdf:datatype="&xsd;string" xml:lang="fr">la République de Sierra Leone</lcc-cr:hasFrenchFullName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Sierra Leone</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishFullName rdf:datatype="&xsd;string" xml:lang="en">the Republic of Sierra Leone</lcc-cr:hasEnglishFullName>
       <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Sierra Leone (la)</lcc-cr:hasFrenchShortName>
-      <lcc-cr:hasEnglishShortNameInCapitals rdf:datatype="&xsd;string" xml:lang="en">SIERRA LEONE</lcc-cr:hasEnglishShortNameInCapitals>
+      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Sierra Leone</lcc-cr:hasEnglishShortName>
       <lcc-cr:hasFrenchShortNameInCapitals rdf:datatype="&xsd;string" xml:lang="fr">SIERRA LEONE</lcc-cr:hasFrenchShortNameInCapitals>
+      <lcc-cr:hasEnglishShortNameInCapitals rdf:datatype="&xsd;string" xml:lang="en">SIERRA LEONE</lcc-cr:hasEnglishShortNameInCapitals>
       <lcc-cr:usesAdministrativeLanguage rdf:resource="&lcc-639-1;English"/>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-1;Country"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-1;"/>
@@ -9765,13 +9766,13 @@ The language code "001" refers to the administrative language "Montenegrin" that
       <skos:definition>individual representing the country of San Marino</skos:definition>
       <lcc-cr:isIndependent rdf:datatype="&xsd;boolean">true</lcc-cr:isIndependent>
       <lcc-cr:hasNumericRegionCode rdf:datatype="&xsd;string">674</lcc-cr:hasNumericRegionCode>
-      <lcc-cr:hasFrenchFullName rdf:datatype="&xsd;string" xml:lang="fr">la République de Saint-Marin</lcc-cr:hasFrenchFullName>
       <lcc-cr:hasEnglishFullName rdf:datatype="&xsd;string" xml:lang="en">the Republic of San Marino</lcc-cr:hasEnglishFullName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="it">San Marino</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Saint-Marin</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchFullName rdf:datatype="&xsd;string" xml:lang="fr">la République de Saint-Marin</lcc-cr:hasFrenchFullName>
       <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">San Marino</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasFrenchShortNameInCapitals rdf:datatype="&xsd;string" xml:lang="fr">SAINT-MARIN</lcc-cr:hasFrenchShortNameInCapitals>
+      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Saint-Marin</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="it">San Marino</lcc-cr:hasLocalShortName>
       <lcc-cr:hasEnglishShortNameInCapitals rdf:datatype="&xsd;string" xml:lang="en">SAN MARINO</lcc-cr:hasEnglishShortNameInCapitals>
+      <lcc-cr:hasFrenchShortNameInCapitals rdf:datatype="&xsd;string" xml:lang="fr">SAINT-MARIN</lcc-cr:hasFrenchShortNameInCapitals>
       <lcc-cr:usesAdministrativeLanguage rdf:resource="&lcc-639-1;Italian"/>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-1;Country"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-1;"/>
@@ -9812,12 +9813,12 @@ The language code "001" refers to the administrative language "Montenegrin" that
       <skos:definition>individual representing the country of Senegal</skos:definition>
       <lcc-cr:isIndependent rdf:datatype="&xsd;boolean">true</lcc-cr:isIndependent>
       <lcc-cr:hasNumericRegionCode rdf:datatype="&xsd;string">686</lcc-cr:hasNumericRegionCode>
-      <lcc-cr:hasFrenchFullName rdf:datatype="&xsd;string" xml:lang="fr">la République du Sénégal</lcc-cr:hasFrenchFullName>
       <lcc-cr:hasEnglishFullName rdf:datatype="&xsd;string" xml:lang="en">the Republic of Senegal</lcc-cr:hasEnglishFullName>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Sénégal (le)</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchFullName rdf:datatype="&xsd;string" xml:lang="fr">la République du Sénégal</lcc-cr:hasFrenchFullName>
       <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Senegal</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasFrenchShortNameInCapitals rdf:datatype="&xsd;string" xml:lang="fr">SÉNÉGAL</lcc-cr:hasFrenchShortNameInCapitals>
+      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Sénégal (le)</lcc-cr:hasFrenchShortName>
       <lcc-cr:hasEnglishShortNameInCapitals rdf:datatype="&xsd;string" xml:lang="en">SENEGAL</lcc-cr:hasEnglishShortNameInCapitals>
+      <lcc-cr:hasFrenchShortNameInCapitals rdf:datatype="&xsd;string" xml:lang="fr">SÉNÉGAL</lcc-cr:hasFrenchShortNameInCapitals>
       <lcc-cr:usesAdministrativeLanguage rdf:resource="&lcc-639-1;French"/>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-1;Country"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-1;"/>
@@ -9858,14 +9859,14 @@ The language code "001" refers to the administrative language "Montenegrin" that
       <skos:definition>individual representing the country of Somalia</skos:definition>
       <lcc-cr:isIndependent rdf:datatype="&xsd;boolean">true</lcc-cr:isIndependent>
       <lcc-cr:hasNumericRegionCode rdf:datatype="&xsd;string">706</lcc-cr:hasNumericRegionCode>
-      <lcc-cr:hasFrenchFullName rdf:datatype="&xsd;string" xml:lang="fr">la République fédérale de Somalie</lcc-cr:hasFrenchFullName>
       <lcc-cr:hasEnglishFullName rdf:datatype="&xsd;string" xml:lang="en">the Federal Republic of Somalia</lcc-cr:hasEnglishFullName>
+      <lcc-cr:hasFrenchFullName rdf:datatype="&xsd;string" xml:lang="fr">la République fédérale de Somalie</lcc-cr:hasFrenchFullName>
+      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Somalia</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Somalie (la)</lcc-cr:hasFrenchShortName>
       <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Aş Şūmāl</lcc-cr:hasLocalShortName>
       <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="so">Soomaaliya</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Somalie (la)</lcc-cr:hasFrenchShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Somalia</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasFrenchShortNameInCapitals rdf:datatype="&xsd;string" xml:lang="fr">SOMALIE</lcc-cr:hasFrenchShortNameInCapitals>
       <lcc-cr:hasEnglishShortNameInCapitals rdf:datatype="&xsd;string" xml:lang="en">SOMALIA</lcc-cr:hasEnglishShortNameInCapitals>
+      <lcc-cr:hasFrenchShortNameInCapitals rdf:datatype="&xsd;string" xml:lang="fr">SOMALIE</lcc-cr:hasFrenchShortNameInCapitals>
       <lcc-cr:usesAdministrativeLanguage rdf:resource="&lcc-639-1;Arabic"/>
       <lcc-cr:usesAdministrativeLanguage rdf:resource="&lcc-639-1;Somali"/>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-1;Country"/>
@@ -9907,13 +9908,13 @@ The language code "001" refers to the administrative language "Montenegrin" that
       <skos:definition>individual representing the country of Suriname</skos:definition>
       <lcc-cr:isIndependent rdf:datatype="&xsd;boolean">true</lcc-cr:isIndependent>
       <lcc-cr:hasNumericRegionCode rdf:datatype="&xsd;string">740</lcc-cr:hasNumericRegionCode>
-      <lcc-cr:hasFrenchFullName rdf:datatype="&xsd;string" xml:lang="fr">la République du Suriname</lcc-cr:hasFrenchFullName>
       <lcc-cr:hasEnglishFullName rdf:datatype="&xsd;string" xml:lang="en">the Republic of Suriname</lcc-cr:hasEnglishFullName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="nl">Suriname</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Suriname (le)</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchFullName rdf:datatype="&xsd;string" xml:lang="fr">la République du Suriname</lcc-cr:hasFrenchFullName>
       <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Suriname</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasFrenchShortNameInCapitals rdf:datatype="&xsd;string" xml:lang="fr">SURINAME</lcc-cr:hasFrenchShortNameInCapitals>
+      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Suriname (le)</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="nl">Suriname</lcc-cr:hasLocalShortName>
       <lcc-cr:hasEnglishShortNameInCapitals rdf:datatype="&xsd;string" xml:lang="en">SURINAME</lcc-cr:hasEnglishShortNameInCapitals>
+      <lcc-cr:hasFrenchShortNameInCapitals rdf:datatype="&xsd;string" xml:lang="fr">SURINAME</lcc-cr:hasFrenchShortNameInCapitals>
       <lcc-cr:usesAdministrativeLanguage rdf:resource="&lcc-639-1;Dutch"/>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-1;Country"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-1;"/>
@@ -10001,13 +10002,13 @@ The language code "001" refers to the administrative language "Montenegrin" that
       <skos:definition>individual representing the country of Sao Tome and Principe</skos:definition>
       <lcc-cr:isIndependent rdf:datatype="&xsd;boolean">true</lcc-cr:isIndependent>
       <lcc-cr:hasNumericRegionCode rdf:datatype="&xsd;string">678</lcc-cr:hasNumericRegionCode>
-      <lcc-cr:hasFrenchFullName rdf:datatype="&xsd;string" xml:lang="fr">la République démocratique de Sao Tomé-et-Principe</lcc-cr:hasFrenchFullName>
       <lcc-cr:hasEnglishFullName rdf:datatype="&xsd;string" xml:lang="en">the Democratic Republic of Sao Tome and Principe</lcc-cr:hasEnglishFullName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="pt">São Tomé e Príncipe</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Sao Tomé-et-Principe</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchFullName rdf:datatype="&xsd;string" xml:lang="fr">la République démocratique de Sao Tomé-et-Principe</lcc-cr:hasFrenchFullName>
       <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Sao Tome and Principe</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasFrenchShortNameInCapitals rdf:datatype="&xsd;string" xml:lang="fr">SAO TOMÉ-ET-PRINCIPE</lcc-cr:hasFrenchShortNameInCapitals>
+      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Sao Tomé-et-Principe</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="pt">São Tomé e Príncipe</lcc-cr:hasLocalShortName>
       <lcc-cr:hasEnglishShortNameInCapitals rdf:datatype="&xsd;string" xml:lang="en">SAO TOME AND PRINCIPE</lcc-cr:hasEnglishShortNameInCapitals>
+      <lcc-cr:hasFrenchShortNameInCapitals rdf:datatype="&xsd;string" xml:lang="fr">SAO TOMÉ-ET-PRINCIPE</lcc-cr:hasFrenchShortNameInCapitals>
       <lcc-cr:usesAdministrativeLanguage rdf:resource="&lcc-639-1;Portuguese"/>
       <lcc-cr:hasRemarks>Príncipe* is the second significant part of composite country name.</lcc-cr:hasRemarks>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-1;Country"/>
@@ -10049,13 +10050,13 @@ The language code "001" refers to the administrative language "Montenegrin" that
       <skos:definition>individual representing the country of El Salvador</skos:definition>
       <lcc-cr:isIndependent rdf:datatype="&xsd;boolean">true</lcc-cr:isIndependent>
       <lcc-cr:hasNumericRegionCode rdf:datatype="&xsd;string">222</lcc-cr:hasNumericRegionCode>
-      <lcc-cr:hasFrenchFullName rdf:datatype="&xsd;string" xml:lang="fr">la République d'El Salvador</lcc-cr:hasFrenchFullName>
       <lcc-cr:hasEnglishFullName rdf:datatype="&xsd;string" xml:lang="en">the Republic of El Salvador</lcc-cr:hasEnglishFullName>
+      <lcc-cr:hasFrenchFullName rdf:datatype="&xsd;string" xml:lang="fr">la République d'El Salvador</lcc-cr:hasFrenchFullName>
+      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">El Salvador</lcc-cr:hasEnglishShortName>
       <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">El Salvador</lcc-cr:hasLocalShortName>
       <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">El Salvador</lcc-cr:hasFrenchShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">El Salvador</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasFrenchShortNameInCapitals rdf:datatype="&xsd;string" xml:lang="fr">EL SALVADOR</lcc-cr:hasFrenchShortNameInCapitals>
       <lcc-cr:hasEnglishShortNameInCapitals rdf:datatype="&xsd;string" xml:lang="en">EL SALVADOR</lcc-cr:hasEnglishShortNameInCapitals>
+      <lcc-cr:hasFrenchShortNameInCapitals rdf:datatype="&xsd;string" xml:lang="fr">EL SALVADOR</lcc-cr:hasFrenchShortNameInCapitals>
       <lcc-cr:usesAdministrativeLanguage rdf:resource="&lcc-639-1;Spanish"/>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-1;Country"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-1;"/>
@@ -10104,7 +10105,7 @@ The language code "001" refers to the administrative language "Montenegrin" that
       <lcc-cr:usesAdministrativeLanguage rdf:resource="&lcc-639-1;English"/>
       <lcc-cr:usesAdministrativeLanguage rdf:resource="&lcc-639-1;Dutch"/>
       <lcc-cr:hasRemarks>The island of Saint Martin is divided into the northern French part and the southern Dutch part.</lcc-cr:hasRemarks>
-      <lcc-cr:hasRemarks>No subdivision reported. Included also as subdivision of Netherlands (NL-SX).</lcc-cr:hasRemarks>
+      <lcc-cr:hasRemarks>No subdivisions relevant for this standard. Included also as subdivision of Netherlands (NL-SX).</lcc-cr:hasRemarks>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-1;Country"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-1;"/>
    </owl:NamedIndividual>
@@ -10144,13 +10145,13 @@ The language code "001" refers to the administrative language "Montenegrin" that
       <skos:definition>individual representing the country of Syrian Arab Republic</skos:definition>
       <lcc-cr:isIndependent rdf:datatype="&xsd;boolean">true</lcc-cr:isIndependent>
       <lcc-cr:hasNumericRegionCode rdf:datatype="&xsd;string">760</lcc-cr:hasNumericRegionCode>
-      <lcc-cr:hasFrenchFullName rdf:datatype="&xsd;string" xml:lang="fr">la République arabe syrienne</lcc-cr:hasFrenchFullName>
       <lcc-cr:hasEnglishFullName rdf:datatype="&xsd;string" xml:lang="en">the Syrian Arab Republic</lcc-cr:hasEnglishFullName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Al Jumhūrīyah al ‘Arabīyah as Sūrīyah</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">République arabe syrienne (la)</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchFullName rdf:datatype="&xsd;string" xml:lang="fr">la République arabe syrienne</lcc-cr:hasFrenchFullName>
       <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Syrian Arab Republic</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasFrenchShortNameInCapitals rdf:datatype="&xsd;string" xml:lang="fr">SYRIENNE, RÉPUBLIQUE ARABE</lcc-cr:hasFrenchShortNameInCapitals>
+      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">République arabe syrienne (la)</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Al Jumhūrīyah al ‘Arabīyah as Sūrīyah</lcc-cr:hasLocalShortName>
       <lcc-cr:hasEnglishShortNameInCapitals rdf:datatype="&xsd;string" xml:lang="en">SYRIAN ARAB REPUBLIC</lcc-cr:hasEnglishShortNameInCapitals>
+      <lcc-cr:hasFrenchShortNameInCapitals rdf:datatype="&xsd;string" xml:lang="fr">SYRIENNE, RÉPUBLIQUE ARABE</lcc-cr:hasFrenchShortNameInCapitals>
       <lcc-cr:usesAdministrativeLanguage rdf:resource="&lcc-639-1;Arabic"/>
       <lcc-cr:hasRemarks>Often referred to as Syria.</lcc-cr:hasRemarks>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-1;Country"/>
@@ -10182,23 +10183,23 @@ The language code "001" refers to the administrative language "Montenegrin" that
   <!--
     ///////////////////////////////////////////////////////////////////////////////////////
     //
-    // Swaziland
+    // Eswatini
     //
     ///////////////////////////////////////////////////////////////////////////////////////
     -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-1;Swaziland">
+   <owl:NamedIndividual rdf:about="&lcc-3166-1;Eswatini">
       <rdf:type rdf:resource="&lcc-cr;Country"/>
-      <rdfs:label>Swaziland</rdfs:label>
-      <skos:definition>individual representing the country of Swaziland</skos:definition>
+      <rdfs:label>Eswatini</rdfs:label>
+      <skos:definition>individual representing the country of Eswatini</skos:definition>
       <lcc-cr:isIndependent rdf:datatype="&xsd;boolean">true</lcc-cr:isIndependent>
       <lcc-cr:hasNumericRegionCode rdf:datatype="&xsd;string">748</lcc-cr:hasNumericRegionCode>
-      <lcc-cr:hasEnglishFullName rdf:datatype="&xsd;string" xml:lang="en">the Kingdom of Swaziland</lcc-cr:hasEnglishFullName>
-      <lcc-cr:hasFrenchFullName rdf:datatype="&xsd;string" xml:lang="fr">le Royaume du Swaziland</lcc-cr:hasFrenchFullName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Swaziland</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasFrenchFullName rdf:datatype="&xsd;string" xml:lang="fr">le Royaume d’Eswatini</lcc-cr:hasFrenchFullName>
+      <lcc-cr:hasEnglishFullName rdf:datatype="&xsd;string" xml:lang="en">the Kingdom of Eswatini</lcc-cr:hasEnglishFullName>
+      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Eswatini (l')</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Eswatini</lcc-cr:hasEnglishShortName>
       <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ss">eSwatini</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Swaziland (le)</lcc-cr:hasFrenchShortName>
-      <lcc-cr:hasEnglishShortNameInCapitals rdf:datatype="&xsd;string" xml:lang="en">SWAZILAND</lcc-cr:hasEnglishShortNameInCapitals>
-      <lcc-cr:hasFrenchShortNameInCapitals rdf:datatype="&xsd;string" xml:lang="fr">SWAZILAND</lcc-cr:hasFrenchShortNameInCapitals>
+      <lcc-cr:hasFrenchShortNameInCapitals rdf:datatype="&xsd;string" xml:lang="fr">ESWATINI</lcc-cr:hasFrenchShortNameInCapitals>
+      <lcc-cr:hasEnglishShortNameInCapitals rdf:datatype="&xsd;string" xml:lang="en">ESWATINI</lcc-cr:hasEnglishShortNameInCapitals>
       <lcc-cr:usesAdministrativeLanguage rdf:resource="&lcc-639-1;English"/>
       <lcc-cr:usesAdministrativeLanguage rdf:resource="&lcc-639-1;Swati"/>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-1;Country"/>
@@ -10207,22 +10208,22 @@ The language code "001" refers to the administrative language "Montenegrin" that
 
    <owl:NamedIndividual rdf:about="&lcc-3166-1;SZ">
       <rdf:type rdf:resource="&lcc-cr;Alpha2Code"/>
-      <skos:definition>Alpha-2 country code for Swaziland</skos:definition>
+      <skos:definition>Alpha-2 country code for Eswatini</skos:definition>
       <rdfs:label>SZ</rdfs:label>
       <lcc-lr:hasTag rdf:datatype="&xsd;string">SZ</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-1;Swaziland"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-1;Swaziland"/>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-1;Eswatini"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-1;Eswatini"/>
       <lcc-lr:isMemberOf rdf:resource="&lcc-3166-1;ISO3166-1-Alpha2-CodeSet"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-1;"/>
    </owl:NamedIndividual>
 
    <owl:NamedIndividual rdf:about="&lcc-3166-1;SWZ">
       <rdf:type rdf:resource="&lcc-cr;Alpha3Code"/>
-      <skos:definition>Alpha-3 country code for Swaziland</skos:definition>
+      <skos:definition>Alpha-3 country code for Eswatini</skos:definition>
       <rdfs:label>SWZ</rdfs:label>
       <lcc-lr:hasTag rdf:datatype="&xsd;string">SWZ</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-1;Swaziland"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-1;Swaziland"/>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-1;Eswatini"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-1;Eswatini"/>
       <lcc-lr:isMemberOf rdf:resource="&lcc-3166-1;ISO3166-1-Alpha3-CodeSet"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-1;"/>
    </owl:NamedIndividual>
@@ -10245,7 +10246,7 @@ The language code "001" refers to the administrative language "Montenegrin" that
       <lcc-cr:hasEnglishShortNameInCapitals rdf:datatype="&xsd;string" xml:lang="en">TURKS AND CAICOS ISLANDS</lcc-cr:hasEnglishShortNameInCapitals>
       <lcc-cr:hasFrenchShortNameInCapitals rdf:datatype="&xsd;string" xml:lang="fr">TURKS-ET-CAÏCOS, ÎLES</lcc-cr:hasFrenchShortNameInCapitals>
       <lcc-cr:usesAdministrativeLanguage rdf:resource="&lcc-639-1;English"/>
-      <lcc-cr:hasRemarks>No subdivision reported.</lcc-cr:hasRemarks>
+      <lcc-cr:hasRemarks>No subdivisions relevant for this standard.</lcc-cr:hasRemarks>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-1;Country"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-1;"/>
    </owl:NamedIndividual>
@@ -10333,13 +10334,13 @@ The language code "001" refers to the administrative language "Montenegrin" that
       <skos:definition>individual representing the country of French Southern Territories (the)</skos:definition>
       <lcc-cr:isIndependent rdf:datatype="&xsd;boolean">false</lcc-cr:isIndependent>
       <lcc-cr:hasNumericRegionCode rdf:datatype="&xsd;string">260</lcc-cr:hasNumericRegionCode>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Terres australes françaises (les)</lcc-cr:hasFrenchShortName>
       <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">French Southern Territories (the)</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasFrenchShortNameInCapitals rdf:datatype="&xsd;string" xml:lang="fr">TERRES AUSTRALES FRANÇAISES</lcc-cr:hasFrenchShortNameInCapitals>
+      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Terres australes françaises (les)</lcc-cr:hasFrenchShortName>
       <lcc-cr:hasEnglishShortNameInCapitals rdf:datatype="&xsd;string" xml:lang="en">FRENCH SOUTHERN TERRITORIES</lcc-cr:hasEnglishShortNameInCapitals>
+      <lcc-cr:hasFrenchShortNameInCapitals rdf:datatype="&xsd;string" xml:lang="fr">TERRES AUSTRALES FRANÇAISES</lcc-cr:hasFrenchShortNameInCapitals>
       <lcc-cr:usesAdministrativeLanguage rdf:resource="&lcc-639-1;French"/>
       <lcc-cr:hasRemarks>Comprises: Amsterdam Island, Crozet Archipelago, Kerguelen Islands, Saint Paul Island and French scattered Indian Ocean Islands formed by Bassas da India, Europa Island, Glorioso Islands, Juan de Nova Island and Tromelin Island.</lcc-cr:hasRemarks>
-      <lcc-cr:hasRemarks>No subdivision reported. Included also as subdivision of France (FR-TF).</lcc-cr:hasRemarks>
+      <lcc-cr:hasRemarks>No subdivisions relevant for this standard. Included also as subdivision of France (FR-TF).</lcc-cr:hasRemarks>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-1;Country"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-1;"/>
    </owl:NamedIndividual>
@@ -10379,12 +10380,12 @@ The language code "001" refers to the administrative language "Montenegrin" that
       <skos:definition>individual representing the country of Togo</skos:definition>
       <lcc-cr:isIndependent rdf:datatype="&xsd;boolean">true</lcc-cr:isIndependent>
       <lcc-cr:hasNumericRegionCode rdf:datatype="&xsd;string">768</lcc-cr:hasNumericRegionCode>
-      <lcc-cr:hasFrenchFullName rdf:datatype="&xsd;string" xml:lang="fr">la République togolaise</lcc-cr:hasFrenchFullName>
       <lcc-cr:hasEnglishFullName rdf:datatype="&xsd;string" xml:lang="en">the Togolese Republic</lcc-cr:hasEnglishFullName>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Togo (le)</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchFullName rdf:datatype="&xsd;string" xml:lang="fr">la République togolaise</lcc-cr:hasFrenchFullName>
       <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Togo</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasFrenchShortNameInCapitals rdf:datatype="&xsd;string" xml:lang="fr">TOGO</lcc-cr:hasFrenchShortNameInCapitals>
+      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Togo (le)</lcc-cr:hasFrenchShortName>
       <lcc-cr:hasEnglishShortNameInCapitals rdf:datatype="&xsd;string" xml:lang="en">TOGO</lcc-cr:hasEnglishShortNameInCapitals>
+      <lcc-cr:hasFrenchShortNameInCapitals rdf:datatype="&xsd;string" xml:lang="fr">TOGO</lcc-cr:hasFrenchShortNameInCapitals>
       <lcc-cr:usesAdministrativeLanguage rdf:resource="&lcc-639-1;French"/>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-1;Country"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-1;"/>
@@ -10425,13 +10426,13 @@ The language code "001" refers to the administrative language "Montenegrin" that
       <skos:definition>individual representing the country of Thailand</skos:definition>
       <lcc-cr:isIndependent rdf:datatype="&xsd;boolean">true</lcc-cr:isIndependent>
       <lcc-cr:hasNumericRegionCode rdf:datatype="&xsd;string">764</lcc-cr:hasNumericRegionCode>
-      <lcc-cr:hasFrenchFullName rdf:datatype="&xsd;string" xml:lang="fr">le Royaume de Thaïlande</lcc-cr:hasFrenchFullName>
       <lcc-cr:hasEnglishFullName rdf:datatype="&xsd;string" xml:lang="en">the Kingdom of Thailand</lcc-cr:hasEnglishFullName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="th">Prathet Thai</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Thaïlande (la)</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchFullName rdf:datatype="&xsd;string" xml:lang="fr">le Royaume de Thaïlande</lcc-cr:hasFrenchFullName>
       <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Thailand</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasFrenchShortNameInCapitals rdf:datatype="&xsd;string" xml:lang="fr">THAÏLANDE</lcc-cr:hasFrenchShortNameInCapitals>
+      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Thaïlande (la)</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="th">Prathet Thai</lcc-cr:hasLocalShortName>
       <lcc-cr:hasEnglishShortNameInCapitals rdf:datatype="&xsd;string" xml:lang="en">THAILAND</lcc-cr:hasEnglishShortNameInCapitals>
+      <lcc-cr:hasFrenchShortNameInCapitals rdf:datatype="&xsd;string" xml:lang="fr">THAÏLANDE</lcc-cr:hasFrenchShortNameInCapitals>
       <lcc-cr:usesAdministrativeLanguage rdf:resource="&lcc-639-1;Thai"/>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-1;Country"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-1;"/>
@@ -10472,15 +10473,15 @@ The language code "001" refers to the administrative language "Montenegrin" that
       <skos:definition>individual representing the country of Tajikistan</skos:definition>
       <lcc-cr:isIndependent rdf:datatype="&xsd;boolean">true</lcc-cr:isIndependent>
       <lcc-cr:hasNumericRegionCode rdf:datatype="&xsd;string">762</lcc-cr:hasNumericRegionCode>
-      <lcc-cr:hasFrenchFullName rdf:datatype="&xsd;string" xml:lang="fr">la République du Tadjikistan</lcc-cr:hasFrenchFullName>
       <lcc-cr:hasEnglishFullName rdf:datatype="&xsd;string" xml:lang="en">the Republic of Tajikistan</lcc-cr:hasEnglishFullName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="tg">Tojikiston</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Tadjikistan (le)</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchFullName rdf:datatype="&xsd;string" xml:lang="fr">la République du Tadjikistan</lcc-cr:hasFrenchFullName>
       <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Tajikistan</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasFrenchShortNameInCapitals rdf:datatype="&xsd;string" xml:lang="fr">TADJIKISTAN</lcc-cr:hasFrenchShortNameInCapitals>
+      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Tadjikistan (le)</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="tg">Tojikiston</lcc-cr:hasLocalShortName>
       <lcc-cr:hasEnglishShortNameInCapitals rdf:datatype="&xsd;string" xml:lang="en">TAJIKISTAN</lcc-cr:hasEnglishShortNameInCapitals>
+      <lcc-cr:hasFrenchShortNameInCapitals rdf:datatype="&xsd;string" xml:lang="fr">TADJIKISTAN</lcc-cr:hasFrenchShortNameInCapitals>
       <lcc-cr:usesAdministrativeLanguage rdf:resource="&lcc-639-1;Tajik"/>
-      <lcc-cr:hasRemarks>Remark: The deletion of the region Karategin leaves one part of the country without name and without code in this part of ISO 3166. The ISO 3166/MA will contact the authorities in Tajikistan to find a solution for this blank. This section of the country is designated Districts Under Republic Administration (tgk: Nohiyahoi Tobei Jumhurí) and comprises 13 districts (tgk: nohiya) which are administered directly by the central government at first-order level.</lcc-cr:hasRemarks>
+      <lcc-cr:hasRemarks>Remark: The deletion of the region Karategin left one part of the country without name and without code in this part of ISO 3166. This section of the country is designated districts under republic administration (tgk: nohiyahoi tobei jumhurí) and comprises 13 districts (tgk: nohiya) which are administered directly by the central government at first-order level.</lcc-cr:hasRemarks>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-1;Country"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-1;"/>
    </owl:NamedIndividual>
@@ -10520,14 +10521,14 @@ The language code "001" refers to the administrative language "Montenegrin" that
       <skos:definition>individual representing the country of Tokelau</skos:definition>
       <lcc-cr:isIndependent rdf:datatype="&xsd;boolean">false</lcc-cr:isIndependent>
       <lcc-cr:hasNumericRegionCode rdf:datatype="&xsd;string">772</lcc-cr:hasNumericRegionCode>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Tokelau</lcc-cr:hasEnglishShortName>
       <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Tokelau (les)</lcc-cr:hasFrenchShortName>
       <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string">Tokelau</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasEnglishShortNameInCapitals rdf:datatype="&xsd;string" xml:lang="en">TOKELAU</lcc-cr:hasEnglishShortNameInCapitals>
+      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Tokelau</lcc-cr:hasEnglishShortName>
       <lcc-cr:hasFrenchShortNameInCapitals rdf:datatype="&xsd;string" xml:lang="fr">TOKELAU</lcc-cr:hasFrenchShortNameInCapitals>
-      <lcc-cr:usesAdministrativeLanguage rdf:resource="&lcc-639-1;English"/>
+      <lcc-cr:hasEnglishShortNameInCapitals rdf:datatype="&xsd;string" xml:lang="en">TOKELAU</lcc-cr:hasEnglishShortNameInCapitals>
       <lcc-cr:usesAdministrativeLanguage rdf:resource="&lcc-639-2;Tokelau"/>
-      <lcc-cr:hasRemarks>No subdivision reported.</lcc-cr:hasRemarks>
+      <lcc-cr:usesAdministrativeLanguage rdf:resource="&lcc-639-1;English"/>
+      <lcc-cr:hasRemarks>No subdivisions relevant for this standard.</lcc-cr:hasRemarks>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-1;Country"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-1;"/>
    </owl:NamedIndividual>
@@ -10567,14 +10568,14 @@ The language code "001" refers to the administrative language "Montenegrin" that
       <skos:definition>individual representing the country of Timor-Leste</skos:definition>
       <lcc-cr:isIndependent rdf:datatype="&xsd;boolean">true</lcc-cr:isIndependent>
       <lcc-cr:hasNumericRegionCode rdf:datatype="&xsd;string">626</lcc-cr:hasNumericRegionCode>
-      <lcc-cr:hasFrenchFullName rdf:datatype="&xsd;string" xml:lang="fr">la République démocratique du Timor-Leste</lcc-cr:hasFrenchFullName>
       <lcc-cr:hasEnglishFullName rdf:datatype="&xsd;string" xml:lang="en">the Democratic Republic of Timor-Leste</lcc-cr:hasEnglishFullName>
+      <lcc-cr:hasFrenchFullName rdf:datatype="&xsd;string" xml:lang="fr">la République démocratique du Timor-Leste</lcc-cr:hasFrenchFullName>
+      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Timor-Leste</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Timor-Leste (le)</lcc-cr:hasFrenchShortName>
       <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="pt">Timor-Leste</lcc-cr:hasLocalShortName>
       <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string">Timor Lorosa'e</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Timor-Leste (le)</lcc-cr:hasFrenchShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Timor-Leste</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasFrenchShortNameInCapitals rdf:datatype="&xsd;string" xml:lang="fr">TIMOR-LESTE</lcc-cr:hasFrenchShortNameInCapitals>
       <lcc-cr:hasEnglishShortNameInCapitals rdf:datatype="&xsd;string" xml:lang="en">TIMOR-LESTE</lcc-cr:hasEnglishShortNameInCapitals>
+      <lcc-cr:hasFrenchShortNameInCapitals rdf:datatype="&xsd;string" xml:lang="fr">TIMOR-LESTE</lcc-cr:hasFrenchShortNameInCapitals>
       <lcc-cr:usesAdministrativeLanguage rdf:resource="&lcc-639-1;Portuguese"/>
       <lcc-cr:usesAdministrativeLanguage rdf:resource="&lcc-639-2;Tetum"/>
       <lcc-cr:hasRemarks>Includes the exclave of Oecussi.</lcc-cr:hasRemarks>
@@ -10617,11 +10618,11 @@ The language code "001" refers to the administrative language "Montenegrin" that
       <skos:definition>individual representing the country of Turkmenistan</skos:definition>
       <lcc-cr:isIndependent rdf:datatype="&xsd;boolean">true</lcc-cr:isIndependent>
       <lcc-cr:hasNumericRegionCode rdf:datatype="&xsd;string">795</lcc-cr:hasNumericRegionCode>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="tk">Türkmenistan</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Turkménistan (le)</lcc-cr:hasFrenchShortName>
       <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Turkmenistan</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasFrenchShortNameInCapitals rdf:datatype="&xsd;string" xml:lang="fr">TURKMÉNISTAN</lcc-cr:hasFrenchShortNameInCapitals>
+      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Turkménistan (le)</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="tk">Türkmenistan</lcc-cr:hasLocalShortName>
       <lcc-cr:hasEnglishShortNameInCapitals rdf:datatype="&xsd;string" xml:lang="en">TURKMENISTAN</lcc-cr:hasEnglishShortNameInCapitals>
+      <lcc-cr:hasFrenchShortNameInCapitals rdf:datatype="&xsd;string" xml:lang="fr">TURKMÉNISTAN</lcc-cr:hasFrenchShortNameInCapitals>
       <lcc-cr:usesAdministrativeLanguage rdf:resource="&lcc-639-1;Turkmen"/>
       <lcc-cr:hasRemarks>Remark: By presidential decree No. 1146, 1993-01-21, the Roman alphabet is officially used for the Turkmen language.</lcc-cr:hasRemarks>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-1;Country"/>
@@ -10663,13 +10664,13 @@ The language code "001" refers to the administrative language "Montenegrin" that
       <skos:definition>individual representing the country of Tunisia</skos:definition>
       <lcc-cr:isIndependent rdf:datatype="&xsd;boolean">true</lcc-cr:isIndependent>
       <lcc-cr:hasNumericRegionCode rdf:datatype="&xsd;string">788</lcc-cr:hasNumericRegionCode>
-      <lcc-cr:hasFrenchFullName rdf:datatype="&xsd;string" xml:lang="fr">la République tunisienne</lcc-cr:hasFrenchFullName>
       <lcc-cr:hasEnglishFullName rdf:datatype="&xsd;string" xml:lang="en">the Republic of Tunisia</lcc-cr:hasEnglishFullName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Tūnis</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Tunisie (la)</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchFullName rdf:datatype="&xsd;string" xml:lang="fr">la République tunisienne</lcc-cr:hasFrenchFullName>
       <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Tunisia</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasFrenchShortNameInCapitals rdf:datatype="&xsd;string" xml:lang="fr">TUNISIE</lcc-cr:hasFrenchShortNameInCapitals>
+      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Tunisie (la)</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Tūnis</lcc-cr:hasLocalShortName>
       <lcc-cr:hasEnglishShortNameInCapitals rdf:datatype="&xsd;string" xml:lang="en">TUNISIA</lcc-cr:hasEnglishShortNameInCapitals>
+      <lcc-cr:hasFrenchShortNameInCapitals rdf:datatype="&xsd;string" xml:lang="fr">TUNISIE</lcc-cr:hasFrenchShortNameInCapitals>
       <lcc-cr:usesAdministrativeLanguage rdf:resource="&lcc-639-1;Arabic"/>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-1;Country"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-1;"/>
@@ -10710,13 +10711,13 @@ The language code "001" refers to the administrative language "Montenegrin" that
       <skos:definition>individual representing the country of Tonga</skos:definition>
       <lcc-cr:isIndependent rdf:datatype="&xsd;boolean">true</lcc-cr:isIndependent>
       <lcc-cr:hasNumericRegionCode rdf:datatype="&xsd;string">776</lcc-cr:hasNumericRegionCode>
-      <lcc-cr:hasEnglishFullName rdf:datatype="&xsd;string" xml:lang="en">the Kingdom of Tonga</lcc-cr:hasEnglishFullName>
       <lcc-cr:hasFrenchFullName rdf:datatype="&xsd;string" xml:lang="fr">le Royaume des Tonga</lcc-cr:hasFrenchFullName>
+      <lcc-cr:hasEnglishFullName rdf:datatype="&xsd;string" xml:lang="en">the Kingdom of Tonga</lcc-cr:hasEnglishFullName>
+      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Tonga (les)</lcc-cr:hasFrenchShortName>
       <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Tonga</lcc-cr:hasEnglishShortName>
       <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="to">Tonga</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Tonga (les)</lcc-cr:hasFrenchShortName>
-      <lcc-cr:hasEnglishShortNameInCapitals rdf:datatype="&xsd;string" xml:lang="en">TONGA</lcc-cr:hasEnglishShortNameInCapitals>
       <lcc-cr:hasFrenchShortNameInCapitals rdf:datatype="&xsd;string" xml:lang="fr">TONGA</lcc-cr:hasFrenchShortNameInCapitals>
+      <lcc-cr:hasEnglishShortNameInCapitals rdf:datatype="&xsd;string" xml:lang="en">TONGA</lcc-cr:hasEnglishShortNameInCapitals>
       <lcc-cr:usesAdministrativeLanguage rdf:resource="&lcc-639-1;English"/>
       <lcc-cr:usesAdministrativeLanguage rdf:resource="&lcc-639-1;Tonga-TongaIslands"/>
       <lcc-cr:hasRemarks>Principal island: Tongatapu.</lcc-cr:hasRemarks>
@@ -10759,13 +10760,13 @@ The language code "001" refers to the administrative language "Montenegrin" that
       <skos:definition>individual representing the country of Turkey</skos:definition>
       <lcc-cr:isIndependent rdf:datatype="&xsd;boolean">true</lcc-cr:isIndependent>
       <lcc-cr:hasNumericRegionCode rdf:datatype="&xsd;string">792</lcc-cr:hasNumericRegionCode>
-      <lcc-cr:hasFrenchFullName rdf:datatype="&xsd;string" xml:lang="fr">la République turque</lcc-cr:hasFrenchFullName>
       <lcc-cr:hasEnglishFullName rdf:datatype="&xsd;string" xml:lang="en">the Republic of Turkey</lcc-cr:hasEnglishFullName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="tr">Türkiye</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Turquie (la)</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchFullName rdf:datatype="&xsd;string" xml:lang="fr">la République turque</lcc-cr:hasFrenchFullName>
       <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Turkey</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasFrenchShortNameInCapitals rdf:datatype="&xsd;string" xml:lang="fr">TURQUIE</lcc-cr:hasFrenchShortNameInCapitals>
+      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Turquie (la)</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="tr">Türkiye</lcc-cr:hasLocalShortName>
       <lcc-cr:hasEnglishShortNameInCapitals rdf:datatype="&xsd;string" xml:lang="en">TURKEY</lcc-cr:hasEnglishShortNameInCapitals>
+      <lcc-cr:hasFrenchShortNameInCapitals rdf:datatype="&xsd;string" xml:lang="fr">TURQUIE</lcc-cr:hasFrenchShortNameInCapitals>
       <lcc-cr:usesAdministrativeLanguage rdf:resource="&lcc-639-1;Turkish"/>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-1;Country"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-1;"/>
@@ -10806,12 +10807,12 @@ The language code "001" refers to the administrative language "Montenegrin" that
       <skos:definition>individual representing the country of Trinidad and Tobago</skos:definition>
       <lcc-cr:isIndependent rdf:datatype="&xsd;boolean">true</lcc-cr:isIndependent>
       <lcc-cr:hasNumericRegionCode rdf:datatype="&xsd;string">780</lcc-cr:hasNumericRegionCode>
-      <lcc-cr:hasEnglishFullName rdf:datatype="&xsd;string" xml:lang="en">the Republic of Trinidad and Tobago</lcc-cr:hasEnglishFullName>
       <lcc-cr:hasFrenchFullName rdf:datatype="&xsd;string" xml:lang="fr">la République de Trinité-et-Tobago</lcc-cr:hasFrenchFullName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Trinidad and Tobago</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishFullName rdf:datatype="&xsd;string" xml:lang="en">the Republic of Trinidad and Tobago</lcc-cr:hasEnglishFullName>
       <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Trinité-et-Tobago (la)</lcc-cr:hasFrenchShortName>
-      <lcc-cr:hasEnglishShortNameInCapitals rdf:datatype="&xsd;string" xml:lang="en">TRINIDAD AND TOBAGO</lcc-cr:hasEnglishShortNameInCapitals>
+      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Trinidad and Tobago</lcc-cr:hasEnglishShortName>
       <lcc-cr:hasFrenchShortNameInCapitals rdf:datatype="&xsd;string" xml:lang="fr">TRINITÉ-ET-TOBAGO</lcc-cr:hasFrenchShortNameInCapitals>
+      <lcc-cr:hasEnglishShortNameInCapitals rdf:datatype="&xsd;string" xml:lang="en">TRINIDAD AND TOBAGO</lcc-cr:hasEnglishShortNameInCapitals>
       <lcc-cr:usesAdministrativeLanguage rdf:resource="&lcc-639-1;English"/>
       <lcc-cr:hasRemarks>Tobago * is the second significant part of composite country name.</lcc-cr:hasRemarks>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-1;Country"/>
@@ -10900,11 +10901,11 @@ The language code "001" refers to the administrative language "Montenegrin" that
       <skos:definition>individual representing the country of Taiwan (Province of China)</skos:definition>
       <lcc-cr:isIndependent rdf:datatype="&xsd;boolean">false</lcc-cr:isIndependent>
       <lcc-cr:hasNumericRegionCode rdf:datatype="&xsd;string">158</lcc-cr:hasNumericRegionCode>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="zh">Taiwan</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Taïwan (Province de Chine)</lcc-cr:hasFrenchShortName>
       <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Taiwan (Province of China)</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasFrenchShortNameInCapitals rdf:datatype="&xsd;string" xml:lang="fr">TAÏWAN, PROVINCE DE CHINE</lcc-cr:hasFrenchShortNameInCapitals>
+      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Taïwan (Province de Chine)</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="zh">Taiwan</lcc-cr:hasLocalShortName>
       <lcc-cr:hasEnglishShortNameInCapitals rdf:datatype="&xsd;string" xml:lang="en">TAIWAN, PROVINCE OF CHINA</lcc-cr:hasEnglishShortNameInCapitals>
+      <lcc-cr:hasFrenchShortNameInCapitals rdf:datatype="&xsd;string" xml:lang="fr">TAÏWAN, PROVINCE DE CHINE</lcc-cr:hasFrenchShortNameInCapitals>
       <lcc-cr:usesAdministrativeLanguage rdf:resource="&lcc-639-1;Chinese"/>
       <lcc-cr:hasRemarks>Includes: Penghu (Pescadores) Islands.</lcc-cr:hasRemarks>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-1;Country"/>
@@ -10946,13 +10947,13 @@ The language code "001" refers to the administrative language "Montenegrin" that
       <skos:definition>individual representing the country of Tanzania, United Republic of</skos:definition>
       <lcc-cr:isIndependent rdf:datatype="&xsd;boolean">true</lcc-cr:isIndependent>
       <lcc-cr:hasNumericRegionCode rdf:datatype="&xsd;string">834</lcc-cr:hasNumericRegionCode>
-      <lcc-cr:hasEnglishFullName rdf:datatype="&xsd;string" xml:lang="en">the United Republic of Tanzania</lcc-cr:hasEnglishFullName>
       <lcc-cr:hasFrenchFullName rdf:datatype="&xsd;string" xml:lang="fr">la République-Unie de Tanzanie</lcc-cr:hasFrenchFullName>
+      <lcc-cr:hasEnglishFullName rdf:datatype="&xsd;string" xml:lang="en">the United Republic of Tanzania</lcc-cr:hasEnglishFullName>
+      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Tanzanie, République-Unie de</lcc-cr:hasFrenchShortName>
       <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Tanzania, United Republic of</lcc-cr:hasEnglishShortName>
       <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sw">Jamhuri ya Muungano wa Tanzania</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Tanzanie, République-Unie de</lcc-cr:hasFrenchShortName>
-      <lcc-cr:hasEnglishShortNameInCapitals rdf:datatype="&xsd;string" xml:lang="en">TANZANIA, UNITED REPUBLIC OF</lcc-cr:hasEnglishShortNameInCapitals>
       <lcc-cr:hasFrenchShortNameInCapitals rdf:datatype="&xsd;string" xml:lang="fr">TANZANIE, RÉPUBLIQUE-UNIE DE</lcc-cr:hasFrenchShortNameInCapitals>
+      <lcc-cr:hasEnglishShortNameInCapitals rdf:datatype="&xsd;string" xml:lang="en">TANZANIA, UNITED REPUBLIC OF</lcc-cr:hasEnglishShortNameInCapitals>
       <lcc-cr:usesAdministrativeLanguage rdf:resource="&lcc-639-1;English"/>
       <lcc-cr:usesAdministrativeLanguage rdf:resource="&lcc-639-1;Swahili"/>
       <lcc-cr:hasRemarks>Often referred to as Tanzania.</lcc-cr:hasRemarks>
@@ -10996,10 +10997,10 @@ The language code "001" refers to the administrative language "Montenegrin" that
       <lcc-cr:isIndependent rdf:datatype="&xsd;boolean">true</lcc-cr:isIndependent>
       <lcc-cr:hasNumericRegionCode rdf:datatype="&xsd;string">804</lcc-cr:hasNumericRegionCode>
       <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="uk">Ukraina</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Ukraine (l')</lcc-cr:hasFrenchShortName>
       <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Ukraine</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasFrenchShortNameInCapitals rdf:datatype="&xsd;string" xml:lang="fr">UKRAINE</lcc-cr:hasFrenchShortNameInCapitals>
+      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Ukraine (l')</lcc-cr:hasFrenchShortName>
       <lcc-cr:hasEnglishShortNameInCapitals rdf:datatype="&xsd;string" xml:lang="en">UKRAINE</lcc-cr:hasEnglishShortNameInCapitals>
+      <lcc-cr:hasFrenchShortNameInCapitals rdf:datatype="&xsd;string" xml:lang="fr">UKRAINE</lcc-cr:hasFrenchShortNameInCapitals>
       <lcc-cr:usesAdministrativeLanguage rdf:resource="&lcc-639-1;Ukrainian"/>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-1;Country"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-1;"/>
@@ -11178,13 +11179,13 @@ The language code "001" refers to the administrative language "Montenegrin" that
       <skos:definition>individual representing the country of Uruguay</skos:definition>
       <lcc-cr:isIndependent rdf:datatype="&xsd;boolean">true</lcc-cr:isIndependent>
       <lcc-cr:hasNumericRegionCode rdf:datatype="&xsd;string">858</lcc-cr:hasNumericRegionCode>
-      <lcc-cr:hasFrenchFullName rdf:datatype="&xsd;string" xml:lang="fr">la République orientale de l'Uruguay</lcc-cr:hasFrenchFullName>
       <lcc-cr:hasEnglishFullName rdf:datatype="&xsd;string" xml:lang="en">the Eastern Republic of Uruguay</lcc-cr:hasEnglishFullName>
+      <lcc-cr:hasFrenchFullName rdf:datatype="&xsd;string" xml:lang="fr">la République orientale de l'Uruguay</lcc-cr:hasFrenchFullName>
       <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Uruguay (el)</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Uruguay (l')</lcc-cr:hasFrenchShortName>
       <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Uruguay</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasFrenchShortNameInCapitals rdf:datatype="&xsd;string" xml:lang="fr">URUGUAY</lcc-cr:hasFrenchShortNameInCapitals>
+      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Uruguay (l')</lcc-cr:hasFrenchShortName>
       <lcc-cr:hasEnglishShortNameInCapitals rdf:datatype="&xsd;string" xml:lang="en">URUGUAY</lcc-cr:hasEnglishShortNameInCapitals>
+      <lcc-cr:hasFrenchShortNameInCapitals rdf:datatype="&xsd;string" xml:lang="fr">URUGUAY</lcc-cr:hasFrenchShortNameInCapitals>
       <lcc-cr:usesAdministrativeLanguage rdf:resource="&lcc-639-1;Spanish"/>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-1;Country"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-1;"/>
@@ -11225,13 +11226,13 @@ The language code "001" refers to the administrative language "Montenegrin" that
       <skos:definition>individual representing the country of Uzbekistan</skos:definition>
       <lcc-cr:isIndependent rdf:datatype="&xsd;boolean">true</lcc-cr:isIndependent>
       <lcc-cr:hasNumericRegionCode rdf:datatype="&xsd;string">860</lcc-cr:hasNumericRegionCode>
-      <lcc-cr:hasFrenchFullName rdf:datatype="&xsd;string" xml:lang="fr">la République d'Ouzbékistan</lcc-cr:hasFrenchFullName>
       <lcc-cr:hasEnglishFullName rdf:datatype="&xsd;string" xml:lang="en">the Republic of Uzbekistan</lcc-cr:hasEnglishFullName>
+      <lcc-cr:hasFrenchFullName rdf:datatype="&xsd;string" xml:lang="fr">la République d'Ouzbékistan</lcc-cr:hasFrenchFullName>
       <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="uz">O‘zbekiston</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Ouzbékistan (l')</lcc-cr:hasFrenchShortName>
       <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Uzbekistan</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasFrenchShortNameInCapitals rdf:datatype="&xsd;string" xml:lang="fr">OUZBÉKISTAN</lcc-cr:hasFrenchShortNameInCapitals>
+      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Ouzbékistan (l')</lcc-cr:hasFrenchShortName>
       <lcc-cr:hasEnglishShortNameInCapitals rdf:datatype="&xsd;string" xml:lang="en">UZBEKISTAN</lcc-cr:hasEnglishShortNameInCapitals>
+      <lcc-cr:hasFrenchShortNameInCapitals rdf:datatype="&xsd;string" xml:lang="fr">OUZBÉKISTAN</lcc-cr:hasFrenchShortNameInCapitals>
       <lcc-cr:usesAdministrativeLanguage rdf:resource="&lcc-639-1;Uzbek"/>
       <lcc-cr:hasRemarks>In May 1995 a new Roman alphabet was officially decreed for the Uzbek language</lcc-cr:hasRemarks>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-1;Country"/>
@@ -11273,16 +11274,16 @@ The language code "001" refers to the administrative language "Montenegrin" that
       <skos:definition>individual representing the country of Holy See (the)</skos:definition>
       <lcc-cr:isIndependent rdf:datatype="&xsd;boolean">true</lcc-cr:isIndependent>
       <lcc-cr:hasNumericRegionCode rdf:datatype="&xsd;string">336</lcc-cr:hasNumericRegionCode>
+      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Holy See (the)</lcc-cr:hasEnglishShortName>
       <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="it">Santa Sede (la)</lcc-cr:hasLocalShortName>
       <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="la">Sancta Sedes</lcc-cr:hasLocalShortName>
       <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Saint-Siège (le)</lcc-cr:hasFrenchShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Holy See (the)</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasFrenchShortNameInCapitals rdf:datatype="&xsd;string" xml:lang="fr">SAINT-SIÈGE</lcc-cr:hasFrenchShortNameInCapitals>
       <lcc-cr:hasEnglishShortNameInCapitals rdf:datatype="&xsd;string" xml:lang="en">HOLY SEE</lcc-cr:hasEnglishShortNameInCapitals>
+      <lcc-cr:hasFrenchShortNameInCapitals rdf:datatype="&xsd;string" xml:lang="fr">SAINT-SIÈGE</lcc-cr:hasFrenchShortNameInCapitals>
       <lcc-cr:usesAdministrativeLanguage rdf:resource="&lcc-639-1;Italian"/>
       <lcc-cr:usesAdministrativeLanguage rdf:resource="&lcc-639-1;Latin"/>
       <lcc-cr:hasRemarks>Previous entry: VATICAN CITY STATE (HOLY SEE).</lcc-cr:hasRemarks>
-      <lcc-cr:hasRemarks>No subdivision reported.</lcc-cr:hasRemarks>
+      <lcc-cr:hasRemarks>No subdivisions relevant for this standard.</lcc-cr:hasRemarks>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-1;Country"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-1;"/>
    </owl:NamedIndividual>
@@ -11367,13 +11368,13 @@ The language code "001" refers to the administrative language "Montenegrin" that
       <skos:definition>individual representing the country of Venezuela (Bolivarian Republic of)</skos:definition>
       <lcc-cr:isIndependent rdf:datatype="&xsd;boolean">true</lcc-cr:isIndependent>
       <lcc-cr:hasNumericRegionCode rdf:datatype="&xsd;string">862</lcc-cr:hasNumericRegionCode>
-      <lcc-cr:hasFrenchFullName rdf:datatype="&xsd;string" xml:lang="fr">la République bolivarienne du Venezuela</lcc-cr:hasFrenchFullName>
       <lcc-cr:hasEnglishFullName rdf:datatype="&xsd;string" xml:lang="en">the Bolivarian Republic of Venezuela</lcc-cr:hasEnglishFullName>
+      <lcc-cr:hasFrenchFullName rdf:datatype="&xsd;string" xml:lang="fr">la République bolivarienne du Venezuela</lcc-cr:hasFrenchFullName>
       <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Venezuela, República Bolivariana de</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Venezuela (République bolivarienne du)</lcc-cr:hasFrenchShortName>
       <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Venezuela (Bolivarian Republic of)</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasFrenchShortNameInCapitals rdf:datatype="&xsd;string" xml:lang="fr">VENEZUELA (RÉPUBLIQUE BOLIVARIENNE DU)</lcc-cr:hasFrenchShortNameInCapitals>
+      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Venezuela (République bolivarienne du)</lcc-cr:hasFrenchShortName>
       <lcc-cr:hasEnglishShortNameInCapitals rdf:datatype="&xsd;string" xml:lang="en">VENEZUELA (BOLIVARIAN REPUBLIC OF)</lcc-cr:hasEnglishShortNameInCapitals>
+      <lcc-cr:hasFrenchShortNameInCapitals rdf:datatype="&xsd;string" xml:lang="fr">VENEZUELA (RÉPUBLIQUE BOLIVARIENNE DU)</lcc-cr:hasFrenchShortNameInCapitals>
       <lcc-cr:usesAdministrativeLanguage rdf:resource="&lcc-639-1;Spanish"/>
       <lcc-cr:hasRemarks>Includes: Bird Island.</lcc-cr:hasRemarks>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-1;Country"/>
@@ -11422,7 +11423,7 @@ The language code "001" refers to the administrative language "Montenegrin" that
       <lcc-cr:hasFrenchShortNameInCapitals rdf:datatype="&xsd;string" xml:lang="fr">ÎLES VIERGES BRITANNIQUES</lcc-cr:hasFrenchShortNameInCapitals>
       <lcc-cr:usesAdministrativeLanguage rdf:resource="&lcc-639-1;English"/>
       <lcc-cr:hasRemarks>Principal islands: Anegada, Jost Van Dyke, Tortola, Virgin Gorda.</lcc-cr:hasRemarks>
-      <lcc-cr:hasRemarks>No subdivision reported.</lcc-cr:hasRemarks>
+      <lcc-cr:hasRemarks>No subdivisions relevant for this standard.</lcc-cr:hasRemarks>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-1;Country"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-1;"/>
    </owl:NamedIndividual>
@@ -11469,7 +11470,7 @@ The language code "001" refers to the administrative language "Montenegrin" that
       <lcc-cr:hasFrenchShortNameInCapitals rdf:datatype="&xsd;string" xml:lang="fr">ÎLES VIERGES DES ÉTATS-UNIS</lcc-cr:hasFrenchShortNameInCapitals>
       <lcc-cr:usesAdministrativeLanguage rdf:resource="&lcc-639-1;English"/>
       <lcc-cr:hasRemarks>Principal islands: Saint Croix, Saint John, Saint Thomas.</lcc-cr:hasRemarks>
-      <lcc-cr:hasRemarks>No subdivision reported. Included also as a subdivision of the United States (US-VI).</lcc-cr:hasRemarks>
+      <lcc-cr:hasRemarks>No subdivisions relevant for this standard. Included also as a subdivision of the United States (US-VI).</lcc-cr:hasRemarks>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-1;Country"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-1;"/>
    </owl:NamedIndividual>
@@ -11509,13 +11510,13 @@ The language code "001" refers to the administrative language "Montenegrin" that
       <skos:definition>individual representing the country of Viet Nam</skos:definition>
       <lcc-cr:isIndependent rdf:datatype="&xsd;boolean">true</lcc-cr:isIndependent>
       <lcc-cr:hasNumericRegionCode rdf:datatype="&xsd;string">704</lcc-cr:hasNumericRegionCode>
-      <lcc-cr:hasFrenchFullName rdf:datatype="&xsd;string" xml:lang="fr">la République socialiste du Viet Nam</lcc-cr:hasFrenchFullName>
       <lcc-cr:hasEnglishFullName rdf:datatype="&xsd;string" xml:lang="en">the Socialist Republic of Viet Nam</lcc-cr:hasEnglishFullName>
+      <lcc-cr:hasFrenchFullName rdf:datatype="&xsd;string" xml:lang="fr">la République socialiste du Viet Nam</lcc-cr:hasFrenchFullName>
       <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="vi">Việt Nam</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Viet Nam (le)</lcc-cr:hasFrenchShortName>
       <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Viet Nam</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasFrenchShortNameInCapitals rdf:datatype="&xsd;string" xml:lang="fr">VIET NAM</lcc-cr:hasFrenchShortNameInCapitals>
+      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Viet Nam (le)</lcc-cr:hasFrenchShortName>
       <lcc-cr:hasEnglishShortNameInCapitals rdf:datatype="&xsd;string" xml:lang="en">VIET NAM</lcc-cr:hasEnglishShortNameInCapitals>
+      <lcc-cr:hasFrenchShortNameInCapitals rdf:datatype="&xsd;string" xml:lang="fr">VIET NAM</lcc-cr:hasFrenchShortNameInCapitals>
       <lcc-cr:usesAdministrativeLanguage rdf:resource="&lcc-639-1;Vietnamese"/>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-1;Country"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-1;"/>
@@ -11614,7 +11615,7 @@ The language code "001" refers to the administrative language "Montenegrin" that
       <lcc-cr:hasEnglishShortNameInCapitals rdf:datatype="&xsd;string" xml:lang="en">WALLIS AND FUTUNA</lcc-cr:hasEnglishShortNameInCapitals>
       <lcc-cr:usesAdministrativeLanguage rdf:resource="&lcc-639-1;French"/>
       <lcc-cr:hasRemarks>Comprises: Hoorn Islands (Principal island: Futuna), Wallis Islands (Principal island: Uvea).</lcc-cr:hasRemarks>
-      <lcc-cr:hasRemarks>No subdivision reported. Included also as a subdivision of France (FR-WF).</lcc-cr:hasRemarks>
+      <lcc-cr:hasRemarks>Included also as a subdivision of France (FR-WF).</lcc-cr:hasRemarks>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-1;Country"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-1;"/>
    </owl:NamedIndividual>
@@ -11654,13 +11655,13 @@ The language code "001" refers to the administrative language "Montenegrin" that
       <skos:definition>individual representing the country of Samoa</skos:definition>
       <lcc-cr:isIndependent rdf:datatype="&xsd;boolean">true</lcc-cr:isIndependent>
       <lcc-cr:hasNumericRegionCode rdf:datatype="&xsd;string">882</lcc-cr:hasNumericRegionCode>
-      <lcc-cr:hasEnglishFullName rdf:datatype="&xsd;string" xml:lang="en">the Independent State of Samoa</lcc-cr:hasEnglishFullName>
       <lcc-cr:hasFrenchFullName rdf:datatype="&xsd;string" xml:lang="fr">l'État indépendant du Samoa</lcc-cr:hasFrenchFullName>
+      <lcc-cr:hasEnglishFullName rdf:datatype="&xsd;string" xml:lang="en">the Independent State of Samoa</lcc-cr:hasEnglishFullName>
+      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Samoa (le)</lcc-cr:hasFrenchShortName>
       <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Samoa</lcc-cr:hasEnglishShortName>
       <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sm">Samoa</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Samoa (le)</lcc-cr:hasFrenchShortName>
-      <lcc-cr:hasEnglishShortNameInCapitals rdf:datatype="&xsd;string" xml:lang="en">SAMOA</lcc-cr:hasEnglishShortNameInCapitals>
       <lcc-cr:hasFrenchShortNameInCapitals rdf:datatype="&xsd;string" xml:lang="fr">SAMOA</lcc-cr:hasFrenchShortNameInCapitals>
+      <lcc-cr:hasEnglishShortNameInCapitals rdf:datatype="&xsd;string" xml:lang="en">SAMOA</lcc-cr:hasEnglishShortNameInCapitals>
       <lcc-cr:usesAdministrativeLanguage rdf:resource="&lcc-639-1;English"/>
       <lcc-cr:usesAdministrativeLanguage rdf:resource="&lcc-639-1;Samoan"/>
       <lcc-cr:hasRemarks>Principal islands: Savai'i, Upolu.</lcc-cr:hasRemarks>
@@ -11703,13 +11704,13 @@ The language code "001" refers to the administrative language "Montenegrin" that
       <skos:definition>individual representing the country of Yemen</skos:definition>
       <lcc-cr:isIndependent rdf:datatype="&xsd;boolean">true</lcc-cr:isIndependent>
       <lcc-cr:hasNumericRegionCode rdf:datatype="&xsd;string">887</lcc-cr:hasNumericRegionCode>
-      <lcc-cr:hasFrenchFullName rdf:datatype="&xsd;string" xml:lang="fr">la République du Yémen</lcc-cr:hasFrenchFullName>
       <lcc-cr:hasEnglishFullName rdf:datatype="&xsd;string" xml:lang="en">the  Republic of Yemen</lcc-cr:hasEnglishFullName>
+      <lcc-cr:hasFrenchFullName rdf:datatype="&xsd;string" xml:lang="fr">la République du Yémen</lcc-cr:hasFrenchFullName>
       <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Al Yaman</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Yémen (le)</lcc-cr:hasFrenchShortName>
       <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Yemen</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasFrenchShortNameInCapitals rdf:datatype="&xsd;string" xml:lang="fr">YÉMEN</lcc-cr:hasFrenchShortNameInCapitals>
+      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Yémen (le)</lcc-cr:hasFrenchShortName>
       <lcc-cr:hasEnglishShortNameInCapitals rdf:datatype="&xsd;string" xml:lang="en">YEMEN</lcc-cr:hasEnglishShortNameInCapitals>
+      <lcc-cr:hasFrenchShortNameInCapitals rdf:datatype="&xsd;string" xml:lang="fr">YÉMEN</lcc-cr:hasFrenchShortNameInCapitals>
       <lcc-cr:usesAdministrativeLanguage rdf:resource="&lcc-639-1;Arabic"/>
       <lcc-cr:hasRemarks>Includes: Socotra Island.</lcc-cr:hasRemarks>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-1;Country"/>
@@ -11751,12 +11752,12 @@ The language code "001" refers to the administrative language "Montenegrin" that
       <skos:definition>individual representing the country of Mayotte</skos:definition>
       <lcc-cr:isIndependent rdf:datatype="&xsd;boolean">false</lcc-cr:isIndependent>
       <lcc-cr:hasNumericRegionCode rdf:datatype="&xsd;string">175</lcc-cr:hasNumericRegionCode>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Mayotte</lcc-cr:hasFrenchShortName>
       <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Mayotte</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasFrenchShortNameInCapitals rdf:datatype="&xsd;string" xml:lang="fr">MAYOTTE</lcc-cr:hasFrenchShortNameInCapitals>
+      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Mayotte</lcc-cr:hasFrenchShortName>
       <lcc-cr:hasEnglishShortNameInCapitals rdf:datatype="&xsd;string" xml:lang="en">MAYOTTE</lcc-cr:hasEnglishShortNameInCapitals>
+      <lcc-cr:hasFrenchShortNameInCapitals rdf:datatype="&xsd;string" xml:lang="fr">MAYOTTE</lcc-cr:hasFrenchShortNameInCapitals>
       <lcc-cr:usesAdministrativeLanguage rdf:resource="&lcc-639-1;French"/>
-      <lcc-cr:hasRemarks>No subdivision reported. Included also as a subdivision of France (FR-YT).</lcc-cr:hasRemarks>
+      <lcc-cr:hasRemarks>No subdivisions relevant for this standard. Included also as a subdivision of France (FR-YT).</lcc-cr:hasRemarks>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-1;Country"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-1;"/>
    </owl:NamedIndividual>
@@ -11796,8 +11797,9 @@ The language code "001" refers to the administrative language "Montenegrin" that
       <skos:definition>individual representing the country of South Africa</skos:definition>
       <lcc-cr:isIndependent rdf:datatype="&xsd;boolean">true</lcc-cr:isIndependent>
       <lcc-cr:hasNumericRegionCode rdf:datatype="&xsd;string">710</lcc-cr:hasNumericRegionCode>
-      <lcc-cr:hasEnglishFullName rdf:datatype="&xsd;string" xml:lang="en">the Republic of South Africa</lcc-cr:hasEnglishFullName>
       <lcc-cr:hasFrenchFullName rdf:datatype="&xsd;string" xml:lang="fr">la République sud-africaine</lcc-cr:hasFrenchFullName>
+      <lcc-cr:hasEnglishFullName rdf:datatype="&xsd;string" xml:lang="en">the Republic of South Africa</lcc-cr:hasEnglishFullName>
+      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Afrique du Sud (l')</lcc-cr:hasFrenchShortName>
       <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="af">Suid-Afrika</lcc-cr:hasLocalShortName>
       <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">South Africa</lcc-cr:hasEnglishShortName>
       <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="nr">Sewula Afrika</lcc-cr:hasLocalShortName>
@@ -11809,9 +11811,8 @@ The language code "001" refers to the administrative language "Montenegrin" that
       <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ve">Afrika Tshipembe</lcc-cr:hasLocalShortName>
       <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="xh">Mzantsi Afrika</lcc-cr:hasLocalShortName>
       <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="zu">Ningizimu Afrika</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Afrique du Sud (l')</lcc-cr:hasFrenchShortName>
-      <lcc-cr:hasEnglishShortNameInCapitals rdf:datatype="&xsd;string" xml:lang="en">SOUTH AFRICA</lcc-cr:hasEnglishShortNameInCapitals>
       <lcc-cr:hasFrenchShortNameInCapitals rdf:datatype="&xsd;string" xml:lang="fr">AFRIQUE DU SUD</lcc-cr:hasFrenchShortNameInCapitals>
+      <lcc-cr:hasEnglishShortNameInCapitals rdf:datatype="&xsd;string" xml:lang="en">SOUTH AFRICA</lcc-cr:hasEnglishShortNameInCapitals>
       <lcc-cr:usesAdministrativeLanguage rdf:resource="&lcc-639-1;Afrikaans"/>
       <lcc-cr:usesAdministrativeLanguage rdf:resource="&lcc-639-1;English"/>
       <lcc-cr:usesAdministrativeLanguage rdf:resource="&lcc-639-1;SouthNdebele"/>

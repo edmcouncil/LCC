@@ -36,9 +36,9 @@
 
       <!-- Curation and Rights Metadata for the LCC ISO 3166-2 Subdivision Codes for Maldives Ontology -->
 
-      <sm:copyright rdf:datatype="&xsd;string">Copyright (c) 2015-2017 Object Management Group, Inc.
-          Copyright (c) 2015-2017 Adaptive Inc.
-          Copyright (c) 2015-2017 Thematix Partners LLC
+      <sm:copyright rdf:datatype="&xsd;string">Copyright (c) 2015-2019 Object Management Group, Inc.
+          Copyright (c) 2015-2019 Adaptive Inc.
+          Copyright (c) 2015-2019 Thematix Partners LLC
           Copyright (c) 2015-2017 Unisys
         </sm:copyright>
       <dct:license rdf:resource="&sm;MITLicense"/>
@@ -47,9 +47,9 @@
 
       <sm:filename rdf:datatype="&xsd;string">ISO3166-2-SubdivisionCodes-MV.rdf</sm:filename>
       <sm:fileAbbreviation rdf:datatype="&xsd;string">lcc-3166-2-mv</sm:fileAbbreviation>
-      <owl:versionIRI rdf:resource="http://www.omg.org/spec/LCC/20170801/Countries/Regions/ISO3166-2-SubdivisionCodes-MV/"/>
+      <owl:versionIRI rdf:resource="http://www.omg.org/spec/LCC/20190301/Countries/Regions/ISO3166-2-SubdivisionCodes-MV/"/>
       <sm:fileAbstract rdf:datatype="&xsd;string">This ontology represents the subset of the ISO 3166 standard that includes the actual ISO 3166-2 subdivision codes for Maldives, with the ontology and codes for the other parts of the standard represented in models that this ontology depends on.</sm:fileAbstract>
-      <dct:issued rdf:datatype="&xsd;dateTime">2017-07-20T22:26:02.631805+02:00</dct:issued>
+      <dct:issued rdf:datatype="&xsd;dateTime">2019-02-14T00:48:51.124818+01:00</dct:issued>
 
       <sm:dependsOn rdf:datatype="&xsd;anyURI">http://www.omg.org/spec/LCC/Languages/LanguageRepresentation/</sm:dependsOn>
       <sm:dependsOn rdf:datatype="&xsd;anyURI">http://www.omg.org/spec/LCC/Countries/CountryRepresentation/</sm:dependsOn>
@@ -76,13 +76,6 @@
     //
     ///////////////////////////////////////////////////////////////////////////////////////
     -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-mv;Province">
-      <rdf:type rdf:resource="&lcc-cr;GeographicRegionKind"/>
-      <rdfs:label>province</rdfs:label>
-      <skos:definition>subdivision category province in the country of Maldives</skos:definition>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mv;"/>
-   </owl:NamedIndividual>
-
    <owl:NamedIndividual rdf:about="&lcc-3166-2-mv;AdministrativeAtoll">
       <rdf:type rdf:resource="&lcc-cr;GeographicRegionKind"/>
       <rdfs:label>administrative atoll</rdfs:label>
@@ -90,10 +83,10 @@
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mv;"/>
    </owl:NamedIndividual>
 
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-mv;Capital">
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-mv;City">
       <rdf:type rdf:resource="&lcc-cr;GeographicRegionKind"/>
-      <rdfs:label>capital</rdfs:label>
-      <skos:definition>subdivision category capital in the country of Maldives</skos:definition>
+      <rdfs:label>city</rdfs:label>
+      <skos:definition>subdivision category city in the country of Maldives</skos:definition>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mv;"/>
    </owl:NamedIndividual>
 
@@ -111,57 +104,28 @@
   <!--
     ///////////////////////////////////////////////////////////////////////////////////////
     //
-    // Central
+    // North Ari Atoll
     //
     ///////////////////////////////////////////////////////////////////////////////////////
     -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-mv;Central">
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-mv;NorthAriAtoll">
       <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>Central</rdfs:label>
-      <skos:definition>The province of Central in the country of Maldives</skos:definition>
+      <rdfs:label>North Ari Atoll</rdfs:label>
+      <skos:definition>The administrative atoll of North Ari Atoll in the country of Maldives</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Maldives"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="dv">Medhu</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Central</lcc-cr:hasEnglishShortName>
-      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mv;Province"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mv;"/>
-   </owl:NamedIndividual>
-
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-mv;MV-CE">
-      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the province of Central in the country of Maldives</skos:definition>
-      <rdfs:label>MV-CE</rdfs:label>
-      <lcc-lr:hasTag rdf:datatype="&xsd;string">MV-CE</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-2-mv;Central"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-2-mv;Central"/>
-      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mv;"/>
-   </owl:NamedIndividual>
-
-  <!--
-    ///////////////////////////////////////////////////////////////////////////////////////
-    //
-    // Faafu
-    //
-    ///////////////////////////////////////////////////////////////////////////////////////
-    -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-mv;Faafu">
-      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>Faafu</rdfs:label>
-      <skos:definition>The administrative atoll of Faafu in the country of Maldives</skos:definition>
-      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-mv;Central"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Faafu</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="dv">Nilandhe Atholhu Uthuruburi</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">North Ari Atoll</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="dv">Ariatholhu Uthuruburi</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mv;AdministrativeAtoll"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mv;"/>
    </owl:NamedIndividual>
 
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-mv;MV-14">
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-mv;MV-02">
       <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the administrative atoll of Faafu in the country of Maldives</skos:definition>
-      <rdfs:label>MV-14</rdfs:label>
-      <lcc-lr:hasTag rdf:datatype="&xsd;string">MV-14</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-2-mv;Faafu"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-2-mv;Faafu"/>
+      <skos:definition>subdivision code for the administrative atoll of North Ari Atoll in the country of Maldives</skos:definition>
+      <rdfs:label>MV-02</rdfs:label>
+      <lcc-lr:hasTag rdf:datatype="&xsd;string">MV-02</lcc-lr:hasTag>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-mv;NorthAriAtoll"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-mv;NorthAriAtoll"/>
       <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mv;"/>
    </owl:NamedIndividual>
@@ -171,16 +135,202 @@
   <!--
     ///////////////////////////////////////////////////////////////////////////////////////
     //
-    // Meemu
+    // Faadhippolhu
     //
     ///////////////////////////////////////////////////////////////////////////////////////
     -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-mv;Meemu">
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-mv;Faadhippolhu">
       <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>Meemu</rdfs:label>
-      <skos:definition>The administrative atoll of Meemu in the country of Maldives</skos:definition>
-      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-mv;Central"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Meemu</lcc-cr:hasEnglishShortName>
+      <rdfs:label>Faadhippolhu</rdfs:label>
+      <skos:definition>The administrative atoll of Faadhippolhu in the country of Maldives</skos:definition>
+      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Maldives"/>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="dv">Faadhippolhu</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Faadhippolhu</lcc-cr:hasEnglishShortName>
+      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mv;AdministrativeAtoll"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mv;"/>
+   </owl:NamedIndividual>
+
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-mv;MV-03">
+      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
+      <skos:definition>subdivision code for the administrative atoll of Faadhippolhu in the country of Maldives</skos:definition>
+      <rdfs:label>MV-03</rdfs:label>
+      <lcc-lr:hasTag rdf:datatype="&xsd;string">MV-03</lcc-lr:hasTag>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-mv;Faadhippolhu"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-mv;Faadhippolhu"/>
+      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mv;"/>
+   </owl:NamedIndividual>
+
+
+
+  <!--
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Felidhu Atoll
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+    -->
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-mv;FelidhuAtoll">
+      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
+      <rdfs:label>Felidhu Atoll</rdfs:label>
+      <skos:definition>The administrative atoll of Felidhu Atoll in the country of Maldives</skos:definition>
+      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Maldives"/>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="dv">Felidheatholhu</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Felidhu Atoll</lcc-cr:hasEnglishShortName>
+      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mv;AdministrativeAtoll"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mv;"/>
+   </owl:NamedIndividual>
+
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-mv;MV-04">
+      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
+      <skos:definition>subdivision code for the administrative atoll of Felidhu Atoll in the country of Maldives</skos:definition>
+      <rdfs:label>MV-04</rdfs:label>
+      <lcc-lr:hasTag rdf:datatype="&xsd;string">MV-04</lcc-lr:hasTag>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-mv;FelidhuAtoll"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-mv;FelidhuAtoll"/>
+      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mv;"/>
+   </owl:NamedIndividual>
+
+
+
+  <!--
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // North Maalhosmadulu
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+    -->
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-mv;NorthMaalhosmadulu">
+      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
+      <rdfs:label>North Maalhosmadulu</rdfs:label>
+      <skos:definition>The administrative atoll of North Maalhosmadulu in the country of Maldives</skos:definition>
+      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Maldives"/>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="dv">Maalhosmadulu Uthuruburi</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">North Maalhosmadulu</lcc-cr:hasEnglishShortName>
+      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mv;AdministrativeAtoll"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mv;"/>
+   </owl:NamedIndividual>
+
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-mv;MV-13">
+      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
+      <skos:definition>subdivision code for the administrative atoll of North Maalhosmadulu in the country of Maldives</skos:definition>
+      <rdfs:label>MV-13</rdfs:label>
+      <lcc-lr:hasTag rdf:datatype="&xsd;string">MV-13</lcc-lr:hasTag>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-mv;NorthMaalhosmadulu"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-mv;NorthMaalhosmadulu"/>
+      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mv;"/>
+   </owl:NamedIndividual>
+
+
+
+  <!--
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Hahdhunmathi
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+    -->
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-mv;Hahdhunmathi">
+      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
+      <rdfs:label>Hahdhunmathi</rdfs:label>
+      <skos:definition>The administrative atoll of Hahdhunmathi in the country of Maldives</skos:definition>
+      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Maldives"/>
+      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Hahdhunmathi</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="dv">Hahdhunmathi</lcc-cr:hasLocalShortName>
+      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mv;AdministrativeAtoll"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mv;"/>
+   </owl:NamedIndividual>
+
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-mv;MV-05">
+      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
+      <skos:definition>subdivision code for the administrative atoll of Hahdhunmathi in the country of Maldives</skos:definition>
+      <rdfs:label>MV-05</rdfs:label>
+      <lcc-lr:hasTag rdf:datatype="&xsd;string">MV-05</lcc-lr:hasTag>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-mv;Hahdhunmathi"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-mv;Hahdhunmathi"/>
+      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mv;"/>
+   </owl:NamedIndividual>
+
+
+
+  <!--
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // North Thiladhunmathi
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+    -->
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-mv;NorthThiladhunmathi">
+      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
+      <rdfs:label>North Thiladhunmathi</rdfs:label>
+      <skos:definition>The administrative atoll of North Thiladhunmathi in the country of Maldives</skos:definition>
+      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Maldives"/>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="dv">Thiladhunmathee Uthuruburi</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">North Thiladhunmathi</lcc-cr:hasEnglishShortName>
+      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mv;AdministrativeAtoll"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mv;"/>
+   </owl:NamedIndividual>
+
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-mv;MV-07">
+      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
+      <skos:definition>subdivision code for the administrative atoll of North Thiladhunmathi in the country of Maldives</skos:definition>
+      <rdfs:label>MV-07</rdfs:label>
+      <lcc-lr:hasTag rdf:datatype="&xsd;string">MV-07</lcc-lr:hasTag>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-mv;NorthThiladhunmathi"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-mv;NorthThiladhunmathi"/>
+      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mv;"/>
+   </owl:NamedIndividual>
+
+
+
+  <!--
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Kolhumadulu
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+    -->
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-mv;Kolhumadulu">
+      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
+      <rdfs:label>Kolhumadulu</rdfs:label>
+      <skos:definition>The administrative atoll of Kolhumadulu in the country of Maldives</skos:definition>
+      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Maldives"/>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="dv">Kolhumadulu</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Kolhumadulu</lcc-cr:hasEnglishShortName>
+      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mv;AdministrativeAtoll"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mv;"/>
+   </owl:NamedIndividual>
+
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-mv;MV-08">
+      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
+      <skos:definition>subdivision code for the administrative atoll of Kolhumadulu in the country of Maldives</skos:definition>
+      <rdfs:label>MV-08</rdfs:label>
+      <lcc-lr:hasTag rdf:datatype="&xsd;string">MV-08</lcc-lr:hasTag>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-mv;Kolhumadulu"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-mv;Kolhumadulu"/>
+      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mv;"/>
+   </owl:NamedIndividual>
+
+
+
+  <!--
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Mulaku Atoll
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+    -->
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-mv;MulakuAtoll">
+      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
+      <rdfs:label>Mulaku Atoll</rdfs:label>
+      <skos:definition>The administrative atoll of Mulaku Atoll in the country of Maldives</skos:definition>
+      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Maldives"/>
+      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Mulaku Atoll</lcc-cr:hasEnglishShortName>
       <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="dv">Mulakatholhu</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mv;AdministrativeAtoll"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mv;"/>
@@ -188,11 +338,11 @@
 
    <owl:NamedIndividual rdf:about="&lcc-3166-2-mv;MV-12">
       <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the administrative atoll of Meemu in the country of Maldives</skos:definition>
+      <skos:definition>subdivision code for the administrative atoll of Mulaku Atoll in the country of Maldives</skos:definition>
       <rdfs:label>MV-12</rdfs:label>
       <lcc-lr:hasTag rdf:datatype="&xsd;string">MV-12</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-2-mv;Meemu"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-2-mv;Meemu"/>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-mv;MulakuAtoll"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-mv;MulakuAtoll"/>
       <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mv;"/>
    </owl:NamedIndividual>
@@ -202,90 +352,90 @@
   <!--
     ///////////////////////////////////////////////////////////////////////////////////////
     //
-    // Dhaalu
+    // North Nilandhe Atoll
     //
     ///////////////////////////////////////////////////////////////////////////////////////
     -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-mv;Dhaalu">
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-mv;NorthNilandheAtoll">
       <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>Dhaalu</rdfs:label>
-      <skos:definition>The administrative atoll of Dhaalu in the country of Maldives</skos:definition>
-      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-mv;Central"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="dv">Nilandhe Atholhu Dhekunuburi</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Dhaalu</lcc-cr:hasEnglishShortName>
+      <rdfs:label>North Nilandhe Atoll</rdfs:label>
+      <skos:definition>The administrative atoll of North Nilandhe Atoll in the country of Maldives</skos:definition>
+      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Maldives"/>
+      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">North Nilandhe Atoll</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="dv">Nilandheatholhu Uthuruburi</lcc-cr:hasLocalShortName>
+      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mv;AdministrativeAtoll"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mv;"/>
+   </owl:NamedIndividual>
+
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-mv;MV-14">
+      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
+      <skos:definition>subdivision code for the administrative atoll of North Nilandhe Atoll in the country of Maldives</skos:definition>
+      <rdfs:label>MV-14</rdfs:label>
+      <lcc-lr:hasTag rdf:datatype="&xsd;string">MV-14</lcc-lr:hasTag>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-mv;NorthNilandheAtoll"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-mv;NorthNilandheAtoll"/>
+      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mv;"/>
+   </owl:NamedIndividual>
+
+
+
+  <!--
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // South Nilandhe Atoll
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+    -->
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-mv;SouthNilandheAtoll">
+      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
+      <rdfs:label>South Nilandhe Atoll</rdfs:label>
+      <skos:definition>The administrative atoll of South Nilandhe Atoll in the country of Maldives</skos:definition>
+      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Maldives"/>
+      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">South Nilandhe Atoll</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="dv">Nilandheatholhu Dhekunuburi</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mv;AdministrativeAtoll"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mv;"/>
    </owl:NamedIndividual>
 
    <owl:NamedIndividual rdf:about="&lcc-3166-2-mv;MV-17">
       <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the administrative atoll of Dhaalu in the country of Maldives</skos:definition>
+      <skos:definition>subdivision code for the administrative atoll of South Nilandhe Atoll in the country of Maldives</skos:definition>
       <rdfs:label>MV-17</rdfs:label>
       <lcc-lr:hasTag rdf:datatype="&xsd;string">MV-17</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-2-mv;Dhaalu"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-2-mv;Dhaalu"/>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-mv;SouthNilandheAtoll"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-mv;SouthNilandheAtoll"/>
       <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mv;"/>
    </owl:NamedIndividual>
 
 
 
-
-
   <!--
     ///////////////////////////////////////////////////////////////////////////////////////
     //
-    // North Central
+    // South Maalhosmadulu
     //
     ///////////////////////////////////////////////////////////////////////////////////////
     -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-mv;NorthCentral">
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-mv;SouthMaalhosmadulu">
       <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>North Central</rdfs:label>
-      <skos:definition>The province of North Central in the country of Maldives</skos:definition>
+      <rdfs:label>South Maalhosmadulu</rdfs:label>
+      <skos:definition>The administrative atoll of South Maalhosmadulu in the country of Maldives</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Maldives"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">North Central</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="dv">Medhu-Uthuru</lcc-cr:hasLocalShortName>
-      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mv;Province"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mv;"/>
-   </owl:NamedIndividual>
-
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-mv;MV-NC">
-      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the province of North Central in the country of Maldives</skos:definition>
-      <rdfs:label>MV-NC</rdfs:label>
-      <lcc-lr:hasTag rdf:datatype="&xsd;string">MV-NC</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-2-mv;NorthCentral"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-2-mv;NorthCentral"/>
-      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mv;"/>
-   </owl:NamedIndividual>
-
-  <!--
-    ///////////////////////////////////////////////////////////////////////////////////////
-    //
-    // Vaavu
-    //
-    ///////////////////////////////////////////////////////////////////////////////////////
-    -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-mv;Vaavu">
-      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>Vaavu</rdfs:label>
-      <skos:definition>The administrative atoll of Vaavu in the country of Maldives</skos:definition>
-      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-mv;NorthCentral"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Vaavu</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="dv">Felidhu Atholhu</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">South Maalhosmadulu</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="dv">Maalhosmadulu Dhekunuburi</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mv;AdministrativeAtoll"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mv;"/>
    </owl:NamedIndividual>
 
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-mv;MV-04">
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-mv;MV-20">
       <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the administrative atoll of Vaavu in the country of Maldives</skos:definition>
-      <rdfs:label>MV-04</rdfs:label>
-      <lcc-lr:hasTag rdf:datatype="&xsd;string">MV-04</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-2-mv;Vaavu"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-2-mv;Vaavu"/>
+      <skos:definition>subdivision code for the administrative atoll of South Maalhosmadulu in the country of Maldives</skos:definition>
+      <rdfs:label>MV-20</rdfs:label>
+      <lcc-lr:hasTag rdf:datatype="&xsd;string">MV-20</lcc-lr:hasTag>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-mv;SouthMaalhosmadulu"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-mv;SouthMaalhosmadulu"/>
       <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mv;"/>
    </owl:NamedIndividual>
@@ -295,28 +445,121 @@
   <!--
     ///////////////////////////////////////////////////////////////////////////////////////
     //
-    // Kaafu
+    // South Thiladhunmathi
     //
     ///////////////////////////////////////////////////////////////////////////////////////
     -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-mv;Kaafu">
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-mv;SouthThiladhunmathi">
       <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>Kaafu</rdfs:label>
-      <skos:definition>The administrative atoll of Kaafu in the country of Maldives</skos:definition>
-      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-mv;NorthCentral"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Kaafu</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="dv">Maale Atholhu</lcc-cr:hasLocalShortName>
+      <rdfs:label>South Thiladhunmathi</rdfs:label>
+      <skos:definition>The administrative atoll of South Thiladhunmathi in the country of Maldives</skos:definition>
+      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Maldives"/>
+      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">South Thiladhunmathi</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="dv">Thiladhunmathee Dhekunuburi</lcc-cr:hasLocalShortName>
+      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mv;AdministrativeAtoll"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mv;"/>
+   </owl:NamedIndividual>
+
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-mv;MV-23">
+      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
+      <skos:definition>subdivision code for the administrative atoll of South Thiladhunmathi in the country of Maldives</skos:definition>
+      <rdfs:label>MV-23</rdfs:label>
+      <lcc-lr:hasTag rdf:datatype="&xsd;string">MV-23</lcc-lr:hasTag>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-mv;SouthThiladhunmathi"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-mv;SouthThiladhunmathi"/>
+      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mv;"/>
+   </owl:NamedIndividual>
+
+
+
+  <!--
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // North Miladhunmadulu
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+    -->
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-mv;NorthMiladhunmadulu">
+      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
+      <rdfs:label>North Miladhunmadulu</rdfs:label>
+      <skos:definition>The administrative atoll of North Miladhunmadulu in the country of Maldives</skos:definition>
+      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Maldives"/>
+      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">North Miladhunmadulu</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="dv">Miladhunmadulu Uthuruburi</lcc-cr:hasLocalShortName>
+      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mv;AdministrativeAtoll"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mv;"/>
+   </owl:NamedIndividual>
+
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-mv;MV-24">
+      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
+      <skos:definition>subdivision code for the administrative atoll of North Miladhunmadulu in the country of Maldives</skos:definition>
+      <rdfs:label>MV-24</rdfs:label>
+      <lcc-lr:hasTag rdf:datatype="&xsd;string">MV-24</lcc-lr:hasTag>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-mv;NorthMiladhunmadulu"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-mv;NorthMiladhunmadulu"/>
+      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mv;"/>
+   </owl:NamedIndividual>
+
+
+
+  <!--
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // South Miladhunmadulu
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+    -->
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-mv;SouthMiladhunmadulu">
+      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
+      <rdfs:label>South Miladhunmadulu</rdfs:label>
+      <skos:definition>The administrative atoll of South Miladhunmadulu in the country of Maldives</skos:definition>
+      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Maldives"/>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="dv">Miladhunmadulu Dhekunuburi</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">South Miladhunmadulu</lcc-cr:hasEnglishShortName>
+      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mv;AdministrativeAtoll"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mv;"/>
+   </owl:NamedIndividual>
+
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-mv;MV-25">
+      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
+      <skos:definition>subdivision code for the administrative atoll of South Miladhunmadulu in the country of Maldives</skos:definition>
+      <rdfs:label>MV-25</rdfs:label>
+      <lcc-lr:hasTag rdf:datatype="&xsd;string">MV-25</lcc-lr:hasTag>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-mv;SouthMiladhunmadulu"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-mv;SouthMiladhunmadulu"/>
+      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mv;"/>
+   </owl:NamedIndividual>
+
+
+
+  <!--
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Male Atoll
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+    -->
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-mv;MaleAtoll">
+      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
+      <rdfs:label>Male Atoll</rdfs:label>
+      <skos:definition>The administrative atoll of Male Atoll in the country of Maldives</skos:definition>
+      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Maldives"/>
+      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Male Atoll</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="dv">Maaleatholhu</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mv;AdministrativeAtoll"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mv;"/>
    </owl:NamedIndividual>
 
    <owl:NamedIndividual rdf:about="&lcc-3166-2-mv;MV-26">
       <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the administrative atoll of Kaafu in the country of Maldives</skos:definition>
+      <skos:definition>subdivision code for the administrative atoll of Male Atoll in the country of Maldives</skos:definition>
       <rdfs:label>MV-26</rdfs:label>
       <lcc-lr:hasTag rdf:datatype="&xsd;string">MV-26</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-2-mv;Kaafu"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-2-mv;Kaafu"/>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-mv;MaleAtoll"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-mv;MaleAtoll"/>
       <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mv;"/>
    </owl:NamedIndividual>
@@ -326,214 +569,28 @@
   <!--
     ///////////////////////////////////////////////////////////////////////////////////////
     //
-    // Alifu Dhaalu
+    // North Huvadhu Atoll
     //
     ///////////////////////////////////////////////////////////////////////////////////////
     -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-mv;AlifuDhaalu">
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-mv;NorthHuvadhuAtoll">
       <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>Alifu Dhaalu</rdfs:label>
-      <skos:definition>The administrative atoll of Alifu Dhaalu in the country of Maldives</skos:definition>
-      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-mv;NorthCentral"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Alifu Dhaalu</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="dv">Ari Atholhu Dhekunuburi</lcc-cr:hasLocalShortName>
-      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mv;AdministrativeAtoll"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mv;"/>
-   </owl:NamedIndividual>
-
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-mv;MV-00">
-      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the administrative atoll of Alifu Dhaalu in the country of Maldives</skos:definition>
-      <rdfs:label>MV-00</rdfs:label>
-      <lcc-lr:hasTag rdf:datatype="&xsd;string">MV-00</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-2-mv;AlifuDhaalu"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-2-mv;AlifuDhaalu"/>
-      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mv;"/>
-   </owl:NamedIndividual>
-
-
-
-  <!--
-    ///////////////////////////////////////////////////////////////////////////////////////
-    //
-    // Alifu Alifu
-    //
-    ///////////////////////////////////////////////////////////////////////////////////////
-    -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-mv;AlifuAlifu">
-      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>Alifu Alifu</rdfs:label>
-      <skos:definition>The administrative atoll of Alifu Alifu in the country of Maldives</skos:definition>
-      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-mv;NorthCentral"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Alifu Alifu</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="dv">Ari Atholhu Uthuruburi</lcc-cr:hasLocalShortName>
-      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mv;AdministrativeAtoll"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mv;"/>
-   </owl:NamedIndividual>
-
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-mv;MV-02">
-      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the administrative atoll of Alifu Alifu in the country of Maldives</skos:definition>
-      <rdfs:label>MV-02</rdfs:label>
-      <lcc-lr:hasTag rdf:datatype="&xsd;string">MV-02</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-2-mv;AlifuAlifu"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-2-mv;AlifuAlifu"/>
-      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mv;"/>
-   </owl:NamedIndividual>
-
-
-
-
-
-  <!--
-    ///////////////////////////////////////////////////////////////////////////////////////
-    //
-    // South
-    //
-    ///////////////////////////////////////////////////////////////////////////////////////
-    -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-mv;South">
-      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>South</rdfs:label>
-      <skos:definition>The province of South in the country of Maldives</skos:definition>
+      <rdfs:label>North Huvadhu Atoll</rdfs:label>
+      <skos:definition>The administrative atoll of North Huvadhu Atoll in the country of Maldives</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Maldives"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="dv">Dhekunu</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">South</lcc-cr:hasEnglishShortName>
-      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mv;Province"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mv;"/>
-   </owl:NamedIndividual>
-
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-mv;MV-SU">
-      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the province of South in the country of Maldives</skos:definition>
-      <rdfs:label>MV-SU</rdfs:label>
-      <lcc-lr:hasTag rdf:datatype="&xsd;string">MV-SU</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-2-mv;South"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-2-mv;South"/>
-      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mv;"/>
-   </owl:NamedIndividual>
-
-  <!--
-    ///////////////////////////////////////////////////////////////////////////////////////
-    //
-    // Gnaviyani
-    //
-    ///////////////////////////////////////////////////////////////////////////////////////
-    -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-mv;Gnaviyani">
-      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>Gnaviyani</rdfs:label>
-      <skos:definition>The administrative atoll of Gnaviyani in the country of Maldives</skos:definition>
-      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-mv;South"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Gnaviyani</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="dv">Fuvammulah</lcc-cr:hasLocalShortName>
-      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mv;AdministrativeAtoll"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mv;"/>
-   </owl:NamedIndividual>
-
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-mv;MV-29">
-      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the administrative atoll of Gnaviyani in the country of Maldives</skos:definition>
-      <rdfs:label>MV-29</rdfs:label>
-      <lcc-lr:hasTag rdf:datatype="&xsd;string">MV-29</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-2-mv;Gnaviyani"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-2-mv;Gnaviyani"/>
-      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mv;"/>
-   </owl:NamedIndividual>
-
-
-
-  <!--
-    ///////////////////////////////////////////////////////////////////////////////////////
-    //
-    // Seenu
-    //
-    ///////////////////////////////////////////////////////////////////////////////////////
-    -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-mv;Seenu">
-      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>Seenu</rdfs:label>
-      <skos:definition>The administrative atoll of Seenu in the country of Maldives</skos:definition>
-      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-mv;South"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="dv">Addu Atholhu</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Seenu</lcc-cr:hasEnglishShortName>
-      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mv;AdministrativeAtoll"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mv;"/>
-   </owl:NamedIndividual>
-
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-mv;MV-01">
-      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the administrative atoll of Seenu in the country of Maldives</skos:definition>
-      <rdfs:label>MV-01</rdfs:label>
-      <lcc-lr:hasTag rdf:datatype="&xsd;string">MV-01</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-2-mv;Seenu"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-2-mv;Seenu"/>
-      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mv;"/>
-   </owl:NamedIndividual>
-
-
-
-
-
-  <!--
-    ///////////////////////////////////////////////////////////////////////////////////////
-    //
-    // South Central
-    //
-    ///////////////////////////////////////////////////////////////////////////////////////
-    -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-mv;SouthCentral">
-      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>South Central</rdfs:label>
-      <skos:definition>The province of South Central in the country of Maldives</skos:definition>
-      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Maldives"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="dv">Medhu-Dhekunu</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">South Central</lcc-cr:hasEnglishShortName>
-      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mv;Province"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mv;"/>
-   </owl:NamedIndividual>
-
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-mv;MV-SC">
-      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the province of South Central in the country of Maldives</skos:definition>
-      <rdfs:label>MV-SC</rdfs:label>
-      <lcc-lr:hasTag rdf:datatype="&xsd;string">MV-SC</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-2-mv;SouthCentral"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-2-mv;SouthCentral"/>
-      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mv;"/>
-   </owl:NamedIndividual>
-
-  <!--
-    ///////////////////////////////////////////////////////////////////////////////////////
-    //
-    // Gaafu Alifu
-    //
-    ///////////////////////////////////////////////////////////////////////////////////////
-    -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-mv;GaafuAlifu">
-      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>Gaafu Alifu</rdfs:label>
-      <skos:definition>The administrative atoll of Gaafu Alifu in the country of Maldives</skos:definition>
-      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-mv;SouthCentral"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="dv">Huvadhu Atholhu Uthuruburi</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Gaafu Alifu</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">North Huvadhu Atoll</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="dv">Huvadhuatholhu Uthuruburi</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mv;AdministrativeAtoll"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mv;"/>
    </owl:NamedIndividual>
 
    <owl:NamedIndividual rdf:about="&lcc-3166-2-mv;MV-27">
       <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the administrative atoll of Gaafu Alifu in the country of Maldives</skos:definition>
+      <skos:definition>subdivision code for the administrative atoll of North Huvadhu Atoll in the country of Maldives</skos:definition>
       <rdfs:label>MV-27</rdfs:label>
       <lcc-lr:hasTag rdf:datatype="&xsd;string">MV-27</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-2-mv;GaafuAlifu"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-2-mv;GaafuAlifu"/>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-mv;NorthHuvadhuAtoll"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-mv;NorthHuvadhuAtoll"/>
       <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mv;"/>
    </owl:NamedIndividual>
@@ -543,33 +600,93 @@
   <!--
     ///////////////////////////////////////////////////////////////////////////////////////
     //
-    // Gaafu Dhaalu
+    // South Huvadhu Atoll
     //
     ///////////////////////////////////////////////////////////////////////////////////////
     -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-mv;GaafuDhaalu">
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-mv;SouthHuvadhuAtoll">
       <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>Gaafu Dhaalu</rdfs:label>
-      <skos:definition>The administrative atoll of Gaafu Dhaalu in the country of Maldives</skos:definition>
-      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-mv;SouthCentral"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="dv">Huvadhu Atholhu Dhekunuburi</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Gaafu Dhaalu</lcc-cr:hasEnglishShortName>
+      <rdfs:label>South Huvadhu Atoll</rdfs:label>
+      <skos:definition>The administrative atoll of South Huvadhu Atoll in the country of Maldives</skos:definition>
+      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Maldives"/>
+      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">South Huvadhu Atoll</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="dv">Huvadhuatholhu Dhekunuburi</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mv;AdministrativeAtoll"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mv;"/>
    </owl:NamedIndividual>
 
    <owl:NamedIndividual rdf:about="&lcc-3166-2-mv;MV-28">
       <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the administrative atoll of Gaafu Dhaalu in the country of Maldives</skos:definition>
+      <skos:definition>subdivision code for the administrative atoll of South Huvadhu Atoll in the country of Maldives</skos:definition>
       <rdfs:label>MV-28</rdfs:label>
       <lcc-lr:hasTag rdf:datatype="&xsd;string">MV-28</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-2-mv;GaafuDhaalu"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-2-mv;GaafuDhaalu"/>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-mv;SouthHuvadhuAtoll"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-mv;SouthHuvadhuAtoll"/>
       <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mv;"/>
    </owl:NamedIndividual>
 
 
+
+  <!--
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Fuvammulah
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+    -->
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-mv;Fuvammulah">
+      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
+      <rdfs:label>Fuvammulah</rdfs:label>
+      <skos:definition>The administrative atoll of Fuvammulah in the country of Maldives</skos:definition>
+      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Maldives"/>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="dv">Fuvammulah</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Fuvammulah</lcc-cr:hasEnglishShortName>
+      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mv;AdministrativeAtoll"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mv;"/>
+   </owl:NamedIndividual>
+
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-mv;MV-29">
+      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
+      <skos:definition>subdivision code for the administrative atoll of Fuvammulah in the country of Maldives</skos:definition>
+      <rdfs:label>MV-29</rdfs:label>
+      <lcc-lr:hasTag rdf:datatype="&xsd;string">MV-29</lcc-lr:hasTag>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-mv;Fuvammulah"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-mv;Fuvammulah"/>
+      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mv;"/>
+   </owl:NamedIndividual>
+
+
+
+  <!--
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Addu City
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+    -->
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-mv;AdduCity">
+      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
+      <rdfs:label>Addu City</rdfs:label>
+      <skos:definition>The city of Addu City in the country of Maldives</skos:definition>
+      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Maldives"/>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="dv">Addu</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Addu City</lcc-cr:hasEnglishShortName>
+      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mv;City"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mv;"/>
+   </owl:NamedIndividual>
+
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-mv;MV-01">
+      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
+      <skos:definition>subdivision code for the city of Addu City in the country of Maldives</skos:definition>
+      <rdfs:label>MV-01</rdfs:label>
+      <lcc-lr:hasTag rdf:datatype="&xsd;string">MV-01</lcc-lr:hasTag>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-mv;AdduCity"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-mv;AdduCity"/>
+      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mv;"/>
+   </owl:NamedIndividual>
 
 
 
@@ -583,17 +700,17 @@
    <owl:NamedIndividual rdf:about="&lcc-3166-2-mv;Male">
       <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
       <rdfs:label>Male</rdfs:label>
-      <skos:definition>The capital of Male in the country of Maldives</skos:definition>
+      <skos:definition>The city of Male in the country of Maldives</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Maldives"/>
       <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Male</lcc-cr:hasEnglishShortName>
       <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="dv">Maale</lcc-cr:hasLocalShortName>
-      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mv;Capital"/>
+      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mv;City"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mv;"/>
    </owl:NamedIndividual>
 
    <owl:NamedIndividual rdf:about="&lcc-3166-2-mv;MV-MLE">
       <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the capital of Male in the country of Maldives</skos:definition>
+      <skos:definition>subdivision code for the city of Male in the country of Maldives</skos:definition>
       <rdfs:label>MV-MLE</rdfs:label>
       <lcc-lr:hasTag rdf:datatype="&xsd;string">MV-MLE</lcc-lr:hasTag>
       <lcc-lr:denotes rdf:resource="&lcc-3166-2-mv;Male"/>
@@ -607,371 +724,30 @@
   <!--
     ///////////////////////////////////////////////////////////////////////////////////////
     //
-    // North
+    // South Ari Atoll
     //
     ///////////////////////////////////////////////////////////////////////////////////////
     -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-mv;North">
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-mv;SouthAriAtoll">
       <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>North</rdfs:label>
-      <skos:definition>The province of North in the country of Maldives</skos:definition>
+      <rdfs:label>South Ari Atoll</rdfs:label>
+      <skos:definition>The administrative atoll of South Ari Atoll in the country of Maldives</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Maldives"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="dv">Uthuru</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">North</lcc-cr:hasEnglishShortName>
-      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mv;Province"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mv;"/>
-   </owl:NamedIndividual>
-
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-mv;MV-NO">
-      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the province of North in the country of Maldives</skos:definition>
-      <rdfs:label>MV-NO</rdfs:label>
-      <lcc-lr:hasTag rdf:datatype="&xsd;string">MV-NO</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-2-mv;North"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-2-mv;North"/>
-      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mv;"/>
-   </owl:NamedIndividual>
-
-  <!--
-    ///////////////////////////////////////////////////////////////////////////////////////
-    //
-    // Raa
-    //
-    ///////////////////////////////////////////////////////////////////////////////////////
-    -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-mv;Raa">
-      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>Raa</rdfs:label>
-      <skos:definition>The administrative atoll of Raa in the country of Maldives</skos:definition>
-      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-mv;North"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="dv">Maalhosmadulu Uthuruburi</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Raa</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="dv">Ariatholhu Dhekunuburi</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">South Ari Atoll</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mv;AdministrativeAtoll"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mv;"/>
    </owl:NamedIndividual>
 
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-mv;MV-13">
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-mv;MV-00">
       <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the administrative atoll of Raa in the country of Maldives</skos:definition>
-      <rdfs:label>MV-13</rdfs:label>
-      <lcc-lr:hasTag rdf:datatype="&xsd;string">MV-13</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-2-mv;Raa"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-2-mv;Raa"/>
+      <skos:definition>subdivision code for the administrative atoll of South Ari Atoll in the country of Maldives</skos:definition>
+      <rdfs:label>MV-00</rdfs:label>
+      <lcc-lr:hasTag rdf:datatype="&xsd;string">MV-00</lcc-lr:hasTag>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-mv;SouthAriAtoll"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-mv;SouthAriAtoll"/>
       <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mv;"/>
    </owl:NamedIndividual>
-
-
-
-  <!--
-    ///////////////////////////////////////////////////////////////////////////////////////
-    //
-    // Lhaviyani
-    //
-    ///////////////////////////////////////////////////////////////////////////////////////
-    -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-mv;Lhaviyani">
-      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>Lhaviyani</rdfs:label>
-      <skos:definition>The administrative atoll of Lhaviyani in the country of Maldives</skos:definition>
-      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-mv;North"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="dv">Faadhippolhu</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Lhaviyani</lcc-cr:hasEnglishShortName>
-      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mv;AdministrativeAtoll"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mv;"/>
-   </owl:NamedIndividual>
-
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-mv;MV-03">
-      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the administrative atoll of Lhaviyani in the country of Maldives</skos:definition>
-      <rdfs:label>MV-03</rdfs:label>
-      <lcc-lr:hasTag rdf:datatype="&xsd;string">MV-03</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-2-mv;Lhaviyani"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-2-mv;Lhaviyani"/>
-      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mv;"/>
-   </owl:NamedIndividual>
-
-
-
-  <!--
-    ///////////////////////////////////////////////////////////////////////////////////////
-    //
-    // Baa
-    //
-    ///////////////////////////////////////////////////////////////////////////////////////
-    -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-mv;Baa">
-      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>Baa</rdfs:label>
-      <skos:definition>The administrative atoll of Baa in the country of Maldives</skos:definition>
-      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-mv;North"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="dv">Maalhosmadulu Dhekunuburi</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Baa</lcc-cr:hasEnglishShortName>
-      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mv;AdministrativeAtoll"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mv;"/>
-   </owl:NamedIndividual>
-
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-mv;MV-20">
-      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the administrative atoll of Baa in the country of Maldives</skos:definition>
-      <rdfs:label>MV-20</rdfs:label>
-      <lcc-lr:hasTag rdf:datatype="&xsd;string">MV-20</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-2-mv;Baa"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-2-mv;Baa"/>
-      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mv;"/>
-   </owl:NamedIndividual>
-
-
-
-  <!--
-    ///////////////////////////////////////////////////////////////////////////////////////
-    //
-    // Noonu
-    //
-    ///////////////////////////////////////////////////////////////////////////////////////
-    -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-mv;Noonu">
-      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>Noonu</rdfs:label>
-      <skos:definition>The administrative atoll of Noonu in the country of Maldives</skos:definition>
-      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-mv;North"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Noonu</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="dv">Miladhunmadulu Dhekunuburi</lcc-cr:hasLocalShortName>
-      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mv;AdministrativeAtoll"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mv;"/>
-   </owl:NamedIndividual>
-
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-mv;MV-25">
-      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the administrative atoll of Noonu in the country of Maldives</skos:definition>
-      <rdfs:label>MV-25</rdfs:label>
-      <lcc-lr:hasTag rdf:datatype="&xsd;string">MV-25</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-2-mv;Noonu"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-2-mv;Noonu"/>
-      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mv;"/>
-   </owl:NamedIndividual>
-
-
-
-
-
-  <!--
-    ///////////////////////////////////////////////////////////////////////////////////////
-    //
-    // Upper North
-    //
-    ///////////////////////////////////////////////////////////////////////////////////////
-    -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-mv;UpperNorth">
-      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>Upper North</rdfs:label>
-      <skos:definition>The province of Upper North in the country of Maldives</skos:definition>
-      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Maldives"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Upper North</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="dv">Mathi-Uthuru</lcc-cr:hasLocalShortName>
-      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mv;Province"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mv;"/>
-   </owl:NamedIndividual>
-
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-mv;MV-UN">
-      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the province of Upper North in the country of Maldives</skos:definition>
-      <rdfs:label>MV-UN</rdfs:label>
-      <lcc-lr:hasTag rdf:datatype="&xsd;string">MV-UN</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-2-mv;UpperNorth"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-2-mv;UpperNorth"/>
-      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mv;"/>
-   </owl:NamedIndividual>
-
-  <!--
-    ///////////////////////////////////////////////////////////////////////////////////////
-    //
-    // Haa Alifu
-    //
-    ///////////////////////////////////////////////////////////////////////////////////////
-    -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-mv;HaaAlifu">
-      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>Haa Alifu</rdfs:label>
-      <skos:definition>The administrative atoll of Haa Alifu in the country of Maldives</skos:definition>
-      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-mv;UpperNorth"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="dv">Thiladhunmathee Uthuruburi</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Haa Alifu</lcc-cr:hasEnglishShortName>
-      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mv;AdministrativeAtoll"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mv;"/>
-   </owl:NamedIndividual>
-
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-mv;MV-07">
-      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the administrative atoll of Haa Alifu in the country of Maldives</skos:definition>
-      <rdfs:label>MV-07</rdfs:label>
-      <lcc-lr:hasTag rdf:datatype="&xsd;string">MV-07</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-2-mv;HaaAlifu"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-2-mv;HaaAlifu"/>
-      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mv;"/>
-   </owl:NamedIndividual>
-
-
-
-  <!--
-    ///////////////////////////////////////////////////////////////////////////////////////
-    //
-    // Haa Dhaalu
-    //
-    ///////////////////////////////////////////////////////////////////////////////////////
-    -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-mv;HaaDhaalu">
-      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>Haa Dhaalu</rdfs:label>
-      <skos:definition>The administrative atoll of Haa Dhaalu in the country of Maldives</skos:definition>
-      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-mv;UpperNorth"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Haa Dhaalu</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="dv">Thiladhunmathee Dhekunuburi</lcc-cr:hasLocalShortName>
-      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mv;AdministrativeAtoll"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mv;"/>
-   </owl:NamedIndividual>
-
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-mv;MV-23">
-      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the administrative atoll of Haa Dhaalu in the country of Maldives</skos:definition>
-      <rdfs:label>MV-23</rdfs:label>
-      <lcc-lr:hasTag rdf:datatype="&xsd;string">MV-23</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-2-mv;HaaDhaalu"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-2-mv;HaaDhaalu"/>
-      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mv;"/>
-   </owl:NamedIndividual>
-
-
-
-  <!--
-    ///////////////////////////////////////////////////////////////////////////////////////
-    //
-    // Shaviyani
-    //
-    ///////////////////////////////////////////////////////////////////////////////////////
-    -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-mv;Shaviyani">
-      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>Shaviyani</rdfs:label>
-      <skos:definition>The administrative atoll of Shaviyani in the country of Maldives</skos:definition>
-      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-mv;UpperNorth"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="dv">Miladhunmadulu Uthuruburi</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Shaviyani</lcc-cr:hasEnglishShortName>
-      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mv;AdministrativeAtoll"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mv;"/>
-   </owl:NamedIndividual>
-
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-mv;MV-24">
-      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the administrative atoll of Shaviyani in the country of Maldives</skos:definition>
-      <rdfs:label>MV-24</rdfs:label>
-      <lcc-lr:hasTag rdf:datatype="&xsd;string">MV-24</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-2-mv;Shaviyani"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-2-mv;Shaviyani"/>
-      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mv;"/>
-   </owl:NamedIndividual>
-
-
-
-
-
-  <!--
-    ///////////////////////////////////////////////////////////////////////////////////////
-    //
-    // Upper South
-    //
-    ///////////////////////////////////////////////////////////////////////////////////////
-    -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-mv;UpperSouth">
-      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>Upper South</rdfs:label>
-      <skos:definition>The province of Upper South in the country of Maldives</skos:definition>
-      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Maldives"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Upper South</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="dv">Mathi-Dhekunu</lcc-cr:hasLocalShortName>
-      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mv;Province"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mv;"/>
-   </owl:NamedIndividual>
-
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-mv;MV-US">
-      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the province of Upper South in the country of Maldives</skos:definition>
-      <rdfs:label>MV-US</rdfs:label>
-      <lcc-lr:hasTag rdf:datatype="&xsd;string">MV-US</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-2-mv;UpperSouth"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-2-mv;UpperSouth"/>
-      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mv;"/>
-   </owl:NamedIndividual>
-
-  <!--
-    ///////////////////////////////////////////////////////////////////////////////////////
-    //
-    // Laamu
-    //
-    ///////////////////////////////////////////////////////////////////////////////////////
-    -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-mv;Laamu">
-      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>Laamu</rdfs:label>
-      <skos:definition>The administrative atoll of Laamu in the country of Maldives</skos:definition>
-      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-mv;UpperSouth"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Laamu</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="dv">Hahdhunmathi</lcc-cr:hasLocalShortName>
-      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mv;AdministrativeAtoll"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mv;"/>
-   </owl:NamedIndividual>
-
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-mv;MV-05">
-      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the administrative atoll of Laamu in the country of Maldives</skos:definition>
-      <rdfs:label>MV-05</rdfs:label>
-      <lcc-lr:hasTag rdf:datatype="&xsd;string">MV-05</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-2-mv;Laamu"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-2-mv;Laamu"/>
-      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mv;"/>
-   </owl:NamedIndividual>
-
-
-
-  <!--
-    ///////////////////////////////////////////////////////////////////////////////////////
-    //
-    // Thaa
-    //
-    ///////////////////////////////////////////////////////////////////////////////////////
-    -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-mv;Thaa">
-      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>Thaa</rdfs:label>
-      <skos:definition>The administrative atoll of Thaa in the country of Maldives</skos:definition>
-      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-mv;UpperSouth"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Thaa</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="dv">Kolhumadulu</lcc-cr:hasLocalShortName>
-      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mv;AdministrativeAtoll"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mv;"/>
-   </owl:NamedIndividual>
-
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-mv;MV-08">
-      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the administrative atoll of Thaa in the country of Maldives</skos:definition>
-      <rdfs:label>MV-08</rdfs:label>
-      <lcc-lr:hasTag rdf:datatype="&xsd;string">MV-08</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-2-mv;Thaa"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-2-mv;Thaa"/>
-      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mv;"/>
-   </owl:NamedIndividual>
-
-
 
 </rdf:RDF>

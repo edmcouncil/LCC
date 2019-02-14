@@ -36,9 +36,9 @@
 
       <!-- Curation and Rights Metadata for the LCC ISO 3166-2 Subdivision Codes for Slovenia Ontology -->
 
-      <sm:copyright rdf:datatype="&xsd;string">Copyright (c) 2015-2017 Object Management Group, Inc.
-          Copyright (c) 2015-2017 Adaptive Inc.
-          Copyright (c) 2015-2017 Thematix Partners LLC
+      <sm:copyright rdf:datatype="&xsd;string">Copyright (c) 2015-2019 Object Management Group, Inc.
+          Copyright (c) 2015-2019 Adaptive Inc.
+          Copyright (c) 2015-2019 Thematix Partners LLC
           Copyright (c) 2015-2017 Unisys
         </sm:copyright>
       <dct:license rdf:resource="&sm;MITLicense"/>
@@ -47,9 +47,9 @@
 
       <sm:filename rdf:datatype="&xsd;string">ISO3166-2-SubdivisionCodes-SI.rdf</sm:filename>
       <sm:fileAbbreviation rdf:datatype="&xsd;string">lcc-3166-2-si</sm:fileAbbreviation>
-      <owl:versionIRI rdf:resource="http://www.omg.org/spec/LCC/20170801/Countries/Regions/ISO3166-2-SubdivisionCodes-SI/"/>
+      <owl:versionIRI rdf:resource="http://www.omg.org/spec/LCC/20190301/Countries/Regions/ISO3166-2-SubdivisionCodes-SI/"/>
       <sm:fileAbstract rdf:datatype="&xsd;string">This ontology represents the subset of the ISO 3166 standard that includes the actual ISO 3166-2 subdivision codes for Slovenia, with the ontology and codes for the other parts of the standard represented in models that this ontology depends on.</sm:fileAbstract>
-      <dct:issued rdf:datatype="&xsd;dateTime">2017-07-20T22:26:02.631805+02:00</dct:issued>
+      <dct:issued rdf:datatype="&xsd;dateTime">2019-02-14T00:48:51.124818+01:00</dct:issued>
 
       <sm:dependsOn rdf:datatype="&xsd;anyURI">http://www.omg.org/spec/LCC/Languages/LanguageRepresentation/</sm:dependsOn>
       <sm:dependsOn rdf:datatype="&xsd;anyURI">http://www.omg.org/spec/LCC/Countries/CountryRepresentation/</sm:dependsOn>
@@ -92,606 +92,6 @@
     //
     ///////////////////////////////////////////////////////////////////////////////////////
     -->
-
-
-  <!--
-    ///////////////////////////////////////////////////////////////////////////////////////
-    //
-    // Beltinci
-    //
-    ///////////////////////////////////////////////////////////////////////////////////////
-    -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-si;Beltinci">
-      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>Beltinci</rdfs:label>
-      <skos:definition>The municipality of Beltinci in the country of Slovenia</skos:definition>
-      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Slovenia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sl">Beltinci</lcc-cr:hasLocalShortName>
-      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-si;Municipality"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
-   </owl:NamedIndividual>
-
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-si;SI-002">
-      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the municipality of Beltinci in the country of Slovenia</skos:definition>
-      <rdfs:label>SI-002</rdfs:label>
-      <lcc-lr:hasTag rdf:datatype="&xsd;string">SI-002</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-2-si;Beltinci"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-2-si;Beltinci"/>
-      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
-   </owl:NamedIndividual>
-
-
-
-  <!--
-    ///////////////////////////////////////////////////////////////////////////////////////
-    //
-    // Duplek
-    //
-    ///////////////////////////////////////////////////////////////////////////////////////
-    -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-si;Duplek">
-      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>Duplek</rdfs:label>
-      <skos:definition>The municipality of Duplek in the country of Slovenia</skos:definition>
-      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Slovenia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sl">Duplek</lcc-cr:hasLocalShortName>
-      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-si;Municipality"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
-   </owl:NamedIndividual>
-
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-si;SI-026">
-      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the municipality of Duplek in the country of Slovenia</skos:definition>
-      <rdfs:label>SI-026</rdfs:label>
-      <lcc-lr:hasTag rdf:datatype="&xsd;string">SI-026</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-2-si;Duplek"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-2-si;Duplek"/>
-      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
-   </owl:NamedIndividual>
-
-
-
-  <!--
-    ///////////////////////////////////////////////////////////////////////////////////////
-    //
-    // Hrpelje-Kozina
-    //
-    ///////////////////////////////////////////////////////////////////////////////////////
-    -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-si;Hrpelje-Kozina">
-      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>Hrpelje-Kozina</rdfs:label>
-      <skos:definition>The municipality of Hrpelje-Kozina in the country of Slovenia</skos:definition>
-      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Slovenia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sl">Hrpelje-Kozina</lcc-cr:hasLocalShortName>
-      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-si;Municipality"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
-   </owl:NamedIndividual>
-
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-si;SI-035">
-      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the municipality of Hrpelje-Kozina in the country of Slovenia</skos:definition>
-      <rdfs:label>SI-035</rdfs:label>
-      <lcc-lr:hasTag rdf:datatype="&xsd;string">SI-035</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-2-si;Hrpelje-Kozina"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-2-si;Hrpelje-Kozina"/>
-      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
-   </owl:NamedIndividual>
-
-
-
-  <!--
-    ///////////////////////////////////////////////////////////////////////////////////////
-    //
-    // Kamnik
-    //
-    ///////////////////////////////////////////////////////////////////////////////////////
-    -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-si;Kamnik">
-      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>Kamnik</rdfs:label>
-      <skos:definition>The municipality of Kamnik in the country of Slovenia</skos:definition>
-      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Slovenia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sl">Kamnik</lcc-cr:hasLocalShortName>
-      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-si;Municipality"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
-   </owl:NamedIndividual>
-
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-si;SI-043">
-      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the municipality of Kamnik in the country of Slovenia</skos:definition>
-      <rdfs:label>SI-043</rdfs:label>
-      <lcc-lr:hasTag rdf:datatype="&xsd;string">SI-043</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-2-si;Kamnik"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-2-si;Kamnik"/>
-      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
-   </owl:NamedIndividual>
-
-
-
-  <!--
-    ///////////////////////////////////////////////////////////////////////////////////////
-    //
-    // Koper
-    //
-    ///////////////////////////////////////////////////////////////////////////////////////
-    -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-si;Koper">
-      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>Koper</rdfs:label>
-      <skos:definition>The municipality of Koper in the country of Slovenia</skos:definition>
-      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Slovenia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sl">Koper</lcc-cr:hasLocalShortName>
-      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-si;Municipality"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
-   </owl:NamedIndividual>
-
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-si;SI-050">
-      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the municipality of Koper in the country of Slovenia</skos:definition>
-      <rdfs:label>SI-050</rdfs:label>
-      <lcc-lr:hasTag rdf:datatype="&xsd;string">SI-050</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-2-si;Koper"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-2-si;Koper"/>
-      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
-   </owl:NamedIndividual>
-
-
-
-  <!--
-    ///////////////////////////////////////////////////////////////////////////////////////
-    //
-    // Krško
-    //
-    ///////////////////////////////////////////////////////////////////////////////////////
-    -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-si;Krsko">
-      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>Krško</rdfs:label>
-      <skos:definition>The municipality of Krško in the country of Slovenia</skos:definition>
-      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Slovenia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sl">Krško</lcc-cr:hasLocalShortName>
-      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-si;Municipality"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
-   </owl:NamedIndividual>
-
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-si;SI-054">
-      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the municipality of Krško in the country of Slovenia</skos:definition>
-      <rdfs:label>SI-054</rdfs:label>
-      <lcc-lr:hasTag rdf:datatype="&xsd;string">SI-054</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-2-si;Krsko"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-2-si;Krsko"/>
-      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
-   </owl:NamedIndividual>
-
-
-
-  <!--
-    ///////////////////////////////////////////////////////////////////////////////////////
-    //
-    // Kungota
-    //
-    ///////////////////////////////////////////////////////////////////////////////////////
-    -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-si;Kungota">
-      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>Kungota</rdfs:label>
-      <skos:definition>The municipality of Kungota in the country of Slovenia</skos:definition>
-      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Slovenia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sl">Kungota</lcc-cr:hasLocalShortName>
-      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-si;Municipality"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
-   </owl:NamedIndividual>
-
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-si;SI-055">
-      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the municipality of Kungota in the country of Slovenia</skos:definition>
-      <rdfs:label>SI-055</rdfs:label>
-      <lcc-lr:hasTag rdf:datatype="&xsd;string">SI-055</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-2-si;Kungota"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-2-si;Kungota"/>
-      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
-   </owl:NamedIndividual>
-
-
-
-  <!--
-    ///////////////////////////////////////////////////////////////////////////////////////
-    //
-    // Kuzma
-    //
-    ///////////////////////////////////////////////////////////////////////////////////////
-    -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-si;Kuzma">
-      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>Kuzma</rdfs:label>
-      <skos:definition>The municipality of Kuzma in the country of Slovenia</skos:definition>
-      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Slovenia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sl">Kuzma</lcc-cr:hasLocalShortName>
-      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-si;Municipality"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
-   </owl:NamedIndividual>
-
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-si;SI-056">
-      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the municipality of Kuzma in the country of Slovenia</skos:definition>
-      <rdfs:label>SI-056</rdfs:label>
-      <lcc-lr:hasTag rdf:datatype="&xsd;string">SI-056</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-2-si;Kuzma"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-2-si;Kuzma"/>
-      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
-   </owl:NamedIndividual>
-
-
-
-  <!--
-    ///////////////////////////////////////////////////////////////////////////////////////
-    //
-    // Ljubno
-    //
-    ///////////////////////////////////////////////////////////////////////////////////////
-    -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-si;Ljubno">
-      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>Ljubno</rdfs:label>
-      <skos:definition>The municipality of Ljubno in the country of Slovenia</skos:definition>
-      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Slovenia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sl">Ljubno</lcc-cr:hasLocalShortName>
-      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-si;Municipality"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
-   </owl:NamedIndividual>
-
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-si;SI-062">
-      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the municipality of Ljubno in the country of Slovenia</skos:definition>
-      <rdfs:label>SI-062</rdfs:label>
-      <lcc-lr:hasTag rdf:datatype="&xsd;string">SI-062</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-2-si;Ljubno"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-2-si;Ljubno"/>
-      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
-   </owl:NamedIndividual>
-
-
-
-  <!--
-    ///////////////////////////////////////////////////////////////////////////////////////
-    //
-    // Logatec
-    //
-    ///////////////////////////////////////////////////////////////////////////////////////
-    -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-si;Logatec">
-      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>Logatec</rdfs:label>
-      <skos:definition>The municipality of Logatec in the country of Slovenia</skos:definition>
-      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Slovenia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sl">Logatec</lcc-cr:hasLocalShortName>
-      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-si;Municipality"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
-   </owl:NamedIndividual>
-
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-si;SI-064">
-      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the municipality of Logatec in the country of Slovenia</skos:definition>
-      <rdfs:label>SI-064</rdfs:label>
-      <lcc-lr:hasTag rdf:datatype="&xsd;string">SI-064</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-2-si;Logatec"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-2-si;Logatec"/>
-      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
-   </owl:NamedIndividual>
-
-
-
-  <!--
-    ///////////////////////////////////////////////////////////////////////////////////////
-    //
-    // Rogašovci
-    //
-    ///////////////////////////////////////////////////////////////////////////////////////
-    -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-si;Rogasovci">
-      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>Rogašovci</rdfs:label>
-      <skos:definition>The municipality of Rogašovci in the country of Slovenia</skos:definition>
-      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Slovenia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sl">Rogašovci</lcc-cr:hasLocalShortName>
-      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-si;Municipality"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
-   </owl:NamedIndividual>
-
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-si;SI-105">
-      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the municipality of Rogašovci in the country of Slovenia</skos:definition>
-      <rdfs:label>SI-105</rdfs:label>
-      <lcc-lr:hasTag rdf:datatype="&xsd;string">SI-105</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-2-si;Rogasovci"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-2-si;Rogasovci"/>
-      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
-   </owl:NamedIndividual>
-
-
-
-  <!--
-    ///////////////////////////////////////////////////////////////////////////////////////
-    //
-    // Slovenj Gradec
-    //
-    ///////////////////////////////////////////////////////////////////////////////////////
-    -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-si;SlovenjGradec">
-      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>Slovenj Gradec</rdfs:label>
-      <skos:definition>The municipality of Slovenj Gradec in the country of Slovenia</skos:definition>
-      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Slovenia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sl">Slovenj Gradec</lcc-cr:hasLocalShortName>
-      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-si;Municipality"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
-   </owl:NamedIndividual>
-
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-si;SI-112">
-      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the municipality of Slovenj Gradec in the country of Slovenia</skos:definition>
-      <rdfs:label>SI-112</rdfs:label>
-      <lcc-lr:hasTag rdf:datatype="&xsd;string">SI-112</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-2-si;SlovenjGradec"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-2-si;SlovenjGradec"/>
-      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
-   </owl:NamedIndividual>
-
-
-
-  <!--
-    ///////////////////////////////////////////////////////////////////////////////////////
-    //
-    // Škofja Loka
-    //
-    ///////////////////////////////////////////////////////////////////////////////////////
-    -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-si;SkofjaLoka">
-      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>Škofja Loka</rdfs:label>
-      <skos:definition>The municipality of Škofja Loka in the country of Slovenia</skos:definition>
-      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Slovenia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sl">Škofja Loka</lcc-cr:hasLocalShortName>
-      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-si;Municipality"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
-   </owl:NamedIndividual>
-
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-si;SI-122">
-      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the municipality of Škofja Loka in the country of Slovenia</skos:definition>
-      <rdfs:label>SI-122</rdfs:label>
-      <lcc-lr:hasTag rdf:datatype="&xsd;string">SI-122</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-2-si;SkofjaLoka"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-2-si;SkofjaLoka"/>
-      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
-   </owl:NamedIndividual>
-
-
-
-  <!--
-    ///////////////////////////////////////////////////////////////////////////////////////
-    //
-    // Tolmin
-    //
-    ///////////////////////////////////////////////////////////////////////////////////////
-    -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-si;Tolmin">
-      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>Tolmin</rdfs:label>
-      <skos:definition>The municipality of Tolmin in the country of Slovenia</skos:definition>
-      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Slovenia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sl">Tolmin</lcc-cr:hasLocalShortName>
-      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-si;Municipality"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
-   </owl:NamedIndividual>
-
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-si;SI-128">
-      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the municipality of Tolmin in the country of Slovenia</skos:definition>
-      <rdfs:label>SI-128</rdfs:label>
-      <lcc-lr:hasTag rdf:datatype="&xsd;string">SI-128</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-2-si;Tolmin"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-2-si;Tolmin"/>
-      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
-   </owl:NamedIndividual>
-
-
-
-  <!--
-    ///////////////////////////////////////////////////////////////////////////////////////
-    //
-    // Vuzenica
-    //
-    ///////////////////////////////////////////////////////////////////////////////////////
-    -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-si;Vuzenica">
-      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>Vuzenica</rdfs:label>
-      <skos:definition>The municipality of Vuzenica in the country of Slovenia</skos:definition>
-      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Slovenia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sl">Vuzenica</lcc-cr:hasLocalShortName>
-      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-si;Municipality"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
-   </owl:NamedIndividual>
-
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-si;SI-141">
-      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the municipality of Vuzenica in the country of Slovenia</skos:definition>
-      <rdfs:label>SI-141</rdfs:label>
-      <lcc-lr:hasTag rdf:datatype="&xsd;string">SI-141</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-2-si;Vuzenica"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-2-si;Vuzenica"/>
-      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
-   </owl:NamedIndividual>
-
-
-
-  <!--
-    ///////////////////////////////////////////////////////////////////////////////////////
-    //
-    // Zreče
-    //
-    ///////////////////////////////////////////////////////////////////////////////////////
-    -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-si;Zrece">
-      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>Zreče</rdfs:label>
-      <skos:definition>The municipality of Zreče in the country of Slovenia</skos:definition>
-      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Slovenia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sl">Zreče</lcc-cr:hasLocalShortName>
-      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-si;Municipality"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
-   </owl:NamedIndividual>
-
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-si;SI-144">
-      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the municipality of Zreče in the country of Slovenia</skos:definition>
-      <rdfs:label>SI-144</rdfs:label>
-      <lcc-lr:hasTag rdf:datatype="&xsd;string">SI-144</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-2-si;Zrece"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-2-si;Zrece"/>
-      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
-   </owl:NamedIndividual>
-
-
-
-  <!--
-    ///////////////////////////////////////////////////////////////////////////////////////
-    //
-    // Lovrenc na Pohorju
-    //
-    ///////////////////////////////////////////////////////////////////////////////////////
-    -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-si;LovrencNaPohorju">
-      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>Lovrenc na Pohorju</rdfs:label>
-      <skos:definition>The municipality of Lovrenc na Pohorju in the country of Slovenia</skos:definition>
-      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Slovenia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sl">Lovrenc na Pohorju</lcc-cr:hasLocalShortName>
-      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-si;Municipality"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
-   </owl:NamedIndividual>
-
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-si;SI-167">
-      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the municipality of Lovrenc na Pohorju in the country of Slovenia</skos:definition>
-      <rdfs:label>SI-167</rdfs:label>
-      <lcc-lr:hasTag rdf:datatype="&xsd;string">SI-167</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-2-si;LovrencNaPohorju"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-2-si;LovrencNaPohorju"/>
-      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
-   </owl:NamedIndividual>
-
-
-
-  <!--
-    ///////////////////////////////////////////////////////////////////////////////////////
-    //
-    // Miklavž na Dravskem Polju
-    //
-    ///////////////////////////////////////////////////////////////////////////////////////
-    -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-si;MiklavzNaDravskemPolju">
-      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>Miklavž na Dravskem Polju</rdfs:label>
-      <skos:definition>The municipality of Miklavž na Dravskem Polju in the country of Slovenia</skos:definition>
-      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Slovenia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sl">Miklavž na Dravskem Polju</lcc-cr:hasLocalShortName>
-      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-si;Municipality"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
-   </owl:NamedIndividual>
-
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-si;SI-169">
-      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the municipality of Miklavž na Dravskem Polju in the country of Slovenia</skos:definition>
-      <rdfs:label>SI-169</rdfs:label>
-      <lcc-lr:hasTag rdf:datatype="&xsd;string">SI-169</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-2-si;MiklavzNaDravskemPolju"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-2-si;MiklavzNaDravskemPolju"/>
-      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
-   </owl:NamedIndividual>
-
-
-
-  <!--
-    ///////////////////////////////////////////////////////////////////////////////////////
-    //
-    // Žužemberk
-    //
-    ///////////////////////////////////////////////////////////////////////////////////////
-    -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-si;Zuzemberk">
-      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>Žužemberk</rdfs:label>
-      <skos:definition>The municipality of Žužemberk in the country of Slovenia</skos:definition>
-      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Slovenia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sl">Žužemberk</lcc-cr:hasLocalShortName>
-      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-si;Municipality"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
-   </owl:NamedIndividual>
-
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-si;SI-193">
-      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the municipality of Žužemberk in the country of Slovenia</skos:definition>
-      <rdfs:label>SI-193</rdfs:label>
-      <lcc-lr:hasTag rdf:datatype="&xsd;string">SI-193</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-2-si;Zuzemberk"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-2-si;Zuzemberk"/>
-      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
-   </owl:NamedIndividual>
-
-
-
-  <!--
-    ///////////////////////////////////////////////////////////////////////////////////////
-    //
-    // Središče ob Dravi
-    //
-    ///////////////////////////////////////////////////////////////////////////////////////
-    -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-si;SredisceObDravi">
-      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>Središče ob Dravi</rdfs:label>
-      <skos:definition>The municipality of Središče ob Dravi in the country of Slovenia</skos:definition>
-      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Slovenia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sl">Središče ob Dravi</lcc-cr:hasLocalShortName>
-      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-si;Municipality"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
-   </owl:NamedIndividual>
-
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-si;SI-202">
-      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the municipality of Središče ob Dravi in the country of Slovenia</skos:definition>
-      <rdfs:label>SI-202</rdfs:label>
-      <lcc-lr:hasTag rdf:datatype="&xsd;string">SI-202</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-2-si;SredisceObDravi"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-2-si;SredisceObDravi"/>
-      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
-   </owl:NamedIndividual>
-
 
 
   <!--
@@ -6448,6 +5848,606 @@
       <lcc-lr:hasTag rdf:datatype="&xsd;string">SI-209</lcc-lr:hasTag>
       <lcc-lr:denotes rdf:resource="&lcc-3166-2-si;RecicaObSavinji"/>
       <lcc-lr:identifies rdf:resource="&lcc-3166-2-si;RecicaObSavinji"/>
+      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
+   </owl:NamedIndividual>
+
+
+
+  <!--
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Beltinci
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+    -->
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-si;Beltinci">
+      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
+      <rdfs:label>Beltinci</rdfs:label>
+      <skos:definition>The municipality of Beltinci in the country of Slovenia</skos:definition>
+      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Slovenia"/>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sl">Beltinci</lcc-cr:hasLocalShortName>
+      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-si;Municipality"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
+   </owl:NamedIndividual>
+
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-si;SI-002">
+      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
+      <skos:definition>subdivision code for the municipality of Beltinci in the country of Slovenia</skos:definition>
+      <rdfs:label>SI-002</rdfs:label>
+      <lcc-lr:hasTag rdf:datatype="&xsd;string">SI-002</lcc-lr:hasTag>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-si;Beltinci"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-si;Beltinci"/>
+      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
+   </owl:NamedIndividual>
+
+
+
+  <!--
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Duplek
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+    -->
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-si;Duplek">
+      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
+      <rdfs:label>Duplek</rdfs:label>
+      <skos:definition>The municipality of Duplek in the country of Slovenia</skos:definition>
+      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Slovenia"/>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sl">Duplek</lcc-cr:hasLocalShortName>
+      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-si;Municipality"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
+   </owl:NamedIndividual>
+
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-si;SI-026">
+      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
+      <skos:definition>subdivision code for the municipality of Duplek in the country of Slovenia</skos:definition>
+      <rdfs:label>SI-026</rdfs:label>
+      <lcc-lr:hasTag rdf:datatype="&xsd;string">SI-026</lcc-lr:hasTag>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-si;Duplek"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-si;Duplek"/>
+      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
+   </owl:NamedIndividual>
+
+
+
+  <!--
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Hrpelje-Kozina
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+    -->
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-si;Hrpelje-Kozina">
+      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
+      <rdfs:label>Hrpelje-Kozina</rdfs:label>
+      <skos:definition>The municipality of Hrpelje-Kozina in the country of Slovenia</skos:definition>
+      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Slovenia"/>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sl">Hrpelje-Kozina</lcc-cr:hasLocalShortName>
+      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-si;Municipality"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
+   </owl:NamedIndividual>
+
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-si;SI-035">
+      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
+      <skos:definition>subdivision code for the municipality of Hrpelje-Kozina in the country of Slovenia</skos:definition>
+      <rdfs:label>SI-035</rdfs:label>
+      <lcc-lr:hasTag rdf:datatype="&xsd;string">SI-035</lcc-lr:hasTag>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-si;Hrpelje-Kozina"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-si;Hrpelje-Kozina"/>
+      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
+   </owl:NamedIndividual>
+
+
+
+  <!--
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Kamnik
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+    -->
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-si;Kamnik">
+      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
+      <rdfs:label>Kamnik</rdfs:label>
+      <skos:definition>The municipality of Kamnik in the country of Slovenia</skos:definition>
+      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Slovenia"/>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sl">Kamnik</lcc-cr:hasLocalShortName>
+      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-si;Municipality"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
+   </owl:NamedIndividual>
+
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-si;SI-043">
+      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
+      <skos:definition>subdivision code for the municipality of Kamnik in the country of Slovenia</skos:definition>
+      <rdfs:label>SI-043</rdfs:label>
+      <lcc-lr:hasTag rdf:datatype="&xsd;string">SI-043</lcc-lr:hasTag>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-si;Kamnik"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-si;Kamnik"/>
+      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
+   </owl:NamedIndividual>
+
+
+
+  <!--
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Koper
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+    -->
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-si;Koper">
+      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
+      <rdfs:label>Koper</rdfs:label>
+      <skos:definition>The municipality of Koper in the country of Slovenia</skos:definition>
+      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Slovenia"/>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sl">Koper</lcc-cr:hasLocalShortName>
+      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-si;Municipality"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
+   </owl:NamedIndividual>
+
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-si;SI-050">
+      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
+      <skos:definition>subdivision code for the municipality of Koper in the country of Slovenia</skos:definition>
+      <rdfs:label>SI-050</rdfs:label>
+      <lcc-lr:hasTag rdf:datatype="&xsd;string">SI-050</lcc-lr:hasTag>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-si;Koper"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-si;Koper"/>
+      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
+   </owl:NamedIndividual>
+
+
+
+  <!--
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Krško
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+    -->
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-si;Krsko">
+      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
+      <rdfs:label>Krško</rdfs:label>
+      <skos:definition>The municipality of Krško in the country of Slovenia</skos:definition>
+      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Slovenia"/>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sl">Krško</lcc-cr:hasLocalShortName>
+      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-si;Municipality"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
+   </owl:NamedIndividual>
+
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-si;SI-054">
+      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
+      <skos:definition>subdivision code for the municipality of Krško in the country of Slovenia</skos:definition>
+      <rdfs:label>SI-054</rdfs:label>
+      <lcc-lr:hasTag rdf:datatype="&xsd;string">SI-054</lcc-lr:hasTag>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-si;Krsko"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-si;Krsko"/>
+      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
+   </owl:NamedIndividual>
+
+
+
+  <!--
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Kungota
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+    -->
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-si;Kungota">
+      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
+      <rdfs:label>Kungota</rdfs:label>
+      <skos:definition>The municipality of Kungota in the country of Slovenia</skos:definition>
+      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Slovenia"/>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sl">Kungota</lcc-cr:hasLocalShortName>
+      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-si;Municipality"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
+   </owl:NamedIndividual>
+
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-si;SI-055">
+      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
+      <skos:definition>subdivision code for the municipality of Kungota in the country of Slovenia</skos:definition>
+      <rdfs:label>SI-055</rdfs:label>
+      <lcc-lr:hasTag rdf:datatype="&xsd;string">SI-055</lcc-lr:hasTag>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-si;Kungota"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-si;Kungota"/>
+      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
+   </owl:NamedIndividual>
+
+
+
+  <!--
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Kuzma
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+    -->
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-si;Kuzma">
+      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
+      <rdfs:label>Kuzma</rdfs:label>
+      <skos:definition>The municipality of Kuzma in the country of Slovenia</skos:definition>
+      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Slovenia"/>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sl">Kuzma</lcc-cr:hasLocalShortName>
+      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-si;Municipality"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
+   </owl:NamedIndividual>
+
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-si;SI-056">
+      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
+      <skos:definition>subdivision code for the municipality of Kuzma in the country of Slovenia</skos:definition>
+      <rdfs:label>SI-056</rdfs:label>
+      <lcc-lr:hasTag rdf:datatype="&xsd;string">SI-056</lcc-lr:hasTag>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-si;Kuzma"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-si;Kuzma"/>
+      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
+   </owl:NamedIndividual>
+
+
+
+  <!--
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Ljubno
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+    -->
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-si;Ljubno">
+      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
+      <rdfs:label>Ljubno</rdfs:label>
+      <skos:definition>The municipality of Ljubno in the country of Slovenia</skos:definition>
+      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Slovenia"/>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sl">Ljubno</lcc-cr:hasLocalShortName>
+      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-si;Municipality"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
+   </owl:NamedIndividual>
+
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-si;SI-062">
+      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
+      <skos:definition>subdivision code for the municipality of Ljubno in the country of Slovenia</skos:definition>
+      <rdfs:label>SI-062</rdfs:label>
+      <lcc-lr:hasTag rdf:datatype="&xsd;string">SI-062</lcc-lr:hasTag>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-si;Ljubno"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-si;Ljubno"/>
+      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
+   </owl:NamedIndividual>
+
+
+
+  <!--
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Logatec
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+    -->
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-si;Logatec">
+      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
+      <rdfs:label>Logatec</rdfs:label>
+      <skos:definition>The municipality of Logatec in the country of Slovenia</skos:definition>
+      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Slovenia"/>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sl">Logatec</lcc-cr:hasLocalShortName>
+      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-si;Municipality"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
+   </owl:NamedIndividual>
+
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-si;SI-064">
+      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
+      <skos:definition>subdivision code for the municipality of Logatec in the country of Slovenia</skos:definition>
+      <rdfs:label>SI-064</rdfs:label>
+      <lcc-lr:hasTag rdf:datatype="&xsd;string">SI-064</lcc-lr:hasTag>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-si;Logatec"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-si;Logatec"/>
+      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
+   </owl:NamedIndividual>
+
+
+
+  <!--
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Rogašovci
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+    -->
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-si;Rogasovci">
+      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
+      <rdfs:label>Rogašovci</rdfs:label>
+      <skos:definition>The municipality of Rogašovci in the country of Slovenia</skos:definition>
+      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Slovenia"/>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sl">Rogašovci</lcc-cr:hasLocalShortName>
+      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-si;Municipality"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
+   </owl:NamedIndividual>
+
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-si;SI-105">
+      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
+      <skos:definition>subdivision code for the municipality of Rogašovci in the country of Slovenia</skos:definition>
+      <rdfs:label>SI-105</rdfs:label>
+      <lcc-lr:hasTag rdf:datatype="&xsd;string">SI-105</lcc-lr:hasTag>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-si;Rogasovci"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-si;Rogasovci"/>
+      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
+   </owl:NamedIndividual>
+
+
+
+  <!--
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Slovenj Gradec
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+    -->
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-si;SlovenjGradec">
+      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
+      <rdfs:label>Slovenj Gradec</rdfs:label>
+      <skos:definition>The municipality of Slovenj Gradec in the country of Slovenia</skos:definition>
+      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Slovenia"/>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sl">Slovenj Gradec</lcc-cr:hasLocalShortName>
+      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-si;Municipality"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
+   </owl:NamedIndividual>
+
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-si;SI-112">
+      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
+      <skos:definition>subdivision code for the municipality of Slovenj Gradec in the country of Slovenia</skos:definition>
+      <rdfs:label>SI-112</rdfs:label>
+      <lcc-lr:hasTag rdf:datatype="&xsd;string">SI-112</lcc-lr:hasTag>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-si;SlovenjGradec"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-si;SlovenjGradec"/>
+      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
+   </owl:NamedIndividual>
+
+
+
+  <!--
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Škofja Loka
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+    -->
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-si;SkofjaLoka">
+      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
+      <rdfs:label>Škofja Loka</rdfs:label>
+      <skos:definition>The municipality of Škofja Loka in the country of Slovenia</skos:definition>
+      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Slovenia"/>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sl">Škofja Loka</lcc-cr:hasLocalShortName>
+      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-si;Municipality"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
+   </owl:NamedIndividual>
+
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-si;SI-122">
+      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
+      <skos:definition>subdivision code for the municipality of Škofja Loka in the country of Slovenia</skos:definition>
+      <rdfs:label>SI-122</rdfs:label>
+      <lcc-lr:hasTag rdf:datatype="&xsd;string">SI-122</lcc-lr:hasTag>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-si;SkofjaLoka"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-si;SkofjaLoka"/>
+      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
+   </owl:NamedIndividual>
+
+
+
+  <!--
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Tolmin
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+    -->
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-si;Tolmin">
+      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
+      <rdfs:label>Tolmin</rdfs:label>
+      <skos:definition>The municipality of Tolmin in the country of Slovenia</skos:definition>
+      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Slovenia"/>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sl">Tolmin</lcc-cr:hasLocalShortName>
+      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-si;Municipality"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
+   </owl:NamedIndividual>
+
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-si;SI-128">
+      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
+      <skos:definition>subdivision code for the municipality of Tolmin in the country of Slovenia</skos:definition>
+      <rdfs:label>SI-128</rdfs:label>
+      <lcc-lr:hasTag rdf:datatype="&xsd;string">SI-128</lcc-lr:hasTag>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-si;Tolmin"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-si;Tolmin"/>
+      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
+   </owl:NamedIndividual>
+
+
+
+  <!--
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Vuzenica
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+    -->
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-si;Vuzenica">
+      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
+      <rdfs:label>Vuzenica</rdfs:label>
+      <skos:definition>The municipality of Vuzenica in the country of Slovenia</skos:definition>
+      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Slovenia"/>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sl">Vuzenica</lcc-cr:hasLocalShortName>
+      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-si;Municipality"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
+   </owl:NamedIndividual>
+
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-si;SI-141">
+      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
+      <skos:definition>subdivision code for the municipality of Vuzenica in the country of Slovenia</skos:definition>
+      <rdfs:label>SI-141</rdfs:label>
+      <lcc-lr:hasTag rdf:datatype="&xsd;string">SI-141</lcc-lr:hasTag>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-si;Vuzenica"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-si;Vuzenica"/>
+      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
+   </owl:NamedIndividual>
+
+
+
+  <!--
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Zreče
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+    -->
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-si;Zrece">
+      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
+      <rdfs:label>Zreče</rdfs:label>
+      <skos:definition>The municipality of Zreče in the country of Slovenia</skos:definition>
+      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Slovenia"/>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sl">Zreče</lcc-cr:hasLocalShortName>
+      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-si;Municipality"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
+   </owl:NamedIndividual>
+
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-si;SI-144">
+      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
+      <skos:definition>subdivision code for the municipality of Zreče in the country of Slovenia</skos:definition>
+      <rdfs:label>SI-144</rdfs:label>
+      <lcc-lr:hasTag rdf:datatype="&xsd;string">SI-144</lcc-lr:hasTag>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-si;Zrece"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-si;Zrece"/>
+      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
+   </owl:NamedIndividual>
+
+
+
+  <!--
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Lovrenc na Pohorju
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+    -->
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-si;LovrencNaPohorju">
+      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
+      <rdfs:label>Lovrenc na Pohorju</rdfs:label>
+      <skos:definition>The municipality of Lovrenc na Pohorju in the country of Slovenia</skos:definition>
+      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Slovenia"/>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sl">Lovrenc na Pohorju</lcc-cr:hasLocalShortName>
+      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-si;Municipality"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
+   </owl:NamedIndividual>
+
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-si;SI-167">
+      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
+      <skos:definition>subdivision code for the municipality of Lovrenc na Pohorju in the country of Slovenia</skos:definition>
+      <rdfs:label>SI-167</rdfs:label>
+      <lcc-lr:hasTag rdf:datatype="&xsd;string">SI-167</lcc-lr:hasTag>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-si;LovrencNaPohorju"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-si;LovrencNaPohorju"/>
+      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
+   </owl:NamedIndividual>
+
+
+
+  <!--
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Miklavž na Dravskem Polju
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+    -->
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-si;MiklavzNaDravskemPolju">
+      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
+      <rdfs:label>Miklavž na Dravskem Polju</rdfs:label>
+      <skos:definition>The municipality of Miklavž na Dravskem Polju in the country of Slovenia</skos:definition>
+      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Slovenia"/>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sl">Miklavž na Dravskem Polju</lcc-cr:hasLocalShortName>
+      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-si;Municipality"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
+   </owl:NamedIndividual>
+
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-si;SI-169">
+      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
+      <skos:definition>subdivision code for the municipality of Miklavž na Dravskem Polju in the country of Slovenia</skos:definition>
+      <rdfs:label>SI-169</rdfs:label>
+      <lcc-lr:hasTag rdf:datatype="&xsd;string">SI-169</lcc-lr:hasTag>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-si;MiklavzNaDravskemPolju"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-si;MiklavzNaDravskemPolju"/>
+      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
+   </owl:NamedIndividual>
+
+
+
+  <!--
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Žužemberk
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+    -->
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-si;Zuzemberk">
+      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
+      <rdfs:label>Žužemberk</rdfs:label>
+      <skos:definition>The municipality of Žužemberk in the country of Slovenia</skos:definition>
+      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Slovenia"/>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sl">Žužemberk</lcc-cr:hasLocalShortName>
+      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-si;Municipality"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
+   </owl:NamedIndividual>
+
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-si;SI-193">
+      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
+      <skos:definition>subdivision code for the municipality of Žužemberk in the country of Slovenia</skos:definition>
+      <rdfs:label>SI-193</rdfs:label>
+      <lcc-lr:hasTag rdf:datatype="&xsd;string">SI-193</lcc-lr:hasTag>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-si;Zuzemberk"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-si;Zuzemberk"/>
+      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
+   </owl:NamedIndividual>
+
+
+
+  <!--
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Središče ob Dravi
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+    -->
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-si;SredisceObDravi">
+      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
+      <rdfs:label>Središče ob Dravi</rdfs:label>
+      <skos:definition>The municipality of Središče ob Dravi in the country of Slovenia</skos:definition>
+      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Slovenia"/>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sl">Središče ob Dravi</lcc-cr:hasLocalShortName>
+      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-si;Municipality"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
+   </owl:NamedIndividual>
+
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-si;SI-202">
+      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
+      <skos:definition>subdivision code for the municipality of Središče ob Dravi in the country of Slovenia</skos:definition>
+      <rdfs:label>SI-202</rdfs:label>
+      <lcc-lr:hasTag rdf:datatype="&xsd;string">SI-202</lcc-lr:hasTag>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-si;SredisceObDravi"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-si;SredisceObDravi"/>
       <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
    </owl:NamedIndividual>

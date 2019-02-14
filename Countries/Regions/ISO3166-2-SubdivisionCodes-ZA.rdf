@@ -36,9 +36,9 @@
 
       <!-- Curation and Rights Metadata for the LCC ISO 3166-2 Subdivision Codes for South Africa Ontology -->
 
-      <sm:copyright rdf:datatype="&xsd;string">Copyright (c) 2015-2017 Object Management Group, Inc.
-          Copyright (c) 2015-2017 Adaptive Inc.
-          Copyright (c) 2015-2017 Thematix Partners LLC
+      <sm:copyright rdf:datatype="&xsd;string">Copyright (c) 2015-2019 Object Management Group, Inc.
+          Copyright (c) 2015-2019 Adaptive Inc.
+          Copyright (c) 2015-2019 Thematix Partners LLC
           Copyright (c) 2015-2017 Unisys
         </sm:copyright>
       <dct:license rdf:resource="&sm;MITLicense"/>
@@ -47,9 +47,9 @@
 
       <sm:filename rdf:datatype="&xsd;string">ISO3166-2-SubdivisionCodes-ZA.rdf</sm:filename>
       <sm:fileAbbreviation rdf:datatype="&xsd;string">lcc-3166-2-za</sm:fileAbbreviation>
-      <owl:versionIRI rdf:resource="http://www.omg.org/spec/LCC/20170801/Countries/Regions/ISO3166-2-SubdivisionCodes-ZA/"/>
+      <owl:versionIRI rdf:resource="http://www.omg.org/spec/LCC/20190301/Countries/Regions/ISO3166-2-SubdivisionCodes-ZA/"/>
       <sm:fileAbstract rdf:datatype="&xsd;string">This ontology represents the subset of the ISO 3166 standard that includes the actual ISO 3166-2 subdivision codes for South Africa, with the ontology and codes for the other parts of the standard represented in models that this ontology depends on.</sm:fileAbstract>
-      <dct:issued rdf:datatype="&xsd;dateTime">2017-07-20T22:26:02.631805+02:00</dct:issued>
+      <dct:issued rdf:datatype="&xsd;dateTime">2019-02-14T00:48:51.124818+01:00</dct:issued>
 
       <sm:dependsOn rdf:datatype="&xsd;anyURI">http://www.omg.org/spec/LCC/Languages/LanguageRepresentation/</sm:dependsOn>
       <sm:dependsOn rdf:datatype="&xsd;anyURI">http://www.omg.org/spec/LCC/Countries/CountryRepresentation/</sm:dependsOn>
@@ -92,84 +92,6 @@
     //
     ///////////////////////////////////////////////////////////////////////////////////////
     -->
-
-
-  <!--
-    ///////////////////////////////////////////////////////////////////////////////////////
-    //
-    // Limpopo
-    //
-    ///////////////////////////////////////////////////////////////////////////////////////
-    -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-za;Limpopo">
-      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>Limpopo</rdfs:label>
-      <skos:definition>The province of Limpopo in the country of South Africa</skos:definition>
-      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;SouthAfrica"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ve">Vhembe</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="xh">Limpopo</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="zu">Limpopo</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Limpopo</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="af">Limpopo</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="nr">Limpopo</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string">Limpopo</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="st">Limpopo</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ss">Limpopo</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ts">Limpopo</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="tn">Limpopo</lcc-cr:hasLocalShortName>
-      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-za;Province"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-za;"/>
-   </owl:NamedIndividual>
-
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-za;ZA-LP">
-      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the province of Limpopo in the country of South Africa</skos:definition>
-      <rdfs:label>ZA-LP</rdfs:label>
-      <lcc-lr:hasTag rdf:datatype="&xsd;string">ZA-LP</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-2-za;Limpopo"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-2-za;Limpopo"/>
-      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-za;"/>
-   </owl:NamedIndividual>
-
-
-
-  <!--
-    ///////////////////////////////////////////////////////////////////////////////////////
-    //
-    // North-West
-    //
-    ///////////////////////////////////////////////////////////////////////////////////////
-    -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-za;North-West">
-      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>North-West</rdfs:label>
-      <skos:definition>The province of North-West in the country of South Africa</skos:definition>
-      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;SouthAfrica"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="af">Noordwes</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">North-West</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="zu">Nyakatho-Ntshonalanga</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="xh">Mntla-Ntshona</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="tn">Bokone Bophirima</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ts">N'walungu-Vupeladyambu</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="st">Leboya (le) Bophirima</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string">Lebowa Bodikela</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="nr">iTlhagwini-Tjhingalanga</lcc-cr:hasLocalShortName>
-      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-za;Province"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-za;"/>
-   </owl:NamedIndividual>
-
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-za;ZA-NW">
-      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the province of North-West in the country of South Africa</skos:definition>
-      <rdfs:label>ZA-NW</rdfs:label>
-      <lcc-lr:hasTag rdf:datatype="&xsd;string">ZA-NW</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-2-za;North-West"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-2-za;North-West"/>
-      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-za;"/>
-   </owl:NamedIndividual>
-
 
 
   <!--
@@ -451,6 +373,84 @@
   <!--
     ///////////////////////////////////////////////////////////////////////////////////////
     //
+    // Limpopo
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+    -->
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-za;Limpopo">
+      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
+      <rdfs:label>Limpopo</rdfs:label>
+      <skos:definition>The province of Limpopo in the country of South Africa</skos:definition>
+      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;SouthAfrica"/>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ve">Vhembe</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="xh">Limpopo</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="zu">Limpopo</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Limpopo</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="af">Limpopo</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="nr">Limpopo</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string">Limpopo</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="st">Limpopo</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ss">Limpopo</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ts">Limpopo</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="tn">Limpopo</lcc-cr:hasLocalShortName>
+      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-za;Province"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-za;"/>
+   </owl:NamedIndividual>
+
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-za;ZA-LP">
+      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
+      <skos:definition>subdivision code for the province of Limpopo in the country of South Africa</skos:definition>
+      <rdfs:label>ZA-LP</rdfs:label>
+      <lcc-lr:hasTag rdf:datatype="&xsd;string">ZA-LP</lcc-lr:hasTag>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-za;Limpopo"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-za;Limpopo"/>
+      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-za;"/>
+   </owl:NamedIndividual>
+
+
+
+  <!--
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // North-West
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+    -->
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-za;North-West">
+      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
+      <rdfs:label>North-West</rdfs:label>
+      <skos:definition>The province of North-West in the country of South Africa</skos:definition>
+      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;SouthAfrica"/>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="af">Noordwes</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">North-West</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="zu">Nyakatho-Ntshonalanga</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="xh">Mntla-Ntshona</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="tn">Bokone Bophirima</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ts">N'walungu-Vupeladyambu</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="st">Leboya (le) Bophirima</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string">Lebowa Bodikela</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="nr">iTlhagwini-Tjhingalanga</lcc-cr:hasLocalShortName>
+      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-za;Province"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-za;"/>
+   </owl:NamedIndividual>
+
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-za;ZA-NW">
+      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
+      <skos:definition>subdivision code for the province of North-West in the country of South Africa</skos:definition>
+      <rdfs:label>ZA-NW</rdfs:label>
+      <lcc-lr:hasTag rdf:datatype="&xsd;string">ZA-NW</lcc-lr:hasTag>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-za;North-West"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-za;North-West"/>
+      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-za;"/>
+   </owl:NamedIndividual>
+
+
+
+  <!--
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
     // Marion Island
     //
     ///////////////////////////////////////////////////////////////////////////////////////
@@ -460,8 +460,8 @@
       <rdfs:label>Marion Island</rdfs:label>
       <skos:definition>The territory of Marion Island in the country of South Africa</skos:definition>
       <lcc-cr:hasNumericRegionCode rdf:datatype="&xsd;string">1120</lcc-cr:hasNumericRegionCode>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Marion Island</lcc-cr:hasEnglishShortName>
       <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">l'Île Marion</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Marion Island</lcc-cr:hasEnglishShortName>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;SouthAfrica"/>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2;Territory"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-za;"/>

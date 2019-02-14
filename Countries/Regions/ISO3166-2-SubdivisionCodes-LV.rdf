@@ -36,9 +36,9 @@
 
       <!-- Curation and Rights Metadata for the LCC ISO 3166-2 Subdivision Codes for Latvia Ontology -->
 
-      <sm:copyright rdf:datatype="&xsd;string">Copyright (c) 2015-2017 Object Management Group, Inc.
-          Copyright (c) 2015-2017 Adaptive Inc.
-          Copyright (c) 2015-2017 Thematix Partners LLC
+      <sm:copyright rdf:datatype="&xsd;string">Copyright (c) 2015-2019 Object Management Group, Inc.
+          Copyright (c) 2015-2019 Adaptive Inc.
+          Copyright (c) 2015-2019 Thematix Partners LLC
           Copyright (c) 2015-2017 Unisys
         </sm:copyright>
       <dct:license rdf:resource="&sm;MITLicense"/>
@@ -47,9 +47,9 @@
 
       <sm:filename rdf:datatype="&xsd;string">ISO3166-2-SubdivisionCodes-LV.rdf</sm:filename>
       <sm:fileAbbreviation rdf:datatype="&xsd;string">lcc-3166-2-lv</sm:fileAbbreviation>
-      <owl:versionIRI rdf:resource="http://www.omg.org/spec/LCC/20170801/Countries/Regions/ISO3166-2-SubdivisionCodes-LV/"/>
+      <owl:versionIRI rdf:resource="http://www.omg.org/spec/LCC/20190301/Countries/Regions/ISO3166-2-SubdivisionCodes-LV/"/>
       <sm:fileAbstract rdf:datatype="&xsd;string">This ontology represents the subset of the ISO 3166 standard that includes the actual ISO 3166-2 subdivision codes for Latvia, with the ontology and codes for the other parts of the standard represented in models that this ontology depends on.</sm:fileAbstract>
-      <dct:issued rdf:datatype="&xsd;dateTime">2017-07-20T22:26:02.631805+02:00</dct:issued>
+      <dct:issued rdf:datatype="&xsd;dateTime">2019-02-14T00:48:51.124818+01:00</dct:issued>
 
       <sm:dependsOn rdf:datatype="&xsd;anyURI">http://www.omg.org/spec/LCC/Languages/LanguageRepresentation/</sm:dependsOn>
       <sm:dependsOn rdf:datatype="&xsd;anyURI">http://www.omg.org/spec/LCC/Countries/CountryRepresentation/</sm:dependsOn>
@@ -99,126 +99,6 @@
     //
     ///////////////////////////////////////////////////////////////////////////////////////
     -->
-
-
-  <!--
-    ///////////////////////////////////////////////////////////////////////////////////////
-    //
-    // Priekules novads
-    //
-    ///////////////////////////////////////////////////////////////////////////////////////
-    -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-lv;PriekulesNovads">
-      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>Priekules novads</rdfs:label>
-      <skos:definition>The municipality of Priekules novads in the country of Latvia</skos:definition>
-      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Latvia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="lv">Priekules novads</lcc-cr:hasLocalShortName>
-      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-lv;Municipality"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-lv;"/>
-   </owl:NamedIndividual>
-
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-lv;LV-074">
-      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the municipality of Priekules novads in the country of Latvia</skos:definition>
-      <rdfs:label>LV-074</rdfs:label>
-      <lcc-lr:hasTag rdf:datatype="&xsd;string">LV-074</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-2-lv;PriekulesNovads"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-2-lv;PriekulesNovads"/>
-      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-lv;"/>
-   </owl:NamedIndividual>
-
-
-
-  <!--
-    ///////////////////////////////////////////////////////////////////////////////////////
-    //
-    // Rūjienas novads
-    //
-    ///////////////////////////////////////////////////////////////////////////////////////
-    -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-lv;RujienasNovads">
-      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>Rūjienas novads</rdfs:label>
-      <skos:definition>The municipality of Rūjienas novads in the country of Latvia</skos:definition>
-      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Latvia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="lv">Rūjienas novads</lcc-cr:hasLocalShortName>
-      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-lv;Municipality"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-lv;"/>
-   </owl:NamedIndividual>
-
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-lv;LV-084">
-      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the municipality of Rūjienas novads in the country of Latvia</skos:definition>
-      <rdfs:label>LV-084</rdfs:label>
-      <lcc-lr:hasTag rdf:datatype="&xsd;string">LV-084</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-2-lv;RujienasNovads"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-2-lv;RujienasNovads"/>
-      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-lv;"/>
-   </owl:NamedIndividual>
-
-
-
-  <!--
-    ///////////////////////////////////////////////////////////////////////////////////////
-    //
-    // Ventspils novads
-    //
-    ///////////////////////////////////////////////////////////////////////////////////////
-    -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-lv;VentspilsNovads">
-      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>Ventspils novads</rdfs:label>
-      <skos:definition>The municipality of Ventspils novads in the country of Latvia</skos:definition>
-      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Latvia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="lv">Ventspils novads</lcc-cr:hasLocalShortName>
-      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-lv;Municipality"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-lv;"/>
-   </owl:NamedIndividual>
-
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-lv;LV-106">
-      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the municipality of Ventspils novads in the country of Latvia</skos:definition>
-      <rdfs:label>LV-106</rdfs:label>
-      <lcc-lr:hasTag rdf:datatype="&xsd;string">LV-106</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-2-lv;VentspilsNovads"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-2-lv;VentspilsNovads"/>
-      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-lv;"/>
-   </owl:NamedIndividual>
-
-
-
-  <!--
-    ///////////////////////////////////////////////////////////////////////////////////////
-    //
-    // Viļānu novads
-    //
-    ///////////////////////////////////////////////////////////////////////////////////////
-    -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-lv;VilanuNovads">
-      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>Viļānu novads</rdfs:label>
-      <skos:definition>The municipality of Viļānu novads in the country of Latvia</skos:definition>
-      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Latvia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="lv">Viļānu novads</lcc-cr:hasLocalShortName>
-      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-lv;Municipality"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-lv;"/>
-   </owl:NamedIndividual>
-
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-lv;LV-109">
-      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the municipality of Viļānu novads in the country of Latvia</skos:definition>
-      <rdfs:label>LV-109</rdfs:label>
-      <lcc-lr:hasTag rdf:datatype="&xsd;string">LV-109</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-2-lv;VilanuNovads"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-2-lv;VilanuNovads"/>
-      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-lv;"/>
-   </owl:NamedIndividual>
-
 
 
   <!--
@@ -3665,6 +3545,126 @@
       <lcc-lr:hasTag rdf:datatype="&xsd;string">LV-062</lcc-lr:hasTag>
       <lcc-lr:denotes rdf:resource="&lcc-3166-2-lv;MarupesNovads"/>
       <lcc-lr:identifies rdf:resource="&lcc-3166-2-lv;MarupesNovads"/>
+      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-lv;"/>
+   </owl:NamedIndividual>
+
+
+
+  <!--
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Priekules novads
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+    -->
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-lv;PriekulesNovads">
+      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
+      <rdfs:label>Priekules novads</rdfs:label>
+      <skos:definition>The municipality of Priekules novads in the country of Latvia</skos:definition>
+      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Latvia"/>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="lv">Priekules novads</lcc-cr:hasLocalShortName>
+      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-lv;Municipality"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-lv;"/>
+   </owl:NamedIndividual>
+
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-lv;LV-074">
+      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
+      <skos:definition>subdivision code for the municipality of Priekules novads in the country of Latvia</skos:definition>
+      <rdfs:label>LV-074</rdfs:label>
+      <lcc-lr:hasTag rdf:datatype="&xsd;string">LV-074</lcc-lr:hasTag>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-lv;PriekulesNovads"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-lv;PriekulesNovads"/>
+      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-lv;"/>
+   </owl:NamedIndividual>
+
+
+
+  <!--
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Rūjienas novads
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+    -->
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-lv;RujienasNovads">
+      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
+      <rdfs:label>Rūjienas novads</rdfs:label>
+      <skos:definition>The municipality of Rūjienas novads in the country of Latvia</skos:definition>
+      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Latvia"/>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="lv">Rūjienas novads</lcc-cr:hasLocalShortName>
+      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-lv;Municipality"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-lv;"/>
+   </owl:NamedIndividual>
+
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-lv;LV-084">
+      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
+      <skos:definition>subdivision code for the municipality of Rūjienas novads in the country of Latvia</skos:definition>
+      <rdfs:label>LV-084</rdfs:label>
+      <lcc-lr:hasTag rdf:datatype="&xsd;string">LV-084</lcc-lr:hasTag>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-lv;RujienasNovads"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-lv;RujienasNovads"/>
+      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-lv;"/>
+   </owl:NamedIndividual>
+
+
+
+  <!--
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Ventspils novads
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+    -->
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-lv;VentspilsNovads">
+      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
+      <rdfs:label>Ventspils novads</rdfs:label>
+      <skos:definition>The municipality of Ventspils novads in the country of Latvia</skos:definition>
+      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Latvia"/>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="lv">Ventspils novads</lcc-cr:hasLocalShortName>
+      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-lv;Municipality"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-lv;"/>
+   </owl:NamedIndividual>
+
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-lv;LV-106">
+      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
+      <skos:definition>subdivision code for the municipality of Ventspils novads in the country of Latvia</skos:definition>
+      <rdfs:label>LV-106</rdfs:label>
+      <lcc-lr:hasTag rdf:datatype="&xsd;string">LV-106</lcc-lr:hasTag>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-lv;VentspilsNovads"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-lv;VentspilsNovads"/>
+      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-lv;"/>
+   </owl:NamedIndividual>
+
+
+
+  <!--
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Viļānu novads
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+    -->
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-lv;VilanuNovads">
+      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
+      <rdfs:label>Viļānu novads</rdfs:label>
+      <skos:definition>The municipality of Viļānu novads in the country of Latvia</skos:definition>
+      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Latvia"/>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="lv">Viļānu novads</lcc-cr:hasLocalShortName>
+      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-lv;Municipality"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-lv;"/>
+   </owl:NamedIndividual>
+
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-lv;LV-109">
+      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
+      <skos:definition>subdivision code for the municipality of Viļānu novads in the country of Latvia</skos:definition>
+      <rdfs:label>LV-109</rdfs:label>
+      <lcc-lr:hasTag rdf:datatype="&xsd;string">LV-109</lcc-lr:hasTag>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-lv;VilanuNovads"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-lv;VilanuNovads"/>
       <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-lv;"/>
    </owl:NamedIndividual>

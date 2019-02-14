@@ -36,9 +36,9 @@
 
       <!-- Curation and Rights Metadata for the LCC ISO 3166-2 Subdivision Codes for South Sudan Ontology -->
 
-      <sm:copyright rdf:datatype="&xsd;string">Copyright (c) 2015-2017 Object Management Group, Inc.
-          Copyright (c) 2015-2017 Adaptive Inc.
-          Copyright (c) 2015-2017 Thematix Partners LLC
+      <sm:copyright rdf:datatype="&xsd;string">Copyright (c) 2015-2019 Object Management Group, Inc.
+          Copyright (c) 2015-2019 Adaptive Inc.
+          Copyright (c) 2015-2019 Thematix Partners LLC
           Copyright (c) 2015-2017 Unisys
         </sm:copyright>
       <dct:license rdf:resource="&sm;MITLicense"/>
@@ -47,9 +47,9 @@
 
       <sm:filename rdf:datatype="&xsd;string">ISO3166-2-SubdivisionCodes-SS.rdf</sm:filename>
       <sm:fileAbbreviation rdf:datatype="&xsd;string">lcc-3166-2-ss</sm:fileAbbreviation>
-      <owl:versionIRI rdf:resource="http://www.omg.org/spec/LCC/20170801/Countries/Regions/ISO3166-2-SubdivisionCodes-SS/"/>
+      <owl:versionIRI rdf:resource="http://www.omg.org/spec/LCC/20190301/Countries/Regions/ISO3166-2-SubdivisionCodes-SS/"/>
       <sm:fileAbstract rdf:datatype="&xsd;string">This ontology represents the subset of the ISO 3166 standard that includes the actual ISO 3166-2 subdivision codes for South Sudan, with the ontology and codes for the other parts of the standard represented in models that this ontology depends on.</sm:fileAbstract>
-      <dct:issued rdf:datatype="&xsd;dateTime">2017-07-20T22:26:02.631805+02:00</dct:issued>
+      <dct:issued rdf:datatype="&xsd;dateTime">2019-02-14T00:48:51.124818+01:00</dct:issued>
 
       <sm:dependsOn rdf:datatype="&xsd;anyURI">http://www.omg.org/spec/LCC/Languages/LanguageRepresentation/</sm:dependsOn>
       <sm:dependsOn rdf:datatype="&xsd;anyURI">http://www.omg.org/spec/LCC/Countries/CountryRepresentation/</sm:dependsOn>
@@ -92,96 +92,6 @@
     //
     ///////////////////////////////////////////////////////////////////////////////////////
     -->
-
-
-  <!--
-    ///////////////////////////////////////////////////////////////////////////////////////
-    //
-    // Western Equatoria
-    //
-    ///////////////////////////////////////////////////////////////////////////////////////
-    -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-ss;WesternEquatoria">
-      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>Western Equatoria</rdfs:label>
-      <skos:definition>The state of Western Equatoria in the country of South Sudan</skos:definition>
-      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;SouthSudan"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Western Equatoria</lcc-cr:hasEnglishShortName>
-      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ss;State"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ss;"/>
-   </owl:NamedIndividual>
-
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-ss;SS-EW">
-      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the state of Western Equatoria in the country of South Sudan</skos:definition>
-      <rdfs:label>SS-EW</rdfs:label>
-      <lcc-lr:hasTag rdf:datatype="&xsd;string">SS-EW</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-2-ss;WesternEquatoria"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-2-ss;WesternEquatoria"/>
-      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ss;"/>
-   </owl:NamedIndividual>
-
-
-
-  <!--
-    ///////////////////////////////////////////////////////////////////////////////////////
-    //
-    // Jonglei
-    //
-    ///////////////////////////////////////////////////////////////////////////////////////
-    -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-ss;Jonglei">
-      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>Jonglei</rdfs:label>
-      <skos:definition>The state of Jonglei in the country of South Sudan</skos:definition>
-      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;SouthSudan"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Jonglei</lcc-cr:hasEnglishShortName>
-      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ss;State"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ss;"/>
-   </owl:NamedIndividual>
-
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-ss;SS-JG">
-      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the state of Jonglei in the country of South Sudan</skos:definition>
-      <rdfs:label>SS-JG</rdfs:label>
-      <lcc-lr:hasTag rdf:datatype="&xsd;string">SS-JG</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-2-ss;Jonglei"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-2-ss;Jonglei"/>
-      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ss;"/>
-   </owl:NamedIndividual>
-
-
-
-  <!--
-    ///////////////////////////////////////////////////////////////////////////////////////
-    //
-    // Lakes
-    //
-    ///////////////////////////////////////////////////////////////////////////////////////
-    -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-ss;Lakes">
-      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>Lakes</rdfs:label>
-      <skos:definition>The state of Lakes in the country of South Sudan</skos:definition>
-      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;SouthSudan"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Lakes</lcc-cr:hasEnglishShortName>
-      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ss;State"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ss;"/>
-   </owl:NamedIndividual>
-
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-ss;SS-LK">
-      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the state of Lakes in the country of South Sudan</skos:definition>
-      <rdfs:label>SS-LK</rdfs:label>
-      <lcc-lr:hasTag rdf:datatype="&xsd;string">SS-LK</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-2-ss;Lakes"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-2-ss;Lakes"/>
-      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ss;"/>
-   </owl:NamedIndividual>
-
 
 
   <!--
@@ -388,6 +298,96 @@
       <lcc-lr:hasTag rdf:datatype="&xsd;string">SS-EC</lcc-lr:hasTag>
       <lcc-lr:denotes rdf:resource="&lcc-3166-2-ss;CentralEquatoria"/>
       <lcc-lr:identifies rdf:resource="&lcc-3166-2-ss;CentralEquatoria"/>
+      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ss;"/>
+   </owl:NamedIndividual>
+
+
+
+  <!--
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Western Equatoria
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+    -->
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-ss;WesternEquatoria">
+      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
+      <rdfs:label>Western Equatoria</rdfs:label>
+      <skos:definition>The state of Western Equatoria in the country of South Sudan</skos:definition>
+      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;SouthSudan"/>
+      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Western Equatoria</lcc-cr:hasEnglishShortName>
+      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ss;State"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ss;"/>
+   </owl:NamedIndividual>
+
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-ss;SS-EW">
+      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
+      <skos:definition>subdivision code for the state of Western Equatoria in the country of South Sudan</skos:definition>
+      <rdfs:label>SS-EW</rdfs:label>
+      <lcc-lr:hasTag rdf:datatype="&xsd;string">SS-EW</lcc-lr:hasTag>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-ss;WesternEquatoria"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-ss;WesternEquatoria"/>
+      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ss;"/>
+   </owl:NamedIndividual>
+
+
+
+  <!--
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Jonglei
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+    -->
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-ss;Jonglei">
+      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
+      <rdfs:label>Jonglei</rdfs:label>
+      <skos:definition>The state of Jonglei in the country of South Sudan</skos:definition>
+      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;SouthSudan"/>
+      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Jonglei</lcc-cr:hasEnglishShortName>
+      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ss;State"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ss;"/>
+   </owl:NamedIndividual>
+
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-ss;SS-JG">
+      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
+      <skos:definition>subdivision code for the state of Jonglei in the country of South Sudan</skos:definition>
+      <rdfs:label>SS-JG</rdfs:label>
+      <lcc-lr:hasTag rdf:datatype="&xsd;string">SS-JG</lcc-lr:hasTag>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-ss;Jonglei"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-ss;Jonglei"/>
+      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ss;"/>
+   </owl:NamedIndividual>
+
+
+
+  <!--
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Lakes
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+    -->
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-ss;Lakes">
+      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
+      <rdfs:label>Lakes</rdfs:label>
+      <skos:definition>The state of Lakes in the country of South Sudan</skos:definition>
+      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;SouthSudan"/>
+      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Lakes</lcc-cr:hasEnglishShortName>
+      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ss;State"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ss;"/>
+   </owl:NamedIndividual>
+
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-ss;SS-LK">
+      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
+      <skos:definition>subdivision code for the state of Lakes in the country of South Sudan</skos:definition>
+      <rdfs:label>SS-LK</rdfs:label>
+      <lcc-lr:hasTag rdf:datatype="&xsd;string">SS-LK</lcc-lr:hasTag>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-ss;Lakes"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-ss;Lakes"/>
       <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ss;"/>
    </owl:NamedIndividual>

@@ -11,7 +11,7 @@
   <!ENTITY lcc-3166-1 "http://www.omg.org/spec/LCC/Countries/ISO3166-1-CountryCodes/" >
 ]>
 
-<!-- This file is copyright 2017, Adaptive Inc.  -->
+<!-- This file is copyright 2017-2019, Adaptive Inc.  -->
 <!-- All rights reserved. -->
 <!-- A limited license is provided to use and modify this file purely for the purpose of maintaining the ontology 
      in the OMG specification "Languages Countries and Codes (LCC)" and purely by members of the LCC Revision Task Force (RTF)  -->
@@ -212,9 +212,9 @@ exclude-result-prefixes="xsl xs">
       <xsl:value-of select="'&#x0A;&#x0A;'"/>
       <xsl:comment>Curation and Rights Metadata for the LCC ISO 3166-1 Country Codes Ontology </xsl:comment>
       <xsl:value-of select="'&#x0A;&#x0A;'"/>
-      <sm:copyright rdf:datatype="&amp;xsd;string">Copyright (c) 2015-2017 Object Management Group, Inc.
-        Copyright (c) 2015-2017 Adaptive Inc.
-        Copyright (c) 2015-2017 Thematix Partners LLC
+      <sm:copyright rdf:datatype="&amp;xsd;string">Copyright (c) 2015-2019 Object Management Group, Inc.
+        Copyright (c) 2015-2019 Adaptive Inc.
+        Copyright (c) 2015-2019 Thematix Partners LLC
         Copyright (c) 2015-2017 Unisys
       </sm:copyright>
       <dct:license rdf:datatype="&amp;xsd;anyURI">&sm;MITLicense</dct:license>       
@@ -224,7 +224,7 @@ exclude-result-prefixes="xsl xs">
       <sm:filename rdf:datatype="&amp;xsd;string">ISO3166-1-CountryCodes.rdf</sm:filename>
       <sm:fileAbbreviation rdf:datatype="&amp;xsd;string">lcc-3166-1</sm:fileAbbreviation>
       <owl:versionIRI>
-        <xsl:attribute name="rdf:resource" select="'http://www.omg.org/spec/LCC/20170801/Countries/ISO3166-1-CountryCodes/'"/>         
+        <xsl:attribute name="rdf:resource" select="'http://www.omg.org/spec/LCC/20190301/Countries/ISO3166-1-CountryCodes/'"/>         
       </owl:versionIRI> 
       <sm:fileAbstract rdf:datatype="&amp;xsd;string">This ontology represents the subset of the ISO 3166 standard that include the actual ISO 3166-1 country codes, with the ontology and codes for the other parts of the standard represented in dependent models.</sm:fileAbstract>
       <skos:changeNote rdf:datatype="&amp;xsd;string">The http://www.omg.org/spec/LCC/20151101/Countries/ISO3166-1-CountryCodes.rdf version of this ontology has been revised to reflect the issues addressed by the LCC 1.0 FTF report.  The country codes and related metadata contained herein are current as of the July 2017 revision to the online code set.</skos:changeNote>

@@ -36,9 +36,9 @@
 
       <!-- Curation and Rights Metadata for the LCC ISO 3166-2 Subdivision Codes for Nepal Ontology -->
 
-      <sm:copyright rdf:datatype="&xsd;string">Copyright (c) 2015-2017 Object Management Group, Inc.
-          Copyright (c) 2015-2017 Adaptive Inc.
-          Copyright (c) 2015-2017 Thematix Partners LLC
+      <sm:copyright rdf:datatype="&xsd;string">Copyright (c) 2015-2019 Object Management Group, Inc.
+          Copyright (c) 2015-2019 Adaptive Inc.
+          Copyright (c) 2015-2019 Thematix Partners LLC
           Copyright (c) 2015-2017 Unisys
         </sm:copyright>
       <dct:license rdf:resource="&sm;MITLicense"/>
@@ -47,9 +47,9 @@
 
       <sm:filename rdf:datatype="&xsd;string">ISO3166-2-SubdivisionCodes-NP.rdf</sm:filename>
       <sm:fileAbbreviation rdf:datatype="&xsd;string">lcc-3166-2-np</sm:fileAbbreviation>
-      <owl:versionIRI rdf:resource="http://www.omg.org/spec/LCC/20170801/Countries/Regions/ISO3166-2-SubdivisionCodes-NP/"/>
+      <owl:versionIRI rdf:resource="http://www.omg.org/spec/LCC/20190301/Countries/Regions/ISO3166-2-SubdivisionCodes-NP/"/>
       <sm:fileAbstract rdf:datatype="&xsd;string">This ontology represents the subset of the ISO 3166 standard that includes the actual ISO 3166-2 subdivision codes for Nepal, with the ontology and codes for the other parts of the standard represented in models that this ontology depends on.</sm:fileAbstract>
-      <dct:issued rdf:datatype="&xsd;dateTime">2017-07-20T22:26:02.631805+02:00</dct:issued>
+      <dct:issued rdf:datatype="&xsd;dateTime">2019-02-14T00:48:51.124818+01:00</dct:issued>
 
       <sm:dependsOn rdf:datatype="&xsd;anyURI">http://www.omg.org/spec/LCC/Languages/LanguageRepresentation/</sm:dependsOn>
       <sm:dependsOn rdf:datatype="&xsd;anyURI">http://www.omg.org/spec/LCC/Countries/CountryRepresentation/</sm:dependsOn>
@@ -90,6 +90,13 @@
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-np;"/>
    </owl:NamedIndividual>
 
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-np;Province">
+      <rdf:type rdf:resource="&lcc-cr;GeographicRegionKind"/>
+      <rdfs:label>province</rdfs:label>
+      <skos:definition>subdivision category province in the country of Nepal</skos:definition>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-np;"/>
+   </owl:NamedIndividual>
+
 
 
   <!--
@@ -104,56 +111,28 @@
   <!--
     ///////////////////////////////////////////////////////////////////////////////////////
     //
-    // Central
+    // Province 1
     //
     ///////////////////////////////////////////////////////////////////////////////////////
     -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-np;Central">
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-np;Province1">
       <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>Central</rdfs:label>
-      <skos:definition>The development region of Central in the country of Nepal</skos:definition>
+      <rdfs:label>Province 1</rdfs:label>
+      <skos:definition>The province of Province 1 in the country of Nepal</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Nepal"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Central</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ne">Madhyamanchal</lcc-cr:hasLocalShortName>
-      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-np;DevelopmentRegion"/>
+      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Province 1</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ne">Pradesh 1</lcc-cr:hasLocalShortName>
+      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-np;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-np;"/>
    </owl:NamedIndividual>
 
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-np;NP-1">
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-np;NP-P1">
       <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the development region of Central in the country of Nepal</skos:definition>
-      <rdfs:label>NP-1</rdfs:label>
-      <lcc-lr:hasTag rdf:datatype="&xsd;string">NP-1</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-2-np;Central"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-2-np;Central"/>
-      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-np;"/>
-   </owl:NamedIndividual>
-
-  <!--
-    ///////////////////////////////////////////////////////////////////////////////////////
-    //
-    // Narayani
-    //
-    ///////////////////////////////////////////////////////////////////////////////////////
-    -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-np;Narayani">
-      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>Narayani</rdfs:label>
-      <skos:definition>The zone of Narayani in the country of Nepal</skos:definition>
-      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-np;Central"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ne">Narayani</lcc-cr:hasLocalShortName>
-      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-np;Zone"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-np;"/>
-   </owl:NamedIndividual>
-
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-np;NP-NA">
-      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the zone of Narayani in the country of Nepal</skos:definition>
-      <rdfs:label>NP-NA</rdfs:label>
-      <lcc-lr:hasTag rdf:datatype="&xsd;string">NP-NA</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-2-np;Narayani"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-2-np;Narayani"/>
+      <skos:definition>subdivision code for the province of Province 1 in the country of Nepal</skos:definition>
+      <rdfs:label>NP-P1</rdfs:label>
+      <lcc-lr:hasTag rdf:datatype="&xsd;string">NP-P1</lcc-lr:hasTag>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-np;Province1"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-np;Province1"/>
       <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-np;"/>
    </owl:NamedIndividual>
@@ -163,27 +142,28 @@
   <!--
     ///////////////////////////////////////////////////////////////////////////////////////
     //
-    // Bagmati
+    // Province 2
     //
     ///////////////////////////////////////////////////////////////////////////////////////
     -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-np;Bagmati">
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-np;Province2">
       <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>Bagmati</rdfs:label>
-      <skos:definition>The zone of Bagmati in the country of Nepal</skos:definition>
-      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-np;Central"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ne">Bagmati</lcc-cr:hasLocalShortName>
-      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-np;Zone"/>
+      <rdfs:label>Province 2</rdfs:label>
+      <skos:definition>The province of Province 2 in the country of Nepal</skos:definition>
+      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Nepal"/>
+      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Province 2</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ne">Pradesh 2</lcc-cr:hasLocalShortName>
+      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-np;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-np;"/>
    </owl:NamedIndividual>
 
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-np;NP-BA">
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-np;NP-P2">
       <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the zone of Bagmati in the country of Nepal</skos:definition>
-      <rdfs:label>NP-BA</rdfs:label>
-      <lcc-lr:hasTag rdf:datatype="&xsd;string">NP-BA</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-2-np;Bagmati"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-2-np;Bagmati"/>
+      <skos:definition>subdivision code for the province of Province 2 in the country of Nepal</skos:definition>
+      <rdfs:label>NP-P2</rdfs:label>
+      <lcc-lr:hasTag rdf:datatype="&xsd;string">NP-P2</lcc-lr:hasTag>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-np;Province2"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-np;Province2"/>
       <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-np;"/>
    </owl:NamedIndividual>
@@ -193,32 +173,155 @@
   <!--
     ///////////////////////////////////////////////////////////////////////////////////////
     //
-    // Janakpur
+    // Province 3
     //
     ///////////////////////////////////////////////////////////////////////////////////////
     -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-np;Janakpur">
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-np;Province3">
       <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>Janakpur</rdfs:label>
-      <skos:definition>The zone of Janakpur in the country of Nepal</skos:definition>
-      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-np;Central"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ne">Janakpur</lcc-cr:hasLocalShortName>
-      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-np;Zone"/>
+      <rdfs:label>Province 3</rdfs:label>
+      <skos:definition>The province of Province 3 in the country of Nepal</skos:definition>
+      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Nepal"/>
+      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Province 3</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ne">Pradesh 3</lcc-cr:hasLocalShortName>
+      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-np;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-np;"/>
    </owl:NamedIndividual>
 
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-np;NP-JA">
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-np;NP-P3">
       <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the zone of Janakpur in the country of Nepal</skos:definition>
-      <rdfs:label>NP-JA</rdfs:label>
-      <lcc-lr:hasTag rdf:datatype="&xsd;string">NP-JA</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-2-np;Janakpur"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-2-np;Janakpur"/>
+      <skos:definition>subdivision code for the province of Province 3 in the country of Nepal</skos:definition>
+      <rdfs:label>NP-P3</rdfs:label>
+      <lcc-lr:hasTag rdf:datatype="&xsd;string">NP-P3</lcc-lr:hasTag>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-np;Province3"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-np;Province3"/>
       <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-np;"/>
    </owl:NamedIndividual>
 
 
+
+  <!--
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Gandaki
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+    -->
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-np;Gandaki">
+      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
+      <rdfs:label>Gandaki</rdfs:label>
+      <skos:definition>The province of Gandaki in the country of Nepal</skos:definition>
+      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Nepal"/>
+      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Gandaki</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ne">Gandaki</lcc-cr:hasLocalShortName>
+      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-np;Province"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-np;"/>
+   </owl:NamedIndividual>
+
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-np;NP-P4">
+      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
+      <skos:definition>subdivision code for the province of Gandaki in the country of Nepal</skos:definition>
+      <rdfs:label>NP-P4</rdfs:label>
+      <lcc-lr:hasTag rdf:datatype="&xsd;string">NP-P4</lcc-lr:hasTag>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-np;Gandaki"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-np;Gandaki"/>
+      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-np;"/>
+   </owl:NamedIndividual>
+
+
+
+  <!--
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Province 5
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+    -->
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-np;Province5">
+      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
+      <rdfs:label>Province 5</rdfs:label>
+      <skos:definition>The province of Province 5 in the country of Nepal</skos:definition>
+      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Nepal"/>
+      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Province 5</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ne">Pradesh 5</lcc-cr:hasLocalShortName>
+      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-np;Province"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-np;"/>
+   </owl:NamedIndividual>
+
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-np;NP-P5">
+      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
+      <skos:definition>subdivision code for the province of Province 5 in the country of Nepal</skos:definition>
+      <rdfs:label>NP-P5</rdfs:label>
+      <lcc-lr:hasTag rdf:datatype="&xsd;string">NP-P5</lcc-lr:hasTag>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-np;Province5"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-np;Province5"/>
+      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-np;"/>
+   </owl:NamedIndividual>
+
+
+
+  <!--
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Karnali
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+    -->
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-np;Karnali">
+      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
+      <rdfs:label>Karnali</rdfs:label>
+      <skos:definition>The province of Karnali in the country of Nepal</skos:definition>
+      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Nepal"/>
+      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Karnali</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ne">Karnali</lcc-cr:hasLocalShortName>
+      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-np;Province"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-np;"/>
+   </owl:NamedIndividual>
+
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-np;NP-P6">
+      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
+      <skos:definition>subdivision code for the province of Karnali in the country of Nepal</skos:definition>
+      <rdfs:label>NP-P6</rdfs:label>
+      <lcc-lr:hasTag rdf:datatype="&xsd;string">NP-P6</lcc-lr:hasTag>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-np;Karnali"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-np;Karnali"/>
+      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-np;"/>
+   </owl:NamedIndividual>
+
+
+
+  <!--
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Province 7
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+    -->
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-np;Province7">
+      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
+      <rdfs:label>Province 7</rdfs:label>
+      <skos:definition>The province of Province 7 in the country of Nepal</skos:definition>
+      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Nepal"/>
+      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Province 7</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ne">Pradesh 7</lcc-cr:hasLocalShortName>
+      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-np;Province"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-np;"/>
+   </owl:NamedIndividual>
+
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-np;NP-P7">
+      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
+      <skos:definition>subdivision code for the province of Province 7 in the country of Nepal</skos:definition>
+      <rdfs:label>NP-P7</rdfs:label>
+      <lcc-lr:hasTag rdf:datatype="&xsd;string">NP-P7</lcc-lr:hasTag>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-np;Province7"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-np;Province7"/>
+      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-np;"/>
+   </owl:NamedIndividual>
 
 
 
@@ -496,6 +599,36 @@
   <!--
     ///////////////////////////////////////////////////////////////////////////////////////
     //
+    // Mechi
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+    -->
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-np;Mechi">
+      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
+      <rdfs:label>Mechi</rdfs:label>
+      <skos:definition>The zone of Mechi in the country of Nepal</skos:definition>
+      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-np;Eastern"/>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ne">Mechi</lcc-cr:hasLocalShortName>
+      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-np;Zone"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-np;"/>
+   </owl:NamedIndividual>
+
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-np;NP-ME">
+      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
+      <skos:definition>subdivision code for the zone of Mechi in the country of Nepal</skos:definition>
+      <rdfs:label>NP-ME</rdfs:label>
+      <lcc-lr:hasTag rdf:datatype="&xsd;string">NP-ME</lcc-lr:hasTag>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-np;Mechi"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-np;Mechi"/>
+      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-np;"/>
+   </owl:NamedIndividual>
+
+
+
+  <!--
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
     // Kosi
     //
     ///////////////////////////////////////////////////////////////////////////////////////
@@ -547,36 +680,6 @@
       <lcc-lr:hasTag rdf:datatype="&xsd;string">NP-SA</lcc-lr:hasTag>
       <lcc-lr:denotes rdf:resource="&lcc-3166-2-np;Sagarmatha"/>
       <lcc-lr:identifies rdf:resource="&lcc-3166-2-np;Sagarmatha"/>
-      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-np;"/>
-   </owl:NamedIndividual>
-
-
-
-  <!--
-    ///////////////////////////////////////////////////////////////////////////////////////
-    //
-    // Mechi
-    //
-    ///////////////////////////////////////////////////////////////////////////////////////
-    -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-np;Mechi">
-      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>Mechi</rdfs:label>
-      <skos:definition>The zone of Mechi in the country of Nepal</skos:definition>
-      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-np;Eastern"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ne">Mechi</lcc-cr:hasLocalShortName>
-      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-np;Zone"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-np;"/>
-   </owl:NamedIndividual>
-
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-np;NP-ME">
-      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the zone of Mechi in the country of Nepal</skos:definition>
-      <rdfs:label>NP-ME</rdfs:label>
-      <lcc-lr:hasTag rdf:datatype="&xsd;string">NP-ME</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-2-np;Mechi"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-2-np;Mechi"/>
       <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-np;"/>
    </owl:NamedIndividual>
@@ -668,6 +771,127 @@
       <lcc-lr:hasTag rdf:datatype="&xsd;string">NP-MA</lcc-lr:hasTag>
       <lcc-lr:denotes rdf:resource="&lcc-3166-2-np;Mahakali"/>
       <lcc-lr:identifies rdf:resource="&lcc-3166-2-np;Mahakali"/>
+      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-np;"/>
+   </owl:NamedIndividual>
+
+
+
+
+
+  <!--
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Central
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+    -->
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-np;Central">
+      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
+      <rdfs:label>Central</rdfs:label>
+      <skos:definition>The development region of Central in the country of Nepal</skos:definition>
+      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Nepal"/>
+      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Central</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ne">Madhyamanchal</lcc-cr:hasLocalShortName>
+      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-np;DevelopmentRegion"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-np;"/>
+   </owl:NamedIndividual>
+
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-np;NP-1">
+      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
+      <skos:definition>subdivision code for the development region of Central in the country of Nepal</skos:definition>
+      <rdfs:label>NP-1</rdfs:label>
+      <lcc-lr:hasTag rdf:datatype="&xsd;string">NP-1</lcc-lr:hasTag>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-np;Central"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-np;Central"/>
+      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-np;"/>
+   </owl:NamedIndividual>
+
+  <!--
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Janakpur
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+    -->
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-np;Janakpur">
+      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
+      <rdfs:label>Janakpur</rdfs:label>
+      <skos:definition>The zone of Janakpur in the country of Nepal</skos:definition>
+      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-np;Central"/>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ne">Janakpur</lcc-cr:hasLocalShortName>
+      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-np;Zone"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-np;"/>
+   </owl:NamedIndividual>
+
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-np;NP-JA">
+      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
+      <skos:definition>subdivision code for the zone of Janakpur in the country of Nepal</skos:definition>
+      <rdfs:label>NP-JA</rdfs:label>
+      <lcc-lr:hasTag rdf:datatype="&xsd;string">NP-JA</lcc-lr:hasTag>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-np;Janakpur"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-np;Janakpur"/>
+      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-np;"/>
+   </owl:NamedIndividual>
+
+
+
+  <!--
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Narayani
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+    -->
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-np;Narayani">
+      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
+      <rdfs:label>Narayani</rdfs:label>
+      <skos:definition>The zone of Narayani in the country of Nepal</skos:definition>
+      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-np;Central"/>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ne">Narayani</lcc-cr:hasLocalShortName>
+      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-np;Zone"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-np;"/>
+   </owl:NamedIndividual>
+
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-np;NP-NA">
+      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
+      <skos:definition>subdivision code for the zone of Narayani in the country of Nepal</skos:definition>
+      <rdfs:label>NP-NA</rdfs:label>
+      <lcc-lr:hasTag rdf:datatype="&xsd;string">NP-NA</lcc-lr:hasTag>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-np;Narayani"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-np;Narayani"/>
+      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-np;"/>
+   </owl:NamedIndividual>
+
+
+
+  <!--
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Bagmati
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+    -->
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-np;Bagmati">
+      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
+      <rdfs:label>Bagmati</rdfs:label>
+      <skos:definition>The zone of Bagmati in the country of Nepal</skos:definition>
+      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-np;Central"/>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ne">Bagmati</lcc-cr:hasLocalShortName>
+      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-np;Zone"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-np;"/>
+   </owl:NamedIndividual>
+
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-np;NP-BA">
+      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
+      <skos:definition>subdivision code for the zone of Bagmati in the country of Nepal</skos:definition>
+      <rdfs:label>NP-BA</rdfs:label>
+      <lcc-lr:hasTag rdf:datatype="&xsd;string">NP-BA</lcc-lr:hasTag>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-np;Bagmati"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-np;Bagmati"/>
       <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-np;"/>
    </owl:NamedIndividual>

@@ -36,9 +36,9 @@
 
       <!-- Curation and Rights Metadata for the LCC ISO 3166-2 Subdivision Codes for Lao People's Democratic Republic (the) Ontology -->
 
-      <sm:copyright rdf:datatype="&xsd;string">Copyright (c) 2015-2017 Object Management Group, Inc.
-          Copyright (c) 2015-2017 Adaptive Inc.
-          Copyright (c) 2015-2017 Thematix Partners LLC
+      <sm:copyright rdf:datatype="&xsd;string">Copyright (c) 2015-2019 Object Management Group, Inc.
+          Copyright (c) 2015-2019 Adaptive Inc.
+          Copyright (c) 2015-2019 Thematix Partners LLC
           Copyright (c) 2015-2017 Unisys
         </sm:copyright>
       <dct:license rdf:resource="&sm;MITLicense"/>
@@ -47,9 +47,9 @@
 
       <sm:filename rdf:datatype="&xsd;string">ISO3166-2-SubdivisionCodes-LA.rdf</sm:filename>
       <sm:fileAbbreviation rdf:datatype="&xsd;string">lcc-3166-2-la</sm:fileAbbreviation>
-      <owl:versionIRI rdf:resource="http://www.omg.org/spec/LCC/20170801/Countries/Regions/ISO3166-2-SubdivisionCodes-LA/"/>
+      <owl:versionIRI rdf:resource="http://www.omg.org/spec/LCC/20190301/Countries/Regions/ISO3166-2-SubdivisionCodes-LA/"/>
       <sm:fileAbstract rdf:datatype="&xsd;string">This ontology represents the subset of the ISO 3166 standard that includes the actual ISO 3166-2 subdivision codes for Lao People's Democratic Republic (the), with the ontology and codes for the other parts of the standard represented in models that this ontology depends on.</sm:fileAbstract>
-      <dct:issued rdf:datatype="&xsd;dateTime">2017-07-20T22:26:02.631805+02:00</dct:issued>
+      <dct:issued rdf:datatype="&xsd;dateTime">2019-02-14T00:48:51.124818+01:00</dct:issued>
 
       <sm:dependsOn rdf:datatype="&xsd;anyURI">http://www.omg.org/spec/LCC/Languages/LanguageRepresentation/</sm:dependsOn>
       <sm:dependsOn rdf:datatype="&xsd;anyURI">http://www.omg.org/spec/LCC/Countries/CountryRepresentation/</sm:dependsOn>
@@ -99,66 +99,6 @@
     //
     ///////////////////////////////////////////////////////////////////////////////////////
     -->
-
-
-  <!--
-    ///////////////////////////////////////////////////////////////////////////////////////
-    //
-    // Xaisômboun
-    //
-    ///////////////////////////////////////////////////////////////////////////////////////
-    -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-la;Xaisomboun">
-      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>Xaisômboun</rdfs:label>
-      <skos:definition>The province of Xaisômboun in the country of Lao People's Democratic Republic (the)</skos:definition>
-      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;LaoPeoplesDemocraticRepublic"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="lo">Xaisômboun</lcc-cr:hasLocalShortName>
-      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-la;Province"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-la;"/>
-   </owl:NamedIndividual>
-
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-la;LA-XS">
-      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the province of Xaisômboun in the country of Lao People's Democratic Republic (the)</skos:definition>
-      <rdfs:label>LA-XS</rdfs:label>
-      <lcc-lr:hasTag rdf:datatype="&xsd;string">LA-XS</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-2-la;Xaisomboun"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-2-la;Xaisomboun"/>
-      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-la;"/>
-   </owl:NamedIndividual>
-
-
-
-  <!--
-    ///////////////////////////////////////////////////////////////////////////////////////
-    //
-    // Bokèo
-    //
-    ///////////////////////////////////////////////////////////////////////////////////////
-    -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-la;Bokeo">
-      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>Bokèo</rdfs:label>
-      <skos:definition>The province of Bokèo in the country of Lao People's Democratic Republic (the)</skos:definition>
-      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;LaoPeoplesDemocraticRepublic"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="lo">Bokèo</lcc-cr:hasLocalShortName>
-      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-la;Province"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-la;"/>
-   </owl:NamedIndividual>
-
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-la;LA-BK">
-      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the province of Bokèo in the country of Lao People's Democratic Republic (the)</skos:definition>
-      <rdfs:label>LA-BK</rdfs:label>
-      <lcc-lr:hasTag rdf:datatype="&xsd;string">LA-BK</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-2-la;Bokeo"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-2-la;Bokeo"/>
-      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-la;"/>
-   </owl:NamedIndividual>
-
 
 
   <!--
@@ -464,6 +404,36 @@
   <!--
     ///////////////////////////////////////////////////////////////////////////////////////
     //
+    // Bokèo
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+    -->
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-la;Bokeo">
+      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
+      <rdfs:label>Bokèo</rdfs:label>
+      <skos:definition>The province of Bokèo in the country of Lao People's Democratic Republic (the)</skos:definition>
+      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;LaoPeoplesDemocraticRepublic"/>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="lo">Bokèo</lcc-cr:hasLocalShortName>
+      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-la;Province"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-la;"/>
+   </owl:NamedIndividual>
+
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-la;LA-BK">
+      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
+      <skos:definition>subdivision code for the province of Bokèo in the country of Lao People's Democratic Republic (the)</skos:definition>
+      <rdfs:label>LA-BK</rdfs:label>
+      <lcc-lr:hasTag rdf:datatype="&xsd;string">LA-BK</lcc-lr:hasTag>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-la;Bokeo"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-la;Bokeo"/>
+      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-la;"/>
+   </owl:NamedIndividual>
+
+
+
+  <!--
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
     // Savannakhét
     //
     ///////////////////////////////////////////////////////////////////////////////////////
@@ -635,6 +605,36 @@
       <lcc-lr:hasTag rdf:datatype="&xsd;string">LA-VT</lcc-lr:hasTag>
       <lcc-lr:denotes rdf:resource="&lcc-3166-2-la;Viangchan-Prefecture"/>
       <lcc-lr:identifies rdf:resource="&lcc-3166-2-la;Viangchan-Prefecture"/>
+      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-la;"/>
+   </owl:NamedIndividual>
+
+
+
+  <!--
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Xaisômboun
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+    -->
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-la;Xaisomboun">
+      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
+      <rdfs:label>Xaisômboun</rdfs:label>
+      <skos:definition>The province of Xaisômboun in the country of Lao People's Democratic Republic (the)</skos:definition>
+      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;LaoPeoplesDemocraticRepublic"/>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="lo">Xaisômboun</lcc-cr:hasLocalShortName>
+      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-la;Province"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-la;"/>
+   </owl:NamedIndividual>
+
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-la;LA-XS">
+      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
+      <skos:definition>subdivision code for the province of Xaisômboun in the country of Lao People's Democratic Republic (the)</skos:definition>
+      <rdfs:label>LA-XS</rdfs:label>
+      <lcc-lr:hasTag rdf:datatype="&xsd;string">LA-XS</lcc-lr:hasTag>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-la;Xaisomboun"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-la;Xaisomboun"/>
       <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-la;"/>
    </owl:NamedIndividual>

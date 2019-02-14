@@ -36,9 +36,9 @@
 
       <!-- Curation and Rights Metadata for the LCC ISO 3166-2 Subdivision Codes for Congo Democratic Republic Of Ontology -->
 
-      <sm:copyright rdf:datatype="&xsd;string">Copyright (c) 2015-2017 Object Management Group, Inc.
-          Copyright (c) 2015-2017 Adaptive Inc.
-          Copyright (c) 2015-2017 Thematix Partners LLC
+      <sm:copyright rdf:datatype="&xsd;string">Copyright (c) 2015-2019 Object Management Group, Inc.
+          Copyright (c) 2015-2019 Adaptive Inc.
+          Copyright (c) 2015-2019 Thematix Partners LLC
           Copyright (c) 2015-2017 Unisys
         </sm:copyright>
       <dct:license rdf:resource="&sm;MITLicense"/>
@@ -47,9 +47,9 @@
 
       <sm:filename rdf:datatype="&xsd;string">ISO3166-2-SubdivisionCodes-CD.rdf</sm:filename>
       <sm:fileAbbreviation rdf:datatype="&xsd;string">lcc-3166-2-cd</sm:fileAbbreviation>
-      <owl:versionIRI rdf:resource="http://www.omg.org/spec/LCC/20170801/Countries/Regions/ISO3166-2-SubdivisionCodes-CD/"/>
+      <owl:versionIRI rdf:resource="http://www.omg.org/spec/LCC/20190301/Countries/Regions/ISO3166-2-SubdivisionCodes-CD/"/>
       <sm:fileAbstract rdf:datatype="&xsd;string">This ontology represents the subset of the ISO 3166 standard that includes the actual ISO 3166-2 subdivision codes for Congo Democratic Republic Of, with the ontology and codes for the other parts of the standard represented in models that this ontology depends on.</sm:fileAbstract>
-      <dct:issued rdf:datatype="&xsd;dateTime">2017-07-20T22:26:02.631805+02:00</dct:issued>
+      <dct:issued rdf:datatype="&xsd;dateTime">2019-02-14T00:48:51.124818+01:00</dct:issued>
 
       <sm:dependsOn rdf:datatype="&xsd;anyURI">http://www.omg.org/spec/LCC/Languages/LanguageRepresentation/</sm:dependsOn>
       <sm:dependsOn rdf:datatype="&xsd;anyURI">http://www.omg.org/spec/LCC/Countries/CountryRepresentation/</sm:dependsOn>
@@ -125,66 +125,6 @@
       <lcc-lr:hasTag rdf:datatype="&xsd;string">CD-MA</lcc-lr:hasTag>
       <lcc-lr:denotes rdf:resource="&lcc-3166-2-cd;Maniema"/>
       <lcc-lr:identifies rdf:resource="&lcc-3166-2-cd;Maniema"/>
-      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-cd;"/>
-   </owl:NamedIndividual>
-
-
-
-  <!--
-    ///////////////////////////////////////////////////////////////////////////////////////
-    //
-    // Bas-Uélé
-    //
-    ///////////////////////////////////////////////////////////////////////////////////////
-    -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-cd;Bas-Uele">
-      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>Bas-Uélé</rdfs:label>
-      <skos:definition>The province of Bas-Uélé in the country of Congo Democratic Republic Of</skos:definition>
-      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;CongoDemocraticRepublicOf"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Bas-Uélé</lcc-cr:hasFrenchShortName>
-      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-cd;Province"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-cd;"/>
-   </owl:NamedIndividual>
-
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-cd;CD-BU">
-      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the province of Bas-Uélé in the country of Congo Democratic Republic Of</skos:definition>
-      <rdfs:label>CD-BU</rdfs:label>
-      <lcc-lr:hasTag rdf:datatype="&xsd;string">CD-BU</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-2-cd;Bas-Uele"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-2-cd;Bas-Uele"/>
-      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-cd;"/>
-   </owl:NamedIndividual>
-
-
-
-  <!--
-    ///////////////////////////////////////////////////////////////////////////////////////
-    //
-    // Équateur
-    //
-    ///////////////////////////////////////////////////////////////////////////////////////
-    -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-cd;Equateur">
-      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>Équateur</rdfs:label>
-      <skos:definition>The province of Équateur in the country of Congo Democratic Republic Of</skos:definition>
-      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;CongoDemocraticRepublicOf"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Équateur</lcc-cr:hasFrenchShortName>
-      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-cd;Province"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-cd;"/>
-   </owl:NamedIndividual>
-
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-cd;CD-EQ">
-      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the province of Équateur in the country of Congo Democratic Republic Of</skos:definition>
-      <rdfs:label>CD-EQ</rdfs:label>
-      <lcc-lr:hasTag rdf:datatype="&xsd;string">CD-EQ</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-2-cd;Equateur"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-2-cd;Equateur"/>
       <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-cd;"/>
    </owl:NamedIndividual>
@@ -734,6 +674,36 @@
   <!--
     ///////////////////////////////////////////////////////////////////////////////////////
     //
+    // Équateur
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+    -->
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-cd;Equateur">
+      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
+      <rdfs:label>Équateur</rdfs:label>
+      <skos:definition>The province of Équateur in the country of Congo Democratic Republic Of</skos:definition>
+      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;CongoDemocraticRepublicOf"/>
+      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Équateur</lcc-cr:hasFrenchShortName>
+      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-cd;Province"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-cd;"/>
+   </owl:NamedIndividual>
+
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-cd;CD-EQ">
+      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
+      <skos:definition>subdivision code for the province of Équateur in the country of Congo Democratic Republic Of</skos:definition>
+      <rdfs:label>CD-EQ</rdfs:label>
+      <lcc-lr:hasTag rdf:datatype="&xsd;string">CD-EQ</lcc-lr:hasTag>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-cd;Equateur"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-cd;Equateur"/>
+      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-cd;"/>
+   </owl:NamedIndividual>
+
+
+
+  <!--
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
     // Kongo Central
     //
     ///////////////////////////////////////////////////////////////////////////////////////
@@ -875,6 +845,36 @@
       <lcc-lr:hasTag rdf:datatype="&xsd;string">CD-KN</lcc-lr:hasTag>
       <lcc-lr:denotes rdf:resource="&lcc-3166-2-cd;Kinshasa"/>
       <lcc-lr:identifies rdf:resource="&lcc-3166-2-cd;Kinshasa"/>
+      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-cd;"/>
+   </owl:NamedIndividual>
+
+
+
+  <!--
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Bas-Uélé
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+    -->
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-cd;Bas-Uele">
+      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
+      <rdfs:label>Bas-Uélé</rdfs:label>
+      <skos:definition>The province of Bas-Uélé in the country of Congo Democratic Republic Of</skos:definition>
+      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;CongoDemocraticRepublicOf"/>
+      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Bas-Uélé</lcc-cr:hasFrenchShortName>
+      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-cd;Province"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-cd;"/>
+   </owl:NamedIndividual>
+
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-cd;CD-BU">
+      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
+      <skos:definition>subdivision code for the province of Bas-Uélé in the country of Congo Democratic Republic Of</skos:definition>
+      <rdfs:label>CD-BU</rdfs:label>
+      <lcc-lr:hasTag rdf:datatype="&xsd;string">CD-BU</lcc-lr:hasTag>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-cd;Bas-Uele"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-cd;Bas-Uele"/>
       <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-cd;"/>
    </owl:NamedIndividual>

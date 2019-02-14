@@ -36,9 +36,9 @@
 
       <!-- Curation and Rights Metadata for the LCC ISO 3166-2 Subdivision Codes for Viet Nam Ontology -->
 
-      <sm:copyright rdf:datatype="&xsd;string">Copyright (c) 2015-2017 Object Management Group, Inc.
-          Copyright (c) 2015-2017 Adaptive Inc.
-          Copyright (c) 2015-2017 Thematix Partners LLC
+      <sm:copyright rdf:datatype="&xsd;string">Copyright (c) 2015-2019 Object Management Group, Inc.
+          Copyright (c) 2015-2019 Adaptive Inc.
+          Copyright (c) 2015-2019 Thematix Partners LLC
           Copyright (c) 2015-2017 Unisys
         </sm:copyright>
       <dct:license rdf:resource="&sm;MITLicense"/>
@@ -47,9 +47,9 @@
 
       <sm:filename rdf:datatype="&xsd;string">ISO3166-2-SubdivisionCodes-VN.rdf</sm:filename>
       <sm:fileAbbreviation rdf:datatype="&xsd;string">lcc-3166-2-vn</sm:fileAbbreviation>
-      <owl:versionIRI rdf:resource="http://www.omg.org/spec/LCC/20170801/Countries/Regions/ISO3166-2-SubdivisionCodes-VN/"/>
+      <owl:versionIRI rdf:resource="http://www.omg.org/spec/LCC/20190301/Countries/Regions/ISO3166-2-SubdivisionCodes-VN/"/>
       <sm:fileAbstract rdf:datatype="&xsd;string">This ontology represents the subset of the ISO 3166 standard that includes the actual ISO 3166-2 subdivision codes for Viet Nam, with the ontology and codes for the other parts of the standard represented in models that this ontology depends on.</sm:fileAbstract>
-      <dct:issued rdf:datatype="&xsd;dateTime">2017-07-20T22:26:02.631805+02:00</dct:issued>
+      <dct:issued rdf:datatype="&xsd;dateTime">2019-02-14T00:48:51.124818+01:00</dct:issued>
 
       <sm:dependsOn rdf:datatype="&xsd;anyURI">http://www.omg.org/spec/LCC/Languages/LanguageRepresentation/</sm:dependsOn>
       <sm:dependsOn rdf:datatype="&xsd;anyURI">http://www.omg.org/spec/LCC/Countries/CountryRepresentation/</sm:dependsOn>
@@ -99,336 +99,6 @@
     //
     ///////////////////////////////////////////////////////////////////////////////////////
     -->
-
-
-  <!--
-    ///////////////////////////////////////////////////////////////////////////////////////
-    //
-    // Lai Châu
-    //
-    ///////////////////////////////////////////////////////////////////////////////////////
-    -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-vn;LaiChau">
-      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>Lai Châu</rdfs:label>
-      <skos:definition>The province of Lai Châu in the country of Viet Nam</skos:definition>
-      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;VietNam"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="vi">Lai Châu</lcc-cr:hasLocalShortName>
-      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-vn;Province"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-vn;"/>
-   </owl:NamedIndividual>
-
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-vn;VN-01">
-      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the province of Lai Châu in the country of Viet Nam</skos:definition>
-      <rdfs:label>VN-01</rdfs:label>
-      <lcc-lr:hasTag rdf:datatype="&xsd;string">VN-01</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-2-vn;LaiChau"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-2-vn;LaiChau"/>
-      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-vn;"/>
-   </owl:NamedIndividual>
-
-
-
-  <!--
-    ///////////////////////////////////////////////////////////////////////////////////////
-    //
-    // Hà Giang
-    //
-    ///////////////////////////////////////////////////////////////////////////////////////
-    -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-vn;HaGiang">
-      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>Hà Giang</rdfs:label>
-      <skos:definition>The province of Hà Giang in the country of Viet Nam</skos:definition>
-      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;VietNam"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="vi">Hà Giang</lcc-cr:hasLocalShortName>
-      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-vn;Province"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-vn;"/>
-   </owl:NamedIndividual>
-
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-vn;VN-03">
-      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the province of Hà Giang in the country of Viet Nam</skos:definition>
-      <rdfs:label>VN-03</rdfs:label>
-      <lcc-lr:hasTag rdf:datatype="&xsd;string">VN-03</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-2-vn;HaGiang"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-2-vn;HaGiang"/>
-      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-vn;"/>
-   </owl:NamedIndividual>
-
-
-
-  <!--
-    ///////////////////////////////////////////////////////////////////////////////////////
-    //
-    // Cao Bằng
-    //
-    ///////////////////////////////////////////////////////////////////////////////////////
-    -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-vn;CaoBang">
-      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>Cao Bằng</rdfs:label>
-      <skos:definition>The province of Cao Bằng in the country of Viet Nam</skos:definition>
-      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;VietNam"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="vi">Cao Bằng</lcc-cr:hasLocalShortName>
-      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-vn;Province"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-vn;"/>
-   </owl:NamedIndividual>
-
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-vn;VN-04">
-      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the province of Cao Bằng in the country of Viet Nam</skos:definition>
-      <rdfs:label>VN-04</rdfs:label>
-      <lcc-lr:hasTag rdf:datatype="&xsd;string">VN-04</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-2-vn;CaoBang"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-2-vn;CaoBang"/>
-      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-vn;"/>
-   </owl:NamedIndividual>
-
-
-
-  <!--
-    ///////////////////////////////////////////////////////////////////////////////////////
-    //
-    // Quảng Nam
-    //
-    ///////////////////////////////////////////////////////////////////////////////////////
-    -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-vn;QuangNam">
-      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>Quảng Nam</rdfs:label>
-      <skos:definition>The province of Quảng Nam in the country of Viet Nam</skos:definition>
-      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;VietNam"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="vi">Quảng Nam</lcc-cr:hasLocalShortName>
-      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-vn;Province"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-vn;"/>
-   </owl:NamedIndividual>
-
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-vn;VN-27">
-      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the province of Quảng Nam in the country of Viet Nam</skos:definition>
-      <rdfs:label>VN-27</rdfs:label>
-      <lcc-lr:hasTag rdf:datatype="&xsd;string">VN-27</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-2-vn;QuangNam"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-2-vn;QuangNam"/>
-      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-vn;"/>
-   </owl:NamedIndividual>
-
-
-
-  <!--
-    ///////////////////////////////////////////////////////////////////////////////////////
-    //
-    // Kon Tum
-    //
-    ///////////////////////////////////////////////////////////////////////////////////////
-    -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-vn;KonTum">
-      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>Kon Tum</rdfs:label>
-      <skos:definition>The province of Kon Tum in the country of Viet Nam</skos:definition>
-      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;VietNam"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="vi">Kon Tum</lcc-cr:hasLocalShortName>
-      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-vn;Province"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-vn;"/>
-   </owl:NamedIndividual>
-
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-vn;VN-28">
-      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the province of Kon Tum in the country of Viet Nam</skos:definition>
-      <rdfs:label>VN-28</rdfs:label>
-      <lcc-lr:hasTag rdf:datatype="&xsd;string">VN-28</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-2-vn;KonTum"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-2-vn;KonTum"/>
-      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-vn;"/>
-   </owl:NamedIndividual>
-
-
-
-  <!--
-    ///////////////////////////////////////////////////////////////////////////////////////
-    //
-    // Bình Định
-    //
-    ///////////////////////////////////////////////////////////////////////////////////////
-    -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-vn;Binhinh">
-      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>Bình Định</rdfs:label>
-      <skos:definition>The province of Bình Định in the country of Viet Nam</skos:definition>
-      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;VietNam"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="vi">Bình Định</lcc-cr:hasLocalShortName>
-      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-vn;Province"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-vn;"/>
-   </owl:NamedIndividual>
-
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-vn;VN-31">
-      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the province of Bình Định in the country of Viet Nam</skos:definition>
-      <rdfs:label>VN-31</rdfs:label>
-      <lcc-lr:hasTag rdf:datatype="&xsd;string">VN-31</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-2-vn;Binhinh"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-2-vn;Binhinh"/>
-      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-vn;"/>
-   </owl:NamedIndividual>
-
-
-
-  <!--
-    ///////////////////////////////////////////////////////////////////////////////////////
-    //
-    // Long An
-    //
-    ///////////////////////////////////////////////////////////////////////////////////////
-    -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-vn;LongAn">
-      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>Long An</rdfs:label>
-      <skos:definition>The province of Long An in the country of Viet Nam</skos:definition>
-      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;VietNam"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="vi">Long An</lcc-cr:hasLocalShortName>
-      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-vn;Province"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-vn;"/>
-   </owl:NamedIndividual>
-
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-vn;VN-41">
-      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the province of Long An in the country of Viet Nam</skos:definition>
-      <rdfs:label>VN-41</rdfs:label>
-      <lcc-lr:hasTag rdf:datatype="&xsd;string">VN-41</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-2-vn;LongAn"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-2-vn;LongAn"/>
-      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-vn;"/>
-   </owl:NamedIndividual>
-
-
-
-  <!--
-    ///////////////////////////////////////////////////////////////////////////////////////
-    //
-    // Vĩnh Long
-    //
-    ///////////////////////////////////////////////////////////////////////////////////////
-    -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-vn;VinhLong">
-      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>Vĩnh Long</rdfs:label>
-      <skos:definition>The province of Vĩnh Long in the country of Viet Nam</skos:definition>
-      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;VietNam"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="vi">Vĩnh Long</lcc-cr:hasLocalShortName>
-      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-vn;Province"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-vn;"/>
-   </owl:NamedIndividual>
-
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-vn;VN-49">
-      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the province of Vĩnh Long in the country of Viet Nam</skos:definition>
-      <rdfs:label>VN-49</rdfs:label>
-      <lcc-lr:hasTag rdf:datatype="&xsd;string">VN-49</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-2-vn;VinhLong"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-2-vn;VinhLong"/>
-      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-vn;"/>
-   </owl:NamedIndividual>
-
-
-
-  <!--
-    ///////////////////////////////////////////////////////////////////////////////////////
-    //
-    // Bắc Kạn
-    //
-    ///////////////////////////////////////////////////////////////////////////////////////
-    -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-vn;BacKan">
-      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>Bắc Kạn</rdfs:label>
-      <skos:definition>The province of Bắc Kạn in the country of Viet Nam</skos:definition>
-      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;VietNam"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="vi">Bắc Kạn</lcc-cr:hasLocalShortName>
-      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-vn;Province"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-vn;"/>
-   </owl:NamedIndividual>
-
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-vn;VN-53">
-      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the province of Bắc Kạn in the country of Viet Nam</skos:definition>
-      <rdfs:label>VN-53</rdfs:label>
-      <lcc-lr:hasTag rdf:datatype="&xsd;string">VN-53</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-2-vn;BacKan"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-2-vn;BacKan"/>
-      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-vn;"/>
-   </owl:NamedIndividual>
-
-
-
-  <!--
-    ///////////////////////////////////////////////////////////////////////////////////////
-    //
-    // Điện Biên
-    //
-    ///////////////////////////////////////////////////////////////////////////////////////
-    -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-vn;ienBien">
-      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>Điện Biên</rdfs:label>
-      <skos:definition>The province of Điện Biên in the country of Viet Nam</skos:definition>
-      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;VietNam"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="vi">Điện Biên</lcc-cr:hasLocalShortName>
-      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-vn;Province"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-vn;"/>
-   </owl:NamedIndividual>
-
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-vn;VN-71">
-      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the province of Điện Biên in the country of Viet Nam</skos:definition>
-      <rdfs:label>VN-71</rdfs:label>
-      <lcc-lr:hasTag rdf:datatype="&xsd;string">VN-71</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-2-vn;ienBien"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-2-vn;ienBien"/>
-      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-vn;"/>
-   </owl:NamedIndividual>
-
-
-
-  <!--
-    ///////////////////////////////////////////////////////////////////////////////////////
-    //
-    // Da Nang
-    //
-    ///////////////////////////////////////////////////////////////////////////////////////
-    -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-vn;DaNang">
-      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>Da Nang</rdfs:label>
-      <skos:definition>The municipality of Da Nang in the country of Viet Nam</skos:definition>
-      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;VietNam"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="vi">Da Nang</lcc-cr:hasLocalShortName>
-      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-vn;Municipality"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-vn;"/>
-   </owl:NamedIndividual>
-
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-vn;VN-DN">
-      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the municipality of Da Nang in the country of Viet Nam</skos:definition>
-      <rdfs:label>VN-DN</rdfs:label>
-      <lcc-lr:hasTag rdf:datatype="&xsd;string">VN-DN</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-2-vn;DaNang"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-2-vn;DaNang"/>
-      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-vn;"/>
-   </owl:NamedIndividual>
-
 
 
   <!--
@@ -1985,6 +1655,336 @@
       <lcc-lr:hasTag rdf:datatype="&xsd;string">VN-HN</lcc-lr:hasTag>
       <lcc-lr:denotes rdf:resource="&lcc-3166-2-vn;HaNoi"/>
       <lcc-lr:identifies rdf:resource="&lcc-3166-2-vn;HaNoi"/>
+      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-vn;"/>
+   </owl:NamedIndividual>
+
+
+
+  <!--
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Lai Châu
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+    -->
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-vn;LaiChau">
+      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
+      <rdfs:label>Lai Châu</rdfs:label>
+      <skos:definition>The province of Lai Châu in the country of Viet Nam</skos:definition>
+      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;VietNam"/>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="vi">Lai Châu</lcc-cr:hasLocalShortName>
+      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-vn;Province"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-vn;"/>
+   </owl:NamedIndividual>
+
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-vn;VN-01">
+      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
+      <skos:definition>subdivision code for the province of Lai Châu in the country of Viet Nam</skos:definition>
+      <rdfs:label>VN-01</rdfs:label>
+      <lcc-lr:hasTag rdf:datatype="&xsd;string">VN-01</lcc-lr:hasTag>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-vn;LaiChau"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-vn;LaiChau"/>
+      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-vn;"/>
+   </owl:NamedIndividual>
+
+
+
+  <!--
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Hà Giang
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+    -->
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-vn;HaGiang">
+      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
+      <rdfs:label>Hà Giang</rdfs:label>
+      <skos:definition>The province of Hà Giang in the country of Viet Nam</skos:definition>
+      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;VietNam"/>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="vi">Hà Giang</lcc-cr:hasLocalShortName>
+      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-vn;Province"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-vn;"/>
+   </owl:NamedIndividual>
+
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-vn;VN-03">
+      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
+      <skos:definition>subdivision code for the province of Hà Giang in the country of Viet Nam</skos:definition>
+      <rdfs:label>VN-03</rdfs:label>
+      <lcc-lr:hasTag rdf:datatype="&xsd;string">VN-03</lcc-lr:hasTag>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-vn;HaGiang"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-vn;HaGiang"/>
+      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-vn;"/>
+   </owl:NamedIndividual>
+
+
+
+  <!--
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Cao Bằng
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+    -->
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-vn;CaoBang">
+      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
+      <rdfs:label>Cao Bằng</rdfs:label>
+      <skos:definition>The province of Cao Bằng in the country of Viet Nam</skos:definition>
+      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;VietNam"/>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="vi">Cao Bằng</lcc-cr:hasLocalShortName>
+      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-vn;Province"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-vn;"/>
+   </owl:NamedIndividual>
+
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-vn;VN-04">
+      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
+      <skos:definition>subdivision code for the province of Cao Bằng in the country of Viet Nam</skos:definition>
+      <rdfs:label>VN-04</rdfs:label>
+      <lcc-lr:hasTag rdf:datatype="&xsd;string">VN-04</lcc-lr:hasTag>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-vn;CaoBang"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-vn;CaoBang"/>
+      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-vn;"/>
+   </owl:NamedIndividual>
+
+
+
+  <!--
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Quảng Nam
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+    -->
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-vn;QuangNam">
+      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
+      <rdfs:label>Quảng Nam</rdfs:label>
+      <skos:definition>The province of Quảng Nam in the country of Viet Nam</skos:definition>
+      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;VietNam"/>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="vi">Quảng Nam</lcc-cr:hasLocalShortName>
+      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-vn;Province"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-vn;"/>
+   </owl:NamedIndividual>
+
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-vn;VN-27">
+      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
+      <skos:definition>subdivision code for the province of Quảng Nam in the country of Viet Nam</skos:definition>
+      <rdfs:label>VN-27</rdfs:label>
+      <lcc-lr:hasTag rdf:datatype="&xsd;string">VN-27</lcc-lr:hasTag>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-vn;QuangNam"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-vn;QuangNam"/>
+      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-vn;"/>
+   </owl:NamedIndividual>
+
+
+
+  <!--
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Kon Tum
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+    -->
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-vn;KonTum">
+      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
+      <rdfs:label>Kon Tum</rdfs:label>
+      <skos:definition>The province of Kon Tum in the country of Viet Nam</skos:definition>
+      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;VietNam"/>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="vi">Kon Tum</lcc-cr:hasLocalShortName>
+      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-vn;Province"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-vn;"/>
+   </owl:NamedIndividual>
+
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-vn;VN-28">
+      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
+      <skos:definition>subdivision code for the province of Kon Tum in the country of Viet Nam</skos:definition>
+      <rdfs:label>VN-28</rdfs:label>
+      <lcc-lr:hasTag rdf:datatype="&xsd;string">VN-28</lcc-lr:hasTag>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-vn;KonTum"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-vn;KonTum"/>
+      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-vn;"/>
+   </owl:NamedIndividual>
+
+
+
+  <!--
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Bình Định
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+    -->
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-vn;Binhinh">
+      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
+      <rdfs:label>Bình Định</rdfs:label>
+      <skos:definition>The province of Bình Định in the country of Viet Nam</skos:definition>
+      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;VietNam"/>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="vi">Bình Định</lcc-cr:hasLocalShortName>
+      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-vn;Province"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-vn;"/>
+   </owl:NamedIndividual>
+
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-vn;VN-31">
+      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
+      <skos:definition>subdivision code for the province of Bình Định in the country of Viet Nam</skos:definition>
+      <rdfs:label>VN-31</rdfs:label>
+      <lcc-lr:hasTag rdf:datatype="&xsd;string">VN-31</lcc-lr:hasTag>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-vn;Binhinh"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-vn;Binhinh"/>
+      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-vn;"/>
+   </owl:NamedIndividual>
+
+
+
+  <!--
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Long An
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+    -->
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-vn;LongAn">
+      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
+      <rdfs:label>Long An</rdfs:label>
+      <skos:definition>The province of Long An in the country of Viet Nam</skos:definition>
+      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;VietNam"/>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="vi">Long An</lcc-cr:hasLocalShortName>
+      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-vn;Province"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-vn;"/>
+   </owl:NamedIndividual>
+
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-vn;VN-41">
+      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
+      <skos:definition>subdivision code for the province of Long An in the country of Viet Nam</skos:definition>
+      <rdfs:label>VN-41</rdfs:label>
+      <lcc-lr:hasTag rdf:datatype="&xsd;string">VN-41</lcc-lr:hasTag>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-vn;LongAn"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-vn;LongAn"/>
+      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-vn;"/>
+   </owl:NamedIndividual>
+
+
+
+  <!--
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Vĩnh Long
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+    -->
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-vn;VinhLong">
+      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
+      <rdfs:label>Vĩnh Long</rdfs:label>
+      <skos:definition>The province of Vĩnh Long in the country of Viet Nam</skos:definition>
+      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;VietNam"/>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="vi">Vĩnh Long</lcc-cr:hasLocalShortName>
+      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-vn;Province"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-vn;"/>
+   </owl:NamedIndividual>
+
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-vn;VN-49">
+      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
+      <skos:definition>subdivision code for the province of Vĩnh Long in the country of Viet Nam</skos:definition>
+      <rdfs:label>VN-49</rdfs:label>
+      <lcc-lr:hasTag rdf:datatype="&xsd;string">VN-49</lcc-lr:hasTag>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-vn;VinhLong"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-vn;VinhLong"/>
+      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-vn;"/>
+   </owl:NamedIndividual>
+
+
+
+  <!--
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Bắc Kạn
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+    -->
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-vn;BacKan">
+      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
+      <rdfs:label>Bắc Kạn</rdfs:label>
+      <skos:definition>The province of Bắc Kạn in the country of Viet Nam</skos:definition>
+      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;VietNam"/>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="vi">Bắc Kạn</lcc-cr:hasLocalShortName>
+      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-vn;Province"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-vn;"/>
+   </owl:NamedIndividual>
+
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-vn;VN-53">
+      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
+      <skos:definition>subdivision code for the province of Bắc Kạn in the country of Viet Nam</skos:definition>
+      <rdfs:label>VN-53</rdfs:label>
+      <lcc-lr:hasTag rdf:datatype="&xsd;string">VN-53</lcc-lr:hasTag>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-vn;BacKan"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-vn;BacKan"/>
+      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-vn;"/>
+   </owl:NamedIndividual>
+
+
+
+  <!--
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Điện Biên
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+    -->
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-vn;ienBien">
+      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
+      <rdfs:label>Điện Biên</rdfs:label>
+      <skos:definition>The province of Điện Biên in the country of Viet Nam</skos:definition>
+      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;VietNam"/>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="vi">Điện Biên</lcc-cr:hasLocalShortName>
+      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-vn;Province"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-vn;"/>
+   </owl:NamedIndividual>
+
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-vn;VN-71">
+      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
+      <skos:definition>subdivision code for the province of Điện Biên in the country of Viet Nam</skos:definition>
+      <rdfs:label>VN-71</rdfs:label>
+      <lcc-lr:hasTag rdf:datatype="&xsd;string">VN-71</lcc-lr:hasTag>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-vn;ienBien"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-vn;ienBien"/>
+      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-vn;"/>
+   </owl:NamedIndividual>
+
+
+
+  <!--
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Da Nang
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+    -->
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-vn;DaNang">
+      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
+      <rdfs:label>Da Nang</rdfs:label>
+      <skos:definition>The municipality of Da Nang in the country of Viet Nam</skos:definition>
+      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;VietNam"/>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="vi">Da Nang</lcc-cr:hasLocalShortName>
+      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-vn;Municipality"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-vn;"/>
+   </owl:NamedIndividual>
+
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-vn;VN-DN">
+      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
+      <skos:definition>subdivision code for the municipality of Da Nang in the country of Viet Nam</skos:definition>
+      <rdfs:label>VN-DN</rdfs:label>
+      <lcc-lr:hasTag rdf:datatype="&xsd;string">VN-DN</lcc-lr:hasTag>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-vn;DaNang"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-vn;DaNang"/>
       <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-vn;"/>
    </owl:NamedIndividual>

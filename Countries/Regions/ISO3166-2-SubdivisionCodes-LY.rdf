@@ -36,9 +36,9 @@
 
       <!-- Curation and Rights Metadata for the LCC ISO 3166-2 Subdivision Codes for Libya Ontology -->
 
-      <sm:copyright rdf:datatype="&xsd;string">Copyright (c) 2015-2017 Object Management Group, Inc.
-          Copyright (c) 2015-2017 Adaptive Inc.
-          Copyright (c) 2015-2017 Thematix Partners LLC
+      <sm:copyright rdf:datatype="&xsd;string">Copyright (c) 2015-2019 Object Management Group, Inc.
+          Copyright (c) 2015-2019 Adaptive Inc.
+          Copyright (c) 2015-2019 Thematix Partners LLC
           Copyright (c) 2015-2017 Unisys
         </sm:copyright>
       <dct:license rdf:resource="&sm;MITLicense"/>
@@ -47,9 +47,9 @@
 
       <sm:filename rdf:datatype="&xsd;string">ISO3166-2-SubdivisionCodes-LY.rdf</sm:filename>
       <sm:fileAbbreviation rdf:datatype="&xsd;string">lcc-3166-2-ly</sm:fileAbbreviation>
-      <owl:versionIRI rdf:resource="http://www.omg.org/spec/LCC/20170801/Countries/Regions/ISO3166-2-SubdivisionCodes-LY/"/>
+      <owl:versionIRI rdf:resource="http://www.omg.org/spec/LCC/20190301/Countries/Regions/ISO3166-2-SubdivisionCodes-LY/"/>
       <sm:fileAbstract rdf:datatype="&xsd;string">This ontology represents the subset of the ISO 3166 standard that includes the actual ISO 3166-2 subdivision codes for Libya, with the ontology and codes for the other parts of the standard represented in models that this ontology depends on.</sm:fileAbstract>
-      <dct:issued rdf:datatype="&xsd;dateTime">2017-07-20T22:26:02.631805+02:00</dct:issued>
+      <dct:issued rdf:datatype="&xsd;dateTime">2019-02-14T00:48:51.124818+01:00</dct:issued>
 
       <sm:dependsOn rdf:datatype="&xsd;anyURI">http://www.omg.org/spec/LCC/Languages/LanguageRepresentation/</sm:dependsOn>
       <sm:dependsOn rdf:datatype="&xsd;anyURI">http://www.omg.org/spec/LCC/Countries/CountryRepresentation/</sm:dependsOn>
@@ -92,96 +92,6 @@
     //
     ///////////////////////////////////////////////////////////////////////////////////////
     -->
-
-
-  <!--
-    ///////////////////////////////////////////////////////////////////////////////////////
-    //
-    // Al Marj
-    //
-    ///////////////////////////////////////////////////////////////////////////////////////
-    -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-ly;AlMarj">
-      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>Al Marj</rdfs:label>
-      <skos:definition>The popularate of Al Marj in the country of Libya</skos:definition>
-      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Libya"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Al Marj</lcc-cr:hasLocalShortName>
-      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ly;Popularate"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ly;"/>
-   </owl:NamedIndividual>
-
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-ly;LY-MJ">
-      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the popularate of Al Marj in the country of Libya</skos:definition>
-      <rdfs:label>LY-MJ</rdfs:label>
-      <lcc-lr:hasTag rdf:datatype="&xsd;string">LY-MJ</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-2-ly;AlMarj"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-2-ly;AlMarj"/>
-      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ly;"/>
-   </owl:NamedIndividual>
-
-
-
-  <!--
-    ///////////////////////////////////////////////////////////////////////////////////////
-    //
-    // Sabhā
-    //
-    ///////////////////////////////////////////////////////////////////////////////////////
-    -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-ly;Sabha">
-      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>Sabhā</rdfs:label>
-      <skos:definition>The popularate of Sabhā in the country of Libya</skos:definition>
-      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Libya"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Sabhā</lcc-cr:hasLocalShortName>
-      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ly;Popularate"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ly;"/>
-   </owl:NamedIndividual>
-
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-ly;LY-SB">
-      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the popularate of Sabhā in the country of Libya</skos:definition>
-      <rdfs:label>LY-SB</rdfs:label>
-      <lcc-lr:hasTag rdf:datatype="&xsd;string">LY-SB</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-2-ly;Sabha"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-2-ly;Sabha"/>
-      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ly;"/>
-   </owl:NamedIndividual>
-
-
-
-  <!--
-    ///////////////////////////////////////////////////////////////////////////////////////
-    //
-    // Al Wāḩāt
-    //
-    ///////////////////////////////////////////////////////////////////////////////////////
-    -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-ly;AlWahat">
-      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>Al Wāḩāt</rdfs:label>
-      <skos:definition>The popularate of Al Wāḩāt in the country of Libya</skos:definition>
-      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Libya"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Al Wāḩāt</lcc-cr:hasLocalShortName>
-      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ly;Popularate"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ly;"/>
-   </owl:NamedIndividual>
-
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-ly;LY-WA">
-      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the popularate of Al Wāḩāt in the country of Libya</skos:definition>
-      <rdfs:label>LY-WA</rdfs:label>
-      <lcc-lr:hasTag rdf:datatype="&xsd;string">LY-WA</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-2-ly;AlWahat"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-2-ly;AlWahat"/>
-      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ly;"/>
-   </owl:NamedIndividual>
-
 
 
   <!--
@@ -748,6 +658,96 @@
       <lcc-lr:hasTag rdf:datatype="&xsd;string">LY-WS</lcc-lr:hasTag>
       <lcc-lr:denotes rdf:resource="&lcc-3166-2-ly;WadiAshShati"/>
       <lcc-lr:identifies rdf:resource="&lcc-3166-2-ly;WadiAshShati"/>
+      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ly;"/>
+   </owl:NamedIndividual>
+
+
+
+  <!--
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Al Marj
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+    -->
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-ly;AlMarj">
+      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
+      <rdfs:label>Al Marj</rdfs:label>
+      <skos:definition>The popularate of Al Marj in the country of Libya</skos:definition>
+      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Libya"/>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Al Marj</lcc-cr:hasLocalShortName>
+      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ly;Popularate"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ly;"/>
+   </owl:NamedIndividual>
+
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-ly;LY-MJ">
+      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
+      <skos:definition>subdivision code for the popularate of Al Marj in the country of Libya</skos:definition>
+      <rdfs:label>LY-MJ</rdfs:label>
+      <lcc-lr:hasTag rdf:datatype="&xsd;string">LY-MJ</lcc-lr:hasTag>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-ly;AlMarj"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-ly;AlMarj"/>
+      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ly;"/>
+   </owl:NamedIndividual>
+
+
+
+  <!--
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Sabhā
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+    -->
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-ly;Sabha">
+      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
+      <rdfs:label>Sabhā</rdfs:label>
+      <skos:definition>The popularate of Sabhā in the country of Libya</skos:definition>
+      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Libya"/>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Sabhā</lcc-cr:hasLocalShortName>
+      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ly;Popularate"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ly;"/>
+   </owl:NamedIndividual>
+
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-ly;LY-SB">
+      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
+      <skos:definition>subdivision code for the popularate of Sabhā in the country of Libya</skos:definition>
+      <rdfs:label>LY-SB</rdfs:label>
+      <lcc-lr:hasTag rdf:datatype="&xsd;string">LY-SB</lcc-lr:hasTag>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-ly;Sabha"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-ly;Sabha"/>
+      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ly;"/>
+   </owl:NamedIndividual>
+
+
+
+  <!--
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Al Wāḩāt
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+    -->
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-ly;AlWahat">
+      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
+      <rdfs:label>Al Wāḩāt</rdfs:label>
+      <skos:definition>The popularate of Al Wāḩāt in the country of Libya</skos:definition>
+      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Libya"/>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Al Wāḩāt</lcc-cr:hasLocalShortName>
+      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ly;Popularate"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ly;"/>
+   </owl:NamedIndividual>
+
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-ly;LY-WA">
+      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
+      <skos:definition>subdivision code for the popularate of Al Wāḩāt in the country of Libya</skos:definition>
+      <rdfs:label>LY-WA</rdfs:label>
+      <lcc-lr:hasTag rdf:datatype="&xsd;string">LY-WA</lcc-lr:hasTag>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-ly;AlWahat"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-ly;AlWahat"/>
       <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ly;"/>
    </owl:NamedIndividual>

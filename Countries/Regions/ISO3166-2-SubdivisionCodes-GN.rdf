@@ -36,9 +36,9 @@
 
       <!-- Curation and Rights Metadata for the LCC ISO 3166-2 Subdivision Codes for Guinea Ontology -->
 
-      <sm:copyright rdf:datatype="&xsd;string">Copyright (c) 2015-2017 Object Management Group, Inc.
-          Copyright (c) 2015-2017 Adaptive Inc.
-          Copyright (c) 2015-2017 Thematix Partners LLC
+      <sm:copyright rdf:datatype="&xsd;string">Copyright (c) 2015-2019 Object Management Group, Inc.
+          Copyright (c) 2015-2019 Adaptive Inc.
+          Copyright (c) 2015-2019 Thematix Partners LLC
           Copyright (c) 2015-2017 Unisys
         </sm:copyright>
       <dct:license rdf:resource="&sm;MITLicense"/>
@@ -47,9 +47,9 @@
 
       <sm:filename rdf:datatype="&xsd;string">ISO3166-2-SubdivisionCodes-GN.rdf</sm:filename>
       <sm:fileAbbreviation rdf:datatype="&xsd;string">lcc-3166-2-gn</sm:fileAbbreviation>
-      <owl:versionIRI rdf:resource="http://www.omg.org/spec/LCC/20170801/Countries/Regions/ISO3166-2-SubdivisionCodes-GN/"/>
+      <owl:versionIRI rdf:resource="http://www.omg.org/spec/LCC/20190301/Countries/Regions/ISO3166-2-SubdivisionCodes-GN/"/>
       <sm:fileAbstract rdf:datatype="&xsd;string">This ontology represents the subset of the ISO 3166 standard that includes the actual ISO 3166-2 subdivision codes for Guinea, with the ontology and codes for the other parts of the standard represented in models that this ontology depends on.</sm:fileAbstract>
-      <dct:issued rdf:datatype="&xsd;dateTime">2017-07-20T22:26:02.631805+02:00</dct:issued>
+      <dct:issued rdf:datatype="&xsd;dateTime">2019-02-14T00:48:51.124818+01:00</dct:issued>
 
       <sm:dependsOn rdf:datatype="&xsd;anyURI">http://www.omg.org/spec/LCC/Languages/LanguageRepresentation/</sm:dependsOn>
       <sm:dependsOn rdf:datatype="&xsd;anyURI">http://www.omg.org/spec/LCC/Countries/CountryRepresentation/</sm:dependsOn>
@@ -139,6 +139,36 @@
   <!--
     ///////////////////////////////////////////////////////////////////////////////////////
     //
+    // Dalaba
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+    -->
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-gn;Dalaba">
+      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
+      <rdfs:label>Dalaba</rdfs:label>
+      <skos:definition>The prefecture of Dalaba in the country of Guinea</skos:definition>
+      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gn;Mamou"/>
+      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Dalaba</lcc-cr:hasFrenchShortName>
+      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gn;Prefecture"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gn;"/>
+   </owl:NamedIndividual>
+
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-gn;GN-DL">
+      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
+      <skos:definition>subdivision code for the prefecture of Dalaba in the country of Guinea</skos:definition>
+      <rdfs:label>GN-DL</rdfs:label>
+      <lcc-lr:hasTag rdf:datatype="&xsd;string">GN-DL</lcc-lr:hasTag>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-gn;Dalaba"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-gn;Dalaba"/>
+      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gn;"/>
+   </owl:NamedIndividual>
+
+
+
+  <!--
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
     // Pita
     //
     ///////////////////////////////////////////////////////////////////////////////////////
@@ -190,36 +220,6 @@
       <lcc-lr:hasTag rdf:datatype="&xsd;string">GN-MM</lcc-lr:hasTag>
       <lcc-lr:denotes rdf:resource="&lcc-3166-2-gn;Mamou-Prefecture"/>
       <lcc-lr:identifies rdf:resource="&lcc-3166-2-gn;Mamou-Prefecture"/>
-      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gn;"/>
-   </owl:NamedIndividual>
-
-
-
-  <!--
-    ///////////////////////////////////////////////////////////////////////////////////////
-    //
-    // Dalaba
-    //
-    ///////////////////////////////////////////////////////////////////////////////////////
-    -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-gn;Dalaba">
-      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>Dalaba</rdfs:label>
-      <skos:definition>The prefecture of Dalaba in the country of Guinea</skos:definition>
-      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gn;Mamou"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Dalaba</lcc-cr:hasFrenchShortName>
-      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gn;Prefecture"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gn;"/>
-   </owl:NamedIndividual>
-
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-gn;GN-DL">
-      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the prefecture of Dalaba in the country of Guinea</skos:definition>
-      <rdfs:label>GN-DL</rdfs:label>
-      <lcc-lr:hasTag rdf:datatype="&xsd;string">GN-DL</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-2-gn;Dalaba"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-2-gn;Dalaba"/>
       <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gn;"/>
    </owl:NamedIndividual>
@@ -285,6 +285,36 @@
       <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gn;"/>
    </owl:NamedIndividual>
+
+  <!--
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Siguiri
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+    -->
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-gn;Siguiri">
+      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
+      <rdfs:label>Siguiri</rdfs:label>
+      <skos:definition>The prefecture of Siguiri in the country of Guinea</skos:definition>
+      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gn;Kankan"/>
+      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Siguiri</lcc-cr:hasFrenchShortName>
+      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gn;Prefecture"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gn;"/>
+   </owl:NamedIndividual>
+
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-gn;GN-SI">
+      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
+      <skos:definition>subdivision code for the prefecture of Siguiri in the country of Guinea</skos:definition>
+      <rdfs:label>GN-SI</rdfs:label>
+      <lcc-lr:hasTag rdf:datatype="&xsd;string">GN-SI</lcc-lr:hasTag>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-gn;Siguiri"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-gn;Siguiri"/>
+      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gn;"/>
+   </owl:NamedIndividual>
+
+
 
   <!--
     ///////////////////////////////////////////////////////////////////////////////////////
@@ -406,36 +436,6 @@
 
 
 
-  <!--
-    ///////////////////////////////////////////////////////////////////////////////////////
-    //
-    // Siguiri
-    //
-    ///////////////////////////////////////////////////////////////////////////////////////
-    -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-gn;Siguiri">
-      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>Siguiri</rdfs:label>
-      <skos:definition>The prefecture of Siguiri in the country of Guinea</skos:definition>
-      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gn;Kankan"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Siguiri</lcc-cr:hasFrenchShortName>
-      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gn;Prefecture"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gn;"/>
-   </owl:NamedIndividual>
-
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-gn;GN-SI">
-      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the prefecture of Siguiri in the country of Guinea</skos:definition>
-      <rdfs:label>GN-SI</rdfs:label>
-      <lcc-lr:hasTag rdf:datatype="&xsd;string">GN-SI</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-2-gn;Siguiri"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-2-gn;Siguiri"/>
-      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gn;"/>
-   </owl:NamedIndividual>
-
-
-
 
 
   <!--
@@ -465,6 +465,36 @@
       <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gn;"/>
    </owl:NamedIndividual>
+
+  <!--
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Koubia
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+    -->
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-gn;Koubia">
+      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
+      <rdfs:label>Koubia</rdfs:label>
+      <skos:definition>The prefecture of Koubia in the country of Guinea</skos:definition>
+      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gn;Labe"/>
+      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Koubia</lcc-cr:hasFrenchShortName>
+      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gn;Prefecture"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gn;"/>
+   </owl:NamedIndividual>
+
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-gn;GN-KB">
+      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
+      <skos:definition>subdivision code for the prefecture of Koubia in the country of Guinea</skos:definition>
+      <rdfs:label>GN-KB</rdfs:label>
+      <lcc-lr:hasTag rdf:datatype="&xsd;string">GN-KB</lcc-lr:hasTag>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-gn;Koubia"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-gn;Koubia"/>
+      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gn;"/>
+   </owl:NamedIndividual>
+
+
 
   <!--
     ///////////////////////////////////////////////////////////////////////////////////////
@@ -586,36 +616,6 @@
 
 
 
-  <!--
-    ///////////////////////////////////////////////////////////////////////////////////////
-    //
-    // Koubia
-    //
-    ///////////////////////////////////////////////////////////////////////////////////////
-    -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-gn;Koubia">
-      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>Koubia</rdfs:label>
-      <skos:definition>The prefecture of Koubia in the country of Guinea</skos:definition>
-      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gn;Labe"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Koubia</lcc-cr:hasFrenchShortName>
-      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gn;Prefecture"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gn;"/>
-   </owl:NamedIndividual>
-
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-gn;GN-KB">
-      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the prefecture of Koubia in the country of Guinea</skos:definition>
-      <rdfs:label>GN-KB</rdfs:label>
-      <lcc-lr:hasTag rdf:datatype="&xsd;string">GN-KB</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-2-gn;Koubia"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-2-gn;Koubia"/>
-      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gn;"/>
-   </owl:NamedIndividual>
-
-
-
 
 
   <!--
@@ -645,6 +645,36 @@
       <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gn;"/>
    </owl:NamedIndividual>
+
+  <!--
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Boké
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+    -->
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-gn;Boke-Prefecture">
+      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
+      <rdfs:label>Boké</rdfs:label>
+      <skos:definition>The prefecture of Boké in the country of Guinea</skos:definition>
+      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gn;Boke"/>
+      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Boké</lcc-cr:hasFrenchShortName>
+      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gn;Prefecture"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gn;"/>
+   </owl:NamedIndividual>
+
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-gn;GN-BK">
+      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
+      <skos:definition>subdivision code for the prefecture of Boké in the country of Guinea</skos:definition>
+      <rdfs:label>GN-BK</rdfs:label>
+      <lcc-lr:hasTag rdf:datatype="&xsd;string">GN-BK</lcc-lr:hasTag>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-gn;Boke-Prefecture"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-gn;Boke-Prefecture"/>
+      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gn;"/>
+   </owl:NamedIndividual>
+
+
 
   <!--
     ///////////////////////////////////////////////////////////////////////////////////////
@@ -766,36 +796,6 @@
 
 
 
-  <!--
-    ///////////////////////////////////////////////////////////////////////////////////////
-    //
-    // Boké
-    //
-    ///////////////////////////////////////////////////////////////////////////////////////
-    -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-gn;Boke-Prefecture">
-      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>Boké</rdfs:label>
-      <skos:definition>The prefecture of Boké in the country of Guinea</skos:definition>
-      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gn;Boke"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Boké</lcc-cr:hasFrenchShortName>
-      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gn;Prefecture"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gn;"/>
-   </owl:NamedIndividual>
-
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-gn;GN-BK">
-      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the prefecture of Boké in the country of Guinea</skos:definition>
-      <rdfs:label>GN-BK</rdfs:label>
-      <lcc-lr:hasTag rdf:datatype="&xsd;string">GN-BK</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-2-gn;Boke-Prefecture"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-2-gn;Boke-Prefecture"/>
-      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gn;"/>
-   </owl:NamedIndividual>
-
-
-
 
 
   <!--
@@ -825,6 +825,36 @@
       <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gn;"/>
    </owl:NamedIndividual>
+
+  <!--
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Faranah
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+    -->
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-gn;Faranah-Prefecture">
+      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
+      <rdfs:label>Faranah</rdfs:label>
+      <skos:definition>The prefecture of Faranah in the country of Guinea</skos:definition>
+      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gn;Faranah"/>
+      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Faranah</lcc-cr:hasFrenchShortName>
+      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gn;Prefecture"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gn;"/>
+   </owl:NamedIndividual>
+
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-gn;GN-FA">
+      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
+      <skos:definition>subdivision code for the prefecture of Faranah in the country of Guinea</skos:definition>
+      <rdfs:label>GN-FA</rdfs:label>
+      <lcc-lr:hasTag rdf:datatype="&xsd;string">GN-FA</lcc-lr:hasTag>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-gn;Faranah-Prefecture"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-gn;Faranah-Prefecture"/>
+      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gn;"/>
+   </owl:NamedIndividual>
+
+
 
   <!--
     ///////////////////////////////////////////////////////////////////////////////////////
@@ -910,36 +940,6 @@
       <lcc-lr:hasTag rdf:datatype="&xsd;string">GN-KS</lcc-lr:hasTag>
       <lcc-lr:denotes rdf:resource="&lcc-3166-2-gn;Kissidougou"/>
       <lcc-lr:identifies rdf:resource="&lcc-3166-2-gn;Kissidougou"/>
-      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gn;"/>
-   </owl:NamedIndividual>
-
-
-
-  <!--
-    ///////////////////////////////////////////////////////////////////////////////////////
-    //
-    // Faranah
-    //
-    ///////////////////////////////////////////////////////////////////////////////////////
-    -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-gn;Faranah-Prefecture">
-      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>Faranah</rdfs:label>
-      <skos:definition>The prefecture of Faranah in the country of Guinea</skos:definition>
-      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gn;Faranah"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Faranah</lcc-cr:hasFrenchShortName>
-      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gn;Prefecture"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gn;"/>
-   </owl:NamedIndividual>
-
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-gn;GN-FA">
-      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the prefecture of Faranah in the country of Guinea</skos:definition>
-      <rdfs:label>GN-FA</rdfs:label>
-      <lcc-lr:hasTag rdf:datatype="&xsd;string">GN-FA</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-2-gn;Faranah-Prefecture"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-2-gn;Faranah-Prefecture"/>
       <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gn;"/>
    </owl:NamedIndividual>
@@ -1159,6 +1159,36 @@
   <!--
     ///////////////////////////////////////////////////////////////////////////////////////
     //
+    // Macenta
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+    -->
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-gn;Macenta">
+      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
+      <rdfs:label>Macenta</rdfs:label>
+      <skos:definition>The prefecture of Macenta in the country of Guinea</skos:definition>
+      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gn;Nzerekore"/>
+      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Macenta</lcc-cr:hasFrenchShortName>
+      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gn;Prefecture"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gn;"/>
+   </owl:NamedIndividual>
+
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-gn;GN-MC">
+      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
+      <skos:definition>subdivision code for the prefecture of Macenta in the country of Guinea</skos:definition>
+      <rdfs:label>GN-MC</rdfs:label>
+      <lcc-lr:hasTag rdf:datatype="&xsd;string">GN-MC</lcc-lr:hasTag>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-gn;Macenta"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-gn;Macenta"/>
+      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gn;"/>
+   </owl:NamedIndividual>
+
+
+
+  <!--
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
     // Lola
     //
     ///////////////////////////////////////////////////////////////////////////////////////
@@ -1300,36 +1330,6 @@
       <lcc-lr:hasTag rdf:datatype="&xsd;string">GN-NZ</lcc-lr:hasTag>
       <lcc-lr:denotes rdf:resource="&lcc-3166-2-gn;Nzerekore-Prefecture"/>
       <lcc-lr:identifies rdf:resource="&lcc-3166-2-gn;Nzerekore-Prefecture"/>
-      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gn;"/>
-   </owl:NamedIndividual>
-
-
-
-  <!--
-    ///////////////////////////////////////////////////////////////////////////////////////
-    //
-    // Macenta
-    //
-    ///////////////////////////////////////////////////////////////////////////////////////
-    -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-gn;Macenta">
-      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>Macenta</rdfs:label>
-      <skos:definition>The prefecture of Macenta in the country of Guinea</skos:definition>
-      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gn;Nzerekore"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Macenta</lcc-cr:hasFrenchShortName>
-      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gn;Prefecture"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gn;"/>
-   </owl:NamedIndividual>
-
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-gn;GN-MC">
-      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the prefecture of Macenta in the country of Guinea</skos:definition>
-      <rdfs:label>GN-MC</rdfs:label>
-      <lcc-lr:hasTag rdf:datatype="&xsd;string">GN-MC</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-2-gn;Macenta"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-2-gn;Macenta"/>
       <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gn;"/>
    </owl:NamedIndividual>

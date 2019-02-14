@@ -36,9 +36,9 @@
 
       <!-- Curation and Rights Metadata for the LCC ISO 3166-2 Subdivision Codes for Seychelles Ontology -->
 
-      <sm:copyright rdf:datatype="&xsd;string">Copyright (c) 2015-2017 Object Management Group, Inc.
-          Copyright (c) 2015-2017 Adaptive Inc.
-          Copyright (c) 2015-2017 Thematix Partners LLC
+      <sm:copyright rdf:datatype="&xsd;string">Copyright (c) 2015-2019 Object Management Group, Inc.
+          Copyright (c) 2015-2019 Adaptive Inc.
+          Copyright (c) 2015-2019 Thematix Partners LLC
           Copyright (c) 2015-2017 Unisys
         </sm:copyright>
       <dct:license rdf:resource="&sm;MITLicense"/>
@@ -47,9 +47,9 @@
 
       <sm:filename rdf:datatype="&xsd;string">ISO3166-2-SubdivisionCodes-SC.rdf</sm:filename>
       <sm:fileAbbreviation rdf:datatype="&xsd;string">lcc-3166-2-sc</sm:fileAbbreviation>
-      <owl:versionIRI rdf:resource="http://www.omg.org/spec/LCC/20170801/Countries/Regions/ISO3166-2-SubdivisionCodes-SC/"/>
+      <owl:versionIRI rdf:resource="http://www.omg.org/spec/LCC/20190301/Countries/Regions/ISO3166-2-SubdivisionCodes-SC/"/>
       <sm:fileAbstract rdf:datatype="&xsd;string">This ontology represents the subset of the ISO 3166 standard that includes the actual ISO 3166-2 subdivision codes for Seychelles, with the ontology and codes for the other parts of the standard represented in models that this ontology depends on.</sm:fileAbstract>
-      <dct:issued rdf:datatype="&xsd;dateTime">2017-07-20T22:26:02.631805+02:00</dct:issued>
+      <dct:issued rdf:datatype="&xsd;dateTime">2019-02-14T00:48:51.124818+01:00</dct:issued>
 
       <sm:dependsOn rdf:datatype="&xsd;anyURI">http://www.omg.org/spec/LCC/Languages/LanguageRepresentation/</sm:dependsOn>
       <sm:dependsOn rdf:datatype="&xsd;anyURI">http://www.omg.org/spec/LCC/Countries/CountryRepresentation/</sm:dependsOn>
@@ -92,70 +92,6 @@
     //
     ///////////////////////////////////////////////////////////////////////////////////////
     -->
-
-
-  <!--
-    ///////////////////////////////////////////////////////////////////////////////////////
-    //
-    // Anse Etoile
-    //
-    ///////////////////////////////////////////////////////////////////////////////////////
-    -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-sc;AnseEtoile">
-      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>Anse Etoile</rdfs:label>
-      <skos:definition>The district of Anse Etoile in the country of Seychelles</skos:definition>
-      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Seychelles"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string">Ans Etwal</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Anse Etoile</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Anse Étoile</lcc-cr:hasFrenchShortName>
-      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-sc;District"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-sc;"/>
-   </owl:NamedIndividual>
-
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-sc;SC-03">
-      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the district of Anse Etoile in the country of Seychelles</skos:definition>
-      <rdfs:label>SC-03</rdfs:label>
-      <lcc-lr:hasTag rdf:datatype="&xsd;string">SC-03</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-2-sc;AnseEtoile"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-2-sc;AnseEtoile"/>
-      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-sc;"/>
-   </owl:NamedIndividual>
-
-
-
-  <!--
-    ///////////////////////////////////////////////////////////////////////////////////////
-    //
-    // Baie Lazare
-    //
-    ///////////////////////////////////////////////////////////////////////////////////////
-    -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-sc;BaieLazare">
-      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>Baie Lazare</rdfs:label>
-      <skos:definition>The district of Baie Lazare in the country of Seychelles</skos:definition>
-      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Seychelles"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Baie Lazare</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string">Be Lazar</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Baie Lazare</lcc-cr:hasFrenchShortName>
-      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-sc;District"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-sc;"/>
-   </owl:NamedIndividual>
-
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-sc;SC-06">
-      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the district of Baie Lazare in the country of Seychelles</skos:definition>
-      <rdfs:label>SC-06</rdfs:label>
-      <lcc-lr:hasTag rdf:datatype="&xsd;string">SC-06</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-2-sc;BaieLazare"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-2-sc;BaieLazare"/>
-      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-sc;"/>
-   </owl:NamedIndividual>
-
 
 
   <!--
@@ -897,6 +833,70 @@
   <!--
     ///////////////////////////////////////////////////////////////////////////////////////
     //
+    // Anse Etoile
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+    -->
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-sc;AnseEtoile">
+      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
+      <rdfs:label>Anse Etoile</rdfs:label>
+      <skos:definition>The district of Anse Etoile in the country of Seychelles</skos:definition>
+      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Seychelles"/>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string">Ans Etwal</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Anse Etoile</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Anse Étoile</lcc-cr:hasFrenchShortName>
+      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-sc;District"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-sc;"/>
+   </owl:NamedIndividual>
+
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-sc;SC-03">
+      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
+      <skos:definition>subdivision code for the district of Anse Etoile in the country of Seychelles</skos:definition>
+      <rdfs:label>SC-03</rdfs:label>
+      <lcc-lr:hasTag rdf:datatype="&xsd;string">SC-03</lcc-lr:hasTag>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-sc;AnseEtoile"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-sc;AnseEtoile"/>
+      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-sc;"/>
+   </owl:NamedIndividual>
+
+
+
+  <!--
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Baie Lazare
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+    -->
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-sc;BaieLazare">
+      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
+      <rdfs:label>Baie Lazare</rdfs:label>
+      <skos:definition>The district of Baie Lazare in the country of Seychelles</skos:definition>
+      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Seychelles"/>
+      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Baie Lazare</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string">Be Lazar</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Baie Lazare</lcc-cr:hasFrenchShortName>
+      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-sc;District"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-sc;"/>
+   </owl:NamedIndividual>
+
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-sc;SC-06">
+      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
+      <skos:definition>subdivision code for the district of Baie Lazare in the country of Seychelles</skos:definition>
+      <rdfs:label>SC-06</rdfs:label>
+      <lcc-lr:hasTag rdf:datatype="&xsd;string">SC-06</lcc-lr:hasTag>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-sc;BaieLazare"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-sc;BaieLazare"/>
+      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-sc;"/>
+   </owl:NamedIndividual>
+
+
+
+  <!--
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
     // Cosmoledo Islands
     //
     ///////////////////////////////////////////////////////////////////////////////////////
@@ -906,8 +906,8 @@
       <rdfs:label>Cosmoledo Islands</rdfs:label>
       <skos:definition>The territory of Cosmoledo Islands in the country of Seychelles</skos:definition>
       <lcc-cr:hasNumericRegionCode rdf:datatype="&xsd;string">1047</lcc-cr:hasNumericRegionCode>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Cosmoledo Islands</lcc-cr:hasEnglishShortName>
       <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">les Îles Cosmoledo</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Cosmoledo Islands</lcc-cr:hasEnglishShortName>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Seychelles"/>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2;Territory"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-sc;"/>
@@ -925,8 +925,8 @@
       <rdfs:label>Farquhar Islands</rdfs:label>
       <skos:definition>The territory of Farquhar Islands in the country of Seychelles</skos:definition>
       <lcc-cr:hasNumericRegionCode rdf:datatype="&xsd;string">1059</lcc-cr:hasNumericRegionCode>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Farquhar Islands</lcc-cr:hasEnglishShortName>
       <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">les Îles Farquhar</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Farquhar Islands</lcc-cr:hasEnglishShortName>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Seychelles"/>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2;Territory"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-sc;"/>
@@ -944,8 +944,8 @@
       <rdfs:label>Mahé (principal island)</rdfs:label>
       <skos:definition>The territory of Mahé (principal island) in the country of Seychelles</skos:definition>
       <lcc-cr:hasNumericRegionCode rdf:datatype="&xsd;string">1112</lcc-cr:hasNumericRegionCode>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Mahé (principal island)</lcc-cr:hasEnglishShortName>
       <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Mahé (île principale)</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Mahé (principal island)</lcc-cr:hasEnglishShortName>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Seychelles"/>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2;Territory"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-sc;"/>
@@ -963,8 +963,8 @@
       <rdfs:label>Aldabra Islands</rdfs:label>
       <skos:definition>The territory of Aldabra Islands in the country of Seychelles</skos:definition>
       <lcc-cr:hasNumericRegionCode rdf:datatype="&xsd;string">1225</lcc-cr:hasNumericRegionCode>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Aldabra Islands</lcc-cr:hasEnglishShortName>
       <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">les Îles Aldabra</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Aldabra Islands</lcc-cr:hasEnglishShortName>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Seychelles"/>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2;Territory"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-sc;"/>

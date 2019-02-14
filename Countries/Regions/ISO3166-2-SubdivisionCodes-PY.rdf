@@ -36,9 +36,9 @@
 
       <!-- Curation and Rights Metadata for the LCC ISO 3166-2 Subdivision Codes for Paraguay Ontology -->
 
-      <sm:copyright rdf:datatype="&xsd;string">Copyright (c) 2015-2017 Object Management Group, Inc.
-          Copyright (c) 2015-2017 Adaptive Inc.
-          Copyright (c) 2015-2017 Thematix Partners LLC
+      <sm:copyright rdf:datatype="&xsd;string">Copyright (c) 2015-2019 Object Management Group, Inc.
+          Copyright (c) 2015-2019 Adaptive Inc.
+          Copyright (c) 2015-2019 Thematix Partners LLC
           Copyright (c) 2015-2017 Unisys
         </sm:copyright>
       <dct:license rdf:resource="&sm;MITLicense"/>
@@ -47,9 +47,9 @@
 
       <sm:filename rdf:datatype="&xsd;string">ISO3166-2-SubdivisionCodes-PY.rdf</sm:filename>
       <sm:fileAbbreviation rdf:datatype="&xsd;string">lcc-3166-2-py</sm:fileAbbreviation>
-      <owl:versionIRI rdf:resource="http://www.omg.org/spec/LCC/20170801/Countries/Regions/ISO3166-2-SubdivisionCodes-PY/"/>
+      <owl:versionIRI rdf:resource="http://www.omg.org/spec/LCC/20190301/Countries/Regions/ISO3166-2-SubdivisionCodes-PY/"/>
       <sm:fileAbstract rdf:datatype="&xsd;string">This ontology represents the subset of the ISO 3166 standard that includes the actual ISO 3166-2 subdivision codes for Paraguay, with the ontology and codes for the other parts of the standard represented in models that this ontology depends on.</sm:fileAbstract>
-      <dct:issued rdf:datatype="&xsd;dateTime">2017-07-20T22:26:02.631805+02:00</dct:issued>
+      <dct:issued rdf:datatype="&xsd;dateTime">2019-02-14T00:48:51.124818+01:00</dct:issued>
 
       <sm:dependsOn rdf:datatype="&xsd;anyURI">http://www.omg.org/spec/LCC/Languages/LanguageRepresentation/</sm:dependsOn>
       <sm:dependsOn rdf:datatype="&xsd;anyURI">http://www.omg.org/spec/LCC/Countries/CountryRepresentation/</sm:dependsOn>
@@ -99,36 +99,6 @@
     //
     ///////////////////////////////////////////////////////////////////////////////////////
     -->
-
-
-  <!--
-    ///////////////////////////////////////////////////////////////////////////////////////
-    //
-    // Canindeyú
-    //
-    ///////////////////////////////////////////////////////////////////////////////////////
-    -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-py;Canindeyu">
-      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>Canindeyú</rdfs:label>
-      <skos:definition>The department of Canindeyú in the country of Paraguay</skos:definition>
-      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Paraguay"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Canindeyú</lcc-cr:hasLocalShortName>
-      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-py;Department"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-py;"/>
-   </owl:NamedIndividual>
-
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-py;PY-14">
-      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the department of Canindeyú in the country of Paraguay</skos:definition>
-      <rdfs:label>PY-14</rdfs:label>
-      <lcc-lr:hasTag rdf:datatype="&xsd;string">PY-14</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-2-py;Canindeyu"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-2-py;Canindeyu"/>
-      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-py;"/>
-   </owl:NamedIndividual>
-
 
 
   <!--
@@ -635,6 +605,36 @@
       <lcc-lr:hasTag rdf:datatype="&xsd;string">PY-11</lcc-lr:hasTag>
       <lcc-lr:denotes rdf:resource="&lcc-3166-2-py;Central"/>
       <lcc-lr:identifies rdf:resource="&lcc-3166-2-py;Central"/>
+      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-py;"/>
+   </owl:NamedIndividual>
+
+
+
+  <!--
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Canindeyú
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+    -->
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-py;Canindeyu">
+      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
+      <rdfs:label>Canindeyú</rdfs:label>
+      <skos:definition>The department of Canindeyú in the country of Paraguay</skos:definition>
+      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Paraguay"/>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Canindeyú</lcc-cr:hasLocalShortName>
+      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-py;Department"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-py;"/>
+   </owl:NamedIndividual>
+
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-py;PY-14">
+      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
+      <skos:definition>subdivision code for the department of Canindeyú in the country of Paraguay</skos:definition>
+      <rdfs:label>PY-14</rdfs:label>
+      <lcc-lr:hasTag rdf:datatype="&xsd;string">PY-14</lcc-lr:hasTag>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-py;Canindeyu"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-py;Canindeyu"/>
       <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-py;"/>
    </owl:NamedIndividual>
