@@ -1287,7 +1287,7 @@
    <rdf:Description rdf:about="&lcc-3166-1;Sweden">
       <lcc-cr:isSubregionOf rdf:resource="&lcc-m49;NorthernEurope"/>
    </rdf:Description>
-   <rdf:Description rdf:about="&lcc-3166-1;Swaziland">
+   <rdf:Description rdf:about="&lcc-3166-1;Eswatini">
       <lcc-cr:isSubregionOf rdf:resource="&lcc-m49;SouthernAfrica"/>
    </rdf:Description>
    <rdf:Description rdf:about="&lcc-3166-1;SintMaarten">
