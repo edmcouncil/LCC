@@ -43,6 +43,7 @@
       <owl:versionIRI rdf:resource="http://www.omg.org/spec/LCC/20190301/Countries/ISO3166-1-CountryCodes/"/>
       <sm:fileAbstract rdf:datatype="&xsd;string">This ontology represents the subset of the ISO 3166 standard that include the actual ISO 3166-1 country codes, with the ontology and codes for the other parts of the standard represented in dependent models.</sm:fileAbstract>
       <skos:changeNote rdf:datatype="&xsd;string">The http://www.omg.org/spec/LCC/20151101/Countries/ISO3166-1-CountryCodes.rdf version of this ontology has been revised to reflect the issues addressed by the LCC 1.0 FTF report.  The country codes and related metadata contained herein are current as of the July 2017 revision to the online code set.</skos:changeNote>
+      <skos:changeNote rdf:datatype="&xsd;string">The http://www.omg.org/spec/LCC/20190301/Countries/ISO3166-1-CountryCodes.rdf version of this ontology has been revised to reflect the issues addressed by the LCC 1.1 FTF report.  The country codes and related metadata contained herein are current as of the February 2019 revision to the online code set.</skos:changeNote>
       <dct:issued rdf:datatype="&xsd;dateTime">2019-02-14T00:48:51.124818+01:00</dct:issued>
 
       <sm:dependsOn rdf:datatype="&xsd;anyURI">http://www.omg.org/spec/LCC/Languages/LanguageRepresentation/</sm:dependsOn>
@@ -113,42 +114,36 @@
 
    <!-- Languages not covered by ISO 631-1 or 639-2 -->
 
-   <owl:NamedIndividual rdf:about="&lcc-3166-1;Montenegrin">
-      <rdf:type rdf:resource="http://www.omg.org/spec/LCC/Languages/LanguageRepresentation/IndividualLanguage"/>
-      <rdf:type rdf:resource="http://www.omg.org/spec/LCC/Languages/LanguageRepresentation/LivingLanguage"/>
-      <rdfs:label>Montenegrin</rdfs:label>
-      <skos:definition rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Montenegrin language</skos:definition>
-      <lcc-lr:hasEnglishName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Montenegrin</lcc-lr:hasEnglishName>
-      <rdfs:comment>Not yet allocated a code in ISO 639</rdfs:comment>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-1;"/>
-   </owl:NamedIndividual>
-   <owl:NamedIndividual rdf:about="&lcc-3166-1;L001">
-      <rdf:type rdf:resource="http://www.omg.org/spec/LCC/Languages/LanguageRepresentation/IndividualLanguageIdentifier"/>
-      <rdfs:label>001</rdfs:label>
-      <skos:definition rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Alpha-3 language code for Montenegrin</skos:definition>
-      <lcc-lr:hasTag rdf:datatype="http://www.w3.org/2001/XMLSchema#string">001</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-1;Montenegrin"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-1;Montenegrin"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-1;"/>
-   </owl:NamedIndividual>
+
 
    <owl:NamedIndividual rdf:about="&lcc-3166-1;Shikomor">
-      <rdf:type rdf:resource="http://www.omg.org/spec/LCC/Languages/LanguageRepresentation/IndividualLanguage"/>
-      <rdf:type rdf:resource="http://www.omg.org/spec/LCC/Languages/LanguageRepresentation/LivingLanguage"/>
+      <rdf:type rdf:resource="&lcc-lr;IndividualLanguage"/>
+      <rdf:type rdf:resource="&lcc-lr;LivingLanguage"/>
       <rdfs:label>Shikomor</rdfs:label>
-      <skos:definition rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Shikomor language</skos:definition>
-      <lcc-lr:hasEnglishName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Shikomor</lcc-lr:hasEnglishName>
+      <skos:definition rdf:datatype="&xsd;string">Shikomor language</skos:definition>
+      <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Shikomor</lcc-lr:hasEnglishName>
       <rdfs:comment>Not yet allocated a code in ISO 639</rdfs:comment>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-1;"/>
    </owl:NamedIndividual>
    <owl:NamedIndividual rdf:about="&lcc-3166-1;L002">
-      <rdf:type rdf:resource="http://www.omg.org/spec/LCC/Languages/LanguageRepresentation/IndividualLanguageIdentifier"/>
+      <rdf:type rdf:resource="&lcc-lr;IndividualLanguageIdentifier"/>
       <rdfs:label>002</rdfs:label>
-      <skos:definition rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Alpha-3 language code for Shikomor</skos:definition>
-      <lcc-lr:hasTag rdf:datatype="http://www.w3.org/2001/XMLSchema#string">002</lcc-lr:hasTag>
+      <skos:definition rdf:datatype="&xsd;string">Alpha-3 language code for Shikomor</skos:definition>
+      <lcc-lr:hasTag rdf:datatype="&xsd;string">002</lcc-lr:hasTag>
       <lcc-lr:denotes rdf:resource="&lcc-3166-1;Shikomor"/>
       <lcc-lr:identifies rdf:resource="&lcc-3166-1;Shikomor"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-1;"/>
+   </owl:NamedIndividual>
+
+   <!-- Language which became covered by ISO 639-2 in timescale of LCC 1.1 so the code used at LCC 1.0 can be deprecated -->   <owl:NamedIndividual rdf:about="&lcc-3166-1;Montenegrin">
+      <rdf:type rdf:resource="&lcc-lr;IndividualLanguage"/>
+      <owl:deprecated rdf:datatype="&xsd;boolean">true</owl:deprecated>
+      <owl:sameAs rdf:resource="&lcc-639-2;Montenegrin"/>
+   </owl:NamedIndividual>
+   <owl:NamedIndividual rdf:about="&lcc-3166-1;L001">
+      <rdf:type rdf:resource="&lcc-lr;IndividualLanguageIdentifier"/>
+      <owl:deprecated rdf:datatype="&xsd;boolean">true</owl:deprecated>
+      <owl:sameAs rdf:resource="&lcc-639-2;cnr"/>
    </owl:NamedIndividual>
 
    <owl:NamedIndividual rdf:about="&lcc-3166-1;SeselwaCreoleFrench">
@@ -6741,7 +6736,7 @@ The language code "002" refers to the administrative language "Shikomor" that ha
       <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Monténégro (le)</lcc-cr:hasFrenchShortName>
       <lcc-cr:hasEnglishShortNameInCapitals rdf:datatype="&xsd;string" xml:lang="en">MONTENEGRO</lcc-cr:hasEnglishShortNameInCapitals>
       <lcc-cr:hasFrenchShortNameInCapitals rdf:datatype="&xsd;string" xml:lang="fr">MONTÉNÉGRO</lcc-cr:hasFrenchShortNameInCapitals>
-      <lcc-cr:usesAdministrativeLanguage rdf:resource="&lcc-639-2;Undetermined"/>
+      <lcc-cr:usesAdministrativeLanguage rdf:resource="&lcc-639-2;Montenegrin"/>
       <lcc-cr:hasRemarks>Montenegro was formerly part of former entries: YUGOSLAVIA (YU, YUG, 891) then SERBIA AND MONTENEGRO (CS, SCG, 891).</lcc-cr:hasRemarks>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-1;Country"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-1;"/>
