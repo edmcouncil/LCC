@@ -8247,11 +8247,14 @@ Copyright (c) 2015-2017 Unisys
    <owl:NamedIndividual rdf:about="&lcc-639-2;SwissGerman">
       <rdf:type rdf:resource="&lcc-lr;IndividualLanguage"/>
       <rdf:type rdf:resource="&lcc-lr;LivingLanguage"/>
-      <skos:definition rdf:datatype="&xsd;string">Language code for Swiss German</skos:definition>
+      <skos:definition rdf:datatype="&xsd;string">Language code for Swiss German; Alemannic; Alsatian</skos:definition>
       <rdfs:label>Swiss German</rdfs:label>
       <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Alemannic</lcc-lr:hasEnglishName>
       <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Swiss German</lcc-lr:hasEnglishName>
+	  <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Alsatian</lcc-lr:hasEnglishName>
       <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">alémanique</lcc-lr:hasFrenchName>
+	  <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">suisse alémanique</lcc-lr:hasFrenchName>
+      <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">alsacien</lcc-lr:hasFrenchName>
       <rdfs:isDefinedBy rdf:resource="&lcc-639-2;"/>
    </owl:NamedIndividual>
 
