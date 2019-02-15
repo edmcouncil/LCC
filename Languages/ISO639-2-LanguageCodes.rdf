@@ -48,7 +48,7 @@ Copyright (c) 2015-2017 Unisys
         <sm:fileAbstract rdf:datatype="&xsd;string">This ontology represents the subset of the ISO 639 standard that provides the language names and actual codes for ISO 639-2.</sm:fileAbstract>
 
         <skos:changeNote rdf:datatype="&xsd;string">The http://www.omg.org/spec/LCC/20151101/Languages/ISO639-2-LanguageCodes.rdf version of this ontology has been revised to reflect the issues addressed by the LCC 1.0 FTF report. The codes themselves are current as of 31 July 2017, based on the US Library of Congress site.</skos:changeNote>
-        <skos:changeNote rdf:datatype="&xsd;string">The http://www.omg.org/spec/LCC/20190301/Languages/ISO639-2-LanguageCodes.rdf version of this ontology has been revised to add the language Montenegrin (code cnr). The codes themselves are current as of 14 February 2019, based on the US Library of Congress site.</skos:changeNote>
+        <skos:changeNote rdf:datatype="&xsd;string">The http://www.omg.org/spec/LCC/20190301/Languages/ISO639-2-LanguageCodes.rdf version of this ontology has been revised to add the languages Standard Moroccan Tamazight(code zgh) and Montenegrin (code cnr). The codes themselves are current as of 14 February 2019, based on the US Library of Congress site.</skos:changeNote>
         <sm:dependsOn rdf:datatype="&xsd;anyURI">http://www.omg.org/spec/LCC/Languages/LanguageRepresentation/</sm:dependsOn>
         <sm:dependsOn rdf:datatype="&xsd;anyURI">http://www.omg.org/spec/LCC/Languages/ISO639-1-LanguageCodes/</sm:dependsOn>
 
@@ -5212,6 +5212,17 @@ Copyright (c) 2015-2017 Unisys
       <rdfs:isDefinedBy rdf:resource="&lcc-639-2;"/>
    </owl:NamedIndividual>
 
+   <owl:NamedIndividual rdf:about="&lcc-639-2;zgh">
+      <rdf:type rdf:resource="&lcc-lr;Alpha3Code"/>
+      <skos:definition rdf:datatype="&xsd;string">Alpha-3 language code for Standard Moroccan Tamazight</skos:definition>
+      <rdfs:label>zgh</rdfs:label>
+      <lcc-lr:hasTag rdf:datatype="&xsd;string">zgh</lcc-lr:hasTag>
+      <lcc-lr:denotes rdf:resource="&lcc-639-2;StandardMoroccanTamazight"/>
+      <lcc-lr:identifies rdf:resource="&lcc-639-2;StandardMoroccanTamazight"/>
+      <lcc-lr:isMemberOf rdf:resource="&lcc-639-2;ISO639-2-CodeSet"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-639-2;"/>
+   </owl:NamedIndividual>
+
    <owl:NamedIndividual rdf:about="&lcc-639-2;zha">
       <rdf:type rdf:resource="&lcc-lr;Alpha3Code"/>
       <skos:definition rdf:datatype="&xsd;string">Alpha-3 language code for Zhuang</skos:definition>
@@ -8190,6 +8201,16 @@ Copyright (c) 2015-2017 Unisys
       <rdfs:label>Sranan Tongo</rdfs:label>
       <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Sranan Tongo</lcc-lr:hasEnglishName>
       <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">sranan tongo</lcc-lr:hasFrenchName>
+      <rdfs:isDefinedBy rdf:resource="&lcc-639-2;"/>
+   </owl:NamedIndividual>
+
+   <owl:NamedIndividual rdf:about="&lcc-639-2;StandardMoroccanTamazight">
+      <rdf:type rdf:resource="&lcc-lr;IndividualLanguage"/>
+      <rdf:type rdf:resource="&lcc-lr;LivingLanguage"/>
+      <skos:definition rdf:datatype="&xsd;string">Language code for Standard Moroccan Tamazight</skos:definition>
+      <rdfs:label>Standard Moroccan Tamazight</rdfs:label>
+      <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Standard Moroccan Tamazight</lcc-lr:hasEnglishName>
+      <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">amazighe standard marocain</lcc-lr:hasFrenchName>
       <rdfs:isDefinedBy rdf:resource="&lcc-639-2;"/>
    </owl:NamedIndividual>
 
