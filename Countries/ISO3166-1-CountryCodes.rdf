@@ -6732,7 +6732,7 @@ The language code "002" refers to the administrative language "Shikomor" that ha
       <lcc-cr:hasNumericRegionCode rdf:datatype="&xsd;string">499</lcc-cr:hasNumericRegionCode>
       <lcc-cr:hasFrenchFullName rdf:datatype="&xsd;string" xml:lang="fr">Monténégro (le)</lcc-cr:hasFrenchFullName>
       <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Montenegro</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string">Crna Gora</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="cnr">Crna Gora</lcc-cr:hasLocalShortName>
       <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Monténégro (le)</lcc-cr:hasFrenchShortName>
       <lcc-cr:hasEnglishShortNameInCapitals rdf:datatype="&xsd;string" xml:lang="en">MONTENEGRO</lcc-cr:hasEnglishShortNameInCapitals>
       <lcc-cr:hasFrenchShortNameInCapitals rdf:datatype="&xsd;string" xml:lang="fr">MONTÉNÉGRO</lcc-cr:hasFrenchShortNameInCapitals>
