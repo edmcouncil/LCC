@@ -3717,8 +3717,6 @@ Copyright (c) 2015-2017 Unisys
         <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Pashto</lcc-lr:hasEnglishName>
         <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Pushto</lcc-lr:hasEnglishName>
         <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">pachto</lcc-lr:hasFrenchName>
-        <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">pashto</lcc-lr:hasFrenchName>
-        <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">pushto</lcc-lr:hasFrenchName>
         <lcc-lr:hasGermanName rdf:datatype="&xsd;string">Paschtu</lcc-lr:hasGermanName>
         <lcc-lr:hasIndigenousName rdf:datatype="&xsd;string">pashto</lcc-lr:hasIndigenousName>
         <rdfs:isDefinedBy rdf:resource="&lcc-639-1;"/>
