@@ -3589,7 +3589,7 @@ Copyright (c) 2015-2017 Unisys
 
    <owl:NamedIndividual rdf:about="&lcc-639-2;oci">
       <rdf:type rdf:resource="&lcc-lr;Alpha3Code"/>
-      <skos:definition rdf:datatype="&xsd;string">Alpha-3 language code for Occitan (post 1500); Provencal</skos:definition>
+      <skos:definition rdf:datatype="&xsd;string">Alpha-3 language code for Occitan (post 1500)</skos:definition>
       <rdfs:label>oci</rdfs:label>
       <lcc-lr:hasTag rdf:datatype="&xsd;string">oci</lcc-lr:hasTag>
       <lcc-lr:denotes rdf:resource="&lcc-639-1;Occitan"/>
@@ -5045,11 +5045,11 @@ Copyright (c) 2015-2017 Unisys
 
    <owl:NamedIndividual rdf:about="&lcc-639-2;wal">
       <rdf:type rdf:resource="&lcc-lr;Alpha3Code"/>
-      <skos:definition rdf:datatype="&xsd;string">Alpha-3 language code for Walamo</skos:definition>
+      <skos:definition rdf:datatype="&xsd;string">Alpha-3 language code for Wolaitta</skos:definition>
       <rdfs:label>wal</rdfs:label>
       <lcc-lr:hasTag rdf:datatype="&xsd;string">wal</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="Walamo"/>
-      <lcc-lr:identifies rdf:resource="Walamo"/>
+      <lcc-lr:denotes rdf:resource="&lcc-639-2;Wolaitta"/>
+      <lcc-lr:identifies rdf:resource="&lcc-639-2;Wolaitta"/>
       <lcc-lr:isMemberOf rdf:resource="&lcc-639-2;ISO639-2-CodeSet"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-639-2;"/>
    </owl:NamedIndividual>
@@ -6950,7 +6950,10 @@ Copyright (c) 2015-2017 Unisys
       <skos:definition rdf:datatype="&xsd;string">Language code for Khotanese</skos:definition>
       <rdfs:label>Khotanese</rdfs:label>
       <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Khotanese</lcc-lr:hasEnglishName>
+	  <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Sakan</lcc-lr:hasEnglishName>
       <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">khotanais</lcc-lr:hasFrenchName>
+	  <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">sakan</lcc-lr:hasFrenchName>
+	  <lcc-lr:hasGermanName rdf:datatype="&xsd;string">Sakisch</lcc-lr:hasGermanName>
       <rdfs:isDefinedBy rdf:resource="&lcc-639-2;"/>
    </owl:NamedIndividual>
 
@@ -7762,7 +7765,9 @@ Copyright (c) 2015-2017 Unisys
       <skos:definition rdf:datatype="&xsd;string">Language code for Provencal, Old (to 1500)</skos:definition>
       <rdfs:label>Old Provencal</rdfs:label>
       <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Provencal, Old (to 1500)</lcc-lr:hasEnglishName>
+	  <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Occitan, Old (to 1500)</lcc-lr:hasEnglishName>
       <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">provençal ancien (jusqu'à 1500)</lcc-lr:hasFrenchName>
+	  <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">occitan ancien (jusqu'à 1500)</lcc-lr:hasFrenchName>
       <rdfs:isDefinedBy rdf:resource="&lcc-639-2;"/>
    </owl:NamedIndividual>
 
@@ -8537,13 +8542,16 @@ Copyright (c) 2015-2017 Unisys
       <rdfs:isDefinedBy rdf:resource="&lcc-639-2;"/>
    </owl:NamedIndividual>
 
-   <owl:NamedIndividual rdf:about="&lcc-639-2;Walamo">
+   <owl:NamedIndividual rdf:about="&lcc-639-2;Wolaitta">
       <rdf:type rdf:resource="&lcc-lr;IndividualLanguage"/>
       <rdf:type rdf:resource="&lcc-lr;LivingLanguage"/>
-      <skos:definition rdf:datatype="&xsd;string">Language code for Walamo</skos:definition>
-      <rdfs:label>Walamo</rdfs:label>
-      <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Walamo</lcc-lr:hasEnglishName>
-      <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">walamo</lcc-lr:hasFrenchName>
+      <skos:definition rdf:datatype="&xsd;string">Language code for Wolaitta</skos:definition>
+      <rdfs:label>Wolaitta</rdfs:label>
+      <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Wolaitta</lcc-lr:hasEnglishName>
+	  <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Wolaytta</lcc-lr:hasEnglishName>
+      <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">wolaitta</lcc-lr:hasFrenchName>
+	  <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">wolaytta</lcc-lr:hasFrenchName>
+	  <lcc-lr:hasGermanName rdf:datatype="&xsd;string">Walamo-Sprache</lcc-lr:hasGermanName>
       <rdfs:isDefinedBy rdf:resource="&lcc-639-2;"/>
    </owl:NamedIndividual>
 

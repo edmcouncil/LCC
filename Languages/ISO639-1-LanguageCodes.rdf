@@ -3579,14 +3579,11 @@ Copyright (c) 2015-2017 Unisys
         <rdf:type rdf:resource="&lcc-lr;IndividualLanguage"/>
         <rdf:type rdf:resource="&lcc-lr;LivingLanguage"/>
         <rdfs:label>Occitan</rdfs:label>
-        <skos:definition rdf:datatype="&xsd;string">Occitan (post 1500-) language</skos:definition>
-        <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Occitan</lcc-lr:hasEnglishName>
-        <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Proven&#231;al (post 1500)</lcc-lr:hasEnglishName>
-        <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">occitan</lcc-lr:hasFrenchName>
-        <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">proven&#231;al (apr&#232;s 1500)</lcc-lr:hasFrenchName>
+        <skos:definition rdf:datatype="&xsd;string">Occitan (post 1500) language</skos:definition>
+        <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Occitan (post 1500)</lcc-lr:hasEnglishName>
+        <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">occitan (après 1500)</lcc-lr:hasFrenchName>
         <lcc-lr:hasGermanName rdf:datatype="&xsd;string">Okzitanisch</lcc-lr:hasGermanName>
         <lcc-lr:hasIndigenousName rdf:datatype="&xsd;string">occitan</lcc-lr:hasIndigenousName>
-        <lcc-lr:hasIndigenousName rdf:datatype="&xsd;string">proven&#231;al</lcc-lr:hasIndigenousName>
         <rdfs:isDefinedBy rdf:resource="&lcc-639-1;"/>
     </owl:NamedIndividual>
 
