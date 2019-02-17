@@ -673,6 +673,8 @@
       <rdfs:label>bik</rdfs:label>
       <lcc-lr:hasTag rdf:datatype="&xsd;string">bik</lcc-lr:hasTag>
       <lcc-lr:denotes rdf:resource="&lcc-639-2;Bikol"/>
+	  <lcc-lr:identifies rdf:resource="&lcc-639-2;Bikol"/>
+      <lcc-lr:isMemberOf rdf:resource="&lcc-639-2;ISO639-2-CodeSet"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-639-2;"/>
    </owl:NamedIndividual>
 
@@ -759,6 +761,8 @@
       <rdfs:label>btk</rdfs:label>
       <lcc-lr:hasTag rdf:datatype="&xsd;string">btk</lcc-lr:hasTag>
       <lcc-lr:denotes rdf:resource="&lcc-639-2;BatakLanguages"/>
+	  <lcc-lr:identifies rdf:resource="&lcc-639-2;BatakLanguages"/>
+      <lcc-lr:isMemberOf rdf:resource="&lcc-639-2;ISO639-2-CodeSet"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-639-2;"/>
    </owl:NamedIndividual>
 
@@ -768,6 +772,8 @@
       <rdfs:label>bua</rdfs:label>
       <lcc-lr:hasTag rdf:datatype="&xsd;string">bua</lcc-lr:hasTag>
       <lcc-lr:denotes rdf:resource="&lcc-639-2;Buriat"/>
+	  <lcc-lr:identifies rdf:resource="&lcc-639-2;Buriat"/>
+      <lcc-lr:isMemberOf rdf:resource="&lcc-639-2;ISO639-2-CodeSet"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-639-2;"/>
    </owl:NamedIndividual>
 
@@ -967,6 +973,8 @@
       <rdfs:label>chm</rdfs:label>
       <lcc-lr:hasTag rdf:datatype="&xsd;string">chm</lcc-lr:hasTag>
       <lcc-lr:denotes rdf:resource="&lcc-639-2;Mari"/>
+	  <lcc-lr:identifies rdf:resource="&lcc-639-2;Mari"/>
+      <lcc-lr:isMemberOf rdf:resource="&lcc-639-2;ISO639-2-CodeSet"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-639-2;"/>
    </owl:NamedIndividual>
 
@@ -1242,6 +1250,8 @@
       <rdfs:label>day</rdfs:label>
       <lcc-lr:hasTag rdf:datatype="&xsd;string">day</lcc-lr:hasTag>
       <lcc-lr:denotes rdf:resource="&lcc-639-2;LandDayakLanguages"/>
+	  <lcc-lr:identifies rdf:resource="&lcc-639-2;LandDayakLanguages"/>
+      <lcc-lr:isMemberOf rdf:resource="&lcc-639-2;ISO639-2-CodeSet"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-639-2;"/>
    </owl:NamedIndividual>
 
@@ -1251,6 +1261,8 @@
       <rdfs:label>del</rdfs:label>
       <lcc-lr:hasTag rdf:datatype="&xsd;string">del</lcc-lr:hasTag>
       <lcc-lr:denotes rdf:resource="&lcc-639-2;Delaware"/>
+	  <lcc-lr:identifies rdf:resource="&lcc-639-2;Delaware"/>
+	  <lcc-lr:isMemberOf rdf:resource="&lcc-639-2;ISO639-2-CodeSet"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-639-2;"/>
    </owl:NamedIndividual>
 
@@ -1260,6 +1272,8 @@
       <rdfs:label>den</rdfs:label>
       <lcc-lr:hasTag rdf:datatype="&xsd;string">den</lcc-lr:hasTag>
       <lcc-lr:denotes rdf:resource="&lcc-639-2;SlaveAthapascan"/>
+	  <lcc-lr:identifies rdf:resource="&lcc-639-2;SlaveAthapascan"/>
+	  <lcc-lr:isMemberOf rdf:resource="&lcc-639-2;ISO639-2-CodeSet"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-639-2;"/>
    </owl:NamedIndividual>
 
@@ -1280,6 +1294,8 @@
       <rdfs:label>din</rdfs:label>
       <lcc-lr:hasTag rdf:datatype="&xsd;string">din</lcc-lr:hasTag>
       <lcc-lr:denotes rdf:resource="&lcc-639-2;Dinka"/>
+	  <lcc-lr:identifies rdf:resource="&lcc-639-2;Dinka"/>
+      <lcc-lr:isMemberOf rdf:resource="&lcc-639-2;ISO639-2-CodeSet"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-639-2;"/>
    </owl:NamedIndividual>
 
