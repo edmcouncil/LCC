@@ -20,7 +20,7 @@
      xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
      xmlns:dct="http://purl.org/dc/terms/"
      xmlns:skos="http://www.w3.org/2004/02/skos/core#"
-xmlns:sm="http://www.omg.org/techprocess/ab/SpecificationMetadata/"
+     xmlns:sm="http://www.omg.org/techprocess/ab/SpecificationMetadata/"
      xmlns:lcc-lr="http://www.omg.org/spec/LCC/Languages/LanguageRepresentation/"
      xmlns:lcc-639-1="http://www.omg.org/spec/LCC/Languages/ISO639-1-LanguageCodes/"
      xmlns:lcc-639-2="http://www.omg.org/spec/LCC/Languages/ISO639-2-LanguageCodes/">
@@ -32,23 +32,22 @@ xmlns:sm="http://www.omg.org/techprocess/ab/SpecificationMetadata/"
 
       <!-- Curation and Rights Metadata for the LCC ISO 639-2 Language Codes Ontology -->
 
-        <sm:copyright rdf:datatype="&xsd;string">Copyright (c) 2015-2019 Object Management Group, Inc.
-Copyright (c) 2015-2019 Adaptive Inc.
-Copyright (c) 2015-2019 Thematix Partners LLC
-Copyright (c) 2015-2017 Unisys
-</sm:copyright>
-        <dct:license rdf:resource="http://www.omg.org/techprocess/ab/SpecificationMetadata/MITLicense"/>
+        <sm:copyright rdf:datatype="&xsd;string">Copyright (c) 2015-2019 Object Management Group, Inc.</sm:copyright>
+        <sm:copyright rdf:datatype="&xsd;string">Copyright (c) 2015-2019 Adaptive Inc.</sm:copyright>
+        <sm:copyright rdf:datatype="&xsd;string">Copyright (c) 2015-2019 Thematix Partners LLC</sm:copyright>
+        <sm:copyright rdf:datatype="&xsd;string">Copyright (c) 2015-2017 Unisys</sm:copyright>
+        <dct:license rdf:resource="http://opensource.org/licenses/MIT"/>
 
 
       <!-- Ontology/File-Level Metadata for the LCC ISO 639-2 Language Codes Ontology -->
 
         <sm:filename rdf:datatype="&xsd;string">ISO639-2-LanguageCodes.rdf</sm:filename>
         <sm:fileAbbreviation rdf:datatype="&xsd;string">lcc-639-2</sm:fileAbbreviation>
-        <owl:versionIRI rdf:resource="http://www.omg.org/spec/LCC/20170801/Languages/ISO639-2-LanguageCodes/"/>
+        <owl:versionIRI rdf:resource="http://www.omg.org/spec/LCC/20190201/Languages/ISO639-2-LanguageCodes/"/>
         <sm:fileAbstract rdf:datatype="&xsd;string">This ontology represents the subset of the ISO 639 standard that provides the language names and actual codes for ISO 639-2.</sm:fileAbstract>
 
         <skos:changeNote rdf:datatype="&xsd;string">The http://www.omg.org/spec/LCC/20151101/Languages/ISO639-2-LanguageCodes.rdf version of this ontology has been revised to reflect the issues addressed by the LCC 1.0 FTF report. The codes themselves are current as of 31 July 2017, based on the US Library of Congress site.</skos:changeNote>
-        <skos:changeNote rdf:datatype="&xsd;string">The http://www.omg.org/spec/LCC/20190301/Languages/ISO639-2-LanguageCodes.rdf version of this ontology has been revised to add the languages Standard Moroccan Tamazight(code zgh) and Montenegrin (code cnr). The codes themselves are current as of 14 February 2019, based on the US Library of Congress site.</skos:changeNote>
+        <skos:changeNote rdf:datatype="&xsd;string">The http://www.omg.org/spec/LCC/20190201/Languages/ISO639-2-LanguageCodes.rdf version of this ontology has been revised to reflect addition of the languages Standard Moroccan Tamazight (code zgh) and Montenegrin (code cnr). The codes themselves are current as of 14 February 2019, based on the US Library of Congress site.</skos:changeNote>
         <sm:dependsOn rdf:datatype="&xsd;anyURI">http://www.omg.org/spec/LCC/Languages/LanguageRepresentation/</sm:dependsOn>
         <sm:dependsOn rdf:datatype="&xsd;anyURI">http://www.omg.org/spec/LCC/Languages/ISO639-1-LanguageCodes/</sm:dependsOn>
 
@@ -716,7 +715,7 @@ Copyright (c) 2015-2017 Unisys
       <rdfs:label>bnt</rdfs:label>
       <lcc-lr:hasTag rdf:datatype="&xsd;string">bnt</lcc-lr:hasTag>
       <lcc-lr:denotes rdf:resource="&lcc-639-2;BantuLanguages"/>
-	  <lcc-lr:identifies rdf:resource="&lcc-639-1;BantuLanguages"/>
+	  <lcc-lr:identifies rdf:resource="&lcc-639-2;BantuLanguages"/>
       <lcc-lr:isMemberOf rdf:resource="&lcc-639-2;ISO639-2-CodeSet"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-639-2;"/>
    </owl:NamedIndividual>
@@ -890,7 +889,7 @@ Copyright (c) 2015-2017 Unisys
       <rdfs:label>cel</rdfs:label>
       <lcc-lr:hasTag rdf:datatype="&xsd;string">cel</lcc-lr:hasTag>
       <lcc-lr:denotes rdf:resource="&lcc-639-2;CelticLanguages"/>
-	  <lcc-lr:identifies rdf:resource="&lcc-639-1;CelticLanguages"/>
+	  <lcc-lr:identifies rdf:resource="&lcc-639-2;CelticLanguages"/>
       <lcc-lr:isMemberOf rdf:resource="&lcc-639-2;ISO639-2-CodeSet"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-639-2;"/>
    </owl:NamedIndividual>
@@ -1055,6 +1054,8 @@ Copyright (c) 2015-2017 Unisys
       <rdfs:label>cmc</rdfs:label>
       <lcc-lr:hasTag rdf:datatype="&xsd;string">cmc</lcc-lr:hasTag>
       <lcc-lr:denotes rdf:resource="&lcc-639-2;ChamicLanguages"/>
+	  <lcc-lr:identifies rdf:resource="&lcc-639-2;ChamicLanguages"/>
+      <lcc-lr:isMemberOf rdf:resource="&lcc-639-2;ISO639-2-CodeSet"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-639-2;"/>
    </owl:NamedIndividual>
 
@@ -6722,6 +6723,7 @@ Copyright (c) 2015-2017 Unisys
       <skos:definition rdf:datatype="&xsd;string">Language code for Hmong</skos:definition>
       <rdfs:label>Hmong</rdfs:label>
       <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Hmong</lcc-lr:hasEnglishName>
+	  <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Mong</lcc-lr:hasEnglishName>
       <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">hmong</lcc-lr:hasFrenchName>
       <rdfs:isDefinedBy rdf:resource="&lcc-639-2;"/>
    </owl:NamedIndividual>
