@@ -151,10 +151,10 @@ Copyright (c) 2015-2017 Unisys
     <owl:NamedIndividual rdf:about="&lcc-639-2;afa">
         <rdf:type rdf:resource="&lcc-lr;Alpha3Code"/>
         <rdfs:label>afa</rdfs:label>
-        <skos:definition rdf:datatype="&xsd;string">Alpha-3 language code for Afro-Asiatic (Other)</skos:definition>
+        <skos:definition rdf:datatype="&xsd;string">Alpha-3 language code for Afro-Asiatic languages</skos:definition>
         <lcc-lr:hasTag rdf:datatype="&xsd;string">afa</lcc-lr:hasTag>
-        <lcc-lr:denotes rdf:resource="&lcc-639-2;AfroAsiaticOther"/>
-        <lcc-lr:identifies rdf:resource="&lcc-639-2;AfroAsiaticOther"/>
+        <lcc-lr:denotes rdf:resource="&lcc-639-2;AfroAsiaticLanguages"/>
+        <lcc-lr:identifies rdf:resource="&lcc-639-2;AfroAsiaticLanguages"/>
         <lcc-lr:isMemberOf rdf:resource="&lcc-639-2;ISO639-2-CodeSet"/>
         <rdfs:isDefinedBy rdf:resource="&lcc-639-2;"/>
     </owl:NamedIndividual>
@@ -373,10 +373,10 @@ Copyright (c) 2015-2017 Unisys
     <owl:NamedIndividual rdf:about="&lcc-639-2;art">
         <rdf:type rdf:resource="&lcc-lr;Alpha3Code"/>
         <rdfs:label>art</rdfs:label>
-        <skos:definition rdf:datatype="&xsd;string">Alpha-3 language code for Artificial (Other)</skos:definition>
+        <skos:definition rdf:datatype="&xsd;string">Alpha-3 language code for Artificial languages</skos:definition>
         <lcc-lr:hasTag rdf:datatype="&xsd;string">art</lcc-lr:hasTag>
-        <lcc-lr:denotes rdf:resource="&lcc-639-2;ArtificialOther"/>
-        <lcc-lr:identifies rdf:resource="&lcc-639-2;ArtificialOther"/>
+        <lcc-lr:denotes rdf:resource="&lcc-639-2;ArtificialLanguages"/>
+        <lcc-lr:identifies rdf:resource="&lcc-639-2;ArtificialLanguages"/>
         <lcc-lr:isMemberOf rdf:resource="&lcc-639-2;ISO639-2-CodeSet"/>
         <rdfs:isDefinedBy rdf:resource="&lcc-639-2;"/>
     </owl:NamedIndividual>
@@ -582,11 +582,11 @@ Copyright (c) 2015-2017 Unisys
 
    <owl:NamedIndividual rdf:about="&lcc-639-2;bat">
       <rdf:type rdf:resource="&lcc-lr;Alpha3Code"/>
-      <skos:definition rdf:datatype="&xsd;string">Alpha-3 language code for Baltic (Other)</skos:definition>
+      <skos:definition rdf:datatype="&xsd;string">Alpha-3 language code for Baltic languages</skos:definition>
       <rdfs:label>bat</rdfs:label>
       <lcc-lr:hasTag rdf:datatype="&xsd;string">bat</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-639-2;BalticOther"/>
-      <lcc-lr:identifies rdf:resource="&lcc-639-2;BalticOther"/>
+      <lcc-lr:denotes rdf:resource="&lcc-639-2;BalticLanguages"/>
+      <lcc-lr:identifies rdf:resource="&lcc-639-2;BalticLanguages"/>
       <lcc-lr:isMemberOf rdf:resource="&lcc-639-2;ISO639-2-CodeSet"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-639-2;"/>
    </owl:NamedIndividual>
@@ -637,11 +637,11 @@ Copyright (c) 2015-2017 Unisys
 
    <owl:NamedIndividual rdf:about="&lcc-639-2;ber">
       <rdf:type rdf:resource="&lcc-lr;Alpha3Code"/>
-      <skos:definition rdf:datatype="&xsd;string">Alpha-3 language code for Berber (Other)</skos:definition>
+      <skos:definition rdf:datatype="&xsd;string">Alpha-3 language code for Berber languages</skos:definition>
       <rdfs:label>ber</rdfs:label>
       <lcc-lr:hasTag rdf:datatype="&xsd;string">ber</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-639-2;BerberOther"/>
-      <lcc-lr:identifies rdf:resource="&lcc-639-2;BerberOther"/>
+      <lcc-lr:denotes rdf:resource="&lcc-639-2;BerberLanguages"/>
+      <lcc-lr:identifies rdf:resource="&lcc-639-2;BerberLanguages"/>
       <lcc-lr:isMemberOf rdf:resource="&lcc-639-2;ISO639-2-CodeSet"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-639-2;"/>
    </owl:NamedIndividual>
@@ -659,7 +659,7 @@ Copyright (c) 2015-2017 Unisys
 
    <owl:NamedIndividual rdf:about="&lcc-639-2;bih">
       <rdf:type rdf:resource="&lcc-lr;Alpha3Code"/>
-      <skos:definition rdf:datatype="&xsd;string">Alpha-3 language code for Bihari Languages</skos:definition>
+      <skos:definition rdf:datatype="&xsd;string">Alpha-3 language code for Bihari languages</skos:definition>
       <rdfs:label>bih</rdfs:label>
       <lcc-lr:hasTag rdf:datatype="&xsd;string">bih</lcc-lr:hasTag>
       <lcc-lr:denotes rdf:resource="&lcc-639-1;BihariLanguages"/>
@@ -712,10 +712,12 @@ Copyright (c) 2015-2017 Unisys
 
    <owl:NamedIndividual rdf:about="&lcc-639-2;bnt">
       <rdf:type rdf:resource="&lcc-lr;Alpha3Code"/>
-      <skos:definition rdf:datatype="&xsd;string">Alpha-3 language code for Bantu (Other)</skos:definition>
+      <skos:definition rdf:datatype="&xsd;string">Alpha-3 language code for Bantu languages</skos:definition>
       <rdfs:label>bnt</rdfs:label>
       <lcc-lr:hasTag rdf:datatype="&xsd;string">bnt</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-639-2;BantuOther"/>
+      <lcc-lr:denotes rdf:resource="&lcc-639-2;BantuLanguages"/>
+	  <lcc-lr:identifies rdf:resource="&lcc-639-1;BantuLanguages"/>
+      <lcc-lr:isMemberOf rdf:resource="&lcc-639-2;ISO639-2-CodeSet"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-639-2;"/>
    </owl:NamedIndividual>
 
@@ -828,10 +830,12 @@ Copyright (c) 2015-2017 Unisys
 
    <owl:NamedIndividual rdf:about="&lcc-639-2;cai">
       <rdf:type rdf:resource="&lcc-lr;Alpha3Code"/>
-      <skos:definition rdf:datatype="&xsd;string">Alpha-3 language code for Central American Indian (Other)</skos:definition>
+      <skos:definition rdf:datatype="&xsd;string">Alpha-3 language code for Central American Indian languages</skos:definition>
       <rdfs:label>cai</rdfs:label>
       <lcc-lr:hasTag rdf:datatype="&xsd;string">cai</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-639-2;CentralAmericanIndianOther"/>
+      <lcc-lr:denotes rdf:resource="&lcc-639-2;CentralAmericanIndianLanguages"/>
+	  <lcc-lr:identifies rdf:resource="&lcc-639-2;CentralAmericanIndianLanguages"/>
+      <lcc-lr:isMemberOf rdf:resource="&lcc-639-2;ISO639-2-CodeSet"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-639-2;"/>
    </owl:NamedIndividual>
 
@@ -860,10 +864,12 @@ Copyright (c) 2015-2017 Unisys
 
    <owl:NamedIndividual rdf:about="&lcc-639-2;cau">
       <rdf:type rdf:resource="&lcc-lr;Alpha3Code"/>
-      <skos:definition rdf:datatype="&xsd;string">Alpha-3 language code for Caucasian (Other)</skos:definition>
+      <skos:definition rdf:datatype="&xsd;string">Alpha-3 language code for Caucasian languages</skos:definition>
       <rdfs:label>cau</rdfs:label>
       <lcc-lr:hasTag rdf:datatype="&xsd;string">cau</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-639-2;CaucasianOther"/>
+      <lcc-lr:denotes rdf:resource="&lcc-639-2;CaucasianLanguages"/>
+	  <lcc-lr:identifies rdf:resource="&lcc-639-2;CaucasianLanguages"/>
+      <lcc-lr:isMemberOf rdf:resource="&lcc-639-2;ISO639-2-CodeSet"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-639-2;"/>
    </owl:NamedIndividual>
 
@@ -880,10 +886,12 @@ Copyright (c) 2015-2017 Unisys
 
    <owl:NamedIndividual rdf:about="&lcc-639-2;cel">
       <rdf:type rdf:resource="&lcc-lr;Alpha3Code"/>
-      <skos:definition rdf:datatype="&xsd;string">Alpha-3 language code for Celtic (Other)</skos:definition>
+      <skos:definition rdf:datatype="&xsd;string">Alpha-3 language code for Celtic languages</skos:definition>
       <rdfs:label>cel</rdfs:label>
       <lcc-lr:hasTag rdf:datatype="&xsd;string">cel</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-639-2;CelticOther"/>
+      <lcc-lr:denotes rdf:resource="&lcc-639-2;CelticLanguages"/>
+	  <lcc-lr:identifies rdf:resource="&lcc-639-1;CelticLanguages"/>
+      <lcc-lr:isMemberOf rdf:resource="&lcc-639-2;ISO639-2-CodeSet"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-639-2;"/>
    </owl:NamedIndividual>
 
@@ -1096,28 +1104,34 @@ Copyright (c) 2015-2017 Unisys
 
    <owl:NamedIndividual rdf:about="&lcc-639-2;cpe">
       <rdf:type rdf:resource="&lcc-lr;Alpha3Code"/>
-      <skos:definition rdf:datatype="&xsd;string">Alpha-3 language code for Creoles and pidgins, English-based (Other)</skos:definition>
+      <skos:definition rdf:datatype="&xsd;string">Alpha-3 language code for Creoles and pidgins, English based</skos:definition>
       <rdfs:label>cpe</rdfs:label>
       <lcc-lr:hasTag rdf:datatype="&xsd;string">cpe</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-639-2;EnglishBasedCreolesAndPidginsOther"/>
+      <lcc-lr:denotes rdf:resource="&lcc-639-2;CreolesAndPidginsEnglishBased"/>
+	  <lcc-lr:identifies rdf:resource="&lcc-639-2;CreolesAndPidginsEnglishBased"/>
+	  <lcc-lr:isMemberOf rdf:resource="&lcc-639-2;ISO639-2-CodeSet"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-639-2;"/>
    </owl:NamedIndividual>
 
    <owl:NamedIndividual rdf:about="&lcc-639-2;cpf">
       <rdf:type rdf:resource="&lcc-lr;Alpha3Code"/>
-      <skos:definition rdf:datatype="&xsd;string">Alpha-3 language code for Creoles and pidgins, French-based (Other)</skos:definition>
+      <skos:definition rdf:datatype="&xsd;string">Alpha-3 language code for Creoles and pidgins, French-based</skos:definition>
       <rdfs:label>cpf</rdfs:label>
       <lcc-lr:hasTag rdf:datatype="&xsd;string">cpf</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-639-2;FrenchBasedCreolesAndPidginsOther"/>
+      <lcc-lr:denotes rdf:resource="&lcc-639-2;CreolesAndPidginsFrenchBased"/>
+	  <lcc-lr:identifies rdf:resource="&lcc-639-2;CreolesAndPidginsFrenchBased"/>
+	  <lcc-lr:isMemberOf rdf:resource="&lcc-639-2;ISO639-2-CodeSet"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-639-2;"/>
    </owl:NamedIndividual>
 
    <owl:NamedIndividual rdf:about="&lcc-639-2;cpp">
       <rdf:type rdf:resource="&lcc-lr;Alpha3Code"/>
-      <skos:definition rdf:datatype="&xsd;string">Alpha-3 language code for Creoles and pidgins, Portuguese-based (Other)</skos:definition>
+      <skos:definition rdf:datatype="&xsd;string">Alpha-3 language code for Creoles and pidgins, Portuguese-based</skos:definition>
       <rdfs:label>cpp</rdfs:label>
       <lcc-lr:hasTag rdf:datatype="&xsd;string">cpp</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-639-2;PortugueseBasedCreolesAndPidginsOther"/>
+      <lcc-lr:denotes rdf:resource="&lcc-639-2;CreolesAndPidginsPortugueseBased"/>
+	  <lcc-lr:identifies rdf:resource="&lcc-639-2;CreolesAndPidginsPortugueseBased"/>
+	  <lcc-lr:isMemberOf rdf:resource="&lcc-639-2;ISO639-2-CodeSet"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-639-2;"/>
    </owl:NamedIndividual>
 
@@ -1127,6 +1141,8 @@ Copyright (c) 2015-2017 Unisys
       <rdfs:label>cre</rdfs:label>
       <lcc-lr:hasTag rdf:datatype="&xsd;string">cre</lcc-lr:hasTag>
       <lcc-lr:denotes rdf:resource="&lcc-639-1;Cree"/>
+	  <lcc-lr:identifies rdf:resource="&lcc-639-1;Cree"/>
+	  <lcc-lr:isMemberOf rdf:resource="&lcc-639-2;ISO639-2-CodeSet"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-639-2;"/>
    </owl:NamedIndividual>
 
@@ -1143,10 +1159,12 @@ Copyright (c) 2015-2017 Unisys
 
    <owl:NamedIndividual rdf:about="&lcc-639-2;crp">
       <rdf:type rdf:resource="&lcc-lr;Alpha3Code"/>
-      <skos:definition rdf:datatype="&xsd;string">Alpha-3 language code for Creoles and pidgins (Other)</skos:definition>
+      <skos:definition rdf:datatype="&xsd;string">Alpha-3 language code for Creoles and pidgins</skos:definition>
       <rdfs:label>crp</rdfs:label>
       <lcc-lr:hasTag rdf:datatype="&xsd;string">crp</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-639-2;CreolesAndPidginsOther"/>
+      <lcc-lr:denotes rdf:resource="&lcc-639-2;CreolesAndPidgins"/>
+	  <lcc-lr:identifies rdf:resource="&lcc-639-2;CreolesAndPidgins"/>
+      <lcc-lr:isMemberOf rdf:resource="&lcc-639-2;ISO639-2-CodeSet"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-639-2;"/>
    </owl:NamedIndividual>
 
@@ -1163,10 +1181,12 @@ Copyright (c) 2015-2017 Unisys
 
    <owl:NamedIndividual rdf:about="&lcc-639-2;cus">
       <rdf:type rdf:resource="&lcc-lr;Alpha3Code"/>
-      <skos:definition rdf:datatype="&xsd;string">Alpha-3 language code for Cushitic (Other)</skos:definition>
+      <skos:definition rdf:datatype="&xsd;string">Alpha-3 language code for Cushitic languages</skos:definition>
       <rdfs:label>cus</rdfs:label>
       <lcc-lr:hasTag rdf:datatype="&xsd;string">cus</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-639-2;CushiticOther"/>
+      <lcc-lr:denotes rdf:resource="&lcc-639-2;CushiticLanguages"/>
+	  <lcc-lr:identifies rdf:resource="&lcc-639-2;CushiticLanguages"/>
+      <lcc-lr:isMemberOf rdf:resource="&lcc-639-2;ISO639-2-CodeSet"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-639-2;"/>
    </owl:NamedIndividual>
 
@@ -1279,15 +1299,19 @@ Copyright (c) 2015-2017 Unisys
       <rdfs:label>doi</rdfs:label>
       <lcc-lr:hasTag rdf:datatype="&xsd;string">doi</lcc-lr:hasTag>
       <lcc-lr:denotes rdf:resource="&lcc-639-2;Dogri"/>
+	  <lcc-lr:identifies rdf:resource="&lcc-639-2;Dogri"/>
+      <lcc-lr:isMemberOf rdf:resource="&lcc-639-2;ISO639-2-CodeSet"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-639-2;"/>
    </owl:NamedIndividual>
 
    <owl:NamedIndividual rdf:about="&lcc-639-2;dra">
       <rdf:type rdf:resource="&lcc-lr;Alpha3Code"/>
-      <skos:definition rdf:datatype="&xsd;string">Alpha-3 language code for Dravidian (Other)</skos:definition>
+      <skos:definition rdf:datatype="&xsd;string">Alpha-3 language code for Dravidian languages</skos:definition>
       <rdfs:label>dra</rdfs:label>
       <lcc-lr:hasTag rdf:datatype="&xsd;string">dra</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-639-2;DravidianOther"/>
+      <lcc-lr:denotes rdf:resource="&lcc-639-2;DravidianLanguages"/>
+	  <lcc-lr:identifies rdf:resource="&lcc-639-2;DravidianLanguages"/>
+      <lcc-lr:isMemberOf rdf:resource="&lcc-639-2;ISO639-2-CodeSet"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-639-2;"/>
    </owl:NamedIndividual>
 
@@ -1526,11 +1550,11 @@ Copyright (c) 2015-2017 Unisys
 
    <owl:NamedIndividual rdf:about="&lcc-639-2;fiu">
       <rdf:type rdf:resource="&lcc-lr;Alpha3Code"/>
-      <skos:definition rdf:datatype="&xsd;string">Alpha-3 language code for Finno-Ugrian (Other)</skos:definition>
+      <skos:definition rdf:datatype="&xsd;string">Alpha-3 language code for Finno-Ugrian languages</skos:definition>
       <rdfs:label>fiu</rdfs:label>
       <lcc-lr:hasTag rdf:datatype="&xsd;string">fiu</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-639-2;FinnoUgrianOther"/>
-      <lcc-lr:identifies rdf:resource="&lcc-639-2;FinnoUgrianOther"/>
+      <lcc-lr:denotes rdf:resource="&lcc-639-2;FinnoUgrianLanguages"/>
+      <lcc-lr:identifies rdf:resource="&lcc-639-2;FinnoUgrianLanguages"/>
       <lcc-lr:isMemberOf rdf:resource="&lcc-639-2;ISO639-2-CodeSet"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-639-2;"/>
    </owl:NamedIndividual>
@@ -1659,11 +1683,11 @@ Copyright (c) 2015-2017 Unisys
 
    <owl:NamedIndividual rdf:about="&lcc-639-2;gem">
       <rdf:type rdf:resource="&lcc-lr;Alpha3Code"/>
-      <skos:definition rdf:datatype="&xsd;string">Alpha-3 language code for Germanic (Other)</skos:definition>
+      <skos:definition rdf:datatype="&xsd;string">Alpha-3 language code for Germanic languages</skos:definition>
       <rdfs:label>gem</rdfs:label>
       <lcc-lr:hasTag rdf:datatype="&xsd;string">gem</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-639-2;GermanicOther"/>
-      <lcc-lr:identifies rdf:resource="&lcc-639-2;GermanicOther"/>
+      <lcc-lr:denotes rdf:resource="&lcc-639-2;GermanicLanguages"/>
+      <lcc-lr:identifies rdf:resource="&lcc-639-2;GermanicLanguages"/>
       <lcc-lr:isMemberOf rdf:resource="&lcc-639-2;ISO639-2-CodeSet"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-639-2;"/>
    </owl:NamedIndividual>
@@ -1970,11 +1994,11 @@ Copyright (c) 2015-2017 Unisys
 
    <owl:NamedIndividual rdf:about="&lcc-639-2;him">
       <rdf:type rdf:resource="&lcc-lr;Alpha3Code"/>
-      <skos:definition rdf:datatype="&xsd;string">Alpha-3 language code for Himachali</skos:definition>
+      <skos:definition rdf:datatype="&xsd;string">Alpha-3 language code for Himachali languages</skos:definition>
       <rdfs:label>him</rdfs:label>
       <lcc-lr:hasTag rdf:datatype="&xsd;string">him</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-639-2;Himachali"/>
-      <lcc-lr:identifies rdf:resource="&lcc-639-2;Himachali"/>
+      <lcc-lr:denotes rdf:resource="&lcc-639-2;HimachaliLanguages"/>
+      <lcc-lr:identifies rdf:resource="&lcc-639-2;HimachaliLanguages"/>
       <lcc-lr:isMemberOf rdf:resource="&lcc-639-2;ISO639-2-CodeSet"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-639-2;"/>
    </owl:NamedIndividual>
@@ -2158,11 +2182,11 @@ Copyright (c) 2015-2017 Unisys
 
    <owl:NamedIndividual rdf:about="&lcc-639-2;inc">
       <rdf:type rdf:resource="&lcc-lr;Alpha3Code"/>
-      <skos:definition rdf:datatype="&xsd;string">Alpha-3 language code for Indic (Other)</skos:definition>
+      <skos:definition rdf:datatype="&xsd;string">Alpha-3 language code for Indic languages</skos:definition>
       <rdfs:label>inc</rdfs:label>
       <lcc-lr:hasTag rdf:datatype="&xsd;string">inc</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-639-2;IndicOther"/>
-      <lcc-lr:identifies rdf:resource="&lcc-639-2;IndicOther"/>
+      <lcc-lr:denotes rdf:resource="&lcc-639-2;IndicLanguages"/>
+      <lcc-lr:identifies rdf:resource="&lcc-639-2;IndicLanguages"/>
       <lcc-lr:isMemberOf rdf:resource="&lcc-639-2;ISO639-2-CodeSet"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-639-2;"/>
    </owl:NamedIndividual>
@@ -2180,11 +2204,11 @@ Copyright (c) 2015-2017 Unisys
 
    <owl:NamedIndividual rdf:about="&lcc-639-2;ine">
       <rdf:type rdf:resource="&lcc-lr;Alpha3Code"/>
-      <skos:definition rdf:datatype="&xsd;string">Alpha-3 language code for Indo-European (Other)</skos:definition>
+      <skos:definition rdf:datatype="&xsd;string">Alpha-3 language code for Indo-European languages</skos:definition>
       <rdfs:label>ine</rdfs:label>
       <lcc-lr:hasTag rdf:datatype="&xsd;string">ine</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-639-2;IndoEuropeanOther"/>
-      <lcc-lr:identifies rdf:resource="&lcc-639-2;IndoEuropeanOther"/>
+      <lcc-lr:denotes rdf:resource="&lcc-639-2;IndoEuropeanLanguages"/>
+      <lcc-lr:identifies rdf:resource="&lcc-639-2;IndoEuropeanLanguages"/>
       <lcc-lr:isMemberOf rdf:resource="&lcc-639-2;ISO639-2-CodeSet"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-639-2;"/>
    </owl:NamedIndividual>
@@ -2213,10 +2237,12 @@ Copyright (c) 2015-2017 Unisys
 
    <owl:NamedIndividual rdf:about="&lcc-639-2;ira">
       <rdf:type rdf:resource="&lcc-lr;Alpha3Code"/>
-      <skos:definition rdf:datatype="&xsd;string">Alpha-3 language code for Iranian (Other)</skos:definition>
+      <skos:definition rdf:datatype="&xsd;string">Alpha-3 language code for Iranian languages</skos:definition>
       <rdfs:label>ira</rdfs:label>
       <lcc-lr:hasTag rdf:datatype="&xsd;string">ira</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="IranianOther"/>
+      <lcc-lr:denotes rdf:resource="&lcc-639-2;IranianLanguages"/>
+	  <lcc-lr:identifies rdf:resource="&lcc-639-2;IranianLanguages"/>
+      <lcc-lr:isMemberOf rdf:resource="&lcc-639-2;ISO639-2-CodeSet"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-639-2;"/>
    </owl:NamedIndividual>
 
@@ -2442,11 +2468,11 @@ Copyright (c) 2015-2017 Unisys
 
    <owl:NamedIndividual rdf:about="&lcc-639-2;khi">
       <rdf:type rdf:resource="&lcc-lr;Alpha3Code"/>
-      <skos:definition rdf:datatype="&xsd;string">Alpha-3 language code for Khoisan (Other)</skos:definition>
+      <skos:definition rdf:datatype="&xsd;string">Alpha-3 language code for Khoisan languages</skos:definition>
       <rdfs:label>khi</rdfs:label>
       <lcc-lr:hasTag rdf:datatype="&xsd;string">khi</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-639-2;KhoisanOther"/>
-      <lcc-lr:identifies rdf:resource="&lcc-639-2;KhoisanOther"/>
+      <lcc-lr:denotes rdf:resource="&lcc-639-2;KhoisanLanguages"/>
+      <lcc-lr:identifies rdf:resource="&lcc-639-2;KhoisanLanguages"/>
       <lcc-lr:isMemberOf rdf:resource="&lcc-639-2;ISO639-2-CodeSet"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-639-2;"/>
    </owl:NamedIndividual>
@@ -2983,11 +3009,11 @@ Copyright (c) 2015-2017 Unisys
 
    <owl:NamedIndividual rdf:about="&lcc-639-2;map">
       <rdf:type rdf:resource="&lcc-lr;Alpha3Code"/>
-      <skos:definition rdf:datatype="&xsd;string">Alpha-3 language code for Austronesian (Other)</skos:definition>
+      <skos:definition rdf:datatype="&xsd;string">Alpha-3 language code for Austronesian languages</skos:definition>
       <rdfs:label>map</rdfs:label>
       <lcc-lr:hasTag rdf:datatype="&xsd;string">map</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-639-2;AustronesianOther"/>
-      <lcc-lr:identifies rdf:resource="&lcc-639-2;AustronesianOther"/>
+      <lcc-lr:denotes rdf:resource="&lcc-639-2;AustronesianLanguages"/>
+      <lcc-lr:identifies rdf:resource="&lcc-639-2;AustronesianLanguages"/>
       <lcc-lr:isMemberOf rdf:resource="&lcc-639-2;ISO639-2-CodeSet"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-639-2;"/>
    </owl:NamedIndividual>
@@ -3105,11 +3131,11 @@ Copyright (c) 2015-2017 Unisys
 
    <owl:NamedIndividual rdf:about="&lcc-639-2;mkh">
       <rdf:type rdf:resource="&lcc-lr;Alpha3Code"/>
-      <skos:definition rdf:datatype="&xsd;string">Alpha-3 language code for Mon-Khmer (Other)</skos:definition>
+      <skos:definition rdf:datatype="&xsd;string">Alpha-3 language code for Mon-Khmer languages</skos:definition>
       <rdfs:label>mkh</rdfs:label>
       <lcc-lr:hasTag rdf:datatype="&xsd;string">mkh</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-639-2;MonKhmerOther"/>
-      <lcc-lr:identifies rdf:resource="&lcc-639-2;MonKhmerOther"/>
+      <lcc-lr:denotes rdf:resource="&lcc-639-2;MonKhmerLanguages"/>
+      <lcc-lr:identifies rdf:resource="&lcc-639-2;MonKhmerLanguages"/>
       <lcc-lr:isMemberOf rdf:resource="&lcc-639-2;ISO639-2-CodeSet"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-639-2;"/>
    </owl:NamedIndividual>
@@ -3295,8 +3321,8 @@ Copyright (c) 2015-2017 Unisys
       <skos:definition rdf:datatype="&xsd;string">Alpha-3 language code for North American Indian (Other)</skos:definition>
       <rdfs:label>nai</rdfs:label>
       <lcc-lr:hasTag rdf:datatype="&xsd;string">nai</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-639-2;NorthAmericanIndianOther"/>
-      <lcc-lr:identifies rdf:resource="&lcc-639-2;NorthAmericanIndianOther"/>
+      <lcc-lr:denotes rdf:resource="&lcc-639-2;NorthAmericanIndianLanguages"/>
+      <lcc-lr:identifies rdf:resource="&lcc-639-2;NorthAmericanIndianLanguages"/>
       <lcc-lr:isMemberOf rdf:resource="&lcc-639-2;ISO639-2-CodeSet"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-639-2;"/>
    </owl:NamedIndividual>
@@ -3413,11 +3439,11 @@ Copyright (c) 2015-2017 Unisys
 
    <owl:NamedIndividual rdf:about="&lcc-639-2;nic">
       <rdf:type rdf:resource="&lcc-lr;Alpha3Code"/>
-      <skos:definition rdf:datatype="&xsd;string">Alpha-3 language code for Niger-Kordofanian (Other)</skos:definition>
+      <skos:definition rdf:datatype="&xsd;string">Alpha-3 language code for Niger-Kordofanian languages</skos:definition>
       <rdfs:label>nic</rdfs:label>
       <lcc-lr:hasTag rdf:datatype="&xsd;string">nic</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-639-2;NigerKordofanianOther"/>
-      <lcc-lr:identifies rdf:resource="&lcc-639-2;NigerKordofanianOther"/>
+      <lcc-lr:denotes rdf:resource="&lcc-639-2;NigerKordofanianLanguages"/>
+      <lcc-lr:identifies rdf:resource="&lcc-639-2;NigerKordofanianLanguages"/>
       <lcc-lr:isMemberOf rdf:resource="&lcc-639-2;ISO639-2-CodeSet"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-639-2;"/>
    </owl:NamedIndividual>
@@ -3677,10 +3703,12 @@ Copyright (c) 2015-2017 Unisys
 
    <owl:NamedIndividual rdf:about="&lcc-639-2;paa">
       <rdf:type rdf:resource="&lcc-lr;Alpha3Code"/>
-      <skos:definition rdf:datatype="&xsd;string">Alpha-3 language code for Papuan (Other)</skos:definition>
+      <skos:definition rdf:datatype="&xsd;string">Alpha-3 language code for Papuan languages</skos:definition>
       <rdfs:label>paa</rdfs:label>
       <lcc-lr:hasTag rdf:datatype="&xsd;string">paa</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="PapuanOther"/>
+      <lcc-lr:denotes rdf:resource="&lcc-639-2;PapuanLanguages"/>
+	  <lcc-lr:identifies rdf:resource="&lcc-639-2;PapuanLanguages"/>
+	  <lcc-lr:isMemberOf rdf:resource="&lcc-639-2;ISO639-2-CodeSet"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-639-2;"/>
    </owl:NamedIndividual>
 
@@ -3775,13 +3803,11 @@ Copyright (c) 2015-2017 Unisys
 
    <owl:NamedIndividual rdf:about="&lcc-639-2;phi">
       <rdf:type rdf:resource="&lcc-lr;Alpha3Code"/>
-      <skos:definition rdf:datatype="&xsd;string">
-    Alpha-3 language code for Philippine (Other)
-  </skos:definition>
+      <skos:definition rdf:datatype="&xsd;string">Alpha-3 language code for Philippine languages</skos:definition>
       <rdfs:label>phi</rdfs:label>
       <lcc-lr:hasTag rdf:datatype="&xsd;string">phi</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-639-2;PhilippineOther"/>
-      <lcc-lr:identifies rdf:resource="&lcc-639-2;PhilippineOther"/>
+      <lcc-lr:denotes rdf:resource="&lcc-639-2;PhilippineLanguages"/>
+      <lcc-lr:identifies rdf:resource="&lcc-639-2;PhilippineLanguages"/>
       <lcc-lr:isMemberOf rdf:resource="&lcc-639-2;ISO639-2-CodeSet"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-639-2;"/>
    </owl:NamedIndividual>
@@ -3920,11 +3946,11 @@ Copyright (c) 2015-2017 Unisys
 
    <owl:NamedIndividual rdf:about="&lcc-639-2;roa">
       <rdf:type rdf:resource="&lcc-lr;Alpha3Code"/>
-      <skos:definition rdf:datatype="&xsd;string">Alpha-3 language code for Romance (Other)</skos:definition>
+      <skos:definition rdf:datatype="&xsd;string">Alpha-3 language code for Romance languages</skos:definition>
       <rdfs:label>roa</rdfs:label>
       <lcc-lr:hasTag rdf:datatype="&xsd;string">roa</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-639-2;RomanceOther"/>
-      <lcc-lr:identifies rdf:resource="&lcc-639-2;RomanceOther"/>
+      <lcc-lr:denotes rdf:resource="&lcc-639-2;RomanceLanguages"/>
+      <lcc-lr:identifies rdf:resource="&lcc-639-2;RomanceLanguages"/>
       <lcc-lr:isMemberOf rdf:resource="&lcc-639-2;ISO639-2-CodeSet"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-639-2;"/>
    </owl:NamedIndividual>
@@ -4031,11 +4057,11 @@ Copyright (c) 2015-2017 Unisys
 
    <owl:NamedIndividual rdf:about="&lcc-639-2;sai">
       <rdf:type rdf:resource="&lcc-lr;Alpha3Code"/>
-      <skos:definition rdf:datatype="&xsd;string">Alpha-3 language code for South American Indian (Other)</skos:definition>
+      <skos:definition rdf:datatype="&xsd;string">Alpha-3 language code for South American Indian</skos:definition>
       <rdfs:label>sai</rdfs:label>
       <lcc-lr:hasTag rdf:datatype="&xsd;string">sai</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-639-2;SouthAmericanIndianOther"/>
-      <lcc-lr:identifies rdf:resource="&lcc-639-2;SouthAmericanIndianOther"/>
+      <lcc-lr:denotes rdf:resource="&lcc-639-2;SouthAmericanIndianLanguages"/>
+      <lcc-lr:identifies rdf:resource="&lcc-639-2;SouthAmericanIndianLanguages"/>
       <lcc-lr:isMemberOf rdf:resource="&lcc-639-2;ISO639-2-CodeSet"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-639-2;"/>
    </owl:NamedIndividual>
@@ -4130,11 +4156,11 @@ Copyright (c) 2015-2017 Unisys
 
    <owl:NamedIndividual rdf:about="&lcc-639-2;sem">
       <rdf:type rdf:resource="&lcc-lr;Alpha3Code"/>
-      <skos:definition rdf:datatype="&xsd;string">Alpha-3 language code for Semitic (Other)</skos:definition>
+      <skos:definition rdf:datatype="&xsd;string">Alpha-3 language code for Semitic languages</skos:definition>
       <rdfs:label>sem</rdfs:label>
       <lcc-lr:hasTag rdf:datatype="&xsd;string">sem</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-639-2;SemiticOther"/>
-      <lcc-lr:identifies rdf:resource="&lcc-639-2;SemiticOther"/>
+      <lcc-lr:denotes rdf:resource="&lcc-639-2;SemiticLanguages"/>
+      <lcc-lr:identifies rdf:resource="&lcc-639-2;SemiticLanguages"/>
       <lcc-lr:isMemberOf rdf:resource="&lcc-639-2;ISO639-2-CodeSet"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-639-2;"/>
    </owl:NamedIndividual>
@@ -4152,7 +4178,7 @@ Copyright (c) 2015-2017 Unisys
 
    <owl:NamedIndividual rdf:about="&lcc-639-2;sgn">
       <rdf:type rdf:resource="&lcc-lr;Alpha3Code"/>
-      <skos:definition rdf:datatype="&xsd;string">Alpha-3 language code for Sign Languages</skos:definition>
+      <skos:definition rdf:datatype="&xsd;string">Alpha-3 language code for Sign languages</skos:definition>
       <rdfs:label>sgn</rdfs:label>
       <lcc-lr:hasTag rdf:datatype="&xsd;string">sgn</lcc-lr:hasTag>
       <lcc-lr:denotes rdf:resource="&lcc-639-2;SignLanguages"/>
@@ -4207,22 +4233,22 @@ Copyright (c) 2015-2017 Unisys
 
    <owl:NamedIndividual rdf:about="&lcc-639-2;sit">
       <rdf:type rdf:resource="&lcc-lr;Alpha3Code"/>
-      <skos:definition rdf:datatype="&xsd;string">Alpha-3 language code for Sino-Tibetan (Other)</skos:definition>
+      <skos:definition rdf:datatype="&xsd;string">Alpha-3 language code for Sino-Tibetan languages</skos:definition>
       <rdfs:label>sit</rdfs:label>
       <lcc-lr:hasTag rdf:datatype="&xsd;string">sit</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-639-2;SinoTibetanOther"/>
-      <lcc-lr:identifies rdf:resource="&lcc-639-2;SinoTibetanOther"/>
+      <lcc-lr:denotes rdf:resource="&lcc-639-2;SinoTibetanLanguages"/>
+      <lcc-lr:identifies rdf:resource="&lcc-639-2;SinoTibetanLanguages"/>
       <lcc-lr:isMemberOf rdf:resource="&lcc-639-2;ISO639-2-CodeSet"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-639-2;"/>
    </owl:NamedIndividual>
 
    <owl:NamedIndividual rdf:about="&lcc-639-2;sla">
       <rdf:type rdf:resource="&lcc-lr;Alpha3Code"/>
-      <skos:definition rdf:datatype="&xsd;string">Alpha-3 language code for Slavic (Other)</skos:definition>
+      <skos:definition rdf:datatype="&xsd;string">Alpha-3 language code for Slavic languages</skos:definition>
       <rdfs:label>sla</rdfs:label>
       <lcc-lr:hasTag rdf:datatype="&xsd;string">sla</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-639-2;SlavicOther"/>
-      <lcc-lr:identifies rdf:resource="&lcc-639-2;SlavicOther"/>
+      <lcc-lr:denotes rdf:resource="&lcc-639-2;SlavicLanguages"/>
+      <lcc-lr:identifies rdf:resource="&lcc-639-2;SlavicLanguages"/>
       <lcc-lr:isMemberOf rdf:resource="&lcc-639-2;ISO639-2-CodeSet"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-639-2;"/>
    </owl:NamedIndividual>
@@ -4274,11 +4300,11 @@ Copyright (c) 2015-2017 Unisys
 
    <owl:NamedIndividual rdf:about="&lcc-639-2;smi">
       <rdf:type rdf:resource="&lcc-lr;Alpha3Code"/>
-      <skos:definition rdf:datatype="&xsd;string">Alpha-3 language code for Sami languages (Other)</skos:definition>
+      <skos:definition rdf:datatype="&xsd;string">Alpha-3 language code for Sami languages</skos:definition>
       <rdfs:label>smi</rdfs:label>
       <lcc-lr:hasTag rdf:datatype="&xsd;string">smi</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-639-2;SamiLanguagesOther"/>
-      <lcc-lr:identifies rdf:resource="&lcc-639-2;SamiLanguagesOther"/>
+      <lcc-lr:denotes rdf:resource="&lcc-639-2;SamiLanguages"/>
+      <lcc-lr:identifies rdf:resource="&lcc-639-2;SamiLanguages"/>
       <lcc-lr:isMemberOf rdf:resource="&lcc-639-2;ISO639-2-CodeSet"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-639-2;"/>
    </owl:NamedIndividual>
@@ -4450,11 +4476,11 @@ Copyright (c) 2015-2017 Unisys
 
    <owl:NamedIndividual rdf:about="&lcc-639-2;ssa">
       <rdf:type rdf:resource="&lcc-lr;Alpha3Code"/>
-      <skos:definition rdf:datatype="&xsd;string">Alpha-3 language code for Nilo-Saharan (Other)</skos:definition>
+      <skos:definition rdf:datatype="&xsd;string">Alpha-3 language code for Nilo-Saharan</skos:definition>
       <rdfs:label>ssa</rdfs:label>
       <lcc-lr:hasTag rdf:datatype="&xsd;string">ssa</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-639-2;NiloSaharanOther"/>
-      <lcc-lr:identifies rdf:resource="&lcc-639-2;NiloSaharanOther"/>
+      <lcc-lr:denotes rdf:resource="&lcc-639-2;NiloSaharanLanguages"/>
+      <lcc-lr:identifies rdf:resource="&lcc-639-2;NiloSaharanLanguages"/>
       <lcc-lr:isMemberOf rdf:resource="&lcc-639-2;ISO639-2-CodeSet"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-639-2;"/>
    </owl:NamedIndividual>
@@ -4571,11 +4597,11 @@ Copyright (c) 2015-2017 Unisys
 
    <owl:NamedIndividual rdf:about="&lcc-639-2;tai">
       <rdf:type rdf:resource="&lcc-lr;Alpha3Code"/>
-      <skos:definition rdf:datatype="&xsd;string">Alpha-3 language code for Tai (Other)</skos:definition>
+      <skos:definition rdf:datatype="&xsd;string">Alpha-3 language code for Tai languages</skos:definition>
       <rdfs:label>tai</rdfs:label>
       <lcc-lr:hasTag rdf:datatype="&xsd;string">tai</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-639-2;TaiOther"/>
-      <lcc-lr:identifies rdf:resource="&lcc-639-2;TaiOther"/>
+      <lcc-lr:denotes rdf:resource="&lcc-639-2;TaiLanguages"/>
+      <lcc-lr:identifies rdf:resource="&lcc-639-2;TaiLanguages"/>
       <lcc-lr:isMemberOf rdf:resource="&lcc-639-2;ISO639-2-CodeSet"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-639-2;"/>
    </owl:NamedIndividual>
@@ -4869,11 +4895,11 @@ Copyright (c) 2015-2017 Unisys
 
    <owl:NamedIndividual rdf:about="&lcc-639-2;tut">
       <rdf:type rdf:resource="&lcc-lr;Alpha3Code"/>
-      <skos:definition rdf:datatype="&xsd;string">Alpha-3 language code for Altaic (Other)</skos:definition>
+      <skos:definition rdf:datatype="&xsd;string">Alpha-3 language code for Altaic languages</skos:definition>
       <rdfs:label>tut</rdfs:label>
       <lcc-lr:hasTag rdf:datatype="&xsd;string">tut</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-639-2;AltaicOther"/>
-      <lcc-lr:identifies rdf:resource="&lcc-639-2;AltaicOther"/>
+      <lcc-lr:denotes rdf:resource="&lcc-639-2;AltaicLanguages"/>
+      <lcc-lr:identifies rdf:resource="&lcc-639-2;AltaicLanguages"/>
       <lcc-lr:isMemberOf rdf:resource="&lcc-639-2;ISO639-2-CodeSet"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-639-2;"/>
    </owl:NamedIndividual>
@@ -5702,12 +5728,12 @@ Copyright (c) 2015-2017 Unisys
       <rdfs:isDefinedBy rdf:resource="&lcc-639-2;"/>
    </owl:NamedIndividual>
 
-   <owl:NamedIndividual rdf:about="&lcc-639-2;AfroAsiaticOther">
+   <owl:NamedIndividual rdf:about="&lcc-639-2;AfroAsiaticLanguages">
       <rdf:type rdf:resource="&lcc-lr;RemainderGroup"/>
-      <skos:definition rdf:datatype="&xsd;string">Language code for Afro-Asiatic (Other)</skos:definition>
-      <rdfs:label>Afro-Asiatic - Other</rdfs:label>
-      <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Afro-Asiatic (Other)</lcc-lr:hasEnglishName>
-      <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">afro-asiatiques, autres langues</lcc-lr:hasFrenchName>
+      <skos:definition rdf:datatype="&xsd;string">Language code for Afro-Asiatic languages</skos:definition>
+      <rdfs:label>Afro-Asiatic languages</rdfs:label>
+      <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Afro-Asiatic languages</lcc-lr:hasEnglishName>
+      <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">afro-asiatiques, langues</lcc-lr:hasFrenchName>
       <rdfs:isDefinedBy rdf:resource="&lcc-639-2;"/>
    </owl:NamedIndividual>
 
@@ -5750,12 +5776,12 @@ Copyright (c) 2015-2017 Unisys
       <rdfs:isDefinedBy rdf:resource="&lcc-639-2;"/>
    </owl:NamedIndividual>
 
-   <owl:NamedIndividual rdf:about="&lcc-639-2;AltaicOther">
+   <owl:NamedIndividual rdf:about="&lcc-639-2;AltaicLanguages">
       <rdf:type rdf:resource="&lcc-lr;RemainderGroup"/>
-      <skos:definition rdf:datatype="&xsd;string">Language code for Altaic (Other)</skos:definition>
-      <rdfs:label>Altaic - Other</rdfs:label>
-      <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Altaic (Other)</lcc-lr:hasEnglishName>
-      <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">altaïques, autres langues</lcc-lr:hasFrenchName>
+      <skos:definition rdf:datatype="&xsd;string">Language code for Altaic languages</skos:definition>
+      <rdfs:label>Altaic languages</rdfs:label>
+      <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Altaic languages</lcc-lr:hasEnglishName>
+      <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">altaïques, langues</lcc-lr:hasFrenchName>
       <rdfs:isDefinedBy rdf:resource="&lcc-639-2;"/>
    </owl:NamedIndividual>
 
@@ -5794,7 +5820,7 @@ Copyright (c) 2015-2017 Unisys
       <skos:definition rdf:datatype="&xsd;string">Language code for Apache languages</skos:definition>
       <rdfs:label>Apache languages</rdfs:label>
       <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Apache languages</lcc-lr:hasEnglishName>
-      <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">apache</lcc-lr:hasFrenchName>
+      <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">apaches, langues</lcc-lr:hasFrenchName>
       <rdfs:isDefinedBy rdf:resource="&lcc-639-2;"/>
    </owl:NamedIndividual>
 
@@ -5828,12 +5854,12 @@ Copyright (c) 2015-2017 Unisys
       <rdfs:isDefinedBy rdf:resource="&lcc-639-2;"/>
    </owl:NamedIndividual>
 
-   <owl:NamedIndividual rdf:about="&lcc-639-2;ArtificialOther">
+   <owl:NamedIndividual rdf:about="&lcc-639-2;ArtificialLanguages">
       <rdf:type rdf:resource="&lcc-lr;RemainderGroup"/>
-      <skos:definition rdf:datatype="&xsd;string">Language code for Artificial (Other)</skos:definition>
-      <rdfs:label>Artificial - Other</rdfs:label>
-      <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Artificial (Other)</lcc-lr:hasEnglishName>
-      <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">artificielles, autres langues</lcc-lr:hasFrenchName>
+      <skos:definition rdf:datatype="&xsd;string">Language code for Artificial languages</skos:definition>
+      <rdfs:label>Artificial languages</rdfs:label>
+      <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Artificial languages</lcc-lr:hasEnglishName>
+      <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">artificielles, langues</lcc-lr:hasFrenchName>
       <rdfs:isDefinedBy rdf:resource="&lcc-639-2;"/>
    </owl:NamedIndividual>
 
@@ -5871,12 +5897,12 @@ Copyright (c) 2015-2017 Unisys
       <rdfs:isDefinedBy rdf:resource="&lcc-639-2;"/>
    </owl:NamedIndividual>
 
-   <owl:NamedIndividual rdf:about="&lcc-639-2;AustronesianOther">
+   <owl:NamedIndividual rdf:about="&lcc-639-2;AustronesianLanguages">
       <rdf:type rdf:resource="&lcc-lr;RemainderGroup"/>
-      <skos:definition rdf:datatype="&xsd;string">Language code for Austronesian (Other)</skos:definition>
-      <rdfs:label>Austronesian - Other</rdfs:label>
-      <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Austronesian (Other)</lcc-lr:hasEnglishName>
-      <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">malayo-polynésiennes, autres langues</lcc-lr:hasFrenchName>
+      <skos:definition rdf:datatype="&xsd;string">Language code for Austronesian languages</skos:definition>
+      <rdfs:label>Austronesian languages</rdfs:label>
+      <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Austronesian languages</lcc-lr:hasEnglishName>
+      <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">austronésiennes, langues</lcc-lr:hasFrenchName>
       <rdfs:isDefinedBy rdf:resource="&lcc-639-2;"/>
    </owl:NamedIndividual>
 
@@ -5900,12 +5926,12 @@ Copyright (c) 2015-2017 Unisys
       <rdfs:isDefinedBy rdf:resource="&lcc-639-2;"/>
    </owl:NamedIndividual>
 
-   <owl:NamedIndividual rdf:about="&lcc-639-2;BalticOther">
+   <owl:NamedIndividual rdf:about="&lcc-639-2;BalticLanguages">
       <rdf:type rdf:resource="&lcc-lr;RemainderGroup"/>
-      <skos:definition rdf:datatype="&xsd;string">Language code for Baltic (Other)</skos:definition>
-      <rdfs:label>Baltic - Other</rdfs:label>
-      <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Baltic (Other)</lcc-lr:hasEnglishName>
-      <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">baltiques, autres langues</lcc-lr:hasFrenchName>
+      <skos:definition rdf:datatype="&xsd;string">Language code for Baltic languages</skos:definition>
+      <rdfs:label>Baltic languages</rdfs:label>
+      <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Baltic languages</lcc-lr:hasEnglishName>
+      <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">baltes, langues</lcc-lr:hasFrenchName>
       <rdfs:isDefinedBy rdf:resource="&lcc-639-2;"/>
    </owl:NamedIndividual>
 
@@ -5924,7 +5950,7 @@ Copyright (c) 2015-2017 Unisys
       <skos:definition rdf:datatype="&xsd;string">Language code for Bamileke languages</skos:definition>
       <rdfs:label>Bamileke languages</rdfs:label>
       <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Bamileke languages</lcc-lr:hasEnglishName>
-      <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">bamilékés, langues</lcc-lr:hasFrenchName>
+      <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">bamiléké, langues</lcc-lr:hasFrenchName>
       <rdfs:isDefinedBy rdf:resource="&lcc-639-2;"/>
    </owl:NamedIndividual>
 
@@ -5937,12 +5963,12 @@ Copyright (c) 2015-2017 Unisys
       <rdfs:isDefinedBy rdf:resource="&lcc-639-2;"/>
    </owl:NamedIndividual>
 
-   <owl:NamedIndividual rdf:about="&lcc-639-2;BantuOther">
+   <owl:NamedIndividual rdf:about="&lcc-639-2;BantuLanguages">
       <rdf:type rdf:resource="&lcc-lr;RemainderGroup"/>
-      <skos:definition rdf:datatype="&xsd;string">Language code for Bantu (Other)</skos:definition>
-      <rdfs:label>Bantu - Other</rdfs:label>
-      <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Bantu (Other)</lcc-lr:hasEnglishName>
-      <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">bantoues, autres langues</lcc-lr:hasFrenchName>
+      <skos:definition rdf:datatype="&xsd;string">Language code for Bantu languages</skos:definition>
+      <rdfs:label>Bantu languages</rdfs:label>
+      <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Bantu languages</lcc-lr:hasEnglishName>
+      <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">bantou, langues</lcc-lr:hasFrenchName>
       <rdfs:isDefinedBy rdf:resource="&lcc-639-2;"/>
    </owl:NamedIndividual>
 
@@ -5986,12 +6012,12 @@ Copyright (c) 2015-2017 Unisys
       <rdfs:isDefinedBy rdf:resource="&lcc-639-2;"/>
    </owl:NamedIndividual>
 
-   <owl:NamedIndividual rdf:about="&lcc-639-2;BerberOther">
+   <owl:NamedIndividual rdf:about="&lcc-639-2;BerberLanguages">
       <rdf:type rdf:resource="&lcc-lr;RemainderGroup"/>
-      <skos:definition rdf:datatype="&xsd;string">Language code for Berber (Other)</skos:definition>
-      <rdfs:label>Berber - Other</rdfs:label>
-      <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Berber (Other)</lcc-lr:hasEnglishName>
-      <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">berbères, autres langues</lcc-lr:hasFrenchName>
+      <skos:definition rdf:datatype="&xsd;string">Language code for Berber languages</skos:definition>
+      <rdfs:label>Berber languages</rdfs:label>
+      <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Berber languages</lcc-lr:hasEnglishName>
+      <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">berbères, langues</lcc-lr:hasFrenchName>
       <rdfs:isDefinedBy rdf:resource="&lcc-639-2;"/>
    </owl:NamedIndividual>
 
@@ -6092,12 +6118,12 @@ Copyright (c) 2015-2017 Unisys
       <rdfs:isDefinedBy rdf:resource="&lcc-639-2;"/>
    </owl:NamedIndividual>
 
-   <owl:NamedIndividual rdf:about="&lcc-639-2;CaucasianOther">
+   <owl:NamedIndividual rdf:about="&lcc-639-2;CaucasianLanguages">
       <rdf:type rdf:resource="&lcc-lr;RemainderGroup"/>
-      <skos:definition rdf:datatype="&xsd;string">Language code for Caucasian (Other)</skos:definition>
-      <rdfs:label>Caucasian - Other</rdfs:label>
-      <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Caucasian (Other)</lcc-lr:hasEnglishName>
-      <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">caucasiennes, autres langues</lcc-lr:hasFrenchName>
+      <skos:definition rdf:datatype="&xsd;string">Language code for Caucasian languages</skos:definition>
+      <rdfs:label>Caucasian languages</rdfs:label>
+      <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Caucasian languages</lcc-lr:hasEnglishName>
+      <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">caucasiennes, langues</lcc-lr:hasFrenchName>
       <rdfs:isDefinedBy rdf:resource="&lcc-639-2;"/>
    </owl:NamedIndividual>
 
@@ -6111,21 +6137,22 @@ Copyright (c) 2015-2017 Unisys
       <rdfs:isDefinedBy rdf:resource="&lcc-639-2;"/>
    </owl:NamedIndividual>
 
-   <owl:NamedIndividual rdf:about="&lcc-639-2;CelticOther">
+   <owl:NamedIndividual rdf:about="&lcc-639-2;CelticLanguages">
       <rdf:type rdf:resource="&lcc-lr;RemainderGroup"/>
-      <skos:definition rdf:datatype="&xsd;string">Language code for Celtic (Other)</skos:definition>
-      <rdfs:label>Celtic - Other</rdfs:label>
-      <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Celtic (Other)</lcc-lr:hasEnglishName>
-      <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">celtiques, autres langues</lcc-lr:hasFrenchName>
+      <skos:definition rdf:datatype="&xsd;string">Language code for Celtic languages</skos:definition>
+      <rdfs:label>Celtic languages</rdfs:label>
+      <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Celtic languages</lcc-lr:hasEnglishName>
+      <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">celtiques, langues</lcc-lr:hasFrenchName>
+	  <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">celtes, langues</lcc-lr:hasFrenchName>
       <rdfs:isDefinedBy rdf:resource="&lcc-639-2;"/>
    </owl:NamedIndividual>
 
-   <owl:NamedIndividual rdf:about="&lcc-639-2;CentralAmericanIndianOther">
+   <owl:NamedIndividual rdf:about="&lcc-639-2;CentralAmericanIndianLanguages">
       <rdf:type rdf:resource="&lcc-lr;RemainderGroup"/>
-      <skos:definition rdf:datatype="&xsd;string">Language code for Central American Indian (Other)</skos:definition>
-      <rdfs:label>Central American Indian - Other</rdfs:label>
-      <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Central American Indian (Other)</lcc-lr:hasEnglishName>
-      <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">indiennes d'Amérique centrale, autres langues</lcc-lr:hasFrenchName>
+      <skos:definition rdf:datatype="&xsd;string">Language code for Central American Indian languages</skos:definition>
+      <rdfs:label>Central American Indian languages</rdfs:label>
+      <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Central American Indian languages</lcc-lr:hasEnglishName>
+      <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">amérindiennes de l'Amérique centrale, langues</lcc-lr:hasFrenchName>
       <rdfs:isDefinedBy rdf:resource="&lcc-639-2;"/>
    </owl:NamedIndividual>
 
@@ -6260,12 +6287,12 @@ Copyright (c) 2015-2017 Unisys
       <rdfs:isDefinedBy rdf:resource="&lcc-639-2;"/>
    </owl:NamedIndividual>
 
-   <owl:NamedIndividual rdf:about="&lcc-639-2;CreolesAndPidginsOther">
+   <owl:NamedIndividual rdf:about="&lcc-639-2;CreolesAndPidgins">
       <rdf:type rdf:resource="&lcc-lr;RemainderGroup"/>
-      <skos:definition rdf:datatype="&xsd;string">Language code for Creoles and pidgins (Other)</skos:definition>
-      <rdfs:label>Creoles and pidgins - Other</rdfs:label>
-      <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Creoles and pidgins (Other)</lcc-lr:hasEnglishName>
-      <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">créoles et pidgins divers</lcc-lr:hasFrenchName>
+      <skos:definition rdf:datatype="&xsd;string">Language code for Creoles and pidgins</skos:definition>
+      <rdfs:label>Creoles and pidgins</rdfs:label>
+      <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Creoles and pidgins</lcc-lr:hasEnglishName>
+      <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">créoles et pidgins</lcc-lr:hasFrenchName>
       <rdfs:isDefinedBy rdf:resource="&lcc-639-2;"/>
    </owl:NamedIndividual>
 
@@ -6280,12 +6307,12 @@ Copyright (c) 2015-2017 Unisys
       <rdfs:isDefinedBy rdf:resource="&lcc-639-2;"/>
    </owl:NamedIndividual>
 
-   <owl:NamedIndividual rdf:about="&lcc-639-2;CushiticOther">
+   <owl:NamedIndividual rdf:about="&lcc-639-2;CushiticLanguages">
       <rdf:type rdf:resource="&lcc-lr;RemainderGroup"/>
-      <skos:definition rdf:datatype="&xsd;string">Language code for Cushitic (Other)</skos:definition>
-      <rdfs:label>Cushitic - Other</rdfs:label>
-      <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Cushitic (Other)</lcc-lr:hasEnglishName>
-      <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">couchitiques, autres langues</lcc-lr:hasFrenchName>
+      <skos:definition rdf:datatype="&xsd;string">Language code for Cushitic languages</skos:definition>
+      <rdfs:label>Cushitic languages</rdfs:label>
+      <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Cushitic languages</lcc-lr:hasEnglishName>
+      <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">couchitiques, langues</lcc-lr:hasFrenchName>
       <rdfs:isDefinedBy rdf:resource="&lcc-639-2;"/>
    </owl:NamedIndividual>
 
@@ -6349,12 +6376,12 @@ Copyright (c) 2015-2017 Unisys
       <rdfs:isDefinedBy rdf:resource="&lcc-639-2;"/>
    </owl:NamedIndividual>
 
-   <owl:NamedIndividual rdf:about="&lcc-639-2;DravidianOther">
+   <owl:NamedIndividual rdf:about="&lcc-639-2;DravidianLanguages">
       <rdf:type rdf:resource="&lcc-lr;RemainderGroup"/>
-      <skos:definition rdf:datatype="&xsd;string">Language code for Dravidian (Other)</skos:definition>
-      <rdfs:label>Dravidian - Other</rdfs:label>
-      <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Dravidian (Other)</lcc-lr:hasEnglishName>
-      <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">dravidiennes, autres langues</lcc-lr:hasFrenchName>
+      <skos:definition rdf:datatype="&xsd;string">Language code for Dravidian languages</skos:definition>
+      <rdfs:label>Dravidian languages</rdfs:label>
+      <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Dravidian languages</lcc-lr:hasEnglishName>
+      <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">dravidiennes, langues</lcc-lr:hasFrenchName>
       <rdfs:isDefinedBy rdf:resource="&lcc-639-2;"/>
    </owl:NamedIndividual>
 
@@ -6418,12 +6445,12 @@ Copyright (c) 2015-2017 Unisys
       <rdfs:isDefinedBy rdf:resource="&lcc-639-2;"/>
    </owl:NamedIndividual>
 
-   <owl:NamedIndividual rdf:about="&lcc-639-2;EnglishBasedCreolesAndPidginsOther">
+   <owl:NamedIndividual rdf:about="&lcc-639-2;CreolesAndPidginsEnglishBased">
       <rdf:type rdf:resource="&lcc-lr;RemainderGroup"/>
-      <skos:definition rdf:datatype="&xsd;string">Language code for Creoles and pidgins, English-based (Other)</skos:definition>
-      <rdfs:label>English-based Creoles and pidgins - Other</rdfs:label>
-      <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Creoles and pidgins, English-based (Other)</lcc-lr:hasEnglishName>
-      <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">créoles et pidgins anglais, autres</lcc-lr:hasFrenchName>
+      <skos:definition rdf:datatype="&xsd;string">Language code for Creoles and pidgins, English based</skos:definition>
+      <rdfs:label>Creoles and pidgins, English based</rdfs:label>
+      <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Creoles and pidgins, English based</lcc-lr:hasEnglishName>
+      <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">créoles et pidgins basés sur l'anglais</lcc-lr:hasFrenchName>
       <rdfs:isDefinedBy rdf:resource="&lcc-639-2;"/>
    </owl:NamedIndividual>
 
@@ -6479,12 +6506,12 @@ Copyright (c) 2015-2017 Unisys
       <rdfs:isDefinedBy rdf:resource="&lcc-639-2;"/>
    </owl:NamedIndividual>
 
-   <owl:NamedIndividual rdf:about="&lcc-639-2;FinnoUgrianOther">
+   <owl:NamedIndividual rdf:about="&lcc-639-2;FinnoUgrianLanguages">
       <rdf:type rdf:resource="&lcc-lr;RemainderGroup"/>
-      <skos:definition rdf:datatype="&xsd;string">Language code for Finno-Ugrian (Other)</skos:definition>
-      <rdfs:label>Finno-Ugrian - Other</rdfs:label>
-      <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Finno-Ugrian (Other)</lcc-lr:hasEnglishName>
-      <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">finno-ougriennes, autres langues</lcc-lr:hasFrenchName>
+      <skos:definition rdf:datatype="&xsd;string">Language code for Finno-Ugrian languages</skos:definition>
+      <rdfs:label>Finno-Ugrian languages</rdfs:label>
+      <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Finno-Ugrian languages</lcc-lr:hasEnglishName>
+      <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">finno-ougriennes, langues</lcc-lr:hasFrenchName>
       <rdfs:isDefinedBy rdf:resource="&lcc-639-2;"/>
    </owl:NamedIndividual>
 
@@ -6498,12 +6525,12 @@ Copyright (c) 2015-2017 Unisys
       <rdfs:isDefinedBy rdf:resource="&lcc-639-2;"/>
    </owl:NamedIndividual>
 
-   <owl:NamedIndividual rdf:about="&lcc-639-2;FrenchBasedCreolesAndPidginsOther">
+   <owl:NamedIndividual rdf:about="&lcc-639-2;CreolesAndPidginsFrenchBased">
       <rdf:type rdf:resource="&lcc-lr;RemainderGroup"/>
-      <skos:definition rdf:datatype="&xsd;string">Language code for Creoles and pidgins, French-based (Other)</skos:definition>
-      <rdfs:label>French-based Creoles and pidgins - Other</rdfs:label>
-      <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Creoles and pidgins, French-based (Other)</lcc-lr:hasEnglishName>
-      <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">créoles et pidgins français, autres</lcc-lr:hasFrenchName>
+      <skos:definition rdf:datatype="&xsd;string">Language code for Creoles and pidgins, French-based</skos:definition>
+      <rdfs:label>Creoles and pidgins, French-based</rdfs:label>
+      <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Creoles and pidgins, French-based</lcc-lr:hasEnglishName>
+      <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">créoles et pidgins basés sur le français</lcc-lr:hasFrenchName>
       <rdfs:isDefinedBy rdf:resource="&lcc-639-2;"/>
    </owl:NamedIndividual>
 
@@ -6569,12 +6596,12 @@ Copyright (c) 2015-2017 Unisys
       <rdfs:isDefinedBy rdf:resource="&lcc-639-2;"/>
    </owl:NamedIndividual>
 
-   <owl:NamedIndividual rdf:about="&lcc-639-2;GermanicOther">
+   <owl:NamedIndividual rdf:about="&lcc-639-2;GermanicLanguages">
       <rdf:type rdf:resource="&lcc-lr;RemainderGroup"/>
-      <skos:definition rdf:datatype="&xsd;string">Language code for Germanic (Other)</skos:definition>
-      <rdfs:label>Germanic - Other</rdfs:label>
-      <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Germanic (Other)</lcc-lr:hasEnglishName>
-      <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">germaniques, autres langues</lcc-lr:hasFrenchName>
+      <skos:definition rdf:datatype="&xsd;string">Language code for Germanic languages</skos:definition>
+      <rdfs:label>Germanic languages</rdfs:label>
+      <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Germanic languages</lcc-lr:hasEnglishName>
+      <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">germaniques, langues</lcc-lr:hasFrenchName>
       <rdfs:isDefinedBy rdf:resource="&lcc-639-2;"/>
    </owl:NamedIndividual>
 
@@ -6668,12 +6695,14 @@ Copyright (c) 2015-2017 Unisys
       <rdfs:isDefinedBy rdf:resource="&lcc-639-2;"/>
    </owl:NamedIndividual>
 
-   <owl:NamedIndividual rdf:about="&lcc-639-2;Himachali">
+   <owl:NamedIndividual rdf:about="&lcc-639-2;HimachaliLanguages">
       <rdf:type rdf:resource="&lcc-lr;LanguageFamily"/>
-      <skos:definition rdf:datatype="&xsd;string">Language code for Himachali</skos:definition>
-      <rdfs:label>Himachali</rdfs:label>
-      <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Himachali</lcc-lr:hasEnglishName>
-      <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">himachali</lcc-lr:hasFrenchName>
+      <skos:definition rdf:datatype="&xsd;string">Language code for Himachali languages</skos:definition>
+      <rdfs:label>Himachali languages</rdfs:label>
+      <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Himachali languages</lcc-lr:hasEnglishName>
+	  <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Western Pahari languages</lcc-lr:hasEnglishName>
+      <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">langues himachalis</lcc-lr:hasFrenchName>
+	  <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">langues paharis occidentales</lcc-lr:hasFrenchName>
       <rdfs:isDefinedBy rdf:resource="&lcc-639-2;"/>
    </owl:NamedIndividual>
 
@@ -6746,21 +6775,21 @@ Copyright (c) 2015-2017 Unisys
       <rdfs:isDefinedBy rdf:resource="&lcc-639-2;"/>
    </owl:NamedIndividual>
 
-   <owl:NamedIndividual rdf:about="&lcc-639-2;IndicOther">
+   <owl:NamedIndividual rdf:about="&lcc-639-2;IndicLanguages">
       <rdf:type rdf:resource="&lcc-lr;RemainderGroup"/>
-      <skos:definition rdf:datatype="&xsd;string">Language code for Indic (Other)</skos:definition>
-      <rdfs:label>Indic - Other</rdfs:label>
-      <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Indic (Other)</lcc-lr:hasEnglishName>
-      <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">indo-aryennes, autres langues</lcc-lr:hasFrenchName>
+      <skos:definition rdf:datatype="&xsd;string">Language code for Indic languages</skos:definition>
+      <rdfs:label>Indic languages</rdfs:label>
+      <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Indic languages</lcc-lr:hasEnglishName>
+      <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">indo-aryennes, langues</lcc-lr:hasFrenchName>
       <rdfs:isDefinedBy rdf:resource="&lcc-639-2;"/>
    </owl:NamedIndividual>
 
-   <owl:NamedIndividual rdf:about="&lcc-639-2;IndoEuropeanOther">
+   <owl:NamedIndividual rdf:about="&lcc-639-2;IndoEuropeanLanguages">
       <rdf:type rdf:resource="&lcc-lr;RemainderGroup"/>
-      <skos:definition rdf:datatype="&xsd;string">Language code for Indo-European (Other)</skos:definition>
-      <rdfs:label>Indo-European - Other</rdfs:label>
-      <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Indo-European (Other)</lcc-lr:hasEnglishName>
-      <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">indo-européennes, autres langues</lcc-lr:hasFrenchName>
+      <skos:definition rdf:datatype="&xsd;string">Language code for Indo-European languages</skos:definition>
+      <rdfs:label>Indo-European languages</rdfs:label>
+      <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Indo-European languages</lcc-lr:hasEnglishName>
+      <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">indo-européennes, langues</lcc-lr:hasFrenchName>
       <rdfs:isDefinedBy rdf:resource="&lcc-639-2;"/>
    </owl:NamedIndividual>
 
@@ -6774,12 +6803,12 @@ Copyright (c) 2015-2017 Unisys
       <rdfs:isDefinedBy rdf:resource="&lcc-639-2;"/>
    </owl:NamedIndividual>
 
-   <owl:NamedIndividual rdf:about="&lcc-639-2;IranianOther">
+   <owl:NamedIndividual rdf:about="&lcc-639-2;IranianLanguages">
       <rdf:type rdf:resource="&lcc-lr;RemainderGroup"/>
-      <skos:definition rdf:datatype="&xsd;string">Language code for Iranian (Other)</skos:definition>
-      <rdfs:label>Iranian - Other</rdfs:label>
-      <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Iranian (Other)</lcc-lr:hasEnglishName>
-      <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">iraniennes, autres langues</lcc-lr:hasFrenchName>
+      <skos:definition rdf:datatype="&xsd;string">Language code for Iranian languages</skos:definition>
+      <rdfs:label>Iranian languages</rdfs:label>
+      <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Iranian languages</lcc-lr:hasEnglishName>
+      <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">iraniennes, langues</lcc-lr:hasFrenchName>
       <rdfs:isDefinedBy rdf:resource="&lcc-639-2;"/>
    </owl:NamedIndividual>
 
@@ -6788,7 +6817,7 @@ Copyright (c) 2015-2017 Unisys
       <skos:definition rdf:datatype="&xsd;string">Language code for Iroquoian languages</skos:definition>
       <rdfs:label>Iroquoian languages</rdfs:label>
       <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Iroquoian languages</lcc-lr:hasEnglishName>
-      <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">iroquoises, langues (famille)</lcc-lr:hasFrenchName>
+      <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">iroquoises, langues</lcc-lr:hasFrenchName>
       <rdfs:isDefinedBy rdf:resource="&lcc-639-2;"/>
    </owl:NamedIndividual>
 
@@ -6935,12 +6964,12 @@ Copyright (c) 2015-2017 Unisys
       <rdfs:isDefinedBy rdf:resource="&lcc-639-2;"/>
    </owl:NamedIndividual>
 
-   <owl:NamedIndividual rdf:about="&lcc-639-2;KhoisanOther">
+   <owl:NamedIndividual rdf:about="&lcc-639-2;KhoisanLanguages">
       <rdf:type rdf:resource="&lcc-lr;RemainderGroup"/>
-      <skos:definition rdf:datatype="&xsd;string">Language code for Khoisan (Other)</skos:definition>
-      <rdfs:label>Khoisan - Other</rdfs:label>
-      <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Khoisan (Other)</lcc-lr:hasEnglishName>
-      <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">khoisan, autres langues</lcc-lr:hasFrenchName>
+      <skos:definition rdf:datatype="&xsd;string">Language code for Khoisan languages</skos:definition>
+      <rdfs:label>Khoisan languages</rdfs:label>
+      <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Khoisan languages</lcc-lr:hasEnglishName>
+      <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">khoïsan, langues</lcc-lr:hasFrenchName>
       <rdfs:isDefinedBy rdf:resource="&lcc-639-2;"/>
    </owl:NamedIndividual>
 
@@ -7483,12 +7512,12 @@ Copyright (c) 2015-2017 Unisys
       <rdfs:isDefinedBy rdf:resource="&lcc-639-2;"/>
    </owl:NamedIndividual>
 
-   <owl:NamedIndividual rdf:about="&lcc-639-2;MonKhmerOther">
+   <owl:NamedIndividual rdf:about="&lcc-639-2;MonKhmerLanguages">
       <rdf:type rdf:resource="&lcc-lr;RemainderGroup"/>
-      <skos:definition rdf:datatype="&xsd;string">Language code for Mon-Khmer (Other)</skos:definition>
-      <rdfs:label>Mon-Khmer - Other</rdfs:label>
-      <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Mon-Khmer (Other)</lcc-lr:hasEnglishName>
-      <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">môn-khmer, autres langues</lcc-lr:hasFrenchName>
+      <skos:definition rdf:datatype="&xsd;string">Language code for Mon-Khmer languages</skos:definition>
+      <rdfs:label>Mon-Khmer languages</rdfs:label>
+      <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Mon-Khmer languages</lcc-lr:hasEnglishName>
+      <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">môn-khmer, langues</lcc-lr:hasFrenchName>
       <rdfs:isDefinedBy rdf:resource="&lcc-639-2;"/>
    </owl:NamedIndividual>
 
@@ -7571,21 +7600,21 @@ Copyright (c) 2015-2017 Unisys
       <rdfs:isDefinedBy rdf:resource="&lcc-639-2;"/>
    </owl:NamedIndividual>
 
-   <owl:NamedIndividual rdf:about="&lcc-639-2;NigerKordofanianOther">
+   <owl:NamedIndividual rdf:about="&lcc-639-2;NigerKordofanianLanguages">
       <rdf:type rdf:resource="&lcc-lr;RemainderGroup"/>
-      <skos:definition rdf:datatype="&xsd;string">Language code for Niger-Kordofanian (Other)</skos:definition>
-      <rdfs:label>Niger-Kordofanian - Other</rdfs:label>
-      <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Niger-Kordofanian (Other)</lcc-lr:hasEnglishName>
-      <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">nigéro-congolaises, autres langues</lcc-lr:hasFrenchName>
+      <skos:definition rdf:datatype="&xsd;string">Language code for Niger-Kordofanian languages</skos:definition>
+      <rdfs:label>Niger-Kordofanian languages</rdfs:label>
+      <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Niger-Kordofanian languages</lcc-lr:hasEnglishName>
+      <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">nigéro-kordofaniennes, langues</lcc-lr:hasFrenchName>
       <rdfs:isDefinedBy rdf:resource="&lcc-639-2;"/>
    </owl:NamedIndividual>
 
-   <owl:NamedIndividual rdf:about="&lcc-639-2;NiloSaharanOther">
+   <owl:NamedIndividual rdf:about="&lcc-639-2;NiloSaharanLanguages">
       <rdf:type rdf:resource="&lcc-lr;RemainderGroup"/>
-      <skos:definition rdf:datatype="&xsd;string">Language code for Nilo-Saharan (Other)</skos:definition>
-      <rdfs:label>Nilo-Saharan - Other</rdfs:label>
-      <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Nilo-Saharan (Other)</lcc-lr:hasEnglishName>
-      <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">nilo-sahariennes, autres langues</lcc-lr:hasFrenchName>
+      <skos:definition rdf:datatype="&xsd;string">Language code for Nilo-Saharan languages</skos:definition>
+      <rdfs:label>Nilo-Saharan languages</rdfs:label>
+      <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Nilo-Saharan languages</lcc-lr:hasEnglishName>
+      <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">nilo-sahariennes, langues</lcc-lr:hasFrenchName>
       <rdfs:isDefinedBy rdf:resource="&lcc-639-2;"/>
    </owl:NamedIndividual>
 
@@ -7631,12 +7660,12 @@ Copyright (c) 2015-2017 Unisys
       <rdfs:isDefinedBy rdf:resource="&lcc-639-2;"/>
    </owl:NamedIndividual>
 
-   <owl:NamedIndividual rdf:about="&lcc-639-2;NorthAmericanIndianOther">
+   <owl:NamedIndividual rdf:about="&lcc-639-2;NorthAmericanIndianLanguages">
       <rdf:type rdf:resource="&lcc-lr;RemainderGroup"/>
-      <skos:definition rdf:datatype="&xsd;string">Language code for North American Indian (Other)</skos:definition>
-      <rdfs:label>North American Indian - Other</rdfs:label>
-      <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">North American Indian (Other)</lcc-lr:hasEnglishName>
-      <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">indiennes d'Amérique du Nord, autres langues</lcc-lr:hasFrenchName>
+      <skos:definition rdf:datatype="&xsd;string">Language code for North American Indian languages</skos:definition>
+      <rdfs:label>North American Indian languages</rdfs:label>
+      <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">North American Indian languages</lcc-lr:hasEnglishName>
+      <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">nord-amérindiennes, langues</lcc-lr:hasFrenchName>
       <rdfs:isDefinedBy rdf:resource="&lcc-639-2;"/>
    </owl:NamedIndividual>
 
@@ -7786,7 +7815,7 @@ Copyright (c) 2015-2017 Unisys
       <skos:definition rdf:datatype="&xsd;string">Language code for Otomian languages</skos:definition>
       <rdfs:label>Otomian languages</rdfs:label>
       <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Otomian languages</lcc-lr:hasEnglishName>
-      <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">otomangue, langues</lcc-lr:hasFrenchName>
+      <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">otomi, langues</lcc-lr:hasFrenchName>
       <rdfs:isDefinedBy rdf:resource="&lcc-639-2;"/>
    </owl:NamedIndividual>
 
@@ -7851,12 +7880,12 @@ Copyright (c) 2015-2017 Unisys
       <rdfs:isDefinedBy rdf:resource="&lcc-639-2;"/>
    </owl:NamedIndividual>
 
-   <owl:NamedIndividual rdf:about="&lcc-639-2;PapuanOther">
+   <owl:NamedIndividual rdf:about="&lcc-639-2;PapuanLanguages">
       <rdf:type rdf:resource="&lcc-lr;RemainderGroup"/>
-      <skos:definition rdf:datatype="&xsd;string">Language code for Papuan (Other)</skos:definition>
-      <rdfs:label>Papuan - Other</rdfs:label>
-      <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Papuan (Other)</lcc-lr:hasEnglishName>
-      <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">papoues, autres langues</lcc-lr:hasFrenchName>
+      <skos:definition rdf:datatype="&xsd;string">Language code for Papuan languages</skos:definition>
+      <rdfs:label>Papuan languages</rdfs:label>
+      <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Papuan languages</lcc-lr:hasEnglishName>
+      <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">papoues, langues</lcc-lr:hasFrenchName>
       <rdfs:isDefinedBy rdf:resource="&lcc-639-2;"/>
    </owl:NamedIndividual>
 
@@ -7874,12 +7903,12 @@ Copyright (c) 2015-2017 Unisys
       <rdfs:isDefinedBy rdf:resource="&lcc-639-2;"/>
    </owl:NamedIndividual>
 
-   <owl:NamedIndividual rdf:about="&lcc-639-2;PhilippineOther">
+   <owl:NamedIndividual rdf:about="&lcc-639-2;PhilippineLanguages">
       <rdf:type rdf:resource="&lcc-lr;RemainderGroup"/>
-      <skos:definition rdf:datatype="&xsd;string">Language code for Philippine (Other)</skos:definition>
-      <rdfs:label>Philippine - Other</rdfs:label>
-      <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Philippine (Other)</lcc-lr:hasEnglishName>
-      <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">philippines, autres langues</lcc-lr:hasFrenchName>
+      <skos:definition rdf:datatype="&xsd;string">Language code for Philippine languages</skos:definition>
+      <rdfs:label>Philippine languages</rdfs:label>
+      <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Philippine languages</lcc-lr:hasEnglishName>
+      <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">philippines, langues</lcc-lr:hasFrenchName>
       <rdfs:isDefinedBy rdf:resource="&lcc-639-2;"/>
    </owl:NamedIndividual>
 
@@ -7903,12 +7932,12 @@ Copyright (c) 2015-2017 Unisys
       <rdfs:isDefinedBy rdf:resource="&lcc-639-2;"/>
    </owl:NamedIndividual>
 
-   <owl:NamedIndividual rdf:about="&lcc-639-2;PortugueseBasedCreolesAndPidginsOther">
+   <owl:NamedIndividual rdf:about="&lcc-639-2;CreolesAndPidginsPortugueseBased">
       <rdf:type rdf:resource="&lcc-lr;RemainderGroup"/>
-      <skos:definition rdf:datatype="&xsd;string">Language code for Creoles and pidgins, Portuguese-based (Other)</skos:definition>
-      <rdfs:label>Portuguese-based Creoles and pidgins - Other</rdfs:label>
-      <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Creoles and pidgins, Portuguese-based (Other)</lcc-lr:hasEnglishName>
-      <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">créoles et pidgins portugais, autres</lcc-lr:hasFrenchName>
+      <skos:definition rdf:datatype="&xsd;string">Language code for Creoles and pidgins, Portuguese-based</skos:definition>
+      <rdfs:label>Creoles and pidgins, Portuguese-based</rdfs:label>
+      <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Creoles and pidgins, Portuguese-based</lcc-lr:hasEnglishName>
+      <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">créoles et pidgins basés sur le portugais</lcc-lr:hasFrenchName>
       <rdfs:isDefinedBy rdf:resource="&lcc-639-2;"/>
    </owl:NamedIndividual>
 
@@ -7917,7 +7946,7 @@ Copyright (c) 2015-2017 Unisys
       <skos:definition rdf:datatype="&xsd;string">Language code for Prakrit languages</skos:definition>
       <rdfs:label>Prakrit languages</rdfs:label>
       <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Prakrit languages</lcc-lr:hasEnglishName>
-      <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">prâkrit</lcc-lr:hasFrenchName>
+      <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">prâkrit, langues</lcc-lr:hasFrenchName>
       <rdfs:isDefinedBy rdf:resource="&lcc-639-2;"/>
    </owl:NamedIndividual>
 
@@ -7953,12 +7982,12 @@ Copyright (c) 2015-2017 Unisys
       <rdfs:isDefinedBy rdf:resource="&lcc-639-2;"/>
    </owl:NamedIndividual>
 
-   <owl:NamedIndividual rdf:about="&lcc-639-2;RomanceOther">
+   <owl:NamedIndividual rdf:about="&lcc-639-2;RomanceLanguages">
       <rdf:type rdf:resource="&lcc-lr;RemainderGroup"/>
-      <skos:definition rdf:datatype="&xsd;string">Language code for Romance (Other)</skos:definition>
-      <rdfs:label>Romance - Other</rdfs:label>
-      <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Romance (Other)</lcc-lr:hasEnglishName>
-      <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">romanes, autres langues</lcc-lr:hasFrenchName>
+      <skos:definition rdf:datatype="&xsd;string">Language code for Romance languages</skos:definition>
+      <rdfs:label>Romance languages</rdfs:label>
+      <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Romance languages</lcc-lr:hasEnglishName>
+      <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">romanes, langues</lcc-lr:hasFrenchName>
       <rdfs:isDefinedBy rdf:resource="&lcc-639-2;"/>
    </owl:NamedIndividual>
 
@@ -7977,7 +8006,7 @@ Copyright (c) 2015-2017 Unisys
       <skos:definition rdf:datatype="&xsd;string">Language code for Salishan languages</skos:definition>
       <rdfs:label>Salishan languages</rdfs:label>
       <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Salishan languages</lcc-lr:hasEnglishName>
-      <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">salish, langues</lcc-lr:hasFrenchName>
+      <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">salishennes, langues</lcc-lr:hasFrenchName>
       <rdfs:isDefinedBy rdf:resource="&lcc-639-2;"/>
    </owl:NamedIndividual>
 
@@ -7991,12 +8020,12 @@ Copyright (c) 2015-2017 Unisys
       <rdfs:isDefinedBy rdf:resource="&lcc-639-2;"/>
    </owl:NamedIndividual>
 
-   <owl:NamedIndividual rdf:about="&lcc-639-2;SamiLanguagesOther">
+   <owl:NamedIndividual rdf:about="&lcc-639-2;SamiLanguages">
       <rdf:type rdf:resource="&lcc-lr;RemainderGroup"/>
-      <skos:definition rdf:datatype="&xsd;string">Language code for Sami languages (Other)</skos:definition>
-      <rdfs:label>Sami languages - Other</rdfs:label>
-      <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Sami languages (Other)</lcc-lr:hasEnglishName>
-      <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">sami, autres langues</lcc-lr:hasFrenchName>
+      <skos:definition rdf:datatype="&xsd;string">Language code for Sami languages</skos:definition>
+      <rdfs:label>Sami languages</rdfs:label>
+      <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Sami languages</lcc-lr:hasEnglishName>
+      <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">sames, langues</lcc-lr:hasFrenchName>
       <rdfs:isDefinedBy rdf:resource="&lcc-639-2;"/>
    </owl:NamedIndividual>
 
@@ -8050,12 +8079,12 @@ Copyright (c) 2015-2017 Unisys
       <rdfs:isDefinedBy rdf:resource="&lcc-639-2;"/>
    </owl:NamedIndividual>
 
-   <owl:NamedIndividual rdf:about="&lcc-639-2;SemiticOther">
+   <owl:NamedIndividual rdf:about="&lcc-639-2;SemiticLanguages">
       <rdf:type rdf:resource="&lcc-lr;RemainderGroup"/>
-      <skos:definition rdf:datatype="&xsd;string">Language code for Semitic (Other)</skos:definition>
-      <rdfs:label>Semitic - Other</rdfs:label>
-      <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Semitic (Other)</lcc-lr:hasEnglishName>
-      <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">sémitiques, autres langues</lcc-lr:hasFrenchName>
+      <skos:definition rdf:datatype="&xsd;string">Language code for Semitic languages</skos:definition>
+      <rdfs:label>Semitic languages</rdfs:label>
+      <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Semitic languages</lcc-lr:hasEnglishName>
+      <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">sémitiques, langues</lcc-lr:hasFrenchName>
       <rdfs:isDefinedBy rdf:resource="&lcc-639-2;"/>
    </owl:NamedIndividual>
 
@@ -8101,9 +8130,9 @@ Copyright (c) 2015-2017 Unisys
 
    <owl:NamedIndividual rdf:about="&lcc-639-2;SignLanguages">
       <rdf:type rdf:resource="&lcc-lr;LanguageFamily"/>
-      <skos:definition rdf:datatype="&xsd;string">Language code for Sign Languages</skos:definition>
-      <rdfs:label>Sign Languages</rdfs:label>
-      <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Sign Languages</lcc-lr:hasEnglishName>
+      <skos:definition rdf:datatype="&xsd;string">Language code for Sign languages</skos:definition>
+      <rdfs:label>Sign languages</rdfs:label>
+      <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Sign languages</lcc-lr:hasEnglishName>
       <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">langues des signes</lcc-lr:hasFrenchName>
       <rdfs:isDefinedBy rdf:resource="&lcc-639-2;"/>
    </owl:NamedIndividual>
@@ -8118,12 +8147,12 @@ Copyright (c) 2015-2017 Unisys
       <rdfs:isDefinedBy rdf:resource="&lcc-639-2;"/>
    </owl:NamedIndividual>
 
-   <owl:NamedIndividual rdf:about="&lcc-639-2;SinoTibetanOther">
+   <owl:NamedIndividual rdf:about="&lcc-639-2;SinoTibetanLanguages">
       <rdf:type rdf:resource="&lcc-lr;RemainderGroup"/>
-      <skos:definition rdf:datatype="&xsd;string">Language code for Sino-Tibetan (Other)</skos:definition>
-      <rdfs:label>Sino-Tibetan - Other</rdfs:label>
-      <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Sino-Tibetan (Other)</lcc-lr:hasEnglishName>
-      <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">sino-tibétaines, autres langues</lcc-lr:hasFrenchName>
+      <skos:definition rdf:datatype="&xsd;string">Language code for Sino-Tibetan languages</skos:definition>
+      <rdfs:label>Sino-Tibetan languages</rdfs:label>
+      <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Sino-Tibetan languages</lcc-lr:hasEnglishName>
+      <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">sino-tibétaines, langues</lcc-lr:hasFrenchName>
       <rdfs:isDefinedBy rdf:resource="&lcc-639-2;"/>
    </owl:NamedIndividual>
 
@@ -8156,12 +8185,12 @@ Copyright (c) 2015-2017 Unisys
       <rdfs:isDefinedBy rdf:resource="&lcc-639-2;"/>
    </owl:NamedIndividual>
 
-   <owl:NamedIndividual rdf:about="&lcc-639-2;SlavicOther">
+   <owl:NamedIndividual rdf:about="&lcc-639-2;SlavicLanguages">
       <rdf:type rdf:resource="&lcc-lr;RemainderGroup"/>
-      <skos:definition rdf:datatype="&xsd;string">Language code for Slavic (Other)</skos:definition>
-      <rdfs:label>Slavic - Other</rdfs:label>
-      <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Slavic (Other)</lcc-lr:hasEnglishName>
-      <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">slaves, autres langues</lcc-lr:hasFrenchName>
+      <skos:definition rdf:datatype="&xsd;string">Language code for Slavic languages</skos:definition>
+      <rdfs:label>Slavic languages</rdfs:label>
+      <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Slavic languages</lcc-lr:hasEnglishName>
+      <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">slaves, langues</lcc-lr:hasFrenchName>
       <rdfs:isDefinedBy rdf:resource="&lcc-639-2;"/>
    </owl:NamedIndividual>
 
@@ -8203,12 +8232,12 @@ Copyright (c) 2015-2017 Unisys
       <rdfs:isDefinedBy rdf:resource="&lcc-639-2;"/>
    </owl:NamedIndividual>
 
-   <owl:NamedIndividual rdf:about="&lcc-639-2;SouthAmericanIndianOther">
+   <owl:NamedIndividual rdf:about="&lcc-639-2;SouthAmericanIndianLanguages">
       <rdf:type rdf:resource="&lcc-lr;RemainderGroup"/>
-      <skos:definition rdf:datatype="&xsd;string">Language code for South American Indian (Other)</skos:definition>
-      <rdfs:label>South American Indian - Other</rdfs:label>
-      <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">South American Indian (Other)</lcc-lr:hasEnglishName>
-      <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">indiennes d'Amérique du Sud, autres langues</lcc-lr:hasFrenchName>
+      <skos:definition rdf:datatype="&xsd;string">Language code for South American Indian languages</skos:definition>
+      <rdfs:label>South American Indian languages</rdfs:label>
+      <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">South American Indian languages</lcc-lr:hasEnglishName>
+      <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">sud-amérindiennes, langues</lcc-lr:hasFrenchName>
       <rdfs:isDefinedBy rdf:resource="&lcc-639-2;"/>
    </owl:NamedIndividual>
 
@@ -8306,12 +8335,12 @@ Copyright (c) 2015-2017 Unisys
       <rdfs:isDefinedBy rdf:resource="&lcc-639-2;"/>
    </owl:NamedIndividual>
 
-   <owl:NamedIndividual rdf:about="&lcc-639-2;TaiOther">
+   <owl:NamedIndividual rdf:about="&lcc-639-2;TaiLanguages">
       <rdf:type rdf:resource="&lcc-lr;RemainderGroup"/>
-      <skos:definition rdf:datatype="&xsd;string">Language code for Tai (Other)</skos:definition>
-      <rdfs:label>Tai - Other</rdfs:label>
-      <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Tai (Other)</lcc-lr:hasEnglishName>
-      <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">thaïes, autres langues</lcc-lr:hasFrenchName>
+      <skos:definition rdf:datatype="&xsd;string">Tai languages</skos:definition>
+      <rdfs:label>Tai languages</rdfs:label>
+      <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Tai languages</lcc-lr:hasEnglishName>
+      <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">tai, langues</lcc-lr:hasFrenchName>
       <rdfs:isDefinedBy rdf:resource="&lcc-639-2;"/>
    </owl:NamedIndividual>
 
@@ -8538,7 +8567,7 @@ Copyright (c) 2015-2017 Unisys
       <skos:definition rdf:datatype="&xsd;string">Language code for Wakashan languages</skos:definition>
       <rdfs:label>Wakashan languages</rdfs:label>
       <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Wakashan languages</lcc-lr:hasEnglishName>
-      <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">wakashennes, langues</lcc-lr:hasFrenchName>
+      <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">wakashanes, langues</lcc-lr:hasFrenchName>
       <rdfs:isDefinedBy rdf:resource="&lcc-639-2;"/>
    </owl:NamedIndividual>
 
