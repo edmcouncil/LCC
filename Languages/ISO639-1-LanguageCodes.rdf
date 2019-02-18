@@ -30,23 +30,22 @@
 
     <!-- Curation and Rights Metadata for the LCC ISO 639-1  Language Codes Ontology -->
 
-        <sm:copyright rdf:datatype="&xsd;string">Copyright (c) 2015-2017 Object Management Group, Inc.
-Copyright (c) 2015-2017 Adaptive Inc.
-Copyright (c) 2015-2017 Thematix Partners LLC
-Copyright (c) 2015-2017 Unisys
-</sm:copyright>
-        <dct:license rdf:resource="http://www.omg.org/techprocess/ab/SpecificationMetadata/MITLicense"/>
+        <sm:copyright rdf:datatype="&xsd;string">Copyright (c) 2015-2019 Object Management Group, Inc.</sm:copyright>
+        <sm:copyright rdf:datatype="&xsd;string">Copyright (c) 2015-2019 Adaptive Inc.</sm:copyright>
+        <sm:copyright rdf:datatype="&xsd;string">Copyright (c) 2015-2019 Thematix Partners LLC</sm:copyright>
+        <sm:copyright rdf:datatype="&xsd;string">Copyright (c) 2015-2017 Unisys</sm:copyright>
+        <dct:license rdf:resource="http://opensource.org/licenses/MIT"/>
 
 
     <!-- Ontology/File-Level Metadata for the LCC ISO 639-1 Language Codes Ontology -->
 
         <sm:filename rdf:datatype="&xsd;string">ISO639-1-LanguageCodes.rdf</sm:filename>
         <sm:fileAbbreviation rdf:datatype="&xsd;string">lcc-639-1</sm:fileAbbreviation>
-        <owl:versionIRI rdf:resource="http://www.omg.org/spec/LCC/20170801/Languages/ISO639-1-LanguageCodes/"/>
+        <owl:versionIRI rdf:resource="http://www.omg.org/spec/LCC/20190201/Languages/ISO639-1-LanguageCodes/"/>
         <sm:fileAbstract rdf:datatype="&xsd;string">This ontology represents the subset of the ISO 639 standard that provides the language names and actual codes for ISO 639-1.</sm:fileAbstract>
 
         <skos:changeNote rdf:datatype="&xsd;string">The http://www.omg.org/spec/LCC/20151101/Languages/ISO639-1-LanguageCodes.rdf version of this ontology has been revised to reflect the issues addressed by the LCC 1.0 FTF report.  The codes themselves are current as of 31 July 2017, based on the US Library of Congress site.</skos:changeNote>
-        <sm:dependsOn rdf:datatype="&xsd;anyURI">http://www.omg.org/spec/LCC/Languages/LanguageRepresentation/</sm:dependsOn>
+        <skos:changeNote rdf:datatype="&xsd;string">The http://www.omg.org/spec/LCC/20190201/Languages/ISO639-2-LanguageCodes.rdf version of this ontology is current as of 14 February 2019, based on the US Library of Congress site.</skos:changeNote>        <sm:dependsOn rdf:datatype="&xsd;anyURI">http://www.omg.org/spec/LCC/Languages/LanguageRepresentation/</sm:dependsOn>
 
         <sm:contentLanguage rdf:datatype="&xsd;anyURI">http://www.w3.org/standards/techs/owl#w3c_all</sm:contentLanguage>
         <sm:contentLanguage rdf:datatype="&xsd;anyURI">http://www.omg.org/spec/ODM/</sm:contentLanguage>
@@ -3579,14 +3578,11 @@ Copyright (c) 2015-2017 Unisys
         <rdf:type rdf:resource="&lcc-lr;IndividualLanguage"/>
         <rdf:type rdf:resource="&lcc-lr;LivingLanguage"/>
         <rdfs:label>Occitan</rdfs:label>
-        <skos:definition rdf:datatype="&xsd;string">Occitan (post 1500-) language</skos:definition>
-        <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Occitan</lcc-lr:hasEnglishName>
-        <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Proven&#231;al (post 1500)</lcc-lr:hasEnglishName>
-        <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">occitan</lcc-lr:hasFrenchName>
-        <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">proven&#231;al (apr&#232;s 1500)</lcc-lr:hasFrenchName>
+        <skos:definition rdf:datatype="&xsd;string">Occitan (post 1500) language</skos:definition>
+        <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Occitan (post 1500)</lcc-lr:hasEnglishName>
+        <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">occitan (après 1500)</lcc-lr:hasFrenchName>
         <lcc-lr:hasGermanName rdf:datatype="&xsd;string">Okzitanisch</lcc-lr:hasGermanName>
         <lcc-lr:hasIndigenousName rdf:datatype="&xsd;string">occitan</lcc-lr:hasIndigenousName>
-        <lcc-lr:hasIndigenousName rdf:datatype="&xsd;string">proven&#231;al</lcc-lr:hasIndigenousName>
         <rdfs:isDefinedBy rdf:resource="&lcc-639-1;"/>
     </owl:NamedIndividual>
 
@@ -3717,8 +3713,6 @@ Copyright (c) 2015-2017 Unisys
         <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Pashto</lcc-lr:hasEnglishName>
         <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Pushto</lcc-lr:hasEnglishName>
         <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">pachto</lcc-lr:hasFrenchName>
-        <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">pashto</lcc-lr:hasFrenchName>
-        <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">pushto</lcc-lr:hasFrenchName>
         <lcc-lr:hasGermanName rdf:datatype="&xsd;string">Paschtu</lcc-lr:hasGermanName>
         <lcc-lr:hasIndigenousName rdf:datatype="&xsd;string">pashto</lcc-lr:hasIndigenousName>
         <rdfs:isDefinedBy rdf:resource="&lcc-639-1;"/>
