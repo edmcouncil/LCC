@@ -11,25 +11,25 @@
     <!ENTITY lcc-lr "http://www.omg.org/spec/LCC/Languages/LanguageRepresentation/" >
     <!ENTITY lcc-639-1 "http://www.omg.org/spec/LCC/Languages/ISO639-1-LanguageCodes/" >
 ]>
- 
-<rdf:RDF xml:base="http://www.omg.org/spec/LCC/Languages/ISO639-1-LanguageCodes/"
-     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
-     xmlns:owl="http://www.w3.org/2002/07/owl#"
-     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
-     xmlns:dct="http://purl.org/dc/terms/"
-     xmlns:skos="http://www.w3.org/2004/02/skos/core#"
-	 xmlns:sm="http://www.omg.org/techprocess/ab/SpecificationMetadata/"
-     xmlns:lcc-lr="http://www.omg.org/spec/LCC/Languages/LanguageRepresentation/"
-     xmlns:lcc-639-1="http://www.omg.org/spec/LCC/Languages/ISO639-1-LanguageCodes/">
+
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+         xmlns:owl="http://www.w3.org/2002/07/owl#"
+         xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+         xmlns:dct="http://purl.org/dc/terms/"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+         xmlns:sm="http://www.omg.org/techprocess/ab/SpecificationMetadata/"
+         xmlns:lcc-lr="http://www.omg.org/spec/LCC/Languages/LanguageRepresentation/"
+         xmlns:lcc-639-1="http://www.omg.org/spec/LCC/Languages/ISO639-1-LanguageCodes/"
+         xml:base="http://www.omg.org/spec/LCC/Languages/ISO639-1-LanguageCodes/">
 
    
     <owl:Ontology rdf:about="http://www.omg.org/spec/LCC/Languages/ISO639-1-LanguageCodes/">
         <rdfs:label>ISO 639-1 Language Codes Ontology</rdfs:label>
 
 
-    <!-- Curation and Rights Metadata for the LCC ISO 639-1  Language Codes Ontology -->
-
+      <!-- Curation and Rights Metadata for the LCC ISO 639-1  Language Codes Ontology -->
+      
         <sm:copyright rdf:datatype="&xsd;string">Copyright (c) 2015-2019 Object Management Group, Inc.</sm:copyright>
         <sm:copyright rdf:datatype="&xsd;string">Copyright (c) 2015-2019 Adaptive Inc.</sm:copyright>
         <sm:copyright rdf:datatype="&xsd;string">Copyright (c) 2015-2019 Thematix Partners LLC</sm:copyright>
@@ -37,16 +37,17 @@
         <dct:license rdf:resource="http://opensource.org/licenses/MIT"/>
 
 
-    <!-- Ontology/File-Level Metadata for the LCC ISO 639-1 Language Codes Ontology -->
-
+      <!-- Ontology/File-Level Metadata for the LCC ISO 639-1 Language Codes Ontology -->
+      
         <sm:filename rdf:datatype="&xsd;string">ISO639-1-LanguageCodes.rdf</sm:filename>
         <sm:fileAbbreviation rdf:datatype="&xsd;string">lcc-639-1</sm:fileAbbreviation>
         <owl:versionIRI rdf:resource="http://www.omg.org/spec/LCC/20190201/Languages/ISO639-1-LanguageCodes/"/>
         <sm:fileAbstract rdf:datatype="&xsd;string">This ontology represents the subset of the ISO 639 standard that provides the language names and actual codes for ISO 639-1.</sm:fileAbstract>
 
         <skos:changeNote rdf:datatype="&xsd;string">The http://www.omg.org/spec/LCC/20151101/Languages/ISO639-1-LanguageCodes.rdf version of this ontology has been revised to reflect the issues addressed by the LCC 1.0 FTF report.  The codes themselves are current as of 31 July 2017, based on the US Library of Congress site.</skos:changeNote>
-        <skos:changeNote rdf:datatype="&xsd;string">The http://www.omg.org/spec/LCC/20190201/Languages/ISO639-2-LanguageCodes.rdf version of this ontology is current as of 14 February 2019, based on the US Library of Congress site.</skos:changeNote>        <sm:dependsOn rdf:datatype="&xsd;anyURI">http://www.omg.org/spec/LCC/Languages/LanguageRepresentation/</sm:dependsOn>
-
+        <skos:changeNote rdf:datatype="&xsd;string">The http://www.omg.org/spec/LCC/20190201/Languages/ISO639-2-LanguageCodes.rdf version of this ontology is current as of 14 February 2019, based on the US Library of Congress site.</skos:changeNote>        
+        <sm:dependsOn rdf:datatype="&xsd;anyURI">http://www.omg.org/spec/LCC/Languages/LanguageRepresentation/</sm:dependsOn>
+      
         <sm:contentLanguage rdf:datatype="&xsd;anyURI">http://www.w3.org/standards/techs/owl#w3c_all</sm:contentLanguage>
         <sm:contentLanguage rdf:datatype="&xsd;anyURI">http://www.omg.org/spec/ODM/</sm:contentLanguage>
 
@@ -55,17 +56,16 @@
         <rdfs:seeAlso rdf:resource="http://www.loc.gov/standards/iso639-2/php/code_list.php/"/>
 
         <owl:imports rdf:resource="http://www.omg.org/spec/LCC/Languages/LanguageRepresentation/"/>
-
+      
     </owl:Ontology>
 
-
-    <!-- 
+  <!-- 
     ///////////////////////////////////////////////////////////////////////////////////////
     //
     // Individuals
     //
     ///////////////////////////////////////////////////////////////////////////////////////
-     -->
+     -->    
 
     <owl:NamedIndividual rdf:about="&lcc-639-1;ISO639-1-CodeSet">
         <rdf:type rdf:resource="&lcc-lr;CodeSet"/>
@@ -2105,12 +2105,12 @@
         <rdf:type rdf:resource="&lcc-lr;LivingLanguage"/>
         <rdfs:label>Abkhazian</rdfs:label>
         <skos:definition rdf:datatype="&xsd;string">Abkhazian language</skos:definition>
-        <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Abkhaz</lcc-lr:hasEnglishName>
-        <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Abkhazian</lcc-lr:hasEnglishName>
-        <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">abkhaze</lcc-lr:hasFrenchName>
-        <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">abkhazien</lcc-lr:hasFrenchName>
-        <lcc-lr:hasGermanName rdf:datatype="&xsd;string">Abchasisch</lcc-lr:hasGermanName>
-        <lcc-lr:hasIndigenousName rdf:datatype="&xsd;string">ap&#7765;sua bys&#382;wa</lcc-lr:hasIndigenousName>
+        <lcc-lr:hasEnglishName xml:lang="en">Abkhaz</lcc-lr:hasEnglishName>
+        <lcc-lr:hasEnglishName xml:lang="en">Abkhazian</lcc-lr:hasEnglishName>
+        <lcc-lr:hasFrenchName xml:lang="fr">abkhaze</lcc-lr:hasFrenchName>
+        <lcc-lr:hasFrenchName xml:lang="fr">abkhazien</lcc-lr:hasFrenchName>
+        <lcc-lr:hasGermanName xml:lang="ge">Abchasisch</lcc-lr:hasGermanName>
+        <lcc-lr:hasIndigenousName rdf:datatype="&xsd;string">apṕsua bysžwa</lcc-lr:hasIndigenousName>
         <rdfs:isDefinedBy rdf:resource="&lcc-639-1;"/>
     </owl:NamedIndividual>
 
@@ -2119,9 +2119,9 @@
         <rdf:type rdf:resource="&lcc-lr;LivingLanguage"/>
         <rdfs:label>Afar</rdfs:label>
         <skos:definition rdf:datatype="&xsd;string">Afar language</skos:definition>
-        <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Afar</lcc-lr:hasEnglishName>
-        <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">afar</lcc-lr:hasFrenchName>
-        <lcc-lr:hasGermanName rdf:datatype="&xsd;string">Danakil-Sprache</lcc-lr:hasGermanName>
+        <lcc-lr:hasEnglishName xml:lang="en">Afar</lcc-lr:hasEnglishName>
+        <lcc-lr:hasFrenchName xml:lang="fr">afar</lcc-lr:hasFrenchName>
+        <lcc-lr:hasGermanName xml:lang="ge">Danakil-Sprache</lcc-lr:hasGermanName>
         <lcc-lr:hasIndigenousName rdf:datatype="&xsd;string">afar</lcc-lr:hasIndigenousName>
         <rdfs:isDefinedBy rdf:resource="&lcc-639-1;"/>
     </owl:NamedIndividual>
@@ -2131,9 +2131,9 @@
         <rdf:type rdf:resource="&lcc-lr;LivingLanguage"/>
         <rdfs:label>Afrikaans</rdfs:label>
         <skos:definition rdf:datatype="&xsd;string">Afrikaans language</skos:definition>
-        <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Afrikaans</lcc-lr:hasEnglishName>
-        <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">afrikaans</lcc-lr:hasFrenchName>
-        <lcc-lr:hasGermanName rdf:datatype="&xsd;string">Afrikaans</lcc-lr:hasGermanName>
+        <lcc-lr:hasEnglishName xml:lang="en">Afrikaans</lcc-lr:hasEnglishName>
+        <lcc-lr:hasFrenchName xml:lang="fr">afrikaans</lcc-lr:hasFrenchName>
+        <lcc-lr:hasGermanName xml:lang="ge">Afrikaans</lcc-lr:hasGermanName>
         <lcc-lr:hasIndigenousName rdf:datatype="&xsd;string">Afrikaans</lcc-lr:hasIndigenousName>
         <rdfs:isDefinedBy rdf:resource="&lcc-639-1;"/>
     </owl:NamedIndividual>
@@ -2143,9 +2143,9 @@
         <rdf:type rdf:resource="&lcc-lr;LivingLanguage"/>
         <rdfs:label>Akan</rdfs:label>
         <skos:definition rdf:datatype="&xsd;string">Akan language</skos:definition>
-        <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Akan</lcc-lr:hasEnglishName>
-        <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">akan</lcc-lr:hasFrenchName>
-        <lcc-lr:hasGermanName rdf:datatype="&xsd;string">Akan</lcc-lr:hasGermanName>
+        <lcc-lr:hasEnglishName xml:lang="en">Akan</lcc-lr:hasEnglishName>
+        <lcc-lr:hasFrenchName xml:lang="fr">akan</lcc-lr:hasFrenchName>
+        <lcc-lr:hasGermanName xml:lang="ge">Akan</lcc-lr:hasGermanName>
         <lcc-lr:hasIndigenousName rdf:datatype="&xsd;string">akana</lcc-lr:hasIndigenousName>
         <rdfs:isDefinedBy rdf:resource="&lcc-639-1;"/>
     </owl:NamedIndividual>
@@ -2155,9 +2155,9 @@
         <rdf:type rdf:resource="&lcc-lr;LivingLanguage"/>
         <rdfs:label>Albanian</rdfs:label>
         <skos:definition rdf:datatype="&xsd;string">Albanian languages</skos:definition>
-        <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Albanian</lcc-lr:hasEnglishName>
-        <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">albanais</lcc-lr:hasFrenchName>
-        <lcc-lr:hasGermanName rdf:datatype="&xsd;string">Albanisch</lcc-lr:hasGermanName>
+        <lcc-lr:hasEnglishName xml:lang="en">Albanian</lcc-lr:hasEnglishName>
+        <lcc-lr:hasFrenchName xml:lang="fr">albanais</lcc-lr:hasFrenchName>
+        <lcc-lr:hasGermanName xml:lang="ge">Albanisch</lcc-lr:hasGermanName>
         <lcc-lr:hasIndigenousName rdf:datatype="&xsd;string">shqip</lcc-lr:hasIndigenousName>
         <rdfs:isDefinedBy rdf:resource="&lcc-639-1;"/>
     </owl:NamedIndividual>
@@ -2167,9 +2167,9 @@
         <rdf:type rdf:resource="&lcc-lr;LivingLanguage"/>
         <rdfs:label>Amharic</rdfs:label>
         <skos:definition rdf:datatype="&xsd;string">Amharic language</skos:definition>
-        <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Amharic</lcc-lr:hasEnglishName>
-        <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">amharique</lcc-lr:hasFrenchName>
-        <lcc-lr:hasGermanName rdf:datatype="&xsd;string">Amharisch</lcc-lr:hasGermanName>
+        <lcc-lr:hasEnglishName xml:lang="en">Amharic</lcc-lr:hasEnglishName>
+        <lcc-lr:hasFrenchName xml:lang="fr">amharique</lcc-lr:hasFrenchName>
+        <lcc-lr:hasGermanName xml:lang="ge">Amharisch</lcc-lr:hasGermanName>
         <lcc-lr:hasIndigenousName rdf:datatype="&xsd;string">amarinja</lcc-lr:hasIndigenousName>
         <rdfs:isDefinedBy rdf:resource="&lcc-639-1;"/>
     </owl:NamedIndividual>
@@ -2179,10 +2179,10 @@
         <rdf:type rdf:resource="&lcc-lr;LivingLanguage"/>
         <rdfs:label>Arabic</rdfs:label>
         <skos:definition rdf:datatype="&xsd;string">Arabic language</skos:definition>
-        <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Arabic</lcc-lr:hasEnglishName>
-        <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">arabe</lcc-lr:hasFrenchName>
-        <lcc-lr:hasGermanName rdf:datatype="&xsd;string">Arabisch</lcc-lr:hasGermanName>
-        <lcc-lr:hasIndigenousName rdf:datatype="&xsd;string">&#39;arabiy</lcc-lr:hasIndigenousName>
+        <lcc-lr:hasEnglishName xml:lang="en">Arabic</lcc-lr:hasEnglishName>
+        <lcc-lr:hasFrenchName xml:lang="fr">arabe</lcc-lr:hasFrenchName>
+        <lcc-lr:hasGermanName xml:lang="ge">Arabisch</lcc-lr:hasGermanName>
+        <lcc-lr:hasIndigenousName rdf:datatype="&xsd;string">'arabiy</lcc-lr:hasIndigenousName>
         <rdfs:isDefinedBy rdf:resource="&lcc-639-1;"/>
     </owl:NamedIndividual>
 
@@ -2191,9 +2191,9 @@
         <rdf:type rdf:resource="&lcc-lr;LivingLanguage"/>
         <rdfs:label>Aragonese</rdfs:label>
         <skos:definition rdf:datatype="&xsd;string">Aragonese language</skos:definition>
-        <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Aragonese</lcc-lr:hasEnglishName>
-        <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">aragonais</lcc-lr:hasFrenchName>
-        <lcc-lr:hasGermanName rdf:datatype="&xsd;string">Aragonesisch</lcc-lr:hasGermanName>
+        <lcc-lr:hasEnglishName xml:lang="en">Aragonese</lcc-lr:hasEnglishName>
+        <lcc-lr:hasFrenchName xml:lang="fr">aragonais</lcc-lr:hasFrenchName>
+        <lcc-lr:hasGermanName xml:lang="ge">Aragonesisch</lcc-lr:hasGermanName>
         <rdfs:isDefinedBy rdf:resource="&lcc-639-1;"/>
     </owl:NamedIndividual>
 
@@ -2202,9 +2202,9 @@
         <rdf:type rdf:resource="&lcc-lr;LivingLanguage"/>
         <rdfs:label>Armenian</rdfs:label>
         <skos:definition rdf:datatype="&xsd;string">Armenian language</skos:definition>
-        <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Armenian</lcc-lr:hasEnglishName>
-        <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">arm&#233;nien</lcc-lr:hasFrenchName>
-        <lcc-lr:hasGermanName rdf:datatype="&xsd;string">Armenisch</lcc-lr:hasGermanName>
+        <lcc-lr:hasEnglishName xml:lang="en">Armenian</lcc-lr:hasEnglishName>
+        <lcc-lr:hasFrenchName xml:lang="fr">arménien</lcc-lr:hasFrenchName>
+        <lcc-lr:hasGermanName xml:lang="ge">Armenisch</lcc-lr:hasGermanName>
         <lcc-lr:hasIndigenousName rdf:datatype="&xsd;string">hayeren lezow</lcc-lr:hasIndigenousName>
         <rdfs:isDefinedBy rdf:resource="&lcc-639-1;"/>
     </owl:NamedIndividual>
@@ -2214,24 +2214,24 @@
         <rdf:type rdf:resource="&lcc-lr;LivingLanguage"/>
         <rdfs:label>Assamese</rdfs:label>
         <skos:definition rdf:datatype="&xsd;string">Assamese language</skos:definition>
-        <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Assamese</lcc-lr:hasEnglishName>
-        <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">assamais</lcc-lr:hasFrenchName>
-        <lcc-lr:hasGermanName rdf:datatype="&xsd;string">Assamesisch</lcc-lr:hasGermanName>
-        <lcc-lr:hasIndigenousName rdf:datatype="&xsd;string">asam&#299;</lcc-lr:hasIndigenousName>
+        <lcc-lr:hasEnglishName xml:lang="en">Assamese</lcc-lr:hasEnglishName>
+        <lcc-lr:hasFrenchName xml:lang="fr">assamais</lcc-lr:hasFrenchName>
+        <lcc-lr:hasGermanName xml:lang="ge">Assamesisch</lcc-lr:hasGermanName>
+        <lcc-lr:hasIndigenousName rdf:datatype="&xsd;string">asamī</lcc-lr:hasIndigenousName>
         <rdfs:isDefinedBy rdf:resource="&lcc-639-1;"/>
     </owl:NamedIndividual>
 
     <owl:NamedIndividual rdf:about="&lcc-639-1;Avaric">
         <rdf:type rdf:resource="&lcc-lr;IndividualLanguage"/>
         <rdf:type rdf:resource="&lcc-lr;LivingLanguage"/>
-  <rdfs:label>Avaric</rdfs:label>
+      <rdfs:label>Avaric</rdfs:label>
         <skos:definition rdf:datatype="&xsd;string">Avaric language</skos:definition>
-        <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Avaric</lcc-lr:hasEnglishName>
-        <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Avar</lcc-lr:hasEnglishName>
-        <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Avarish</lcc-lr:hasEnglishName>
-        <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">avar</lcc-lr:hasFrenchName>
-        <lcc-lr:hasGermanName rdf:datatype="&xsd;string">Awarisch</lcc-lr:hasGermanName>
-        <lcc-lr:hasIndigenousName rdf:datatype="&xsd;string">avar mac&#8225;</lcc-lr:hasIndigenousName>
+        <lcc-lr:hasEnglishName xml:lang="en">Avaric</lcc-lr:hasEnglishName>
+        <lcc-lr:hasEnglishName xml:lang="en">Avar</lcc-lr:hasEnglishName>
+        <lcc-lr:hasEnglishName xml:lang="en">Avarish</lcc-lr:hasEnglishName>
+        <lcc-lr:hasFrenchName xml:lang="fr">avar</lcc-lr:hasFrenchName>
+        <lcc-lr:hasGermanName xml:lang="ge">Awarisch</lcc-lr:hasGermanName>
+        <lcc-lr:hasIndigenousName rdf:datatype="&xsd;string">avar mac‡</lcc-lr:hasIndigenousName>
         <rdfs:isDefinedBy rdf:resource="&lcc-639-1;"/>
     </owl:NamedIndividual>
 
@@ -2240,9 +2240,9 @@
         <rdf:type rdf:resource="&lcc-lr;AncientLanguage"/>
         <rdfs:label>Avestan</rdfs:label>
         <skos:definition rdf:datatype="&xsd;string">Avestan     language</skos:definition>
-        <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Avestan</lcc-lr:hasEnglishName>
-        <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">avestique</lcc-lr:hasFrenchName>
-        <lcc-lr:hasGermanName rdf:datatype="&xsd;string">Avestisch</lcc-lr:hasGermanName>
+        <lcc-lr:hasEnglishName xml:lang="en">Avestan</lcc-lr:hasEnglishName>
+        <lcc-lr:hasFrenchName xml:lang="fr">avestique</lcc-lr:hasFrenchName>
+        <lcc-lr:hasGermanName xml:lang="ge">Avestisch</lcc-lr:hasGermanName>
         <rdfs:isDefinedBy rdf:resource="&lcc-639-1;"/>
     </owl:NamedIndividual>
 
@@ -2251,9 +2251,9 @@
         <rdf:type rdf:resource="&lcc-lr;LivingLanguage"/>
         <rdfs:label>Aymara</rdfs:label>
         <skos:definition rdf:datatype="&xsd;string">Aymara language</skos:definition>
-        <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Aymara</lcc-lr:hasEnglishName>
-        <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">aymara</lcc-lr:hasFrenchName>
-        <lcc-lr:hasGermanName rdf:datatype="&xsd;string">Aymar&#225;-Sprache</lcc-lr:hasGermanName>
+        <lcc-lr:hasEnglishName xml:lang="en">Aymara</lcc-lr:hasEnglishName>
+        <lcc-lr:hasFrenchName xml:lang="fr">aymara</lcc-lr:hasFrenchName>
+        <lcc-lr:hasGermanName xml:lang="ge">Aymará-Sprache</lcc-lr:hasGermanName>
         <lcc-lr:hasIndigenousName rdf:datatype="&xsd;string">aymara</lcc-lr:hasIndigenousName>
         <rdfs:isDefinedBy rdf:resource="&lcc-639-1;"/>
     </owl:NamedIndividual>
@@ -2263,11 +2263,11 @@
         <rdf:type rdf:resource="&lcc-lr;LivingLanguage"/>
         <rdfs:label>Azerbaijani</rdfs:label>
         <skos:definition rdf:datatype="&xsd;string">Azerbaijani language</skos:definition>
-        <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Azerbaijani</lcc-lr:hasEnglishName>
-        <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">az&#233;ri</lcc-lr:hasFrenchName>
-        <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">azerba&#239;djanais</lcc-lr:hasFrenchName>
-        <lcc-lr:hasGermanName rdf:datatype="&xsd;string">Aserbeidschanisch</lcc-lr:hasGermanName>
-        <lcc-lr:hasIndigenousName rdf:datatype="&xsd;string">az&#477;rbaycan dil</lcc-lr:hasIndigenousName>
+        <lcc-lr:hasEnglishName xml:lang="en">Azerbaijani</lcc-lr:hasEnglishName>
+        <lcc-lr:hasFrenchName xml:lang="fr">azéri</lcc-lr:hasFrenchName>
+        <lcc-lr:hasFrenchName xml:lang="fr">azerbaïdjanais</lcc-lr:hasFrenchName>
+        <lcc-lr:hasGermanName xml:lang="ge">Aserbeidschanisch</lcc-lr:hasGermanName>
+        <lcc-lr:hasIndigenousName rdf:datatype="&xsd;string">azǝrbaycan dil</lcc-lr:hasIndigenousName>
         <rdfs:isDefinedBy rdf:resource="&lcc-639-1;"/>
     </owl:NamedIndividual>
 
@@ -2276,9 +2276,9 @@
         <rdf:type rdf:resource="&lcc-lr;LivingLanguage"/>
         <rdfs:label>Bambara</rdfs:label>
         <skos:definition rdf:datatype="&xsd;string">Bambara language</skos:definition>
-        <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Bambara</lcc-lr:hasEnglishName>
-        <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">bambara</lcc-lr:hasFrenchName>
-        <lcc-lr:hasGermanName rdf:datatype="&xsd;string">Bambara-Sprache</lcc-lr:hasGermanName>
+        <lcc-lr:hasEnglishName xml:lang="en">Bambara</lcc-lr:hasEnglishName>
+        <lcc-lr:hasFrenchName xml:lang="fr">bambara</lcc-lr:hasFrenchName>
+        <lcc-lr:hasGermanName xml:lang="ge">Bambara-Sprache</lcc-lr:hasGermanName>
         <lcc-lr:hasIndigenousName rdf:datatype="&xsd;string">bambankan</lcc-lr:hasIndigenousName>
         <rdfs:isDefinedBy rdf:resource="&lcc-639-1;"/>
     </owl:NamedIndividual>
@@ -2288,11 +2288,11 @@
         <rdf:type rdf:resource="&lcc-lr;LivingLanguage"/>
         <rdfs:label>Bashkir</rdfs:label>
         <skos:definition rdf:datatype="&xsd;string">Bashkir language</skos:definition>
-        <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Bashkir</lcc-lr:hasEnglishName>
-        <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">bachkir</lcc-lr:hasFrenchName>
-        <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">bashkir</lcc-lr:hasFrenchName>
-        <lcc-lr:hasGermanName rdf:datatype="&xsd;string">Baschkirisch</lcc-lr:hasGermanName>
-        <lcc-lr:hasIndigenousName rdf:datatype="&xsd;string">ba&#353;&#489;ort</lcc-lr:hasIndigenousName>
+        <lcc-lr:hasEnglishName xml:lang="en">Bashkir</lcc-lr:hasEnglishName>
+        <lcc-lr:hasFrenchName xml:lang="fr">bachkir</lcc-lr:hasFrenchName>
+        <lcc-lr:hasFrenchName xml:lang="fr">bashkir</lcc-lr:hasFrenchName>
+        <lcc-lr:hasGermanName xml:lang="ge">Baschkirisch</lcc-lr:hasGermanName>
+        <lcc-lr:hasIndigenousName rdf:datatype="&xsd;string">bašǩort</lcc-lr:hasIndigenousName>
         <rdfs:isDefinedBy rdf:resource="&lcc-639-1;"/>
     </owl:NamedIndividual>
 
@@ -2301,9 +2301,9 @@
         <rdf:type rdf:resource="&lcc-lr;LivingLanguage"/>
         <rdfs:label>Basque</rdfs:label>
         <skos:definition rdf:datatype="&xsd;string">Basque language</skos:definition>
-        <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Basque</lcc-lr:hasEnglishName>
-        <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">basque</lcc-lr:hasFrenchName>
-        <lcc-lr:hasGermanName rdf:datatype="&xsd;string">Baskisch</lcc-lr:hasGermanName>
+        <lcc-lr:hasEnglishName xml:lang="en">Basque</lcc-lr:hasEnglishName>
+        <lcc-lr:hasFrenchName xml:lang="fr">basque</lcc-lr:hasFrenchName>
+        <lcc-lr:hasGermanName xml:lang="ge">Baskisch</lcc-lr:hasGermanName>
         <lcc-lr:hasIndigenousName rdf:datatype="&xsd;string">euskara</lcc-lr:hasIndigenousName>
         <lcc-lr:hasIndigenousName rdf:datatype="&xsd;string">euskera</lcc-lr:hasIndigenousName>
         <rdfs:isDefinedBy rdf:resource="&lcc-639-1;"/>
@@ -2314,10 +2314,10 @@
         <rdf:type rdf:resource="&lcc-lr;LivingLanguage"/>
         <rdfs:label>Belarusian</rdfs:label>
         <skos:definition rdf:datatype="&xsd;string">Belarusian language</skos:definition>
-        <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Belarusian</lcc-lr:hasEnglishName>
-        <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">bi&#233;lorusse</lcc-lr:hasFrenchName>
-        <lcc-lr:hasGermanName rdf:datatype="&xsd;string">Wei&#223;russisch</lcc-lr:hasGermanName>
-        <lcc-lr:hasIndigenousName rdf:datatype="&xsd;string">belaruska&#226; mova</lcc-lr:hasIndigenousName>
+        <lcc-lr:hasEnglishName xml:lang="en">Belarusian</lcc-lr:hasEnglishName>
+        <lcc-lr:hasFrenchName xml:lang="fr">biélorusse</lcc-lr:hasFrenchName>
+        <lcc-lr:hasGermanName xml:lang="ge">Weißrussisch</lcc-lr:hasGermanName>
+        <lcc-lr:hasIndigenousName rdf:datatype="&xsd;string">belaruskaâ mova</lcc-lr:hasIndigenousName>
         <rdfs:isDefinedBy rdf:resource="&lcc-639-1;"/>
     </owl:NamedIndividual>
 
@@ -2326,21 +2326,21 @@
         <rdf:type rdf:resource="&lcc-lr;LivingLanguage"/>
         <rdfs:label>Bengali</rdfs:label>
         <skos:definition rdf:datatype="&xsd;string">Bengali language</skos:definition>
-        <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Bangla</lcc-lr:hasEnglishName>
-        <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Bengali</lcc-lr:hasEnglishName>
-        <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">bengali</lcc-lr:hasFrenchName>
-        <lcc-lr:hasGermanName rdf:datatype="&xsd;string">Bengali</lcc-lr:hasGermanName>
-        <lcc-lr:hasIndigenousName rdf:datatype="&xsd;string">b&#257;&#7749;l&#257;</lcc-lr:hasIndigenousName>
+        <lcc-lr:hasEnglishName xml:lang="en">Bangla</lcc-lr:hasEnglishName>
+        <lcc-lr:hasEnglishName xml:lang="en">Bengali</lcc-lr:hasEnglishName>
+        <lcc-lr:hasFrenchName xml:lang="fr">bengali</lcc-lr:hasFrenchName>
+        <lcc-lr:hasGermanName xml:lang="ge">Bengali</lcc-lr:hasGermanName>
+        <lcc-lr:hasIndigenousName rdf:datatype="&xsd;string">bāṅlā</lcc-lr:hasIndigenousName>
         <rdfs:isDefinedBy rdf:resource="&lcc-639-1;"/>
     </owl:NamedIndividual>
 
     <owl:NamedIndividual rdf:about="&lcc-639-1;BihariLanguages">
         <rdf:type rdf:resource="&lcc-lr;LanguageFamily"/>
         <rdfs:label>Bihari languages</rdfs:label>
-        <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Bihari languages</lcc-lr:hasEnglishName>
-        <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">langues biharis</lcc-lr:hasFrenchName>
-        <lcc-lr:hasGermanName rdf:datatype="&xsd;string">Bihari (Andere)</lcc-lr:hasGermanName>
-        <lcc-lr:hasIndigenousName rdf:datatype="&xsd;string">bih&#257;r&#299;</lcc-lr:hasIndigenousName>
+        <lcc-lr:hasEnglishName xml:lang="en">Bihari languages</lcc-lr:hasEnglishName>
+        <lcc-lr:hasFrenchName xml:lang="fr">langues biharis</lcc-lr:hasFrenchName>
+        <lcc-lr:hasGermanName xml:lang="ge">Bihari (Andere)</lcc-lr:hasGermanName>
+        <lcc-lr:hasIndigenousName rdf:datatype="&xsd;string">bihārī</lcc-lr:hasIndigenousName>
         <rdfs:isDefinedBy rdf:resource="&lcc-639-1;"/>
     </owl:NamedIndividual>
 
@@ -2349,10 +2349,10 @@
         <rdf:type rdf:resource="&lcc-lr;LivingLanguage"/>
         <rdfs:label>Bislama</rdfs:label>
         <skos:definition rdf:datatype="&xsd;string">Bislama language</skos:definition>
-        <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Bislama</lcc-lr:hasEnglishName>
-        <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">bichlamar</lcc-lr:hasFrenchName>
-        <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">bislama</lcc-lr:hasFrenchName>
-        <lcc-lr:hasGermanName rdf:datatype="&xsd;string">Beach-la-mar</lcc-lr:hasGermanName>
+        <lcc-lr:hasEnglishName xml:lang="en">Bislama</lcc-lr:hasEnglishName>
+        <lcc-lr:hasFrenchName xml:lang="fr">bichlamar</lcc-lr:hasFrenchName>
+        <lcc-lr:hasFrenchName xml:lang="fr">bislama</lcc-lr:hasFrenchName>
+        <lcc-lr:hasGermanName xml:lang="ge">Beach-la-mar</lcc-lr:hasGermanName>
         <lcc-lr:hasIndigenousName rdf:datatype="&xsd;string">bislama</lcc-lr:hasIndigenousName>
         <rdfs:isDefinedBy rdf:resource="&lcc-639-1;"/>
     </owl:NamedIndividual>
@@ -2362,9 +2362,9 @@
         <rdf:type rdf:resource="&lcc-lr;LivingLanguage"/>
         <rdfs:label>Bosnian</rdfs:label>
         <skos:definition rdf:datatype="&xsd;string">Bosnian language</skos:definition>
-        <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Bosnian</lcc-lr:hasEnglishName>
-        <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">bosniaque</lcc-lr:hasFrenchName>
-        <lcc-lr:hasGermanName rdf:datatype="&xsd;string">Bosnisch</lcc-lr:hasGermanName>
+        <lcc-lr:hasEnglishName xml:lang="en">Bosnian</lcc-lr:hasEnglishName>
+        <lcc-lr:hasFrenchName xml:lang="fr">bosniaque</lcc-lr:hasFrenchName>
+        <lcc-lr:hasGermanName xml:lang="ge">Bosnisch</lcc-lr:hasGermanName>
         <lcc-lr:hasIndigenousName rdf:datatype="&xsd;string">bosanski (jezik)</lcc-lr:hasIndigenousName>
         <rdfs:isDefinedBy rdf:resource="&lcc-639-1;"/>
     </owl:NamedIndividual>
@@ -2374,9 +2374,9 @@
         <rdf:type rdf:resource="&lcc-lr;LivingLanguage"/>
         <rdfs:label>Breton</rdfs:label>
         <skos:definition rdf:datatype="&xsd;string">Breton language</skos:definition>
-        <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Breton</lcc-lr:hasEnglishName>
-        <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">breton</lcc-lr:hasFrenchName>
-        <lcc-lr:hasGermanName rdf:datatype="&xsd;string">Bretonisch</lcc-lr:hasGermanName>
+        <lcc-lr:hasEnglishName xml:lang="en">Breton</lcc-lr:hasEnglishName>
+        <lcc-lr:hasFrenchName xml:lang="fr">breton</lcc-lr:hasFrenchName>
+        <lcc-lr:hasGermanName xml:lang="ge">Bretonisch</lcc-lr:hasGermanName>
         <lcc-lr:hasIndigenousName rdf:datatype="&xsd;string">Brezhoneg</lcc-lr:hasIndigenousName>
         <rdfs:isDefinedBy rdf:resource="&lcc-639-1;"/>
     </owl:NamedIndividual>
@@ -2386,10 +2386,10 @@
         <rdf:type rdf:resource="&lcc-lr;LivingLanguage"/>
         <rdfs:label>Bulgarian</rdfs:label>
         <skos:definition rdf:datatype="&xsd;string">Bulgarian language</skos:definition>
-        <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Bulgarian</lcc-lr:hasEnglishName>
-        <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">bulgare</lcc-lr:hasFrenchName>
-        <lcc-lr:hasGermanName rdf:datatype="&xsd;string">Bulgarisch</lcc-lr:hasGermanName>
-        <lcc-lr:hasIndigenousName rdf:datatype="&xsd;string">b&#34;lgarski ezik</lcc-lr:hasIndigenousName>
+        <lcc-lr:hasEnglishName xml:lang="en">Bulgarian</lcc-lr:hasEnglishName>
+        <lcc-lr:hasFrenchName xml:lang="fr">bulgare</lcc-lr:hasFrenchName>
+        <lcc-lr:hasGermanName xml:lang="ge">Bulgarisch</lcc-lr:hasGermanName>
+        <lcc-lr:hasIndigenousName rdf:datatype="&xsd;string">b"lgarski ezik</lcc-lr:hasIndigenousName>
         <rdfs:isDefinedBy rdf:resource="&lcc-639-1;"/>
     </owl:NamedIndividual>
 
@@ -2398,10 +2398,10 @@
         <rdf:type rdf:resource="&lcc-lr;LivingLanguage"/>
         <rdfs:label>Burmese</rdfs:label>
         <skos:definition rdf:datatype="&xsd;string">Burmese language</skos:definition>
-        <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Burmese</lcc-lr:hasEnglishName>
-        <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Myanmar</lcc-lr:hasEnglishName>
-        <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">birman</lcc-lr:hasFrenchName>
-        <lcc-lr:hasGermanName rdf:datatype="&xsd;string">Birmanisch</lcc-lr:hasGermanName>
+        <lcc-lr:hasEnglishName xml:lang="en">Burmese</lcc-lr:hasEnglishName>
+        <lcc-lr:hasEnglishName xml:lang="en">Myanmar</lcc-lr:hasEnglishName>
+        <lcc-lr:hasFrenchName xml:lang="fr">birman</lcc-lr:hasFrenchName>
+        <lcc-lr:hasGermanName xml:lang="ge">Birmanisch</lcc-lr:hasGermanName>
         <lcc-lr:hasIndigenousName rdf:datatype="&xsd;string">myanmasa</lcc-lr:hasIndigenousName>
         <rdfs:isDefinedBy rdf:resource="&lcc-639-1;"/>
     </owl:NamedIndividual>
@@ -2411,12 +2411,12 @@
         <rdf:type rdf:resource="&lcc-lr;LivingLanguage"/>
         <rdfs:label>Catalan</rdfs:label>
         <skos:definition rdf:datatype="&xsd;string">Catalan language</skos:definition>
-        <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Catalan</lcc-lr:hasEnglishName>
-        <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Valencian</lcc-lr:hasEnglishName>
-        <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">catalan</lcc-lr:hasFrenchName>
-        <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">valencien</lcc-lr:hasFrenchName>
-        <lcc-lr:hasGermanName rdf:datatype="&xsd;string">Katalanisch</lcc-lr:hasGermanName>
-        <lcc-lr:hasIndigenousName rdf:datatype="&xsd;string">catal&#224;</lcc-lr:hasIndigenousName>
+        <lcc-lr:hasEnglishName xml:lang="en">Catalan</lcc-lr:hasEnglishName>
+        <lcc-lr:hasEnglishName xml:lang="en">Valencian</lcc-lr:hasEnglishName>
+        <lcc-lr:hasFrenchName xml:lang="fr">catalan</lcc-lr:hasFrenchName>
+        <lcc-lr:hasFrenchName xml:lang="fr">valencien</lcc-lr:hasFrenchName>
+        <lcc-lr:hasGermanName xml:lang="ge">Katalanisch</lcc-lr:hasGermanName>
+        <lcc-lr:hasIndigenousName rdf:datatype="&xsd;string">català</lcc-lr:hasIndigenousName>
         <rdfs:isDefinedBy rdf:resource="&lcc-639-1;"/>
     </owl:NamedIndividual>
 
@@ -2425,9 +2425,9 @@
         <rdf:type rdf:resource="&lcc-lr;LivingLanguage"/>
         <rdfs:label>Chamorro</rdfs:label>
         <skos:definition rdf:datatype="&xsd;string">Chamorro language</skos:definition>
-        <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Chamorro</lcc-lr:hasEnglishName>
-        <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">chamorro</lcc-lr:hasFrenchName>
-        <lcc-lr:hasGermanName rdf:datatype="&xsd;string">Chamorro-Sprache</lcc-lr:hasGermanName>
+        <lcc-lr:hasEnglishName xml:lang="en">Chamorro</lcc-lr:hasEnglishName>
+        <lcc-lr:hasFrenchName xml:lang="fr">chamorro</lcc-lr:hasFrenchName>
+        <lcc-lr:hasGermanName xml:lang="ge">Chamorro-Sprache</lcc-lr:hasGermanName>
         <rdfs:isDefinedBy rdf:resource="&lcc-639-1;"/>
     </owl:NamedIndividual>
 
@@ -2436,11 +2436,11 @@
         <rdf:type rdf:resource="&lcc-lr;LivingLanguage"/>
         <rdfs:label>Chechen</rdfs:label>
         <skos:definition rdf:datatype="&xsd;string">Chechen language</skos:definition>
-        <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Chechen</lcc-lr:hasEnglishName>
-        <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">tch&#233;tch&#232;ne</lcc-lr:hasFrenchName>
-        <lcc-lr:hasGermanName rdf:datatype="&xsd;string">Tschetschenisch</lcc-lr:hasGermanName>
-        <lcc-lr:hasIndigenousName rdf:datatype="&xsd;string">noh&#269;ijn mott</lcc-lr:hasIndigenousName>
-        <lcc-lr:hasIndigenousName rdf:datatype="&xsd;string">nox&#231;iyn mott</lcc-lr:hasIndigenousName>
+        <lcc-lr:hasEnglishName xml:lang="en">Chechen</lcc-lr:hasEnglishName>
+        <lcc-lr:hasFrenchName xml:lang="fr">tchétchène</lcc-lr:hasFrenchName>
+        <lcc-lr:hasGermanName xml:lang="ge">Tschetschenisch</lcc-lr:hasGermanName>
+        <lcc-lr:hasIndigenousName rdf:datatype="&xsd;string">nohčijn mott</lcc-lr:hasIndigenousName>
+        <lcc-lr:hasIndigenousName rdf:datatype="&xsd;string">noxçiyn mott</lcc-lr:hasIndigenousName>
         <rdfs:isDefinedBy rdf:resource="&lcc-639-1;"/>
     </owl:NamedIndividual>
 
@@ -2449,9 +2449,9 @@
         <rdf:type rdf:resource="&lcc-lr;LivingLanguage"/>
         <rdfs:label>Chinese</rdfs:label>
         <skos:definition rdf:datatype="&xsd;string">Chinese languages</skos:definition>
-        <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Chinese</lcc-lr:hasEnglishName>
-        <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">chinois</lcc-lr:hasFrenchName>
-        <lcc-lr:hasGermanName rdf:datatype="&xsd;string">Chinesisch</lcc-lr:hasGermanName>
+        <lcc-lr:hasEnglishName xml:lang="en">Chinese</lcc-lr:hasEnglishName>
+        <lcc-lr:hasFrenchName xml:lang="fr">chinois</lcc-lr:hasFrenchName>
+        <lcc-lr:hasGermanName xml:lang="ge">Chinesisch</lcc-lr:hasGermanName>
         <lcc-lr:hasIndigenousName rdf:datatype="&xsd;string">zhongwen</lcc-lr:hasIndigenousName>
         <rdfs:isDefinedBy rdf:resource="&lcc-639-1;"/>
     </owl:NamedIndividual>
@@ -2461,17 +2461,17 @@
         <rdf:type rdf:resource="&lcc-lr;AncientLanguage"/>
         <rdfs:label>Church Slavic</rdfs:label>
         <skos:definition rdf:datatype="&xsd;string">Church Slavic language</skos:definition>
-        <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Church Slavic</lcc-lr:hasEnglishName>
-        <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Church Slavonic</lcc-lr:hasEnglishName>
-        <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Old Bulgarian</lcc-lr:hasEnglishName>
-        <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Old Church Slavonic</lcc-lr:hasEnglishName>
-        <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Old Slavonic</lcc-lr:hasEnglishName>
-        <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">slavon d'&#233;glise</lcc-lr:hasFrenchName>
-        <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">slavon liturgique</lcc-lr:hasFrenchName>
-        <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">vieux bulgare</lcc-lr:hasFrenchName>
-        <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">vieux slave</lcc-lr:hasFrenchName>
-        <lcc-lr:hasGermanName rdf:datatype="&xsd;string">Kirchenslawisch</lcc-lr:hasGermanName>
-        <lcc-lr:hasIndigenousName rdf:datatype="&xsd;string">cerkovno-slav&#226;nskij</lcc-lr:hasIndigenousName>
+        <lcc-lr:hasEnglishName xml:lang="en">Church Slavic</lcc-lr:hasEnglishName>
+        <lcc-lr:hasEnglishName xml:lang="en">Church Slavonic</lcc-lr:hasEnglishName>
+        <lcc-lr:hasEnglishName xml:lang="en">Old Bulgarian</lcc-lr:hasEnglishName>
+        <lcc-lr:hasEnglishName xml:lang="en">Old Church Slavonic</lcc-lr:hasEnglishName>
+        <lcc-lr:hasEnglishName xml:lang="en">Old Slavonic</lcc-lr:hasEnglishName>
+        <lcc-lr:hasFrenchName xml:lang="fr">slavon d'église</lcc-lr:hasFrenchName>
+        <lcc-lr:hasFrenchName xml:lang="fr">slavon liturgique</lcc-lr:hasFrenchName>
+        <lcc-lr:hasFrenchName xml:lang="fr">vieux bulgare</lcc-lr:hasFrenchName>
+        <lcc-lr:hasFrenchName xml:lang="fr">vieux slave</lcc-lr:hasFrenchName>
+        <lcc-lr:hasGermanName xml:lang="ge">Kirchenslawisch</lcc-lr:hasGermanName>
+        <lcc-lr:hasIndigenousName rdf:datatype="&xsd;string">cerkovno-slavânskij</lcc-lr:hasIndigenousName>
         <rdfs:isDefinedBy rdf:resource="&lcc-639-1;"/>
     </owl:NamedIndividual>
 
@@ -2480,10 +2480,10 @@
         <rdf:type rdf:resource="&lcc-lr;LivingLanguage"/>
         <rdfs:label>Chuvash</rdfs:label>
         <skos:definition rdf:datatype="&xsd;string">Chuvash language</skos:definition>
-        <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Chuvash</lcc-lr:hasEnglishName>
-        <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">tchouvache</lcc-lr:hasFrenchName>
-        <lcc-lr:hasGermanName rdf:datatype="&xsd;string">Tschuwaschisch</lcc-lr:hasGermanName>
-        <lcc-lr:hasIndigenousName rdf:datatype="&xsd;string">&#269;&#462;va&#353; &#269;&#283;lhi</lcc-lr:hasIndigenousName>
+        <lcc-lr:hasEnglishName xml:lang="en">Chuvash</lcc-lr:hasEnglishName>
+        <lcc-lr:hasFrenchName xml:lang="fr">tchouvache</lcc-lr:hasFrenchName>
+        <lcc-lr:hasGermanName xml:lang="ge">Tschuwaschisch</lcc-lr:hasGermanName>
+        <lcc-lr:hasIndigenousName rdf:datatype="&xsd;string">čǎvaš čělhi</lcc-lr:hasIndigenousName>
         <rdfs:isDefinedBy rdf:resource="&lcc-639-1;"/>
     </owl:NamedIndividual>
 
@@ -2492,9 +2492,9 @@
         <rdf:type rdf:resource="&lcc-lr;LivingLanguage"/>
         <rdfs:label>Cornish</rdfs:label>
         <skos:definition rdf:datatype="&xsd;string">Cornish language</skos:definition>
-        <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Cornish</lcc-lr:hasEnglishName>
-        <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">cornique</lcc-lr:hasFrenchName>
-        <lcc-lr:hasGermanName rdf:datatype="&xsd;string">Kornisch</lcc-lr:hasGermanName>
+        <lcc-lr:hasEnglishName xml:lang="en">Cornish</lcc-lr:hasEnglishName>
+        <lcc-lr:hasFrenchName xml:lang="fr">cornique</lcc-lr:hasFrenchName>
+        <lcc-lr:hasGermanName xml:lang="ge">Kornisch</lcc-lr:hasGermanName>
         <lcc-lr:hasIndigenousName rdf:datatype="&xsd;string">Kernewek</lcc-lr:hasIndigenousName>
         <rdfs:isDefinedBy rdf:resource="&lcc-639-1;"/>
     </owl:NamedIndividual>
@@ -2504,9 +2504,9 @@
         <rdf:type rdf:resource="&lcc-lr;LivingLanguage"/>
         <rdfs:label>Corsican</rdfs:label>
         <skos:definition rdf:datatype="&xsd;string">Corsican language</skos:definition>
-        <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Corsican</lcc-lr:hasEnglishName>
-        <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">corse</lcc-lr:hasFrenchName>
-        <lcc-lr:hasGermanName rdf:datatype="&xsd;string">Korsisch</lcc-lr:hasGermanName>
+        <lcc-lr:hasEnglishName xml:lang="en">Corsican</lcc-lr:hasEnglishName>
+        <lcc-lr:hasFrenchName xml:lang="fr">corse</lcc-lr:hasFrenchName>
+        <lcc-lr:hasGermanName xml:lang="ge">Korsisch</lcc-lr:hasGermanName>
         <lcc-lr:hasIndigenousName rdf:datatype="&xsd;string">corsu</lcc-lr:hasIndigenousName>
         <rdfs:isDefinedBy rdf:resource="&lcc-639-1;"/>
     </owl:NamedIndividual>
@@ -2516,10 +2516,10 @@
         <rdf:type rdf:resource="&lcc-lr;LivingLanguage"/>
         <rdfs:label>Cree</rdfs:label>
         <skos:definition rdf:datatype="&xsd;string">Cree languages</skos:definition>
-        <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Cree</lcc-lr:hasEnglishName>
-        <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">cree</lcc-lr:hasFrenchName>
-        <lcc-lr:hasGermanName rdf:datatype="&xsd;string">Cree-Sprache</lcc-lr:hasGermanName>
-        <lcc-lr:hasIndigenousName rdf:datatype="&xsd;string">n&#234;hiyawa</lcc-lr:hasIndigenousName>
+        <lcc-lr:hasEnglishName xml:lang="en">Cree</lcc-lr:hasEnglishName>
+        <lcc-lr:hasFrenchName xml:lang="fr">cree</lcc-lr:hasFrenchName>
+        <lcc-lr:hasGermanName xml:lang="ge">Cree-Sprache</lcc-lr:hasGermanName>
+        <lcc-lr:hasIndigenousName rdf:datatype="&xsd;string">nêhiyawa</lcc-lr:hasIndigenousName>
         <rdfs:isDefinedBy rdf:resource="&lcc-639-1;"/>
     </owl:NamedIndividual>
 
@@ -2528,9 +2528,9 @@
         <rdf:type rdf:resource="&lcc-lr;LivingLanguage"/>
         <rdfs:label>Croatian</rdfs:label>
         <skos:definition rdf:datatype="&xsd;string">Croatian language</skos:definition>
-        <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Croatian</lcc-lr:hasEnglishName>
-        <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">croate</lcc-lr:hasFrenchName>
-        <lcc-lr:hasGermanName rdf:datatype="&xsd;string">Kroatisch</lcc-lr:hasGermanName>
+        <lcc-lr:hasEnglishName xml:lang="en">Croatian</lcc-lr:hasEnglishName>
+        <lcc-lr:hasFrenchName xml:lang="fr">croate</lcc-lr:hasFrenchName>
+        <lcc-lr:hasGermanName xml:lang="ge">Kroatisch</lcc-lr:hasGermanName>
         <lcc-lr:hasIndigenousName rdf:datatype="&xsd;string">hrvatski jezik</lcc-lr:hasIndigenousName>
         <rdfs:isDefinedBy rdf:resource="&lcc-639-1;"/>
     </owl:NamedIndividual>
@@ -2540,10 +2540,10 @@
         <rdf:type rdf:resource="&lcc-lr;LivingLanguage"/>
         <rdfs:label>Czech</rdfs:label>
         <skos:definition rdf:datatype="&xsd;string">Czech language</skos:definition>
-        <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Czech</lcc-lr:hasEnglishName>
-        <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">tch&#232;que</lcc-lr:hasFrenchName>
-        <lcc-lr:hasGermanName rdf:datatype="&xsd;string">Tschechisch</lcc-lr:hasGermanName>
-        <lcc-lr:hasIndigenousName rdf:datatype="&xsd;string">&#269;esk&#253; jazyk</lcc-lr:hasIndigenousName>
+        <lcc-lr:hasEnglishName xml:lang="en">Czech</lcc-lr:hasEnglishName>
+        <lcc-lr:hasFrenchName xml:lang="fr">tchèque</lcc-lr:hasFrenchName>
+        <lcc-lr:hasGermanName xml:lang="ge">Tschechisch</lcc-lr:hasGermanName>
+        <lcc-lr:hasIndigenousName rdf:datatype="&xsd;string">český jazyk</lcc-lr:hasIndigenousName>
         <rdfs:isDefinedBy rdf:resource="&lcc-639-1;"/>
     </owl:NamedIndividual>
 
@@ -2552,9 +2552,9 @@
         <rdf:type rdf:resource="&lcc-lr;LivingLanguage"/>
         <rdfs:label>Danish</rdfs:label>
         <skos:definition rdf:datatype="&xsd;string">Danish language</skos:definition>
-        <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Danish</lcc-lr:hasEnglishName>
-        <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">danois</lcc-lr:hasFrenchName>
-        <lcc-lr:hasGermanName rdf:datatype="&xsd;string">D&#228;nisch</lcc-lr:hasGermanName>
+        <lcc-lr:hasEnglishName xml:lang="en">Danish</lcc-lr:hasEnglishName>
+        <lcc-lr:hasFrenchName xml:lang="fr">danois</lcc-lr:hasFrenchName>
+        <lcc-lr:hasGermanName xml:lang="ge">Dänisch</lcc-lr:hasGermanName>
         <lcc-lr:hasIndigenousName rdf:datatype="&xsd;string">dansk</lcc-lr:hasIndigenousName>
         <rdfs:isDefinedBy rdf:resource="&lcc-639-1;"/>
     </owl:NamedIndividual>
@@ -2564,11 +2564,11 @@
         <rdf:type rdf:resource="&lcc-lr;LivingLanguage"/>
         <rdfs:label>Dhivehi</rdfs:label>
         <skos:definition rdf:datatype="&xsd;string">Divehi language</skos:definition>
-        <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Dhivehi</lcc-lr:hasEnglishName>
-        <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Divehi</lcc-lr:hasEnglishName>
-        <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Maldivian</lcc-lr:hasEnglishName>
-        <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">maldivien</lcc-lr:hasFrenchName>
-        <lcc-lr:hasGermanName rdf:datatype="&xsd;string">Maledivisch</lcc-lr:hasGermanName>
+        <lcc-lr:hasEnglishName xml:lang="en">Dhivehi</lcc-lr:hasEnglishName>
+        <lcc-lr:hasEnglishName xml:lang="en">Divehi</lcc-lr:hasEnglishName>
+        <lcc-lr:hasEnglishName xml:lang="en">Maldivian</lcc-lr:hasEnglishName>
+        <lcc-lr:hasFrenchName xml:lang="fr">maldivien</lcc-lr:hasFrenchName>
+        <lcc-lr:hasGermanName xml:lang="ge">Maledivisch</lcc-lr:hasGermanName>
         <lcc-lr:hasIndigenousName rdf:datatype="&xsd;string">dhivehi</lcc-lr:hasIndigenousName>
         <rdfs:isDefinedBy rdf:resource="&lcc-639-1;"/>
     </owl:NamedIndividual>
@@ -2578,11 +2578,11 @@
         <rdf:type rdf:resource="&lcc-lr;LivingLanguage"/>
         <rdfs:label>Dutch</rdfs:label>
         <skos:definition rdf:datatype="&xsd;string">Dutch language</skos:definition>
-        <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Dutch</lcc-lr:hasEnglishName>
-        <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Flemish</lcc-lr:hasEnglishName>
-        <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">n&#233;erlandais</lcc-lr:hasFrenchName>
-        <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">flamand</lcc-lr:hasFrenchName>  
-        <lcc-lr:hasGermanName rdf:datatype="&xsd;string">Niederl&#228;ndisch</lcc-lr:hasGermanName>
+        <lcc-lr:hasEnglishName xml:lang="en">Dutch</lcc-lr:hasEnglishName>
+        <lcc-lr:hasEnglishName xml:lang="en">Flemish</lcc-lr:hasEnglishName>
+        <lcc-lr:hasFrenchName xml:lang="fr">néerlandais</lcc-lr:hasFrenchName>
+        <lcc-lr:hasFrenchName xml:lang="fr">flamand</lcc-lr:hasFrenchName>  
+        <lcc-lr:hasGermanName xml:lang="ge">Niederländisch</lcc-lr:hasGermanName>
         <lcc-lr:hasIndigenousName rdf:datatype="&xsd;string">Nederlands</lcc-lr:hasIndigenousName>
         <rdfs:isDefinedBy rdf:resource="&lcc-639-1;"/>
     </owl:NamedIndividual>
@@ -2592,12 +2592,12 @@
         <rdf:type rdf:resource="&lcc-lr;LivingLanguage"/>
         <rdfs:label>Dzongkha</rdfs:label>
         <skos:definition rdf:datatype="&xsd;string">Dzongkha language</skos:definition>
-        <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Bhutani</lcc-lr:hasEnglishName>
-        <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Butanese</lcc-lr:hasEnglishName>
-        <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Dzongkha</lcc-lr:hasEnglishName>
-        <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">bhoutani</lcc-lr:hasFrenchName>
-        <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">dzongkha</lcc-lr:hasFrenchName>
-        <lcc-lr:hasGermanName rdf:datatype="&xsd;string">Dzongkha</lcc-lr:hasGermanName>
+        <lcc-lr:hasEnglishName xml:lang="en">Bhutani</lcc-lr:hasEnglishName>
+        <lcc-lr:hasEnglishName xml:lang="en">Butanese</lcc-lr:hasEnglishName>
+        <lcc-lr:hasEnglishName xml:lang="en">Dzongkha</lcc-lr:hasEnglishName>
+        <lcc-lr:hasFrenchName xml:lang="fr">bhoutani</lcc-lr:hasFrenchName>
+        <lcc-lr:hasFrenchName xml:lang="fr">dzongkha</lcc-lr:hasFrenchName>
+        <lcc-lr:hasGermanName xml:lang="ge">Dzongkha</lcc-lr:hasGermanName>
         <lcc-lr:hasIndigenousName rdf:datatype="&xsd;string">dzongkha</lcc-lr:hasIndigenousName>
         <rdfs:isDefinedBy rdf:resource="&lcc-639-1;"/>
     </owl:NamedIndividual>
@@ -2607,9 +2607,9 @@
         <rdf:type rdf:resource="&lcc-lr;LivingLanguage"/>
         <rdfs:label>English</rdfs:label>
         <skos:definition rdf:datatype="&xsd;string">English language</skos:definition>
-        <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">English</lcc-lr:hasEnglishName>
-        <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">anglais</lcc-lr:hasFrenchName>
-        <lcc-lr:hasGermanName rdf:datatype="&xsd;string">Englisch</lcc-lr:hasGermanName>
+        <lcc-lr:hasEnglishName xml:lang="en">English</lcc-lr:hasEnglishName>
+        <lcc-lr:hasFrenchName xml:lang="fr">anglais</lcc-lr:hasFrenchName>
+        <lcc-lr:hasGermanName xml:lang="ge">Englisch</lcc-lr:hasGermanName>
         <lcc-lr:hasIndigenousName rdf:datatype="&xsd;string">English</lcc-lr:hasIndigenousName>
         <rdfs:isDefinedBy rdf:resource="&lcc-639-1;"/>
     </owl:NamedIndividual>
@@ -2619,9 +2619,9 @@
         <rdf:type rdf:resource="&lcc-lr;ArtificialLanguage"/>
         <rdfs:label>Esperanto</rdfs:label>
         <skos:definition rdf:datatype="&xsd;string">Esperanto language</skos:definition>
-        <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Esperanto</lcc-lr:hasEnglishName>
-        <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">esp&#233;ranto</lcc-lr:hasFrenchName>
-        <lcc-lr:hasGermanName rdf:datatype="&xsd;string">Esperanto</lcc-lr:hasGermanName>
+        <lcc-lr:hasEnglishName xml:lang="en">Esperanto</lcc-lr:hasEnglishName>
+        <lcc-lr:hasFrenchName xml:lang="fr">espéranto</lcc-lr:hasFrenchName>
+        <lcc-lr:hasGermanName xml:lang="ge">Esperanto</lcc-lr:hasGermanName>
         <lcc-lr:hasIndigenousName rdf:datatype="&xsd;string">esperanto</lcc-lr:hasIndigenousName>
         <rdfs:isDefinedBy rdf:resource="&lcc-639-1;"/>
     </owl:NamedIndividual>
@@ -2631,9 +2631,9 @@
         <rdf:type rdf:resource="&lcc-lr;LivingLanguage"/>
         <rdfs:label>Estonian</rdfs:label>
         <skos:definition rdf:datatype="&xsd;string">Estonian language</skos:definition>
-        <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Estonian</lcc-lr:hasEnglishName>
-        <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">estonien</lcc-lr:hasFrenchName>
-        <lcc-lr:hasGermanName rdf:datatype="&xsd;string">Estnisch</lcc-lr:hasGermanName>
+        <lcc-lr:hasEnglishName xml:lang="en">Estonian</lcc-lr:hasEnglishName>
+        <lcc-lr:hasFrenchName xml:lang="fr">estonien</lcc-lr:hasFrenchName>
+        <lcc-lr:hasGermanName xml:lang="ge">Estnisch</lcc-lr:hasGermanName>
         <lcc-lr:hasIndigenousName rdf:datatype="&xsd;string">eesti keel</lcc-lr:hasIndigenousName>
         <rdfs:isDefinedBy rdf:resource="&lcc-639-1;"/>
     </owl:NamedIndividual>
@@ -2643,9 +2643,9 @@
         <rdf:type rdf:resource="&lcc-lr;LivingLanguage"/>
         <rdfs:label>Ewe</rdfs:label>
         <skos:definition rdf:datatype="&xsd;string">Ewe language</skos:definition>
-        <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Ewe</lcc-lr:hasEnglishName>
-        <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">&#233;w&#233;</lcc-lr:hasFrenchName>
-        <lcc-lr:hasGermanName rdf:datatype="&xsd;string">Ewe-Sprache</lcc-lr:hasGermanName>
+        <lcc-lr:hasEnglishName xml:lang="en">Ewe</lcc-lr:hasEnglishName>
+        <lcc-lr:hasFrenchName xml:lang="fr">éwé</lcc-lr:hasFrenchName>
+        <lcc-lr:hasGermanName xml:lang="ge">Ewe-Sprache</lcc-lr:hasGermanName>
         <lcc-lr:hasIndigenousName rdf:datatype="&xsd;string">eve</lcc-lr:hasIndigenousName>
         <rdfs:isDefinedBy rdf:resource="&lcc-639-1;"/>
     </owl:NamedIndividual>
@@ -2655,11 +2655,11 @@
         <rdf:type rdf:resource="&lcc-lr;LivingLanguage"/>
         <rdfs:label>Faroese</rdfs:label>
         <skos:definition rdf:datatype="&xsd;string">Faroese language</skos:definition>
-        <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Faeroese</lcc-lr:hasEnglishName>
-        <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Faroese</lcc-lr:hasEnglishName>
-        <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">f&#233;ro&#239;en</lcc-lr:hasFrenchName>
-        <lcc-lr:hasGermanName rdf:datatype="&xsd;string">F&#228;r&#246;isch</lcc-lr:hasGermanName>
-        <lcc-lr:hasIndigenousName rdf:datatype="&xsd;string">f&#248;royskt</lcc-lr:hasIndigenousName>
+        <lcc-lr:hasEnglishName xml:lang="en">Faeroese</lcc-lr:hasEnglishName>
+        <lcc-lr:hasEnglishName xml:lang="en">Faroese</lcc-lr:hasEnglishName>
+        <lcc-lr:hasFrenchName xml:lang="fr">féroïen</lcc-lr:hasFrenchName>
+        <lcc-lr:hasGermanName xml:lang="ge">Färöisch</lcc-lr:hasGermanName>
+        <lcc-lr:hasIndigenousName rdf:datatype="&xsd;string">føroyskt</lcc-lr:hasIndigenousName>
         <rdfs:isDefinedBy rdf:resource="&lcc-639-1;"/>
     </owl:NamedIndividual>
 
@@ -2668,9 +2668,9 @@
         <rdf:type rdf:resource="&lcc-lr;LivingLanguage"/>
         <rdfs:label>Fijian</rdfs:label>
         <skos:definition rdf:datatype="&xsd;string">Fijian language</skos:definition>
-        <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Fijian</lcc-lr:hasEnglishName>
-        <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">fidjien</lcc-lr:hasFrenchName>
-        <lcc-lr:hasGermanName rdf:datatype="&xsd;string">Fidschi-Sprache</lcc-lr:hasGermanName>
+        <lcc-lr:hasEnglishName xml:lang="en">Fijian</lcc-lr:hasEnglishName>
+        <lcc-lr:hasFrenchName xml:lang="fr">fidjien</lcc-lr:hasFrenchName>
+        <lcc-lr:hasGermanName xml:lang="ge">Fidschi-Sprache</lcc-lr:hasGermanName>
         <lcc-lr:hasIndigenousName rdf:datatype="&xsd;string">Na Vosa Vakaviti</lcc-lr:hasIndigenousName>
         <rdfs:isDefinedBy rdf:resource="&lcc-639-1;"/>
     </owl:NamedIndividual>
@@ -2680,9 +2680,9 @@
         <rdf:type rdf:resource="&lcc-lr;LivingLanguage"/>
         <rdfs:label>Finnish</rdfs:label>
         <skos:definition rdf:datatype="&xsd;string">Finnish language</skos:definition>
-        <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Finnish</lcc-lr:hasEnglishName>
-        <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">finnois</lcc-lr:hasFrenchName>
-        <lcc-lr:hasGermanName rdf:datatype="&xsd;string">Finnisch</lcc-lr:hasGermanName>
+        <lcc-lr:hasEnglishName xml:lang="en">Finnish</lcc-lr:hasEnglishName>
+        <lcc-lr:hasFrenchName xml:lang="fr">finnois</lcc-lr:hasFrenchName>
+        <lcc-lr:hasGermanName xml:lang="ge">Finnisch</lcc-lr:hasGermanName>
         <lcc-lr:hasIndigenousName rdf:datatype="&xsd;string">suomen kieli</lcc-lr:hasIndigenousName>
         <lcc-lr:hasIndigenousName rdf:datatype="&xsd;string">suomi</lcc-lr:hasIndigenousName>
         <rdfs:isDefinedBy rdf:resource="&lcc-639-1;"/>
@@ -2693,10 +2693,10 @@
         <rdf:type rdf:resource="&lcc-lr;LivingLanguage"/>
         <rdfs:label>French</rdfs:label>
         <skos:definition rdf:datatype="&xsd;string">French language</skos:definition>
-        <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">French</lcc-lr:hasEnglishName>
-        <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">fran&#231;ais</lcc-lr:hasFrenchName>
-        <lcc-lr:hasGermanName rdf:datatype="&xsd;string">Franz&#246;sisch</lcc-lr:hasGermanName>
-        <lcc-lr:hasIndigenousName rdf:datatype="&xsd;string">fran&#231;ais</lcc-lr:hasIndigenousName>
+        <lcc-lr:hasEnglishName xml:lang="en">French</lcc-lr:hasEnglishName>
+        <lcc-lr:hasFrenchName xml:lang="fr">français</lcc-lr:hasFrenchName>
+        <lcc-lr:hasGermanName xml:lang="ge">Französisch</lcc-lr:hasGermanName>
+        <lcc-lr:hasIndigenousName rdf:datatype="&xsd;string">français</lcc-lr:hasIndigenousName>
         <rdfs:isDefinedBy rdf:resource="&lcc-639-1;"/>
     </owl:NamedIndividual>
 
@@ -2705,11 +2705,11 @@
         <rdf:type rdf:resource="&lcc-lr;LivingLanguage"/>
         <rdfs:label>Western Frisian</rdfs:label>
         <skos:definition rdf:datatype="&xsd;string">Western Frisian language</skos:definition>
-        <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Frisian</lcc-lr:hasEnglishName>
-        <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Western Frisian</lcc-lr:hasEnglishName>
-        <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">frison</lcc-lr:hasFrenchName>
-        <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">frison occidental</lcc-lr:hasFrenchName>
-        <lcc-lr:hasGermanName rdf:datatype="&xsd;string">Friesisch</lcc-lr:hasGermanName>
+        <lcc-lr:hasEnglishName xml:lang="en">Frisian</lcc-lr:hasEnglishName>
+        <lcc-lr:hasEnglishName xml:lang="en">Western Frisian</lcc-lr:hasEnglishName>
+        <lcc-lr:hasFrenchName xml:lang="fr">frison</lcc-lr:hasFrenchName>
+        <lcc-lr:hasFrenchName xml:lang="fr">frison occidental</lcc-lr:hasFrenchName>
+        <lcc-lr:hasGermanName xml:lang="ge">Friesisch</lcc-lr:hasGermanName>
         <lcc-lr:hasIndigenousName rdf:datatype="&xsd;string">frysk</lcc-lr:hasIndigenousName>
         <rdfs:isDefinedBy rdf:resource="&lcc-639-1;"/>
     </owl:NamedIndividual>
@@ -2719,13 +2719,13 @@
         <rdf:type rdf:resource="&lcc-lr;LivingLanguage"/>
         <rdfs:label>Fulah</rdfs:label>
         <skos:definition rdf:datatype="&xsd;string">Fulah languages</skos:definition>
-        <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Fula</lcc-lr:hasEnglishName>
-        <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Fulah</lcc-lr:hasEnglishName>
-        <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Fulani</lcc-lr:hasEnglishName>
-        <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Fulfulde</lcc-lr:hasEnglishName>
-        <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Peul</lcc-lr:hasEnglishName>
-        <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">peul</lcc-lr:hasFrenchName>
-        <lcc-lr:hasGermanName rdf:datatype="&xsd;string">Ful</lcc-lr:hasGermanName>
+        <lcc-lr:hasEnglishName xml:lang="en">Fula</lcc-lr:hasEnglishName>
+        <lcc-lr:hasEnglishName xml:lang="en">Fulah</lcc-lr:hasEnglishName>
+        <lcc-lr:hasEnglishName xml:lang="en">Fulani</lcc-lr:hasEnglishName>
+        <lcc-lr:hasEnglishName xml:lang="en">Fulfulde</lcc-lr:hasEnglishName>
+        <lcc-lr:hasEnglishName xml:lang="en">Peul</lcc-lr:hasEnglishName>
+        <lcc-lr:hasFrenchName xml:lang="fr">peul</lcc-lr:hasFrenchName>
+        <lcc-lr:hasGermanName xml:lang="ge">Ful</lcc-lr:hasGermanName>
         <lcc-lr:hasIndigenousName rdf:datatype="&xsd;string">fulfulde</lcc-lr:hasIndigenousName>
         <rdfs:isDefinedBy rdf:resource="&lcc-639-1;"/>
     </owl:NamedIndividual>
@@ -2735,10 +2735,10 @@
         <rdf:type rdf:resource="&lcc-lr;LivingLanguage"/>
         <rdfs:label>Galician</rdfs:label>
         <skos:definition rdf:datatype="&xsd;string">Galician; Gallegan language</skos:definition>
-        <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Galician</lcc-lr:hasEnglishName>
-        <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Gallegan</lcc-lr:hasEnglishName>
-        <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">galicien</lcc-lr:hasFrenchName>
-        <lcc-lr:hasGermanName rdf:datatype="&xsd;string">Galicisch</lcc-lr:hasGermanName>
+        <lcc-lr:hasEnglishName xml:lang="en">Galician</lcc-lr:hasEnglishName>
+        <lcc-lr:hasEnglishName xml:lang="en">Gallegan</lcc-lr:hasEnglishName>
+        <lcc-lr:hasFrenchName xml:lang="fr">galicien</lcc-lr:hasFrenchName>
+        <lcc-lr:hasGermanName xml:lang="ge">Galicisch</lcc-lr:hasGermanName>
         <lcc-lr:hasIndigenousName rdf:datatype="&xsd;string">galego</lcc-lr:hasIndigenousName>
         <rdfs:isDefinedBy rdf:resource="&lcc-639-1;"/>
     </owl:NamedIndividual>
@@ -2748,11 +2748,11 @@
         <rdf:type rdf:resource="&lcc-lr;LivingLanguage"/>
         <rdfs:label>Ganda</rdfs:label>
         <skos:definition rdf:datatype="&xsd;string">Ganda language</skos:definition>
-        <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Ganda</lcc-lr:hasEnglishName>
-        <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Luganda</lcc-lr:hasEnglishName>
-        <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">ganda</lcc-lr:hasFrenchName>
-        <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">louganda</lcc-lr:hasFrenchName>
-        <lcc-lr:hasGermanName rdf:datatype="&xsd;string">Ganda-Sprache</lcc-lr:hasGermanName>
+        <lcc-lr:hasEnglishName xml:lang="en">Ganda</lcc-lr:hasEnglishName>
+        <lcc-lr:hasEnglishName xml:lang="en">Luganda</lcc-lr:hasEnglishName>
+        <lcc-lr:hasFrenchName xml:lang="fr">ganda</lcc-lr:hasFrenchName>
+        <lcc-lr:hasFrenchName xml:lang="fr">louganda</lcc-lr:hasFrenchName>
+        <lcc-lr:hasGermanName xml:lang="ge">Ganda-Sprache</lcc-lr:hasGermanName>
         <lcc-lr:hasIndigenousName rdf:datatype="&xsd;string">luganda</lcc-lr:hasIndigenousName>
         <rdfs:isDefinedBy rdf:resource="&lcc-639-1;"/>
     </owl:NamedIndividual>
@@ -2762,9 +2762,9 @@
         <rdf:type rdf:resource="&lcc-lr;LivingLanguage"/>
         <rdfs:label>Georgian</rdfs:label>
         <skos:definition rdf:datatype="&xsd;string">Georgian language</skos:definition>
-        <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">g&#233;orgien</lcc-lr:hasFrenchName>
-        <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Georgian</lcc-lr:hasEnglishName>
-        <lcc-lr:hasGermanName rdf:datatype="&xsd;string">Georgisch</lcc-lr:hasGermanName>
+        <lcc-lr:hasFrenchName xml:lang="fr">géorgien</lcc-lr:hasFrenchName>
+        <lcc-lr:hasEnglishName xml:lang="en">Georgian</lcc-lr:hasEnglishName>
+        <lcc-lr:hasGermanName xml:lang="ge">Georgisch</lcc-lr:hasGermanName>
         <lcc-lr:hasIndigenousName rdf:datatype="&xsd;string">k'art'uli ena</lcc-lr:hasIndigenousName>
         <rdfs:isDefinedBy rdf:resource="&lcc-639-1;"/>
     </owl:NamedIndividual>
@@ -2774,9 +2774,9 @@
         <rdf:type rdf:resource="&lcc-lr;LivingLanguage"/>
         <rdfs:label>German</rdfs:label>
         <skos:definition rdf:datatype="&xsd;string">German language</skos:definition>
-        <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">German</lcc-lr:hasEnglishName>
-        <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">allemand</lcc-lr:hasFrenchName>
-        <lcc-lr:hasGermanName rdf:datatype="&xsd;string">Deutsch</lcc-lr:hasGermanName>
+        <lcc-lr:hasEnglishName xml:lang="en">German</lcc-lr:hasEnglishName>
+        <lcc-lr:hasFrenchName xml:lang="fr">allemand</lcc-lr:hasFrenchName>
+        <lcc-lr:hasGermanName xml:lang="ge">Deutsch</lcc-lr:hasGermanName>
         <lcc-lr:hasIndigenousName rdf:datatype="&xsd;string">Deutsch</lcc-lr:hasIndigenousName>
         <rdfs:isDefinedBy rdf:resource="&lcc-639-1;"/>
     </owl:NamedIndividual>
@@ -2786,10 +2786,10 @@
         <rdf:type rdf:resource="&lcc-lr;LivingLanguage"/>
         <rdfs:label>Modern Greek</rdfs:label>
         <skos:definition rdf:datatype="&xsd;string">Modern Greek (post 1453-) language</skos:definition>
-        <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Modern Greek</lcc-lr:hasEnglishName>
-        <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">grec moderne (apr&#232;s 1453)</lcc-lr:hasFrenchName>
-        <lcc-lr:hasGermanName rdf:datatype="&xsd;string">Neugriechisch</lcc-lr:hasGermanName>
-        <lcc-lr:hasIndigenousName rdf:datatype="&xsd;string">ellinik&#225;</lcc-lr:hasIndigenousName>
+        <lcc-lr:hasEnglishName xml:lang="en">Modern Greek</lcc-lr:hasEnglishName>
+        <lcc-lr:hasFrenchName xml:lang="fr">grec moderne (après 1453)</lcc-lr:hasFrenchName>
+        <lcc-lr:hasGermanName xml:lang="ge">Neugriechisch</lcc-lr:hasGermanName>
+        <lcc-lr:hasIndigenousName rdf:datatype="&xsd;string">elliniká</lcc-lr:hasIndigenousName>
         <rdfs:isDefinedBy rdf:resource="&lcc-639-1;"/>
     </owl:NamedIndividual>
 
@@ -2798,9 +2798,9 @@
         <rdf:type rdf:resource="&lcc-lr;LivingLanguage"/>
         <rdfs:label>Guarani</rdfs:label>
         <skos:definition rdf:datatype="&xsd;string">Guarani language</skos:definition>
-        <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Guarani</lcc-lr:hasEnglishName>
-        <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">guarani</lcc-lr:hasFrenchName>
-        <lcc-lr:hasGermanName rdf:datatype="&xsd;string">Guaran&#237;-Sprache</lcc-lr:hasGermanName>
+        <lcc-lr:hasEnglishName xml:lang="en">Guarani</lcc-lr:hasEnglishName>
+        <lcc-lr:hasFrenchName xml:lang="fr">guarani</lcc-lr:hasFrenchName>
+        <lcc-lr:hasGermanName xml:lang="ge">Guaraní-Sprache</lcc-lr:hasGermanName>
         <lcc-lr:hasIndigenousName rdf:datatype="&xsd;string">guarani</lcc-lr:hasIndigenousName>
         <rdfs:isDefinedBy rdf:resource="&lcc-639-1;"/>
     </owl:NamedIndividual>
@@ -2810,11 +2810,11 @@
         <rdf:type rdf:resource="&lcc-lr;LivingLanguage"/>
         <rdfs:label>Gujarati</rdfs:label>
         <skos:definition rdf:datatype="&xsd;string">Gujarati language</skos:definition>
-        <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Gujarati</lcc-lr:hasEnglishName>
-        <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">goudjrati</lcc-lr:hasFrenchName>
-        <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">gujarati</lcc-lr:hasFrenchName>
-        <lcc-lr:hasGermanName rdf:datatype="&xsd;string">Gujarati-Sprache</lcc-lr:hasGermanName>
-        <lcc-lr:hasIndigenousName rdf:datatype="&xsd;string">gujar&#257;t&#299;</lcc-lr:hasIndigenousName>
+        <lcc-lr:hasEnglishName xml:lang="en">Gujarati</lcc-lr:hasEnglishName>
+        <lcc-lr:hasFrenchName xml:lang="fr">goudjrati</lcc-lr:hasFrenchName>
+        <lcc-lr:hasFrenchName xml:lang="fr">gujarati</lcc-lr:hasFrenchName>
+        <lcc-lr:hasGermanName xml:lang="ge">Gujarati-Sprache</lcc-lr:hasGermanName>
+        <lcc-lr:hasIndigenousName rdf:datatype="&xsd;string">gujarātī</lcc-lr:hasIndigenousName>
         <rdfs:isDefinedBy rdf:resource="&lcc-639-1;"/>
     </owl:NamedIndividual>
 
@@ -2823,11 +2823,11 @@
         <rdf:type rdf:resource="&lcc-lr;LivingLanguage"/>
         <rdfs:label>Haitian</rdfs:label>
         <skos:definition rdf:datatype="&xsd;string">Haitian; Haitian Creole language</skos:definition>
-        <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Haitian</lcc-lr:hasEnglishName>
-        <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Haitian Creole</lcc-lr:hasEnglishName>
-        <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">cr&#233;ole ha&#239;tien</lcc-lr:hasFrenchName>
-        <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">ha&#239;tien</lcc-lr:hasFrenchName>
-        <lcc-lr:hasGermanName rdf:datatype="&xsd;string">Ha&#239;tien (Haiti-Kreolisch)</lcc-lr:hasGermanName>
+        <lcc-lr:hasEnglishName xml:lang="en">Haitian</lcc-lr:hasEnglishName>
+        <lcc-lr:hasEnglishName xml:lang="en">Haitian Creole</lcc-lr:hasEnglishName>
+        <lcc-lr:hasFrenchName xml:lang="fr">créole haïtien</lcc-lr:hasFrenchName>
+        <lcc-lr:hasFrenchName xml:lang="fr">haïtien</lcc-lr:hasFrenchName>
+        <lcc-lr:hasGermanName xml:lang="ge">Haïtien (Haiti-Kreolisch)</lcc-lr:hasGermanName>
         <rdfs:isDefinedBy rdf:resource="&lcc-639-1;"/>
     </owl:NamedIndividual>
 
@@ -2836,9 +2836,9 @@
         <rdf:type rdf:resource="&lcc-lr;LivingLanguage"/>
         <rdfs:label>Hausa</rdfs:label>
         <skos:definition rdf:datatype="&xsd;string">Hausa language</skos:definition>
-        <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Hausa</lcc-lr:hasEnglishName>
-        <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">haoussa</lcc-lr:hasFrenchName>
-        <lcc-lr:hasGermanName rdf:datatype="&xsd;string">Haussa-Sprache</lcc-lr:hasGermanName>
+        <lcc-lr:hasEnglishName xml:lang="en">Hausa</lcc-lr:hasEnglishName>
+        <lcc-lr:hasFrenchName xml:lang="fr">haoussa</lcc-lr:hasFrenchName>
+        <lcc-lr:hasGermanName xml:lang="ge">Haussa-Sprache</lcc-lr:hasGermanName>
         <lcc-lr:hasIndigenousName rdf:datatype="&xsd;string">hausa</lcc-lr:hasIndigenousName>
         <rdfs:isDefinedBy rdf:resource="&lcc-639-1;"/>
     </owl:NamedIndividual>
@@ -2848,9 +2848,9 @@
         <rdf:type rdf:resource="&lcc-lr;LivingLanguage"/>
         <rdfs:label>Hebrew</rdfs:label>
         <skos:definition rdf:datatype="&xsd;string">Hebrew language</skos:definition>
-        <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Hebrew</lcc-lr:hasEnglishName>
-        <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">h&#233;breu</lcc-lr:hasFrenchName>
-        <lcc-lr:hasGermanName rdf:datatype="&xsd;string">Hebr&#228;isch</lcc-lr:hasGermanName>
+        <lcc-lr:hasEnglishName xml:lang="en">Hebrew</lcc-lr:hasEnglishName>
+        <lcc-lr:hasFrenchName xml:lang="fr">hébreu</lcc-lr:hasFrenchName>
+        <lcc-lr:hasGermanName xml:lang="ge">Hebräisch</lcc-lr:hasGermanName>
         <lcc-lr:hasIndigenousName rdf:datatype="&xsd;string">ivrit</lcc-lr:hasIndigenousName>
         <rdfs:isDefinedBy rdf:resource="&lcc-639-1;"/>
     </owl:NamedIndividual>
@@ -2860,9 +2860,9 @@
         <rdf:type rdf:resource="&lcc-lr;LivingLanguage"/>
         <rdfs:label>Herero</rdfs:label>
         <skos:definition rdf:datatype="&xsd;string">Herero language</skos:definition>
-        <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Herero</lcc-lr:hasEnglishName>
-        <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">herero</lcc-lr:hasFrenchName>
-        <lcc-lr:hasGermanName rdf:datatype="&xsd;string">Herero-Sprache</lcc-lr:hasGermanName>
+        <lcc-lr:hasEnglishName xml:lang="en">Herero</lcc-lr:hasEnglishName>
+        <lcc-lr:hasFrenchName xml:lang="fr">herero</lcc-lr:hasFrenchName>
+        <lcc-lr:hasGermanName xml:lang="ge">Herero-Sprache</lcc-lr:hasGermanName>
         <lcc-lr:hasIndigenousName rdf:datatype="&xsd;string">otshiherero</lcc-lr:hasIndigenousName>
         <rdfs:isDefinedBy rdf:resource="&lcc-639-1;"/>
     </owl:NamedIndividual>
@@ -2872,10 +2872,10 @@
         <rdf:type rdf:resource="&lcc-lr;LivingLanguage"/>
         <rdfs:label>Hindi</rdfs:label>
         <skos:definition rdf:datatype="&xsd;string">Hindi language</skos:definition>
-        <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Hindi</lcc-lr:hasEnglishName>
-        <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">hindi</lcc-lr:hasFrenchName>
-        <lcc-lr:hasGermanName rdf:datatype="&xsd;string">Hindi</lcc-lr:hasGermanName>
-        <lcc-lr:hasIndigenousName rdf:datatype="&xsd;string">hind&#299;</lcc-lr:hasIndigenousName>
+        <lcc-lr:hasEnglishName xml:lang="en">Hindi</lcc-lr:hasEnglishName>
+        <lcc-lr:hasFrenchName xml:lang="fr">hindi</lcc-lr:hasFrenchName>
+        <lcc-lr:hasGermanName xml:lang="ge">Hindi</lcc-lr:hasGermanName>
+        <lcc-lr:hasIndigenousName rdf:datatype="&xsd;string">hindī</lcc-lr:hasIndigenousName>
         <rdfs:isDefinedBy rdf:resource="&lcc-639-1;"/>
     </owl:NamedIndividual>
 
@@ -2884,9 +2884,9 @@
         <rdf:type rdf:resource="&lcc-lr;LivingLanguage"/>
         <rdfs:label>Hiri Motu</rdfs:label>
         <skos:definition rdf:datatype="&xsd;string">Hiri Motu language</skos:definition>
-        <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Hiri Motu</lcc-lr:hasEnglishName>
-        <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">hiri motu</lcc-lr:hasFrenchName>
-        <lcc-lr:hasGermanName rdf:datatype="&xsd;string">Hiri-Motu</lcc-lr:hasGermanName>
+        <lcc-lr:hasEnglishName xml:lang="en">Hiri Motu</lcc-lr:hasEnglishName>
+        <lcc-lr:hasFrenchName xml:lang="fr">hiri motu</lcc-lr:hasFrenchName>
+        <lcc-lr:hasGermanName xml:lang="ge">Hiri-Motu</lcc-lr:hasGermanName>
         <lcc-lr:hasIndigenousName rdf:datatype="&xsd;string">Hiri Motu</lcc-lr:hasIndigenousName>
         <rdfs:isDefinedBy rdf:resource="&lcc-639-1;"/>
     </owl:NamedIndividual>
@@ -2896,9 +2896,9 @@
         <rdf:type rdf:resource="&lcc-lr;LivingLanguage"/>
         <rdfs:label>Hungarian</rdfs:label>
         <skos:definition rdf:datatype="&xsd;string">Hungarian language</skos:definition>
-        <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Hungarian</lcc-lr:hasEnglishName>
-        <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">hongrois</lcc-lr:hasFrenchName>
-        <lcc-lr:hasGermanName rdf:datatype="&xsd;string">Ungarisch</lcc-lr:hasGermanName>
+        <lcc-lr:hasEnglishName xml:lang="en">Hungarian</lcc-lr:hasEnglishName>
+        <lcc-lr:hasFrenchName xml:lang="fr">hongrois</lcc-lr:hasFrenchName>
+        <lcc-lr:hasGermanName xml:lang="ge">Ungarisch</lcc-lr:hasGermanName>
         <lcc-lr:hasIndigenousName rdf:datatype="&xsd;string">magyar nyelv</lcc-lr:hasIndigenousName>
         <rdfs:isDefinedBy rdf:resource="&lcc-639-1;"/>
     </owl:NamedIndividual>
@@ -2908,10 +2908,10 @@
         <rdf:type rdf:resource="&lcc-lr;LivingLanguage"/>
         <rdfs:label>Icelandic</rdfs:label>
         <skos:definition rdf:datatype="&xsd;string">Icelandic language</skos:definition>
-        <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Icelandic</lcc-lr:hasEnglishName>
-        <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">islandais</lcc-lr:hasFrenchName>
-        <lcc-lr:hasGermanName rdf:datatype="&xsd;string">Isl&#228;ndisch</lcc-lr:hasGermanName>
-        <lcc-lr:hasIndigenousName rdf:datatype="&xsd;string">&#237;slenska</lcc-lr:hasIndigenousName>
+        <lcc-lr:hasEnglishName xml:lang="en">Icelandic</lcc-lr:hasEnglishName>
+        <lcc-lr:hasFrenchName xml:lang="fr">islandais</lcc-lr:hasFrenchName>
+        <lcc-lr:hasGermanName xml:lang="ge">Isländisch</lcc-lr:hasGermanName>
+        <lcc-lr:hasIndigenousName rdf:datatype="&xsd;string">íslenska</lcc-lr:hasIndigenousName>
         <rdfs:isDefinedBy rdf:resource="&lcc-639-1;"/>
     </owl:NamedIndividual>
 
@@ -2920,9 +2920,9 @@
         <rdf:type rdf:resource="&lcc-lr;ArtificialLanguage"/>
         <rdfs:label>Ido</rdfs:label>
         <skos:definition rdf:datatype="&xsd;string">Ido language</skos:definition>
-        <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Ido</lcc-lr:hasEnglishName>
-        <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">ido</lcc-lr:hasFrenchName>
-        <lcc-lr:hasGermanName rdf:datatype="&xsd;string">Ido</lcc-lr:hasGermanName>
+        <lcc-lr:hasEnglishName xml:lang="en">Ido</lcc-lr:hasEnglishName>
+        <lcc-lr:hasFrenchName xml:lang="fr">ido</lcc-lr:hasFrenchName>
+        <lcc-lr:hasGermanName xml:lang="ge">Ido</lcc-lr:hasGermanName>
         <lcc-lr:hasIndigenousName rdf:datatype="&xsd;string">ido </lcc-lr:hasIndigenousName>
         <rdfs:isDefinedBy rdf:resource="&lcc-639-1;"/>
     </owl:NamedIndividual>
@@ -2932,9 +2932,9 @@
         <rdf:type rdf:resource="&lcc-lr;LivingLanguage"/>
         <rdfs:label>Igbo</rdfs:label>
         <skos:definition rdf:datatype="&xsd;string">Igbo language</skos:definition>
-        <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Igbo</lcc-lr:hasEnglishName>
-        <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">igbo</lcc-lr:hasFrenchName>
-        <lcc-lr:hasGermanName rdf:datatype="&xsd;string">Ibo-Sprache</lcc-lr:hasGermanName>
+        <lcc-lr:hasEnglishName xml:lang="en">Igbo</lcc-lr:hasEnglishName>
+        <lcc-lr:hasFrenchName xml:lang="fr">igbo</lcc-lr:hasFrenchName>
+        <lcc-lr:hasGermanName xml:lang="ge">Ibo-Sprache</lcc-lr:hasGermanName>
         <lcc-lr:hasIndigenousName rdf:datatype="&xsd;string">igbo</lcc-lr:hasIndigenousName>
         <rdfs:isDefinedBy rdf:resource="&lcc-639-1;"/>
     </owl:NamedIndividual>
@@ -2944,9 +2944,9 @@
         <rdf:type rdf:resource="&lcc-lr;LivingLanguage"/>
         <rdfs:label>Indonesian</rdfs:label>
         <skos:definition rdf:datatype="&xsd;string">Indonesian language</skos:definition>
-        <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Indonesian</lcc-lr:hasEnglishName>
-        <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">indon&#233;sien</lcc-lr:hasFrenchName>
-        <lcc-lr:hasGermanName rdf:datatype="&xsd;string">Bahasa Indonesia</lcc-lr:hasGermanName>
+        <lcc-lr:hasEnglishName xml:lang="en">Indonesian</lcc-lr:hasEnglishName>
+        <lcc-lr:hasFrenchName xml:lang="fr">indonésien</lcc-lr:hasFrenchName>
+        <lcc-lr:hasGermanName xml:lang="ge">Bahasa Indonesia</lcc-lr:hasGermanName>
         <lcc-lr:hasIndigenousName rdf:datatype="&xsd;string">bahasa Indonesia</lcc-lr:hasIndigenousName>
         <rdfs:isDefinedBy rdf:resource="&lcc-639-1;"/>
     </owl:NamedIndividual>
@@ -2956,9 +2956,9 @@
         <rdf:type rdf:resource="&lcc-lr;ArtificialLanguage"/>
         <rdfs:label>Interlingua</rdfs:label>
         <skos:definition rdf:datatype="&xsd;string">Interlingua (International Auxiliary Language Association) language</skos:definition>
-        <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Interlingua (International Auxiliary Language Association)</lcc-lr:hasEnglishName>
-        <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">interlingua (langue auxiliaire internationale)</lcc-lr:hasFrenchName>
-        <lcc-lr:hasGermanName rdf:datatype="&xsd;string">Interlingua</lcc-lr:hasGermanName>
+        <lcc-lr:hasEnglishName xml:lang="en">Interlingua (International Auxiliary Language Association)</lcc-lr:hasEnglishName>
+        <lcc-lr:hasFrenchName xml:lang="fr">interlingua (langue auxiliaire internationale)</lcc-lr:hasFrenchName>
+        <lcc-lr:hasGermanName xml:lang="ge">Interlingua</lcc-lr:hasGermanName>
         <lcc-lr:hasIndigenousName rdf:datatype="&xsd;string">interlingua</lcc-lr:hasIndigenousName>
         <rdfs:isDefinedBy rdf:resource="&lcc-639-1;"/>
     </owl:NamedIndividual>
@@ -2968,10 +2968,10 @@
         <rdf:type rdf:resource="&lcc-lr;ArtificialLanguage"/>
         <rdfs:label>Interlingue</rdfs:label>
         <skos:definition rdf:datatype="&xsd;string">Interlingue language</skos:definition>
-        <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Interlingue</lcc-lr:hasEnglishName>
-        <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Occidental</lcc-lr:hasEnglishName>
-        <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">interlingue</lcc-lr:hasFrenchName>
-        <lcc-lr:hasGermanName rdf:datatype="&xsd;string">Interlingue</lcc-lr:hasGermanName>
+        <lcc-lr:hasEnglishName xml:lang="en">Interlingue</lcc-lr:hasEnglishName>
+        <lcc-lr:hasEnglishName xml:lang="en">Occidental</lcc-lr:hasEnglishName>
+        <lcc-lr:hasFrenchName xml:lang="fr">interlingue</lcc-lr:hasFrenchName>
+        <lcc-lr:hasGermanName xml:lang="ge">Interlingue</lcc-lr:hasGermanName>
         <lcc-lr:hasIndigenousName rdf:datatype="&xsd;string">interlingue</lcc-lr:hasIndigenousName>
         <rdfs:isDefinedBy rdf:resource="&lcc-639-1;"/>
     </owl:NamedIndividual>
@@ -2981,9 +2981,9 @@
         <rdf:type rdf:resource="&lcc-lr;LivingLanguage"/>
         <rdfs:label>Inuktitut</rdfs:label>
         <skos:definition rdf:datatype="&xsd;string">Inuktitut language</skos:definition>
-        <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Inuktitut</lcc-lr:hasEnglishName>
-        <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">inuktitut</lcc-lr:hasFrenchName>
-        <lcc-lr:hasGermanName rdf:datatype="&xsd;string">Inuktitut</lcc-lr:hasGermanName>
+        <lcc-lr:hasEnglishName xml:lang="en">Inuktitut</lcc-lr:hasEnglishName>
+        <lcc-lr:hasFrenchName xml:lang="fr">inuktitut</lcc-lr:hasFrenchName>
+        <lcc-lr:hasGermanName xml:lang="ge">Inuktitut</lcc-lr:hasGermanName>
         <lcc-lr:hasIndigenousName rdf:datatype="&xsd;string">inuktitut</lcc-lr:hasIndigenousName>
         <rdfs:isDefinedBy rdf:resource="&lcc-639-1;"/>
     </owl:NamedIndividual>
@@ -2993,9 +2993,9 @@
         <rdf:type rdf:resource="&lcc-lr;LivingLanguage"/>
         <rdfs:label>Inupiaq</rdfs:label>
         <skos:definition rdf:datatype="&xsd;string">Inupiaq language</skos:definition>
-        <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Inupiaq</lcc-lr:hasEnglishName>
-        <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">inupiaq</lcc-lr:hasFrenchName>
-        <lcc-lr:hasGermanName rdf:datatype="&xsd;string">Inupik</lcc-lr:hasGermanName>
+        <lcc-lr:hasEnglishName xml:lang="en">Inupiaq</lcc-lr:hasEnglishName>
+        <lcc-lr:hasFrenchName xml:lang="fr">inupiaq</lcc-lr:hasFrenchName>
+        <lcc-lr:hasGermanName xml:lang="ge">Inupik</lcc-lr:hasGermanName>
         <lcc-lr:hasIndigenousName rdf:datatype="&xsd;string">inupiaq</lcc-lr:hasIndigenousName>
         <rdfs:isDefinedBy rdf:resource="&lcc-639-1;"/>
     </owl:NamedIndividual>
@@ -3005,9 +3005,9 @@
         <rdf:type rdf:resource="&lcc-lr;LivingLanguage"/>
         <rdfs:label>Irish</rdfs:label>
         <skos:definition rdf:datatype="&xsd;string">Irish language</skos:definition>
-        <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Irish</lcc-lr:hasEnglishName>
-        <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">irlandais</lcc-lr:hasFrenchName>
-        <lcc-lr:hasGermanName rdf:datatype="&xsd;string">Irisch</lcc-lr:hasGermanName>
+        <lcc-lr:hasEnglishName xml:lang="en">Irish</lcc-lr:hasEnglishName>
+        <lcc-lr:hasFrenchName xml:lang="fr">irlandais</lcc-lr:hasFrenchName>
+        <lcc-lr:hasGermanName xml:lang="ge">Irisch</lcc-lr:hasGermanName>
         <lcc-lr:hasIndigenousName rdf:datatype="&xsd;string">Gaeilge</lcc-lr:hasIndigenousName>
         <rdfs:isDefinedBy rdf:resource="&lcc-639-1;"/>
     </owl:NamedIndividual>
@@ -3017,9 +3017,9 @@
         <rdf:type rdf:resource="&lcc-lr;LivingLanguage"/>
         <rdfs:label>Italian</rdfs:label>
         <skos:definition rdf:datatype="&xsd;string">Italian language</skos:definition>
-        <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Italian</lcc-lr:hasEnglishName>
-        <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">italien</lcc-lr:hasFrenchName>
-        <lcc-lr:hasGermanName rdf:datatype="&xsd;string">Italienisch</lcc-lr:hasGermanName>
+        <lcc-lr:hasEnglishName xml:lang="en">Italian</lcc-lr:hasEnglishName>
+        <lcc-lr:hasFrenchName xml:lang="fr">italien</lcc-lr:hasFrenchName>
+        <lcc-lr:hasGermanName xml:lang="ge">Italienisch</lcc-lr:hasGermanName>
         <lcc-lr:hasIndigenousName rdf:datatype="&xsd;string">italiano</lcc-lr:hasIndigenousName>
         <rdfs:isDefinedBy rdf:resource="&lcc-639-1;"/>
     </owl:NamedIndividual>
@@ -3029,9 +3029,9 @@
         <rdf:type rdf:resource="&lcc-lr;LivingLanguage"/>
         <rdfs:label>Japanese</rdfs:label>
         <skos:definition rdf:datatype="&xsd;string">Japanese language</skos:definition>
-        <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Japanese</lcc-lr:hasEnglishName>
-        <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">japonais</lcc-lr:hasFrenchName>
-        <lcc-lr:hasGermanName rdf:datatype="&xsd;string">Japanisch</lcc-lr:hasGermanName>
+        <lcc-lr:hasEnglishName xml:lang="en">Japanese</lcc-lr:hasEnglishName>
+        <lcc-lr:hasFrenchName xml:lang="fr">japonais</lcc-lr:hasFrenchName>
+        <lcc-lr:hasGermanName xml:lang="ge">Japanisch</lcc-lr:hasGermanName>
         <lcc-lr:hasIndigenousName rdf:datatype="&xsd;string">nihongo</lcc-lr:hasIndigenousName>
         <lcc-lr:hasIndigenousName rdf:datatype="&xsd;string">nippongo</lcc-lr:hasIndigenousName>
         <rdfs:isDefinedBy rdf:resource="&lcc-639-1;"/>
@@ -3042,9 +3042,9 @@
         <rdf:type rdf:resource="&lcc-lr;LivingLanguage"/>
         <rdfs:label>Javanese</rdfs:label>
         <skos:definition rdf:datatype="&xsd;string">Javanese language</skos:definition>
-        <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">javanais</lcc-lr:hasFrenchName>
-        <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Javanese</lcc-lr:hasEnglishName>
-        <lcc-lr:hasGermanName rdf:datatype="&xsd;string">Javanisch</lcc-lr:hasGermanName>
+        <lcc-lr:hasFrenchName xml:lang="fr">javanais</lcc-lr:hasFrenchName>
+        <lcc-lr:hasEnglishName xml:lang="en">Javanese</lcc-lr:hasEnglishName>
+        <lcc-lr:hasGermanName xml:lang="ge">Javanisch</lcc-lr:hasGermanName>
         <lcc-lr:hasIndigenousName rdf:datatype="&xsd;string">bahasa Jawa</lcc-lr:hasIndigenousName>
         <rdfs:isDefinedBy rdf:resource="&lcc-639-1;"/>
     </owl:NamedIndividual>
@@ -3054,10 +3054,10 @@
         <rdf:type rdf:resource="&lcc-lr;LivingLanguage"/>
         <rdfs:label>Kalaallisut</rdfs:label>
         <skos:definition rdf:datatype="&xsd;string">Kalaallisut language</skos:definition>
-        <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Kalaallisut</lcc-lr:hasEnglishName>
-        <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Greenlandic</lcc-lr:hasEnglishName>
-        <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">groenlandais</lcc-lr:hasFrenchName>
-        <lcc-lr:hasGermanName rdf:datatype="&xsd;string">Gr&#246;nl&#228;ndisch</lcc-lr:hasGermanName>
+        <lcc-lr:hasEnglishName xml:lang="en">Kalaallisut</lcc-lr:hasEnglishName>
+        <lcc-lr:hasEnglishName xml:lang="en">Greenlandic</lcc-lr:hasEnglishName>
+        <lcc-lr:hasFrenchName xml:lang="fr">groenlandais</lcc-lr:hasFrenchName>
+        <lcc-lr:hasGermanName xml:lang="ge">Grönländisch</lcc-lr:hasGermanName>
         <lcc-lr:hasIndigenousName rdf:datatype="&xsd;string">kalaallisut</lcc-lr:hasIndigenousName>
         <rdfs:isDefinedBy rdf:resource="&lcc-639-1;"/>
     </owl:NamedIndividual>
@@ -3067,10 +3067,10 @@
         <rdf:type rdf:resource="&lcc-lr;LivingLanguage"/>
         <rdfs:label>Kannada</rdfs:label>
         <skos:definition rdf:datatype="&xsd;string">Kannada language</skos:definition>
-        <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Kannada</lcc-lr:hasEnglishName>
-        <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">kannada</lcc-lr:hasFrenchName>
-        <lcc-lr:hasGermanName rdf:datatype="&xsd;string">Kannada</lcc-lr:hasGermanName>
-        <lcc-lr:hasIndigenousName rdf:datatype="&xsd;string">kanna&#7693;a</lcc-lr:hasIndigenousName>
+        <lcc-lr:hasEnglishName xml:lang="en">Kannada</lcc-lr:hasEnglishName>
+        <lcc-lr:hasFrenchName xml:lang="fr">kannada</lcc-lr:hasFrenchName>
+        <lcc-lr:hasGermanName xml:lang="ge">Kannada</lcc-lr:hasGermanName>
+        <lcc-lr:hasIndigenousName rdf:datatype="&xsd;string">kannaḍa</lcc-lr:hasIndigenousName>
         <rdfs:isDefinedBy rdf:resource="&lcc-639-1;"/>
     </owl:NamedIndividual>
 
@@ -3079,9 +3079,9 @@
         <rdf:type rdf:resource="&lcc-lr;LivingLanguage"/>
         <rdfs:label>Kanuri</rdfs:label>
         <skos:definition rdf:datatype="&xsd;string">Kanuri language</skos:definition>
-        <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Kanuri</lcc-lr:hasEnglishName>
-        <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">kanouri</lcc-lr:hasFrenchName>
-        <lcc-lr:hasGermanName rdf:datatype="&xsd;string">Kanuri-Sprache</lcc-lr:hasGermanName>
+        <lcc-lr:hasEnglishName xml:lang="en">Kanuri</lcc-lr:hasEnglishName>
+        <lcc-lr:hasFrenchName xml:lang="fr">kanouri</lcc-lr:hasFrenchName>
+        <lcc-lr:hasGermanName xml:lang="ge">Kanuri-Sprache</lcc-lr:hasGermanName>
         <lcc-lr:hasIndigenousName rdf:datatype="&xsd;string">kanuri</lcc-lr:hasIndigenousName>
         <rdfs:isDefinedBy rdf:resource="&lcc-639-1;"/>
     </owl:NamedIndividual>
@@ -3091,10 +3091,10 @@
         <rdf:type rdf:resource="&lcc-lr;LivingLanguage"/>
         <rdfs:label>Kashmiri</rdfs:label>
         <skos:definition rdf:datatype="&xsd;string">Kashmiri language</skos:definition>
-        <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Kashmiri</lcc-lr:hasEnglishName>
-        <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">kashmiri</lcc-lr:hasFrenchName>
-        <lcc-lr:hasGermanName rdf:datatype="&xsd;string">Kaschmiri</lcc-lr:hasGermanName>
-        <lcc-lr:hasIndigenousName rdf:datatype="&xsd;string">ka&#347;m&#299;r&#299;</lcc-lr:hasIndigenousName>
+        <lcc-lr:hasEnglishName xml:lang="en">Kashmiri</lcc-lr:hasEnglishName>
+        <lcc-lr:hasFrenchName xml:lang="fr">kashmiri</lcc-lr:hasFrenchName>
+        <lcc-lr:hasGermanName xml:lang="ge">Kaschmiri</lcc-lr:hasGermanName>
+        <lcc-lr:hasIndigenousName rdf:datatype="&xsd;string">kaśmīrī</lcc-lr:hasIndigenousName>
         <rdfs:isDefinedBy rdf:resource="&lcc-639-1;"/>
     </owl:NamedIndividual>
 
@@ -3103,10 +3103,10 @@
         <rdf:type rdf:resource="&lcc-lr;LivingLanguage"/>
         <rdfs:label>Kazakh</rdfs:label>
         <skos:definition rdf:datatype="&xsd;string">Kazakh language</skos:definition>
-        <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Kazakh</lcc-lr:hasEnglishName>
-        <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">kazakh</lcc-lr:hasFrenchName>
-        <lcc-lr:hasGermanName rdf:datatype="&xsd;string">Kasachisch</lcc-lr:hasGermanName>
-        <lcc-lr:hasIndigenousName rdf:datatype="&xsd;string">&#311;aza&#311; (tili)</lcc-lr:hasIndigenousName>
+        <lcc-lr:hasEnglishName xml:lang="en">Kazakh</lcc-lr:hasEnglishName>
+        <lcc-lr:hasFrenchName xml:lang="fr">kazakh</lcc-lr:hasFrenchName>
+        <lcc-lr:hasGermanName xml:lang="ge">Kasachisch</lcc-lr:hasGermanName>
+        <lcc-lr:hasIndigenousName rdf:datatype="&xsd;string">ķazaķ (tili)</lcc-lr:hasIndigenousName>
         <rdfs:isDefinedBy rdf:resource="&lcc-639-1;"/>
     </owl:NamedIndividual>
 
@@ -3115,12 +3115,12 @@
         <rdf:type rdf:resource="&lcc-lr;LivingLanguage"/>
         <rdfs:label>Central Khmer</rdfs:label>
         <skos:definition rdf:datatype="&xsd;string">Central Khmer language</skos:definition>
-        <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Central Khmer</lcc-lr:hasEnglishName>
-        <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Cambodian</lcc-lr:hasEnglishName>
-        <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">cambodgien</lcc-lr:hasFrenchName>
-        <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">khmer central</lcc-lr:hasFrenchName>
-        <lcc-lr:hasGermanName rdf:datatype="&xsd;string">Kambodschanisch</lcc-lr:hasGermanName>
-        <lcc-lr:hasIndigenousName rdf:datatype="&xsd;string">khm&#234;r</lcc-lr:hasIndigenousName>
+        <lcc-lr:hasEnglishName xml:lang="en">Central Khmer</lcc-lr:hasEnglishName>
+        <lcc-lr:hasEnglishName xml:lang="en">Cambodian</lcc-lr:hasEnglishName>
+        <lcc-lr:hasFrenchName xml:lang="fr">cambodgien</lcc-lr:hasFrenchName>
+        <lcc-lr:hasFrenchName xml:lang="fr">khmer central</lcc-lr:hasFrenchName>
+        <lcc-lr:hasGermanName xml:lang="ge">Kambodschanisch</lcc-lr:hasGermanName>
+        <lcc-lr:hasIndigenousName rdf:datatype="&xsd;string">khmêr</lcc-lr:hasIndigenousName>
         <rdfs:isDefinedBy rdf:resource="&lcc-639-1;"/>
     </owl:NamedIndividual>
 
@@ -3129,10 +3129,10 @@
         <rdf:type rdf:resource="&lcc-lr;LivingLanguage"/>
         <rdfs:label>Kikuyu</rdfs:label>
         <skos:definition rdf:datatype="&xsd;string">Kikuyu language</skos:definition>
-        <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Kikuyu</lcc-lr:hasEnglishName>
-        <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Gikuyu</lcc-lr:hasEnglishName>
-        <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">kikuyu</lcc-lr:hasFrenchName>
-        <lcc-lr:hasGermanName rdf:datatype="&xsd;string">Kikuyu-Sprache</lcc-lr:hasGermanName>
+        <lcc-lr:hasEnglishName xml:lang="en">Kikuyu</lcc-lr:hasEnglishName>
+        <lcc-lr:hasEnglishName xml:lang="en">Gikuyu</lcc-lr:hasEnglishName>
+        <lcc-lr:hasFrenchName xml:lang="fr">kikuyu</lcc-lr:hasFrenchName>
+        <lcc-lr:hasGermanName xml:lang="ge">Kikuyu-Sprache</lcc-lr:hasGermanName>
         <lcc-lr:hasIndigenousName rdf:datatype="&xsd;string">Gikuyu</lcc-lr:hasIndigenousName>
         <rdfs:isDefinedBy rdf:resource="&lcc-639-1;"/>
     </owl:NamedIndividual>
@@ -3142,11 +3142,11 @@
         <rdf:type rdf:resource="&lcc-lr;LivingLanguage"/>
         <rdfs:label>Kinyarwanda</rdfs:label>
         <skos:definition rdf:datatype="&xsd;string">Kinyarwanda language</skos:definition>
-        <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Kinyarwanda</lcc-lr:hasEnglishName>
-        <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Rwanda</lcc-lr:hasEnglishName>
-        <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">kinyarwanda</lcc-lr:hasFrenchName>
-        <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">rwanda</lcc-lr:hasFrenchName>
-        <lcc-lr:hasGermanName rdf:datatype="&xsd;string">Rwanda-Sprache</lcc-lr:hasGermanName>
+        <lcc-lr:hasEnglishName xml:lang="en">Kinyarwanda</lcc-lr:hasEnglishName>
+        <lcc-lr:hasEnglishName xml:lang="en">Rwanda</lcc-lr:hasEnglishName>
+        <lcc-lr:hasFrenchName xml:lang="fr">kinyarwanda</lcc-lr:hasFrenchName>
+        <lcc-lr:hasFrenchName xml:lang="fr">rwanda</lcc-lr:hasFrenchName>
+        <lcc-lr:hasGermanName xml:lang="ge">Rwanda-Sprache</lcc-lr:hasGermanName>
         <lcc-lr:hasIndigenousName rdf:datatype="&xsd;string">kinyarwanda</lcc-lr:hasIndigenousName>
         <rdfs:isDefinedBy rdf:resource="&lcc-639-1;"/>
     </owl:NamedIndividual>
@@ -3156,10 +3156,10 @@
         <rdf:type rdf:resource="&lcc-lr;LivingLanguage"/>
         <rdfs:label>Kirghiz</rdfs:label>
         <skos:definition rdf:datatype="&xsd;string">Kirghiz language</skos:definition>
-        <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Kirghiz</lcc-lr:hasEnglishName>
-        <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Kyrgyz</lcc-lr:hasEnglishName>
-        <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">kirghize</lcc-lr:hasFrenchName>
-        <lcc-lr:hasGermanName rdf:datatype="&xsd;string">Kirgisisch</lcc-lr:hasGermanName>
+        <lcc-lr:hasEnglishName xml:lang="en">Kirghiz</lcc-lr:hasEnglishName>
+        <lcc-lr:hasEnglishName xml:lang="en">Kyrgyz</lcc-lr:hasEnglishName>
+        <lcc-lr:hasFrenchName xml:lang="fr">kirghize</lcc-lr:hasFrenchName>
+        <lcc-lr:hasGermanName xml:lang="ge">Kirgisisch</lcc-lr:hasGermanName>
         <lcc-lr:hasIndigenousName rdf:datatype="&xsd;string">kyrgyz tili</lcc-lr:hasIndigenousName>
         <rdfs:isDefinedBy rdf:resource="&lcc-639-1;"/>
     </owl:NamedIndividual>
@@ -3169,9 +3169,9 @@
         <rdf:type rdf:resource="&lcc-lr;LivingLanguage"/>
         <rdfs:label>Komi</rdfs:label>
         <skos:definition rdf:datatype="&xsd;string">Komi language</skos:definition>
-        <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Komi</lcc-lr:hasEnglishName>
-        <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">komi</lcc-lr:hasFrenchName>
-        <lcc-lr:hasGermanName rdf:datatype="&xsd;string">Komi-Sprache</lcc-lr:hasGermanName>
+        <lcc-lr:hasEnglishName xml:lang="en">Komi</lcc-lr:hasEnglishName>
+        <lcc-lr:hasFrenchName xml:lang="fr">komi</lcc-lr:hasFrenchName>
+        <lcc-lr:hasGermanName xml:lang="ge">Komi-Sprache</lcc-lr:hasGermanName>
         <lcc-lr:hasIndigenousName rdf:datatype="&xsd;string">komi kyv</lcc-lr:hasIndigenousName>
         <rdfs:isDefinedBy rdf:resource="&lcc-639-1;"/>
     </owl:NamedIndividual>
@@ -3181,9 +3181,9 @@
         <rdf:type rdf:resource="&lcc-lr;LivingLanguage"/>
         <rdfs:label>Kongo</rdfs:label>
         <skos:definition rdf:datatype="&xsd;string">Kongo languages</skos:definition>
-        <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Kongo</lcc-lr:hasEnglishName>
-        <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">kongo</lcc-lr:hasFrenchName>
-        <lcc-lr:hasGermanName rdf:datatype="&xsd;string">Kongo-Sprache</lcc-lr:hasGermanName>
+        <lcc-lr:hasEnglishName xml:lang="en">Kongo</lcc-lr:hasEnglishName>
+        <lcc-lr:hasFrenchName xml:lang="fr">kongo</lcc-lr:hasFrenchName>
+        <lcc-lr:hasGermanName xml:lang="ge">Kongo-Sprache</lcc-lr:hasGermanName>
         <lcc-lr:hasIndigenousName rdf:datatype="&xsd;string">kikongo</lcc-lr:hasIndigenousName>
         <rdfs:isDefinedBy rdf:resource="&lcc-639-1;"/>
     </owl:NamedIndividual>
@@ -3193,9 +3193,9 @@
         <rdf:type rdf:resource="&lcc-lr;LivingLanguage"/>
         <rdfs:label>Korean</rdfs:label>
         <skos:definition rdf:datatype="&xsd;string">Korean language</skos:definition>
-        <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Korean</lcc-lr:hasEnglishName>
-        <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">cor&#233;en</lcc-lr:hasFrenchName>
-        <lcc-lr:hasGermanName rdf:datatype="&xsd;string">Koreanisch</lcc-lr:hasGermanName>
+        <lcc-lr:hasEnglishName xml:lang="en">Korean</lcc-lr:hasEnglishName>
+        <lcc-lr:hasFrenchName xml:lang="fr">coréen</lcc-lr:hasFrenchName>
+        <lcc-lr:hasGermanName xml:lang="ge">Koreanisch</lcc-lr:hasGermanName>
         <lcc-lr:hasIndigenousName rdf:datatype="&xsd;string">choson-o</lcc-lr:hasIndigenousName>
         <lcc-lr:hasIndigenousName rdf:datatype="&xsd;string">hanguk-o</lcc-lr:hasIndigenousName>
         <rdfs:isDefinedBy rdf:resource="&lcc-639-1;"/>
@@ -3206,11 +3206,11 @@
         <rdf:type rdf:resource="&lcc-lr;LivingLanguage"/>
         <rdfs:label>Kuanyama</rdfs:label>
         <skos:definition rdf:datatype="&xsd;string">Kuanyama language</skos:definition>
-        <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Kuanyama</lcc-lr:hasEnglishName>
-        <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Kwanyama</lcc-lr:hasEnglishName>
-        <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">kuanyama</lcc-lr:hasFrenchName>
-        <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">kwanyama</lcc-lr:hasFrenchName>
-        <lcc-lr:hasGermanName rdf:datatype="&xsd;string">Kwanyama-Sprache</lcc-lr:hasGermanName>
+        <lcc-lr:hasEnglishName xml:lang="en">Kuanyama</lcc-lr:hasEnglishName>
+        <lcc-lr:hasEnglishName xml:lang="en">Kwanyama</lcc-lr:hasEnglishName>
+        <lcc-lr:hasFrenchName xml:lang="fr">kuanyama</lcc-lr:hasFrenchName>
+        <lcc-lr:hasFrenchName xml:lang="fr">kwanyama</lcc-lr:hasFrenchName>
+        <lcc-lr:hasGermanName xml:lang="ge">Kwanyama-Sprache</lcc-lr:hasGermanName>
         <lcc-lr:hasIndigenousName rdf:datatype="&xsd;string">oshikwanyama</lcc-lr:hasIndigenousName>
         <rdfs:isDefinedBy rdf:resource="&lcc-639-1;"/>
     </owl:NamedIndividual>
@@ -3220,9 +3220,9 @@
         <rdf:type rdf:resource="&lcc-lr;LivingLanguage"/>
         <rdfs:label>Kurdish</rdfs:label>
         <skos:definition rdf:datatype="&xsd;string">Kurdish language</skos:definition>
-        <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Kurdish</lcc-lr:hasEnglishName>
-        <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">kurde</lcc-lr:hasFrenchName>
-        <lcc-lr:hasGermanName rdf:datatype="&xsd;string">Kurdisch</lcc-lr:hasGermanName>
+        <lcc-lr:hasEnglishName xml:lang="en">Kurdish</lcc-lr:hasEnglishName>
+        <lcc-lr:hasFrenchName xml:lang="fr">kurde</lcc-lr:hasFrenchName>
+        <lcc-lr:hasGermanName xml:lang="ge">Kurdisch</lcc-lr:hasGermanName>
         <lcc-lr:hasIndigenousName rdf:datatype="&xsd;string">zimany kurdy</lcc-lr:hasIndigenousName>
         <rdfs:isDefinedBy rdf:resource="&lcc-639-1;"/>
     </owl:NamedIndividual>
@@ -3232,11 +3232,11 @@
         <rdf:type rdf:resource="&lcc-lr;LivingLanguage"/>
         <rdfs:label>Lao</rdfs:label>
         <skos:definition rdf:datatype="&xsd;string">Lao language</skos:definition>
-        <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Lao</lcc-lr:hasEnglishName>
-        <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Laotian</lcc-lr:hasEnglishName>
-        <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">lao</lcc-lr:hasFrenchName>
-        <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">laotien</lcc-lr:hasFrenchName>
-        <lcc-lr:hasGermanName rdf:datatype="&xsd;string">Laotisch</lcc-lr:hasGermanName>
+        <lcc-lr:hasEnglishName xml:lang="en">Lao</lcc-lr:hasEnglishName>
+        <lcc-lr:hasEnglishName xml:lang="en">Laotian</lcc-lr:hasEnglishName>
+        <lcc-lr:hasFrenchName xml:lang="fr">lao</lcc-lr:hasFrenchName>
+        <lcc-lr:hasFrenchName xml:lang="fr">laotien</lcc-lr:hasFrenchName>
+        <lcc-lr:hasGermanName xml:lang="ge">Laotisch</lcc-lr:hasGermanName>
         <lcc-lr:hasIndigenousName rdf:datatype="&xsd;string">pha xa lao</lcc-lr:hasIndigenousName>
         <rdfs:isDefinedBy rdf:resource="&lcc-639-1;"/>
     </owl:NamedIndividual>
@@ -3246,9 +3246,9 @@
         <rdf:type rdf:resource="&lcc-lr;AncientLanguage"/>
         <rdfs:label>Latin</rdfs:label>
         <skos:definition rdf:datatype="&xsd;string">Latin language</skos:definition>
-        <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Latin</lcc-lr:hasEnglishName>
-        <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">latin</lcc-lr:hasFrenchName>
-        <lcc-lr:hasGermanName rdf:datatype="&xsd;string">Latein</lcc-lr:hasGermanName>
+        <lcc-lr:hasEnglishName xml:lang="en">Latin</lcc-lr:hasEnglishName>
+        <lcc-lr:hasFrenchName xml:lang="fr">latin</lcc-lr:hasFrenchName>
+        <lcc-lr:hasGermanName xml:lang="ge">Latein</lcc-lr:hasGermanName>
         <lcc-lr:hasIndigenousName rdf:datatype="&xsd;string">lingua latina</lcc-lr:hasIndigenousName>
         <rdfs:isDefinedBy rdf:resource="&lcc-639-1;"/>
     </owl:NamedIndividual>
@@ -3258,10 +3258,10 @@
         <rdf:type rdf:resource="&lcc-lr;LivingLanguage"/>
         <rdfs:label>Latvian</rdfs:label>
         <skos:definition rdf:datatype="&xsd;string">Latvian language</skos:definition>
-        <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Latvian</lcc-lr:hasEnglishName>
-        <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">letton</lcc-lr:hasFrenchName>
-        <lcc-lr:hasGermanName rdf:datatype="&xsd;string">Lettisch</lcc-lr:hasGermanName>
-        <lcc-lr:hasIndigenousName rdf:datatype="&xsd;string">latvie&#353;u valoda</lcc-lr:hasIndigenousName>
+        <lcc-lr:hasEnglishName xml:lang="en">Latvian</lcc-lr:hasEnglishName>
+        <lcc-lr:hasFrenchName xml:lang="fr">letton</lcc-lr:hasFrenchName>
+        <lcc-lr:hasGermanName xml:lang="ge">Lettisch</lcc-lr:hasGermanName>
+        <lcc-lr:hasIndigenousName rdf:datatype="&xsd;string">latviešu valoda</lcc-lr:hasIndigenousName>
         <rdfs:isDefinedBy rdf:resource="&lcc-639-1;"/>
     </owl:NamedIndividual>
 
@@ -3270,11 +3270,11 @@
         <rdf:type rdf:resource="&lcc-lr;LivingLanguage"/>
         <rdfs:label>Limburgan</rdfs:label>
         <skos:definition rdf:datatype="&xsd;string">Limburgan; Limburger; Limburgish language</skos:definition>
-        <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Limburgan</lcc-lr:hasEnglishName>
-        <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Limburger</lcc-lr:hasEnglishName>
-        <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Limburgish</lcc-lr:hasEnglishName>
-        <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">limbourgeois</lcc-lr:hasFrenchName>
-        <lcc-lr:hasGermanName rdf:datatype="&xsd;string">Limburgisch</lcc-lr:hasGermanName>
+        <lcc-lr:hasEnglishName xml:lang="en">Limburgan</lcc-lr:hasEnglishName>
+        <lcc-lr:hasEnglishName xml:lang="en">Limburger</lcc-lr:hasEnglishName>
+        <lcc-lr:hasEnglishName xml:lang="en">Limburgish</lcc-lr:hasEnglishName>
+        <lcc-lr:hasFrenchName xml:lang="fr">limbourgeois</lcc-lr:hasFrenchName>
+        <lcc-lr:hasGermanName xml:lang="ge">Limburgisch</lcc-lr:hasGermanName>
         <rdfs:isDefinedBy rdf:resource="&lcc-639-1;"/>
     </owl:NamedIndividual>
 
@@ -3283,9 +3283,9 @@
         <rdf:type rdf:resource="&lcc-lr;LivingLanguage"/>
         <rdfs:label>Lingala</rdfs:label>
         <skos:definition rdf:datatype="&xsd;string">Lingala language</skos:definition>
-        <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Lingala</lcc-lr:hasEnglishName>
-        <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">lingala</lcc-lr:hasFrenchName>
-        <lcc-lr:hasGermanName rdf:datatype="&xsd;string">Lingala</lcc-lr:hasGermanName>
+        <lcc-lr:hasEnglishName xml:lang="en">Lingala</lcc-lr:hasEnglishName>
+        <lcc-lr:hasFrenchName xml:lang="fr">lingala</lcc-lr:hasFrenchName>
+        <lcc-lr:hasGermanName xml:lang="ge">Lingala</lcc-lr:hasGermanName>
         <lcc-lr:hasIndigenousName rdf:datatype="&xsd;string">lingala</lcc-lr:hasIndigenousName>
         <rdfs:isDefinedBy rdf:resource="&lcc-639-1;"/>
     </owl:NamedIndividual>
@@ -3295,10 +3295,10 @@
         <rdf:type rdf:resource="&lcc-lr;LivingLanguage"/>
         <rdfs:label>Lithuanian</rdfs:label>
         <skos:definition rdf:datatype="&xsd;string">Lithuanian language</skos:definition>
-        <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Lithuanian</lcc-lr:hasEnglishName>
-        <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">lituanien</lcc-lr:hasFrenchName>
-        <lcc-lr:hasGermanName rdf:datatype="&xsd;string">Litauisch</lcc-lr:hasGermanName>
-        <lcc-lr:hasIndigenousName rdf:datatype="&xsd;string">lietuvi&#371; kalba</lcc-lr:hasIndigenousName>
+        <lcc-lr:hasEnglishName xml:lang="en">Lithuanian</lcc-lr:hasEnglishName>
+        <lcc-lr:hasFrenchName xml:lang="fr">lituanien</lcc-lr:hasFrenchName>
+        <lcc-lr:hasGermanName xml:lang="ge">Litauisch</lcc-lr:hasGermanName>
+        <lcc-lr:hasIndigenousName rdf:datatype="&xsd;string">lietuvių kalba</lcc-lr:hasIndigenousName>
         <rdfs:isDefinedBy rdf:resource="&lcc-639-1;"/>
     </owl:NamedIndividual>
 
@@ -3307,9 +3307,9 @@
         <rdf:type rdf:resource="&lcc-lr;LivingLanguage"/>
         <rdfs:label>Luba-Katanga</rdfs:label>
         <skos:definition rdf:datatype="&xsd;string">Luba-Katanga language</skos:definition>
-        <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">luba-katanga</lcc-lr:hasFrenchName>
-        <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Luba-Katanga</lcc-lr:hasEnglishName>
-        <lcc-lr:hasGermanName rdf:datatype="&xsd;string">Luba-Katanga-Sprache</lcc-lr:hasGermanName>
+        <lcc-lr:hasFrenchName xml:lang="fr">luba-katanga</lcc-lr:hasFrenchName>
+        <lcc-lr:hasEnglishName xml:lang="en">Luba-Katanga</lcc-lr:hasEnglishName>
+        <lcc-lr:hasGermanName xml:lang="ge">Luba-Katanga-Sprache</lcc-lr:hasGermanName>
         <lcc-lr:hasIndigenousName rdf:datatype="&xsd;string">tshiluba</lcc-lr:hasIndigenousName>
         <rdfs:isDefinedBy rdf:resource="&lcc-639-1;"/>
     </owl:NamedIndividual>
@@ -3319,11 +3319,11 @@
         <rdf:type rdf:resource="&lcc-lr;LivingLanguage"/>
         <rdfs:label>Luxembourgish</rdfs:label>
         <skos:definition rdf:datatype="&xsd;string">Luxembourgish language</skos:definition>
-        <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Luxembourgish</lcc-lr:hasEnglishName>
-        <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Letzeburgesch</lcc-lr:hasEnglishName>
-        <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">luxembourgeois</lcc-lr:hasFrenchName>
-        <lcc-lr:hasGermanName rdf:datatype="&xsd;string">Luxemburgisch</lcc-lr:hasGermanName>
-        <lcc-lr:hasIndigenousName rdf:datatype="&xsd;string">l&#235;tzebuergesch</lcc-lr:hasIndigenousName>
+        <lcc-lr:hasEnglishName xml:lang="en">Luxembourgish</lcc-lr:hasEnglishName>
+        <lcc-lr:hasEnglishName xml:lang="en">Letzeburgesch</lcc-lr:hasEnglishName>
+        <lcc-lr:hasFrenchName xml:lang="fr">luxembourgeois</lcc-lr:hasFrenchName>
+        <lcc-lr:hasGermanName xml:lang="ge">Luxemburgisch</lcc-lr:hasGermanName>
+        <lcc-lr:hasIndigenousName rdf:datatype="&xsd;string">lëtzebuergesch</lcc-lr:hasIndigenousName>
         <rdfs:isDefinedBy rdf:resource="&lcc-639-1;"/>
     </owl:NamedIndividual>
 
@@ -3332,9 +3332,9 @@
         <rdf:type rdf:resource="&lcc-lr;LivingLanguage"/>
         <rdfs:label>Macedonian</rdfs:label>
         <skos:definition rdf:datatype="&xsd;string">Macedonian language</skos:definition>
-        <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Macedonian</lcc-lr:hasEnglishName>
-        <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">mac&#233;donien</lcc-lr:hasFrenchName>
-        <lcc-lr:hasGermanName rdf:datatype="&xsd;string">Makedonisch</lcc-lr:hasGermanName>
+        <lcc-lr:hasEnglishName xml:lang="en">Macedonian</lcc-lr:hasEnglishName>
+        <lcc-lr:hasFrenchName xml:lang="fr">macédonien</lcc-lr:hasFrenchName>
+        <lcc-lr:hasGermanName xml:lang="ge">Makedonisch</lcc-lr:hasGermanName>
         <lcc-lr:hasIndigenousName rdf:datatype="&xsd;string">makedonski</lcc-lr:hasIndigenousName>
         <rdfs:isDefinedBy rdf:resource="&lcc-639-1;"/>
     </owl:NamedIndividual>
@@ -3344,9 +3344,9 @@
         <rdf:type rdf:resource="&lcc-lr;LivingLanguage"/>
         <rdfs:label>Malagasy</rdfs:label>
         <skos:definition rdf:datatype="&xsd;string">Malagasy languages</skos:definition>
-        <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Malagasy</lcc-lr:hasEnglishName>
-        <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">malgache</lcc-lr:hasFrenchName>
-        <lcc-lr:hasGermanName rdf:datatype="&xsd;string">Malagassi-Sprache</lcc-lr:hasGermanName>
+        <lcc-lr:hasEnglishName xml:lang="en">Malagasy</lcc-lr:hasEnglishName>
+        <lcc-lr:hasFrenchName xml:lang="fr">malgache</lcc-lr:hasFrenchName>
+        <lcc-lr:hasGermanName xml:lang="ge">Malagassi-Sprache</lcc-lr:hasGermanName>
         <lcc-lr:hasIndigenousName rdf:datatype="&xsd;string">malagasy</lcc-lr:hasIndigenousName>
         <rdfs:isDefinedBy rdf:resource="&lcc-639-1;"/>
     </owl:NamedIndividual>
@@ -3356,9 +3356,9 @@
         <rdf:type rdf:resource="&lcc-lr;LivingLanguage"/>
         <rdfs:label>Malay</rdfs:label>
         <skos:definition rdf:datatype="&xsd;string">Malay macrolanguage</skos:definition>
-        <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Malay (macrolanguage)</lcc-lr:hasEnglishName>
-        <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">malais</lcc-lr:hasFrenchName>
-        <lcc-lr:hasGermanName rdf:datatype="&xsd;string">Malaiisch</lcc-lr:hasGermanName>
+        <lcc-lr:hasEnglishName xml:lang="en">Malay (macrolanguage)</lcc-lr:hasEnglishName>
+        <lcc-lr:hasFrenchName xml:lang="fr">malais</lcc-lr:hasFrenchName>
+        <lcc-lr:hasGermanName xml:lang="ge">Malaiisch</lcc-lr:hasGermanName>
         <lcc-lr:hasIndigenousName rdf:datatype="&xsd;string">bahasa Malaysia</lcc-lr:hasIndigenousName>
         <rdfs:isDefinedBy rdf:resource="&lcc-639-1;"/>
     </owl:NamedIndividual>
@@ -3368,10 +3368,10 @@
         <rdf:type rdf:resource="&lcc-lr;LivingLanguage"/>
         <rdfs:label>Malayalam</rdfs:label>
         <skos:definition rdf:datatype="&xsd;string">Malayalam language</skos:definition>
-        <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Malayalam</lcc-lr:hasEnglishName>
-        <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">malayalam</lcc-lr:hasFrenchName>
-        <lcc-lr:hasGermanName rdf:datatype="&xsd;string">Malayalam</lcc-lr:hasGermanName>
-        <lcc-lr:hasIndigenousName rdf:datatype="&xsd;string">malay&#257;&#7735;a&#7745;</lcc-lr:hasIndigenousName>
+        <lcc-lr:hasEnglishName xml:lang="en">Malayalam</lcc-lr:hasEnglishName>
+        <lcc-lr:hasFrenchName xml:lang="fr">malayalam</lcc-lr:hasFrenchName>
+        <lcc-lr:hasGermanName xml:lang="ge">Malayalam</lcc-lr:hasGermanName>
+        <lcc-lr:hasIndigenousName rdf:datatype="&xsd;string">malayāḷaṁ</lcc-lr:hasIndigenousName>
         <rdfs:isDefinedBy rdf:resource="&lcc-639-1;"/>
     </owl:NamedIndividual>
 
@@ -3380,9 +3380,9 @@
         <rdf:type rdf:resource="&lcc-lr;LivingLanguage"/>
         <rdfs:label>Maltese</rdfs:label>
         <skos:definition rdf:datatype="&xsd;string">Maltese language</skos:definition>
-        <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Maltese</lcc-lr:hasEnglishName>
-        <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">maltais</lcc-lr:hasFrenchName>
-        <lcc-lr:hasGermanName rdf:datatype="&xsd;string">Maltesisch</lcc-lr:hasGermanName>
+        <lcc-lr:hasEnglishName xml:lang="en">Maltese</lcc-lr:hasEnglishName>
+        <lcc-lr:hasFrenchName xml:lang="fr">maltais</lcc-lr:hasFrenchName>
+        <lcc-lr:hasGermanName xml:lang="ge">Maltesisch</lcc-lr:hasGermanName>
         <lcc-lr:hasIndigenousName rdf:datatype="&xsd;string">il-Malti</lcc-lr:hasIndigenousName>
         <rdfs:isDefinedBy rdf:resource="&lcc-639-1;"/>
     </owl:NamedIndividual>
@@ -3392,10 +3392,10 @@
         <rdf:type rdf:resource="&lcc-lr;ExtinctLanguage"/>
         <rdfs:label>Manx</rdfs:label>
         <skos:definition rdf:datatype="&xsd;string">Manx language</skos:definition>
-        <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Manx</lcc-lr:hasEnglishName>
-        <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">mannois</lcc-lr:hasFrenchName>
-        <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">manx</lcc-lr:hasFrenchName>
-        <lcc-lr:hasGermanName rdf:datatype="&xsd;string">Manx</lcc-lr:hasGermanName>
+        <lcc-lr:hasEnglishName xml:lang="en">Manx</lcc-lr:hasEnglishName>
+        <lcc-lr:hasFrenchName xml:lang="fr">mannois</lcc-lr:hasFrenchName>
+        <lcc-lr:hasFrenchName xml:lang="fr">manx</lcc-lr:hasFrenchName>
+        <lcc-lr:hasGermanName xml:lang="ge">Manx</lcc-lr:hasGermanName>
         <lcc-lr:hasIndigenousName rdf:datatype="&xsd;string">Gaelg</lcc-lr:hasIndigenousName>
         <rdfs:isDefinedBy rdf:resource="&lcc-639-1;"/>
     </owl:NamedIndividual>
@@ -3405,10 +3405,10 @@
         <rdf:type rdf:resource="&lcc-lr;LivingLanguage"/>
         <rdfs:label>Maori</rdfs:label>
         <skos:definition rdf:datatype="&xsd;string">Maori language</skos:definition>
-        <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Maori</lcc-lr:hasEnglishName>
-        <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">maori</lcc-lr:hasFrenchName>
-        <lcc-lr:hasGermanName rdf:datatype="&xsd;string">Maori-Sprache</lcc-lr:hasGermanName>
-        <lcc-lr:hasIndigenousName rdf:datatype="&xsd;string">m&#257;ori</lcc-lr:hasIndigenousName>
+        <lcc-lr:hasEnglishName xml:lang="en">Maori</lcc-lr:hasEnglishName>
+        <lcc-lr:hasFrenchName xml:lang="fr">maori</lcc-lr:hasFrenchName>
+        <lcc-lr:hasGermanName xml:lang="ge">Maori-Sprache</lcc-lr:hasGermanName>
+        <lcc-lr:hasIndigenousName rdf:datatype="&xsd;string">māori</lcc-lr:hasIndigenousName>
         <rdfs:isDefinedBy rdf:resource="&lcc-639-1;"/>
     </owl:NamedIndividual>
 
@@ -3417,10 +3417,10 @@
         <rdf:type rdf:resource="&lcc-lr;LivingLanguage"/>
         <rdfs:label>Marathi</rdfs:label>
         <skos:definition rdf:datatype="&xsd;string">Marathi language</skos:definition>
-        <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">marathe</lcc-lr:hasFrenchName>
-        <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Marathi</lcc-lr:hasEnglishName>
-        <lcc-lr:hasGermanName rdf:datatype="&xsd;string">Marathi</lcc-lr:hasGermanName>
-        <lcc-lr:hasIndigenousName rdf:datatype="&xsd;string">mar&#257;&#7789;&#299;</lcc-lr:hasIndigenousName>
+        <lcc-lr:hasFrenchName xml:lang="fr">marathe</lcc-lr:hasFrenchName>
+        <lcc-lr:hasEnglishName xml:lang="en">Marathi</lcc-lr:hasEnglishName>
+        <lcc-lr:hasGermanName xml:lang="ge">Marathi</lcc-lr:hasGermanName>
+        <lcc-lr:hasIndigenousName rdf:datatype="&xsd;string">marāṭī</lcc-lr:hasIndigenousName>
         <rdfs:isDefinedBy rdf:resource="&lcc-639-1;"/>
     </owl:NamedIndividual>
 
@@ -3429,10 +3429,10 @@
         <rdf:type rdf:resource="&lcc-lr;LivingLanguage"/>
         <rdfs:label>Marshallese</rdfs:label>
         <skos:definition rdf:datatype="&xsd;string">Marshallese language</skos:definition>
-        <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Marshallese</lcc-lr:hasEnglishName>
-        <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">marshall</lcc-lr:hasFrenchName>
-        <lcc-lr:hasGermanName rdf:datatype="&xsd;string">Marschallesisch</lcc-lr:hasGermanName>
-        <lcc-lr:hasIndigenousName rdf:datatype="&xsd;string">M&#807;aje&#322;</lcc-lr:hasIndigenousName>
+        <lcc-lr:hasEnglishName xml:lang="en">Marshallese</lcc-lr:hasEnglishName>
+        <lcc-lr:hasFrenchName xml:lang="fr">marshall</lcc-lr:hasFrenchName>
+        <lcc-lr:hasGermanName xml:lang="ge">Marschallesisch</lcc-lr:hasGermanName>
+        <lcc-lr:hasIndigenousName rdf:datatype="&xsd;string">M̧ajeł</lcc-lr:hasIndigenousName>
         <rdfs:isDefinedBy rdf:resource="&lcc-639-1;"/>
     </owl:NamedIndividual>
 
@@ -3441,9 +3441,9 @@
         <rdf:type rdf:resource="&lcc-lr;LivingLanguage"/>
         <rdfs:label>Mongolian</rdfs:label>
         <skos:definition rdf:datatype="&xsd;string">Mongolian languages</skos:definition>
-        <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Mongolian</lcc-lr:hasEnglishName>
-        <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">mongol</lcc-lr:hasFrenchName>
-        <lcc-lr:hasGermanName rdf:datatype="&xsd;string">Mongolisch</lcc-lr:hasGermanName>
+        <lcc-lr:hasEnglishName xml:lang="en">Mongolian</lcc-lr:hasEnglishName>
+        <lcc-lr:hasFrenchName xml:lang="fr">mongol</lcc-lr:hasFrenchName>
+        <lcc-lr:hasGermanName xml:lang="ge">Mongolisch</lcc-lr:hasGermanName>
         <lcc-lr:hasIndigenousName rdf:datatype="&xsd;string">mongol</lcc-lr:hasIndigenousName>
         <rdfs:isDefinedBy rdf:resource="&lcc-639-1;"/>
     </owl:NamedIndividual>
@@ -3453,9 +3453,9 @@
         <rdf:type rdf:resource="&lcc-lr;LivingLanguage"/>
         <rdfs:label>Nauru</rdfs:label>
         <skos:definition rdf:datatype="&xsd;string">Nauru language</skos:definition>
-        <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Nauru</lcc-lr:hasEnglishName>
-        <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">nauri</lcc-lr:hasFrenchName>
-        <lcc-lr:hasGermanName rdf:datatype="&xsd;string">Nauruanisch</lcc-lr:hasGermanName>
+        <lcc-lr:hasEnglishName xml:lang="en">Nauru</lcc-lr:hasEnglishName>
+        <lcc-lr:hasFrenchName xml:lang="fr">nauri</lcc-lr:hasFrenchName>
+        <lcc-lr:hasGermanName xml:lang="ge">Nauruanisch</lcc-lr:hasGermanName>
         <lcc-lr:hasIndigenousName rdf:datatype="&xsd;string">nauru</lcc-lr:hasIndigenousName>
         <rdfs:isDefinedBy rdf:resource="&lcc-639-1;"/>
     </owl:NamedIndividual>
@@ -3465,11 +3465,11 @@
         <rdf:type rdf:resource="&lcc-lr;LivingLanguage"/>
         <rdfs:label>Navajo</rdfs:label>
         <skos:definition rdf:datatype="&xsd;string">Navajo language</skos:definition>
-        <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Navaho</lcc-lr:hasEnglishName>
-        <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Navajo</lcc-lr:hasEnglishName>
-        <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">navaho</lcc-lr:hasFrenchName>
-        <lcc-lr:hasIndigenousName rdf:datatype="&xsd;string">din&#233; bizaad</lcc-lr:hasIndigenousName>
-        <lcc-lr:hasGermanName rdf:datatype="&xsd;string">Navajo-Sprache</lcc-lr:hasGermanName>
+        <lcc-lr:hasEnglishName xml:lang="en">Navaho</lcc-lr:hasEnglishName>
+        <lcc-lr:hasEnglishName xml:lang="en">Navajo</lcc-lr:hasEnglishName>
+        <lcc-lr:hasFrenchName xml:lang="fr">navaho</lcc-lr:hasFrenchName>
+        <lcc-lr:hasIndigenousName rdf:datatype="&xsd;string">diné bizaad</lcc-lr:hasIndigenousName>
+        <lcc-lr:hasGermanName xml:lang="ge">Navajo-Sprache</lcc-lr:hasGermanName>
         <rdfs:isDefinedBy rdf:resource="&lcc-639-1;"/>
     </owl:NamedIndividual>
 
@@ -3478,9 +3478,9 @@
         <rdf:type rdf:resource="&lcc-lr;LivingLanguage"/>
         <rdfs:label>North Ndebele</rdfs:label>
         <skos:definition rdf:datatype="&xsd;string">North Ndebele language</skos:definition>
-        <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">North Ndebele</lcc-lr:hasEnglishName>
-        <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">nd&#233;b&#233;l&#233; du Nord</lcc-lr:hasFrenchName>
-        <lcc-lr:hasGermanName rdf:datatype="&xsd;string">Ndebele-Sprache (Simbabwe)</lcc-lr:hasGermanName>
+        <lcc-lr:hasEnglishName xml:lang="en">North Ndebele</lcc-lr:hasEnglishName>
+        <lcc-lr:hasFrenchName xml:lang="fr">ndébélé du Nord</lcc-lr:hasFrenchName>
+        <lcc-lr:hasGermanName xml:lang="ge">Ndebele-Sprache (Simbabwe)</lcc-lr:hasGermanName>
         <lcc-lr:hasIndigenousName rdf:datatype="&xsd;string">isiNdebele</lcc-lr:hasIndigenousName>
         <rdfs:isDefinedBy rdf:resource="&lcc-639-1;"/>
     </owl:NamedIndividual>
@@ -3490,9 +3490,9 @@
         <rdf:type rdf:resource="&lcc-lr;LivingLanguage"/>
         <rdfs:label>South Ndebele</rdfs:label>
         <skos:definition rdf:datatype="&xsd;string">South Ndebele language</skos:definition>
-        <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">South Ndebele</lcc-lr:hasEnglishName>
-        <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">nd&#233;b&#233;l&#233; du Sud</lcc-lr:hasFrenchName>
-        <lcc-lr:hasGermanName rdf:datatype="&xsd;string">Ndebele-Sprache (Transvaal)</lcc-lr:hasGermanName>
+        <lcc-lr:hasEnglishName xml:lang="en">South Ndebele</lcc-lr:hasEnglishName>
+        <lcc-lr:hasFrenchName xml:lang="fr">ndébélé du Sud</lcc-lr:hasFrenchName>
+        <lcc-lr:hasGermanName xml:lang="ge">Ndebele-Sprache (Transvaal)</lcc-lr:hasGermanName>
         <lcc-lr:hasIndigenousName rdf:datatype="&xsd;string">isiNdebele</lcc-lr:hasIndigenousName>
         <rdfs:isDefinedBy rdf:resource="&lcc-639-1;"/>
     </owl:NamedIndividual>
@@ -3502,9 +3502,9 @@
         <rdf:type rdf:resource="&lcc-lr;LivingLanguage"/>
         <rdfs:label>Ndonga</rdfs:label>
         <skos:definition rdf:datatype="&xsd;string">Ndonga language</skos:definition>
-        <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Ndonga</lcc-lr:hasEnglishName>
-        <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">ndonga</lcc-lr:hasFrenchName>
-        <lcc-lr:hasGermanName rdf:datatype="&xsd;string">Ndonga</lcc-lr:hasGermanName>
+        <lcc-lr:hasEnglishName xml:lang="en">Ndonga</lcc-lr:hasEnglishName>
+        <lcc-lr:hasFrenchName xml:lang="fr">ndonga</lcc-lr:hasFrenchName>
+        <lcc-lr:hasGermanName xml:lang="ge">Ndonga</lcc-lr:hasGermanName>
         <lcc-lr:hasIndigenousName rdf:datatype="&xsd;string">oshindonga</lcc-lr:hasIndigenousName>
         <rdfs:isDefinedBy rdf:resource="&lcc-639-1;"/>
     </owl:NamedIndividual>
@@ -3514,10 +3514,10 @@
         <rdf:type rdf:resource="&lcc-lr;LivingLanguage"/>
         <rdfs:label>Nepali</rdfs:label>
         <skos:definition rdf:datatype="&xsd;string">Nepali language</skos:definition>
-        <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Nepali</lcc-lr:hasEnglishName>
-        <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">n&#233;palais</lcc-lr:hasFrenchName>
-        <lcc-lr:hasGermanName rdf:datatype="&xsd;string">Nepali</lcc-lr:hasGermanName>
-        <lcc-lr:hasIndigenousName rdf:datatype="&xsd;string">nep&#257;l&#299;</lcc-lr:hasIndigenousName>
+        <lcc-lr:hasEnglishName xml:lang="en">Nepali</lcc-lr:hasEnglishName>
+        <lcc-lr:hasFrenchName xml:lang="fr">népalais</lcc-lr:hasFrenchName>
+        <lcc-lr:hasGermanName xml:lang="ge">Nepali</lcc-lr:hasGermanName>
+        <lcc-lr:hasIndigenousName rdf:datatype="&xsd;string">nepālī</lcc-lr:hasIndigenousName>
         <rdfs:isDefinedBy rdf:resource="&lcc-639-1;"/>
     </owl:NamedIndividual>
 
@@ -3526,9 +3526,9 @@
         <rdf:type rdf:resource="&lcc-lr;LivingLanguage"/>
         <rdfs:label>Norwegian</rdfs:label>
         <skos:definition rdf:datatype="&xsd;string">Norwegian language</skos:definition>
-        <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Norwegian</lcc-lr:hasEnglishName>
-        <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">norv&#233;gien</lcc-lr:hasFrenchName>
-        <lcc-lr:hasGermanName rdf:datatype="&xsd;string">Norwegisch</lcc-lr:hasGermanName>
+        <lcc-lr:hasEnglishName xml:lang="en">Norwegian</lcc-lr:hasEnglishName>
+        <lcc-lr:hasFrenchName xml:lang="fr">norvégien</lcc-lr:hasFrenchName>
+        <lcc-lr:hasGermanName xml:lang="ge">Norwegisch</lcc-lr:hasGermanName>
         <lcc-lr:hasIndigenousName rdf:datatype="&xsd;string">norsk</lcc-lr:hasIndigenousName>
         <rdfs:isDefinedBy rdf:resource="&lcc-639-1;"/>
     </owl:NamedIndividual>
@@ -3538,10 +3538,10 @@
         <rdf:type rdf:resource="&lcc-lr;LivingLanguage"/>
         <rdfs:label>Norwegian Bokmal</rdfs:label>
         <skos:definition rdf:datatype="&xsd;string">Norwegian Bokmal language</skos:definition>
-        <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Norwegian Bokm&#229;l</lcc-lr:hasEnglishName>
-        <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">norv&#233;gien bokm&#229;l</lcc-lr:hasFrenchName>
-        <lcc-lr:hasGermanName rdf:datatype="&xsd;string">Bokm&#229;l</lcc-lr:hasGermanName>
-        <lcc-lr:hasIndigenousName rdf:datatype="&xsd;string">bokm&#229;l</lcc-lr:hasIndigenousName>
+        <lcc-lr:hasEnglishName xml:lang="en">Norwegian Bokmål</lcc-lr:hasEnglishName>
+        <lcc-lr:hasFrenchName xml:lang="fr">norvégien bokmål</lcc-lr:hasFrenchName>
+        <lcc-lr:hasGermanName xml:lang="ge">Bokmål</lcc-lr:hasGermanName>
+        <lcc-lr:hasIndigenousName rdf:datatype="&xsd;string">bokmål</lcc-lr:hasIndigenousName>
         <rdfs:isDefinedBy rdf:resource="&lcc-639-1;"/>
     </owl:NamedIndividual>
 
@@ -3550,9 +3550,9 @@
         <rdf:type rdf:resource="&lcc-lr;LivingLanguage"/>
         <rdfs:label>Norwegian Nynorsk</rdfs:label>
         <skos:definition rdf:datatype="&xsd;string">Norwegian Nynorsk language</skos:definition>
-        <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Norwegian Nynorsk</lcc-lr:hasEnglishName>
-        <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">norv&#233;gien nynorsk</lcc-lr:hasFrenchName>
-        <lcc-lr:hasGermanName rdf:datatype="&xsd;string">Nynorsk</lcc-lr:hasGermanName>
+        <lcc-lr:hasEnglishName xml:lang="en">Norwegian Nynorsk</lcc-lr:hasEnglishName>
+        <lcc-lr:hasFrenchName xml:lang="fr">norvégien nynorsk</lcc-lr:hasFrenchName>
+        <lcc-lr:hasGermanName xml:lang="ge">Nynorsk</lcc-lr:hasGermanName>
         <lcc-lr:hasIndigenousName rdf:datatype="&xsd;string">nynorsk</lcc-lr:hasIndigenousName>
         <rdfs:isDefinedBy rdf:resource="&lcc-639-1;"/>
     </owl:NamedIndividual>
@@ -3562,13 +3562,13 @@
         <rdf:type rdf:resource="&lcc-lr;LivingLanguage"/>
         <rdfs:label>Nyanja</rdfs:label>
         <skos:definition rdf:datatype="&xsd;string">Nyanja language</skos:definition>
-        <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Chewa</lcc-lr:hasEnglishName>
-        <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Chichewa</lcc-lr:hasEnglishName>
-        <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Nyanja</lcc-lr:hasEnglishName>
-        <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">chewa</lcc-lr:hasFrenchName>
-        <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">chichewa</lcc-lr:hasFrenchName>
-        <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">nyanja</lcc-lr:hasFrenchName>
-        <lcc-lr:hasGermanName rdf:datatype="&xsd;string">Nyanja-Sprache</lcc-lr:hasGermanName>
+        <lcc-lr:hasEnglishName xml:lang="en">Chewa</lcc-lr:hasEnglishName>
+        <lcc-lr:hasEnglishName xml:lang="en">Chichewa</lcc-lr:hasEnglishName>
+        <lcc-lr:hasEnglishName xml:lang="en">Nyanja</lcc-lr:hasEnglishName>
+        <lcc-lr:hasFrenchName xml:lang="fr">chewa</lcc-lr:hasFrenchName>
+        <lcc-lr:hasFrenchName xml:lang="fr">chichewa</lcc-lr:hasFrenchName>
+        <lcc-lr:hasFrenchName xml:lang="fr">nyanja</lcc-lr:hasFrenchName>
+        <lcc-lr:hasGermanName xml:lang="ge">Nyanja-Sprache</lcc-lr:hasGermanName>
         <lcc-lr:hasIndigenousName rdf:datatype="&xsd;string">tshichewa</lcc-lr:hasIndigenousName>
         <lcc-lr:hasIndigenousName rdf:datatype="&xsd;string">tshinyanja</lcc-lr:hasIndigenousName>
         <rdfs:isDefinedBy rdf:resource="&lcc-639-1;"/>
@@ -3579,9 +3579,9 @@
         <rdf:type rdf:resource="&lcc-lr;LivingLanguage"/>
         <rdfs:label>Occitan</rdfs:label>
         <skos:definition rdf:datatype="&xsd;string">Occitan (post 1500) language</skos:definition>
-        <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Occitan (post 1500)</lcc-lr:hasEnglishName>
-        <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">occitan (après 1500)</lcc-lr:hasFrenchName>
-        <lcc-lr:hasGermanName rdf:datatype="&xsd;string">Okzitanisch</lcc-lr:hasGermanName>
+        <lcc-lr:hasEnglishName xml:lang="en">Occitan (post 1500)</lcc-lr:hasEnglishName>
+        <lcc-lr:hasFrenchName xml:lang="fr">occitan (après 1500)</lcc-lr:hasFrenchName>
+        <lcc-lr:hasGermanName xml:lang="ge">Okzitanisch</lcc-lr:hasGermanName>
         <lcc-lr:hasIndigenousName rdf:datatype="&xsd;string">occitan</lcc-lr:hasIndigenousName>
         <rdfs:isDefinedBy rdf:resource="&lcc-639-1;"/>
     </owl:NamedIndividual>
@@ -3591,9 +3591,9 @@
         <rdf:type rdf:resource="&lcc-lr;LivingLanguage"/>
         <rdfs:label>Ojibwa</rdfs:label>
         <skos:definition rdf:datatype="&xsd;string">Ojibwa languages</skos:definition>
-        <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Ojibwa</lcc-lr:hasEnglishName>
-        <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">ojibwa</lcc-lr:hasFrenchName>
-        <lcc-lr:hasGermanName rdf:datatype="&xsd;string">Ojibwa-Sprache</lcc-lr:hasGermanName>
+        <lcc-lr:hasEnglishName xml:lang="en">Ojibwa</lcc-lr:hasEnglishName>
+        <lcc-lr:hasFrenchName xml:lang="fr">ojibwa</lcc-lr:hasFrenchName>
+        <lcc-lr:hasGermanName xml:lang="ge">Ojibwa-Sprache</lcc-lr:hasGermanName>
         <lcc-lr:hasIndigenousName rdf:datatype="&xsd;string">chippewa</lcc-lr:hasIndigenousName>
         <lcc-lr:hasIndigenousName rdf:datatype="&xsd;string">ojibwe</lcc-lr:hasIndigenousName>
         <rdfs:isDefinedBy rdf:resource="&lcc-639-1;"/>
@@ -3604,10 +3604,10 @@
         <rdf:type rdf:resource="&lcc-lr;LivingLanguage"/>
         <skos:definition rdf:datatype="&xsd;string">Oriya language</skos:definition>
         <rdfs:label>Oriya</rdfs:label>
-        <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Oriya</lcc-lr:hasEnglishName>
-        <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">oriya</lcc-lr:hasFrenchName>
-        <lcc-lr:hasGermanName rdf:datatype="&xsd;string">Oriya-Sprache</lcc-lr:hasGermanName>
-        <lcc-lr:hasIndigenousName rdf:datatype="&xsd;string">o&#7771;i&#257;</lcc-lr:hasIndigenousName>
+        <lcc-lr:hasEnglishName xml:lang="en">Oriya</lcc-lr:hasEnglishName>
+        <lcc-lr:hasFrenchName xml:lang="fr">oriya</lcc-lr:hasFrenchName>
+        <lcc-lr:hasGermanName xml:lang="ge">Oriya-Sprache</lcc-lr:hasGermanName>
+        <lcc-lr:hasIndigenousName rdf:datatype="&xsd;string">oṛiā</lcc-lr:hasIndigenousName>
         <rdfs:isDefinedBy rdf:resource="&lcc-639-1;"/>
     </owl:NamedIndividual>
 
@@ -3616,13 +3616,13 @@
         <rdf:type rdf:resource="&lcc-lr;LivingLanguage"/>
         <rdfs:label>Oromo</rdfs:label>
         <skos:definition rdf:datatype="&xsd;string">Oromo languages</skos:definition>
-        <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Afan Oromo</lcc-lr:hasEnglishName>
-        <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Galla</lcc-lr:hasEnglishName>
-        <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Oromo</lcc-lr:hasEnglishName>
-        <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">galla</lcc-lr:hasFrenchName>
-        <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">afan oromo</lcc-lr:hasFrenchName>
-        <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">oromo</lcc-lr:hasFrenchName>
-        <lcc-lr:hasGermanName rdf:datatype="&xsd;string">Galla-Sprache</lcc-lr:hasGermanName>
+        <lcc-lr:hasEnglishName xml:lang="en">Afan Oromo</lcc-lr:hasEnglishName>
+        <lcc-lr:hasEnglishName xml:lang="en">Galla</lcc-lr:hasEnglishName>
+        <lcc-lr:hasEnglishName xml:lang="en">Oromo</lcc-lr:hasEnglishName>
+        <lcc-lr:hasFrenchName xml:lang="fr">galla</lcc-lr:hasFrenchName>
+        <lcc-lr:hasFrenchName xml:lang="fr">afan oromo</lcc-lr:hasFrenchName>
+        <lcc-lr:hasFrenchName xml:lang="fr">oromo</lcc-lr:hasFrenchName>
+        <lcc-lr:hasGermanName xml:lang="ge">Galla-Sprache</lcc-lr:hasGermanName>
         <lcc-lr:hasIndigenousName rdf:datatype="&xsd;string">(afan) oromo</lcc-lr:hasIndigenousName>
         <rdfs:isDefinedBy rdf:resource="&lcc-639-1;"/>
     </owl:NamedIndividual>
@@ -3632,11 +3632,11 @@
         <rdf:type rdf:resource="&lcc-lr;LivingLanguage"/>
         <rdfs:label>Ossetian</rdfs:label>
         <skos:definition rdf:datatype="&xsd;string">Ossetian; Ossetic language</skos:definition>
-        <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Ossetian</lcc-lr:hasEnglishName>
-        <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Ossetic</lcc-lr:hasEnglishName>
-        <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">oss&#232;te</lcc-lr:hasFrenchName>
-        <lcc-lr:hasGermanName rdf:datatype="&xsd;string">Ossetisch</lcc-lr:hasGermanName>
-        <lcc-lr:hasIndigenousName rdf:datatype="&xsd;string">iron avz&#230;g</lcc-lr:hasIndigenousName>
+        <lcc-lr:hasEnglishName xml:lang="en">Ossetian</lcc-lr:hasEnglishName>
+        <lcc-lr:hasEnglishName xml:lang="en">Ossetic</lcc-lr:hasEnglishName>
+        <lcc-lr:hasFrenchName xml:lang="fr">ossète</lcc-lr:hasFrenchName>
+        <lcc-lr:hasGermanName xml:lang="ge">Ossetisch</lcc-lr:hasGermanName>
+        <lcc-lr:hasIndigenousName rdf:datatype="&xsd;string">iron avzæg</lcc-lr:hasIndigenousName>
         <rdfs:isDefinedBy rdf:resource="&lcc-639-1;"/>
     </owl:NamedIndividual>
 
@@ -3645,10 +3645,10 @@
         <rdf:type rdf:resource="&lcc-lr;AncientLanguage"/>
         <rdfs:label>Pali</rdfs:label>
         <skos:definition rdf:datatype="&xsd;string">Pali language</skos:definition>
-        <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Pali</lcc-lr:hasEnglishName>
-        <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">pali</lcc-lr:hasFrenchName>
-        <lcc-lr:hasGermanName rdf:datatype="&xsd;string">Pali</lcc-lr:hasGermanName>
-        <lcc-lr:hasIndigenousName rdf:datatype="&xsd;string">p&#257;li bh&#257;sa</lcc-lr:hasIndigenousName>
+        <lcc-lr:hasEnglishName xml:lang="en">Pali</lcc-lr:hasEnglishName>
+        <lcc-lr:hasFrenchName xml:lang="fr">pali</lcc-lr:hasFrenchName>
+        <lcc-lr:hasGermanName xml:lang="ge">Pali</lcc-lr:hasGermanName>
+        <lcc-lr:hasIndigenousName rdf:datatype="&xsd;string">pāli bhāsa</lcc-lr:hasIndigenousName>
         <rdfs:isDefinedBy rdf:resource="&lcc-639-1;"/>
     </owl:NamedIndividual>
 
@@ -3657,13 +3657,13 @@
         <rdf:type rdf:resource="&lcc-lr;LivingLanguage"/>
         <rdfs:label>Panjabi</rdfs:label>
         <skos:definition rdf:datatype="&xsd;string">Panjabi language</skos:definition>
-        <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Panjabi</lcc-lr:hasEnglishName>
-        <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Punjabi</lcc-lr:hasEnglishName>
-        <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">panjabi</lcc-lr:hasFrenchName>
-        <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">pendjabi</lcc-lr:hasFrenchName>
-        <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">punjabi</lcc-lr:hasFrenchName>
-        <lcc-lr:hasGermanName rdf:datatype="&xsd;string">Pandschabi-Sprache</lcc-lr:hasGermanName>
-        <lcc-lr:hasIndigenousName rdf:datatype="&xsd;string">pa&#7745;j&#257;b&#299;</lcc-lr:hasIndigenousName>
+        <lcc-lr:hasEnglishName xml:lang="en">Panjabi</lcc-lr:hasEnglishName>
+        <lcc-lr:hasEnglishName xml:lang="en">Punjabi</lcc-lr:hasEnglishName>
+        <lcc-lr:hasFrenchName xml:lang="fr">panjabi</lcc-lr:hasFrenchName>
+        <lcc-lr:hasFrenchName xml:lang="fr">pendjabi</lcc-lr:hasFrenchName>
+        <lcc-lr:hasFrenchName xml:lang="fr">punjabi</lcc-lr:hasFrenchName>
+        <lcc-lr:hasGermanName xml:lang="ge">Pandschabi-Sprache</lcc-lr:hasGermanName>
+        <lcc-lr:hasIndigenousName rdf:datatype="&xsd;string">paṁjābī</lcc-lr:hasIndigenousName>
         <rdfs:isDefinedBy rdf:resource="&lcc-639-1;"/>
     </owl:NamedIndividual>
 
@@ -3672,12 +3672,12 @@
         <rdf:type rdf:resource="&lcc-lr;LivingLanguage"/>
         <rdfs:label>Persian</rdfs:label>
         <skos:definition rdf:datatype="&xsd;string">Persian languages</skos:definition>
-        <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Farsi</lcc-lr:hasEnglishName>
-        <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Persian</lcc-lr:hasEnglishName>
-        <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">farsi</lcc-lr:hasFrenchName>
-        <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">persan</lcc-lr:hasFrenchName>
-        <lcc-lr:hasGermanName rdf:datatype="&xsd;string">Persisch</lcc-lr:hasGermanName>
-        <lcc-lr:hasIndigenousName rdf:datatype="&xsd;string">f&#226;rsy</lcc-lr:hasIndigenousName>
+        <lcc-lr:hasEnglishName xml:lang="en">Farsi</lcc-lr:hasEnglishName>
+        <lcc-lr:hasEnglishName xml:lang="en">Persian</lcc-lr:hasEnglishName>
+        <lcc-lr:hasFrenchName xml:lang="fr">farsi</lcc-lr:hasFrenchName>
+        <lcc-lr:hasFrenchName xml:lang="fr">persan</lcc-lr:hasFrenchName>
+        <lcc-lr:hasGermanName xml:lang="ge">Persisch</lcc-lr:hasGermanName>
+        <lcc-lr:hasIndigenousName rdf:datatype="&xsd;string">fârsy</lcc-lr:hasIndigenousName>
         <rdfs:isDefinedBy rdf:resource="&lcc-639-1;"/>
     </owl:NamedIndividual>
 
@@ -3686,10 +3686,10 @@
         <rdf:type rdf:resource="&lcc-lr;LivingLanguage"/>
         <rdfs:label>Polish</rdfs:label>
         <skos:definition rdf:datatype="&xsd;string">Polish language</skos:definition>
-        <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Polish</lcc-lr:hasEnglishName>
-        <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">polonais</lcc-lr:hasFrenchName>
-        <lcc-lr:hasGermanName rdf:datatype="&xsd;string">Polnisch</lcc-lr:hasGermanName>
-        <lcc-lr:hasIndigenousName rdf:datatype="&xsd;string">(j&#281;zyk) polski</lcc-lr:hasIndigenousName>
+        <lcc-lr:hasEnglishName xml:lang="en">Polish</lcc-lr:hasEnglishName>
+        <lcc-lr:hasFrenchName xml:lang="fr">polonais</lcc-lr:hasFrenchName>
+        <lcc-lr:hasGermanName xml:lang="ge">Polnisch</lcc-lr:hasGermanName>
+        <lcc-lr:hasIndigenousName rdf:datatype="&xsd;string">(język) polski</lcc-lr:hasIndigenousName>
         <rdfs:isDefinedBy rdf:resource="&lcc-639-1;"/>
     </owl:NamedIndividual>
 
@@ -3698,10 +3698,10 @@
         <rdf:type rdf:resource="&lcc-lr;LivingLanguage"/>
         <rdfs:label>Portuguese</rdfs:label>
         <skos:definition rdf:datatype="&xsd;string">Portuguese language</skos:definition>
-        <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Portuguese</lcc-lr:hasEnglishName>
-        <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">portugais</lcc-lr:hasFrenchName>
-        <lcc-lr:hasGermanName rdf:datatype="&xsd;string">Portugiesisch</lcc-lr:hasGermanName>
-        <lcc-lr:hasIndigenousName rdf:datatype="&xsd;string">portugu&#234;s</lcc-lr:hasIndigenousName>
+        <lcc-lr:hasEnglishName xml:lang="en">Portuguese</lcc-lr:hasEnglishName>
+        <lcc-lr:hasFrenchName xml:lang="fr">portugais</lcc-lr:hasFrenchName>
+        <lcc-lr:hasGermanName xml:lang="ge">Portugiesisch</lcc-lr:hasGermanName>
+        <lcc-lr:hasIndigenousName rdf:datatype="&xsd;string">português</lcc-lr:hasIndigenousName>
         <rdfs:isDefinedBy rdf:resource="&lcc-639-1;"/>
     </owl:NamedIndividual>
 
@@ -3710,10 +3710,10 @@
         <rdf:type rdf:resource="&lcc-lr;LivingLanguage"/>
         <rdfs:label>Pushto</rdfs:label>
         <skos:definition rdf:datatype="&xsd;string">Pushto languages</skos:definition>
-        <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Pashto</lcc-lr:hasEnglishName>
-        <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Pushto</lcc-lr:hasEnglishName>
-        <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">pachto</lcc-lr:hasFrenchName>
-        <lcc-lr:hasGermanName rdf:datatype="&xsd;string">Paschtu</lcc-lr:hasGermanName>
+        <lcc-lr:hasEnglishName xml:lang="en">Pashto</lcc-lr:hasEnglishName>
+        <lcc-lr:hasEnglishName xml:lang="en">Pushto</lcc-lr:hasEnglishName>
+        <lcc-lr:hasFrenchName xml:lang="fr">pachto</lcc-lr:hasFrenchName>
+        <lcc-lr:hasGermanName xml:lang="ge">Paschtu</lcc-lr:hasGermanName>
         <lcc-lr:hasIndigenousName rdf:datatype="&xsd;string">pashto</lcc-lr:hasIndigenousName>
         <rdfs:isDefinedBy rdf:resource="&lcc-639-1;"/>
     </owl:NamedIndividual>
@@ -3723,11 +3723,11 @@
         <rdf:type rdf:resource="&lcc-lr;LivingLanguage"/>
         <rdfs:label>Quechua</rdfs:label>
         <skos:definition rdf:datatype="&xsd;string">Quechua languages</skos:definition>
-        <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Quechua</lcc-lr:hasEnglishName>
-        <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">quechua</lcc-lr:hasFrenchName>
-        <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">quichua</lcc-lr:hasFrenchName>
-        <lcc-lr:hasGermanName rdf:datatype="&xsd;string">Quechua-Sprache</lcc-lr:hasGermanName>
-        <lcc-lr:hasIndigenousName rdf:datatype="&xsd;string">qh&#235;tshwa</lcc-lr:hasIndigenousName>
+        <lcc-lr:hasEnglishName xml:lang="en">Quechua</lcc-lr:hasEnglishName>
+        <lcc-lr:hasFrenchName xml:lang="fr">quechua</lcc-lr:hasFrenchName>
+        <lcc-lr:hasFrenchName xml:lang="fr">quichua</lcc-lr:hasFrenchName>
+        <lcc-lr:hasGermanName xml:lang="ge">Quechua-Sprache</lcc-lr:hasGermanName>
+        <lcc-lr:hasIndigenousName rdf:datatype="&xsd;string">qhëtshwa</lcc-lr:hasIndigenousName>
         <rdfs:isDefinedBy rdf:resource="&lcc-639-1;"/>
     </owl:NamedIndividual>
 
@@ -3736,14 +3736,14 @@
         <rdf:type rdf:resource="&lcc-lr;LivingLanguage"/>
         <rdfs:label>Romanian</rdfs:label>
         <skos:definition rdf:datatype="&xsd;string">Romanian language</skos:definition>
-        <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Romanian</lcc-lr:hasEnglishName>
-        <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Moldavian</lcc-lr:hasEnglishName>
-        <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Moldovan</lcc-lr:hasEnglishName>
-        <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">roumain</lcc-lr:hasFrenchName>
-        <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">moldave</lcc-lr:hasFrenchName>
-        <lcc-lr:hasGermanName rdf:datatype="&xsd;string">Rum&#228;nisch</lcc-lr:hasGermanName>
-        <lcc-lr:hasIndigenousName rdf:datatype="&xsd;string">(limba) rom&#226;n&#259;</lcc-lr:hasIndigenousName>
-        <lcc-lr:hasIndigenousName rdf:datatype="&xsd;string">(limba) moldovean&#462;</lcc-lr:hasIndigenousName>
+        <lcc-lr:hasEnglishName xml:lang="en">Romanian</lcc-lr:hasEnglishName>
+        <lcc-lr:hasEnglishName xml:lang="en">Moldavian</lcc-lr:hasEnglishName>
+        <lcc-lr:hasEnglishName xml:lang="en">Moldovan</lcc-lr:hasEnglishName>
+        <lcc-lr:hasFrenchName xml:lang="fr">roumain</lcc-lr:hasFrenchName>
+        <lcc-lr:hasFrenchName xml:lang="fr">moldave</lcc-lr:hasFrenchName>
+        <lcc-lr:hasGermanName xml:lang="ge">Rumänisch</lcc-lr:hasGermanName>
+        <lcc-lr:hasIndigenousName rdf:datatype="&xsd;string">(limba) română</lcc-lr:hasIndigenousName>
+        <lcc-lr:hasIndigenousName rdf:datatype="&xsd;string">(limba) moldoveanǎ</lcc-lr:hasIndigenousName>
         <rdfs:isDefinedBy rdf:resource="&lcc-639-1;"/>
     </owl:NamedIndividual>
 
@@ -3752,9 +3752,9 @@
         <rdf:type rdf:resource="&lcc-lr;LivingLanguage"/>
         <rdfs:label>Romansh</rdfs:label>
         <skos:definition rdf:datatype="&xsd;string">Romansh language</skos:definition>
-        <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Romansh</lcc-lr:hasEnglishName>
-        <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">romanche</lcc-lr:hasFrenchName>
-        <lcc-lr:hasGermanName rdf:datatype="&xsd;string">R&#228;toromanisch</lcc-lr:hasGermanName>
+        <lcc-lr:hasEnglishName xml:lang="en">Romansh</lcc-lr:hasEnglishName>
+        <lcc-lr:hasFrenchName xml:lang="fr">romanche</lcc-lr:hasFrenchName>
+        <lcc-lr:hasGermanName xml:lang="ge">Rätoromanisch</lcc-lr:hasGermanName>
         <lcc-lr:hasIndigenousName rdf:datatype="&xsd;string">romontsch</lcc-lr:hasIndigenousName>
         <rdfs:isDefinedBy rdf:resource="&lcc-639-1;"/>
     </owl:NamedIndividual>
@@ -3764,10 +3764,10 @@
         <rdf:type rdf:resource="&lcc-lr;LivingLanguage"/>
         <rdfs:label>Rundi</rdfs:label>
         <skos:definition rdf:datatype="&xsd;string">Rundi language</skos:definition>
-        <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Kirundi</lcc-lr:hasEnglishName>
-        <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Rundi</lcc-lr:hasEnglishName>
-        <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">kirundi</lcc-lr:hasFrenchName>
-        <lcc-lr:hasGermanName rdf:datatype="&xsd;string">Rundi-Sprache</lcc-lr:hasGermanName>
+        <lcc-lr:hasEnglishName xml:lang="en">Kirundi</lcc-lr:hasEnglishName>
+        <lcc-lr:hasEnglishName xml:lang="en">Rundi</lcc-lr:hasEnglishName>
+        <lcc-lr:hasFrenchName xml:lang="fr">kirundi</lcc-lr:hasFrenchName>
+        <lcc-lr:hasGermanName xml:lang="ge">Rundi-Sprache</lcc-lr:hasGermanName>
         <lcc-lr:hasIndigenousName rdf:datatype="&xsd;string">kirundi</lcc-lr:hasIndigenousName>
         <rdfs:isDefinedBy rdf:resource="&lcc-639-1;"/>
     </owl:NamedIndividual>
@@ -3777,10 +3777,10 @@
         <rdf:type rdf:resource="&lcc-lr;LivingLanguage"/>
         <rdfs:label>Russian</rdfs:label>
         <skos:definition rdf:datatype="&xsd;string">Russian language</skos:definition>
-        <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Russian</lcc-lr:hasEnglishName>
-        <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">russe</lcc-lr:hasFrenchName>
-        <lcc-lr:hasGermanName rdf:datatype="&xsd;string">Russisch</lcc-lr:hasGermanName>
-        <lcc-lr:hasIndigenousName rdf:datatype="&xsd;string">russkij (&#226;zyk)</lcc-lr:hasIndigenousName>
+        <lcc-lr:hasEnglishName xml:lang="en">Russian</lcc-lr:hasEnglishName>
+        <lcc-lr:hasFrenchName xml:lang="fr">russe</lcc-lr:hasFrenchName>
+        <lcc-lr:hasGermanName xml:lang="ge">Russisch</lcc-lr:hasGermanName>
+        <lcc-lr:hasIndigenousName rdf:datatype="&xsd;string">russkij (âzyk)</lcc-lr:hasIndigenousName>
         <rdfs:isDefinedBy rdf:resource="&lcc-639-1;"/>
     </owl:NamedIndividual>
 
@@ -3789,10 +3789,10 @@
         <rdf:type rdf:resource="&lcc-lr;LivingLanguage"/>
         <rdfs:label>Northern Sami</rdfs:label>
         <skos:definition rdf:datatype="&xsd;string">Northern Sami language</skos:definition>
-        <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Northern Sami</lcc-lr:hasEnglishName>
-        <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">sami du Nord</lcc-lr:hasFrenchName>
-        <lcc-lr:hasGermanName rdf:datatype="&xsd;string">Nordsaamisch</lcc-lr:hasGermanName>
-        <lcc-lr:hasIndigenousName rdf:datatype="&xsd;string">davvis&#225;megiella</lcc-lr:hasIndigenousName>
+        <lcc-lr:hasEnglishName xml:lang="en">Northern Sami</lcc-lr:hasEnglishName>
+        <lcc-lr:hasFrenchName xml:lang="fr">sami du Nord</lcc-lr:hasFrenchName>
+        <lcc-lr:hasGermanName xml:lang="ge">Nordsaamisch</lcc-lr:hasGermanName>
+        <lcc-lr:hasIndigenousName rdf:datatype="&xsd;string">davvisámegiella</lcc-lr:hasIndigenousName>
         <rdfs:isDefinedBy rdf:resource="&lcc-639-1;"/>
     </owl:NamedIndividual>
 
@@ -3801,9 +3801,9 @@
         <rdf:type rdf:resource="&lcc-lr;LivingLanguage"/>
         <rdfs:label>Samoan</rdfs:label>
         <skos:definition rdf:datatype="&xsd;string">Samoan language</skos:definition>
-        <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Samoan</lcc-lr:hasEnglishName>
-        <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">samoan</lcc-lr:hasFrenchName>
-        <lcc-lr:hasGermanName rdf:datatype="&xsd;string">Samoanisch</lcc-lr:hasGermanName>
+        <lcc-lr:hasEnglishName xml:lang="en">Samoan</lcc-lr:hasEnglishName>
+        <lcc-lr:hasFrenchName xml:lang="fr">samoan</lcc-lr:hasFrenchName>
+        <lcc-lr:hasGermanName xml:lang="ge">Samoanisch</lcc-lr:hasGermanName>
         <lcc-lr:hasIndigenousName rdf:datatype="&xsd;string">samoa</lcc-lr:hasIndigenousName>
         <rdfs:isDefinedBy rdf:resource="&lcc-639-1;"/>
     </owl:NamedIndividual>
@@ -3813,10 +3813,10 @@
         <rdf:type rdf:resource="&lcc-lr;LivingLanguage"/>
         <rdfs:label>Sango</rdfs:label>
         <skos:definition rdf:datatype="&xsd;string">Sango language</skos:definition>
-        <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Sangho</lcc-lr:hasEnglishName>
-        <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Sango</lcc-lr:hasEnglishName>
-        <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">sango</lcc-lr:hasFrenchName>
-        <lcc-lr:hasGermanName rdf:datatype="&xsd;string">Sango-Sprache</lcc-lr:hasGermanName>
+        <lcc-lr:hasEnglishName xml:lang="en">Sangho</lcc-lr:hasEnglishName>
+        <lcc-lr:hasEnglishName xml:lang="en">Sango</lcc-lr:hasEnglishName>
+        <lcc-lr:hasFrenchName xml:lang="fr">sango</lcc-lr:hasFrenchName>
+        <lcc-lr:hasGermanName xml:lang="ge">Sango-Sprache</lcc-lr:hasGermanName>
         <lcc-lr:hasIndigenousName rdf:datatype="&xsd;string">sango</lcc-lr:hasIndigenousName>
         <rdfs:isDefinedBy rdf:resource="&lcc-639-1;"/>
     </owl:NamedIndividual>
@@ -3826,10 +3826,10 @@
         <rdf:type rdf:resource="&lcc-lr;AncientLanguage"/>
         <rdfs:label>Sanskrit</rdfs:label>
         <skos:definition rdf:datatype="&xsd;string">Sanskrit language</skos:definition>
-        <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Sanskrit</lcc-lr:hasEnglishName>
-        <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">sanskrit</lcc-lr:hasFrenchName>
-        <lcc-lr:hasGermanName rdf:datatype="&xsd;string">Sanskrit</lcc-lr:hasGermanName>
-        <lcc-lr:hasIndigenousName rdf:datatype="&xsd;string">sa&#7745;skr&#805;tam</lcc-lr:hasIndigenousName>
+        <lcc-lr:hasEnglishName xml:lang="en">Sanskrit</lcc-lr:hasEnglishName>
+        <lcc-lr:hasFrenchName xml:lang="fr">sanskrit</lcc-lr:hasFrenchName>
+        <lcc-lr:hasGermanName xml:lang="ge">Sanskrit</lcc-lr:hasGermanName>
+        <lcc-lr:hasIndigenousName rdf:datatype="&xsd;string">saṁskr̥tam</lcc-lr:hasIndigenousName>
         <rdfs:isDefinedBy rdf:resource="&lcc-639-1;"/>
     </owl:NamedIndividual>
 
@@ -3838,9 +3838,9 @@
         <rdf:type rdf:resource="&lcc-lr;LivingLanguage"/>
         <rdfs:label>Sardinian</rdfs:label>
         <skos:definition rdf:datatype="&xsd;string">Sardinian languages</skos:definition>
-        <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Sardinian</lcc-lr:hasEnglishName>
-        <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">sarde</lcc-lr:hasFrenchName>
-        <lcc-lr:hasGermanName rdf:datatype="&xsd;string">Sardisch</lcc-lr:hasGermanName>
+        <lcc-lr:hasEnglishName xml:lang="en">Sardinian</lcc-lr:hasEnglishName>
+        <lcc-lr:hasFrenchName xml:lang="fr">sarde</lcc-lr:hasFrenchName>
+        <lcc-lr:hasGermanName xml:lang="ge">Sardisch</lcc-lr:hasGermanName>
         <lcc-lr:hasIndigenousName rdf:datatype="&xsd;string">sardu</lcc-lr:hasIndigenousName>
         <rdfs:isDefinedBy rdf:resource="&lcc-639-1;"/>
     </owl:NamedIndividual>
@@ -3850,12 +3850,12 @@
         <rdf:type rdf:resource="&lcc-lr;LivingLanguage"/>
         <rdfs:label>Scottish Gaelic</rdfs:label>
         <skos:definition rdf:datatype="&xsd;string">Scottish Gaelic language</skos:definition>
-        <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Gaelic</lcc-lr:hasEnglishName>
-        <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Scottish Gaelic</lcc-lr:hasEnglishName>
-        <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">ga&#233;lique</lcc-lr:hasFrenchName>
-        <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">ga&#233;lique &#233;cossais</lcc-lr:hasFrenchName>
-        <lcc-lr:hasGermanName rdf:datatype="&xsd;string">G&#228;lisch-Schottisch</lcc-lr:hasGermanName>
-        <lcc-lr:hasIndigenousName rdf:datatype="&xsd;string">G&#224;idhlig</lcc-lr:hasIndigenousName>
+        <lcc-lr:hasEnglishName xml:lang="en">Gaelic</lcc-lr:hasEnglishName>
+        <lcc-lr:hasEnglishName xml:lang="en">Scottish Gaelic</lcc-lr:hasEnglishName>
+        <lcc-lr:hasFrenchName xml:lang="fr">gaélique</lcc-lr:hasFrenchName>
+        <lcc-lr:hasFrenchName xml:lang="fr">gaélique écossais</lcc-lr:hasFrenchName>
+        <lcc-lr:hasGermanName xml:lang="ge">Gälisch-Schottisch</lcc-lr:hasGermanName>
+        <lcc-lr:hasIndigenousName rdf:datatype="&xsd;string">Gàidhlig</lcc-lr:hasIndigenousName>
         <rdfs:isDefinedBy rdf:resource="&lcc-639-1;"/>
     </owl:NamedIndividual>
 
@@ -3864,9 +3864,9 @@
         <rdf:type rdf:resource="&lcc-lr;LivingLanguage"/>
         <rdfs:label>Serbian</rdfs:label>
         <skos:definition rdf:datatype="&xsd;string">Serbian language</skos:definition>
-        <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Serbian</lcc-lr:hasEnglishName>
-        <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">serbe</lcc-lr:hasFrenchName>
-        <lcc-lr:hasGermanName rdf:datatype="&xsd;string">Serbisch</lcc-lr:hasGermanName>
+        <lcc-lr:hasEnglishName xml:lang="en">Serbian</lcc-lr:hasEnglishName>
+        <lcc-lr:hasFrenchName xml:lang="fr">serbe</lcc-lr:hasFrenchName>
+        <lcc-lr:hasGermanName xml:lang="ge">Serbisch</lcc-lr:hasGermanName>
         <lcc-lr:hasIndigenousName rdf:datatype="&xsd;string">srpski (jezik)</lcc-lr:hasIndigenousName>
         <rdfs:isDefinedBy rdf:resource="&lcc-639-1;"/>
     </owl:NamedIndividual>
@@ -3876,9 +3876,9 @@
         <rdf:type rdf:resource="&lcc-lr;LivingLanguage"/>
         <rdfs:label>Shona</rdfs:label>
         <skos:definition rdf:datatype="&xsd;string">Shona language</skos:definition>
-        <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Shona</lcc-lr:hasEnglishName>
-        <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">shona</lcc-lr:hasFrenchName>
-        <lcc-lr:hasGermanName rdf:datatype="&xsd;string">Schona-Sprache</lcc-lr:hasGermanName>
+        <lcc-lr:hasEnglishName xml:lang="en">Shona</lcc-lr:hasEnglishName>
+        <lcc-lr:hasFrenchName xml:lang="fr">shona</lcc-lr:hasFrenchName>
+        <lcc-lr:hasGermanName xml:lang="ge">Schona-Sprache</lcc-lr:hasGermanName>
         <lcc-lr:hasIndigenousName rdf:datatype="&xsd;string">chiShona</lcc-lr:hasIndigenousName>
         <rdfs:isDefinedBy rdf:resource="&lcc-639-1;"/>
     </owl:NamedIndividual>
@@ -3888,10 +3888,10 @@
         <rdf:type rdf:resource="&lcc-lr;LivingLanguage"/>
         <rdfs:label>Sichuan Yi</rdfs:label>
         <skos:definition rdf:datatype="&xsd;string">Sichuan Yi language</skos:definition>
-        <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Sichuan Yi</lcc-lr:hasEnglishName>
-        <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Nuosu</lcc-lr:hasEnglishName>
-        <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">yi de Sichuan</lcc-lr:hasFrenchName>
-        <lcc-lr:hasGermanName rdf:datatype="&xsd;string">Lalo-Sprache</lcc-lr:hasGermanName>
+        <lcc-lr:hasEnglishName xml:lang="en">Sichuan Yi</lcc-lr:hasEnglishName>
+        <lcc-lr:hasEnglishName xml:lang="en">Nuosu</lcc-lr:hasEnglishName>
+        <lcc-lr:hasFrenchName xml:lang="fr">yi de Sichuan</lcc-lr:hasFrenchName>
+        <lcc-lr:hasGermanName xml:lang="ge">Lalo-Sprache</lcc-lr:hasGermanName>
         <rdfs:isDefinedBy rdf:resource="&lcc-639-1;"/>
     </owl:NamedIndividual>
 
@@ -3900,10 +3900,10 @@
         <rdf:type rdf:resource="&lcc-lr;LivingLanguage"/>
         <rdfs:label>Sindhi</rdfs:label>
         <skos:definition rdf:datatype="&xsd;string">Sindhi language</skos:definition>
-        <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Sindhi</lcc-lr:hasEnglishName>
-        <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">sindhi</lcc-lr:hasFrenchName>
-        <lcc-lr:hasGermanName rdf:datatype="&xsd;string">Sindhi-Sprache</lcc-lr:hasGermanName>
-        <lcc-lr:hasIndigenousName rdf:datatype="&xsd;string">sindh&#299;</lcc-lr:hasIndigenousName>
+        <lcc-lr:hasEnglishName xml:lang="en">Sindhi</lcc-lr:hasEnglishName>
+        <lcc-lr:hasFrenchName xml:lang="fr">sindhi</lcc-lr:hasFrenchName>
+        <lcc-lr:hasGermanName xml:lang="ge">Sindhi-Sprache</lcc-lr:hasGermanName>
+        <lcc-lr:hasIndigenousName rdf:datatype="&xsd;string">sindhī</lcc-lr:hasIndigenousName>
         <rdfs:isDefinedBy rdf:resource="&lcc-639-1;"/>
     </owl:NamedIndividual>
 
@@ -3912,12 +3912,12 @@
         <rdf:type rdf:resource="&lcc-lr;LivingLanguage"/>
         <rdfs:label>Sinhala</rdfs:label>
         <skos:definition rdf:datatype="&xsd;string">Sinhala; Sinhalese language</skos:definition>
-        <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Singhalese</lcc-lr:hasEnglishName>
-        <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Sinhala</lcc-lr:hasEnglishName>
-        <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Sinhala</lcc-lr:hasEnglishName>
-        <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">singhalais</lcc-lr:hasFrenchName>
-        <lcc-lr:hasGermanName rdf:datatype="&xsd;string">Singhalesisch</lcc-lr:hasGermanName>
-        <lcc-lr:hasIndigenousName rdf:datatype="&xsd;string">si&#7745;hala</lcc-lr:hasIndigenousName>
+        <lcc-lr:hasEnglishName xml:lang="en">Singhalese</lcc-lr:hasEnglishName>
+        <lcc-lr:hasEnglishName xml:lang="en">Sinhala</lcc-lr:hasEnglishName>
+        <lcc-lr:hasEnglishName xml:lang="en">Sinhala</lcc-lr:hasEnglishName>
+        <lcc-lr:hasFrenchName xml:lang="fr">singhalais</lcc-lr:hasFrenchName>
+        <lcc-lr:hasGermanName xml:lang="ge">Singhalesisch</lcc-lr:hasGermanName>
+        <lcc-lr:hasIndigenousName rdf:datatype="&xsd;string">siṁhala</lcc-lr:hasIndigenousName>
         <rdfs:isDefinedBy rdf:resource="&lcc-639-1;"/>
     </owl:NamedIndividual>
 
@@ -3926,10 +3926,10 @@
         <rdf:type rdf:resource="&lcc-lr;LivingLanguage"/>
         <rdfs:label>Slovak</rdfs:label>
         <skos:definition rdf:datatype="&xsd;string">Slovak language</skos:definition>
-        <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Slovak</lcc-lr:hasEnglishName>
-        <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">slovaque</lcc-lr:hasFrenchName>
-        <lcc-lr:hasGermanName rdf:datatype="&xsd;string">Slowakisch</lcc-lr:hasGermanName>
-        <lcc-lr:hasIndigenousName rdf:datatype="&xsd;string">slovensk&#253; (jazyk)</lcc-lr:hasIndigenousName>
+        <lcc-lr:hasEnglishName xml:lang="en">Slovak</lcc-lr:hasEnglishName>
+        <lcc-lr:hasFrenchName xml:lang="fr">slovaque</lcc-lr:hasFrenchName>
+        <lcc-lr:hasGermanName xml:lang="ge">Slowakisch</lcc-lr:hasGermanName>
+        <lcc-lr:hasIndigenousName rdf:datatype="&xsd;string">slovenský (jazyk)</lcc-lr:hasIndigenousName>
         <rdfs:isDefinedBy rdf:resource="&lcc-639-1;"/>
     </owl:NamedIndividual>
 
@@ -3938,9 +3938,9 @@
         <rdf:type rdf:resource="&lcc-lr;LivingLanguage"/>
         <rdfs:label>Slovenian</rdfs:label>
         <skos:definition rdf:datatype="&xsd;string">Slovenian language</skos:definition>
-        <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Slovenian</lcc-lr:hasEnglishName>
-        <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">slov&#232;ne</lcc-lr:hasFrenchName>
-        <lcc-lr:hasGermanName rdf:datatype="&xsd;string">Slowenisch</lcc-lr:hasGermanName>
+        <lcc-lr:hasEnglishName xml:lang="en">Slovenian</lcc-lr:hasEnglishName>
+        <lcc-lr:hasFrenchName xml:lang="fr">slovène</lcc-lr:hasFrenchName>
+        <lcc-lr:hasGermanName xml:lang="ge">Slowenisch</lcc-lr:hasGermanName>
         <lcc-lr:hasIndigenousName rdf:datatype="&xsd;string">slovenski (jezik)</lcc-lr:hasIndigenousName>
         <rdfs:isDefinedBy rdf:resource="&lcc-639-1;"/>
     </owl:NamedIndividual>
@@ -3950,9 +3950,9 @@
         <rdf:type rdf:resource="&lcc-lr;LivingLanguage"/>
         <rdfs:label>Somali</rdfs:label>
         <skos:definition rdf:datatype="&xsd;string">Somali language</skos:definition>
-        <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Somali</lcc-lr:hasEnglishName>
-        <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">somali</lcc-lr:hasFrenchName>
-        <lcc-lr:hasGermanName rdf:datatype="&xsd;string">Somali</lcc-lr:hasGermanName>
+        <lcc-lr:hasEnglishName xml:lang="en">Somali</lcc-lr:hasEnglishName>
+        <lcc-lr:hasFrenchName xml:lang="fr">somali</lcc-lr:hasFrenchName>
+        <lcc-lr:hasGermanName xml:lang="ge">Somali</lcc-lr:hasGermanName>
         <lcc-lr:hasIndigenousName rdf:datatype="&xsd;string">soomaali</lcc-lr:hasIndigenousName>
         <rdfs:isDefinedBy rdf:resource="&lcc-639-1;"/>
     </owl:NamedIndividual>
@@ -3962,11 +3962,11 @@
         <rdf:type rdf:resource="&lcc-lr;LivingLanguage"/>
         <rdfs:label>Southern Sotho</rdfs:label>
         <skos:definition rdf:datatype="&xsd;string">Southern Sotho language</skos:definition>
-        <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Sesotho</lcc-lr:hasEnglishName>
-        <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Southern Sotho</lcc-lr:hasEnglishName>
-        <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">sesotho</lcc-lr:hasFrenchName>
-        <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">sotho du Sud</lcc-lr:hasFrenchName>
-        <lcc-lr:hasGermanName rdf:datatype="&xsd;string">S&#252;d-Sotho-Sprache</lcc-lr:hasGermanName>
+        <lcc-lr:hasEnglishName xml:lang="en">Sesotho</lcc-lr:hasEnglishName>
+        <lcc-lr:hasEnglishName xml:lang="en">Southern Sotho</lcc-lr:hasEnglishName>
+        <lcc-lr:hasFrenchName xml:lang="fr">sesotho</lcc-lr:hasFrenchName>
+        <lcc-lr:hasFrenchName xml:lang="fr">sotho du Sud</lcc-lr:hasFrenchName>
+        <lcc-lr:hasGermanName xml:lang="ge">Süd-Sotho-Sprache</lcc-lr:hasGermanName>
         <lcc-lr:hasIndigenousName rdf:datatype="&xsd;string">Sesotho</lcc-lr:hasIndigenousName>
         <rdfs:isDefinedBy rdf:resource="&lcc-639-1;"/>
     </owl:NamedIndividual>
@@ -3976,13 +3976,13 @@
         <rdf:type rdf:resource="&lcc-lr;LivingLanguage"/>
         <rdfs:label>Spanish</rdfs:label>
         <skos:definition rdf:datatype="&xsd;string">Spanish language</skos:definition>
-        <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Castilian</lcc-lr:hasEnglishName>
-        <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Spanish</lcc-lr:hasEnglishName>
-        <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">castillan</lcc-lr:hasFrenchName>
-        <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">espagnol</lcc-lr:hasFrenchName>
-        <lcc-lr:hasGermanName rdf:datatype="&xsd;string">Spanisch</lcc-lr:hasGermanName>
+        <lcc-lr:hasEnglishName xml:lang="en">Castilian</lcc-lr:hasEnglishName>
+        <lcc-lr:hasEnglishName xml:lang="en">Spanish</lcc-lr:hasEnglishName>
+        <lcc-lr:hasFrenchName xml:lang="fr">castillan</lcc-lr:hasFrenchName>
+        <lcc-lr:hasFrenchName xml:lang="fr">espagnol</lcc-lr:hasFrenchName>
+        <lcc-lr:hasGermanName xml:lang="ge">Spanisch</lcc-lr:hasGermanName>
         <lcc-lr:hasIndigenousName rdf:datatype="&xsd;string">castellano</lcc-lr:hasIndigenousName>
-        <lcc-lr:hasIndigenousName rdf:datatype="&xsd;string">espa&#241;ol</lcc-lr:hasIndigenousName>
+        <lcc-lr:hasIndigenousName rdf:datatype="&xsd;string">español</lcc-lr:hasIndigenousName>
         <rdfs:isDefinedBy rdf:resource="&lcc-639-1;"/>
     </owl:NamedIndividual>
 
@@ -3991,9 +3991,9 @@
         <rdf:type rdf:resource="&lcc-lr;LivingLanguage"/>
         <rdfs:label>Sundanese</rdfs:label>
         <skos:definition rdf:datatype="&xsd;string">Sundanese languaage</skos:definition>
-        <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Sundanese</lcc-lr:hasEnglishName>
-        <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">soundanais</lcc-lr:hasFrenchName>
-        <lcc-lr:hasGermanName rdf:datatype="&xsd;string">Sundanesisch</lcc-lr:hasGermanName>
+        <lcc-lr:hasEnglishName xml:lang="en">Sundanese</lcc-lr:hasEnglishName>
+        <lcc-lr:hasFrenchName xml:lang="fr">soundanais</lcc-lr:hasFrenchName>
+        <lcc-lr:hasGermanName xml:lang="ge">Sundanesisch</lcc-lr:hasGermanName>
         <lcc-lr:hasIndigenousName rdf:datatype="&xsd;string">bahasa Sunda</lcc-lr:hasIndigenousName>
         <rdfs:isDefinedBy rdf:resource="&lcc-639-1;"/>
     </owl:NamedIndividual>
@@ -4003,10 +4003,10 @@
         <rdf:type rdf:resource="&lcc-lr;LivingLanguage"/>
         <rdfs:label>Swahili</rdfs:label>
         <skos:definition rdf:datatype="&xsd;string">Swahili macrolanguage</skos:definition>
-        <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Kiswahili</lcc-lr:hasEnglishName>
-        <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Swahili (macrolanguage)</lcc-lr:hasEnglishName>
-        <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">swahili</lcc-lr:hasFrenchName>
-        <lcc-lr:hasGermanName rdf:datatype="&xsd;string">Swahili</lcc-lr:hasGermanName>
+        <lcc-lr:hasEnglishName xml:lang="en">Kiswahili</lcc-lr:hasEnglishName>
+        <lcc-lr:hasEnglishName xml:lang="en">Swahili (macrolanguage)</lcc-lr:hasEnglishName>
+        <lcc-lr:hasFrenchName xml:lang="fr">swahili</lcc-lr:hasFrenchName>
+        <lcc-lr:hasGermanName xml:lang="ge">Swahili</lcc-lr:hasGermanName>
         <lcc-lr:hasIndigenousName rdf:datatype="&xsd;string">Kiswahili</lcc-lr:hasIndigenousName>
         <rdfs:isDefinedBy rdf:resource="&lcc-639-1;"/>
     </owl:NamedIndividual>
@@ -4016,13 +4016,13 @@
         <rdf:type rdf:resource="&lcc-lr;LivingLanguage"/>
         <rdfs:label>Swati</rdfs:label>
         <skos:definition rdf:datatype="&xsd;string">Swati language</skos:definition>
-        <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Siswati</lcc-lr:hasEnglishName>
-        <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Swati</lcc-lr:hasEnglishName>
-        <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Swazi</lcc-lr:hasEnglishName>
-        <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">siswati</lcc-lr:hasFrenchName>
-        <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">swati</lcc-lr:hasFrenchName>
-        <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">swazi</lcc-lr:hasFrenchName>
-        <lcc-lr:hasGermanName rdf:datatype="&xsd;string">Swasi-Sprache</lcc-lr:hasGermanName>
+        <lcc-lr:hasEnglishName xml:lang="en">Siswati</lcc-lr:hasEnglishName>
+        <lcc-lr:hasEnglishName xml:lang="en">Swati</lcc-lr:hasEnglishName>
+        <lcc-lr:hasEnglishName xml:lang="en">Swazi</lcc-lr:hasEnglishName>
+        <lcc-lr:hasFrenchName xml:lang="fr">siswati</lcc-lr:hasFrenchName>
+        <lcc-lr:hasFrenchName xml:lang="fr">swati</lcc-lr:hasFrenchName>
+        <lcc-lr:hasFrenchName xml:lang="fr">swazi</lcc-lr:hasFrenchName>
+        <lcc-lr:hasGermanName xml:lang="ge">Swasi-Sprache</lcc-lr:hasGermanName>
         <lcc-lr:hasIndigenousName rdf:datatype="&xsd;string">siSwati</lcc-lr:hasIndigenousName>
         <rdfs:isDefinedBy rdf:resource="&lcc-639-1;"/>
     </owl:NamedIndividual>
@@ -4032,9 +4032,9 @@
         <rdf:type rdf:resource="&lcc-lr;LivingLanguage"/>
         <rdfs:label>Swedish</rdfs:label>
         <skos:definition rdf:datatype="&xsd;string">Swedish language</skos:definition>
-        <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Swedish</lcc-lr:hasEnglishName>
-        <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">su&#233;dois</lcc-lr:hasFrenchName>
-        <lcc-lr:hasGermanName rdf:datatype="&xsd;string">Schwedisch</lcc-lr:hasGermanName>
+        <lcc-lr:hasEnglishName xml:lang="en">Swedish</lcc-lr:hasEnglishName>
+        <lcc-lr:hasFrenchName xml:lang="fr">suédois</lcc-lr:hasFrenchName>
+        <lcc-lr:hasGermanName xml:lang="ge">Schwedisch</lcc-lr:hasGermanName>
         <lcc-lr:hasIndigenousName rdf:datatype="&xsd;string">svenska</lcc-lr:hasIndigenousName>
         <rdfs:isDefinedBy rdf:resource="&lcc-639-1;"/>
     </owl:NamedIndividual>
@@ -4044,10 +4044,10 @@
         <rdf:type rdf:resource="&lcc-lr;LivingLanguage"/>
         <rdfs:label>Tagalog</rdfs:label>
         <skos:definition rdf:datatype="&xsd;string">Tagalog language</skos:definition>
-        <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Tagalog</lcc-lr:hasEnglishName>
-        <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">tagal</lcc-lr:hasFrenchName>
-        <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">tagalog</lcc-lr:hasFrenchName>
-        <lcc-lr:hasGermanName rdf:datatype="&xsd;string">Tagalog</lcc-lr:hasGermanName>
+        <lcc-lr:hasEnglishName xml:lang="en">Tagalog</lcc-lr:hasEnglishName>
+        <lcc-lr:hasFrenchName xml:lang="fr">tagal</lcc-lr:hasFrenchName>
+        <lcc-lr:hasFrenchName xml:lang="fr">tagalog</lcc-lr:hasFrenchName>
+        <lcc-lr:hasGermanName xml:lang="ge">Tagalog</lcc-lr:hasGermanName>
         <lcc-lr:hasIndigenousName rdf:datatype="&xsd;string">tagalog</lcc-lr:hasIndigenousName>
         <rdfs:isDefinedBy rdf:resource="&lcc-639-1;"/>
     </owl:NamedIndividual>
@@ -4057,9 +4057,9 @@
         <rdf:type rdf:resource="&lcc-lr;LivingLanguage"/>
         <rdfs:label>Tahitian</rdfs:label>
         <skos:definition rdf:datatype="&xsd;string">Tahitian language</skos:definition>
-        <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Tahitian</lcc-lr:hasEnglishName>
-        <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">tahitien</lcc-lr:hasFrenchName>
-        <lcc-lr:hasGermanName rdf:datatype="&xsd;string">Tahitisch</lcc-lr:hasGermanName>
+        <lcc-lr:hasEnglishName xml:lang="en">Tahitian</lcc-lr:hasEnglishName>
+        <lcc-lr:hasFrenchName xml:lang="fr">tahitien</lcc-lr:hasFrenchName>
+        <lcc-lr:hasGermanName xml:lang="ge">Tahitisch</lcc-lr:hasGermanName>
         <rdfs:isDefinedBy rdf:resource="&lcc-639-1;"/>
     </owl:NamedIndividual>
 
@@ -4068,10 +4068,10 @@
         <rdf:type rdf:resource="&lcc-lr;LivingLanguage"/>
         <rdfs:label>Tajik</rdfs:label>
         <skos:definition rdf:datatype="&xsd;string">Tajik language</skos:definition>
-        <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Tajik</lcc-lr:hasEnglishName>
-        <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">tadjik</lcc-lr:hasFrenchName>
-        <lcc-lr:hasGermanName rdf:datatype="&xsd;string">Tadschikisch</lcc-lr:hasGermanName>
-        <lcc-lr:hasIndigenousName rdf:datatype="&xsd;string">to&#231;ik&#299;</lcc-lr:hasIndigenousName>
+        <lcc-lr:hasEnglishName xml:lang="en">Tajik</lcc-lr:hasEnglishName>
+        <lcc-lr:hasFrenchName xml:lang="fr">tadjik</lcc-lr:hasFrenchName>
+        <lcc-lr:hasGermanName xml:lang="ge">Tadschikisch</lcc-lr:hasGermanName>
+        <lcc-lr:hasIndigenousName rdf:datatype="&xsd;string">toçikī</lcc-lr:hasIndigenousName>
         <rdfs:isDefinedBy rdf:resource="&lcc-639-1;"/>
     </owl:NamedIndividual>
 
@@ -4080,11 +4080,11 @@
         <rdf:type rdf:resource="&lcc-lr;LivingLanguage"/>
         <rdfs:label>Tamil</rdfs:label>
         <skos:definition rdf:datatype="&xsd;string">Tamil language</skos:definition>
-        <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Tamil</lcc-lr:hasEnglishName>
-        <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">tamil</lcc-lr:hasFrenchName>
-        <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">tamoul</lcc-lr:hasFrenchName>
-        <lcc-lr:hasGermanName rdf:datatype="&xsd;string">Tamil</lcc-lr:hasGermanName>
-        <lcc-lr:hasIndigenousName rdf:datatype="&xsd;string">tami&#7739;</lcc-lr:hasIndigenousName>
+        <lcc-lr:hasEnglishName xml:lang="en">Tamil</lcc-lr:hasEnglishName>
+        <lcc-lr:hasFrenchName xml:lang="fr">tamil</lcc-lr:hasFrenchName>
+        <lcc-lr:hasFrenchName xml:lang="fr">tamoul</lcc-lr:hasFrenchName>
+        <lcc-lr:hasGermanName xml:lang="ge">Tamil</lcc-lr:hasGermanName>
+        <lcc-lr:hasIndigenousName rdf:datatype="&xsd;string">tamiḻ</lcc-lr:hasIndigenousName>
         <rdfs:isDefinedBy rdf:resource="&lcc-639-1;"/>
     </owl:NamedIndividual>
 
@@ -4093,9 +4093,9 @@
         <rdf:type rdf:resource="&lcc-lr;LivingLanguage"/>
         <rdfs:label>Tatar</rdfs:label>
         <skos:definition rdf:datatype="&xsd;string">Tatar language</skos:definition>
-        <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Tatar</lcc-lr:hasEnglishName>
-        <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">tatar</lcc-lr:hasFrenchName>
-        <lcc-lr:hasGermanName rdf:datatype="&xsd;string">Tatarisch</lcc-lr:hasGermanName>
+        <lcc-lr:hasEnglishName xml:lang="en">Tatar</lcc-lr:hasEnglishName>
+        <lcc-lr:hasFrenchName xml:lang="fr">tatar</lcc-lr:hasFrenchName>
+        <lcc-lr:hasGermanName xml:lang="ge">Tatarisch</lcc-lr:hasGermanName>
         <lcc-lr:hasIndigenousName rdf:datatype="&xsd;string">tatar tele</lcc-lr:hasIndigenousName>
         <rdfs:isDefinedBy rdf:resource="&lcc-639-1;"/>
     </owl:NamedIndividual>
@@ -4105,9 +4105,9 @@
         <rdf:type rdf:resource="&lcc-lr;LivingLanguage"/>
         <rdfs:label>Telugu</rdfs:label>
         <skos:definition rdf:datatype="&xsd;string">Telugu language</skos:definition>
-        <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Telugu</lcc-lr:hasEnglishName>
-        <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">t&#233;lougou</lcc-lr:hasFrenchName>
-        <lcc-lr:hasGermanName rdf:datatype="&xsd;string">Telugu-Sprache</lcc-lr:hasGermanName>
+        <lcc-lr:hasEnglishName xml:lang="en">Telugu</lcc-lr:hasEnglishName>
+        <lcc-lr:hasFrenchName xml:lang="fr">télougou</lcc-lr:hasFrenchName>
+        <lcc-lr:hasGermanName xml:lang="ge">Telugu-Sprache</lcc-lr:hasGermanName>
         <lcc-lr:hasIndigenousName rdf:datatype="&xsd;string">telugu</lcc-lr:hasIndigenousName>
         <rdfs:isDefinedBy rdf:resource="&lcc-639-1;"/>
     </owl:NamedIndividual>
@@ -4117,9 +4117,9 @@
         <rdf:type rdf:resource="&lcc-lr;LivingLanguage"/>
         <rdfs:label>Thai</rdfs:label>
         <skos:definition rdf:datatype="&xsd;string">Thai language</skos:definition>
-        <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Thai</lcc-lr:hasEnglishName>
-        <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">tha&#239;</lcc-lr:hasFrenchName>
-        <lcc-lr:hasGermanName rdf:datatype="&xsd;string">Thail&#228;ndisch</lcc-lr:hasGermanName>
+        <lcc-lr:hasEnglishName xml:lang="en">Thai</lcc-lr:hasEnglishName>
+        <lcc-lr:hasFrenchName xml:lang="fr">thaï</lcc-lr:hasFrenchName>
+        <lcc-lr:hasGermanName xml:lang="ge">Thailändisch</lcc-lr:hasGermanName>
         <lcc-lr:hasIndigenousName rdf:datatype="&xsd;string">thai</lcc-lr:hasIndigenousName>
         <rdfs:isDefinedBy rdf:resource="&lcc-639-1;"/>
     </owl:NamedIndividual>
@@ -4129,9 +4129,9 @@
         <rdf:type rdf:resource="&lcc-lr;LivingLanguage"/>
         <rdfs:label>Tibetan</rdfs:label>
         <skos:definition rdf:datatype="&xsd;string">Tibetan language</skos:definition>
-        <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Tibetan</lcc-lr:hasEnglishName>
-        <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">tib&#233;tain</lcc-lr:hasFrenchName>
-        <lcc-lr:hasGermanName rdf:datatype="&xsd;string">Tibetisch</lcc-lr:hasGermanName>
+        <lcc-lr:hasEnglishName xml:lang="en">Tibetan</lcc-lr:hasEnglishName>
+        <lcc-lr:hasFrenchName xml:lang="fr">tibétain</lcc-lr:hasFrenchName>
+        <lcc-lr:hasGermanName xml:lang="ge">Tibetisch</lcc-lr:hasGermanName>
         <lcc-lr:hasIndigenousName rdf:datatype="&xsd;string">bod skad</lcc-lr:hasIndigenousName>
         <rdfs:isDefinedBy rdf:resource="&lcc-639-1;"/>
     </owl:NamedIndividual>
@@ -4141,21 +4141,21 @@
         <rdf:type rdf:resource="&lcc-lr;LivingLanguage"/>
         <rdfs:label>Tigrinya</rdfs:label>
         <skos:definition rdf:datatype="&xsd;string">Tigrinya language</skos:definition>
-        <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Tigrinya</lcc-lr:hasEnglishName>
-        <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">tigrigna</lcc-lr:hasFrenchName>
-        <lcc-lr:hasGermanName rdf:datatype="&xsd;string">Tigrinja-Sprache</lcc-lr:hasGermanName>
-        <lcc-lr:hasIndigenousName rdf:datatype="&xsd;string">tigri&#241;a</lcc-lr:hasIndigenousName>
+        <lcc-lr:hasEnglishName xml:lang="en">Tigrinya</lcc-lr:hasEnglishName>
+        <lcc-lr:hasFrenchName xml:lang="fr">tigrigna</lcc-lr:hasFrenchName>
+        <lcc-lr:hasGermanName xml:lang="ge">Tigrinja-Sprache</lcc-lr:hasGermanName>
+        <lcc-lr:hasIndigenousName rdf:datatype="&xsd;string">tigriña</lcc-lr:hasIndigenousName>
         <rdfs:isDefinedBy rdf:resource="&lcc-639-1;"/>
     </owl:NamedIndividual>
 
     <owl:NamedIndividual rdf:about="&lcc-639-1;Tonga-TongaIslands">
         <rdf:type rdf:resource="&lcc-lr;IndividualLanguage"/>
         <rdf:type rdf:resource="&lcc-lr;LivingLanguage"/>
-  <rdfs:label>Tonga (Tonga Islands)</rdfs:label>
+      <rdfs:label>Tonga (Tonga Islands)</rdfs:label>
         <skos:definition rdf:datatype="&xsd;string">Tonga (Tonga Islands) language</skos:definition>
-        <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Tonga (Tonga Islands)</lcc-lr:hasEnglishName>
-        <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">tonga (&#238;les Tonga)</lcc-lr:hasFrenchName>
-        <lcc-lr:hasGermanName rdf:datatype="&xsd;string">Tongaisch</lcc-lr:hasGermanName>
+        <lcc-lr:hasEnglishName xml:lang="en">Tonga (Tonga Islands)</lcc-lr:hasEnglishName>
+        <lcc-lr:hasFrenchName xml:lang="fr">tonga (îles Tonga)</lcc-lr:hasFrenchName>
+        <lcc-lr:hasGermanName xml:lang="ge">Tongaisch</lcc-lr:hasGermanName>
         <lcc-lr:hasIndigenousName rdf:datatype="&xsd;string">tonga</lcc-lr:hasIndigenousName>
         <rdfs:isDefinedBy rdf:resource="&lcc-639-1;"/>
     </owl:NamedIndividual>
@@ -4165,9 +4165,9 @@
         <rdf:type rdf:resource="&lcc-lr;LivingLanguage"/>
         <rdfs:label>Tsonga</rdfs:label>
         <skos:definition rdf:datatype="&xsd;string">Tsonga language</skos:definition>
-        <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Tsonga</lcc-lr:hasEnglishName>
-        <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">tsonga</lcc-lr:hasFrenchName>
-        <lcc-lr:hasGermanName rdf:datatype="&xsd;string">Tsonga-Sprache</lcc-lr:hasGermanName>
+        <lcc-lr:hasEnglishName xml:lang="en">Tsonga</lcc-lr:hasEnglishName>
+        <lcc-lr:hasFrenchName xml:lang="fr">tsonga</lcc-lr:hasFrenchName>
+        <lcc-lr:hasGermanName xml:lang="ge">Tsonga-Sprache</lcc-lr:hasGermanName>
         <lcc-lr:hasIndigenousName rdf:datatype="&xsd;string">Xitsonga</lcc-lr:hasIndigenousName>
         <rdfs:isDefinedBy rdf:resource="&lcc-639-1;"/>
     </owl:NamedIndividual>
@@ -4177,11 +4177,11 @@
         <rdf:type rdf:resource="&lcc-lr;LivingLanguage"/>
         <rdfs:label>Tswana</rdfs:label>
         <skos:definition rdf:datatype="&xsd;string">Tswana language</skos:definition>
-        <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Setswana</lcc-lr:hasEnglishName>
-        <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Tswana</lcc-lr:hasEnglishName>
-        <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">setchwana</lcc-lr:hasFrenchName>
-        <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">tswana</lcc-lr:hasFrenchName>
-        <lcc-lr:hasGermanName rdf:datatype="&xsd;string">Tswana-Sprache</lcc-lr:hasGermanName>
+        <lcc-lr:hasEnglishName xml:lang="en">Setswana</lcc-lr:hasEnglishName>
+        <lcc-lr:hasEnglishName xml:lang="en">Tswana</lcc-lr:hasEnglishName>
+        <lcc-lr:hasFrenchName xml:lang="fr">setchwana</lcc-lr:hasFrenchName>
+        <lcc-lr:hasFrenchName xml:lang="fr">tswana</lcc-lr:hasFrenchName>
+        <lcc-lr:hasGermanName xml:lang="ge">Tswana-Sprache</lcc-lr:hasGermanName>
         <lcc-lr:hasIndigenousName rdf:datatype="&xsd;string">Setswana</lcc-lr:hasIndigenousName>
         <rdfs:isDefinedBy rdf:resource="&lcc-639-1;"/>
     </owl:NamedIndividual>
@@ -4191,10 +4191,10 @@
         <rdf:type rdf:resource="&lcc-lr;LivingLanguage"/>
         <rdfs:label>Turkish</rdfs:label>
         <skos:definition rdf:datatype="&xsd;string">Turkish language</skos:definition>
-        <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Turkish</lcc-lr:hasEnglishName>
-        <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">turc</lcc-lr:hasFrenchName>
-        <lcc-lr:hasGermanName rdf:datatype="&xsd;string">T&#252;rkisch</lcc-lr:hasGermanName>
-        <lcc-lr:hasIndigenousName rdf:datatype="&xsd;string">t&#252;rk&#231;e</lcc-lr:hasIndigenousName>
+        <lcc-lr:hasEnglishName xml:lang="en">Turkish</lcc-lr:hasEnglishName>
+        <lcc-lr:hasFrenchName xml:lang="fr">turc</lcc-lr:hasFrenchName>
+        <lcc-lr:hasGermanName xml:lang="ge">Türkisch</lcc-lr:hasGermanName>
+        <lcc-lr:hasIndigenousName rdf:datatype="&xsd;string">türkçe</lcc-lr:hasIndigenousName>
         <rdfs:isDefinedBy rdf:resource="&lcc-639-1;"/>
     </owl:NamedIndividual>
 
@@ -4203,9 +4203,9 @@
         <rdf:type rdf:resource="&lcc-lr;LivingLanguage"/>
         <rdfs:label>Turkmen</rdfs:label>
         <skos:definition rdf:datatype="&xsd;string">Turkmen language</skos:definition>
-        <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Turkmen</lcc-lr:hasEnglishName>
-        <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">turkm&#232;ne</lcc-lr:hasFrenchName>
-        <lcc-lr:hasGermanName rdf:datatype="&xsd;string">Turkmenisch</lcc-lr:hasGermanName>
+        <lcc-lr:hasEnglishName xml:lang="en">Turkmen</lcc-lr:hasEnglishName>
+        <lcc-lr:hasFrenchName xml:lang="fr">turkmène</lcc-lr:hasFrenchName>
+        <lcc-lr:hasGermanName xml:lang="ge">Turkmenisch</lcc-lr:hasGermanName>
         <rdfs:isDefinedBy rdf:resource="&lcc-639-1;"/>
     </owl:NamedIndividual>
 
@@ -4214,9 +4214,9 @@
         <rdf:type rdf:resource="&lcc-lr;LivingLanguage"/>
         <rdfs:label>Twi</rdfs:label>
         <skos:definition rdf:datatype="&xsd;string">Twi language</skos:definition>
-        <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Twi</lcc-lr:hasEnglishName>
-        <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">twi</lcc-lr:hasFrenchName>
-        <lcc-lr:hasGermanName rdf:datatype="&xsd;string">Twi-Sprache</lcc-lr:hasGermanName>
+        <lcc-lr:hasEnglishName xml:lang="en">Twi</lcc-lr:hasEnglishName>
+        <lcc-lr:hasFrenchName xml:lang="fr">twi</lcc-lr:hasFrenchName>
+        <lcc-lr:hasGermanName xml:lang="ge">Twi-Sprache</lcc-lr:hasGermanName>
         <lcc-lr:hasIndigenousName rdf:datatype="&xsd;string">twi</lcc-lr:hasIndigenousName>
         <rdfs:isDefinedBy rdf:resource="&lcc-639-1;"/>
     </owl:NamedIndividual>
@@ -4224,13 +4224,13 @@
     <owl:NamedIndividual rdf:about="&lcc-639-1;Uighur">
         <rdf:type rdf:resource="&lcc-lr;IndividualLanguage"/>
         <rdf:type rdf:resource="&lcc-lr;LivingLanguage"/>
-  <rdfs:label>Uighur</rdfs:label>
+      <rdfs:label>Uighur</rdfs:label>
         <skos:definition rdf:datatype="&xsd;string">Uighur language</skos:definition>
-        <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Uighur</lcc-lr:hasEnglishName>
-        <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Uyghur</lcc-lr:hasEnglishName>
-        <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">ou&#239;gour</lcc-lr:hasFrenchName>
-        <lcc-lr:hasGermanName rdf:datatype="&xsd;string">Uigurisch</lcc-lr:hasGermanName>
-        <lcc-lr:hasIndigenousName rdf:datatype="&xsd;string">oyghurq&#477;</lcc-lr:hasIndigenousName>
+        <lcc-lr:hasEnglishName xml:lang="en">Uighur</lcc-lr:hasEnglishName>
+        <lcc-lr:hasEnglishName xml:lang="en">Uyghur</lcc-lr:hasEnglishName>
+        <lcc-lr:hasFrenchName xml:lang="fr">ouïgour</lcc-lr:hasFrenchName>
+        <lcc-lr:hasGermanName xml:lang="ge">Uigurisch</lcc-lr:hasGermanName>
+        <lcc-lr:hasIndigenousName rdf:datatype="&xsd;string">oyghurqǝ</lcc-lr:hasIndigenousName>
         <rdfs:isDefinedBy rdf:resource="&lcc-639-1;"/>
     </owl:NamedIndividual>
 
@@ -4239,10 +4239,10 @@
         <rdf:type rdf:resource="&lcc-lr;LivingLanguage"/>
         <rdfs:label>Ukrainian</rdfs:label>
         <skos:definition rdf:datatype="&xsd;string">Ukrainian language</skos:definition>
-        <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Ukrainian</lcc-lr:hasEnglishName>
-        <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">ukrainien</lcc-lr:hasFrenchName>
-        <lcc-lr:hasGermanName rdf:datatype="&xsd;string">Ukrainisch</lcc-lr:hasGermanName>
-        <lcc-lr:hasIndigenousName rdf:datatype="&xsd;string">ukra&#239;ns'ka mova</lcc-lr:hasIndigenousName>
+        <lcc-lr:hasEnglishName xml:lang="en">Ukrainian</lcc-lr:hasEnglishName>
+        <lcc-lr:hasFrenchName xml:lang="fr">ukrainien</lcc-lr:hasFrenchName>
+        <lcc-lr:hasGermanName xml:lang="ge">Ukrainisch</lcc-lr:hasGermanName>
+        <lcc-lr:hasIndigenousName rdf:datatype="&xsd;string">ukraïns'ka mova</lcc-lr:hasIndigenousName>
         <rdfs:isDefinedBy rdf:resource="&lcc-639-1;"/>
     </owl:NamedIndividual>
 
@@ -4251,10 +4251,10 @@
         <rdf:type rdf:resource="&lcc-lr;LivingLanguage"/>
         <rdfs:label>Urdu</rdfs:label>
         <skos:definition rdf:datatype="&xsd;string">Urdu language</skos:definition>
-        <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Urdu</lcc-lr:hasEnglishName>
-        <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">ourdou</lcc-lr:hasFrenchName>
-        <lcc-lr:hasGermanName rdf:datatype="&xsd;string">Urdu</lcc-lr:hasGermanName>
-        <lcc-lr:hasIndigenousName rdf:datatype="&xsd;string">urd&#363;</lcc-lr:hasIndigenousName>
+        <lcc-lr:hasEnglishName xml:lang="en">Urdu</lcc-lr:hasEnglishName>
+        <lcc-lr:hasFrenchName xml:lang="fr">ourdou</lcc-lr:hasFrenchName>
+        <lcc-lr:hasGermanName xml:lang="ge">Urdu</lcc-lr:hasGermanName>
+        <lcc-lr:hasIndigenousName rdf:datatype="&xsd;string">urdū</lcc-lr:hasIndigenousName>
         <rdfs:isDefinedBy rdf:resource="&lcc-639-1;"/>
     </owl:NamedIndividual>
 
@@ -4263,10 +4263,10 @@
         <rdf:type rdf:resource="&lcc-lr;LivingLanguage"/>
         <rdfs:label>Uzbek</rdfs:label>
         <skos:definition rdf:datatype="&xsd;string">Uzbek languages</skos:definition>
-        <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Uzbek</lcc-lr:hasEnglishName>
-        <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">ouszbek</lcc-lr:hasFrenchName>
-        <lcc-lr:hasGermanName rdf:datatype="&xsd;string">Usbekisch</lcc-lr:hasGermanName>
-        <lcc-lr:hasIndigenousName rdf:datatype="&xsd;string">o&#699;zbek tili</lcc-lr:hasIndigenousName>
+        <lcc-lr:hasEnglishName xml:lang="en">Uzbek</lcc-lr:hasEnglishName>
+        <lcc-lr:hasFrenchName xml:lang="fr">ouszbek</lcc-lr:hasFrenchName>
+        <lcc-lr:hasGermanName xml:lang="ge">Usbekisch</lcc-lr:hasGermanName>
+        <lcc-lr:hasIndigenousName rdf:datatype="&xsd;string">oʻzbek tili</lcc-lr:hasIndigenousName>
         <rdfs:isDefinedBy rdf:resource="&lcc-639-1;"/>
     </owl:NamedIndividual>
 
@@ -4275,10 +4275,10 @@
         <rdf:type rdf:resource="&lcc-lr;LivingLanguage"/>
         <rdfs:label>Venda</rdfs:label>
         <skos:definition rdf:datatype="&xsd;string">Venda language</skos:definition>
-        <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Venda</lcc-lr:hasEnglishName>
-        <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">venda</lcc-lr:hasFrenchName>
-        <lcc-lr:hasGermanName rdf:datatype="&xsd;string">Venda-Sprache</lcc-lr:hasGermanName>
-        <lcc-lr:hasIndigenousName rdf:datatype="&xsd;string">Tshiven&#7699;a</lcc-lr:hasIndigenousName>
+        <lcc-lr:hasEnglishName xml:lang="en">Venda</lcc-lr:hasEnglishName>
+        <lcc-lr:hasFrenchName xml:lang="fr">venda</lcc-lr:hasFrenchName>
+        <lcc-lr:hasGermanName xml:lang="ge">Venda-Sprache</lcc-lr:hasGermanName>
+        <lcc-lr:hasIndigenousName rdf:datatype="&xsd;string">Tshivenḓa</lcc-lr:hasIndigenousName>
         <rdfs:isDefinedBy rdf:resource="&lcc-639-1;"/>
     </owl:NamedIndividual>
 
@@ -4287,10 +4287,10 @@
         <rdf:type rdf:resource="&lcc-lr;LivingLanguage"/>
         <rdfs:label>Vietnamese</rdfs:label>
         <skos:definition rdf:datatype="&xsd;string">Vietnamese language</skos:definition>
-        <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Vietnamese</lcc-lr:hasEnglishName>
-        <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">vietnamien</lcc-lr:hasFrenchName>
-        <lcc-lr:hasGermanName rdf:datatype="&xsd;string">Vietnamesisch</lcc-lr:hasGermanName>
-        <lcc-lr:hasIndigenousName rdf:datatype="&xsd;string">Ti&#7871;ng Vi&#7879;t Nam</lcc-lr:hasIndigenousName>
+        <lcc-lr:hasEnglishName xml:lang="en">Vietnamese</lcc-lr:hasEnglishName>
+        <lcc-lr:hasFrenchName xml:lang="fr">vietnamien</lcc-lr:hasFrenchName>
+        <lcc-lr:hasGermanName xml:lang="ge">Vietnamesisch</lcc-lr:hasGermanName>
+        <lcc-lr:hasIndigenousName rdf:datatype="&xsd;string">Tiếng Việt Nam</lcc-lr:hasIndigenousName>
         <rdfs:isDefinedBy rdf:resource="&lcc-639-1;"/>
     </owl:NamedIndividual>
 
@@ -4299,10 +4299,10 @@
         <rdf:type rdf:resource="&lcc-lr;ArtificialLanguage"/>
         <rdfs:label>Volapuk</rdfs:label>
         <skos:definition rdf:datatype="&xsd;string">Volapuk language</skos:definition>
-        <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Volap&#252;k</lcc-lr:hasEnglishName>
-        <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">volap&#252;k</lcc-lr:hasFrenchName>
-        <lcc-lr:hasGermanName rdf:datatype="&xsd;string">Volap&#252;k</lcc-lr:hasGermanName>
-        <lcc-lr:hasIndigenousName rdf:datatype="&xsd;string">volap&#252;k</lcc-lr:hasIndigenousName>
+        <lcc-lr:hasEnglishName xml:lang="en">Volapük</lcc-lr:hasEnglishName>
+        <lcc-lr:hasFrenchName xml:lang="fr">volapük</lcc-lr:hasFrenchName>
+        <lcc-lr:hasGermanName xml:lang="ge">Volapük</lcc-lr:hasGermanName>
+        <lcc-lr:hasIndigenousName rdf:datatype="&xsd;string">volapük</lcc-lr:hasIndigenousName>
         <rdfs:isDefinedBy rdf:resource="&lcc-639-1;"/>
     </owl:NamedIndividual>
 
@@ -4311,9 +4311,9 @@
         <rdf:type rdf:resource="&lcc-lr;LivingLanguage"/>
         <rdfs:label>Walloon</rdfs:label>
         <skos:definition rdf:datatype="&xsd;string">Walloon language</skos:definition>
-        <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Walloon</lcc-lr:hasEnglishName>
-        <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">wallon</lcc-lr:hasFrenchName>
-        <lcc-lr:hasGermanName rdf:datatype="&xsd;string">Wallonisch</lcc-lr:hasGermanName>
+        <lcc-lr:hasEnglishName xml:lang="en">Walloon</lcc-lr:hasEnglishName>
+        <lcc-lr:hasFrenchName xml:lang="fr">wallon</lcc-lr:hasFrenchName>
+        <lcc-lr:hasGermanName xml:lang="ge">Wallonisch</lcc-lr:hasGermanName>
         <lcc-lr:hasIndigenousName rdf:datatype="&xsd;string">wallon</lcc-lr:hasIndigenousName>
         <rdfs:isDefinedBy rdf:resource="&lcc-639-1;"/>
     </owl:NamedIndividual>
@@ -4323,9 +4323,9 @@
         <rdf:type rdf:resource="&lcc-lr;LivingLanguage"/>
         <rdfs:label>Welsh</rdfs:label>
         <skos:definition rdf:datatype="&xsd;string">Welsh language</skos:definition>
-        <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Welsh</lcc-lr:hasEnglishName>
-        <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">gallois</lcc-lr:hasFrenchName>
-        <lcc-lr:hasGermanName rdf:datatype="&xsd;string">Kymrisch</lcc-lr:hasGermanName>
+        <lcc-lr:hasEnglishName xml:lang="en">Welsh</lcc-lr:hasEnglishName>
+        <lcc-lr:hasFrenchName xml:lang="fr">gallois</lcc-lr:hasFrenchName>
+        <lcc-lr:hasGermanName xml:lang="ge">Kymrisch</lcc-lr:hasGermanName>
         <lcc-lr:hasIndigenousName rdf:datatype="&xsd;string">Cymraeg</lcc-lr:hasIndigenousName>
         <rdfs:isDefinedBy rdf:resource="&lcc-639-1;"/>
     </owl:NamedIndividual>
@@ -4335,9 +4335,9 @@
         <rdf:type rdf:resource="&lcc-lr;LivingLanguage"/>
         <rdfs:label>Wolof</rdfs:label>
         <skos:definition rdf:datatype="&xsd;string">Wolof language</skos:definition>
-        <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Wolof</lcc-lr:hasEnglishName>
-        <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">wolof</lcc-lr:hasFrenchName>
-        <lcc-lr:hasGermanName rdf:datatype="&xsd;string">Wolof-Sprache</lcc-lr:hasGermanName>
+        <lcc-lr:hasEnglishName xml:lang="en">Wolof</lcc-lr:hasEnglishName>
+        <lcc-lr:hasFrenchName xml:lang="fr">wolof</lcc-lr:hasFrenchName>
+        <lcc-lr:hasGermanName xml:lang="ge">Wolof-Sprache</lcc-lr:hasGermanName>
         <lcc-lr:hasIndigenousName rdf:datatype="&xsd;string">wolof</lcc-lr:hasIndigenousName>
         <rdfs:isDefinedBy rdf:resource="&lcc-639-1;"/>
     </owl:NamedIndividual>
@@ -4347,9 +4347,9 @@
         <rdf:type rdf:resource="&lcc-lr;LivingLanguage"/>
         <rdfs:label>Xhosa</rdfs:label>
         <skos:definition rdf:datatype="&xsd;string">Xhosa language</skos:definition>
-        <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">xhosa</lcc-lr:hasFrenchName>
-        <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Xhosa</lcc-lr:hasEnglishName>
-        <lcc-lr:hasGermanName rdf:datatype="&xsd;string">Xhosa-Sprache</lcc-lr:hasGermanName>
+        <lcc-lr:hasFrenchName xml:lang="fr">xhosa</lcc-lr:hasFrenchName>
+        <lcc-lr:hasEnglishName xml:lang="en">Xhosa</lcc-lr:hasEnglishName>
+        <lcc-lr:hasGermanName xml:lang="ge">Xhosa-Sprache</lcc-lr:hasGermanName>
         <lcc-lr:hasIndigenousName rdf:datatype="&xsd;string">isiXhosa</lcc-lr:hasIndigenousName>
         <rdfs:isDefinedBy rdf:resource="&lcc-639-1;"/>
     </owl:NamedIndividual>
@@ -4359,10 +4359,10 @@
         <rdf:type rdf:resource="&lcc-lr;LivingLanguage"/>
         <rdfs:label>Yiddish</rdfs:label>
         <skos:definition rdf:datatype="&xsd;string">Yiddish language</skos:definition>
-        <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Yiddish</lcc-lr:hasEnglishName>
-        <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">yiddish</lcc-lr:hasFrenchName>
-        <lcc-lr:hasGermanName rdf:datatype="&xsd;string">Jiddisch</lcc-lr:hasGermanName>
-        <lcc-lr:hasIndigenousName rdf:datatype="&xsd;string">yidi&#353;</lcc-lr:hasIndigenousName>
+        <lcc-lr:hasEnglishName xml:lang="en">Yiddish</lcc-lr:hasEnglishName>
+        <lcc-lr:hasFrenchName xml:lang="fr">yiddish</lcc-lr:hasFrenchName>
+        <lcc-lr:hasGermanName xml:lang="ge">Jiddisch</lcc-lr:hasGermanName>
+        <lcc-lr:hasIndigenousName rdf:datatype="&xsd;string">yidiš</lcc-lr:hasIndigenousName>
         <rdfs:isDefinedBy rdf:resource="&lcc-639-1;"/>
     </owl:NamedIndividual>
 
@@ -4371,10 +4371,10 @@
         <rdf:type rdf:resource="&lcc-lr;LivingLanguage"/>
         <rdfs:label>Yoruba</rdfs:label>
         <skos:definition rdf:datatype="&xsd;string">Yoruba language</skos:definition>
-        <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Yoruba</lcc-lr:hasEnglishName>
-        <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">yorouba</lcc-lr:hasFrenchName>
-        <lcc-lr:hasGermanName rdf:datatype="&xsd;string">Yoruba-Sprache</lcc-lr:hasGermanName>
-        <lcc-lr:hasIndigenousName rdf:datatype="&xsd;string">Yor&#249;b&#225;</lcc-lr:hasIndigenousName>
+        <lcc-lr:hasEnglishName xml:lang="en">Yoruba</lcc-lr:hasEnglishName>
+        <lcc-lr:hasFrenchName xml:lang="fr">yorouba</lcc-lr:hasFrenchName>
+        <lcc-lr:hasGermanName xml:lang="ge">Yoruba-Sprache</lcc-lr:hasGermanName>
+        <lcc-lr:hasIndigenousName rdf:datatype="&xsd;string">Yorùbá</lcc-lr:hasIndigenousName>
         <rdfs:isDefinedBy rdf:resource="&lcc-639-1;"/>
     </owl:NamedIndividual>
 
@@ -4383,11 +4383,11 @@
         <rdf:type rdf:resource="&lcc-lr;LivingLanguage"/>
         <rdfs:label>Zhuang</rdfs:label>
         <skos:definition rdf:datatype="&xsd;string">Zhuang languages</skos:definition>
-        <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Chuang</lcc-lr:hasEnglishName>
-        <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Zhuang</lcc-lr:hasEnglishName>
-        <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">chuang</lcc-lr:hasFrenchName>
-        <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">zhuang</lcc-lr:hasFrenchName>
-        <lcc-lr:hasGermanName rdf:datatype="&xsd;string">Zhuang</lcc-lr:hasGermanName>
+        <lcc-lr:hasEnglishName xml:lang="en">Chuang</lcc-lr:hasEnglishName>
+        <lcc-lr:hasEnglishName xml:lang="en">Zhuang</lcc-lr:hasEnglishName>
+        <lcc-lr:hasFrenchName xml:lang="fr">chuang</lcc-lr:hasFrenchName>
+        <lcc-lr:hasFrenchName xml:lang="fr">zhuang</lcc-lr:hasFrenchName>
+        <lcc-lr:hasGermanName xml:lang="ge">Zhuang</lcc-lr:hasGermanName>
         <lcc-lr:hasIndigenousName rdf:datatype="&xsd;string">cuengh</lcc-lr:hasIndigenousName>
         <rdfs:isDefinedBy rdf:resource="&lcc-639-1;"/>
     </owl:NamedIndividual>
@@ -4397,9 +4397,9 @@
         <rdf:type rdf:resource="&lcc-lr;LivingLanguage"/>
         <rdfs:label>Zulu</rdfs:label>
         <skos:definition rdf:datatype="&xsd;string">Zulu language</skos:definition>
-        <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Zulu</lcc-lr:hasEnglishName>
-        <lcc-lr:hasFrenchName rdf:datatype="&xsd;string">zoulou</lcc-lr:hasFrenchName>
-        <lcc-lr:hasGermanName rdf:datatype="&xsd;string">Zulu-Sprache</lcc-lr:hasGermanName>
+        <lcc-lr:hasEnglishName xml:lang="en">Zulu</lcc-lr:hasEnglishName>
+        <lcc-lr:hasFrenchName xml:lang="fr">zoulou</lcc-lr:hasFrenchName>
+        <lcc-lr:hasGermanName xml:lang="ge">Zulu-Sprache</lcc-lr:hasGermanName>
         <lcc-lr:hasIndigenousName rdf:datatype="&xsd;string">isiZulu</lcc-lr:hasIndigenousName>
         <rdfs:isDefinedBy rdf:resource="&lcc-639-1;"/>
     </owl:NamedIndividual>
