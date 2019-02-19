@@ -3137,7 +3137,7 @@
 
    <owl:NamedIndividual rdf:about="&lcc-639-2;mis">
       <rdf:type rdf:resource="&lcc-lr;Alpha3Code"/>
-      <skos:definition rdf:datatype="&xsd;string">Alpha-3 language code for Miscellaneous languages</skos:definition>
+      <skos:definition rdf:datatype="&xsd;string">Alpha-3 language code for Uncoded languages</skos:definition>
       <rdfs:label>mis</rdfs:label>
       <lcc-lr:hasTag rdf:datatype="&xsd;string">mis</lcc-lr:hasTag>
       <lcc-lr:denotes rdf:resource="&lcc-639-2;UncodedLanguages"/>
