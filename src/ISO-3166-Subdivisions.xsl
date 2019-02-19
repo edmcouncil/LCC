@@ -258,7 +258,7 @@ exclude-result-prefixes="xsl xs">
           <xsl:value-of select="$subdivs-ont-abbrev"/>
         </sm:fileAbbreviation>
         <owl:versionIRI>
-          <xsl:attribute name="rdf:resource" select="concat(substring-before($subdivs-ont-uri, 'Countries'), '20190301/', substring-after($subdivs-ont-uri, 'LCC/'))"/>         
+          <xsl:attribute name="rdf:resource" select="concat(substring-before($subdivs-ont-uri, 'Countries'), '20190201/', substring-after($subdivs-ont-uri, 'LCC/'))"/>         
         </owl:versionIRI> 
         <sm:fileAbstract rdf:datatype="&amp;xsd;string">
           <xsl:value-of select="concat('This ontology represents the subset of the ISO 3166 standard that includes the actual ISO 3166-2 subdivision codes for ', $country-name, ', with the ontology and codes for the other parts of the standard represented in models that this ontology depends on.')"/>

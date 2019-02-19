@@ -40,10 +40,10 @@
 
       <sm:filename rdf:datatype="&xsd;string">ISO3166-1-CountryCodes.rdf</sm:filename>
       <sm:fileAbbreviation rdf:datatype="&xsd;string">lcc-3166-1</sm:fileAbbreviation>
-      <owl:versionIRI rdf:resource="http://www.omg.org/spec/LCC/20190301/Countries/ISO3166-1-CountryCodes/"/>
+      <owl:versionIRI rdf:resource="http://www.omg.org/spec/LCC/20190201/Countries/ISO3166-1-CountryCodes/"/>
       <sm:fileAbstract rdf:datatype="&xsd;string">This ontology represents the subset of the ISO 3166 standard that include the actual ISO 3166-1 country codes, with the ontology and codes for the other parts of the standard represented in dependent models.</sm:fileAbstract>
       <skos:changeNote rdf:datatype="&xsd;string">The http://www.omg.org/spec/LCC/20151101/Countries/ISO3166-1-CountryCodes.rdf version of this ontology has been revised to reflect the issues addressed by the LCC 1.0 FTF report.  The country codes and related metadata contained herein are current as of the July 2017 revision to the online code set.</skos:changeNote>
-      <skos:changeNote rdf:datatype="&xsd;string">The http://www.omg.org/spec/LCC/20190301/Countries/ISO3166-1-CountryCodes.rdf version of this ontology has been revised to reflect the issues addressed by the LCC 1.1 FTF report.  The country codes and related metadata contained herein are current as of the February 2019 revision to the online code set.</skos:changeNote>
+      <skos:changeNote rdf:datatype="&xsd;string">The http://www.omg.org/spec/LCC/20190201/Countries/ISO3166-1-CountryCodes.rdf version of this ontology has been revised to reflect the issues addressed by the LCC 1.1 FTF report.  The country codes and related metadata contained herein are current as of the February 2019 revision to the online code set.</skos:changeNote>
       <dct:issued rdf:datatype="&xsd;dateTime">2019-02-14T00:48:51.124818+01:00</dct:issued>
 
       <sm:dependsOn rdf:datatype="&xsd;anyURI">http://www.omg.org/spec/LCC/Languages/LanguageRepresentation/</sm:dependsOn>

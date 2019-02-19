@@ -223,11 +223,11 @@ exclude-result-prefixes="xsl xs">
       <sm:filename rdf:datatype="&amp;xsd;string">ISO3166-1-CountryCodes.rdf</sm:filename>
       <sm:fileAbbreviation rdf:datatype="&amp;xsd;string">lcc-3166-1</sm:fileAbbreviation>
       <owl:versionIRI>
-        <xsl:attribute name="rdf:resource" select="'http://www.omg.org/spec/LCC/20190301/Countries/ISO3166-1-CountryCodes/'"/>         
+        <xsl:attribute name="rdf:resource" select="'http://www.omg.org/spec/LCC/20190201/Countries/ISO3166-1-CountryCodes/'"/>         
       </owl:versionIRI> 
       <sm:fileAbstract rdf:datatype="&amp;xsd;string">This ontology represents the subset of the ISO 3166 standard that include the actual ISO 3166-1 country codes, with the ontology and codes for the other parts of the standard represented in dependent models.</sm:fileAbstract>
       <skos:changeNote rdf:datatype="&amp;xsd;string">The http://www.omg.org/spec/LCC/20151101/Countries/ISO3166-1-CountryCodes.rdf version of this ontology has been revised to reflect the issues addressed by the LCC 1.0 FTF report.  The country codes and related metadata contained herein are current as of the July 2017 revision to the online code set.</skos:changeNote>
-      <skos:changeNote rdf:datatype="&amp;xsd;string">The http://www.omg.org/spec/LCC/20190301/Countries/ISO3166-1-CountryCodes.rdf version of this ontology has been revised to reflect the issues addressed by the LCC 1.1 FTF report.  The country codes and related metadata contained herein are current as of the February 2019 revision to the online code set.</skos:changeNote>
+      <skos:changeNote rdf:datatype="&amp;xsd;string">The http://www.omg.org/spec/LCC/20190201/Countries/ISO3166-1-CountryCodes.rdf version of this ontology has been revised to reflect the issues addressed by the LCC 1.1 FTF report.  The country codes and related metadata contained herein are current as of the February 2019 revision to the online code set.</skos:changeNote>
     <dct:issued rdf:datatype="&amp;xsd;dateTime">
         <xsl:value-of select="/country-codes/@generated"/>         
       </dct:issued> 

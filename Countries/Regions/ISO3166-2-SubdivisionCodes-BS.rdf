@@ -47,7 +47,7 @@
 
       <sm:filename rdf:datatype="&xsd;string">ISO3166-2-SubdivisionCodes-BS.rdf</sm:filename>
       <sm:fileAbbreviation rdf:datatype="&xsd;string">lcc-3166-2-bs</sm:fileAbbreviation>
-      <owl:versionIRI rdf:resource="http://www.omg.org/spec/LCC/20190301/Countries/Regions/ISO3166-2-SubdivisionCodes-BS/"/>
+      <owl:versionIRI rdf:resource="http://www.omg.org/spec/LCC/20190201/Countries/Regions/ISO3166-2-SubdivisionCodes-BS/"/>
       <sm:fileAbstract rdf:datatype="&xsd;string">This ontology represents the subset of the ISO 3166 standard that includes the actual ISO 3166-2 subdivision codes for Bahamas (the), with the ontology and codes for the other parts of the standard represented in models that this ontology depends on.</sm:fileAbstract>
       <dct:issued rdf:datatype="&xsd;dateTime">2019-02-14T00:48:51.124818+01:00</dct:issued>
 
