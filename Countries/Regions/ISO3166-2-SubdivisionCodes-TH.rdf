@@ -36,9 +36,9 @@
 
       <!-- Curation and Rights Metadata for the LCC ISO 3166-2 Subdivision Codes for Thailand Ontology -->
 
-      <sm:copyright rdf:datatype="&xsd;string">Copyright (c) 2015-2017 Object Management Group, Inc.
-          Copyright (c) 2015-2017 Adaptive Inc.
-          Copyright (c) 2015-2017 Thematix Partners LLC
+      <sm:copyright rdf:datatype="&xsd;string">Copyright (c) 2015-2019 Object Management Group, Inc.
+          Copyright (c) 2015-2019 Adaptive Inc.
+          Copyright (c) 2015-2019 Thematix Partners LLC
           Copyright (c) 2015-2017 Unisys
         </sm:copyright>
       <dct:license rdf:resource="&sm;MITLicense"/>
@@ -47,9 +47,9 @@
 
       <sm:filename rdf:datatype="&xsd;string">ISO3166-2-SubdivisionCodes-TH.rdf</sm:filename>
       <sm:fileAbbreviation rdf:datatype="&xsd;string">lcc-3166-2-th</sm:fileAbbreviation>
-      <owl:versionIRI rdf:resource="http://www.omg.org/spec/LCC/20170801/Countries/Regions/ISO3166-2-SubdivisionCodes-TH/"/>
+      <owl:versionIRI rdf:resource="http://www.omg.org/spec/LCC/20190201/Countries/Regions/ISO3166-2-SubdivisionCodes-TH/"/>
       <sm:fileAbstract rdf:datatype="&xsd;string">This ontology represents the subset of the ISO 3166 standard that includes the actual ISO 3166-2 subdivision codes for Thailand, with the ontology and codes for the other parts of the standard represented in models that this ontology depends on.</sm:fileAbstract>
-      <dct:issued rdf:datatype="&xsd;dateTime">2017-07-20T22:26:02.631805+02:00</dct:issued>
+      <dct:issued rdf:datatype="&xsd;dateTime">2019-02-14T00:48:51.124818+01:00</dct:issued>
 
       <sm:dependsOn rdf:datatype="&xsd;anyURI">http://www.omg.org/spec/LCC/Languages/LanguageRepresentation/</sm:dependsOn>
       <sm:dependsOn rdf:datatype="&xsd;anyURI">http://www.omg.org/spec/LCC/Countries/CountryRepresentation/</sm:dependsOn>
@@ -106,366 +106,6 @@
     //
     ///////////////////////////////////////////////////////////////////////////////////////
     -->
-
-
-  <!--
-    ///////////////////////////////////////////////////////////////////////////////////////
-    //
-    // Nonthaburi
-    //
-    ///////////////////////////////////////////////////////////////////////////////////////
-    -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-th;Nonthaburi">
-      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>Nonthaburi</rdfs:label>
-      <skos:definition>The province of Nonthaburi in the country of Thailand</skos:definition>
-      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Thailand"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="th">Nonthaburi</lcc-cr:hasLocalShortName>
-      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-th;Province"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-th;"/>
-   </owl:NamedIndividual>
-
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-th;TH-12">
-      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the province of Nonthaburi in the country of Thailand</skos:definition>
-      <rdfs:label>TH-12</rdfs:label>
-      <lcc-lr:hasTag rdf:datatype="&xsd;string">TH-12</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-2-th;Nonthaburi"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-2-th;Nonthaburi"/>
-      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-th;"/>
-   </owl:NamedIndividual>
-
-
-
-  <!--
-    ///////////////////////////////////////////////////////////////////////////////////////
-    //
-    // Prachin Buri
-    //
-    ///////////////////////////////////////////////////////////////////////////////////////
-    -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-th;PrachinBuri">
-      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>Prachin Buri</rdfs:label>
-      <skos:definition>The province of Prachin Buri in the country of Thailand</skos:definition>
-      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Thailand"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="th">Prachin Buri</lcc-cr:hasLocalShortName>
-      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-th;Province"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-th;"/>
-   </owl:NamedIndividual>
-
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-th;TH-25">
-      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the province of Prachin Buri in the country of Thailand</skos:definition>
-      <rdfs:label>TH-25</rdfs:label>
-      <lcc-lr:hasTag rdf:datatype="&xsd;string">TH-25</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-2-th;PrachinBuri"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-2-th;PrachinBuri"/>
-      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-th;"/>
-   </owl:NamedIndividual>
-
-
-
-  <!--
-    ///////////////////////////////////////////////////////////////////////////////////////
-    //
-    // Nakhon Nayok
-    //
-    ///////////////////////////////////////////////////////////////////////////////////////
-    -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-th;NakhonNayok">
-      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>Nakhon Nayok</rdfs:label>
-      <skos:definition>The province of Nakhon Nayok in the country of Thailand</skos:definition>
-      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Thailand"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="th">Nakhon Nayok</lcc-cr:hasLocalShortName>
-      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-th;Province"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-th;"/>
-   </owl:NamedIndividual>
-
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-th;TH-26">
-      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the province of Nakhon Nayok in the country of Thailand</skos:definition>
-      <rdfs:label>TH-26</rdfs:label>
-      <lcc-lr:hasTag rdf:datatype="&xsd;string">TH-26</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-2-th;NakhonNayok"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-2-th;NakhonNayok"/>
-      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-th;"/>
-   </owl:NamedIndividual>
-
-
-
-  <!--
-    ///////////////////////////////////////////////////////////////////////////////////////
-    //
-    // Buri Ram
-    //
-    ///////////////////////////////////////////////////////////////////////////////////////
-    -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-th;BuriRam">
-      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>Buri Ram</rdfs:label>
-      <skos:definition>The province of Buri Ram in the country of Thailand</skos:definition>
-      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Thailand"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="th">Buri Ram</lcc-cr:hasLocalShortName>
-      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-th;Province"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-th;"/>
-   </owl:NamedIndividual>
-
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-th;TH-31">
-      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the province of Buri Ram in the country of Thailand</skos:definition>
-      <rdfs:label>TH-31</rdfs:label>
-      <lcc-lr:hasTag rdf:datatype="&xsd;string">TH-31</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-2-th;BuriRam"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-2-th;BuriRam"/>
-      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-th;"/>
-   </owl:NamedIndividual>
-
-
-
-  <!--
-    ///////////////////////////////////////////////////////////////////////////////////////
-    //
-    // Si Sa Ket
-    //
-    ///////////////////////////////////////////////////////////////////////////////////////
-    -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-th;SiSaKet">
-      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>Si Sa Ket</rdfs:label>
-      <skos:definition>The province of Si Sa Ket in the country of Thailand</skos:definition>
-      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Thailand"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="th">Si Sa Ket</lcc-cr:hasLocalShortName>
-      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-th;Province"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-th;"/>
-   </owl:NamedIndividual>
-
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-th;TH-33">
-      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the province of Si Sa Ket in the country of Thailand</skos:definition>
-      <rdfs:label>TH-33</rdfs:label>
-      <lcc-lr:hasTag rdf:datatype="&xsd;string">TH-33</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-2-th;SiSaKet"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-2-th;SiSaKet"/>
-      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-th;"/>
-   </owl:NamedIndividual>
-
-
-
-  <!--
-    ///////////////////////////////////////////////////////////////////////////////////////
-    //
-    // Khon Kaen
-    //
-    ///////////////////////////////////////////////////////////////////////////////////////
-    -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-th;KhonKaen">
-      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>Khon Kaen</rdfs:label>
-      <skos:definition>The province of Khon Kaen in the country of Thailand</skos:definition>
-      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Thailand"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="th">Khon Kaen</lcc-cr:hasLocalShortName>
-      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-th;Province"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-th;"/>
-   </owl:NamedIndividual>
-
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-th;TH-40">
-      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the province of Khon Kaen in the country of Thailand</skos:definition>
-      <rdfs:label>TH-40</rdfs:label>
-      <lcc-lr:hasTag rdf:datatype="&xsd;string">TH-40</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-2-th;KhonKaen"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-2-th;KhonKaen"/>
-      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-th;"/>
-   </owl:NamedIndividual>
-
-
-
-  <!--
-    ///////////////////////////////////////////////////////////////////////////////////////
-    //
-    // Chiang Mai
-    //
-    ///////////////////////////////////////////////////////////////////////////////////////
-    -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-th;ChiangMai">
-      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>Chiang Mai</rdfs:label>
-      <skos:definition>The province of Chiang Mai in the country of Thailand</skos:definition>
-      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Thailand"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="th">Chiang Mai</lcc-cr:hasLocalShortName>
-      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-th;Province"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-th;"/>
-   </owl:NamedIndividual>
-
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-th;TH-50">
-      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the province of Chiang Mai in the country of Thailand</skos:definition>
-      <rdfs:label>TH-50</rdfs:label>
-      <lcc-lr:hasTag rdf:datatype="&xsd;string">TH-50</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-2-th;ChiangMai"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-2-th;ChiangMai"/>
-      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-th;"/>
-   </owl:NamedIndividual>
-
-
-
-  <!--
-    ///////////////////////////////////////////////////////////////////////////////////////
-    //
-    // Uttaradit
-    //
-    ///////////////////////////////////////////////////////////////////////////////////////
-    -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-th;Uttaradit">
-      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>Uttaradit</rdfs:label>
-      <skos:definition>The province of Uttaradit in the country of Thailand</skos:definition>
-      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Thailand"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="th">Uttaradit</lcc-cr:hasLocalShortName>
-      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-th;Province"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-th;"/>
-   </owl:NamedIndividual>
-
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-th;TH-53">
-      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the province of Uttaradit in the country of Thailand</skos:definition>
-      <rdfs:label>TH-53</rdfs:label>
-      <lcc-lr:hasTag rdf:datatype="&xsd;string">TH-53</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-2-th;Uttaradit"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-2-th;Uttaradit"/>
-      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-th;"/>
-   </owl:NamedIndividual>
-
-
-
-  <!--
-    ///////////////////////////////////////////////////////////////////////////////////////
-    //
-    // Kamphaeng Phet
-    //
-    ///////////////////////////////////////////////////////////////////////////////////////
-    -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-th;KamphaengPhet">
-      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>Kamphaeng Phet</rdfs:label>
-      <skos:definition>The province of Kamphaeng Phet in the country of Thailand</skos:definition>
-      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Thailand"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="th">Kamphaeng Phet</lcc-cr:hasLocalShortName>
-      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-th;Province"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-th;"/>
-   </owl:NamedIndividual>
-
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-th;TH-62">
-      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the province of Kamphaeng Phet in the country of Thailand</skos:definition>
-      <rdfs:label>TH-62</rdfs:label>
-      <lcc-lr:hasTag rdf:datatype="&xsd;string">TH-62</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-2-th;KamphaengPhet"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-2-th;KamphaengPhet"/>
-      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-th;"/>
-   </owl:NamedIndividual>
-
-
-
-  <!--
-    ///////////////////////////////////////////////////////////////////////////////////////
-    //
-    // Sukhothai
-    //
-    ///////////////////////////////////////////////////////////////////////////////////////
-    -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-th;Sukhothai">
-      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>Sukhothai</rdfs:label>
-      <skos:definition>The province of Sukhothai in the country of Thailand</skos:definition>
-      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Thailand"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="th">Sukhothai</lcc-cr:hasLocalShortName>
-      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-th;Province"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-th;"/>
-   </owl:NamedIndividual>
-
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-th;TH-64">
-      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the province of Sukhothai in the country of Thailand</skos:definition>
-      <rdfs:label>TH-64</rdfs:label>
-      <lcc-lr:hasTag rdf:datatype="&xsd;string">TH-64</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-2-th;Sukhothai"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-2-th;Sukhothai"/>
-      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-th;"/>
-   </owl:NamedIndividual>
-
-
-
-  <!--
-    ///////////////////////////////////////////////////////////////////////////////////////
-    //
-    // Phetchaburi
-    //
-    ///////////////////////////////////////////////////////////////////////////////////////
-    -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-th;Phetchaburi">
-      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>Phetchaburi</rdfs:label>
-      <skos:definition>The province of Phetchaburi in the country of Thailand</skos:definition>
-      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Thailand"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="th">Phetchaburi</lcc-cr:hasLocalShortName>
-      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-th;Province"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-th;"/>
-   </owl:NamedIndividual>
-
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-th;TH-76">
-      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the province of Phetchaburi in the country of Thailand</skos:definition>
-      <rdfs:label>TH-76</rdfs:label>
-      <lcc-lr:hasTag rdf:datatype="&xsd;string">TH-76</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-2-th;Phetchaburi"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-2-th;Phetchaburi"/>
-      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-th;"/>
-   </owl:NamedIndividual>
-
-
-
-  <!--
-    ///////////////////////////////////////////////////////////////////////////////////////
-    //
-    // Krabi
-    //
-    ///////////////////////////////////////////////////////////////////////////////////////
-    -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-th;Krabi">
-      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>Krabi</rdfs:label>
-      <skos:definition>The province of Krabi in the country of Thailand</skos:definition>
-      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Thailand"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="th">Krabi</lcc-cr:hasLocalShortName>
-      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-th;Province"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-th;"/>
-   </owl:NamedIndividual>
-
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-th;TH-81">
-      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the province of Krabi in the country of Thailand</skos:definition>
-      <rdfs:label>TH-81</rdfs:label>
-      <lcc-lr:hasTag rdf:datatype="&xsd;string">TH-81</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-2-th;Krabi"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-2-th;Krabi"/>
-      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-th;"/>
-   </owl:NamedIndividual>
-
 
 
   <!--
@@ -2442,6 +2082,366 @@
       <lcc-lr:hasTag rdf:datatype="&xsd;string">TH-96</lcc-lr:hasTag>
       <lcc-lr:denotes rdf:resource="&lcc-3166-2-th;Narathiwat"/>
       <lcc-lr:identifies rdf:resource="&lcc-3166-2-th;Narathiwat"/>
+      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-th;"/>
+   </owl:NamedIndividual>
+
+
+
+  <!--
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Nonthaburi
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+    -->
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-th;Nonthaburi">
+      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
+      <rdfs:label>Nonthaburi</rdfs:label>
+      <skos:definition>The province of Nonthaburi in the country of Thailand</skos:definition>
+      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Thailand"/>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="th">Nonthaburi</lcc-cr:hasLocalShortName>
+      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-th;Province"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-th;"/>
+   </owl:NamedIndividual>
+
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-th;TH-12">
+      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
+      <skos:definition>subdivision code for the province of Nonthaburi in the country of Thailand</skos:definition>
+      <rdfs:label>TH-12</rdfs:label>
+      <lcc-lr:hasTag rdf:datatype="&xsd;string">TH-12</lcc-lr:hasTag>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-th;Nonthaburi"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-th;Nonthaburi"/>
+      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-th;"/>
+   </owl:NamedIndividual>
+
+
+
+  <!--
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Prachin Buri
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+    -->
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-th;PrachinBuri">
+      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
+      <rdfs:label>Prachin Buri</rdfs:label>
+      <skos:definition>The province of Prachin Buri in the country of Thailand</skos:definition>
+      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Thailand"/>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="th">Prachin Buri</lcc-cr:hasLocalShortName>
+      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-th;Province"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-th;"/>
+   </owl:NamedIndividual>
+
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-th;TH-25">
+      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
+      <skos:definition>subdivision code for the province of Prachin Buri in the country of Thailand</skos:definition>
+      <rdfs:label>TH-25</rdfs:label>
+      <lcc-lr:hasTag rdf:datatype="&xsd;string">TH-25</lcc-lr:hasTag>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-th;PrachinBuri"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-th;PrachinBuri"/>
+      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-th;"/>
+   </owl:NamedIndividual>
+
+
+
+  <!--
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Nakhon Nayok
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+    -->
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-th;NakhonNayok">
+      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
+      <rdfs:label>Nakhon Nayok</rdfs:label>
+      <skos:definition>The province of Nakhon Nayok in the country of Thailand</skos:definition>
+      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Thailand"/>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="th">Nakhon Nayok</lcc-cr:hasLocalShortName>
+      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-th;Province"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-th;"/>
+   </owl:NamedIndividual>
+
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-th;TH-26">
+      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
+      <skos:definition>subdivision code for the province of Nakhon Nayok in the country of Thailand</skos:definition>
+      <rdfs:label>TH-26</rdfs:label>
+      <lcc-lr:hasTag rdf:datatype="&xsd;string">TH-26</lcc-lr:hasTag>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-th;NakhonNayok"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-th;NakhonNayok"/>
+      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-th;"/>
+   </owl:NamedIndividual>
+
+
+
+  <!--
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Buri Ram
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+    -->
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-th;BuriRam">
+      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
+      <rdfs:label>Buri Ram</rdfs:label>
+      <skos:definition>The province of Buri Ram in the country of Thailand</skos:definition>
+      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Thailand"/>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="th">Buri Ram</lcc-cr:hasLocalShortName>
+      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-th;Province"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-th;"/>
+   </owl:NamedIndividual>
+
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-th;TH-31">
+      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
+      <skos:definition>subdivision code for the province of Buri Ram in the country of Thailand</skos:definition>
+      <rdfs:label>TH-31</rdfs:label>
+      <lcc-lr:hasTag rdf:datatype="&xsd;string">TH-31</lcc-lr:hasTag>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-th;BuriRam"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-th;BuriRam"/>
+      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-th;"/>
+   </owl:NamedIndividual>
+
+
+
+  <!--
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Si Sa Ket
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+    -->
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-th;SiSaKet">
+      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
+      <rdfs:label>Si Sa Ket</rdfs:label>
+      <skos:definition>The province of Si Sa Ket in the country of Thailand</skos:definition>
+      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Thailand"/>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="th">Si Sa Ket</lcc-cr:hasLocalShortName>
+      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-th;Province"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-th;"/>
+   </owl:NamedIndividual>
+
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-th;TH-33">
+      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
+      <skos:definition>subdivision code for the province of Si Sa Ket in the country of Thailand</skos:definition>
+      <rdfs:label>TH-33</rdfs:label>
+      <lcc-lr:hasTag rdf:datatype="&xsd;string">TH-33</lcc-lr:hasTag>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-th;SiSaKet"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-th;SiSaKet"/>
+      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-th;"/>
+   </owl:NamedIndividual>
+
+
+
+  <!--
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Khon Kaen
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+    -->
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-th;KhonKaen">
+      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
+      <rdfs:label>Khon Kaen</rdfs:label>
+      <skos:definition>The province of Khon Kaen in the country of Thailand</skos:definition>
+      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Thailand"/>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="th">Khon Kaen</lcc-cr:hasLocalShortName>
+      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-th;Province"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-th;"/>
+   </owl:NamedIndividual>
+
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-th;TH-40">
+      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
+      <skos:definition>subdivision code for the province of Khon Kaen in the country of Thailand</skos:definition>
+      <rdfs:label>TH-40</rdfs:label>
+      <lcc-lr:hasTag rdf:datatype="&xsd;string">TH-40</lcc-lr:hasTag>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-th;KhonKaen"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-th;KhonKaen"/>
+      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-th;"/>
+   </owl:NamedIndividual>
+
+
+
+  <!--
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Chiang Mai
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+    -->
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-th;ChiangMai">
+      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
+      <rdfs:label>Chiang Mai</rdfs:label>
+      <skos:definition>The province of Chiang Mai in the country of Thailand</skos:definition>
+      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Thailand"/>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="th">Chiang Mai</lcc-cr:hasLocalShortName>
+      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-th;Province"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-th;"/>
+   </owl:NamedIndividual>
+
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-th;TH-50">
+      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
+      <skos:definition>subdivision code for the province of Chiang Mai in the country of Thailand</skos:definition>
+      <rdfs:label>TH-50</rdfs:label>
+      <lcc-lr:hasTag rdf:datatype="&xsd;string">TH-50</lcc-lr:hasTag>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-th;ChiangMai"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-th;ChiangMai"/>
+      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-th;"/>
+   </owl:NamedIndividual>
+
+
+
+  <!--
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Uttaradit
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+    -->
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-th;Uttaradit">
+      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
+      <rdfs:label>Uttaradit</rdfs:label>
+      <skos:definition>The province of Uttaradit in the country of Thailand</skos:definition>
+      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Thailand"/>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="th">Uttaradit</lcc-cr:hasLocalShortName>
+      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-th;Province"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-th;"/>
+   </owl:NamedIndividual>
+
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-th;TH-53">
+      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
+      <skos:definition>subdivision code for the province of Uttaradit in the country of Thailand</skos:definition>
+      <rdfs:label>TH-53</rdfs:label>
+      <lcc-lr:hasTag rdf:datatype="&xsd;string">TH-53</lcc-lr:hasTag>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-th;Uttaradit"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-th;Uttaradit"/>
+      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-th;"/>
+   </owl:NamedIndividual>
+
+
+
+  <!--
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Kamphaeng Phet
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+    -->
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-th;KamphaengPhet">
+      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
+      <rdfs:label>Kamphaeng Phet</rdfs:label>
+      <skos:definition>The province of Kamphaeng Phet in the country of Thailand</skos:definition>
+      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Thailand"/>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="th">Kamphaeng Phet</lcc-cr:hasLocalShortName>
+      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-th;Province"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-th;"/>
+   </owl:NamedIndividual>
+
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-th;TH-62">
+      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
+      <skos:definition>subdivision code for the province of Kamphaeng Phet in the country of Thailand</skos:definition>
+      <rdfs:label>TH-62</rdfs:label>
+      <lcc-lr:hasTag rdf:datatype="&xsd;string">TH-62</lcc-lr:hasTag>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-th;KamphaengPhet"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-th;KamphaengPhet"/>
+      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-th;"/>
+   </owl:NamedIndividual>
+
+
+
+  <!--
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Sukhothai
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+    -->
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-th;Sukhothai">
+      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
+      <rdfs:label>Sukhothai</rdfs:label>
+      <skos:definition>The province of Sukhothai in the country of Thailand</skos:definition>
+      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Thailand"/>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="th">Sukhothai</lcc-cr:hasLocalShortName>
+      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-th;Province"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-th;"/>
+   </owl:NamedIndividual>
+
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-th;TH-64">
+      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
+      <skos:definition>subdivision code for the province of Sukhothai in the country of Thailand</skos:definition>
+      <rdfs:label>TH-64</rdfs:label>
+      <lcc-lr:hasTag rdf:datatype="&xsd;string">TH-64</lcc-lr:hasTag>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-th;Sukhothai"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-th;Sukhothai"/>
+      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-th;"/>
+   </owl:NamedIndividual>
+
+
+
+  <!--
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Phetchaburi
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+    -->
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-th;Phetchaburi">
+      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
+      <rdfs:label>Phetchaburi</rdfs:label>
+      <skos:definition>The province of Phetchaburi in the country of Thailand</skos:definition>
+      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Thailand"/>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="th">Phetchaburi</lcc-cr:hasLocalShortName>
+      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-th;Province"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-th;"/>
+   </owl:NamedIndividual>
+
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-th;TH-76">
+      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
+      <skos:definition>subdivision code for the province of Phetchaburi in the country of Thailand</skos:definition>
+      <rdfs:label>TH-76</rdfs:label>
+      <lcc-lr:hasTag rdf:datatype="&xsd;string">TH-76</lcc-lr:hasTag>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-th;Phetchaburi"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-th;Phetchaburi"/>
+      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-th;"/>
+   </owl:NamedIndividual>
+
+
+
+  <!--
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Krabi
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+    -->
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-th;Krabi">
+      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
+      <rdfs:label>Krabi</rdfs:label>
+      <skos:definition>The province of Krabi in the country of Thailand</skos:definition>
+      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Thailand"/>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="th">Krabi</lcc-cr:hasLocalShortName>
+      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-th;Province"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-th;"/>
+   </owl:NamedIndividual>
+
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-th;TH-81">
+      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
+      <skos:definition>subdivision code for the province of Krabi in the country of Thailand</skos:definition>
+      <rdfs:label>TH-81</rdfs:label>
+      <lcc-lr:hasTag rdf:datatype="&xsd;string">TH-81</lcc-lr:hasTag>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-th;Krabi"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-th;Krabi"/>
       <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-th;"/>
    </owl:NamedIndividual>

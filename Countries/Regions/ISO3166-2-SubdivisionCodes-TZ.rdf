@@ -36,9 +36,9 @@
 
       <!-- Curation and Rights Metadata for the LCC ISO 3166-2 Subdivision Codes for Tanzania, United Republic of Ontology -->
 
-      <sm:copyright rdf:datatype="&xsd;string">Copyright (c) 2015-2017 Object Management Group, Inc.
-          Copyright (c) 2015-2017 Adaptive Inc.
-          Copyright (c) 2015-2017 Thematix Partners LLC
+      <sm:copyright rdf:datatype="&xsd;string">Copyright (c) 2015-2019 Object Management Group, Inc.
+          Copyright (c) 2015-2019 Adaptive Inc.
+          Copyright (c) 2015-2019 Thematix Partners LLC
           Copyright (c) 2015-2017 Unisys
         </sm:copyright>
       <dct:license rdf:resource="&sm;MITLicense"/>
@@ -47,9 +47,9 @@
 
       <sm:filename rdf:datatype="&xsd;string">ISO3166-2-SubdivisionCodes-TZ.rdf</sm:filename>
       <sm:fileAbbreviation rdf:datatype="&xsd;string">lcc-3166-2-tz</sm:fileAbbreviation>
-      <owl:versionIRI rdf:resource="http://www.omg.org/spec/LCC/20170801/Countries/Regions/ISO3166-2-SubdivisionCodes-TZ/"/>
+      <owl:versionIRI rdf:resource="http://www.omg.org/spec/LCC/20190201/Countries/Regions/ISO3166-2-SubdivisionCodes-TZ/"/>
       <sm:fileAbstract rdf:datatype="&xsd;string">This ontology represents the subset of the ISO 3166 standard that includes the actual ISO 3166-2 subdivision codes for Tanzania, United Republic of, with the ontology and codes for the other parts of the standard represented in models that this ontology depends on.</sm:fileAbstract>
-      <dct:issued rdf:datatype="&xsd;dateTime">2017-07-20T22:26:02.631805+02:00</dct:issued>
+      <dct:issued rdf:datatype="&xsd;dateTime">2019-02-14T00:48:51.124818+01:00</dct:issued>
 
       <sm:dependsOn rdf:datatype="&xsd;anyURI">http://www.omg.org/spec/LCC/Languages/LanguageRepresentation/</sm:dependsOn>
       <sm:dependsOn rdf:datatype="&xsd;anyURI">http://www.omg.org/spec/LCC/Countries/CountryRepresentation/</sm:dependsOn>
@@ -97,118 +97,28 @@
   <!--
     ///////////////////////////////////////////////////////////////////////////////////////
     //
-    // Pemba North
+    // Songwe
     //
     ///////////////////////////////////////////////////////////////////////////////////////
     -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-tz;PembaNorth">
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-tz;Songwe">
       <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>Pemba North</rdfs:label>
-      <skos:definition>The region of Pemba North in the country of Tanzania, United Republic of</skos:definition>
+      <rdfs:label>Songwe</rdfs:label>
+      <skos:definition>The region of Songwe in the country of Tanzania, United Republic of</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Tanzania"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sw">Kaskazini Pemba</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Pemba North</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Songwe</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sw">Songwe</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-tz;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-tz;"/>
    </owl:NamedIndividual>
 
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-tz;TZ-06">
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-tz;TZ-31">
       <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the region of Pemba North in the country of Tanzania, United Republic of</skos:definition>
-      <rdfs:label>TZ-06</rdfs:label>
-      <lcc-lr:hasTag rdf:datatype="&xsd;string">TZ-06</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-2-tz;PembaNorth"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-2-tz;PembaNorth"/>
-      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-tz;"/>
-   </owl:NamedIndividual>
-
-
-
-  <!--
-    ///////////////////////////////////////////////////////////////////////////////////////
-    //
-    // Mbeya
-    //
-    ///////////////////////////////////////////////////////////////////////////////////////
-    -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-tz;Mbeya">
-      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>Mbeya</rdfs:label>
-      <skos:definition>The region of Mbeya in the country of Tanzania, United Republic of</skos:definition>
-      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Tanzania"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sw">Mbeya</lcc-cr:hasLocalShortName>
-      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-tz;Region"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-tz;"/>
-   </owl:NamedIndividual>
-
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-tz;TZ-14">
-      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the region of Mbeya in the country of Tanzania, United Republic of</skos:definition>
-      <rdfs:label>TZ-14</rdfs:label>
-      <lcc-lr:hasTag rdf:datatype="&xsd;string">TZ-14</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-2-tz;Mbeya"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-2-tz;Mbeya"/>
-      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-tz;"/>
-   </owl:NamedIndividual>
-
-
-
-  <!--
-    ///////////////////////////////////////////////////////////////////////////////////////
-    //
-    // Rukwa
-    //
-    ///////////////////////////////////////////////////////////////////////////////////////
-    -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-tz;Rukwa">
-      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>Rukwa</rdfs:label>
-      <skos:definition>The region of Rukwa in the country of Tanzania, United Republic of</skos:definition>
-      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Tanzania"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sw">Rukwa</lcc-cr:hasLocalShortName>
-      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-tz;Region"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-tz;"/>
-   </owl:NamedIndividual>
-
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-tz;TZ-20">
-      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the region of Rukwa in the country of Tanzania, United Republic of</skos:definition>
-      <rdfs:label>TZ-20</rdfs:label>
-      <lcc-lr:hasTag rdf:datatype="&xsd;string">TZ-20</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-2-tz;Rukwa"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-2-tz;Rukwa"/>
-      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-tz;"/>
-   </owl:NamedIndividual>
-
-
-
-  <!--
-    ///////////////////////////////////////////////////////////////////////////////////////
-    //
-    // Manyara
-    //
-    ///////////////////////////////////////////////////////////////////////////////////////
-    -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-tz;Manyara">
-      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>Manyara</rdfs:label>
-      <skos:definition>The region of Manyara in the country of Tanzania, United Republic of</skos:definition>
-      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Tanzania"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sw">Manyara</lcc-cr:hasLocalShortName>
-      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-tz;Region"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-tz;"/>
-   </owl:NamedIndividual>
-
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-tz;TZ-26">
-      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the region of Manyara in the country of Tanzania, United Republic of</skos:definition>
-      <rdfs:label>TZ-26</rdfs:label>
-      <lcc-lr:hasTag rdf:datatype="&xsd;string">TZ-26</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-2-tz;Manyara"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-2-tz;Manyara"/>
+      <skos:definition>subdivision code for the region of Songwe in the country of Tanzania, United Republic of</skos:definition>
+      <rdfs:label>TZ-31</rdfs:label>
+      <lcc-lr:hasTag rdf:datatype="&xsd;string">TZ-31</lcc-lr:hasTag>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-tz;Songwe"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-tz;Songwe"/>
       <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-tz;"/>
    </owl:NamedIndividual>
@@ -994,6 +904,127 @@
       <lcc-lr:hasTag rdf:datatype="&xsd;string">TZ-22</lcc-lr:hasTag>
       <lcc-lr:denotes rdf:resource="&lcc-3166-2-tz;Shinyanga"/>
       <lcc-lr:identifies rdf:resource="&lcc-3166-2-tz;Shinyanga"/>
+      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-tz;"/>
+   </owl:NamedIndividual>
+
+
+
+  <!--
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Pemba North
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+    -->
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-tz;PembaNorth">
+      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
+      <rdfs:label>Pemba North</rdfs:label>
+      <skos:definition>The region of Pemba North in the country of Tanzania, United Republic of</skos:definition>
+      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Tanzania"/>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sw">Kaskazini Pemba</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Pemba North</lcc-cr:hasEnglishShortName>
+      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-tz;Region"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-tz;"/>
+   </owl:NamedIndividual>
+
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-tz;TZ-06">
+      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
+      <skos:definition>subdivision code for the region of Pemba North in the country of Tanzania, United Republic of</skos:definition>
+      <rdfs:label>TZ-06</rdfs:label>
+      <lcc-lr:hasTag rdf:datatype="&xsd;string">TZ-06</lcc-lr:hasTag>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-tz;PembaNorth"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-tz;PembaNorth"/>
+      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-tz;"/>
+   </owl:NamedIndividual>
+
+
+
+  <!--
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Mbeya
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+    -->
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-tz;Mbeya">
+      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
+      <rdfs:label>Mbeya</rdfs:label>
+      <skos:definition>The region of Mbeya in the country of Tanzania, United Republic of</skos:definition>
+      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Tanzania"/>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sw">Mbeya</lcc-cr:hasLocalShortName>
+      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-tz;Region"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-tz;"/>
+   </owl:NamedIndividual>
+
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-tz;TZ-14">
+      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
+      <skos:definition>subdivision code for the region of Mbeya in the country of Tanzania, United Republic of</skos:definition>
+      <rdfs:label>TZ-14</rdfs:label>
+      <lcc-lr:hasTag rdf:datatype="&xsd;string">TZ-14</lcc-lr:hasTag>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-tz;Mbeya"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-tz;Mbeya"/>
+      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-tz;"/>
+   </owl:NamedIndividual>
+
+
+
+  <!--
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Rukwa
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+    -->
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-tz;Rukwa">
+      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
+      <rdfs:label>Rukwa</rdfs:label>
+      <skos:definition>The region of Rukwa in the country of Tanzania, United Republic of</skos:definition>
+      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Tanzania"/>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sw">Rukwa</lcc-cr:hasLocalShortName>
+      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-tz;Region"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-tz;"/>
+   </owl:NamedIndividual>
+
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-tz;TZ-20">
+      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
+      <skos:definition>subdivision code for the region of Rukwa in the country of Tanzania, United Republic of</skos:definition>
+      <rdfs:label>TZ-20</rdfs:label>
+      <lcc-lr:hasTag rdf:datatype="&xsd;string">TZ-20</lcc-lr:hasTag>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-tz;Rukwa"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-tz;Rukwa"/>
+      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-tz;"/>
+   </owl:NamedIndividual>
+
+
+
+  <!--
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Manyara
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+    -->
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-tz;Manyara">
+      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
+      <rdfs:label>Manyara</rdfs:label>
+      <skos:definition>The region of Manyara in the country of Tanzania, United Republic of</skos:definition>
+      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Tanzania"/>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sw">Manyara</lcc-cr:hasLocalShortName>
+      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-tz;Region"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-tz;"/>
+   </owl:NamedIndividual>
+
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-tz;TZ-26">
+      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
+      <skos:definition>subdivision code for the region of Manyara in the country of Tanzania, United Republic of</skos:definition>
+      <rdfs:label>TZ-26</rdfs:label>
+      <lcc-lr:hasTag rdf:datatype="&xsd;string">TZ-26</lcc-lr:hasTag>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-tz;Manyara"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-tz;Manyara"/>
       <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-tz;"/>
    </owl:NamedIndividual>

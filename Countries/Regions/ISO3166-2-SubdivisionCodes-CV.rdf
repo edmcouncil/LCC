@@ -36,9 +36,9 @@
 
       <!-- Curation and Rights Metadata for the LCC ISO 3166-2 Subdivision Codes for Cabo Verde Ontology -->
 
-      <sm:copyright rdf:datatype="&xsd;string">Copyright (c) 2015-2017 Object Management Group, Inc.
-          Copyright (c) 2015-2017 Adaptive Inc.
-          Copyright (c) 2015-2017 Thematix Partners LLC
+      <sm:copyright rdf:datatype="&xsd;string">Copyright (c) 2015-2019 Object Management Group, Inc.
+          Copyright (c) 2015-2019 Adaptive Inc.
+          Copyright (c) 2015-2019 Thematix Partners LLC
           Copyright (c) 2015-2017 Unisys
         </sm:copyright>
       <dct:license rdf:resource="&sm;MITLicense"/>
@@ -47,9 +47,9 @@
 
       <sm:filename rdf:datatype="&xsd;string">ISO3166-2-SubdivisionCodes-CV.rdf</sm:filename>
       <sm:fileAbbreviation rdf:datatype="&xsd;string">lcc-3166-2-cv</sm:fileAbbreviation>
-      <owl:versionIRI rdf:resource="http://www.omg.org/spec/LCC/20170801/Countries/Regions/ISO3166-2-SubdivisionCodes-CV/"/>
+      <owl:versionIRI rdf:resource="http://www.omg.org/spec/LCC/20190201/Countries/Regions/ISO3166-2-SubdivisionCodes-CV/"/>
       <sm:fileAbstract rdf:datatype="&xsd;string">This ontology represents the subset of the ISO 3166 standard that includes the actual ISO 3166-2 subdivision codes for Cabo Verde, with the ontology and codes for the other parts of the standard represented in models that this ontology depends on.</sm:fileAbstract>
-      <dct:issued rdf:datatype="&xsd;dateTime">2017-07-20T22:26:02.631805+02:00</dct:issued>
+      <dct:issued rdf:datatype="&xsd;dateTime">2019-02-14T00:48:51.124818+01:00</dct:issued>
 
       <sm:dependsOn rdf:datatype="&xsd;anyURI">http://www.omg.org/spec/LCC/Languages/LanguageRepresentation/</sm:dependsOn>
       <sm:dependsOn rdf:datatype="&xsd;anyURI">http://www.omg.org/spec/LCC/Countries/CountryRepresentation/</sm:dependsOn>
@@ -398,6 +398,36 @@
       <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-cv;"/>
    </owl:NamedIndividual>
+
+  <!--
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Brava
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+    -->
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-cv;Brava">
+      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
+      <rdfs:label>Brava</rdfs:label>
+      <skos:definition>The municipality of Brava in the country of Cabo Verde</skos:definition>
+      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-cv;IlhasDeSotavento"/>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="pt">Brava</lcc-cr:hasLocalShortName>
+      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-cv;Municipality"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-cv;"/>
+   </owl:NamedIndividual>
+
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-cv;CV-BR">
+      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
+      <skos:definition>subdivision code for the municipality of Brava in the country of Cabo Verde</skos:definition>
+      <rdfs:label>CV-BR</rdfs:label>
+      <lcc-lr:hasTag rdf:datatype="&xsd;string">CV-BR</lcc-lr:hasTag>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-cv;Brava"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-cv;Brava"/>
+      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-cv;"/>
+   </owl:NamedIndividual>
+
+
 
   <!--
     ///////////////////////////////////////////////////////////////////////////////////////
@@ -789,36 +819,6 @@
 
 
 
-  <!--
-    ///////////////////////////////////////////////////////////////////////////////////////
-    //
-    // Brava
-    //
-    ///////////////////////////////////////////////////////////////////////////////////////
-    -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-cv;Brava">
-      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>Brava</rdfs:label>
-      <skos:definition>The municipality of Brava in the country of Cabo Verde</skos:definition>
-      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-cv;IlhasDeSotavento"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="pt">Brava</lcc-cr:hasLocalShortName>
-      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-cv;Municipality"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-cv;"/>
-   </owl:NamedIndividual>
-
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-cv;CV-BR">
-      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the municipality of Brava in the country of Cabo Verde</skos:definition>
-      <rdfs:label>CV-BR</rdfs:label>
-      <lcc-lr:hasTag rdf:datatype="&xsd;string">CV-BR</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-2-cv;Brava"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-2-cv;Brava"/>
-      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-cv;"/>
-   </owl:NamedIndividual>
-
-
-
 
 
   <!--
@@ -833,8 +833,8 @@
       <rdfs:label>São Tiago</rdfs:label>
       <skos:definition>The territory of São Tiago in the country of Cabo Verde</skos:definition>
       <lcc-cr:hasNumericRegionCode rdf:datatype="&xsd;string">1188</lcc-cr:hasNumericRegionCode>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">São Tiago</lcc-cr:hasEnglishShortName>
       <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">São Tiago</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">São Tiago</lcc-cr:hasEnglishShortName>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;CaboVerde"/>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2;Territory"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-cv;"/>
@@ -852,8 +852,8 @@
       <rdfs:label>São Vicente</rdfs:label>
       <skos:definition>The territory of São Vicente in the country of Cabo Verde</skos:definition>
       <lcc-cr:hasNumericRegionCode rdf:datatype="&xsd;string">1189</lcc-cr:hasNumericRegionCode>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">São Vicente</lcc-cr:hasEnglishShortName>
       <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">São Vicente</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">São Vicente</lcc-cr:hasEnglishShortName>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;CaboVerde"/>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2;Territory"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-cv;"/>

@@ -36,9 +36,9 @@
 
       <!-- Curation and Rights Metadata for the LCC ISO 3166-2 Subdivision Codes for Turkey Ontology -->
 
-      <sm:copyright rdf:datatype="&xsd;string">Copyright (c) 2015-2017 Object Management Group, Inc.
-          Copyright (c) 2015-2017 Adaptive Inc.
-          Copyright (c) 2015-2017 Thematix Partners LLC
+      <sm:copyright rdf:datatype="&xsd;string">Copyright (c) 2015-2019 Object Management Group, Inc.
+          Copyright (c) 2015-2019 Adaptive Inc.
+          Copyright (c) 2015-2019 Thematix Partners LLC
           Copyright (c) 2015-2017 Unisys
         </sm:copyright>
       <dct:license rdf:resource="&sm;MITLicense"/>
@@ -47,9 +47,9 @@
 
       <sm:filename rdf:datatype="&xsd;string">ISO3166-2-SubdivisionCodes-TR.rdf</sm:filename>
       <sm:fileAbbreviation rdf:datatype="&xsd;string">lcc-3166-2-tr</sm:fileAbbreviation>
-      <owl:versionIRI rdf:resource="http://www.omg.org/spec/LCC/20170801/Countries/Regions/ISO3166-2-SubdivisionCodes-TR/"/>
+      <owl:versionIRI rdf:resource="http://www.omg.org/spec/LCC/20190201/Countries/Regions/ISO3166-2-SubdivisionCodes-TR/"/>
       <sm:fileAbstract rdf:datatype="&xsd;string">This ontology represents the subset of the ISO 3166 standard that includes the actual ISO 3166-2 subdivision codes for Turkey, with the ontology and codes for the other parts of the standard represented in models that this ontology depends on.</sm:fileAbstract>
-      <dct:issued rdf:datatype="&xsd;dateTime">2017-07-20T22:26:02.631805+02:00</dct:issued>
+      <dct:issued rdf:datatype="&xsd;dateTime">2019-02-14T00:48:51.124818+01:00</dct:issued>
 
       <sm:dependsOn rdf:datatype="&xsd;anyURI">http://www.omg.org/spec/LCC/Languages/LanguageRepresentation/</sm:dependsOn>
       <sm:dependsOn rdf:datatype="&xsd;anyURI">http://www.omg.org/spec/LCC/Countries/CountryRepresentation/</sm:dependsOn>
@@ -92,396 +92,6 @@
     //
     ///////////////////////////////////////////////////////////////////////////////////////
     -->
-
-
-  <!--
-    ///////////////////////////////////////////////////////////////////////////////////////
-    //
-    // Ağrı
-    //
-    ///////////////////////////////////////////////////////////////////////////////////////
-    -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-tr;Agr">
-      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>Ağrı</rdfs:label>
-      <skos:definition>The province of Ağrı in the country of Turkey</skos:definition>
-      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Turkey"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="tr">Ağrı</lcc-cr:hasLocalShortName>
-      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-tr;Province"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-tr;"/>
-   </owl:NamedIndividual>
-
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-tr;TR-04">
-      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the province of Ağrı in the country of Turkey</skos:definition>
-      <rdfs:label>TR-04</rdfs:label>
-      <lcc-lr:hasTag rdf:datatype="&xsd;string">TR-04</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-2-tr;Agr"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-2-tr;Agr"/>
-      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-tr;"/>
-   </owl:NamedIndividual>
-
-
-
-  <!--
-    ///////////////////////////////////////////////////////////////////////////////////////
-    //
-    // Ankara
-    //
-    ///////////////////////////////////////////////////////////////////////////////////////
-    -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-tr;Ankara">
-      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>Ankara</rdfs:label>
-      <skos:definition>The province of Ankara in the country of Turkey</skos:definition>
-      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Turkey"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="tr">Ankara</lcc-cr:hasLocalShortName>
-      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-tr;Province"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-tr;"/>
-   </owl:NamedIndividual>
-
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-tr;TR-06">
-      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the province of Ankara in the country of Turkey</skos:definition>
-      <rdfs:label>TR-06</rdfs:label>
-      <lcc-lr:hasTag rdf:datatype="&xsd;string">TR-06</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-2-tr;Ankara"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-2-tr;Ankara"/>
-      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-tr;"/>
-   </owl:NamedIndividual>
-
-
-
-  <!--
-    ///////////////////////////////////////////////////////////////////////////////////////
-    //
-    // Antalya
-    //
-    ///////////////////////////////////////////////////////////////////////////////////////
-    -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-tr;Antalya">
-      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>Antalya</rdfs:label>
-      <skos:definition>The province of Antalya in the country of Turkey</skos:definition>
-      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Turkey"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="tr">Antalya</lcc-cr:hasLocalShortName>
-      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-tr;Province"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-tr;"/>
-   </owl:NamedIndividual>
-
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-tr;TR-07">
-      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the province of Antalya in the country of Turkey</skos:definition>
-      <rdfs:label>TR-07</rdfs:label>
-      <lcc-lr:hasTag rdf:datatype="&xsd;string">TR-07</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-2-tr;Antalya"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-2-tr;Antalya"/>
-      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-tr;"/>
-   </owl:NamedIndividual>
-
-
-
-  <!--
-    ///////////////////////////////////////////////////////////////////////////////////////
-    //
-    // Aydın
-    //
-    ///////////////////////////////////////////////////////////////////////////////////////
-    -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-tr;Aydn">
-      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>Aydın</rdfs:label>
-      <skos:definition>The province of Aydın in the country of Turkey</skos:definition>
-      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Turkey"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="tr">Aydın</lcc-cr:hasLocalShortName>
-      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-tr;Province"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-tr;"/>
-   </owl:NamedIndividual>
-
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-tr;TR-09">
-      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the province of Aydın in the country of Turkey</skos:definition>
-      <rdfs:label>TR-09</rdfs:label>
-      <lcc-lr:hasTag rdf:datatype="&xsd;string">TR-09</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-2-tr;Aydn"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-2-tr;Aydn"/>
-      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-tr;"/>
-   </owl:NamedIndividual>
-
-
-
-  <!--
-    ///////////////////////////////////////////////////////////////////////////////////////
-    //
-    // Bingöl
-    //
-    ///////////////////////////////////////////////////////////////////////////////////////
-    -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-tr;Bingol">
-      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>Bingöl</rdfs:label>
-      <skos:definition>The province of Bingöl in the country of Turkey</skos:definition>
-      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Turkey"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="tr">Bingöl</lcc-cr:hasLocalShortName>
-      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-tr;Province"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-tr;"/>
-   </owl:NamedIndividual>
-
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-tr;TR-12">
-      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the province of Bingöl in the country of Turkey</skos:definition>
-      <rdfs:label>TR-12</rdfs:label>
-      <lcc-lr:hasTag rdf:datatype="&xsd;string">TR-12</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-2-tr;Bingol"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-2-tr;Bingol"/>
-      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-tr;"/>
-   </owl:NamedIndividual>
-
-
-
-  <!--
-    ///////////////////////////////////////////////////////////////////////////////////////
-    //
-    // Elazığ
-    //
-    ///////////////////////////////////////////////////////////////////////////////////////
-    -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-tr;Elazg">
-      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>Elazığ</rdfs:label>
-      <skos:definition>The province of Elazığ in the country of Turkey</skos:definition>
-      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Turkey"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="tr">Elazığ</lcc-cr:hasLocalShortName>
-      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-tr;Province"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-tr;"/>
-   </owl:NamedIndividual>
-
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-tr;TR-23">
-      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the province of Elazığ in the country of Turkey</skos:definition>
-      <rdfs:label>TR-23</rdfs:label>
-      <lcc-lr:hasTag rdf:datatype="&xsd;string">TR-23</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-2-tr;Elazg"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-2-tr;Elazg"/>
-      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-tr;"/>
-   </owl:NamedIndividual>
-
-
-
-  <!--
-    ///////////////////////////////////////////////////////////////////////////////////////
-    //
-    // Eskişehir
-    //
-    ///////////////////////////////////////////////////////////////////////////////////////
-    -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-tr;Eskisehir">
-      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>Eskişehir</rdfs:label>
-      <skos:definition>The province of Eskişehir in the country of Turkey</skos:definition>
-      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Turkey"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="tr">Eskişehir</lcc-cr:hasLocalShortName>
-      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-tr;Province"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-tr;"/>
-   </owl:NamedIndividual>
-
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-tr;TR-26">
-      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the province of Eskişehir in the country of Turkey</skos:definition>
-      <rdfs:label>TR-26</rdfs:label>
-      <lcc-lr:hasTag rdf:datatype="&xsd;string">TR-26</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-2-tr;Eskisehir"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-2-tr;Eskisehir"/>
-      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-tr;"/>
-   </owl:NamedIndividual>
-
-
-
-  <!--
-    ///////////////////////////////////////////////////////////////////////////////////////
-    //
-    // Kars
-    //
-    ///////////////////////////////////////////////////////////////////////////////////////
-    -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-tr;Kars">
-      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>Kars</rdfs:label>
-      <skos:definition>The province of Kars in the country of Turkey</skos:definition>
-      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Turkey"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="tr">Kars</lcc-cr:hasLocalShortName>
-      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-tr;Province"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-tr;"/>
-   </owl:NamedIndividual>
-
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-tr;TR-36">
-      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the province of Kars in the country of Turkey</skos:definition>
-      <rdfs:label>TR-36</rdfs:label>
-      <lcc-lr:hasTag rdf:datatype="&xsd;string">TR-36</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-2-tr;Kars"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-2-tr;Kars"/>
-      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-tr;"/>
-   </owl:NamedIndividual>
-
-
-
-  <!--
-    ///////////////////////////////////////////////////////////////////////////////////////
-    //
-    // Konya
-    //
-    ///////////////////////////////////////////////////////////////////////////////////////
-    -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-tr;Konya">
-      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>Konya</rdfs:label>
-      <skos:definition>The province of Konya in the country of Turkey</skos:definition>
-      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Turkey"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="tr">Konya</lcc-cr:hasLocalShortName>
-      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-tr;Province"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-tr;"/>
-   </owl:NamedIndividual>
-
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-tr;TR-42">
-      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the province of Konya in the country of Turkey</skos:definition>
-      <rdfs:label>TR-42</rdfs:label>
-      <lcc-lr:hasTag rdf:datatype="&xsd;string">TR-42</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-2-tr;Konya"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-2-tr;Konya"/>
-      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-tr;"/>
-   </owl:NamedIndividual>
-
-
-
-  <!--
-    ///////////////////////////////////////////////////////////////////////////////////////
-    //
-    // Muğla
-    //
-    ///////////////////////////////////////////////////////////////////////////////////////
-    -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-tr;Mugla">
-      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>Muğla</rdfs:label>
-      <skos:definition>The province of Muğla in the country of Turkey</skos:definition>
-      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Turkey"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="tr">Muğla</lcc-cr:hasLocalShortName>
-      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-tr;Province"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-tr;"/>
-   </owl:NamedIndividual>
-
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-tr;TR-48">
-      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the province of Muğla in the country of Turkey</skos:definition>
-      <rdfs:label>TR-48</rdfs:label>
-      <lcc-lr:hasTag rdf:datatype="&xsd;string">TR-48</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-2-tr;Mugla"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-2-tr;Mugla"/>
-      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-tr;"/>
-   </owl:NamedIndividual>
-
-
-
-  <!--
-    ///////////////////////////////////////////////////////////////////////////////////////
-    //
-    // Niğde
-    //
-    ///////////////////////////////////////////////////////////////////////////////////////
-    -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-tr;Nigde">
-      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>Niğde</rdfs:label>
-      <skos:definition>The province of Niğde in the country of Turkey</skos:definition>
-      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Turkey"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="tr">Niğde</lcc-cr:hasLocalShortName>
-      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-tr;Province"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-tr;"/>
-   </owl:NamedIndividual>
-
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-tr;TR-51">
-      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the province of Niğde in the country of Turkey</skos:definition>
-      <rdfs:label>TR-51</rdfs:label>
-      <lcc-lr:hasTag rdf:datatype="&xsd;string">TR-51</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-2-tr;Nigde"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-2-tr;Nigde"/>
-      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-tr;"/>
-   </owl:NamedIndividual>
-
-
-
-  <!--
-    ///////////////////////////////////////////////////////////////////////////////////////
-    //
-    // Tekirdağ
-    //
-    ///////////////////////////////////////////////////////////////////////////////////////
-    -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-tr;Tekirdag">
-      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>Tekirdağ</rdfs:label>
-      <skos:definition>The province of Tekirdağ in the country of Turkey</skos:definition>
-      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Turkey"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="tr">Tekirdağ</lcc-cr:hasLocalShortName>
-      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-tr;Province"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-tr;"/>
-   </owl:NamedIndividual>
-
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-tr;TR-59">
-      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the province of Tekirdağ in the country of Turkey</skos:definition>
-      <rdfs:label>TR-59</rdfs:label>
-      <lcc-lr:hasTag rdf:datatype="&xsd;string">TR-59</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-2-tr;Tekirdag"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-2-tr;Tekirdag"/>
-      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-tr;"/>
-   </owl:NamedIndividual>
-
-
-
-  <!--
-    ///////////////////////////////////////////////////////////////////////////////////////
-    //
-    // Kilis
-    //
-    ///////////////////////////////////////////////////////////////////////////////////////
-    -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-tr;Kilis">
-      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>Kilis</rdfs:label>
-      <skos:definition>The province of Kilis in the country of Turkey</skos:definition>
-      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Turkey"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="tr">Kilis</lcc-cr:hasLocalShortName>
-      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-tr;Province"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-tr;"/>
-   </owl:NamedIndividual>
-
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-tr;TR-79">
-      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the province of Kilis in the country of Turkey</skos:definition>
-      <rdfs:label>TR-79</rdfs:label>
-      <lcc-lr:hasTag rdf:datatype="&xsd;string">TR-79</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-2-tr;Kilis"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-2-tr;Kilis"/>
-      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-tr;"/>
-   </owl:NamedIndividual>
-
 
 
   <!--
@@ -2518,6 +2128,396 @@
       <lcc-lr:hasTag rdf:datatype="&xsd;string">TR-81</lcc-lr:hasTag>
       <lcc-lr:denotes rdf:resource="&lcc-3166-2-tr;Duzce"/>
       <lcc-lr:identifies rdf:resource="&lcc-3166-2-tr;Duzce"/>
+      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-tr;"/>
+   </owl:NamedIndividual>
+
+
+
+  <!--
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Ağrı
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+    -->
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-tr;Agr">
+      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
+      <rdfs:label>Ağrı</rdfs:label>
+      <skos:definition>The province of Ağrı in the country of Turkey</skos:definition>
+      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Turkey"/>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="tr">Ağrı</lcc-cr:hasLocalShortName>
+      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-tr;Province"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-tr;"/>
+   </owl:NamedIndividual>
+
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-tr;TR-04">
+      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
+      <skos:definition>subdivision code for the province of Ağrı in the country of Turkey</skos:definition>
+      <rdfs:label>TR-04</rdfs:label>
+      <lcc-lr:hasTag rdf:datatype="&xsd;string">TR-04</lcc-lr:hasTag>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-tr;Agr"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-tr;Agr"/>
+      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-tr;"/>
+   </owl:NamedIndividual>
+
+
+
+  <!--
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Ankara
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+    -->
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-tr;Ankara">
+      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
+      <rdfs:label>Ankara</rdfs:label>
+      <skos:definition>The province of Ankara in the country of Turkey</skos:definition>
+      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Turkey"/>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="tr">Ankara</lcc-cr:hasLocalShortName>
+      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-tr;Province"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-tr;"/>
+   </owl:NamedIndividual>
+
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-tr;TR-06">
+      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
+      <skos:definition>subdivision code for the province of Ankara in the country of Turkey</skos:definition>
+      <rdfs:label>TR-06</rdfs:label>
+      <lcc-lr:hasTag rdf:datatype="&xsd;string">TR-06</lcc-lr:hasTag>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-tr;Ankara"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-tr;Ankara"/>
+      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-tr;"/>
+   </owl:NamedIndividual>
+
+
+
+  <!--
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Antalya
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+    -->
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-tr;Antalya">
+      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
+      <rdfs:label>Antalya</rdfs:label>
+      <skos:definition>The province of Antalya in the country of Turkey</skos:definition>
+      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Turkey"/>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="tr">Antalya</lcc-cr:hasLocalShortName>
+      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-tr;Province"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-tr;"/>
+   </owl:NamedIndividual>
+
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-tr;TR-07">
+      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
+      <skos:definition>subdivision code for the province of Antalya in the country of Turkey</skos:definition>
+      <rdfs:label>TR-07</rdfs:label>
+      <lcc-lr:hasTag rdf:datatype="&xsd;string">TR-07</lcc-lr:hasTag>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-tr;Antalya"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-tr;Antalya"/>
+      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-tr;"/>
+   </owl:NamedIndividual>
+
+
+
+  <!--
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Aydın
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+    -->
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-tr;Aydn">
+      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
+      <rdfs:label>Aydın</rdfs:label>
+      <skos:definition>The province of Aydın in the country of Turkey</skos:definition>
+      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Turkey"/>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="tr">Aydın</lcc-cr:hasLocalShortName>
+      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-tr;Province"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-tr;"/>
+   </owl:NamedIndividual>
+
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-tr;TR-09">
+      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
+      <skos:definition>subdivision code for the province of Aydın in the country of Turkey</skos:definition>
+      <rdfs:label>TR-09</rdfs:label>
+      <lcc-lr:hasTag rdf:datatype="&xsd;string">TR-09</lcc-lr:hasTag>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-tr;Aydn"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-tr;Aydn"/>
+      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-tr;"/>
+   </owl:NamedIndividual>
+
+
+
+  <!--
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Bingöl
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+    -->
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-tr;Bingol">
+      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
+      <rdfs:label>Bingöl</rdfs:label>
+      <skos:definition>The province of Bingöl in the country of Turkey</skos:definition>
+      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Turkey"/>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="tr">Bingöl</lcc-cr:hasLocalShortName>
+      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-tr;Province"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-tr;"/>
+   </owl:NamedIndividual>
+
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-tr;TR-12">
+      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
+      <skos:definition>subdivision code for the province of Bingöl in the country of Turkey</skos:definition>
+      <rdfs:label>TR-12</rdfs:label>
+      <lcc-lr:hasTag rdf:datatype="&xsd;string">TR-12</lcc-lr:hasTag>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-tr;Bingol"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-tr;Bingol"/>
+      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-tr;"/>
+   </owl:NamedIndividual>
+
+
+
+  <!--
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Elazığ
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+    -->
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-tr;Elazg">
+      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
+      <rdfs:label>Elazığ</rdfs:label>
+      <skos:definition>The province of Elazığ in the country of Turkey</skos:definition>
+      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Turkey"/>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="tr">Elazığ</lcc-cr:hasLocalShortName>
+      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-tr;Province"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-tr;"/>
+   </owl:NamedIndividual>
+
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-tr;TR-23">
+      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
+      <skos:definition>subdivision code for the province of Elazığ in the country of Turkey</skos:definition>
+      <rdfs:label>TR-23</rdfs:label>
+      <lcc-lr:hasTag rdf:datatype="&xsd;string">TR-23</lcc-lr:hasTag>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-tr;Elazg"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-tr;Elazg"/>
+      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-tr;"/>
+   </owl:NamedIndividual>
+
+
+
+  <!--
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Eskişehir
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+    -->
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-tr;Eskisehir">
+      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
+      <rdfs:label>Eskişehir</rdfs:label>
+      <skos:definition>The province of Eskişehir in the country of Turkey</skos:definition>
+      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Turkey"/>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="tr">Eskişehir</lcc-cr:hasLocalShortName>
+      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-tr;Province"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-tr;"/>
+   </owl:NamedIndividual>
+
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-tr;TR-26">
+      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
+      <skos:definition>subdivision code for the province of Eskişehir in the country of Turkey</skos:definition>
+      <rdfs:label>TR-26</rdfs:label>
+      <lcc-lr:hasTag rdf:datatype="&xsd;string">TR-26</lcc-lr:hasTag>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-tr;Eskisehir"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-tr;Eskisehir"/>
+      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-tr;"/>
+   </owl:NamedIndividual>
+
+
+
+  <!--
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Kars
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+    -->
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-tr;Kars">
+      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
+      <rdfs:label>Kars</rdfs:label>
+      <skos:definition>The province of Kars in the country of Turkey</skos:definition>
+      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Turkey"/>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="tr">Kars</lcc-cr:hasLocalShortName>
+      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-tr;Province"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-tr;"/>
+   </owl:NamedIndividual>
+
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-tr;TR-36">
+      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
+      <skos:definition>subdivision code for the province of Kars in the country of Turkey</skos:definition>
+      <rdfs:label>TR-36</rdfs:label>
+      <lcc-lr:hasTag rdf:datatype="&xsd;string">TR-36</lcc-lr:hasTag>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-tr;Kars"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-tr;Kars"/>
+      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-tr;"/>
+   </owl:NamedIndividual>
+
+
+
+  <!--
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Konya
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+    -->
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-tr;Konya">
+      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
+      <rdfs:label>Konya</rdfs:label>
+      <skos:definition>The province of Konya in the country of Turkey</skos:definition>
+      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Turkey"/>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="tr">Konya</lcc-cr:hasLocalShortName>
+      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-tr;Province"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-tr;"/>
+   </owl:NamedIndividual>
+
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-tr;TR-42">
+      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
+      <skos:definition>subdivision code for the province of Konya in the country of Turkey</skos:definition>
+      <rdfs:label>TR-42</rdfs:label>
+      <lcc-lr:hasTag rdf:datatype="&xsd;string">TR-42</lcc-lr:hasTag>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-tr;Konya"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-tr;Konya"/>
+      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-tr;"/>
+   </owl:NamedIndividual>
+
+
+
+  <!--
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Muğla
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+    -->
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-tr;Mugla">
+      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
+      <rdfs:label>Muğla</rdfs:label>
+      <skos:definition>The province of Muğla in the country of Turkey</skos:definition>
+      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Turkey"/>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="tr">Muğla</lcc-cr:hasLocalShortName>
+      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-tr;Province"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-tr;"/>
+   </owl:NamedIndividual>
+
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-tr;TR-48">
+      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
+      <skos:definition>subdivision code for the province of Muğla in the country of Turkey</skos:definition>
+      <rdfs:label>TR-48</rdfs:label>
+      <lcc-lr:hasTag rdf:datatype="&xsd;string">TR-48</lcc-lr:hasTag>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-tr;Mugla"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-tr;Mugla"/>
+      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-tr;"/>
+   </owl:NamedIndividual>
+
+
+
+  <!--
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Niğde
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+    -->
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-tr;Nigde">
+      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
+      <rdfs:label>Niğde</rdfs:label>
+      <skos:definition>The province of Niğde in the country of Turkey</skos:definition>
+      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Turkey"/>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="tr">Niğde</lcc-cr:hasLocalShortName>
+      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-tr;Province"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-tr;"/>
+   </owl:NamedIndividual>
+
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-tr;TR-51">
+      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
+      <skos:definition>subdivision code for the province of Niğde in the country of Turkey</skos:definition>
+      <rdfs:label>TR-51</rdfs:label>
+      <lcc-lr:hasTag rdf:datatype="&xsd;string">TR-51</lcc-lr:hasTag>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-tr;Nigde"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-tr;Nigde"/>
+      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-tr;"/>
+   </owl:NamedIndividual>
+
+
+
+  <!--
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Tekirdağ
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+    -->
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-tr;Tekirdag">
+      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
+      <rdfs:label>Tekirdağ</rdfs:label>
+      <skos:definition>The province of Tekirdağ in the country of Turkey</skos:definition>
+      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Turkey"/>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="tr">Tekirdağ</lcc-cr:hasLocalShortName>
+      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-tr;Province"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-tr;"/>
+   </owl:NamedIndividual>
+
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-tr;TR-59">
+      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
+      <skos:definition>subdivision code for the province of Tekirdağ in the country of Turkey</skos:definition>
+      <rdfs:label>TR-59</rdfs:label>
+      <lcc-lr:hasTag rdf:datatype="&xsd;string">TR-59</lcc-lr:hasTag>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-tr;Tekirdag"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-tr;Tekirdag"/>
+      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-tr;"/>
+   </owl:NamedIndividual>
+
+
+
+  <!--
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Kilis
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+    -->
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-tr;Kilis">
+      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
+      <rdfs:label>Kilis</rdfs:label>
+      <skos:definition>The province of Kilis in the country of Turkey</skos:definition>
+      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Turkey"/>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="tr">Kilis</lcc-cr:hasLocalShortName>
+      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-tr;Province"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-tr;"/>
+   </owl:NamedIndividual>
+
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-tr;TR-79">
+      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
+      <skos:definition>subdivision code for the province of Kilis in the country of Turkey</skos:definition>
+      <rdfs:label>TR-79</rdfs:label>
+      <lcc-lr:hasTag rdf:datatype="&xsd;string">TR-79</lcc-lr:hasTag>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-tr;Kilis"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-tr;Kilis"/>
       <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-tr;"/>
    </owl:NamedIndividual>

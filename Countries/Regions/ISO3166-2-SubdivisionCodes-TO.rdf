@@ -36,9 +36,9 @@
 
       <!-- Curation and Rights Metadata for the LCC ISO 3166-2 Subdivision Codes for Tonga Ontology -->
 
-      <sm:copyright rdf:datatype="&xsd;string">Copyright (c) 2015-2017 Object Management Group, Inc.
-          Copyright (c) 2015-2017 Adaptive Inc.
-          Copyright (c) 2015-2017 Thematix Partners LLC
+      <sm:copyright rdf:datatype="&xsd;string">Copyright (c) 2015-2019 Object Management Group, Inc.
+          Copyright (c) 2015-2019 Adaptive Inc.
+          Copyright (c) 2015-2019 Thematix Partners LLC
           Copyright (c) 2015-2017 Unisys
         </sm:copyright>
       <dct:license rdf:resource="&sm;MITLicense"/>
@@ -47,9 +47,9 @@
 
       <sm:filename rdf:datatype="&xsd;string">ISO3166-2-SubdivisionCodes-TO.rdf</sm:filename>
       <sm:fileAbbreviation rdf:datatype="&xsd;string">lcc-3166-2-to</sm:fileAbbreviation>
-      <owl:versionIRI rdf:resource="http://www.omg.org/spec/LCC/20170801/Countries/Regions/ISO3166-2-SubdivisionCodes-TO/"/>
+      <owl:versionIRI rdf:resource="http://www.omg.org/spec/LCC/20190201/Countries/Regions/ISO3166-2-SubdivisionCodes-TO/"/>
       <sm:fileAbstract rdf:datatype="&xsd;string">This ontology represents the subset of the ISO 3166 standard that includes the actual ISO 3166-2 subdivision codes for Tonga, with the ontology and codes for the other parts of the standard represented in models that this ontology depends on.</sm:fileAbstract>
-      <dct:issued rdf:datatype="&xsd;dateTime">2017-07-20T22:26:02.631805+02:00</dct:issued>
+      <dct:issued rdf:datatype="&xsd;dateTime">2019-02-14T00:48:51.124818+01:00</dct:issued>
 
       <sm:dependsOn rdf:datatype="&xsd;anyURI">http://www.omg.org/spec/LCC/Languages/LanguageRepresentation/</sm:dependsOn>
       <sm:dependsOn rdf:datatype="&xsd;anyURI">http://www.omg.org/spec/LCC/Countries/CountryRepresentation/</sm:dependsOn>
@@ -92,68 +92,6 @@
     //
     ///////////////////////////////////////////////////////////////////////////////////////
     -->
-
-
-  <!--
-    ///////////////////////////////////////////////////////////////////////////////////////
-    //
-    // 'Eua
-    //
-    ///////////////////////////////////////////////////////////////////////////////////////
-    -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-to;Eua">
-      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>'Eua</rdfs:label>
-      <skos:definition>The division of 'Eua in the country of Tonga</skos:definition>
-      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Tonga"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="to">'Eua</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">'Eua</lcc-cr:hasEnglishShortName>
-      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-to;Division"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-to;"/>
-   </owl:NamedIndividual>
-
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-to;TO-01">
-      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the division of 'Eua in the country of Tonga</skos:definition>
-      <rdfs:label>TO-01</rdfs:label>
-      <lcc-lr:hasTag rdf:datatype="&xsd;string">TO-01</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-2-to;Eua"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-2-to;Eua"/>
-      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-to;"/>
-   </owl:NamedIndividual>
-
-
-
-  <!--
-    ///////////////////////////////////////////////////////////////////////////////////////
-    //
-    // Vava'u
-    //
-    ///////////////////////////////////////////////////////////////////////////////////////
-    -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-to;Vavau">
-      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>Vava'u</rdfs:label>
-      <skos:definition>The division of Vava'u in the country of Tonga</skos:definition>
-      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Tonga"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Vava'u</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="to">Vava'u</lcc-cr:hasLocalShortName>
-      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-to;Division"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-to;"/>
-   </owl:NamedIndividual>
-
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-to;TO-05">
-      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the division of Vava'u in the country of Tonga</skos:definition>
-      <rdfs:label>TO-05</rdfs:label>
-      <lcc-lr:hasTag rdf:datatype="&xsd;string">TO-05</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-2-to;Vavau"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-2-to;Vavau"/>
-      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-to;"/>
-   </owl:NamedIndividual>
-
 
 
   <!--
@@ -252,6 +190,68 @@
   <!--
     ///////////////////////////////////////////////////////////////////////////////////////
     //
+    // 'Eua
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+    -->
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-to;Eua">
+      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
+      <rdfs:label>'Eua</rdfs:label>
+      <skos:definition>The division of 'Eua in the country of Tonga</skos:definition>
+      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Tonga"/>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="to">'Eua</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">'Eua</lcc-cr:hasEnglishShortName>
+      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-to;Division"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-to;"/>
+   </owl:NamedIndividual>
+
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-to;TO-01">
+      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
+      <skos:definition>subdivision code for the division of 'Eua in the country of Tonga</skos:definition>
+      <rdfs:label>TO-01</rdfs:label>
+      <lcc-lr:hasTag rdf:datatype="&xsd;string">TO-01</lcc-lr:hasTag>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-to;Eua"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-to;Eua"/>
+      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-to;"/>
+   </owl:NamedIndividual>
+
+
+
+  <!--
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Vava'u
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+    -->
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-to;Vavau">
+      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
+      <rdfs:label>Vava'u</rdfs:label>
+      <skos:definition>The division of Vava'u in the country of Tonga</skos:definition>
+      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Tonga"/>
+      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Vava'u</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="to">Vava'u</lcc-cr:hasLocalShortName>
+      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-to;Division"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-to;"/>
+   </owl:NamedIndividual>
+
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-to;TO-05">
+      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
+      <skos:definition>subdivision code for the division of Vava'u in the country of Tonga</skos:definition>
+      <rdfs:label>TO-05</rdfs:label>
+      <lcc-lr:hasTag rdf:datatype="&xsd;string">TO-05</lcc-lr:hasTag>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-to;Vavau"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-to;Vavau"/>
+      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-to;"/>
+   </owl:NamedIndividual>
+
+
+
+  <!--
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
     // Tongatapu (principal island)
     //
     ///////////////////////////////////////////////////////////////////////////////////////
@@ -261,8 +261,8 @@
       <rdfs:label>Tongatapu (principal island)</rdfs:label>
       <skos:definition>The territory of Tongatapu (principal island) in the country of Tonga</skos:definition>
       <lcc-cr:hasNumericRegionCode rdf:datatype="&xsd;string">1210</lcc-cr:hasNumericRegionCode>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Tongatapu (principal island)</lcc-cr:hasEnglishShortName>
       <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Tongatapu (île principale)</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Tongatapu (principal island)</lcc-cr:hasEnglishShortName>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Tonga"/>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2;Territory"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-to;"/>

@@ -36,9 +36,9 @@
 
       <!-- Curation and Rights Metadata for the LCC ISO 3166-2 Subdivision Codes for Romania Ontology -->
 
-      <sm:copyright rdf:datatype="&xsd;string">Copyright (c) 2015-2017 Object Management Group, Inc.
-          Copyright (c) 2015-2017 Adaptive Inc.
-          Copyright (c) 2015-2017 Thematix Partners LLC
+      <sm:copyright rdf:datatype="&xsd;string">Copyright (c) 2015-2019 Object Management Group, Inc.
+          Copyright (c) 2015-2019 Adaptive Inc.
+          Copyright (c) 2015-2019 Thematix Partners LLC
           Copyright (c) 2015-2017 Unisys
         </sm:copyright>
       <dct:license rdf:resource="&sm;MITLicense"/>
@@ -47,9 +47,9 @@
 
       <sm:filename rdf:datatype="&xsd;string">ISO3166-2-SubdivisionCodes-RO.rdf</sm:filename>
       <sm:fileAbbreviation rdf:datatype="&xsd;string">lcc-3166-2-ro</sm:fileAbbreviation>
-      <owl:versionIRI rdf:resource="http://www.omg.org/spec/LCC/20170801/Countries/Regions/ISO3166-2-SubdivisionCodes-RO/"/>
+      <owl:versionIRI rdf:resource="http://www.omg.org/spec/LCC/20190201/Countries/Regions/ISO3166-2-SubdivisionCodes-RO/"/>
       <sm:fileAbstract rdf:datatype="&xsd;string">This ontology represents the subset of the ISO 3166 standard that includes the actual ISO 3166-2 subdivision codes for Romania, with the ontology and codes for the other parts of the standard represented in models that this ontology depends on.</sm:fileAbstract>
-      <dct:issued rdf:datatype="&xsd;dateTime">2017-07-20T22:26:02.631805+02:00</dct:issued>
+      <dct:issued rdf:datatype="&xsd;dateTime">2019-02-14T00:48:51.124818+01:00</dct:issued>
 
       <sm:dependsOn rdf:datatype="&xsd;anyURI">http://www.omg.org/spec/LCC/Languages/LanguageRepresentation/</sm:dependsOn>
       <sm:dependsOn rdf:datatype="&xsd;anyURI">http://www.omg.org/spec/LCC/Countries/CountryRepresentation/</sm:dependsOn>
@@ -99,156 +99,6 @@
     //
     ///////////////////////////////////////////////////////////////////////////////////////
     -->
-
-
-  <!--
-    ///////////////////////////////////////////////////////////////////////////////////////
-    //
-    // Alba
-    //
-    ///////////////////////////////////////////////////////////////////////////////////////
-    -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-ro;Alba">
-      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>Alba</rdfs:label>
-      <skos:definition>The department of Alba in the country of Romania</skos:definition>
-      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Romania"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ro">Alba</lcc-cr:hasLocalShortName>
-      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ro;Department"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ro;"/>
-   </owl:NamedIndividual>
-
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-ro;RO-AB">
-      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the department of Alba in the country of Romania</skos:definition>
-      <rdfs:label>RO-AB</rdfs:label>
-      <lcc-lr:hasTag rdf:datatype="&xsd;string">RO-AB</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-2-ro;Alba"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-2-ro;Alba"/>
-      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ro;"/>
-   </owl:NamedIndividual>
-
-
-
-  <!--
-    ///////////////////////////////////////////////////////////////////////////////////////
-    //
-    // Arad
-    //
-    ///////////////////////////////////////////////////////////////////////////////////////
-    -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-ro;Arad">
-      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>Arad</rdfs:label>
-      <skos:definition>The department of Arad in the country of Romania</skos:definition>
-      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Romania"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ro">Arad</lcc-cr:hasLocalShortName>
-      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ro;Department"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ro;"/>
-   </owl:NamedIndividual>
-
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-ro;RO-AR">
-      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the department of Arad in the country of Romania</skos:definition>
-      <rdfs:label>RO-AR</rdfs:label>
-      <lcc-lr:hasTag rdf:datatype="&xsd;string">RO-AR</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-2-ro;Arad"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-2-ro;Arad"/>
-      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ro;"/>
-   </owl:NamedIndividual>
-
-
-
-  <!--
-    ///////////////////////////////////////////////////////////////////////////////////////
-    //
-    // Botoșani
-    //
-    ///////////////////////////////////////////////////////////////////////////////////////
-    -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-ro;Botosani">
-      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>Botoșani</rdfs:label>
-      <skos:definition>The department of Botoșani in the country of Romania</skos:definition>
-      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Romania"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ro">Botoșani</lcc-cr:hasLocalShortName>
-      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ro;Department"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ro;"/>
-   </owl:NamedIndividual>
-
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-ro;RO-BT">
-      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the department of Botoșani in the country of Romania</skos:definition>
-      <rdfs:label>RO-BT</rdfs:label>
-      <lcc-lr:hasTag rdf:datatype="&xsd;string">RO-BT</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-2-ro;Botosani"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-2-ro;Botosani"/>
-      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ro;"/>
-   </owl:NamedIndividual>
-
-
-
-  <!--
-    ///////////////////////////////////////////////////////////////////////////////////////
-    //
-    // Cluj
-    //
-    ///////////////////////////////////////////////////////////////////////////////////////
-    -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-ro;Cluj">
-      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>Cluj</rdfs:label>
-      <skos:definition>The department of Cluj in the country of Romania</skos:definition>
-      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Romania"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ro">Cluj</lcc-cr:hasLocalShortName>
-      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ro;Department"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ro;"/>
-   </owl:NamedIndividual>
-
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-ro;RO-CJ">
-      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the department of Cluj in the country of Romania</skos:definition>
-      <rdfs:label>RO-CJ</rdfs:label>
-      <lcc-lr:hasTag rdf:datatype="&xsd;string">RO-CJ</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-2-ro;Cluj"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-2-ro;Cluj"/>
-      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ro;"/>
-   </owl:NamedIndividual>
-
-
-
-  <!--
-    ///////////////////////////////////////////////////////////////////////////////////////
-    //
-    // Sibiu
-    //
-    ///////////////////////////////////////////////////////////////////////////////////////
-    -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-ro;Sibiu">
-      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>Sibiu</rdfs:label>
-      <skos:definition>The department of Sibiu in the country of Romania</skos:definition>
-      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Romania"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ro">Sibiu</lcc-cr:hasLocalShortName>
-      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ro;Department"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ro;"/>
-   </owl:NamedIndividual>
-
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-ro;RO-SB">
-      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the department of Sibiu in the country of Romania</skos:definition>
-      <rdfs:label>RO-SB</rdfs:label>
-      <lcc-lr:hasTag rdf:datatype="&xsd;string">RO-SB</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-2-ro;Sibiu"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-2-ro;Sibiu"/>
-      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ro;"/>
-   </owl:NamedIndividual>
-
 
 
   <!--
@@ -1355,6 +1205,156 @@
       <lcc-lr:hasTag rdf:datatype="&xsd;string">RO-MS</lcc-lr:hasTag>
       <lcc-lr:denotes rdf:resource="&lcc-3166-2-ro;Mures"/>
       <lcc-lr:identifies rdf:resource="&lcc-3166-2-ro;Mures"/>
+      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ro;"/>
+   </owl:NamedIndividual>
+
+
+
+  <!--
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Alba
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+    -->
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-ro;Alba">
+      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
+      <rdfs:label>Alba</rdfs:label>
+      <skos:definition>The department of Alba in the country of Romania</skos:definition>
+      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Romania"/>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ro">Alba</lcc-cr:hasLocalShortName>
+      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ro;Department"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ro;"/>
+   </owl:NamedIndividual>
+
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-ro;RO-AB">
+      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
+      <skos:definition>subdivision code for the department of Alba in the country of Romania</skos:definition>
+      <rdfs:label>RO-AB</rdfs:label>
+      <lcc-lr:hasTag rdf:datatype="&xsd;string">RO-AB</lcc-lr:hasTag>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-ro;Alba"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-ro;Alba"/>
+      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ro;"/>
+   </owl:NamedIndividual>
+
+
+
+  <!--
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Arad
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+    -->
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-ro;Arad">
+      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
+      <rdfs:label>Arad</rdfs:label>
+      <skos:definition>The department of Arad in the country of Romania</skos:definition>
+      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Romania"/>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ro">Arad</lcc-cr:hasLocalShortName>
+      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ro;Department"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ro;"/>
+   </owl:NamedIndividual>
+
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-ro;RO-AR">
+      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
+      <skos:definition>subdivision code for the department of Arad in the country of Romania</skos:definition>
+      <rdfs:label>RO-AR</rdfs:label>
+      <lcc-lr:hasTag rdf:datatype="&xsd;string">RO-AR</lcc-lr:hasTag>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-ro;Arad"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-ro;Arad"/>
+      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ro;"/>
+   </owl:NamedIndividual>
+
+
+
+  <!--
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Botoșani
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+    -->
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-ro;Botosani">
+      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
+      <rdfs:label>Botoșani</rdfs:label>
+      <skos:definition>The department of Botoșani in the country of Romania</skos:definition>
+      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Romania"/>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ro">Botoșani</lcc-cr:hasLocalShortName>
+      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ro;Department"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ro;"/>
+   </owl:NamedIndividual>
+
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-ro;RO-BT">
+      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
+      <skos:definition>subdivision code for the department of Botoșani in the country of Romania</skos:definition>
+      <rdfs:label>RO-BT</rdfs:label>
+      <lcc-lr:hasTag rdf:datatype="&xsd;string">RO-BT</lcc-lr:hasTag>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-ro;Botosani"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-ro;Botosani"/>
+      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ro;"/>
+   </owl:NamedIndividual>
+
+
+
+  <!--
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Cluj
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+    -->
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-ro;Cluj">
+      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
+      <rdfs:label>Cluj</rdfs:label>
+      <skos:definition>The department of Cluj in the country of Romania</skos:definition>
+      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Romania"/>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ro">Cluj</lcc-cr:hasLocalShortName>
+      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ro;Department"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ro;"/>
+   </owl:NamedIndividual>
+
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-ro;RO-CJ">
+      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
+      <skos:definition>subdivision code for the department of Cluj in the country of Romania</skos:definition>
+      <rdfs:label>RO-CJ</rdfs:label>
+      <lcc-lr:hasTag rdf:datatype="&xsd;string">RO-CJ</lcc-lr:hasTag>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-ro;Cluj"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-ro;Cluj"/>
+      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ro;"/>
+   </owl:NamedIndividual>
+
+
+
+  <!--
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Sibiu
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+    -->
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-ro;Sibiu">
+      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
+      <rdfs:label>Sibiu</rdfs:label>
+      <skos:definition>The department of Sibiu in the country of Romania</skos:definition>
+      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Romania"/>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ro">Sibiu</lcc-cr:hasLocalShortName>
+      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ro;Department"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ro;"/>
+   </owl:NamedIndividual>
+
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-ro;RO-SB">
+      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
+      <skos:definition>subdivision code for the department of Sibiu in the country of Romania</skos:definition>
+      <rdfs:label>RO-SB</rdfs:label>
+      <lcc-lr:hasTag rdf:datatype="&xsd;string">RO-SB</lcc-lr:hasTag>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-ro;Sibiu"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-ro;Sibiu"/>
       <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ro;"/>
    </owl:NamedIndividual>

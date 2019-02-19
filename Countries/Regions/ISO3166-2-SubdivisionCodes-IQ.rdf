@@ -36,9 +36,9 @@
 
       <!-- Curation and Rights Metadata for the LCC ISO 3166-2 Subdivision Codes for Iraq Ontology -->
 
-      <sm:copyright rdf:datatype="&xsd;string">Copyright (c) 2015-2017 Object Management Group, Inc.
-          Copyright (c) 2015-2017 Adaptive Inc.
-          Copyright (c) 2015-2017 Thematix Partners LLC
+      <sm:copyright rdf:datatype="&xsd;string">Copyright (c) 2015-2019 Object Management Group, Inc.
+          Copyright (c) 2015-2019 Adaptive Inc.
+          Copyright (c) 2015-2019 Thematix Partners LLC
           Copyright (c) 2015-2017 Unisys
         </sm:copyright>
       <dct:license rdf:resource="&sm;MITLicense"/>
@@ -47,9 +47,9 @@
 
       <sm:filename rdf:datatype="&xsd;string">ISO3166-2-SubdivisionCodes-IQ.rdf</sm:filename>
       <sm:fileAbbreviation rdf:datatype="&xsd;string">lcc-3166-2-iq</sm:fileAbbreviation>
-      <owl:versionIRI rdf:resource="http://www.omg.org/spec/LCC/20170801/Countries/Regions/ISO3166-2-SubdivisionCodes-IQ/"/>
+      <owl:versionIRI rdf:resource="http://www.omg.org/spec/LCC/20190201/Countries/Regions/ISO3166-2-SubdivisionCodes-IQ/"/>
       <sm:fileAbstract rdf:datatype="&xsd;string">This ontology represents the subset of the ISO 3166 standard that includes the actual ISO 3166-2 subdivision codes for Iraq, with the ontology and codes for the other parts of the standard represented in models that this ontology depends on.</sm:fileAbstract>
-      <dct:issued rdf:datatype="&xsd;dateTime">2017-07-20T22:26:02.631805+02:00</dct:issued>
+      <dct:issued rdf:datatype="&xsd;dateTime">2019-02-14T00:48:51.124818+01:00</dct:issued>
 
       <sm:dependsOn rdf:datatype="&xsd;anyURI">http://www.omg.org/spec/LCC/Languages/LanguageRepresentation/</sm:dependsOn>
       <sm:dependsOn rdf:datatype="&xsd;anyURI">http://www.omg.org/spec/LCC/Countries/CountryRepresentation/</sm:dependsOn>
@@ -187,28 +187,28 @@
   <!--
     ///////////////////////////////////////////////////////////////////////////////////////
     //
-    // Arbīl
+    // Hewlêr
     //
     ///////////////////////////////////////////////////////////////////////////////////////
     -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-iq;Arbil">
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-iq;Hewler">
       <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>Arbīl</rdfs:label>
-      <skos:definition>The governorate of Arbīl in the country of Iraq</skos:definition>
+      <rdfs:label>Hewlêr</rdfs:label>
+      <skos:definition>The governorate of Hewlêr in the country of Iraq</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Iraq"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Arbīl</lcc-cr:hasLocalShortName>
       <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ku">Hewlêr</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Arbīl</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-iq;Governorate"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-iq;"/>
    </owl:NamedIndividual>
 
    <owl:NamedIndividual rdf:about="&lcc-3166-2-iq;IQ-AR">
       <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the governorate of Arbīl in the country of Iraq</skos:definition>
+      <skos:definition>subdivision code for the governorate of Hewlêr in the country of Iraq</skos:definition>
       <rdfs:label>IQ-AR</rdfs:label>
       <lcc-lr:hasTag rdf:datatype="&xsd;string">IQ-AR</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-2-iq;Arbil"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-2-iq;Arbil"/>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-iq;Hewler"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-iq;Hewler"/>
       <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-iq;"/>
    </owl:NamedIndividual>
@@ -458,28 +458,28 @@
   <!--
     ///////////////////////////////////////////////////////////////////////////////////////
     //
-    // Dahūk
+    // Dihok
     //
     ///////////////////////////////////////////////////////////////////////////////////////
     -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-iq;Dahuk">
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-iq;Dihok">
       <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>Dahūk</rdfs:label>
-      <skos:definition>The governorate of Dahūk in the country of Iraq</skos:definition>
+      <rdfs:label>Dihok</rdfs:label>
+      <skos:definition>The governorate of Dihok in the country of Iraq</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Iraq"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Dahūk</lcc-cr:hasLocalShortName>
       <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ku">Dihok</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Dahūk</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-iq;Governorate"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-iq;"/>
    </owl:NamedIndividual>
 
    <owl:NamedIndividual rdf:about="&lcc-3166-2-iq;IQ-DA">
       <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the governorate of Dahūk in the country of Iraq</skos:definition>
+      <skos:definition>subdivision code for the governorate of Dihok in the country of Iraq</skos:definition>
       <rdfs:label>IQ-DA</rdfs:label>
       <lcc-lr:hasTag rdf:datatype="&xsd;string">IQ-DA</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-2-iq;Dahuk"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-2-iq;Dahuk"/>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-iq;Dihok"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-iq;Dihok"/>
       <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-iq;"/>
    </owl:NamedIndividual>
@@ -519,28 +519,28 @@
   <!--
     ///////////////////////////////////////////////////////////////////////////////////////
     //
-    // As Sulaymānīyah
+    // Slêmanî
     //
     ///////////////////////////////////////////////////////////////////////////////////////
     -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-iq;AsSulaymaniyah">
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-iq;Slemani">
       <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>As Sulaymānīyah</rdfs:label>
-      <skos:definition>The governorate of As Sulaymānīyah in the country of Iraq</skos:definition>
+      <rdfs:label>Slêmanî</rdfs:label>
+      <skos:definition>The governorate of Slêmanî in the country of Iraq</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Iraq"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">As Sulaymānīyah</lcc-cr:hasLocalShortName>
       <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ku">Slêmanî</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">As Sulaymānīyah</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-iq;Governorate"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-iq;"/>
    </owl:NamedIndividual>
 
    <owl:NamedIndividual rdf:about="&lcc-3166-2-iq;IQ-SU">
       <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the governorate of As Sulaymānīyah in the country of Iraq</skos:definition>
+      <skos:definition>subdivision code for the governorate of Slêmanî in the country of Iraq</skos:definition>
       <rdfs:label>IQ-SU</rdfs:label>
       <lcc-lr:hasTag rdf:datatype="&xsd;string">IQ-SU</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-2-iq;AsSulaymaniyah"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-2-iq;AsSulaymaniyah"/>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-iq;Slemani"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-iq;Slemani"/>
       <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-iq;"/>
    </owl:NamedIndividual>

@@ -36,9 +36,9 @@
 
       <!-- Curation and Rights Metadata for the LCC ISO 3166-2 Subdivision Codes for Bahamas (the) Ontology -->
 
-      <sm:copyright rdf:datatype="&xsd;string">Copyright (c) 2015-2017 Object Management Group, Inc.
-          Copyright (c) 2015-2017 Adaptive Inc.
-          Copyright (c) 2015-2017 Thematix Partners LLC
+      <sm:copyright rdf:datatype="&xsd;string">Copyright (c) 2015-2019 Object Management Group, Inc.
+          Copyright (c) 2015-2019 Adaptive Inc.
+          Copyright (c) 2015-2019 Thematix Partners LLC
           Copyright (c) 2015-2017 Unisys
         </sm:copyright>
       <dct:license rdf:resource="&sm;MITLicense"/>
@@ -47,9 +47,9 @@
 
       <sm:filename rdf:datatype="&xsd;string">ISO3166-2-SubdivisionCodes-BS.rdf</sm:filename>
       <sm:fileAbbreviation rdf:datatype="&xsd;string">lcc-3166-2-bs</sm:fileAbbreviation>
-      <owl:versionIRI rdf:resource="http://www.omg.org/spec/LCC/20170801/Countries/Regions/ISO3166-2-SubdivisionCodes-BS/"/>
+      <owl:versionIRI rdf:resource="http://www.omg.org/spec/LCC/20190201/Countries/Regions/ISO3166-2-SubdivisionCodes-BS/"/>
       <sm:fileAbstract rdf:datatype="&xsd;string">This ontology represents the subset of the ISO 3166 standard that includes the actual ISO 3166-2 subdivision codes for Bahamas (the), with the ontology and codes for the other parts of the standard represented in models that this ontology depends on.</sm:fileAbstract>
-      <dct:issued rdf:datatype="&xsd;dateTime">2017-07-20T22:26:02.631805+02:00</dct:issued>
+      <dct:issued rdf:datatype="&xsd;dateTime">2019-02-14T00:48:51.124818+01:00</dct:issued>
 
       <sm:dependsOn rdf:datatype="&xsd;anyURI">http://www.omg.org/spec/LCC/Languages/LanguageRepresentation/</sm:dependsOn>
       <sm:dependsOn rdf:datatype="&xsd;anyURI">http://www.omg.org/spec/LCC/Countries/CountryRepresentation/</sm:dependsOn>
@@ -80,6 +80,13 @@
       <rdf:type rdf:resource="&lcc-cr;GeographicRegionKind"/>
       <rdfs:label>district</rdfs:label>
       <skos:definition>subdivision category district in the country of Bahamas (the)</skos:definition>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-bs;"/>
+   </owl:NamedIndividual>
+
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-bs;Island">
+      <rdf:type rdf:resource="&lcc-cr;GeographicRegionKind"/>
+      <rdfs:label>island</rdfs:label>
+      <skos:definition>subdivision category island in the country of Bahamas (the)</skos:definition>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-bs;"/>
    </owl:NamedIndividual>
 
@@ -178,6 +185,36 @@
       <lcc-lr:hasTag rdf:datatype="&xsd;string">BS-RI</lcc-lr:hasTag>
       <lcc-lr:denotes rdf:resource="&lcc-3166-2-bs;RaggedIsland"/>
       <lcc-lr:identifies rdf:resource="&lcc-3166-2-bs;RaggedIsland"/>
+      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-bs;"/>
+   </owl:NamedIndividual>
+
+
+
+  <!--
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // New Providence
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+    -->
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-bs;NewProvidence">
+      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
+      <rdfs:label>New Providence</rdfs:label>
+      <skos:definition>The island of New Providence in the country of Bahamas (the)</skos:definition>
+      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Bahamas"/>
+      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">New Providence</lcc-cr:hasEnglishShortName>
+      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-bs;Island"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-bs;"/>
+   </owl:NamedIndividual>
+
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-bs;BS-NP">
+      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
+      <skos:definition>subdivision code for the island of New Providence in the country of Bahamas (the)</skos:definition>
+      <rdfs:label>BS-NP</rdfs:label>
+      <lcc-lr:hasTag rdf:datatype="&xsd;string">BS-NP</lcc-lr:hasTag>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-bs;NewProvidence"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-bs;NewProvidence"/>
       <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-bs;"/>
    </owl:NamedIndividual>

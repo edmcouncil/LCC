@@ -36,9 +36,9 @@
 
       <!-- Curation and Rights Metadata for the LCC ISO 3166-2 Subdivision Codes for United States of America (the) Ontology -->
 
-      <sm:copyright rdf:datatype="&xsd;string">Copyright (c) 2015-2017 Object Management Group, Inc.
-          Copyright (c) 2015-2017 Adaptive Inc.
-          Copyright (c) 2015-2017 Thematix Partners LLC
+      <sm:copyright rdf:datatype="&xsd;string">Copyright (c) 2015-2019 Object Management Group, Inc.
+          Copyright (c) 2015-2019 Adaptive Inc.
+          Copyright (c) 2015-2019 Thematix Partners LLC
           Copyright (c) 2015-2017 Unisys
         </sm:copyright>
       <dct:license rdf:resource="&sm;MITLicense"/>
@@ -47,9 +47,9 @@
 
       <sm:filename rdf:datatype="&xsd;string">ISO3166-2-SubdivisionCodes-US.rdf</sm:filename>
       <sm:fileAbbreviation rdf:datatype="&xsd;string">lcc-3166-2-us</sm:fileAbbreviation>
-      <owl:versionIRI rdf:resource="http://www.omg.org/spec/LCC/20170801/Countries/Regions/ISO3166-2-SubdivisionCodes-US/"/>
+      <owl:versionIRI rdf:resource="http://www.omg.org/spec/LCC/20190201/Countries/Regions/ISO3166-2-SubdivisionCodes-US/"/>
       <sm:fileAbstract rdf:datatype="&xsd;string">This ontology represents the subset of the ISO 3166 standard that includes the actual ISO 3166-2 subdivision codes for United States of America (the), with the ontology and codes for the other parts of the standard represented in models that this ontology depends on.</sm:fileAbstract>
-      <dct:issued rdf:datatype="&xsd;dateTime">2017-07-20T22:26:02.631805+02:00</dct:issued>
+      <dct:issued rdf:datatype="&xsd;dateTime">2019-02-14T00:48:51.124818+01:00</dct:issued>
 
       <sm:dependsOn rdf:datatype="&xsd;anyURI">http://www.omg.org/spec/LCC/Languages/LanguageRepresentation/</sm:dependsOn>
       <sm:dependsOn rdf:datatype="&xsd;anyURI">http://www.omg.org/spec/LCC/Countries/CountryRepresentation/</sm:dependsOn>
@@ -106,126 +106,6 @@
     //
     ///////////////////////////////////////////////////////////////////////////////////////
     -->
-
-
-  <!--
-    ///////////////////////////////////////////////////////////////////////////////////////
-    //
-    // Arkansas
-    //
-    ///////////////////////////////////////////////////////////////////////////////////////
-    -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-us;Arkansas">
-      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>Arkansas</rdfs:label>
-      <skos:definition>The state of Arkansas in the country of United States of America (the)</skos:definition>
-      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;UnitedStatesOfAmerica"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Arkansas</lcc-cr:hasEnglishShortName>
-      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-us;State"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-us;"/>
-   </owl:NamedIndividual>
-
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-us;US-AR">
-      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the state of Arkansas in the country of United States of America (the)</skos:definition>
-      <rdfs:label>US-AR</rdfs:label>
-      <lcc-lr:hasTag rdf:datatype="&xsd;string">US-AR</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-2-us;Arkansas"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-2-us;Arkansas"/>
-      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-us;"/>
-   </owl:NamedIndividual>
-
-
-
-  <!--
-    ///////////////////////////////////////////////////////////////////////////////////////
-    //
-    // Michigan
-    //
-    ///////////////////////////////////////////////////////////////////////////////////////
-    -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-us;Michigan">
-      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>Michigan</rdfs:label>
-      <skos:definition>The state of Michigan in the country of United States of America (the)</skos:definition>
-      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;UnitedStatesOfAmerica"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Michigan</lcc-cr:hasEnglishShortName>
-      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-us;State"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-us;"/>
-   </owl:NamedIndividual>
-
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-us;US-MI">
-      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the state of Michigan in the country of United States of America (the)</skos:definition>
-      <rdfs:label>US-MI</rdfs:label>
-      <lcc-lr:hasTag rdf:datatype="&xsd;string">US-MI</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-2-us;Michigan"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-2-us;Michigan"/>
-      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-us;"/>
-   </owl:NamedIndividual>
-
-
-
-  <!--
-    ///////////////////////////////////////////////////////////////////////////////////////
-    //
-    // Puerto Rico (see also separate country code entry under PR)
-    //
-    ///////////////////////////////////////////////////////////////////////////////////////
-    -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-us;PuertoRico">
-      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>Puerto Rico (see also separate country code entry under PR)</rdfs:label>
-      <skos:definition>The outlying area of Puerto Rico (see also separate country code entry under PR) in the country of United States of America (the)</skos:definition>
-      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;UnitedStatesOfAmerica"/>
-      <owl:sameAs rdf:resource="&lcc-3166-1;PuertoRico"/>
-      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-us;OutlyingArea"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-us;"/>
-   </owl:NamedIndividual>
-
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-us;US-PR">
-      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the outlying area of Puerto Rico (see also separate country code entry under PR) in the country of United States of America (the)</skos:definition>
-      <rdfs:label>US-PR</rdfs:label>
-      <lcc-lr:hasTag rdf:datatype="&xsd;string">US-PR</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-2-us;PuertoRico"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-2-us;PuertoRico"/>
-      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-us;"/>
-   </owl:NamedIndividual>
-
-
-
-  <!--
-    ///////////////////////////////////////////////////////////////////////////////////////
-    //
-    // Tennessee
-    //
-    ///////////////////////////////////////////////////////////////////////////////////////
-    -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-us;Tennessee">
-      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>Tennessee</rdfs:label>
-      <skos:definition>The state of Tennessee in the country of United States of America (the)</skos:definition>
-      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;UnitedStatesOfAmerica"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Tennessee</lcc-cr:hasEnglishShortName>
-      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-us;State"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-us;"/>
-   </owl:NamedIndividual>
-
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-us;US-TN">
-      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the state of Tennessee in the country of United States of America (the)</skos:definition>
-      <rdfs:label>US-TN</rdfs:label>
-      <lcc-lr:hasTag rdf:datatype="&xsd;string">US-TN</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-2-us;Tennessee"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-2-us;Tennessee"/>
-      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-us;"/>
-   </owl:NamedIndividual>
-
 
 
   <!--
@@ -1812,6 +1692,126 @@
       <lcc-lr:hasTag rdf:datatype="&xsd;string">US-VA</lcc-lr:hasTag>
       <lcc-lr:denotes rdf:resource="&lcc-3166-2-us;Virginia"/>
       <lcc-lr:identifies rdf:resource="&lcc-3166-2-us;Virginia"/>
+      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-us;"/>
+   </owl:NamedIndividual>
+
+
+
+  <!--
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Arkansas
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+    -->
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-us;Arkansas">
+      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
+      <rdfs:label>Arkansas</rdfs:label>
+      <skos:definition>The state of Arkansas in the country of United States of America (the)</skos:definition>
+      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;UnitedStatesOfAmerica"/>
+      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Arkansas</lcc-cr:hasEnglishShortName>
+      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-us;State"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-us;"/>
+   </owl:NamedIndividual>
+
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-us;US-AR">
+      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
+      <skos:definition>subdivision code for the state of Arkansas in the country of United States of America (the)</skos:definition>
+      <rdfs:label>US-AR</rdfs:label>
+      <lcc-lr:hasTag rdf:datatype="&xsd;string">US-AR</lcc-lr:hasTag>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-us;Arkansas"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-us;Arkansas"/>
+      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-us;"/>
+   </owl:NamedIndividual>
+
+
+
+  <!--
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Michigan
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+    -->
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-us;Michigan">
+      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
+      <rdfs:label>Michigan</rdfs:label>
+      <skos:definition>The state of Michigan in the country of United States of America (the)</skos:definition>
+      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;UnitedStatesOfAmerica"/>
+      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Michigan</lcc-cr:hasEnglishShortName>
+      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-us;State"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-us;"/>
+   </owl:NamedIndividual>
+
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-us;US-MI">
+      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
+      <skos:definition>subdivision code for the state of Michigan in the country of United States of America (the)</skos:definition>
+      <rdfs:label>US-MI</rdfs:label>
+      <lcc-lr:hasTag rdf:datatype="&xsd;string">US-MI</lcc-lr:hasTag>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-us;Michigan"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-us;Michigan"/>
+      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-us;"/>
+   </owl:NamedIndividual>
+
+
+
+  <!--
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Puerto Rico (see also separate country code entry under PR)
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+    -->
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-us;PuertoRico">
+      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
+      <rdfs:label>Puerto Rico (see also separate country code entry under PR)</rdfs:label>
+      <skos:definition>The outlying area of Puerto Rico (see also separate country code entry under PR) in the country of United States of America (the)</skos:definition>
+      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;UnitedStatesOfAmerica"/>
+      <owl:sameAs rdf:resource="&lcc-3166-1;PuertoRico"/>
+      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-us;OutlyingArea"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-us;"/>
+   </owl:NamedIndividual>
+
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-us;US-PR">
+      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
+      <skos:definition>subdivision code for the outlying area of Puerto Rico (see also separate country code entry under PR) in the country of United States of America (the)</skos:definition>
+      <rdfs:label>US-PR</rdfs:label>
+      <lcc-lr:hasTag rdf:datatype="&xsd;string">US-PR</lcc-lr:hasTag>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-us;PuertoRico"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-us;PuertoRico"/>
+      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-us;"/>
+   </owl:NamedIndividual>
+
+
+
+  <!--
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Tennessee
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+    -->
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-us;Tennessee">
+      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
+      <rdfs:label>Tennessee</rdfs:label>
+      <skos:definition>The state of Tennessee in the country of United States of America (the)</skos:definition>
+      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;UnitedStatesOfAmerica"/>
+      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Tennessee</lcc-cr:hasEnglishShortName>
+      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-us;State"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-us;"/>
+   </owl:NamedIndividual>
+
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-us;US-TN">
+      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
+      <skos:definition>subdivision code for the state of Tennessee in the country of United States of America (the)</skos:definition>
+      <rdfs:label>US-TN</rdfs:label>
+      <lcc-lr:hasTag rdf:datatype="&xsd;string">US-TN</lcc-lr:hasTag>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-us;Tennessee"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-us;Tennessee"/>
       <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-us;"/>
    </owl:NamedIndividual>

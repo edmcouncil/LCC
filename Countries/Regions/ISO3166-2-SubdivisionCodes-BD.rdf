@@ -36,9 +36,9 @@
 
       <!-- Curation and Rights Metadata for the LCC ISO 3166-2 Subdivision Codes for Bangladesh Ontology -->
 
-      <sm:copyright rdf:datatype="&xsd;string">Copyright (c) 2015-2017 Object Management Group, Inc.
-          Copyright (c) 2015-2017 Adaptive Inc.
-          Copyright (c) 2015-2017 Thematix Partners LLC
+      <sm:copyright rdf:datatype="&xsd;string">Copyright (c) 2015-2019 Object Management Group, Inc.
+          Copyright (c) 2015-2019 Adaptive Inc.
+          Copyright (c) 2015-2019 Thematix Partners LLC
           Copyright (c) 2015-2017 Unisys
         </sm:copyright>
       <dct:license rdf:resource="&sm;MITLicense"/>
@@ -47,9 +47,9 @@
 
       <sm:filename rdf:datatype="&xsd;string">ISO3166-2-SubdivisionCodes-BD.rdf</sm:filename>
       <sm:fileAbbreviation rdf:datatype="&xsd;string">lcc-3166-2-bd</sm:fileAbbreviation>
-      <owl:versionIRI rdf:resource="http://www.omg.org/spec/LCC/20170801/Countries/Regions/ISO3166-2-SubdivisionCodes-BD/"/>
+      <owl:versionIRI rdf:resource="http://www.omg.org/spec/LCC/20190201/Countries/Regions/ISO3166-2-SubdivisionCodes-BD/"/>
       <sm:fileAbstract rdf:datatype="&xsd;string">This ontology represents the subset of the ISO 3166 standard that includes the actual ISO 3166-2 subdivision codes for Bangladesh, with the ontology and codes for the other parts of the standard represented in models that this ontology depends on.</sm:fileAbstract>
-      <dct:issued rdf:datatype="&xsd;dateTime">2017-07-20T22:26:02.631805+02:00</dct:issued>
+      <dct:issued rdf:datatype="&xsd;dateTime">2019-02-14T00:48:51.124818+01:00</dct:issued>
 
       <sm:dependsOn rdf:datatype="&xsd;anyURI">http://www.omg.org/spec/LCC/Languages/LanguageRepresentation/</sm:dependsOn>
       <sm:dependsOn rdf:datatype="&xsd;anyURI">http://www.omg.org/spec/LCC/Countries/CountryRepresentation/</sm:dependsOn>
@@ -128,6 +128,36 @@
       <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-bd;"/>
    </owl:NamedIndividual>
+
+  <!--
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Noakhali
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+    -->
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-bd;Noakhali">
+      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
+      <rdfs:label>Noakhali</rdfs:label>
+      <skos:definition>The district of Noakhali in the country of Bangladesh</skos:definition>
+      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-bd;Chittagong"/>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="bn">Noakhali</lcc-cr:hasLocalShortName>
+      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-bd;District"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-bd;"/>
+   </owl:NamedIndividual>
+
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-bd;BD-47">
+      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
+      <skos:definition>subdivision code for the district of Noakhali in the country of Bangladesh</skos:definition>
+      <rdfs:label>BD-47</rdfs:label>
+      <lcc-lr:hasTag rdf:datatype="&xsd;string">BD-47</lcc-lr:hasTag>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-bd;Noakhali"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-bd;Noakhali"/>
+      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-bd;"/>
+   </owl:NamedIndividual>
+
+
 
   <!--
     ///////////////////////////////////////////////////////////////////////////////////////
@@ -429,36 +459,6 @@
 
 
 
-  <!--
-    ///////////////////////////////////////////////////////////////////////////////////////
-    //
-    // Noakhali
-    //
-    ///////////////////////////////////////////////////////////////////////////////////////
-    -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-bd;Noakhali">
-      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>Noakhali</rdfs:label>
-      <skos:definition>The district of Noakhali in the country of Bangladesh</skos:definition>
-      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-bd;Chittagong"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="bn">Noakhali</lcc-cr:hasLocalShortName>
-      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-bd;District"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-bd;"/>
-   </owl:NamedIndividual>
-
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-bd;BD-47">
-      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the district of Noakhali in the country of Bangladesh</skos:definition>
-      <rdfs:label>BD-47</rdfs:label>
-      <lcc-lr:hasTag rdf:datatype="&xsd;string">BD-47</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-2-bd;Noakhali"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-2-bd;Noakhali"/>
-      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-bd;"/>
-   </owl:NamedIndividual>
-
-
-
 
 
   <!--
@@ -642,6 +642,66 @@
   <!--
     ///////////////////////////////////////////////////////////////////////////////////////
     //
+    // Jhalakathi
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+    -->
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-bd;Jhalakathi">
+      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
+      <rdfs:label>Jhalakathi</rdfs:label>
+      <skos:definition>The district of Jhalakathi in the country of Bangladesh</skos:definition>
+      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-bd;Barisal"/>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="bn">Jhalakathi</lcc-cr:hasLocalShortName>
+      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-bd;District"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-bd;"/>
+   </owl:NamedIndividual>
+
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-bd;BD-25">
+      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
+      <skos:definition>subdivision code for the district of Jhalakathi in the country of Bangladesh</skos:definition>
+      <rdfs:label>BD-25</rdfs:label>
+      <lcc-lr:hasTag rdf:datatype="&xsd;string">BD-25</lcc-lr:hasTag>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-bd;Jhalakathi"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-bd;Jhalakathi"/>
+      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-bd;"/>
+   </owl:NamedIndividual>
+
+
+
+  <!--
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Pirojpur
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+    -->
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-bd;Pirojpur">
+      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
+      <rdfs:label>Pirojpur</rdfs:label>
+      <skos:definition>The district of Pirojpur in the country of Bangladesh</skos:definition>
+      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-bd;Barisal"/>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="bn">Pirojpur</lcc-cr:hasLocalShortName>
+      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-bd;District"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-bd;"/>
+   </owl:NamedIndividual>
+
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-bd;BD-50">
+      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
+      <skos:definition>subdivision code for the district of Pirojpur in the country of Bangladesh</skos:definition>
+      <rdfs:label>BD-50</rdfs:label>
+      <lcc-lr:hasTag rdf:datatype="&xsd;string">BD-50</lcc-lr:hasTag>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-bd;Pirojpur"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-bd;Pirojpur"/>
+      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-bd;"/>
+   </owl:NamedIndividual>
+
+
+
+  <!--
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
     // Barisal
     //
     ///////////////////////////////////////////////////////////////////////////////////////
@@ -759,66 +819,6 @@
 
 
 
-  <!--
-    ///////////////////////////////////////////////////////////////////////////////////////
-    //
-    // Jhalakathi
-    //
-    ///////////////////////////////////////////////////////////////////////////////////////
-    -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-bd;Jhalakathi">
-      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>Jhalakathi</rdfs:label>
-      <skos:definition>The district of Jhalakathi in the country of Bangladesh</skos:definition>
-      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-bd;Barisal"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="bn">Jhalakathi</lcc-cr:hasLocalShortName>
-      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-bd;District"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-bd;"/>
-   </owl:NamedIndividual>
-
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-bd;BD-25">
-      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the district of Jhalakathi in the country of Bangladesh</skos:definition>
-      <rdfs:label>BD-25</rdfs:label>
-      <lcc-lr:hasTag rdf:datatype="&xsd;string">BD-25</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-2-bd;Jhalakathi"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-2-bd;Jhalakathi"/>
-      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-bd;"/>
-   </owl:NamedIndividual>
-
-
-
-  <!--
-    ///////////////////////////////////////////////////////////////////////////////////////
-    //
-    // Pirojpur
-    //
-    ///////////////////////////////////////////////////////////////////////////////////////
-    -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-bd;Pirojpur">
-      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>Pirojpur</rdfs:label>
-      <skos:definition>The district of Pirojpur in the country of Bangladesh</skos:definition>
-      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-bd;Barisal"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="bn">Pirojpur</lcc-cr:hasLocalShortName>
-      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-bd;District"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-bd;"/>
-   </owl:NamedIndividual>
-
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-bd;BD-50">
-      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the district of Pirojpur in the country of Bangladesh</skos:definition>
-      <rdfs:label>BD-50</rdfs:label>
-      <lcc-lr:hasTag rdf:datatype="&xsd;string">BD-50</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-2-bd;Pirojpur"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-2-bd;Pirojpur"/>
-      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-bd;"/>
-   </owl:NamedIndividual>
-
-
-
 
 
   <!--
@@ -848,6 +848,96 @@
       <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-bd;"/>
    </owl:NamedIndividual>
+
+  <!--
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Madaripur
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+    -->
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-bd;Madaripur">
+      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
+      <rdfs:label>Madaripur</rdfs:label>
+      <skos:definition>The district of Madaripur in the country of Bangladesh</skos:definition>
+      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-bd;Dhaka"/>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="bn">Madaripur</lcc-cr:hasLocalShortName>
+      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-bd;District"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-bd;"/>
+   </owl:NamedIndividual>
+
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-bd;BD-36">
+      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
+      <skos:definition>subdivision code for the district of Madaripur in the country of Bangladesh</skos:definition>
+      <rdfs:label>BD-36</rdfs:label>
+      <lcc-lr:hasTag rdf:datatype="&xsd;string">BD-36</lcc-lr:hasTag>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-bd;Madaripur"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-bd;Madaripur"/>
+      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-bd;"/>
+   </owl:NamedIndividual>
+
+
+
+  <!--
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Shariatpur
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+    -->
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-bd;Shariatpur">
+      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
+      <rdfs:label>Shariatpur</rdfs:label>
+      <skos:definition>The district of Shariatpur in the country of Bangladesh</skos:definition>
+      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-bd;Dhaka"/>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="bn">Shariatpur</lcc-cr:hasLocalShortName>
+      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-bd;District"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-bd;"/>
+   </owl:NamedIndividual>
+
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-bd;BD-62">
+      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
+      <skos:definition>subdivision code for the district of Shariatpur in the country of Bangladesh</skos:definition>
+      <rdfs:label>BD-62</rdfs:label>
+      <lcc-lr:hasTag rdf:datatype="&xsd;string">BD-62</lcc-lr:hasTag>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-bd;Shariatpur"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-bd;Shariatpur"/>
+      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-bd;"/>
+   </owl:NamedIndividual>
+
+
+
+  <!--
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Tangail
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+    -->
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-bd;Tangail">
+      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
+      <rdfs:label>Tangail</rdfs:label>
+      <skos:definition>The district of Tangail in the country of Bangladesh</skos:definition>
+      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-bd;Dhaka"/>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="bn">Tangail</lcc-cr:hasLocalShortName>
+      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-bd;District"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-bd;"/>
+   </owl:NamedIndividual>
+
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-bd;BD-63">
+      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
+      <skos:definition>subdivision code for the district of Tangail in the country of Bangladesh</skos:definition>
+      <rdfs:label>BD-63</rdfs:label>
+      <lcc-lr:hasTag rdf:datatype="&xsd;string">BD-63</lcc-lr:hasTag>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-bd;Tangail"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-bd;Tangail"/>
+      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-bd;"/>
+   </owl:NamedIndividual>
+
+
 
   <!--
     ///////////////////////////////////////////////////////////////////////////////////////
@@ -1149,96 +1239,6 @@
 
 
 
-  <!--
-    ///////////////////////////////////////////////////////////////////////////////////////
-    //
-    // Madaripur
-    //
-    ///////////////////////////////////////////////////////////////////////////////////////
-    -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-bd;Madaripur">
-      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>Madaripur</rdfs:label>
-      <skos:definition>The district of Madaripur in the country of Bangladesh</skos:definition>
-      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-bd;Dhaka"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="bn">Madaripur</lcc-cr:hasLocalShortName>
-      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-bd;District"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-bd;"/>
-   </owl:NamedIndividual>
-
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-bd;BD-36">
-      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the district of Madaripur in the country of Bangladesh</skos:definition>
-      <rdfs:label>BD-36</rdfs:label>
-      <lcc-lr:hasTag rdf:datatype="&xsd;string">BD-36</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-2-bd;Madaripur"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-2-bd;Madaripur"/>
-      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-bd;"/>
-   </owl:NamedIndividual>
-
-
-
-  <!--
-    ///////////////////////////////////////////////////////////////////////////////////////
-    //
-    // Shariatpur
-    //
-    ///////////////////////////////////////////////////////////////////////////////////////
-    -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-bd;Shariatpur">
-      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>Shariatpur</rdfs:label>
-      <skos:definition>The district of Shariatpur in the country of Bangladesh</skos:definition>
-      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-bd;Dhaka"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="bn">Shariatpur</lcc-cr:hasLocalShortName>
-      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-bd;District"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-bd;"/>
-   </owl:NamedIndividual>
-
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-bd;BD-62">
-      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the district of Shariatpur in the country of Bangladesh</skos:definition>
-      <rdfs:label>BD-62</rdfs:label>
-      <lcc-lr:hasTag rdf:datatype="&xsd;string">BD-62</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-2-bd;Shariatpur"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-2-bd;Shariatpur"/>
-      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-bd;"/>
-   </owl:NamedIndividual>
-
-
-
-  <!--
-    ///////////////////////////////////////////////////////////////////////////////////////
-    //
-    // Tangail
-    //
-    ///////////////////////////////////////////////////////////////////////////////////////
-    -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-bd;Tangail">
-      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>Tangail</rdfs:label>
-      <skos:definition>The district of Tangail in the country of Bangladesh</skos:definition>
-      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-bd;Dhaka"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="bn">Tangail</lcc-cr:hasLocalShortName>
-      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-bd;District"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-bd;"/>
-   </owl:NamedIndividual>
-
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-bd;BD-63">
-      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the district of Tangail in the country of Bangladesh</skos:definition>
-      <rdfs:label>BD-63</rdfs:label>
-      <lcc-lr:hasTag rdf:datatype="&xsd;string">BD-63</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-2-bd;Tangail"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-2-bd;Tangail"/>
-      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-bd;"/>
-   </owl:NamedIndividual>
-
-
-
 
 
   <!--
@@ -1268,6 +1268,36 @@
       <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-bd;"/>
    </owl:NamedIndividual>
+
+  <!--
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Narail
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+    -->
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-bd;Narail">
+      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
+      <rdfs:label>Narail</rdfs:label>
+      <skos:definition>The district of Narail in the country of Bangladesh</skos:definition>
+      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-bd;Khulna"/>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="bn">Narail</lcc-cr:hasLocalShortName>
+      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-bd;District"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-bd;"/>
+   </owl:NamedIndividual>
+
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-bd;BD-43">
+      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
+      <skos:definition>subdivision code for the district of Narail in the country of Bangladesh</skos:definition>
+      <rdfs:label>BD-43</rdfs:label>
+      <lcc-lr:hasTag rdf:datatype="&xsd;string">BD-43</lcc-lr:hasTag>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-bd;Narail"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-bd;Narail"/>
+      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-bd;"/>
+   </owl:NamedIndividual>
+
+
 
   <!--
     ///////////////////////////////////////////////////////////////////////////////////////
@@ -1539,36 +1569,6 @@
 
 
 
-  <!--
-    ///////////////////////////////////////////////////////////////////////////////////////
-    //
-    // Narail
-    //
-    ///////////////////////////////////////////////////////////////////////////////////////
-    -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-bd;Narail">
-      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>Narail</rdfs:label>
-      <skos:definition>The district of Narail in the country of Bangladesh</skos:definition>
-      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-bd;Khulna"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="bn">Narail</lcc-cr:hasLocalShortName>
-      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-bd;District"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-bd;"/>
-   </owl:NamedIndividual>
-
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-bd;BD-43">
-      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the district of Narail in the country of Bangladesh</skos:definition>
-      <rdfs:label>BD-43</rdfs:label>
-      <lcc-lr:hasTag rdf:datatype="&xsd;string">BD-43</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-2-bd;Narail"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-2-bd;Narail"/>
-      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-bd;"/>
-   </owl:NamedIndividual>
-
-
-
 
 
   <!--
@@ -1598,6 +1598,66 @@
       <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-bd;"/>
    </owl:NamedIndividual>
+
+  <!--
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Chapai Nawabganj
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+    -->
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-bd;ChapaiNawabganj">
+      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
+      <rdfs:label>Chapai Nawabganj</rdfs:label>
+      <skos:definition>The district of Chapai Nawabganj in the country of Bangladesh</skos:definition>
+      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-bd;Rajshahi"/>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="bn">Chapai Nawabganj</lcc-cr:hasLocalShortName>
+      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-bd;District"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-bd;"/>
+   </owl:NamedIndividual>
+
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-bd;BD-45">
+      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
+      <skos:definition>subdivision code for the district of Chapai Nawabganj in the country of Bangladesh</skos:definition>
+      <rdfs:label>BD-45</rdfs:label>
+      <lcc-lr:hasTag rdf:datatype="&xsd;string">BD-45</lcc-lr:hasTag>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-bd;ChapaiNawabganj"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-bd;ChapaiNawabganj"/>
+      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-bd;"/>
+   </owl:NamedIndividual>
+
+
+
+  <!--
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Naogaon
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+    -->
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-bd;Naogaon">
+      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
+      <rdfs:label>Naogaon</rdfs:label>
+      <skos:definition>The district of Naogaon in the country of Bangladesh</skos:definition>
+      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-bd;Rajshahi"/>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="bn">Naogaon</lcc-cr:hasLocalShortName>
+      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-bd;District"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-bd;"/>
+   </owl:NamedIndividual>
+
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-bd;BD-48">
+      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
+      <skos:definition>subdivision code for the district of Naogaon in the country of Bangladesh</skos:definition>
+      <rdfs:label>BD-48</rdfs:label>
+      <lcc-lr:hasTag rdf:datatype="&xsd;string">BD-48</lcc-lr:hasTag>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-bd;Naogaon"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-bd;Naogaon"/>
+      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-bd;"/>
+   </owl:NamedIndividual>
+
+
 
   <!--
     ///////////////////////////////////////////////////////////////////////////////////////
@@ -1779,66 +1839,6 @@
 
 
 
-  <!--
-    ///////////////////////////////////////////////////////////////////////////////////////
-    //
-    // Chapai Nawabganj
-    //
-    ///////////////////////////////////////////////////////////////////////////////////////
-    -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-bd;ChapaiNawabganj">
-      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>Chapai Nawabganj</rdfs:label>
-      <skos:definition>The district of Chapai Nawabganj in the country of Bangladesh</skos:definition>
-      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-bd;Rajshahi"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="bn">Chapai Nawabganj</lcc-cr:hasLocalShortName>
-      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-bd;District"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-bd;"/>
-   </owl:NamedIndividual>
-
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-bd;BD-45">
-      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the district of Chapai Nawabganj in the country of Bangladesh</skos:definition>
-      <rdfs:label>BD-45</rdfs:label>
-      <lcc-lr:hasTag rdf:datatype="&xsd;string">BD-45</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-2-bd;ChapaiNawabganj"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-2-bd;ChapaiNawabganj"/>
-      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-bd;"/>
-   </owl:NamedIndividual>
-
-
-
-  <!--
-    ///////////////////////////////////////////////////////////////////////////////////////
-    //
-    // Naogaon
-    //
-    ///////////////////////////////////////////////////////////////////////////////////////
-    -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-bd;Naogaon">
-      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>Naogaon</rdfs:label>
-      <skos:definition>The district of Naogaon in the country of Bangladesh</skos:definition>
-      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-bd;Rajshahi"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="bn">Naogaon</lcc-cr:hasLocalShortName>
-      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-bd;District"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-bd;"/>
-   </owl:NamedIndividual>
-
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-bd;BD-48">
-      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the district of Naogaon in the country of Bangladesh</skos:definition>
-      <rdfs:label>BD-48</rdfs:label>
-      <lcc-lr:hasTag rdf:datatype="&xsd;string">BD-48</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-2-bd;Naogaon"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-2-bd;Naogaon"/>
-      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-bd;"/>
-   </owl:NamedIndividual>
-
-
-
 
 
   <!--
@@ -1868,6 +1868,36 @@
       <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-bd;"/>
    </owl:NamedIndividual>
+
+  <!--
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Rangpur
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+    -->
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-bd;Rangpur-District">
+      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
+      <rdfs:label>Rangpur</rdfs:label>
+      <skos:definition>The district of Rangpur in the country of Bangladesh</skos:definition>
+      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-bd;Rangpur"/>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="bn">Rangpur</lcc-cr:hasLocalShortName>
+      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-bd;District"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-bd;"/>
+   </owl:NamedIndividual>
+
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-bd;BD-55">
+      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
+      <skos:definition>subdivision code for the district of Rangpur in the country of Bangladesh</skos:definition>
+      <rdfs:label>BD-55</rdfs:label>
+      <lcc-lr:hasTag rdf:datatype="&xsd;string">BD-55</lcc-lr:hasTag>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-bd;Rangpur-District"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-bd;Rangpur-District"/>
+      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-bd;"/>
+   </owl:NamedIndividual>
+
+
 
   <!--
     ///////////////////////////////////////////////////////////////////////////////////////
@@ -2073,36 +2103,6 @@
       <lcc-lr:hasTag rdf:datatype="&xsd;string">BD-46</lcc-lr:hasTag>
       <lcc-lr:denotes rdf:resource="&lcc-3166-2-bd;Nilphamari"/>
       <lcc-lr:identifies rdf:resource="&lcc-3166-2-bd;Nilphamari"/>
-      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-bd;"/>
-   </owl:NamedIndividual>
-
-
-
-  <!--
-    ///////////////////////////////////////////////////////////////////////////////////////
-    //
-    // Rangpur
-    //
-    ///////////////////////////////////////////////////////////////////////////////////////
-    -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-bd;Rangpur-District">
-      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>Rangpur</rdfs:label>
-      <skos:definition>The district of Rangpur in the country of Bangladesh</skos:definition>
-      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-bd;Rangpur"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="bn">Rangpur</lcc-cr:hasLocalShortName>
-      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-bd;District"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-bd;"/>
-   </owl:NamedIndividual>
-
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-bd;BD-55">
-      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the district of Rangpur in the country of Bangladesh</skos:definition>
-      <rdfs:label>BD-55</rdfs:label>
-      <lcc-lr:hasTag rdf:datatype="&xsd;string">BD-55</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-2-bd;Rangpur-District"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-2-bd;Rangpur-District"/>
       <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-bd;"/>
    </owl:NamedIndividual>

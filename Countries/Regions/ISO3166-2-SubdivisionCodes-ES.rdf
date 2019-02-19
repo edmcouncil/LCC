@@ -36,9 +36,9 @@
 
       <!-- Curation and Rights Metadata for the LCC ISO 3166-2 Subdivision Codes for Spain Ontology -->
 
-      <sm:copyright rdf:datatype="&xsd;string">Copyright (c) 2015-2017 Object Management Group, Inc.
-          Copyright (c) 2015-2017 Adaptive Inc.
-          Copyright (c) 2015-2017 Thematix Partners LLC
+      <sm:copyright rdf:datatype="&xsd;string">Copyright (c) 2015-2019 Object Management Group, Inc.
+          Copyright (c) 2015-2019 Adaptive Inc.
+          Copyright (c) 2015-2019 Thematix Partners LLC
           Copyright (c) 2015-2017 Unisys
         </sm:copyright>
       <dct:license rdf:resource="&sm;MITLicense"/>
@@ -47,9 +47,9 @@
 
       <sm:filename rdf:datatype="&xsd;string">ISO3166-2-SubdivisionCodes-ES.rdf</sm:filename>
       <sm:fileAbbreviation rdf:datatype="&xsd;string">lcc-3166-2-es</sm:fileAbbreviation>
-      <owl:versionIRI rdf:resource="http://www.omg.org/spec/LCC/20170801/Countries/Regions/ISO3166-2-SubdivisionCodes-ES/"/>
+      <owl:versionIRI rdf:resource="http://www.omg.org/spec/LCC/20190201/Countries/Regions/ISO3166-2-SubdivisionCodes-ES/"/>
       <sm:fileAbstract rdf:datatype="&xsd;string">This ontology represents the subset of the ISO 3166 standard that includes the actual ISO 3166-2 subdivision codes for Spain, with the ontology and codes for the other parts of the standard represented in models that this ontology depends on.</sm:fileAbstract>
-      <dct:issued rdf:datatype="&xsd;dateTime">2017-07-20T22:26:02.631805+02:00</dct:issued>
+      <dct:issued rdf:datatype="&xsd;dateTime">2019-02-14T00:48:51.124818+01:00</dct:issued>
 
       <sm:dependsOn rdf:datatype="&xsd;anyURI">http://www.omg.org/spec/LCC/Languages/LanguageRepresentation/</sm:dependsOn>
       <sm:dependsOn rdf:datatype="&xsd;anyURI">http://www.omg.org/spec/LCC/Countries/CountryRepresentation/</sm:dependsOn>
@@ -135,6 +135,36 @@
       <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-es;"/>
    </owl:NamedIndividual>
+
+  <!--
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Sevilla
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+    -->
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-es;Sevilla">
+      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
+      <rdfs:label>Sevilla</rdfs:label>
+      <skos:definition>The province of Sevilla in the country of Spain</skos:definition>
+      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-es;Andalucia"/>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Sevilla</lcc-cr:hasLocalShortName>
+      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-es;Province"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-es;"/>
+   </owl:NamedIndividual>
+
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-es;ES-SE">
+      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
+      <skos:definition>subdivision code for the province of Sevilla in the country of Spain</skos:definition>
+      <rdfs:label>ES-SE</rdfs:label>
+      <lcc-lr:hasTag rdf:datatype="&xsd;string">ES-SE</lcc-lr:hasTag>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-es;Sevilla"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-es;Sevilla"/>
+      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-es;"/>
+   </owl:NamedIndividual>
+
+
 
   <!--
     ///////////////////////////////////////////////////////////////////////////////////////
@@ -340,36 +370,6 @@
       <lcc-lr:hasTag rdf:datatype="&xsd;string">ES-J</lcc-lr:hasTag>
       <lcc-lr:denotes rdf:resource="&lcc-3166-2-es;Jaen"/>
       <lcc-lr:identifies rdf:resource="&lcc-3166-2-es;Jaen"/>
-      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-es;"/>
-   </owl:NamedIndividual>
-
-
-
-  <!--
-    ///////////////////////////////////////////////////////////////////////////////////////
-    //
-    // Sevilla
-    //
-    ///////////////////////////////////////////////////////////////////////////////////////
-    -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-es;Sevilla">
-      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>Sevilla</rdfs:label>
-      <skos:definition>The province of Sevilla in the country of Spain</skos:definition>
-      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-es;Andalucia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Sevilla</lcc-cr:hasLocalShortName>
-      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-es;Province"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-es;"/>
-   </owl:NamedIndividual>
-
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-es;ES-SE">
-      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the province of Sevilla in the country of Spain</skos:definition>
-      <rdfs:label>ES-SE</rdfs:label>
-      <lcc-lr:hasTag rdf:datatype="&xsd;string">ES-SE</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-2-es;Sevilla"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-2-es;Sevilla"/>
       <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-es;"/>
    </owl:NamedIndividual>
@@ -861,6 +861,36 @@
   <!--
     ///////////////////////////////////////////////////////////////////////////////////////
     //
+    // A Coruña [La Coruña]
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+    -->
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-es;ACoruna">
+      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
+      <rdfs:label>A Coruña [La Coruña]</rdfs:label>
+      <skos:definition>The province of A Coruña [La Coruña] in the country of Spain</skos:definition>
+      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-es;Galicia"/>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="gl">A Coruña [La Coruña]</lcc-cr:hasLocalShortName>
+      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-es;Province"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-es;"/>
+   </owl:NamedIndividual>
+
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-es;ES-C">
+      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
+      <skos:definition>subdivision code for the province of A Coruña [La Coruña] in the country of Spain</skos:definition>
+      <rdfs:label>ES-C</rdfs:label>
+      <lcc-lr:hasTag rdf:datatype="&xsd;string">ES-C</lcc-lr:hasTag>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-es;ACoruna"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-es;ACoruna"/>
+      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-es;"/>
+   </owl:NamedIndividual>
+
+
+
+  <!--
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
     // Lugo [Lugo]
     //
     ///////////////////////////////////////////////////////////////////////////////////////
@@ -942,36 +972,6 @@
       <lcc-lr:hasTag rdf:datatype="&xsd;string">ES-PO</lcc-lr:hasTag>
       <lcc-lr:denotes rdf:resource="&lcc-3166-2-es;Pontevedra"/>
       <lcc-lr:identifies rdf:resource="&lcc-3166-2-es;Pontevedra"/>
-      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-es;"/>
-   </owl:NamedIndividual>
-
-
-
-  <!--
-    ///////////////////////////////////////////////////////////////////////////////////////
-    //
-    // A Coruña [La Coruña]
-    //
-    ///////////////////////////////////////////////////////////////////////////////////////
-    -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-es;ACoruna">
-      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>A Coruña [La Coruña]</rdfs:label>
-      <skos:definition>The province of A Coruña [La Coruña] in the country of Spain</skos:definition>
-      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-es;Galicia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="gl">A Coruña [La Coruña]</lcc-cr:hasLocalShortName>
-      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-es;Province"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-es;"/>
-   </owl:NamedIndividual>
-
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-es;ES-C">
-      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the province of A Coruña [La Coruña] in the country of Spain</skos:definition>
-      <rdfs:label>ES-C</rdfs:label>
-      <lcc-lr:hasTag rdf:datatype="&xsd;string">ES-C</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-2-es;ACoruna"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-2-es;ACoruna"/>
       <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-es;"/>
    </owl:NamedIndividual>
@@ -1765,6 +1765,36 @@
   <!--
     ///////////////////////////////////////////////////////////////////////////////////////
     //
+    // Salamanca
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+    -->
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-es;Salamanca">
+      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
+      <rdfs:label>Salamanca</rdfs:label>
+      <skos:definition>The province of Salamanca in the country of Spain</skos:definition>
+      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-es;CastillaYLeon"/>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Salamanca</lcc-cr:hasLocalShortName>
+      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-es;Province"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-es;"/>
+   </owl:NamedIndividual>
+
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-es;ES-SA">
+      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
+      <skos:definition>subdivision code for the province of Salamanca in the country of Spain</skos:definition>
+      <rdfs:label>ES-SA</rdfs:label>
+      <lcc-lr:hasTag rdf:datatype="&xsd;string">ES-SA</lcc-lr:hasTag>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-es;Salamanca"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-es;Salamanca"/>
+      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-es;"/>
+   </owl:NamedIndividual>
+
+
+
+  <!--
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
     // Ávila
     //
     ///////////////////////////////////////////////////////////////////////////////////////
@@ -1996,36 +2026,6 @@
       <lcc-lr:hasTag rdf:datatype="&xsd;string">ES-LE</lcc-lr:hasTag>
       <lcc-lr:denotes rdf:resource="&lcc-3166-2-es;Leon"/>
       <lcc-lr:identifies rdf:resource="&lcc-3166-2-es;Leon"/>
-      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-es;"/>
-   </owl:NamedIndividual>
-
-
-
-  <!--
-    ///////////////////////////////////////////////////////////////////////////////////////
-    //
-    // Salamanca
-    //
-    ///////////////////////////////////////////////////////////////////////////////////////
-    -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-es;Salamanca">
-      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>Salamanca</rdfs:label>
-      <skos:definition>The province of Salamanca in the country of Spain</skos:definition>
-      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-es;CastillaYLeon"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Salamanca</lcc-cr:hasLocalShortName>
-      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-es;Province"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-es;"/>
-   </owl:NamedIndividual>
-
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-es;ES-SA">
-      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the province of Salamanca in the country of Spain</skos:definition>
-      <rdfs:label>ES-SA</rdfs:label>
-      <lcc-lr:hasTag rdf:datatype="&xsd;string">ES-SA</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-2-es;Salamanca"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-2-es;Salamanca"/>
       <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-es;"/>
    </owl:NamedIndividual>

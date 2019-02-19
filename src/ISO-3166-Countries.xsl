@@ -11,7 +11,7 @@
   <!ENTITY lcc-3166-1 "http://www.omg.org/spec/LCC/Countries/ISO3166-1-CountryCodes/" >
 ]>
 
-<!-- This file is copyright 2017, Adaptive Inc.  -->
+<!-- This file is copyright 2017-2019, Adaptive Inc.  -->
 <!-- All rights reserved. -->
 <!-- A limited license is provided to use and modify this file purely for the purpose of maintaining the ontology 
      in the OMG specification "Languages Countries and Codes (LCC)" and purely by members of the LCC Revision Task Force (RTF)  -->
@@ -36,7 +36,7 @@ xmlns:lcc-3166-1="http://www.omg.org/spec/LCC/Countries/ISO3166-1-CountryCodes/"
 exclude-result-prefixes="xsl xs">
 
 <!-- Converts iso_country_codes.xml file downloaded from ISO and generates one ontology with all the countries -->
-<!-- Requires the LCC Languages ontology file ISO639-2-LanguageCodes.rdf to be in the same directory -->  
+<!-- Reads the LCC Languages ontology file ISO639-2-LanguageCodes.rdf in a sibling directory called Languages -->  
 <!-- Version IRI needs to be updated -->  
 
   <xsl:output method="xml" indent="yes" media-type="application/xml" use-character-maps="ampersand"/> 
@@ -50,7 +50,7 @@ exclude-result-prefixes="xsl xs">
 
 <!-- Need to consult the ontology file for language codes in order to construct the language URIs -->
 <!-- Assume file is local -->
-  <xsl:variable name="languages" select="document('ISO639-2-LanguageCodes.rdf')/rdf:RDF/owl:NamedIndividual"/>  
+  <xsl:variable name="languages" select="document('../Languages/ISO639-2-LanguageCodes.rdf')/rdf:RDF/owl:NamedIndividual"/>  
 
 <!-- Displays supplied text in a highly visible comment block -->
 <!-- Currently uses style from OWL API -->
@@ -100,7 +100,6 @@ exclude-result-prefixes="xsl xs">
     <xsl:otherwise>
       <xsl:message select="concat('Warning, unable to lookup language code ', $code3, '. Making use of known exceptions.')"/>
       <xsl:choose>
-        <xsl:when test="$code3='001'">&amp;lcc-3166-1;Montenegrin</xsl:when>
         <xsl:when test="$code3='002'">&amp;lcc-3166-1;Shikomor</xsl:when>
         <xsl:when test="$code3='crs'">&amp;lcc-3166-1;SeselwaCreoleFrench</xsl:when>
         <xsl:otherwise>&amp;lcc-639-2;Undetermined</xsl:otherwise>
@@ -212,9 +211,9 @@ exclude-result-prefixes="xsl xs">
       <xsl:value-of select="'&#x0A;&#x0A;'"/>
       <xsl:comment>Curation and Rights Metadata for the LCC ISO 3166-1 Country Codes Ontology </xsl:comment>
       <xsl:value-of select="'&#x0A;&#x0A;'"/>
-      <sm:copyright rdf:datatype="&amp;xsd;string">Copyright (c) 2015-2017 Object Management Group, Inc.
-        Copyright (c) 2015-2017 Adaptive Inc.
-        Copyright (c) 2015-2017 Thematix Partners LLC
+      <sm:copyright rdf:datatype="&amp;xsd;string">Copyright (c) 2015-2019 Object Management Group, Inc.
+        Copyright (c) 2015-2019 Adaptive Inc.
+        Copyright (c) 2015-2019 Thematix Partners LLC
         Copyright (c) 2015-2017 Unisys
       </sm:copyright>
       <dct:license rdf:datatype="&amp;xsd;anyURI">&sm;MITLicense</dct:license>       
@@ -224,11 +223,12 @@ exclude-result-prefixes="xsl xs">
       <sm:filename rdf:datatype="&amp;xsd;string">ISO3166-1-CountryCodes.rdf</sm:filename>
       <sm:fileAbbreviation rdf:datatype="&amp;xsd;string">lcc-3166-1</sm:fileAbbreviation>
       <owl:versionIRI>
-        <xsl:attribute name="rdf:resource" select="'http://www.omg.org/spec/LCC/20170801/Countries/ISO3166-1-CountryCodes/'"/>         
+        <xsl:attribute name="rdf:resource" select="'http://www.omg.org/spec/LCC/20190201/Countries/ISO3166-1-CountryCodes/'"/>         
       </owl:versionIRI> 
       <sm:fileAbstract rdf:datatype="&amp;xsd;string">This ontology represents the subset of the ISO 3166 standard that include the actual ISO 3166-1 country codes, with the ontology and codes for the other parts of the standard represented in dependent models.</sm:fileAbstract>
       <skos:changeNote rdf:datatype="&amp;xsd;string">The http://www.omg.org/spec/LCC/20151101/Countries/ISO3166-1-CountryCodes.rdf version of this ontology has been revised to reflect the issues addressed by the LCC 1.0 FTF report.  The country codes and related metadata contained herein are current as of the July 2017 revision to the online code set.</skos:changeNote>
-      <dct:issued rdf:datatype="&amp;xsd;dateTime">
+      <skos:changeNote rdf:datatype="&amp;xsd;string">The http://www.omg.org/spec/LCC/20190201/Countries/ISO3166-1-CountryCodes.rdf version of this ontology has been revised to reflect the issues addressed by the LCC 1.1 FTF report.  The country codes and related metadata contained herein are current as of the February 2019 revision to the online code set.</skos:changeNote>
+    <dct:issued rdf:datatype="&amp;xsd;dateTime">
         <xsl:value-of select="/country-codes/@generated"/>         
       </dct:issued> 
       <xsl:value-of select="'&#x0A;&#x0A;'"/>
@@ -311,54 +311,46 @@ exclude-result-prefixes="xsl xs">
     <xsl:value-of select="'&#x0A;&#x0A;'"/>
     <xsl:comment> Languages not covered by ISO 631-1 or 639-2 </xsl:comment>
     <xsl:value-of select="'&#x0A;&#x0A;'"/>
-    <owl:NamedIndividual rdf:about="&amp;lcc-3166-1;Montenegrin">
-      <rdf:type rdf:resource="&lcc-lr;IndividualLanguage"/>
-      <rdf:type rdf:resource="&lcc-lr;LivingLanguage"/>
-      <rdfs:label>Montenegrin</rdfs:label>
-      <skos:definition rdf:datatype="&xsd;string">Montenegrin language</skos:definition>
-      <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Montenegrin</lcc-lr:hasEnglishName>
-      <rdfs:comment>Not yet allocated a code in ISO 639</rdfs:comment>
-      <rdfs:isDefinedBy>
-        <xsl:attribute name="rdf:resource" select="$countries-base-uri"/>
-      </rdfs:isDefinedBy>
-    </owl:NamedIndividual>
-    <owl:NamedIndividual rdf:about="&amp;lcc-3166-1;L001">
-      <rdf:type rdf:resource="&lcc-lr;IndividualLanguageIdentifier"/>
-      <rdfs:label>001</rdfs:label>
-      <skos:definition rdf:datatype="&xsd;string">Alpha-3 language code for Montenegrin</skos:definition>
-      <lcc-lr:hasTag rdf:datatype="&xsd;string">001</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&amp;lcc-3166-1;Montenegrin"/>
-      <lcc-lr:identifies rdf:resource="&amp;lcc-3166-1;Montenegrin"/>
-      <rdfs:isDefinedBy>
-        <xsl:attribute name="rdf:resource" select="$countries-base-uri"/>
-      </rdfs:isDefinedBy>
-    </owl:NamedIndividual>
   
     <xsl:value-of select="'&#x0A;&#x0A;'"/>
     <owl:NamedIndividual rdf:about="&amp;lcc-3166-1;Shikomor">
-      <rdf:type rdf:resource="&lcc-lr;IndividualLanguage"/>
-      <rdf:type rdf:resource="&lcc-lr;LivingLanguage"/>
+      <rdf:type rdf:resource="&amp;lcc-lr;IndividualLanguage"/>
+      <rdf:type rdf:resource="&amp;lcc-lr;LivingLanguage"/>
       <rdfs:label>Shikomor</rdfs:label>
-      <skos:definition rdf:datatype="&xsd;string">Shikomor language</skos:definition>
-      <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Shikomor</lcc-lr:hasEnglishName>
+      <skos:definition rdf:datatype="&amp;xsd;string">Shikomor language</skos:definition>
+      <lcc-lr:hasEnglishName rdf:datatype="&amp;xsd;string">Shikomor</lcc-lr:hasEnglishName>
       <rdfs:comment>Not yet allocated a code in ISO 639</rdfs:comment>
       <rdfs:isDefinedBy>
         <xsl:attribute name="rdf:resource" select="$countries-base-uri"/>
       </rdfs:isDefinedBy>
     </owl:NamedIndividual>
     <owl:NamedIndividual rdf:about="&amp;lcc-3166-1;L002">
-      <rdf:type rdf:resource="&lcc-lr;IndividualLanguageIdentifier"/>
+      <rdf:type rdf:resource="&amp;lcc-lr;IndividualLanguageIdentifier"/>
       <rdfs:label>002</rdfs:label>
-      <skos:definition rdf:datatype="&xsd;string">Alpha-3 language code for Shikomor</skos:definition>
-      <lcc-lr:hasTag rdf:datatype="&xsd;string">002</lcc-lr:hasTag>
+      <skos:definition rdf:datatype="&amp;xsd;string">Alpha-3 language code for Shikomor</skos:definition>
+      <lcc-lr:hasTag rdf:datatype="&amp;xsd;string">002</lcc-lr:hasTag>
       <lcc-lr:denotes rdf:resource="&amp;lcc-3166-1;Shikomor"/>
       <lcc-lr:identifies rdf:resource="&amp;lcc-3166-1;Shikomor"/>
       <rdfs:isDefinedBy>
         <xsl:attribute name="rdf:resource" select="$countries-base-uri"/>
       </rdfs:isDefinedBy>
     </owl:NamedIndividual>
+
+   <xsl:value-of select="'&#x0A;&#x0A;'"/>
+   <xsl:comment> Language which became covered by ISO 639-2 in timescale of LCC 1.1 so the code used at LCC 1.0 can be deprecated </xsl:comment>
+    <owl:NamedIndividual rdf:about="&amp;lcc-3166-1;Montenegrin">
+      <rdf:type rdf:resource="&amp;lcc-lr;IndividualLanguage"/>
+      <owl:deprecated rdf:datatype="&amp;xsd;boolean">true</owl:deprecated>
+      <owl:sameAs rdf:resource="&amp;lcc-639-2;Montenegrin"/>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="&amp;lcc-3166-1;L001">
+      <rdf:type rdf:resource="&amp;lcc-lr;IndividualLanguageIdentifier"/>
+      <owl:deprecated rdf:datatype="&amp;xsd;boolean">true</owl:deprecated>
+      <owl:sameAs rdf:resource="&amp;lcc-639-2;cnr"/>
+    </owl:NamedIndividual>
   
-    <xsl:value-of select="'&#x0A;&#x0A;'"/>
+
+   <xsl:value-of select="'&#x0A;&#x0A;'"/>
    <owl:NamedIndividual rdf:about="&amp;lcc-3166-1;SeselwaCreoleFrench">
       <rdf:type rdf:resource="&lcc-lr;IndividualLanguage"/>
       <rdf:type rdf:resource="&lcc-lr;LivingLanguage"/>

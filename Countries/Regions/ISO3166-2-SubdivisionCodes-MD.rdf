@@ -36,9 +36,9 @@
 
       <!-- Curation and Rights Metadata for the LCC ISO 3166-2 Subdivision Codes for Moldova (the Republic of) Ontology -->
 
-      <sm:copyright rdf:datatype="&xsd;string">Copyright (c) 2015-2017 Object Management Group, Inc.
-          Copyright (c) 2015-2017 Adaptive Inc.
-          Copyright (c) 2015-2017 Thematix Partners LLC
+      <sm:copyright rdf:datatype="&xsd;string">Copyright (c) 2015-2019 Object Management Group, Inc.
+          Copyright (c) 2015-2019 Adaptive Inc.
+          Copyright (c) 2015-2019 Thematix Partners LLC
           Copyright (c) 2015-2017 Unisys
         </sm:copyright>
       <dct:license rdf:resource="&sm;MITLicense"/>
@@ -47,9 +47,9 @@
 
       <sm:filename rdf:datatype="&xsd;string">ISO3166-2-SubdivisionCodes-MD.rdf</sm:filename>
       <sm:fileAbbreviation rdf:datatype="&xsd;string">lcc-3166-2-md</sm:fileAbbreviation>
-      <owl:versionIRI rdf:resource="http://www.omg.org/spec/LCC/20170801/Countries/Regions/ISO3166-2-SubdivisionCodes-MD/"/>
+      <owl:versionIRI rdf:resource="http://www.omg.org/spec/LCC/20190201/Countries/Regions/ISO3166-2-SubdivisionCodes-MD/"/>
       <sm:fileAbstract rdf:datatype="&xsd;string">This ontology represents the subset of the ISO 3166 standard that includes the actual ISO 3166-2 subdivision codes for Moldova (the Republic of), with the ontology and codes for the other parts of the standard represented in models that this ontology depends on.</sm:fileAbstract>
-      <dct:issued rdf:datatype="&xsd;dateTime">2017-07-20T22:26:02.631805+02:00</dct:issued>
+      <dct:issued rdf:datatype="&xsd;dateTime">2019-02-14T00:48:51.124818+01:00</dct:issued>
 
       <sm:dependsOn rdf:datatype="&xsd;anyURI">http://www.omg.org/spec/LCC/Languages/LanguageRepresentation/</sm:dependsOn>
       <sm:dependsOn rdf:datatype="&xsd;anyURI">http://www.omg.org/spec/LCC/Countries/CountryRepresentation/</sm:dependsOn>
@@ -113,216 +113,6 @@
     //
     ///////////////////////////////////////////////////////////////////////////////////////
     -->
-
-
-  <!--
-    ///////////////////////////////////////////////////////////////////////////////////////
-    //
-    // Bender [Tighina]
-    //
-    ///////////////////////////////////////////////////////////////////////////////////////
-    -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-md;Bender">
-      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>Bender [Tighina]</rdfs:label>
-      <skos:definition>The city of Bender [Tighina] in the country of Moldova (the Republic of)</skos:definition>
-      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Moldova"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ro">Bender [Tighina]</lcc-cr:hasLocalShortName>
-      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-md;City"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-md;"/>
-   </owl:NamedIndividual>
-
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-md;MD-BD">
-      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the city of Bender [Tighina] in the country of Moldova (the Republic of)</skos:definition>
-      <rdfs:label>MD-BD</rdfs:label>
-      <lcc-lr:hasTag rdf:datatype="&xsd;string">MD-BD</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-2-md;Bender"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-2-md;Bender"/>
-      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-md;"/>
-   </owl:NamedIndividual>
-
-
-
-  <!--
-    ///////////////////////////////////////////////////////////////////////////////////////
-    //
-    // Căușeni
-    //
-    ///////////////////////////////////////////////////////////////////////////////////////
-    -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-md;Causeni">
-      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>Căușeni</rdfs:label>
-      <skos:definition>The district of Căușeni in the country of Moldova (the Republic of)</skos:definition>
-      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Moldova"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ro">Căușeni</lcc-cr:hasLocalShortName>
-      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-md;District"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-md;"/>
-   </owl:NamedIndividual>
-
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-md;MD-CS">
-      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the district of Căușeni in the country of Moldova (the Republic of)</skos:definition>
-      <rdfs:label>MD-CS</rdfs:label>
-      <lcc-lr:hasTag rdf:datatype="&xsd;string">MD-CS</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-2-md;Causeni"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-2-md;Causeni"/>
-      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-md;"/>
-   </owl:NamedIndividual>
-
-
-
-  <!--
-    ///////////////////////////////////////////////////////////////////////////////////////
-    //
-    // Chișinău
-    //
-    ///////////////////////////////////////////////////////////////////////////////////////
-    -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-md;Chisinau">
-      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>Chișinău</rdfs:label>
-      <skos:definition>The city of Chișinău in the country of Moldova (the Republic of)</skos:definition>
-      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Moldova"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ro">Chișinău</lcc-cr:hasLocalShortName>
-      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-md;City"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-md;"/>
-   </owl:NamedIndividual>
-
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-md;MD-CU">
-      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the city of Chișinău in the country of Moldova (the Republic of)</skos:definition>
-      <rdfs:label>MD-CU</rdfs:label>
-      <lcc-lr:hasTag rdf:datatype="&xsd;string">MD-CU</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-2-md;Chisinau"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-2-md;Chisinau"/>
-      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-md;"/>
-   </owl:NamedIndividual>
-
-
-
-  <!--
-    ///////////////////////////////////////////////////////////////////////////////////////
-    //
-    // Dondușeni
-    //
-    ///////////////////////////////////////////////////////////////////////////////////////
-    -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-md;Donduseni">
-      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>Dondușeni</rdfs:label>
-      <skos:definition>The district of Dondușeni in the country of Moldova (the Republic of)</skos:definition>
-      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Moldova"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ro">Dondușeni</lcc-cr:hasLocalShortName>
-      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-md;District"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-md;"/>
-   </owl:NamedIndividual>
-
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-md;MD-DO">
-      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the district of Dondușeni in the country of Moldova (the Republic of)</skos:definition>
-      <rdfs:label>MD-DO</rdfs:label>
-      <lcc-lr:hasTag rdf:datatype="&xsd;string">MD-DO</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-2-md;Donduseni"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-2-md;Donduseni"/>
-      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-md;"/>
-   </owl:NamedIndividual>
-
-
-
-  <!--
-    ///////////////////////////////////////////////////////////////////////////////////////
-    //
-    // Dubăsari
-    //
-    ///////////////////////////////////////////////////////////////////////////////////////
-    -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-md;Dubasari">
-      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>Dubăsari</rdfs:label>
-      <skos:definition>The district of Dubăsari in the country of Moldova (the Republic of)</skos:definition>
-      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Moldova"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ro">Dubăsari</lcc-cr:hasLocalShortName>
-      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-md;District"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-md;"/>
-   </owl:NamedIndividual>
-
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-md;MD-DU">
-      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the district of Dubăsari in the country of Moldova (the Republic of)</skos:definition>
-      <rdfs:label>MD-DU</rdfs:label>
-      <lcc-lr:hasTag rdf:datatype="&xsd;string">MD-DU</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-2-md;Dubasari"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-2-md;Dubasari"/>
-      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-md;"/>
-   </owl:NamedIndividual>
-
-
-
-  <!--
-    ///////////////////////////////////////////////////////////////////////////////////////
-    //
-    // Ialoveni
-    //
-    ///////////////////////////////////////////////////////////////////////////////////////
-    -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-md;Ialoveni">
-      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>Ialoveni</rdfs:label>
-      <skos:definition>The district of Ialoveni in the country of Moldova (the Republic of)</skos:definition>
-      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Moldova"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ro">Ialoveni</lcc-cr:hasLocalShortName>
-      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-md;District"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-md;"/>
-   </owl:NamedIndividual>
-
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-md;MD-IA">
-      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the district of Ialoveni in the country of Moldova (the Republic of)</skos:definition>
-      <rdfs:label>MD-IA</rdfs:label>
-      <lcc-lr:hasTag rdf:datatype="&xsd;string">MD-IA</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-2-md;Ialoveni"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-2-md;Ialoveni"/>
-      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-md;"/>
-   </owl:NamedIndividual>
-
-
-
-  <!--
-    ///////////////////////////////////////////////////////////////////////////////////////
-    //
-    // Ungheni
-    //
-    ///////////////////////////////////////////////////////////////////////////////////////
-    -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-md;Ungheni">
-      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>Ungheni</rdfs:label>
-      <skos:definition>The district of Ungheni in the country of Moldova (the Republic of)</skos:definition>
-      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Moldova"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ro">Ungheni</lcc-cr:hasLocalShortName>
-      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-md;District"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-md;"/>
-   </owl:NamedIndividual>
-
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-md;MD-UN">
-      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the district of Ungheni in the country of Moldova (the Republic of)</skos:definition>
-      <rdfs:label>MD-UN</rdfs:label>
-      <lcc-lr:hasTag rdf:datatype="&xsd;string">MD-UN</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-2-md;Ungheni"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-2-md;Ungheni"/>
-      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-md;"/>
-   </owl:NamedIndividual>
-
 
 
   <!--
@@ -1219,6 +1009,216 @@
       <lcc-lr:hasTag rdf:datatype="&xsd;string">MD-TE</lcc-lr:hasTag>
       <lcc-lr:denotes rdf:resource="&lcc-3166-2-md;Telenesti"/>
       <lcc-lr:identifies rdf:resource="&lcc-3166-2-md;Telenesti"/>
+      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-md;"/>
+   </owl:NamedIndividual>
+
+
+
+  <!--
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Bender [Tighina]
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+    -->
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-md;Bender">
+      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
+      <rdfs:label>Bender [Tighina]</rdfs:label>
+      <skos:definition>The city of Bender [Tighina] in the country of Moldova (the Republic of)</skos:definition>
+      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Moldova"/>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ro">Bender [Tighina]</lcc-cr:hasLocalShortName>
+      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-md;City"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-md;"/>
+   </owl:NamedIndividual>
+
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-md;MD-BD">
+      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
+      <skos:definition>subdivision code for the city of Bender [Tighina] in the country of Moldova (the Republic of)</skos:definition>
+      <rdfs:label>MD-BD</rdfs:label>
+      <lcc-lr:hasTag rdf:datatype="&xsd;string">MD-BD</lcc-lr:hasTag>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-md;Bender"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-md;Bender"/>
+      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-md;"/>
+   </owl:NamedIndividual>
+
+
+
+  <!--
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Căușeni
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+    -->
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-md;Causeni">
+      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
+      <rdfs:label>Căușeni</rdfs:label>
+      <skos:definition>The district of Căușeni in the country of Moldova (the Republic of)</skos:definition>
+      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Moldova"/>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ro">Căușeni</lcc-cr:hasLocalShortName>
+      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-md;District"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-md;"/>
+   </owl:NamedIndividual>
+
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-md;MD-CS">
+      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
+      <skos:definition>subdivision code for the district of Căușeni in the country of Moldova (the Republic of)</skos:definition>
+      <rdfs:label>MD-CS</rdfs:label>
+      <lcc-lr:hasTag rdf:datatype="&xsd;string">MD-CS</lcc-lr:hasTag>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-md;Causeni"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-md;Causeni"/>
+      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-md;"/>
+   </owl:NamedIndividual>
+
+
+
+  <!--
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Chișinău
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+    -->
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-md;Chisinau">
+      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
+      <rdfs:label>Chișinău</rdfs:label>
+      <skos:definition>The city of Chișinău in the country of Moldova (the Republic of)</skos:definition>
+      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Moldova"/>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ro">Chișinău</lcc-cr:hasLocalShortName>
+      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-md;City"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-md;"/>
+   </owl:NamedIndividual>
+
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-md;MD-CU">
+      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
+      <skos:definition>subdivision code for the city of Chișinău in the country of Moldova (the Republic of)</skos:definition>
+      <rdfs:label>MD-CU</rdfs:label>
+      <lcc-lr:hasTag rdf:datatype="&xsd;string">MD-CU</lcc-lr:hasTag>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-md;Chisinau"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-md;Chisinau"/>
+      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-md;"/>
+   </owl:NamedIndividual>
+
+
+
+  <!--
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Dondușeni
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+    -->
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-md;Donduseni">
+      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
+      <rdfs:label>Dondușeni</rdfs:label>
+      <skos:definition>The district of Dondușeni in the country of Moldova (the Republic of)</skos:definition>
+      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Moldova"/>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ro">Dondușeni</lcc-cr:hasLocalShortName>
+      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-md;District"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-md;"/>
+   </owl:NamedIndividual>
+
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-md;MD-DO">
+      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
+      <skos:definition>subdivision code for the district of Dondușeni in the country of Moldova (the Republic of)</skos:definition>
+      <rdfs:label>MD-DO</rdfs:label>
+      <lcc-lr:hasTag rdf:datatype="&xsd;string">MD-DO</lcc-lr:hasTag>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-md;Donduseni"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-md;Donduseni"/>
+      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-md;"/>
+   </owl:NamedIndividual>
+
+
+
+  <!--
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Dubăsari
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+    -->
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-md;Dubasari">
+      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
+      <rdfs:label>Dubăsari</rdfs:label>
+      <skos:definition>The district of Dubăsari in the country of Moldova (the Republic of)</skos:definition>
+      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Moldova"/>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ro">Dubăsari</lcc-cr:hasLocalShortName>
+      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-md;District"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-md;"/>
+   </owl:NamedIndividual>
+
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-md;MD-DU">
+      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
+      <skos:definition>subdivision code for the district of Dubăsari in the country of Moldova (the Republic of)</skos:definition>
+      <rdfs:label>MD-DU</rdfs:label>
+      <lcc-lr:hasTag rdf:datatype="&xsd;string">MD-DU</lcc-lr:hasTag>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-md;Dubasari"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-md;Dubasari"/>
+      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-md;"/>
+   </owl:NamedIndividual>
+
+
+
+  <!--
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Ialoveni
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+    -->
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-md;Ialoveni">
+      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
+      <rdfs:label>Ialoveni</rdfs:label>
+      <skos:definition>The district of Ialoveni in the country of Moldova (the Republic of)</skos:definition>
+      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Moldova"/>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ro">Ialoveni</lcc-cr:hasLocalShortName>
+      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-md;District"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-md;"/>
+   </owl:NamedIndividual>
+
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-md;MD-IA">
+      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
+      <skos:definition>subdivision code for the district of Ialoveni in the country of Moldova (the Republic of)</skos:definition>
+      <rdfs:label>MD-IA</rdfs:label>
+      <lcc-lr:hasTag rdf:datatype="&xsd;string">MD-IA</lcc-lr:hasTag>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-md;Ialoveni"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-md;Ialoveni"/>
+      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-md;"/>
+   </owl:NamedIndividual>
+
+
+
+  <!--
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Ungheni
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+    -->
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-md;Ungheni">
+      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
+      <rdfs:label>Ungheni</rdfs:label>
+      <skos:definition>The district of Ungheni in the country of Moldova (the Republic of)</skos:definition>
+      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Moldova"/>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ro">Ungheni</lcc-cr:hasLocalShortName>
+      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-md;District"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-md;"/>
+   </owl:NamedIndividual>
+
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-md;MD-UN">
+      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
+      <skos:definition>subdivision code for the district of Ungheni in the country of Moldova (the Republic of)</skos:definition>
+      <rdfs:label>MD-UN</rdfs:label>
+      <lcc-lr:hasTag rdf:datatype="&xsd;string">MD-UN</lcc-lr:hasTag>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-md;Ungheni"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-md;Ungheni"/>
       <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-md;"/>
    </owl:NamedIndividual>

@@ -36,9 +36,9 @@
 
       <!-- Curation and Rights Metadata for the LCC ISO 3166-2 Subdivision Codes for Philippines (the) Ontology -->
 
-      <sm:copyright rdf:datatype="&xsd;string">Copyright (c) 2015-2017 Object Management Group, Inc.
-          Copyright (c) 2015-2017 Adaptive Inc.
-          Copyright (c) 2015-2017 Thematix Partners LLC
+      <sm:copyright rdf:datatype="&xsd;string">Copyright (c) 2015-2019 Object Management Group, Inc.
+          Copyright (c) 2015-2019 Adaptive Inc.
+          Copyright (c) 2015-2019 Thematix Partners LLC
           Copyright (c) 2015-2017 Unisys
         </sm:copyright>
       <dct:license rdf:resource="&sm;MITLicense"/>
@@ -47,9 +47,9 @@
 
       <sm:filename rdf:datatype="&xsd;string">ISO3166-2-SubdivisionCodes-PH.rdf</sm:filename>
       <sm:fileAbbreviation rdf:datatype="&xsd;string">lcc-3166-2-ph</sm:fileAbbreviation>
-      <owl:versionIRI rdf:resource="http://www.omg.org/spec/LCC/20170801/Countries/Regions/ISO3166-2-SubdivisionCodes-PH/"/>
+      <owl:versionIRI rdf:resource="http://www.omg.org/spec/LCC/20190201/Countries/Regions/ISO3166-2-SubdivisionCodes-PH/"/>
       <sm:fileAbstract rdf:datatype="&xsd;string">This ontology represents the subset of the ISO 3166 standard that includes the actual ISO 3166-2 subdivision codes for Philippines (the), with the ontology and codes for the other parts of the standard represented in models that this ontology depends on.</sm:fileAbstract>
-      <dct:issued rdf:datatype="&xsd;dateTime">2017-07-20T22:26:02.631805+02:00</dct:issued>
+      <dct:issued rdf:datatype="&xsd;dateTime">2019-02-14T00:48:51.124818+01:00</dct:issued>
 
       <sm:dependsOn rdf:datatype="&xsd;anyURI">http://www.omg.org/spec/LCC/Languages/LanguageRepresentation/</sm:dependsOn>
       <sm:dependsOn rdf:datatype="&xsd;anyURI">http://www.omg.org/spec/LCC/Countries/CountryRepresentation/</sm:dependsOn>
@@ -104,192 +104,6 @@
   <!--
     ///////////////////////////////////////////////////////////////////////////////////////
     //
-    // Mimaropa (Region IV-B)
-    //
-    ///////////////////////////////////////////////////////////////////////////////////////
-    -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-ph;Mimaropa">
-      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>Mimaropa (Region IV-B)</rdfs:label>
-      <skos:definition>The region of Mimaropa (Region IV-B) in the country of Philippines (the)</skos:definition>
-      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Philippines"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Mimaropa (Region IV-B)</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="tl">Rehiyon ng Mimaropa</lcc-cr:hasLocalShortName>
-      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ph;Region"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ph;"/>
-   </owl:NamedIndividual>
-
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-ph;PH-41">
-      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the region of Mimaropa (Region IV-B) in the country of Philippines (the)</skos:definition>
-      <rdfs:label>PH-41</rdfs:label>
-      <lcc-lr:hasTag rdf:datatype="&xsd;string">PH-41</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-2-ph;Mimaropa"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-2-ph;Mimaropa"/>
-      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ph;"/>
-   </owl:NamedIndividual>
-
-  <!--
-    ///////////////////////////////////////////////////////////////////////////////////////
-    //
-    // Mindoro Oriental
-    //
-    ///////////////////////////////////////////////////////////////////////////////////////
-    -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-ph;MindoroOriental">
-      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>Mindoro Oriental</rdfs:label>
-      <skos:definition>The province of Mindoro Oriental in the country of Philippines (the)</skos:definition>
-      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ph;Mimaropa"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="tl">Silangang Mindoro</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Mindoro Oriental</lcc-cr:hasEnglishShortName>
-      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ph;Province"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ph;"/>
-   </owl:NamedIndividual>
-
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-ph;PH-MDR">
-      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the province of Mindoro Oriental in the country of Philippines (the)</skos:definition>
-      <rdfs:label>PH-MDR</rdfs:label>
-      <lcc-lr:hasTag rdf:datatype="&xsd;string">PH-MDR</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-2-ph;MindoroOriental"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-2-ph;MindoroOriental"/>
-      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ph;"/>
-   </owl:NamedIndividual>
-
-
-
-  <!--
-    ///////////////////////////////////////////////////////////////////////////////////////
-    //
-    // Palawan
-    //
-    ///////////////////////////////////////////////////////////////////////////////////////
-    -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-ph;Palawan">
-      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>Palawan</rdfs:label>
-      <skos:definition>The province of Palawan in the country of Philippines (the)</skos:definition>
-      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ph;Mimaropa"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Palawan</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="tl">Palawan</lcc-cr:hasLocalShortName>
-      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ph;Province"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ph;"/>
-   </owl:NamedIndividual>
-
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-ph;PH-PLW">
-      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the province of Palawan in the country of Philippines (the)</skos:definition>
-      <rdfs:label>PH-PLW</rdfs:label>
-      <lcc-lr:hasTag rdf:datatype="&xsd;string">PH-PLW</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-2-ph;Palawan"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-2-ph;Palawan"/>
-      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ph;"/>
-   </owl:NamedIndividual>
-
-
-
-  <!--
-    ///////////////////////////////////////////////////////////////////////////////////////
-    //
-    // Romblon
-    //
-    ///////////////////////////////////////////////////////////////////////////////////////
-    -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-ph;Romblon">
-      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>Romblon</rdfs:label>
-      <skos:definition>The province of Romblon in the country of Philippines (the)</skos:definition>
-      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ph;Mimaropa"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="tl">Romblon</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Romblon</lcc-cr:hasEnglishShortName>
-      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ph;Province"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ph;"/>
-   </owl:NamedIndividual>
-
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-ph;PH-ROM">
-      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the province of Romblon in the country of Philippines (the)</skos:definition>
-      <rdfs:label>PH-ROM</rdfs:label>
-      <lcc-lr:hasTag rdf:datatype="&xsd;string">PH-ROM</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-2-ph;Romblon"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-2-ph;Romblon"/>
-      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ph;"/>
-   </owl:NamedIndividual>
-
-
-
-  <!--
-    ///////////////////////////////////////////////////////////////////////////////////////
-    //
-    // Marinduque
-    //
-    ///////////////////////////////////////////////////////////////////////////////////////
-    -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-ph;Marinduque">
-      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>Marinduque</rdfs:label>
-      <skos:definition>The province of Marinduque in the country of Philippines (the)</skos:definition>
-      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ph;Mimaropa"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="tl">Marinduke</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Marinduque</lcc-cr:hasEnglishShortName>
-      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ph;Province"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ph;"/>
-   </owl:NamedIndividual>
-
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-ph;PH-MAD">
-      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the province of Marinduque in the country of Philippines (the)</skos:definition>
-      <rdfs:label>PH-MAD</rdfs:label>
-      <lcc-lr:hasTag rdf:datatype="&xsd;string">PH-MAD</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-2-ph;Marinduque"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-2-ph;Marinduque"/>
-      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ph;"/>
-   </owl:NamedIndividual>
-
-
-
-  <!--
-    ///////////////////////////////////////////////////////////////////////////////////////
-    //
-    // Mindoro Occidental
-    //
-    ///////////////////////////////////////////////////////////////////////////////////////
-    -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-ph;MindoroOccidental">
-      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>Mindoro Occidental</rdfs:label>
-      <skos:definition>The province of Mindoro Occidental in the country of Philippines (the)</skos:definition>
-      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ph;Mimaropa"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Mindoro Occidental</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="tl">Kanlurang Mindoro</lcc-cr:hasLocalShortName>
-      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ph;Province"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ph;"/>
-   </owl:NamedIndividual>
-
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-ph;PH-MDC">
-      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the province of Mindoro Occidental in the country of Philippines (the)</skos:definition>
-      <rdfs:label>PH-MDC</rdfs:label>
-      <lcc-lr:hasTag rdf:datatype="&xsd;string">PH-MDC</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-2-ph;MindoroOccidental"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-2-ph;MindoroOccidental"/>
-      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ph;"/>
-   </owl:NamedIndividual>
-
-
-
-
-
-  <!--
-    ///////////////////////////////////////////////////////////////////////////////////////
-    //
     // Western Visayas (Region VI)
     //
     ///////////////////////////////////////////////////////////////////////////////////////
@@ -315,6 +129,68 @@
       <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ph;"/>
    </owl:NamedIndividual>
+
+  <!--
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Antique
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+    -->
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-ph;Antique">
+      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
+      <rdfs:label>Antique</rdfs:label>
+      <skos:definition>The province of Antique in the country of Philippines (the)</skos:definition>
+      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ph;WesternVisayas"/>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="tl">Antike</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Antique</lcc-cr:hasEnglishShortName>
+      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ph;Province"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ph;"/>
+   </owl:NamedIndividual>
+
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-ph;PH-ANT">
+      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
+      <skos:definition>subdivision code for the province of Antique in the country of Philippines (the)</skos:definition>
+      <rdfs:label>PH-ANT</rdfs:label>
+      <lcc-lr:hasTag rdf:datatype="&xsd;string">PH-ANT</lcc-lr:hasTag>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-ph;Antique"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-ph;Antique"/>
+      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ph;"/>
+   </owl:NamedIndividual>
+
+
+
+  <!--
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Capiz
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+    -->
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-ph;Capiz">
+      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
+      <rdfs:label>Capiz</rdfs:label>
+      <skos:definition>The province of Capiz in the country of Philippines (the)</skos:definition>
+      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ph;WesternVisayas"/>
+      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Capiz</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="tl">Kapis</lcc-cr:hasLocalShortName>
+      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ph;Province"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ph;"/>
+   </owl:NamedIndividual>
+
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-ph;PH-CAP">
+      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
+      <skos:definition>subdivision code for the province of Capiz in the country of Philippines (the)</skos:definition>
+      <rdfs:label>PH-CAP</rdfs:label>
+      <lcc-lr:hasTag rdf:datatype="&xsd;string">PH-CAP</lcc-lr:hasTag>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-ph;Capiz"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-ph;Capiz"/>
+      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ph;"/>
+   </owl:NamedIndividual>
+
+
 
   <!--
     ///////////////////////////////////////////////////////////////////////////////////////
@@ -440,68 +316,6 @@
 
 
 
-  <!--
-    ///////////////////////////////////////////////////////////////////////////////////////
-    //
-    // Antique
-    //
-    ///////////////////////////////////////////////////////////////////////////////////////
-    -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-ph;Antique">
-      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>Antique</rdfs:label>
-      <skos:definition>The province of Antique in the country of Philippines (the)</skos:definition>
-      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ph;WesternVisayas"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="tl">Antike</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Antique</lcc-cr:hasEnglishShortName>
-      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ph;Province"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ph;"/>
-   </owl:NamedIndividual>
-
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-ph;PH-ANT">
-      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the province of Antique in the country of Philippines (the)</skos:definition>
-      <rdfs:label>PH-ANT</rdfs:label>
-      <lcc-lr:hasTag rdf:datatype="&xsd;string">PH-ANT</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-2-ph;Antique"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-2-ph;Antique"/>
-      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ph;"/>
-   </owl:NamedIndividual>
-
-
-
-  <!--
-    ///////////////////////////////////////////////////////////////////////////////////////
-    //
-    // Capiz
-    //
-    ///////////////////////////////////////////////////////////////////////////////////////
-    -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-ph;Capiz">
-      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>Capiz</rdfs:label>
-      <skos:definition>The province of Capiz in the country of Philippines (the)</skos:definition>
-      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ph;WesternVisayas"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Capiz</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="tl">Kapis</lcc-cr:hasLocalShortName>
-      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ph;Province"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ph;"/>
-   </owl:NamedIndividual>
-
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-ph;PH-CAP">
-      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the province of Capiz in the country of Philippines (the)</skos:definition>
-      <rdfs:label>PH-CAP</rdfs:label>
-      <lcc-lr:hasTag rdf:datatype="&xsd;string">PH-CAP</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-2-ph;Capiz"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-2-ph;Capiz"/>
-      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ph;"/>
-   </owl:NamedIndividual>
-
-
-
 
 
   <!--
@@ -532,6 +346,37 @@
       <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ph;"/>
    </owl:NamedIndividual>
+
+  <!--
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Davao Occidental
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+    -->
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-ph;DavaoOccidental">
+      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
+      <rdfs:label>Davao Occidental</rdfs:label>
+      <skos:definition>The province of Davao Occidental in the country of Philippines (the)</skos:definition>
+      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ph;Davao"/>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="tl">Kanlurang Dabaw</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Davao Occidental</lcc-cr:hasEnglishShortName>
+      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ph;Province"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ph;"/>
+   </owl:NamedIndividual>
+
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-ph;PH-DVO">
+      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
+      <skos:definition>subdivision code for the province of Davao Occidental in the country of Philippines (the)</skos:definition>
+      <rdfs:label>PH-DVO</rdfs:label>
+      <lcc-lr:hasTag rdf:datatype="&xsd;string">PH-DVO</lcc-lr:hasTag>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-ph;DavaoOccidental"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-ph;DavaoOccidental"/>
+      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ph;"/>
+   </owl:NamedIndividual>
+
+
 
   <!--
     ///////////////////////////////////////////////////////////////////////////////////////
@@ -719,37 +564,6 @@
 
 
 
-  <!--
-    ///////////////////////////////////////////////////////////////////////////////////////
-    //
-    // Davao Occidental
-    //
-    ///////////////////////////////////////////////////////////////////////////////////////
-    -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-ph;DavaoOccidental">
-      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>Davao Occidental</rdfs:label>
-      <skos:definition>The province of Davao Occidental in the country of Philippines (the)</skos:definition>
-      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ph;Davao"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="tl">Kanlurang Dabaw</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Davao Occidental</lcc-cr:hasEnglishShortName>
-      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ph;Province"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ph;"/>
-   </owl:NamedIndividual>
-
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-ph;PH-DVO">
-      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the province of Davao Occidental in the country of Philippines (the)</skos:definition>
-      <rdfs:label>PH-DVO</rdfs:label>
-      <lcc-lr:hasTag rdf:datatype="&xsd;string">PH-DVO</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-2-ph;DavaoOccidental"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-2-ph;DavaoOccidental"/>
-      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ph;"/>
-   </owl:NamedIndividual>
-
-
-
 
 
   <!--
@@ -780,6 +594,37 @@
       <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ph;"/>
    </owl:NamedIndividual>
+
+  <!--
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Surigao del Norte
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+    -->
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-ph;SurigaoDelNorte">
+      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
+      <rdfs:label>Surigao del Norte</rdfs:label>
+      <skos:definition>The province of Surigao del Norte in the country of Philippines (the)</skos:definition>
+      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ph;Caraga"/>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="tl">Hilagang Surigaw</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Surigao del Norte</lcc-cr:hasEnglishShortName>
+      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ph;Province"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ph;"/>
+   </owl:NamedIndividual>
+
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-ph;PH-SUN">
+      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
+      <skos:definition>subdivision code for the province of Surigao del Norte in the country of Philippines (the)</skos:definition>
+      <rdfs:label>PH-SUN</rdfs:label>
+      <lcc-lr:hasTag rdf:datatype="&xsd;string">PH-SUN</lcc-lr:hasTag>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-ph;SurigaoDelNorte"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-ph;SurigaoDelNorte"/>
+      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ph;"/>
+   </owl:NamedIndividual>
+
+
 
   <!--
     ///////////////////////////////////////////////////////////////////////////////////////
@@ -905,37 +750,6 @@
 
 
 
-  <!--
-    ///////////////////////////////////////////////////////////////////////////////////////
-    //
-    // Surigao del Norte
-    //
-    ///////////////////////////////////////////////////////////////////////////////////////
-    -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-ph;SurigaoDelNorte">
-      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>Surigao del Norte</rdfs:label>
-      <skos:definition>The province of Surigao del Norte in the country of Philippines (the)</skos:definition>
-      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ph;Caraga"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="tl">Hilagang Surigaw</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Surigao del Norte</lcc-cr:hasEnglishShortName>
-      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ph;Province"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ph;"/>
-   </owl:NamedIndividual>
-
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-ph;PH-SUN">
-      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the province of Surigao del Norte in the country of Philippines (the)</skos:definition>
-      <rdfs:label>PH-SUN</rdfs:label>
-      <lcc-lr:hasTag rdf:datatype="&xsd;string">PH-SUN</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-2-ph;SurigaoDelNorte"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-2-ph;SurigaoDelNorte"/>
-      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ph;"/>
-   </owl:NamedIndividual>
-
-
-
 
 
   <!--
@@ -966,6 +780,37 @@
       <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ph;"/>
    </owl:NamedIndividual>
+
+  <!--
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Ilocos Sur
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+    -->
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-ph;IlocosSur">
+      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
+      <rdfs:label>Ilocos Sur</rdfs:label>
+      <skos:definition>The province of Ilocos Sur in the country of Philippines (the)</skos:definition>
+      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ph;Ilocos"/>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="tl">Timog Iloko</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Ilocos Sur</lcc-cr:hasEnglishShortName>
+      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ph;Province"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ph;"/>
+   </owl:NamedIndividual>
+
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-ph;PH-ILS">
+      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
+      <skos:definition>subdivision code for the province of Ilocos Sur in the country of Philippines (the)</skos:definition>
+      <rdfs:label>PH-ILS</rdfs:label>
+      <lcc-lr:hasTag rdf:datatype="&xsd;string">PH-ILS</lcc-lr:hasTag>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-ph;IlocosSur"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-ph;IlocosSur"/>
+      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ph;"/>
+   </owl:NamedIndividual>
+
+
 
   <!--
     ///////////////////////////////////////////////////////////////////////////////////////
@@ -1060,37 +905,6 @@
 
 
 
-  <!--
-    ///////////////////////////////////////////////////////////////////////////////////////
-    //
-    // Ilocos Sur
-    //
-    ///////////////////////////////////////////////////////////////////////////////////////
-    -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-ph;IlocosSur">
-      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>Ilocos Sur</rdfs:label>
-      <skos:definition>The province of Ilocos Sur in the country of Philippines (the)</skos:definition>
-      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ph;Ilocos"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="tl">Timog Iloko</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Ilocos Sur</lcc-cr:hasEnglishShortName>
-      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ph;Province"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ph;"/>
-   </owl:NamedIndividual>
-
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-ph;PH-ILS">
-      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the province of Ilocos Sur in the country of Philippines (the)</skos:definition>
-      <rdfs:label>PH-ILS</rdfs:label>
-      <lcc-lr:hasTag rdf:datatype="&xsd;string">PH-ILS</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-2-ph;IlocosSur"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-2-ph;IlocosSur"/>
-      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ph;"/>
-   </owl:NamedIndividual>
-
-
-
 
 
   <!--
@@ -1121,6 +935,37 @@
       <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ph;"/>
    </owl:NamedIndividual>
+
+  <!--
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Bataan
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+    -->
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-ph;Bataan">
+      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
+      <rdfs:label>Bataan</rdfs:label>
+      <skos:definition>The province of Bataan in the country of Philippines (the)</skos:definition>
+      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ph;CentralLuzon"/>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="tl">Bataan</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Bataan</lcc-cr:hasEnglishShortName>
+      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ph;Province"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ph;"/>
+   </owl:NamedIndividual>
+
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-ph;PH-BAN">
+      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
+      <skos:definition>subdivision code for the province of Bataan in the country of Philippines (the)</skos:definition>
+      <rdfs:label>PH-BAN</rdfs:label>
+      <lcc-lr:hasTag rdf:datatype="&xsd;string">PH-BAN</lcc-lr:hasTag>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-ph;Bataan"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-ph;Bataan"/>
+      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ph;"/>
+   </owl:NamedIndividual>
+
+
 
   <!--
     ///////////////////////////////////////////////////////////////////////////////////////
@@ -1302,37 +1147,6 @@
       <lcc-lr:hasTag rdf:datatype="&xsd;string">PH-AUR</lcc-lr:hasTag>
       <lcc-lr:denotes rdf:resource="&lcc-3166-2-ph;Aurora"/>
       <lcc-lr:identifies rdf:resource="&lcc-3166-2-ph;Aurora"/>
-      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ph;"/>
-   </owl:NamedIndividual>
-
-
-
-  <!--
-    ///////////////////////////////////////////////////////////////////////////////////////
-    //
-    // Bataan
-    //
-    ///////////////////////////////////////////////////////////////////////////////////////
-    -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-ph;Bataan">
-      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>Bataan</rdfs:label>
-      <skos:definition>The province of Bataan in the country of Philippines (the)</skos:definition>
-      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ph;CentralLuzon"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="tl">Bataan</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Bataan</lcc-cr:hasEnglishShortName>
-      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ph;Province"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ph;"/>
-   </owl:NamedIndividual>
-
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-ph;PH-BAN">
-      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the province of Bataan in the country of Philippines (the)</skos:definition>
-      <rdfs:label>PH-BAN</rdfs:label>
-      <lcc-lr:hasTag rdf:datatype="&xsd;string">PH-BAN</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-2-ph;Bataan"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-2-ph;Bataan"/>
       <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ph;"/>
    </owl:NamedIndividual>
@@ -1590,6 +1404,37 @@
   <!--
     ///////////////////////////////////////////////////////////////////////////////////////
     //
+    // Misamis Oriental
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+    -->
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-ph;MisamisOriental">
+      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
+      <rdfs:label>Misamis Oriental</rdfs:label>
+      <skos:definition>The province of Misamis Oriental in the country of Philippines (the)</skos:definition>
+      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ph;NorthernMindanao"/>
+      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Misamis Oriental</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="tl">Silangang Misamis</lcc-cr:hasLocalShortName>
+      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ph;Province"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ph;"/>
+   </owl:NamedIndividual>
+
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-ph;PH-MSR">
+      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
+      <skos:definition>subdivision code for the province of Misamis Oriental in the country of Philippines (the)</skos:definition>
+      <rdfs:label>PH-MSR</rdfs:label>
+      <lcc-lr:hasTag rdf:datatype="&xsd;string">PH-MSR</lcc-lr:hasTag>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-ph;MisamisOriental"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-ph;MisamisOriental"/>
+      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ph;"/>
+   </owl:NamedIndividual>
+
+
+
+  <!--
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
     // Misamis Occidental
     //
     ///////////////////////////////////////////////////////////////////////////////////////
@@ -1674,37 +1519,6 @@
       <lcc-lr:hasTag rdf:datatype="&xsd;string">PH-BUK</lcc-lr:hasTag>
       <lcc-lr:denotes rdf:resource="&lcc-3166-2-ph;Bukidnon"/>
       <lcc-lr:identifies rdf:resource="&lcc-3166-2-ph;Bukidnon"/>
-      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ph;"/>
-   </owl:NamedIndividual>
-
-
-
-  <!--
-    ///////////////////////////////////////////////////////////////////////////////////////
-    //
-    // Misamis Oriental
-    //
-    ///////////////////////////////////////////////////////////////////////////////////////
-    -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-ph;MisamisOriental">
-      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>Misamis Oriental</rdfs:label>
-      <skos:definition>The province of Misamis Oriental in the country of Philippines (the)</skos:definition>
-      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ph;NorthernMindanao"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Misamis Oriental</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="tl">Silangang Misamis</lcc-cr:hasLocalShortName>
-      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ph;Province"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ph;"/>
-   </owl:NamedIndividual>
-
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-ph;PH-MSR">
-      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the province of Misamis Oriental in the country of Philippines (the)</skos:definition>
-      <rdfs:label>PH-MSR</rdfs:label>
-      <lcc-lr:hasTag rdf:datatype="&xsd;string">PH-MSR</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-2-ph;MisamisOriental"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-2-ph;MisamisOriental"/>
       <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ph;"/>
    </owl:NamedIndividual>
@@ -2117,6 +1931,37 @@
   <!--
     ///////////////////////////////////////////////////////////////////////////////////////
     //
+    // Catanduanes
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+    -->
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-ph;Catanduanes">
+      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
+      <rdfs:label>Catanduanes</rdfs:label>
+      <skos:definition>The province of Catanduanes in the country of Philippines (the)</skos:definition>
+      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ph;Bicol"/>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="tl">Katanduwanes</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Catanduanes</lcc-cr:hasEnglishShortName>
+      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ph;Province"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ph;"/>
+   </owl:NamedIndividual>
+
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-ph;PH-CAT">
+      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
+      <skos:definition>subdivision code for the province of Catanduanes in the country of Philippines (the)</skos:definition>
+      <rdfs:label>PH-CAT</rdfs:label>
+      <lcc-lr:hasTag rdf:datatype="&xsd;string">PH-CAT</lcc-lr:hasTag>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-ph;Catanduanes"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-ph;Catanduanes"/>
+      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ph;"/>
+   </owl:NamedIndividual>
+
+
+
+  <!--
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
     // Camarines Norte
     //
     ///////////////////////////////////////////////////////////////////////////////////////
@@ -2263,37 +2108,6 @@
       <lcc-lr:hasTag rdf:datatype="&xsd;string">PH-MAS</lcc-lr:hasTag>
       <lcc-lr:denotes rdf:resource="&lcc-3166-2-ph;Masbate"/>
       <lcc-lr:identifies rdf:resource="&lcc-3166-2-ph;Masbate"/>
-      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ph;"/>
-   </owl:NamedIndividual>
-
-
-
-  <!--
-    ///////////////////////////////////////////////////////////////////////////////////////
-    //
-    // Catanduanes
-    //
-    ///////////////////////////////////////////////////////////////////////////////////////
-    -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-ph;Catanduanes">
-      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>Catanduanes</rdfs:label>
-      <skos:definition>The province of Catanduanes in the country of Philippines (the)</skos:definition>
-      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ph;Bicol"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="tl">Katanduwanes</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Catanduanes</lcc-cr:hasEnglishShortName>
-      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ph;Province"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ph;"/>
-   </owl:NamedIndividual>
-
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-ph;PH-CAT">
-      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the province of Catanduanes in the country of Philippines (the)</skos:definition>
-      <rdfs:label>PH-CAT</rdfs:label>
-      <lcc-lr:hasTag rdf:datatype="&xsd;string">PH-CAT</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-2-ph;Catanduanes"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-2-ph;Catanduanes"/>
       <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ph;"/>
    </owl:NamedIndividual>
@@ -2613,68 +2427,6 @@
   <!--
     ///////////////////////////////////////////////////////////////////////////////////////
     //
-    // Tawi-Tawi
-    //
-    ///////////////////////////////////////////////////////////////////////////////////////
-    -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-ph;Tawi-Tawi">
-      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>Tawi-Tawi</rdfs:label>
-      <skos:definition>The province of Tawi-Tawi in the country of Philippines (the)</skos:definition>
-      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ph;AutonomousRegionInMuslimMindanao"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="tl">Tawi-Tawi</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Tawi-Tawi</lcc-cr:hasEnglishShortName>
-      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ph;Province"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ph;"/>
-   </owl:NamedIndividual>
-
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-ph;PH-TAW">
-      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the province of Tawi-Tawi in the country of Philippines (the)</skos:definition>
-      <rdfs:label>PH-TAW</rdfs:label>
-      <lcc-lr:hasTag rdf:datatype="&xsd;string">PH-TAW</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-2-ph;Tawi-Tawi"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-2-ph;Tawi-Tawi"/>
-      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ph;"/>
-   </owl:NamedIndividual>
-
-
-
-  <!--
-    ///////////////////////////////////////////////////////////////////////////////////////
-    //
-    // Sulu
-    //
-    ///////////////////////////////////////////////////////////////////////////////////////
-    -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-ph;Sulu">
-      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>Sulu</rdfs:label>
-      <skos:definition>The province of Sulu in the country of Philippines (the)</skos:definition>
-      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ph;AutonomousRegionInMuslimMindanao"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="tl">Sulu</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Sulu</lcc-cr:hasEnglishShortName>
-      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ph;Province"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ph;"/>
-   </owl:NamedIndividual>
-
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-ph;PH-SLU">
-      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the province of Sulu in the country of Philippines (the)</skos:definition>
-      <rdfs:label>PH-SLU</rdfs:label>
-      <lcc-lr:hasTag rdf:datatype="&xsd;string">PH-SLU</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-2-ph;Sulu"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-2-ph;Sulu"/>
-      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ph;"/>
-   </owl:NamedIndividual>
-
-
-
-  <!--
-    ///////////////////////////////////////////////////////////////////////////////////////
-    //
     // Lanao del Sur
     //
     ///////////////////////////////////////////////////////////////////////////////////////
@@ -2734,6 +2486,68 @@
 
 
 
+  <!--
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Tawi-Tawi
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+    -->
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-ph;Tawi-Tawi">
+      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
+      <rdfs:label>Tawi-Tawi</rdfs:label>
+      <skos:definition>The province of Tawi-Tawi in the country of Philippines (the)</skos:definition>
+      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ph;AutonomousRegionInMuslimMindanao"/>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="tl">Tawi-Tawi</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Tawi-Tawi</lcc-cr:hasEnglishShortName>
+      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ph;Province"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ph;"/>
+   </owl:NamedIndividual>
+
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-ph;PH-TAW">
+      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
+      <skos:definition>subdivision code for the province of Tawi-Tawi in the country of Philippines (the)</skos:definition>
+      <rdfs:label>PH-TAW</rdfs:label>
+      <lcc-lr:hasTag rdf:datatype="&xsd;string">PH-TAW</lcc-lr:hasTag>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-ph;Tawi-Tawi"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-ph;Tawi-Tawi"/>
+      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ph;"/>
+   </owl:NamedIndividual>
+
+
+
+  <!--
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Sulu
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+    -->
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-ph;Sulu">
+      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
+      <rdfs:label>Sulu</rdfs:label>
+      <skos:definition>The province of Sulu in the country of Philippines (the)</skos:definition>
+      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ph;AutonomousRegionInMuslimMindanao"/>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="tl">Sulu</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Sulu</lcc-cr:hasEnglishShortName>
+      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ph;Province"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ph;"/>
+   </owl:NamedIndividual>
+
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-ph;PH-SLU">
+      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
+      <skos:definition>subdivision code for the province of Sulu in the country of Philippines (the)</skos:definition>
+      <rdfs:label>PH-SLU</rdfs:label>
+      <lcc-lr:hasTag rdf:datatype="&xsd;string">PH-SLU</lcc-lr:hasTag>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-ph;Sulu"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-ph;Sulu"/>
+      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ph;"/>
+   </owl:NamedIndividual>
+
+
+
 
 
   <!--
@@ -2764,99 +2578,6 @@
       <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ph;"/>
    </owl:NamedIndividual>
-
-  <!--
-    ///////////////////////////////////////////////////////////////////////////////////////
-    //
-    // Benguet
-    //
-    ///////////////////////////////////////////////////////////////////////////////////////
-    -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-ph;Benguet">
-      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>Benguet</rdfs:label>
-      <skos:definition>The province of Benguet in the country of Philippines (the)</skos:definition>
-      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ph;CordilleraAdministrativeRegion"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="tl">Benget</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Benguet</lcc-cr:hasEnglishShortName>
-      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ph;Province"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ph;"/>
-   </owl:NamedIndividual>
-
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-ph;PH-BEN">
-      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the province of Benguet in the country of Philippines (the)</skos:definition>
-      <rdfs:label>PH-BEN</rdfs:label>
-      <lcc-lr:hasTag rdf:datatype="&xsd;string">PH-BEN</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-2-ph;Benguet"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-2-ph;Benguet"/>
-      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ph;"/>
-   </owl:NamedIndividual>
-
-
-
-  <!--
-    ///////////////////////////////////////////////////////////////////////////////////////
-    //
-    // Mountain Province
-    //
-    ///////////////////////////////////////////////////////////////////////////////////////
-    -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-ph;MountainProvince">
-      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>Mountain Province</rdfs:label>
-      <skos:definition>The province of Mountain Province in the country of Philippines (the)</skos:definition>
-      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ph;CordilleraAdministrativeRegion"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Mountain Province</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="tl">Lalawigang Bulubundukin</lcc-cr:hasLocalShortName>
-      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ph;Province"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ph;"/>
-   </owl:NamedIndividual>
-
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-ph;PH-MOU">
-      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the province of Mountain Province in the country of Philippines (the)</skos:definition>
-      <rdfs:label>PH-MOU</rdfs:label>
-      <lcc-lr:hasTag rdf:datatype="&xsd;string">PH-MOU</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-2-ph;MountainProvince"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-2-ph;MountainProvince"/>
-      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ph;"/>
-   </owl:NamedIndividual>
-
-
-
-  <!--
-    ///////////////////////////////////////////////////////////////////////////////////////
-    //
-    // Apayao
-    //
-    ///////////////////////////////////////////////////////////////////////////////////////
-    -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-ph;Apayao">
-      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>Apayao</rdfs:label>
-      <skos:definition>The province of Apayao in the country of Philippines (the)</skos:definition>
-      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ph;CordilleraAdministrativeRegion"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Apayao</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="tl">Apayaw</lcc-cr:hasLocalShortName>
-      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ph;Province"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ph;"/>
-   </owl:NamedIndividual>
-
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-ph;PH-APA">
-      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the province of Apayao in the country of Philippines (the)</skos:definition>
-      <rdfs:label>PH-APA</rdfs:label>
-      <lcc-lr:hasTag rdf:datatype="&xsd;string">PH-APA</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-2-ph;Apayao"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-2-ph;Apayao"/>
-      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ph;"/>
-   </owl:NamedIndividual>
-
-
 
   <!--
     ///////////////////////////////////////////////////////////////////////////////////////
@@ -2951,6 +2672,99 @@
 
 
 
+  <!--
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Benguet
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+    -->
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-ph;Benguet">
+      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
+      <rdfs:label>Benguet</rdfs:label>
+      <skos:definition>The province of Benguet in the country of Philippines (the)</skos:definition>
+      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ph;CordilleraAdministrativeRegion"/>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="tl">Benget</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Benguet</lcc-cr:hasEnglishShortName>
+      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ph;Province"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ph;"/>
+   </owl:NamedIndividual>
+
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-ph;PH-BEN">
+      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
+      <skos:definition>subdivision code for the province of Benguet in the country of Philippines (the)</skos:definition>
+      <rdfs:label>PH-BEN</rdfs:label>
+      <lcc-lr:hasTag rdf:datatype="&xsd;string">PH-BEN</lcc-lr:hasTag>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-ph;Benguet"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-ph;Benguet"/>
+      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ph;"/>
+   </owl:NamedIndividual>
+
+
+
+  <!--
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Mountain Province
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+    -->
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-ph;MountainProvince">
+      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
+      <rdfs:label>Mountain Province</rdfs:label>
+      <skos:definition>The province of Mountain Province in the country of Philippines (the)</skos:definition>
+      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ph;CordilleraAdministrativeRegion"/>
+      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Mountain Province</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="tl">Lalawigang Bulubundukin</lcc-cr:hasLocalShortName>
+      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ph;Province"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ph;"/>
+   </owl:NamedIndividual>
+
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-ph;PH-MOU">
+      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
+      <skos:definition>subdivision code for the province of Mountain Province in the country of Philippines (the)</skos:definition>
+      <rdfs:label>PH-MOU</rdfs:label>
+      <lcc-lr:hasTag rdf:datatype="&xsd;string">PH-MOU</lcc-lr:hasTag>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-ph;MountainProvince"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-ph;MountainProvince"/>
+      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ph;"/>
+   </owl:NamedIndividual>
+
+
+
+  <!--
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Apayao
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+    -->
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-ph;Apayao">
+      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
+      <rdfs:label>Apayao</rdfs:label>
+      <skos:definition>The province of Apayao in the country of Philippines (the)</skos:definition>
+      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ph;CordilleraAdministrativeRegion"/>
+      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Apayao</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="tl">Apayaw</lcc-cr:hasLocalShortName>
+      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ph;Province"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ph;"/>
+   </owl:NamedIndividual>
+
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-ph;PH-APA">
+      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
+      <skos:definition>subdivision code for the province of Apayao in the country of Philippines (the)</skos:definition>
+      <rdfs:label>PH-APA</rdfs:label>
+      <lcc-lr:hasTag rdf:datatype="&xsd;string">PH-APA</lcc-lr:hasTag>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-ph;Apayao"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-ph;Apayao"/>
+      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ph;"/>
+   </owl:NamedIndividual>
+
+
+
 
 
   <!--
@@ -2981,6 +2795,68 @@
       <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ph;"/>
    </owl:NamedIndividual>
+
+  <!--
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Laguna
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+    -->
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-ph;Laguna">
+      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
+      <rdfs:label>Laguna</rdfs:label>
+      <skos:definition>The province of Laguna in the country of Philippines (the)</skos:definition>
+      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ph;Calabarzon"/>
+      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Laguna</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="tl">Laguna</lcc-cr:hasLocalShortName>
+      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ph;Province"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ph;"/>
+   </owl:NamedIndividual>
+
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-ph;PH-LAG">
+      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
+      <skos:definition>subdivision code for the province of Laguna in the country of Philippines (the)</skos:definition>
+      <rdfs:label>PH-LAG</rdfs:label>
+      <lcc-lr:hasTag rdf:datatype="&xsd;string">PH-LAG</lcc-lr:hasTag>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-ph;Laguna"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-ph;Laguna"/>
+      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ph;"/>
+   </owl:NamedIndividual>
+
+
+
+  <!--
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Quezon
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+    -->
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-ph;Quezon">
+      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
+      <rdfs:label>Quezon</rdfs:label>
+      <skos:definition>The province of Quezon in the country of Philippines (the)</skos:definition>
+      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ph;Calabarzon"/>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="tl">Keson</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Quezon</lcc-cr:hasEnglishShortName>
+      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ph;Province"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ph;"/>
+   </owl:NamedIndividual>
+
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-ph;PH-QUE">
+      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
+      <skos:definition>subdivision code for the province of Quezon in the country of Philippines (the)</skos:definition>
+      <rdfs:label>PH-QUE</rdfs:label>
+      <lcc-lr:hasTag rdf:datatype="&xsd;string">PH-QUE</lcc-lr:hasTag>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-ph;Quezon"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-ph;Quezon"/>
+      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ph;"/>
+   </owl:NamedIndividual>
+
+
 
   <!--
     ///////////////////////////////////////////////////////////////////////////////////////
@@ -3075,31 +2951,62 @@
 
 
 
+
+
   <!--
     ///////////////////////////////////////////////////////////////////////////////////////
     //
-    // Laguna
+    // Mimaropa (Region IV-B)
     //
     ///////////////////////////////////////////////////////////////////////////////////////
     -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-ph;Laguna">
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-ph;Mimaropa">
       <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>Laguna</rdfs:label>
-      <skos:definition>The province of Laguna in the country of Philippines (the)</skos:definition>
-      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ph;Calabarzon"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Laguna</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="tl">Laguna</lcc-cr:hasLocalShortName>
+      <rdfs:label>Mimaropa (Region IV-B)</rdfs:label>
+      <skos:definition>The region of Mimaropa (Region IV-B) in the country of Philippines (the)</skos:definition>
+      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Philippines"/>
+      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Mimaropa (Region IV-B)</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="tl">Rehiyon ng Mimaropa</lcc-cr:hasLocalShortName>
+      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ph;Region"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ph;"/>
+   </owl:NamedIndividual>
+
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-ph;PH-41">
+      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
+      <skos:definition>subdivision code for the region of Mimaropa (Region IV-B) in the country of Philippines (the)</skos:definition>
+      <rdfs:label>PH-41</rdfs:label>
+      <lcc-lr:hasTag rdf:datatype="&xsd;string">PH-41</lcc-lr:hasTag>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-ph;Mimaropa"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-ph;Mimaropa"/>
+      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ph;"/>
+   </owl:NamedIndividual>
+
+  <!--
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Marinduque
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+    -->
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-ph;Marinduque">
+      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
+      <rdfs:label>Marinduque</rdfs:label>
+      <skos:definition>The province of Marinduque in the country of Philippines (the)</skos:definition>
+      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ph;Mimaropa"/>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="tl">Marinduke</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Marinduque</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ph;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ph;"/>
    </owl:NamedIndividual>
 
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-ph;PH-LAG">
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-ph;PH-MAD">
       <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the province of Laguna in the country of Philippines (the)</skos:definition>
-      <rdfs:label>PH-LAG</rdfs:label>
-      <lcc-lr:hasTag rdf:datatype="&xsd;string">PH-LAG</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-2-ph;Laguna"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-2-ph;Laguna"/>
+      <skos:definition>subdivision code for the province of Marinduque in the country of Philippines (the)</skos:definition>
+      <rdfs:label>PH-MAD</rdfs:label>
+      <lcc-lr:hasTag rdf:datatype="&xsd;string">PH-MAD</lcc-lr:hasTag>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-ph;Marinduque"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-ph;Marinduque"/>
       <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ph;"/>
    </owl:NamedIndividual>
@@ -3109,28 +3016,121 @@
   <!--
     ///////////////////////////////////////////////////////////////////////////////////////
     //
-    // Quezon
+    // Mindoro Occidental
     //
     ///////////////////////////////////////////////////////////////////////////////////////
     -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-ph;Quezon">
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-ph;MindoroOccidental">
       <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>Quezon</rdfs:label>
-      <skos:definition>The province of Quezon in the country of Philippines (the)</skos:definition>
-      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ph;Calabarzon"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="tl">Keson</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Quezon</lcc-cr:hasEnglishShortName>
+      <rdfs:label>Mindoro Occidental</rdfs:label>
+      <skos:definition>The province of Mindoro Occidental in the country of Philippines (the)</skos:definition>
+      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ph;Mimaropa"/>
+      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Mindoro Occidental</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="tl">Kanlurang Mindoro</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ph;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ph;"/>
    </owl:NamedIndividual>
 
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-ph;PH-QUE">
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-ph;PH-MDC">
       <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the province of Quezon in the country of Philippines (the)</skos:definition>
-      <rdfs:label>PH-QUE</rdfs:label>
-      <lcc-lr:hasTag rdf:datatype="&xsd;string">PH-QUE</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-2-ph;Quezon"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-2-ph;Quezon"/>
+      <skos:definition>subdivision code for the province of Mindoro Occidental in the country of Philippines (the)</skos:definition>
+      <rdfs:label>PH-MDC</rdfs:label>
+      <lcc-lr:hasTag rdf:datatype="&xsd;string">PH-MDC</lcc-lr:hasTag>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-ph;MindoroOccidental"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-ph;MindoroOccidental"/>
+      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ph;"/>
+   </owl:NamedIndividual>
+
+
+
+  <!--
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Mindoro Oriental
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+    -->
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-ph;MindoroOriental">
+      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
+      <rdfs:label>Mindoro Oriental</rdfs:label>
+      <skos:definition>The province of Mindoro Oriental in the country of Philippines (the)</skos:definition>
+      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ph;Mimaropa"/>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="tl">Silangang Mindoro</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Mindoro Oriental</lcc-cr:hasEnglishShortName>
+      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ph;Province"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ph;"/>
+   </owl:NamedIndividual>
+
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-ph;PH-MDR">
+      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
+      <skos:definition>subdivision code for the province of Mindoro Oriental in the country of Philippines (the)</skos:definition>
+      <rdfs:label>PH-MDR</rdfs:label>
+      <lcc-lr:hasTag rdf:datatype="&xsd;string">PH-MDR</lcc-lr:hasTag>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-ph;MindoroOriental"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-ph;MindoroOriental"/>
+      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ph;"/>
+   </owl:NamedIndividual>
+
+
+
+  <!--
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Palawan
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+    -->
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-ph;Palawan">
+      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
+      <rdfs:label>Palawan</rdfs:label>
+      <skos:definition>The province of Palawan in the country of Philippines (the)</skos:definition>
+      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ph;Mimaropa"/>
+      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Palawan</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="tl">Palawan</lcc-cr:hasLocalShortName>
+      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ph;Province"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ph;"/>
+   </owl:NamedIndividual>
+
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-ph;PH-PLW">
+      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
+      <skos:definition>subdivision code for the province of Palawan in the country of Philippines (the)</skos:definition>
+      <rdfs:label>PH-PLW</rdfs:label>
+      <lcc-lr:hasTag rdf:datatype="&xsd;string">PH-PLW</lcc-lr:hasTag>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-ph;Palawan"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-ph;Palawan"/>
+      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ph;"/>
+   </owl:NamedIndividual>
+
+
+
+  <!--
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Romblon
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+    -->
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-ph;Romblon">
+      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
+      <rdfs:label>Romblon</rdfs:label>
+      <skos:definition>The province of Romblon in the country of Philippines (the)</skos:definition>
+      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ph;Mimaropa"/>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="tl">Romblon</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Romblon</lcc-cr:hasEnglishShortName>
+      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ph;Province"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ph;"/>
+   </owl:NamedIndividual>
+
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-ph;PH-ROM">
+      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
+      <skos:definition>subdivision code for the province of Romblon in the country of Philippines (the)</skos:definition>
+      <rdfs:label>PH-ROM</rdfs:label>
+      <lcc-lr:hasTag rdf:datatype="&xsd;string">PH-ROM</lcc-lr:hasTag>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-ph;Romblon"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-ph;Romblon"/>
       <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ph;"/>
    </owl:NamedIndividual>

@@ -36,9 +36,9 @@
 
       <!-- Curation and Rights Metadata for the LCC ISO 3166-2 Subdivision Codes for Indonesia Ontology -->
 
-      <sm:copyright rdf:datatype="&xsd;string">Copyright (c) 2015-2017 Object Management Group, Inc.
-          Copyright (c) 2015-2017 Adaptive Inc.
-          Copyright (c) 2015-2017 Thematix Partners LLC
+      <sm:copyright rdf:datatype="&xsd;string">Copyright (c) 2015-2019 Object Management Group, Inc.
+          Copyright (c) 2015-2019 Adaptive Inc.
+          Copyright (c) 2015-2019 Thematix Partners LLC
           Copyright (c) 2015-2017 Unisys
         </sm:copyright>
       <dct:license rdf:resource="&sm;MITLicense"/>
@@ -47,9 +47,9 @@
 
       <sm:filename rdf:datatype="&xsd;string">ISO3166-2-SubdivisionCodes-ID.rdf</sm:filename>
       <sm:fileAbbreviation rdf:datatype="&xsd;string">lcc-3166-2-id</sm:fileAbbreviation>
-      <owl:versionIRI rdf:resource="http://www.omg.org/spec/LCC/20170801/Countries/Regions/ISO3166-2-SubdivisionCodes-ID/"/>
+      <owl:versionIRI rdf:resource="http://www.omg.org/spec/LCC/20190201/Countries/Regions/ISO3166-2-SubdivisionCodes-ID/"/>
       <sm:fileAbstract rdf:datatype="&xsd;string">This ontology represents the subset of the ISO 3166 standard that includes the actual ISO 3166-2 subdivision codes for Indonesia, with the ontology and codes for the other parts of the standard represented in models that this ontology depends on.</sm:fileAbstract>
-      <dct:issued rdf:datatype="&xsd;dateTime">2017-07-20T22:26:02.631805+02:00</dct:issued>
+      <dct:issued rdf:datatype="&xsd;dateTime">2019-02-14T00:48:51.124818+01:00</dct:issued>
 
       <sm:dependsOn rdf:datatype="&xsd;anyURI">http://www.omg.org/spec/LCC/Languages/LanguageRepresentation/</sm:dependsOn>
       <sm:dependsOn rdf:datatype="&xsd;anyURI">http://www.omg.org/spec/LCC/Countries/CountryRepresentation/</sm:dependsOn>
@@ -97,17 +97,10 @@
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-id;"/>
    </owl:NamedIndividual>
 
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-id;SpecialDistrict">
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-id;CapitalDistrict">
       <rdf:type rdf:resource="&lcc-cr;GeographicRegionKind"/>
-      <rdfs:label>special district</rdfs:label>
-      <skos:definition>subdivision category special district in the country of Indonesia</skos:definition>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-id;"/>
-   </owl:NamedIndividual>
-
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-id;AutonomousProvince">
-      <rdf:type rdf:resource="&lcc-cr;GeographicRegionKind"/>
-      <rdfs:label>autonomous province</rdfs:label>
-      <skos:definition>subdivision category autonomous province in the country of Indonesia</skos:definition>
+      <rdfs:label>capital district</rdfs:label>
+      <skos:definition>subdivision category capital district in the country of Indonesia</skos:definition>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-id;"/>
    </owl:NamedIndividual>
 
@@ -149,6 +142,36 @@
       <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-id;"/>
    </owl:NamedIndividual>
+
+  <!--
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Kalimantan Utara
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+    -->
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-id;KalimantanUtara">
+      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
+      <rdfs:label>Kalimantan Utara</rdfs:label>
+      <skos:definition>The province of Kalimantan Utara in the country of Indonesia</skos:definition>
+      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-id;Kalimantan"/>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="id">Kalimantan Utara</lcc-cr:hasLocalShortName>
+      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-id;Province"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-id;"/>
+   </owl:NamedIndividual>
+
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-id;ID-KU">
+      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
+      <skos:definition>subdivision code for the province of Kalimantan Utara in the country of Indonesia</skos:definition>
+      <rdfs:label>ID-KU</rdfs:label>
+      <lcc-lr:hasTag rdf:datatype="&xsd;string">ID-KU</lcc-lr:hasTag>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-id;KalimantanUtara"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-id;KalimantanUtara"/>
+      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-id;"/>
+   </owl:NamedIndividual>
+
+
 
   <!--
     ///////////////////////////////////////////////////////////////////////////////////////
@@ -270,36 +293,6 @@
 
 
 
-  <!--
-    ///////////////////////////////////////////////////////////////////////////////////////
-    //
-    // Kalimantan Utara
-    //
-    ///////////////////////////////////////////////////////////////////////////////////////
-    -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-id;KalimantanUtara">
-      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>Kalimantan Utara</rdfs:label>
-      <skos:definition>The province of Kalimantan Utara in the country of Indonesia</skos:definition>
-      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-id;Kalimantan"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="id">Kalimantan Utara</lcc-cr:hasLocalShortName>
-      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-id;Province"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-id;"/>
-   </owl:NamedIndividual>
-
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-id;ID-KU">
-      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the province of Kalimantan Utara in the country of Indonesia</skos:definition>
-      <rdfs:label>ID-KU</rdfs:label>
-      <lcc-lr:hasTag rdf:datatype="&xsd;string">ID-KU</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-2-id;KalimantanUtara"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-2-id;KalimantanUtara"/>
-      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-id;"/>
-   </owl:NamedIndividual>
-
-
-
 
 
   <!--
@@ -329,6 +322,66 @@
       <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-id;"/>
    </owl:NamedIndividual>
+
+  <!--
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Jawa Barat
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+    -->
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-id;JawaBarat">
+      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
+      <rdfs:label>Jawa Barat</rdfs:label>
+      <skos:definition>The province of Jawa Barat in the country of Indonesia</skos:definition>
+      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-id;Jawa"/>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="id">Jawa Barat</lcc-cr:hasLocalShortName>
+      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-id;Province"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-id;"/>
+   </owl:NamedIndividual>
+
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-id;ID-JB">
+      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
+      <skos:definition>subdivision code for the province of Jawa Barat in the country of Indonesia</skos:definition>
+      <rdfs:label>ID-JB</rdfs:label>
+      <lcc-lr:hasTag rdf:datatype="&xsd;string">ID-JB</lcc-lr:hasTag>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-id;JawaBarat"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-id;JawaBarat"/>
+      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-id;"/>
+   </owl:NamedIndividual>
+
+
+
+  <!--
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Jawa Tengah
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+    -->
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-id;JawaTengah">
+      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
+      <rdfs:label>Jawa Tengah</rdfs:label>
+      <skos:definition>The province of Jawa Tengah in the country of Indonesia</skos:definition>
+      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-id;Jawa"/>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="id">Jawa Tengah</lcc-cr:hasLocalShortName>
+      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-id;Province"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-id;"/>
+   </owl:NamedIndividual>
+
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-id;ID-JT">
+      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
+      <skos:definition>subdivision code for the province of Jawa Tengah in the country of Indonesia</skos:definition>
+      <rdfs:label>ID-JT</rdfs:label>
+      <lcc-lr:hasTag rdf:datatype="&xsd;string">ID-JT</lcc-lr:hasTag>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-id;JawaTengah"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-id;JawaTengah"/>
+      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-id;"/>
+   </owl:NamedIndividual>
+
+
 
   <!--
     ///////////////////////////////////////////////////////////////////////////////////////
@@ -430,80 +483,20 @@
    <owl:NamedIndividual rdf:about="&lcc-3166-2-id;JakartaRaya">
       <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
       <rdfs:label>Jakarta Raya</rdfs:label>
-      <skos:definition>The special district of Jakarta Raya in the country of Indonesia</skos:definition>
+      <skos:definition>The capital district of Jakarta Raya in the country of Indonesia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-id;Jawa"/>
       <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="id">Jakarta Raya</lcc-cr:hasLocalShortName>
-      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-id;SpecialDistrict"/>
+      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-id;CapitalDistrict"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-id;"/>
    </owl:NamedIndividual>
 
    <owl:NamedIndividual rdf:about="&lcc-3166-2-id;ID-JK">
       <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the special district of Jakarta Raya in the country of Indonesia</skos:definition>
+      <skos:definition>subdivision code for the capital district of Jakarta Raya in the country of Indonesia</skos:definition>
       <rdfs:label>ID-JK</rdfs:label>
       <lcc-lr:hasTag rdf:datatype="&xsd;string">ID-JK</lcc-lr:hasTag>
       <lcc-lr:denotes rdf:resource="&lcc-3166-2-id;JakartaRaya"/>
       <lcc-lr:identifies rdf:resource="&lcc-3166-2-id;JakartaRaya"/>
-      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-id;"/>
-   </owl:NamedIndividual>
-
-
-
-  <!--
-    ///////////////////////////////////////////////////////////////////////////////////////
-    //
-    // Jawa Barat
-    //
-    ///////////////////////////////////////////////////////////////////////////////////////
-    -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-id;JawaBarat">
-      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>Jawa Barat</rdfs:label>
-      <skos:definition>The province of Jawa Barat in the country of Indonesia</skos:definition>
-      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-id;Jawa"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="id">Jawa Barat</lcc-cr:hasLocalShortName>
-      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-id;Province"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-id;"/>
-   </owl:NamedIndividual>
-
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-id;ID-JB">
-      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the province of Jawa Barat in the country of Indonesia</skos:definition>
-      <rdfs:label>ID-JB</rdfs:label>
-      <lcc-lr:hasTag rdf:datatype="&xsd;string">ID-JB</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-2-id;JawaBarat"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-2-id;JawaBarat"/>
-      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-id;"/>
-   </owl:NamedIndividual>
-
-
-
-  <!--
-    ///////////////////////////////////////////////////////////////////////////////////////
-    //
-    // Jawa Tengah
-    //
-    ///////////////////////////////////////////////////////////////////////////////////////
-    -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-id;JawaTengah">
-      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>Jawa Tengah</rdfs:label>
-      <skos:definition>The province of Jawa Tengah in the country of Indonesia</skos:definition>
-      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-id;Jawa"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="id">Jawa Tengah</lcc-cr:hasLocalShortName>
-      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-id;Province"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-id;"/>
-   </owl:NamedIndividual>
-
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-id;ID-JT">
-      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the province of Jawa Tengah in the country of Indonesia</skos:definition>
-      <rdfs:label>ID-JT</rdfs:label>
-      <lcc-lr:hasTag rdf:datatype="&xsd;string">ID-JT</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-2-id;JawaTengah"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-2-id;JawaTengah"/>
       <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-id;"/>
    </owl:NamedIndividual>
@@ -663,6 +656,96 @@
   <!--
     ///////////////////////////////////////////////////////////////////////////////////////
     //
+    // Aceh
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+    -->
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-id;Aceh">
+      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
+      <rdfs:label>Aceh</rdfs:label>
+      <skos:definition>The province of Aceh in the country of Indonesia</skos:definition>
+      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-id;Sumatera"/>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="id">Aceh</lcc-cr:hasLocalShortName>
+      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-id;Province"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-id;"/>
+   </owl:NamedIndividual>
+
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-id;ID-AC">
+      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
+      <skos:definition>subdivision code for the province of Aceh in the country of Indonesia</skos:definition>
+      <rdfs:label>ID-AC</rdfs:label>
+      <lcc-lr:hasTag rdf:datatype="&xsd;string">ID-AC</lcc-lr:hasTag>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-id;Aceh"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-id;Aceh"/>
+      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-id;"/>
+   </owl:NamedIndividual>
+
+
+
+  <!--
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Kepulauan Bangka Belitung
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+    -->
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-id;KepulauanBangkaBelitung">
+      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
+      <rdfs:label>Kepulauan Bangka Belitung</rdfs:label>
+      <skos:definition>The province of Kepulauan Bangka Belitung in the country of Indonesia</skos:definition>
+      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-id;Sumatera"/>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="id">Kepulauan Bangka Belitung</lcc-cr:hasLocalShortName>
+      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-id;Province"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-id;"/>
+   </owl:NamedIndividual>
+
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-id;ID-BB">
+      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
+      <skos:definition>subdivision code for the province of Kepulauan Bangka Belitung in the country of Indonesia</skos:definition>
+      <rdfs:label>ID-BB</rdfs:label>
+      <lcc-lr:hasTag rdf:datatype="&xsd;string">ID-BB</lcc-lr:hasTag>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-id;KepulauanBangkaBelitung"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-id;KepulauanBangkaBelitung"/>
+      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-id;"/>
+   </owl:NamedIndividual>
+
+
+
+  <!--
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Jambi
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+    -->
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-id;Jambi">
+      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
+      <rdfs:label>Jambi</rdfs:label>
+      <skos:definition>The province of Jambi in the country of Indonesia</skos:definition>
+      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-id;Sumatera"/>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="id">Jambi</lcc-cr:hasLocalShortName>
+      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-id;Province"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-id;"/>
+   </owl:NamedIndividual>
+
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-id;ID-JA">
+      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
+      <skos:definition>subdivision code for the province of Jambi in the country of Indonesia</skos:definition>
+      <rdfs:label>ID-JA</rdfs:label>
+      <lcc-lr:hasTag rdf:datatype="&xsd;string">ID-JA</lcc-lr:hasTag>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-id;Jambi"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-id;Jambi"/>
+      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-id;"/>
+   </owl:NamedIndividual>
+
+
+
+  <!--
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
     // Bengkulu
     //
     ///////////////////////////////////////////////////////////////////////////////////////
@@ -813,36 +896,6 @@
   <!--
     ///////////////////////////////////////////////////////////////////////////////////////
     //
-    // Aceh
-    //
-    ///////////////////////////////////////////////////////////////////////////////////////
-    -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-id;Aceh">
-      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>Aceh</rdfs:label>
-      <skos:definition>The autonomous province of Aceh in the country of Indonesia</skos:definition>
-      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-id;Sumatera"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="id">Aceh</lcc-cr:hasLocalShortName>
-      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-id;AutonomousProvince"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-id;"/>
-   </owl:NamedIndividual>
-
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-id;ID-AC">
-      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the autonomous province of Aceh in the country of Indonesia</skos:definition>
-      <rdfs:label>ID-AC</rdfs:label>
-      <lcc-lr:hasTag rdf:datatype="&xsd;string">ID-AC</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-2-id;Aceh"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-2-id;Aceh"/>
-      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-id;"/>
-   </owl:NamedIndividual>
-
-
-
-  <!--
-    ///////////////////////////////////////////////////////////////////////////////////////
-    //
     // Riau
     //
     ///////////////////////////////////////////////////////////////////////////////////////
@@ -894,66 +947,6 @@
       <lcc-lr:hasTag rdf:datatype="&xsd;string">ID-SS</lcc-lr:hasTag>
       <lcc-lr:denotes rdf:resource="&lcc-3166-2-id;SumateraSelatan"/>
       <lcc-lr:identifies rdf:resource="&lcc-3166-2-id;SumateraSelatan"/>
-      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-id;"/>
-   </owl:NamedIndividual>
-
-
-
-  <!--
-    ///////////////////////////////////////////////////////////////////////////////////////
-    //
-    // Kepulauan Bangka Belitung
-    //
-    ///////////////////////////////////////////////////////////////////////////////////////
-    -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-id;KepulauanBangkaBelitung">
-      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>Kepulauan Bangka Belitung</rdfs:label>
-      <skos:definition>The province of Kepulauan Bangka Belitung in the country of Indonesia</skos:definition>
-      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-id;Sumatera"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="id">Kepulauan Bangka Belitung</lcc-cr:hasLocalShortName>
-      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-id;Province"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-id;"/>
-   </owl:NamedIndividual>
-
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-id;ID-BB">
-      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the province of Kepulauan Bangka Belitung in the country of Indonesia</skos:definition>
-      <rdfs:label>ID-BB</rdfs:label>
-      <lcc-lr:hasTag rdf:datatype="&xsd;string">ID-BB</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-2-id;KepulauanBangkaBelitung"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-2-id;KepulauanBangkaBelitung"/>
-      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-id;"/>
-   </owl:NamedIndividual>
-
-
-
-  <!--
-    ///////////////////////////////////////////////////////////////////////////////////////
-    //
-    // Jambi
-    //
-    ///////////////////////////////////////////////////////////////////////////////////////
-    -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-id;Jambi">
-      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>Jambi</rdfs:label>
-      <skos:definition>The province of Jambi in the country of Indonesia</skos:definition>
-      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-id;Sumatera"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="id">Jambi</lcc-cr:hasLocalShortName>
-      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-id;Province"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-id;"/>
-   </owl:NamedIndividual>
-
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-id;ID-JA">
-      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the province of Jambi in the country of Indonesia</skos:definition>
-      <rdfs:label>ID-JA</rdfs:label>
-      <lcc-lr:hasTag rdf:datatype="&xsd;string">ID-JA</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-2-id;Jambi"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-2-id;Jambi"/>
       <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-id;"/>
    </owl:NamedIndividual>

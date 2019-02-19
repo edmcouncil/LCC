@@ -36,9 +36,9 @@
 
       <!-- Curation and Rights Metadata for the LCC ISO 3166-2 Subdivision Codes for Ecuador Ontology -->
 
-      <sm:copyright rdf:datatype="&xsd;string">Copyright (c) 2015-2017 Object Management Group, Inc.
-          Copyright (c) 2015-2017 Adaptive Inc.
-          Copyright (c) 2015-2017 Thematix Partners LLC
+      <sm:copyright rdf:datatype="&xsd;string">Copyright (c) 2015-2019 Object Management Group, Inc.
+          Copyright (c) 2015-2019 Adaptive Inc.
+          Copyright (c) 2015-2019 Thematix Partners LLC
           Copyright (c) 2015-2017 Unisys
         </sm:copyright>
       <dct:license rdf:resource="&sm;MITLicense"/>
@@ -47,9 +47,9 @@
 
       <sm:filename rdf:datatype="&xsd;string">ISO3166-2-SubdivisionCodes-EC.rdf</sm:filename>
       <sm:fileAbbreviation rdf:datatype="&xsd;string">lcc-3166-2-ec</sm:fileAbbreviation>
-      <owl:versionIRI rdf:resource="http://www.omg.org/spec/LCC/20170801/Countries/Regions/ISO3166-2-SubdivisionCodes-EC/"/>
+      <owl:versionIRI rdf:resource="http://www.omg.org/spec/LCC/20190201/Countries/Regions/ISO3166-2-SubdivisionCodes-EC/"/>
       <sm:fileAbstract rdf:datatype="&xsd;string">This ontology represents the subset of the ISO 3166 standard that includes the actual ISO 3166-2 subdivision codes for Ecuador, with the ontology and codes for the other parts of the standard represented in models that this ontology depends on.</sm:fileAbstract>
-      <dct:issued rdf:datatype="&xsd;dateTime">2017-07-20T22:26:02.631805+02:00</dct:issued>
+      <dct:issued rdf:datatype="&xsd;dateTime">2019-02-14T00:48:51.124818+01:00</dct:issued>
 
       <sm:dependsOn rdf:datatype="&xsd;anyURI">http://www.omg.org/spec/LCC/Languages/LanguageRepresentation/</sm:dependsOn>
       <sm:dependsOn rdf:datatype="&xsd;anyURI">http://www.omg.org/spec/LCC/Countries/CountryRepresentation/</sm:dependsOn>
@@ -427,27 +427,27 @@
   <!--
     ///////////////////////////////////////////////////////////////////////////////////////
     //
-    // Zamora-Chinchipe
+    // Zamora Chinchipe
     //
     ///////////////////////////////////////////////////////////////////////////////////////
     -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-ec;Zamora-Chinchipe">
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-ec;ZamoraChinchipe">
       <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>Zamora-Chinchipe</rdfs:label>
-      <skos:definition>The province of Zamora-Chinchipe in the country of Ecuador</skos:definition>
+      <rdfs:label>Zamora Chinchipe</rdfs:label>
+      <skos:definition>The province of Zamora Chinchipe in the country of Ecuador</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Ecuador"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Zamora-Chinchipe</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Zamora Chinchipe</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ec;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ec;"/>
    </owl:NamedIndividual>
 
    <owl:NamedIndividual rdf:about="&lcc-3166-2-ec;EC-Z">
       <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the province of Zamora-Chinchipe in the country of Ecuador</skos:definition>
+      <skos:definition>subdivision code for the province of Zamora Chinchipe in the country of Ecuador</skos:definition>
       <rdfs:label>EC-Z</rdfs:label>
       <lcc-lr:hasTag rdf:datatype="&xsd;string">EC-Z</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-2-ec;Zamora-Chinchipe"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-2-ec;Zamora-Chinchipe"/>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-ec;ZamoraChinchipe"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-ec;ZamoraChinchipe"/>
       <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ec;"/>
    </owl:NamedIndividual>
@@ -697,27 +697,27 @@
   <!--
     ///////////////////////////////////////////////////////////////////////////////////////
     //
-    // Morona-Santiago
+    // Morona Santiago
     //
     ///////////////////////////////////////////////////////////////////////////////////////
     -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-ec;Morona-Santiago">
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-ec;MoronaSantiago">
       <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>Morona-Santiago</rdfs:label>
-      <skos:definition>The province of Morona-Santiago in the country of Ecuador</skos:definition>
+      <rdfs:label>Morona Santiago</rdfs:label>
+      <skos:definition>The province of Morona Santiago in the country of Ecuador</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Ecuador"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Morona-Santiago</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Morona Santiago</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ec;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ec;"/>
    </owl:NamedIndividual>
 
    <owl:NamedIndividual rdf:about="&lcc-3166-2-ec;EC-S">
       <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the province of Morona-Santiago in the country of Ecuador</skos:definition>
+      <skos:definition>subdivision code for the province of Morona Santiago in the country of Ecuador</skos:definition>
       <rdfs:label>EC-S</rdfs:label>
       <lcc-lr:hasTag rdf:datatype="&xsd;string">EC-S</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-2-ec;Morona-Santiago"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-2-ec;Morona-Santiago"/>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-ec;MoronaSantiago"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-ec;MoronaSantiago"/>
       <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ec;"/>
    </owl:NamedIndividual>
@@ -826,8 +826,8 @@
       <rdfs:label>Galápagos Islands</rdfs:label>
       <skos:definition>The territory of Galápagos Islands in the country of Ecuador</skos:definition>
       <lcc-cr:hasNumericRegionCode rdf:datatype="&xsd;string">1065</lcc-cr:hasNumericRegionCode>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Galápagos Islands</lcc-cr:hasEnglishShortName>
       <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">les Îles Galápagos</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Galápagos Islands</lcc-cr:hasEnglishShortName>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Ecuador"/>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2;Territory"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ec;"/>

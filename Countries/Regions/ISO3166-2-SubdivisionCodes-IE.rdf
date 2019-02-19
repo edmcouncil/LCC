@@ -36,9 +36,9 @@
 
       <!-- Curation and Rights Metadata for the LCC ISO 3166-2 Subdivision Codes for Ireland Ontology -->
 
-      <sm:copyright rdf:datatype="&xsd;string">Copyright (c) 2015-2017 Object Management Group, Inc.
-          Copyright (c) 2015-2017 Adaptive Inc.
-          Copyright (c) 2015-2017 Thematix Partners LLC
+      <sm:copyright rdf:datatype="&xsd;string">Copyright (c) 2015-2019 Object Management Group, Inc.
+          Copyright (c) 2015-2019 Adaptive Inc.
+          Copyright (c) 2015-2019 Thematix Partners LLC
           Copyright (c) 2015-2017 Unisys
         </sm:copyright>
       <dct:license rdf:resource="&sm;MITLicense"/>
@@ -47,9 +47,9 @@
 
       <sm:filename rdf:datatype="&xsd;string">ISO3166-2-SubdivisionCodes-IE.rdf</sm:filename>
       <sm:fileAbbreviation rdf:datatype="&xsd;string">lcc-3166-2-ie</sm:fileAbbreviation>
-      <owl:versionIRI rdf:resource="http://www.omg.org/spec/LCC/20170801/Countries/Regions/ISO3166-2-SubdivisionCodes-IE/"/>
+      <owl:versionIRI rdf:resource="http://www.omg.org/spec/LCC/20190201/Countries/Regions/ISO3166-2-SubdivisionCodes-IE/"/>
       <sm:fileAbstract rdf:datatype="&xsd;string">This ontology represents the subset of the ISO 3166 standard that includes the actual ISO 3166-2 subdivision codes for Ireland, with the ontology and codes for the other parts of the standard represented in models that this ontology depends on.</sm:fileAbstract>
-      <dct:issued rdf:datatype="&xsd;dateTime">2017-07-20T22:26:02.631805+02:00</dct:issued>
+      <dct:issued rdf:datatype="&xsd;dateTime">2019-02-14T00:48:51.124818+01:00</dct:issued>
 
       <sm:dependsOn rdf:datatype="&xsd;anyURI">http://www.omg.org/spec/LCC/Languages/LanguageRepresentation/</sm:dependsOn>
       <sm:dependsOn rdf:datatype="&xsd;anyURI">http://www.omg.org/spec/LCC/Countries/CountryRepresentation/</sm:dependsOn>
@@ -129,6 +129,37 @@
       <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ie;"/>
    </owl:NamedIndividual>
+
+  <!--
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Dublin
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+    -->
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-ie;Dublin">
+      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
+      <rdfs:label>Dublin</rdfs:label>
+      <skos:definition>The county of Dublin in the country of Ireland</skos:definition>
+      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ie;Leinster"/>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ga">Baile Átha Cliath</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Dublin</lcc-cr:hasEnglishShortName>
+      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ie;County"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ie;"/>
+   </owl:NamedIndividual>
+
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-ie;IE-D">
+      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
+      <skos:definition>subdivision code for the county of Dublin in the country of Ireland</skos:definition>
+      <rdfs:label>IE-D</rdfs:label>
+      <lcc-lr:hasTag rdf:datatype="&xsd;string">IE-D</lcc-lr:hasTag>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-ie;Dublin"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-ie;Dublin"/>
+      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ie;"/>
+   </owl:NamedIndividual>
+
+
 
   <!--
     ///////////////////////////////////////////////////////////////////////////////////////
@@ -471,37 +502,6 @@
 
 
 
-  <!--
-    ///////////////////////////////////////////////////////////////////////////////////////
-    //
-    // Dublin
-    //
-    ///////////////////////////////////////////////////////////////////////////////////////
-    -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-ie;Dublin">
-      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>Dublin</rdfs:label>
-      <skos:definition>The county of Dublin in the country of Ireland</skos:definition>
-      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ie;Leinster"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ga">Baile Átha Cliath</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Dublin</lcc-cr:hasEnglishShortName>
-      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ie;County"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ie;"/>
-   </owl:NamedIndividual>
-
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-ie;IE-D">
-      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the county of Dublin in the country of Ireland</skos:definition>
-      <rdfs:label>IE-D</rdfs:label>
-      <lcc-lr:hasTag rdf:datatype="&xsd;string">IE-D</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-2-ie;Dublin"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-2-ie;Dublin"/>
-      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ie;"/>
-   </owl:NamedIndividual>
-
-
-
 
 
   <!--
@@ -532,6 +532,37 @@
       <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ie;"/>
    </owl:NamedIndividual>
+
+  <!--
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Monaghan
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+    -->
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-ie;Monaghan">
+      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
+      <rdfs:label>Monaghan</rdfs:label>
+      <skos:definition>The county of Monaghan in the country of Ireland</skos:definition>
+      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ie;Ulster"/>
+      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Monaghan</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ga">Muineachán</lcc-cr:hasLocalShortName>
+      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ie;County"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ie;"/>
+   </owl:NamedIndividual>
+
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-ie;IE-MN">
+      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
+      <skos:definition>subdivision code for the county of Monaghan in the country of Ireland</skos:definition>
+      <rdfs:label>IE-MN</rdfs:label>
+      <lcc-lr:hasTag rdf:datatype="&xsd;string">IE-MN</lcc-lr:hasTag>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-ie;Monaghan"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-ie;Monaghan"/>
+      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ie;"/>
+   </owl:NamedIndividual>
+
+
 
   <!--
     ///////////////////////////////////////////////////////////////////////////////////////
@@ -589,37 +620,6 @@
       <lcc-lr:hasTag rdf:datatype="&xsd;string">IE-DL</lcc-lr:hasTag>
       <lcc-lr:denotes rdf:resource="&lcc-3166-2-ie;Donegal"/>
       <lcc-lr:identifies rdf:resource="&lcc-3166-2-ie;Donegal"/>
-      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ie;"/>
-   </owl:NamedIndividual>
-
-
-
-  <!--
-    ///////////////////////////////////////////////////////////////////////////////////////
-    //
-    // Monaghan
-    //
-    ///////////////////////////////////////////////////////////////////////////////////////
-    -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-ie;Monaghan">
-      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>Monaghan</rdfs:label>
-      <skos:definition>The county of Monaghan in the country of Ireland</skos:definition>
-      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ie;Ulster"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Monaghan</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ga">Muineachán</lcc-cr:hasLocalShortName>
-      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ie;County"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ie;"/>
-   </owl:NamedIndividual>
-
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-ie;IE-MN">
-      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the county of Monaghan in the country of Ireland</skos:definition>
-      <rdfs:label>IE-MN</rdfs:label>
-      <lcc-lr:hasTag rdf:datatype="&xsd;string">IE-MN</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-2-ie;Monaghan"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-2-ie;Monaghan"/>
       <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ie;"/>
    </owl:NamedIndividual>

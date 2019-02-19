@@ -36,9 +36,9 @@
 
       <!-- Curation and Rights Metadata for the LCC ISO 3166-2 Subdivision Codes for Pitcairn Ontology -->
 
-      <sm:copyright rdf:datatype="&xsd;string">Copyright (c) 2015-2017 Object Management Group, Inc.
-          Copyright (c) 2015-2017 Adaptive Inc.
-          Copyright (c) 2015-2017 Thematix Partners LLC
+      <sm:copyright rdf:datatype="&xsd;string">Copyright (c) 2015-2019 Object Management Group, Inc.
+          Copyright (c) 2015-2019 Adaptive Inc.
+          Copyright (c) 2015-2019 Thematix Partners LLC
           Copyright (c) 2015-2017 Unisys
         </sm:copyright>
       <dct:license rdf:resource="&sm;MITLicense"/>
@@ -47,9 +47,9 @@
 
       <sm:filename rdf:datatype="&xsd;string">ISO3166-2-SubdivisionCodes-PN.rdf</sm:filename>
       <sm:fileAbbreviation rdf:datatype="&xsd;string">lcc-3166-2-pn</sm:fileAbbreviation>
-      <owl:versionIRI rdf:resource="http://www.omg.org/spec/LCC/20170801/Countries/Regions/ISO3166-2-SubdivisionCodes-PN/"/>
+      <owl:versionIRI rdf:resource="http://www.omg.org/spec/LCC/20190201/Countries/Regions/ISO3166-2-SubdivisionCodes-PN/"/>
       <sm:fileAbstract rdf:datatype="&xsd;string">This ontology represents the subset of the ISO 3166 standard that includes the actual ISO 3166-2 subdivision codes for Pitcairn, with the ontology and codes for the other parts of the standard represented in models that this ontology depends on.</sm:fileAbstract>
-      <dct:issued rdf:datatype="&xsd;dateTime">2017-07-20T22:26:02.631805+02:00</dct:issued>
+      <dct:issued rdf:datatype="&xsd;dateTime">2019-02-14T00:48:51.124818+01:00</dct:issued>
 
       <sm:dependsOn rdf:datatype="&xsd;anyURI">http://www.omg.org/spec/LCC/Languages/LanguageRepresentation/</sm:dependsOn>
       <sm:dependsOn rdf:datatype="&xsd;anyURI">http://www.omg.org/spec/LCC/Countries/CountryRepresentation/</sm:dependsOn>
@@ -99,8 +99,8 @@
       <rdfs:label>Ducie Island</rdfs:label>
       <skos:definition>The territory of Ducie Island in the country of Pitcairn</skos:definition>
       <lcc-cr:hasNumericRegionCode rdf:datatype="&xsd;string">1052</lcc-cr:hasNumericRegionCode>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Ducie Island</lcc-cr:hasEnglishShortName>
       <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">l'Île Ducie</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Ducie Island</lcc-cr:hasEnglishShortName>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Pitcairn"/>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2;Territory"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-pn;"/>
@@ -118,8 +118,8 @@
       <rdfs:label>Henderson Island</rdfs:label>
       <skos:definition>The territory of Henderson Island in the country of Pitcairn</skos:definition>
       <lcc-cr:hasNumericRegionCode rdf:datatype="&xsd;string">1080</lcc-cr:hasNumericRegionCode>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Henderson Island</lcc-cr:hasEnglishShortName>
       <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">l'Île Henderson</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Henderson Island</lcc-cr:hasEnglishShortName>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Pitcairn"/>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2;Territory"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-pn;"/>
@@ -137,8 +137,8 @@
       <rdfs:label>Oeno Island</rdfs:label>
       <skos:definition>The territory of Oeno Island in the country of Pitcairn</skos:definition>
       <lcc-cr:hasNumericRegionCode rdf:datatype="&xsd;string">1142</lcc-cr:hasNumericRegionCode>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Oeno Island</lcc-cr:hasEnglishShortName>
       <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">l'Île Oeno</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Oeno Island</lcc-cr:hasEnglishShortName>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Pitcairn"/>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2;Territory"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-pn;"/>

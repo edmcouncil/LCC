@@ -36,9 +36,9 @@
 
       <!-- Curation and Rights Metadata for the LCC ISO 3166-2 Subdivision Codes for Colombia Ontology -->
 
-      <sm:copyright rdf:datatype="&xsd;string">Copyright (c) 2015-2017 Object Management Group, Inc.
-          Copyright (c) 2015-2017 Adaptive Inc.
-          Copyright (c) 2015-2017 Thematix Partners LLC
+      <sm:copyright rdf:datatype="&xsd;string">Copyright (c) 2015-2019 Object Management Group, Inc.
+          Copyright (c) 2015-2019 Adaptive Inc.
+          Copyright (c) 2015-2019 Thematix Partners LLC
           Copyright (c) 2015-2017 Unisys
         </sm:copyright>
       <dct:license rdf:resource="&sm;MITLicense"/>
@@ -47,9 +47,9 @@
 
       <sm:filename rdf:datatype="&xsd;string">ISO3166-2-SubdivisionCodes-CO.rdf</sm:filename>
       <sm:fileAbbreviation rdf:datatype="&xsd;string">lcc-3166-2-co</sm:fileAbbreviation>
-      <owl:versionIRI rdf:resource="http://www.omg.org/spec/LCC/20170801/Countries/Regions/ISO3166-2-SubdivisionCodes-CO/"/>
+      <owl:versionIRI rdf:resource="http://www.omg.org/spec/LCC/20190201/Countries/Regions/ISO3166-2-SubdivisionCodes-CO/"/>
       <sm:fileAbstract rdf:datatype="&xsd;string">This ontology represents the subset of the ISO 3166 standard that includes the actual ISO 3166-2 subdivision codes for Colombia, with the ontology and codes for the other parts of the standard represented in models that this ontology depends on.</sm:fileAbstract>
-      <dct:issued rdf:datatype="&xsd;dateTime">2017-07-20T22:26:02.631805+02:00</dct:issued>
+      <dct:issued rdf:datatype="&xsd;dateTime">2019-02-14T00:48:51.124818+01:00</dct:issued>
 
       <sm:dependsOn rdf:datatype="&xsd;anyURI">http://www.omg.org/spec/LCC/Languages/LanguageRepresentation/</sm:dependsOn>
       <sm:dependsOn rdf:datatype="&xsd;anyURI">http://www.omg.org/spec/LCC/Countries/CountryRepresentation/</sm:dependsOn>
@@ -1103,8 +1103,8 @@
       <rdfs:label>Malpelo Island</rdfs:label>
       <skos:definition>The territory of Malpelo Island in the country of Colombia</skos:definition>
       <lcc-cr:hasNumericRegionCode rdf:datatype="&xsd;string">1116</lcc-cr:hasNumericRegionCode>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Malpelo Island</lcc-cr:hasEnglishShortName>
       <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">l'Île de Malpelo</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Malpelo Island</lcc-cr:hasEnglishShortName>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Colombia"/>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2;Territory"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-co;"/>
@@ -1122,8 +1122,8 @@
       <rdfs:label>San Andrés y Providencia Islands</rdfs:label>
       <skos:definition>The territory of San Andrés y Providencia Islands in the country of Colombia</skos:definition>
       <lcc-cr:hasNumericRegionCode rdf:datatype="&xsd;string">1183</lcc-cr:hasNumericRegionCode>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">San Andrés y Providencia Islands</lcc-cr:hasEnglishShortName>
       <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">les Îles San Andrés et Providencia</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">San Andrés y Providencia Islands</lcc-cr:hasEnglishShortName>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Colombia"/>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2;Territory"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-co;"/>

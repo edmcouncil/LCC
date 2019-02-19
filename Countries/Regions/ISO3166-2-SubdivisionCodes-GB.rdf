@@ -36,9 +36,9 @@
 
       <!-- Curation and Rights Metadata for the LCC ISO 3166-2 Subdivision Codes for United Kingdom of Great Britain and Northern Ireland (the) Ontology -->
 
-      <sm:copyright rdf:datatype="&xsd;string">Copyright (c) 2015-2017 Object Management Group, Inc.
-          Copyright (c) 2015-2017 Adaptive Inc.
-          Copyright (c) 2015-2017 Thematix Partners LLC
+      <sm:copyright rdf:datatype="&xsd;string">Copyright (c) 2015-2019 Object Management Group, Inc.
+          Copyright (c) 2015-2019 Adaptive Inc.
+          Copyright (c) 2015-2019 Thematix Partners LLC
           Copyright (c) 2015-2017 Unisys
         </sm:copyright>
       <dct:license rdf:resource="&sm;MITLicense"/>
@@ -47,9 +47,9 @@
 
       <sm:filename rdf:datatype="&xsd;string">ISO3166-2-SubdivisionCodes-GB.rdf</sm:filename>
       <sm:fileAbbreviation rdf:datatype="&xsd;string">lcc-3166-2-gb</sm:fileAbbreviation>
-      <owl:versionIRI rdf:resource="http://www.omg.org/spec/LCC/20170801/Countries/Regions/ISO3166-2-SubdivisionCodes-GB/"/>
+      <owl:versionIRI rdf:resource="http://www.omg.org/spec/LCC/20190201/Countries/Regions/ISO3166-2-SubdivisionCodes-GB/"/>
       <sm:fileAbstract rdf:datatype="&xsd;string">This ontology represents the subset of the ISO 3166 standard that includes the actual ISO 3166-2 subdivision codes for United Kingdom of Great Britain and Northern Ireland (the), with the ontology and codes for the other parts of the standard represented in models that this ontology depends on.</sm:fileAbstract>
-      <dct:issued rdf:datatype="&xsd;dateTime">2017-07-20T22:26:02.631805+02:00</dct:issued>
+      <dct:issued rdf:datatype="&xsd;dateTime">2019-02-14T00:48:51.124818+01:00</dct:issued>
 
       <sm:dependsOn rdf:datatype="&xsd;anyURI">http://www.omg.org/spec/LCC/Languages/LanguageRepresentation/</sm:dependsOn>
       <sm:dependsOn rdf:datatype="&xsd;anyURI">http://www.omg.org/spec/LCC/Countries/CountryRepresentation/</sm:dependsOn>
@@ -244,6 +244,96 @@
       <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
    </owl:NamedIndividual>
+
+  <!--
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Edinburgh, City of
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+    -->
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-gb;Edinburgh">
+      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
+      <rdfs:label>Edinburgh, City of</rdfs:label>
+      <skos:definition>The council area of Edinburgh, City of in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
+      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gb;Scotland"/>
+      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Edinburgh, City of</lcc-cr:hasEnglishShortName>
+      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gb;CouncilArea"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
+   </owl:NamedIndividual>
+
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-gb;GB-EDH">
+      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
+      <skos:definition>subdivision code for the council area of Edinburgh, City of in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
+      <rdfs:label>GB-EDH</rdfs:label>
+      <lcc-lr:hasTag rdf:datatype="&xsd;string">GB-EDH</lcc-lr:hasTag>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-gb;Edinburgh"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-gb;Edinburgh"/>
+      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
+   </owl:NamedIndividual>
+
+
+
+  <!--
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // North Lanarkshire
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+    -->
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-gb;NorthLanarkshire">
+      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
+      <rdfs:label>North Lanarkshire</rdfs:label>
+      <skos:definition>The council area of North Lanarkshire in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
+      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gb;Scotland"/>
+      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">North Lanarkshire</lcc-cr:hasEnglishShortName>
+      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gb;CouncilArea"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
+   </owl:NamedIndividual>
+
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-gb;GB-NLK">
+      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
+      <skos:definition>subdivision code for the council area of North Lanarkshire in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
+      <rdfs:label>GB-NLK</rdfs:label>
+      <lcc-lr:hasTag rdf:datatype="&xsd;string">GB-NLK</lcc-lr:hasTag>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-gb;NorthLanarkshire"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-gb;NorthLanarkshire"/>
+      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
+   </owl:NamedIndividual>
+
+
+
+  <!--
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Renfrewshire
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+    -->
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-gb;Renfrewshire">
+      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
+      <rdfs:label>Renfrewshire</rdfs:label>
+      <skos:definition>The council area of Renfrewshire in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
+      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gb;Scotland"/>
+      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Renfrewshire</lcc-cr:hasEnglishShortName>
+      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gb;CouncilArea"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
+   </owl:NamedIndividual>
+
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-gb;GB-RFW">
+      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
+      <skos:definition>subdivision code for the council area of Renfrewshire in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
+      <rdfs:label>GB-RFW</rdfs:label>
+      <lcc-lr:hasTag rdf:datatype="&xsd;string">GB-RFW</lcc-lr:hasTag>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-gb;Renfrewshire"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-gb;Renfrewshire"/>
+      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
+   </owl:NamedIndividual>
+
+
 
   <!--
     ///////////////////////////////////////////////////////////////////////////////////////
@@ -1115,96 +1205,6 @@
 
 
 
-  <!--
-    ///////////////////////////////////////////////////////////////////////////////////////
-    //
-    // Edinburgh, City of
-    //
-    ///////////////////////////////////////////////////////////////////////////////////////
-    -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-gb;Edinburgh">
-      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>Edinburgh, City of</rdfs:label>
-      <skos:definition>The council area of Edinburgh, City of in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
-      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gb;Scotland"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Edinburgh, City of</lcc-cr:hasEnglishShortName>
-      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gb;CouncilArea"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
-   </owl:NamedIndividual>
-
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-gb;GB-EDH">
-      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the council area of Edinburgh, City of in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
-      <rdfs:label>GB-EDH</rdfs:label>
-      <lcc-lr:hasTag rdf:datatype="&xsd;string">GB-EDH</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-2-gb;Edinburgh"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-2-gb;Edinburgh"/>
-      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
-   </owl:NamedIndividual>
-
-
-
-  <!--
-    ///////////////////////////////////////////////////////////////////////////////////////
-    //
-    // North Lanarkshire
-    //
-    ///////////////////////////////////////////////////////////////////////////////////////
-    -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-gb;NorthLanarkshire">
-      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>North Lanarkshire</rdfs:label>
-      <skos:definition>The council area of North Lanarkshire in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
-      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gb;Scotland"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">North Lanarkshire</lcc-cr:hasEnglishShortName>
-      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gb;CouncilArea"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
-   </owl:NamedIndividual>
-
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-gb;GB-NLK">
-      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the council area of North Lanarkshire in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
-      <rdfs:label>GB-NLK</rdfs:label>
-      <lcc-lr:hasTag rdf:datatype="&xsd;string">GB-NLK</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-2-gb;NorthLanarkshire"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-2-gb;NorthLanarkshire"/>
-      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
-   </owl:NamedIndividual>
-
-
-
-  <!--
-    ///////////////////////////////////////////////////////////////////////////////////////
-    //
-    // Renfrewshire
-    //
-    ///////////////////////////////////////////////////////////////////////////////////////
-    -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-gb;Renfrewshire">
-      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>Renfrewshire</rdfs:label>
-      <skos:definition>The council area of Renfrewshire in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
-      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gb;Scotland"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Renfrewshire</lcc-cr:hasEnglishShortName>
-      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gb;CouncilArea"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
-   </owl:NamedIndividual>
-
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-gb;GB-RFW">
-      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the council area of Renfrewshire in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
-      <rdfs:label>GB-RFW</rdfs:label>
-      <lcc-lr:hasTag rdf:datatype="&xsd;string">GB-RFW</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-2-gb;Renfrewshire"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-2-gb;Renfrewshire"/>
-      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
-   </owl:NamedIndividual>
-
-
-
 
 
   <!--
@@ -1264,6 +1264,426 @@
       <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
    </owl:NamedIndividual>
+
+  <!--
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Bromley
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+    -->
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-gb;Bromley">
+      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
+      <rdfs:label>Bromley</rdfs:label>
+      <skos:definition>The London borough of Bromley in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
+      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gb;England"/>
+      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Bromley</lcc-cr:hasEnglishShortName>
+      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gb;LondonBorough"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
+   </owl:NamedIndividual>
+
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-gb;GB-BRY">
+      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
+      <skos:definition>subdivision code for the London borough of Bromley in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
+      <rdfs:label>GB-BRY</rdfs:label>
+      <lcc-lr:hasTag rdf:datatype="&xsd;string">GB-BRY</lcc-lr:hasTag>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-gb;Bromley"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-gb;Bromley"/>
+      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
+   </owl:NamedIndividual>
+
+
+
+  <!--
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Ealing
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+    -->
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-gb;Ealing">
+      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
+      <rdfs:label>Ealing</rdfs:label>
+      <skos:definition>The London borough of Ealing in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
+      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gb;England"/>
+      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Ealing</lcc-cr:hasEnglishShortName>
+      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gb;LondonBorough"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
+   </owl:NamedIndividual>
+
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-gb;GB-EAL">
+      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
+      <skos:definition>subdivision code for the London borough of Ealing in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
+      <rdfs:label>GB-EAL</rdfs:label>
+      <lcc-lr:hasTag rdf:datatype="&xsd;string">GB-EAL</lcc-lr:hasTag>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-gb;Ealing"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-gb;Ealing"/>
+      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
+   </owl:NamedIndividual>
+
+
+
+  <!--
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Greenwich
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+    -->
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-gb;Greenwich">
+      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
+      <rdfs:label>Greenwich</rdfs:label>
+      <skos:definition>The London borough of Greenwich in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
+      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gb;England"/>
+      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Greenwich</lcc-cr:hasEnglishShortName>
+      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gb;LondonBorough"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
+   </owl:NamedIndividual>
+
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-gb;GB-GRE">
+      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
+      <skos:definition>subdivision code for the London borough of Greenwich in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
+      <rdfs:label>GB-GRE</rdfs:label>
+      <lcc-lr:hasTag rdf:datatype="&xsd;string">GB-GRE</lcc-lr:hasTag>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-gb;Greenwich"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-gb;Greenwich"/>
+      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
+   </owl:NamedIndividual>
+
+
+
+  <!--
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Halton
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+    -->
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-gb;Halton">
+      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
+      <rdfs:label>Halton</rdfs:label>
+      <skos:definition>The unitary authority of Halton in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
+      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gb;England"/>
+      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Halton</lcc-cr:hasEnglishShortName>
+      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gb;UnitaryAuthority"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
+   </owl:NamedIndividual>
+
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-gb;GB-HAL">
+      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
+      <skos:definition>subdivision code for the unitary authority of Halton in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
+      <rdfs:label>GB-HAL</rdfs:label>
+      <lcc-lr:hasTag rdf:datatype="&xsd;string">GB-HAL</lcc-lr:hasTag>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-gb;Halton"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-gb;Halton"/>
+      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
+   </owl:NamedIndividual>
+
+
+
+  <!--
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Haringey
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+    -->
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-gb;Haringey">
+      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
+      <rdfs:label>Haringey</rdfs:label>
+      <skos:definition>The London borough of Haringey in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
+      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gb;England"/>
+      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Haringey</lcc-cr:hasEnglishShortName>
+      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gb;LondonBorough"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
+   </owl:NamedIndividual>
+
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-gb;GB-HRY">
+      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
+      <skos:definition>subdivision code for the London borough of Haringey in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
+      <rdfs:label>GB-HRY</rdfs:label>
+      <lcc-lr:hasTag rdf:datatype="&xsd;string">GB-HRY</lcc-lr:hasTag>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-gb;Haringey"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-gb;Haringey"/>
+      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
+   </owl:NamedIndividual>
+
+
+
+  <!--
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Kingston upon Hull
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+    -->
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-gb;KingstonUponHull">
+      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
+      <rdfs:label>Kingston upon Hull</rdfs:label>
+      <skos:definition>The unitary authority of Kingston upon Hull in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
+      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gb;England"/>
+      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Kingston upon Hull</lcc-cr:hasEnglishShortName>
+      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gb;UnitaryAuthority"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
+   </owl:NamedIndividual>
+
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-gb;GB-KHL">
+      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
+      <skos:definition>subdivision code for the unitary authority of Kingston upon Hull in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
+      <rdfs:label>GB-KHL</rdfs:label>
+      <lcc-lr:hasTag rdf:datatype="&xsd;string">GB-KHL</lcc-lr:hasTag>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-gb;KingstonUponHull"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-gb;KingstonUponHull"/>
+      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
+   </owl:NamedIndividual>
+
+
+
+  <!--
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // North East Lincolnshire
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+    -->
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-gb;NorthEastLincolnshire">
+      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
+      <rdfs:label>North East Lincolnshire</rdfs:label>
+      <skos:definition>The unitary authority of North East Lincolnshire in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
+      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gb;England"/>
+      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">North East Lincolnshire</lcc-cr:hasEnglishShortName>
+      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gb;UnitaryAuthority"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
+   </owl:NamedIndividual>
+
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-gb;GB-NEL">
+      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
+      <skos:definition>subdivision code for the unitary authority of North East Lincolnshire in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
+      <rdfs:label>GB-NEL</rdfs:label>
+      <lcc-lr:hasTag rdf:datatype="&xsd;string">GB-NEL</lcc-lr:hasTag>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-gb;NorthEastLincolnshire"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-gb;NorthEastLincolnshire"/>
+      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
+   </owl:NamedIndividual>
+
+
+
+  <!--
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Norfolk
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+    -->
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-gb;Norfolk">
+      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
+      <rdfs:label>Norfolk</rdfs:label>
+      <skos:definition>The two-tier county of Norfolk in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
+      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gb;England"/>
+      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Norfolk</lcc-cr:hasEnglishShortName>
+      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gb;Two-tierCounty"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
+   </owl:NamedIndividual>
+
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-gb;GB-NFK">
+      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
+      <skos:definition>subdivision code for the two-tier county of Norfolk in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
+      <rdfs:label>GB-NFK</rdfs:label>
+      <lcc-lr:hasTag rdf:datatype="&xsd;string">GB-NFK</lcc-lr:hasTag>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-gb;Norfolk"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-gb;Norfolk"/>
+      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
+   </owl:NamedIndividual>
+
+
+
+  <!--
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Portsmouth
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+    -->
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-gb;Portsmouth">
+      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
+      <rdfs:label>Portsmouth</rdfs:label>
+      <skos:definition>The unitary authority of Portsmouth in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
+      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gb;England"/>
+      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Portsmouth</lcc-cr:hasEnglishShortName>
+      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gb;UnitaryAuthority"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
+   </owl:NamedIndividual>
+
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-gb;GB-POR">
+      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
+      <skos:definition>subdivision code for the unitary authority of Portsmouth in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
+      <rdfs:label>GB-POR</rdfs:label>
+      <lcc-lr:hasTag rdf:datatype="&xsd;string">GB-POR</lcc-lr:hasTag>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-gb;Portsmouth"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-gb;Portsmouth"/>
+      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
+   </owl:NamedIndividual>
+
+
+
+  <!--
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // South Gloucestershire
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+    -->
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-gb;SouthGloucestershire">
+      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
+      <rdfs:label>South Gloucestershire</rdfs:label>
+      <skos:definition>The unitary authority of South Gloucestershire in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
+      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gb;England"/>
+      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">South Gloucestershire</lcc-cr:hasEnglishShortName>
+      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gb;UnitaryAuthority"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
+   </owl:NamedIndividual>
+
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-gb;GB-SGC">
+      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
+      <skos:definition>subdivision code for the unitary authority of South Gloucestershire in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
+      <rdfs:label>GB-SGC</rdfs:label>
+      <lcc-lr:hasTag rdf:datatype="&xsd;string">GB-SGC</lcc-lr:hasTag>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-gb;SouthGloucestershire"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-gb;SouthGloucestershire"/>
+      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
+   </owl:NamedIndividual>
+
+
+
+  <!--
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // West Berkshire
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+    -->
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-gb;WestBerkshire">
+      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
+      <rdfs:label>West Berkshire</rdfs:label>
+      <skos:definition>The unitary authority of West Berkshire in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
+      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gb;England"/>
+      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">West Berkshire</lcc-cr:hasEnglishShortName>
+      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gb;UnitaryAuthority"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
+   </owl:NamedIndividual>
+
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-gb;GB-WBK">
+      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
+      <skos:definition>subdivision code for the unitary authority of West Berkshire in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
+      <rdfs:label>GB-WBK</rdfs:label>
+      <lcc-lr:hasTag rdf:datatype="&xsd;string">GB-WBK</lcc-lr:hasTag>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-gb;WestBerkshire"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-gb;WestBerkshire"/>
+      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
+   </owl:NamedIndividual>
+
+
+
+  <!--
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Wandsworth
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+    -->
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-gb;Wandsworth">
+      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
+      <rdfs:label>Wandsworth</rdfs:label>
+      <skos:definition>The London borough of Wandsworth in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
+      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gb;England"/>
+      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Wandsworth</lcc-cr:hasEnglishShortName>
+      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gb;LondonBorough"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
+   </owl:NamedIndividual>
+
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-gb;GB-WND">
+      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
+      <skos:definition>subdivision code for the London borough of Wandsworth in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
+      <rdfs:label>GB-WND</rdfs:label>
+      <lcc-lr:hasTag rdf:datatype="&xsd;string">GB-WND</lcc-lr:hasTag>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-gb;Wandsworth"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-gb;Wandsworth"/>
+      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
+   </owl:NamedIndividual>
+
+
+
+  <!--
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Warrington
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+    -->
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-gb;Warrington">
+      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
+      <rdfs:label>Warrington</rdfs:label>
+      <skos:definition>The unitary authority of Warrington in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
+      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gb;England"/>
+      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Warrington</lcc-cr:hasEnglishShortName>
+      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gb;UnitaryAuthority"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
+   </owl:NamedIndividual>
+
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-gb;GB-WRT">
+      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
+      <skos:definition>subdivision code for the unitary authority of Warrington in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
+      <rdfs:label>GB-WRT</rdfs:label>
+      <lcc-lr:hasTag rdf:datatype="&xsd;string">GB-WRT</lcc-lr:hasTag>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-gb;Warrington"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-gb;Warrington"/>
+      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
+   </owl:NamedIndividual>
+
+
+
+  <!--
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Isles of Scilly
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+    -->
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-gb;IslesOfScilly">
+      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
+      <rdfs:label>Isles of Scilly</rdfs:label>
+      <skos:definition>The unitary authority of Isles of Scilly in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
+      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gb;England"/>
+      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Isles of Scilly</lcc-cr:hasEnglishShortName>
+      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gb;UnitaryAuthority"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
+   </owl:NamedIndividual>
+
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-gb;GB-IOS">
+      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
+      <skos:definition>subdivision code for the unitary authority of Isles of Scilly in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
+      <rdfs:label>GB-IOS</rdfs:label>
+      <lcc-lr:hasTag rdf:datatype="&xsd;string">GB-IOS</lcc-lr:hasTag>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-gb;IslesOfScilly"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-gb;IslesOfScilly"/>
+      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
+   </owl:NamedIndividual>
+
+
 
   <!--
     ///////////////////////////////////////////////////////////////////////////////////////
@@ -5405,426 +5825,6 @@
 
 
 
-  <!--
-    ///////////////////////////////////////////////////////////////////////////////////////
-    //
-    // Bromley
-    //
-    ///////////////////////////////////////////////////////////////////////////////////////
-    -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-gb;Bromley">
-      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>Bromley</rdfs:label>
-      <skos:definition>The London borough of Bromley in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
-      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gb;England"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Bromley</lcc-cr:hasEnglishShortName>
-      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gb;LondonBorough"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
-   </owl:NamedIndividual>
-
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-gb;GB-BRY">
-      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the London borough of Bromley in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
-      <rdfs:label>GB-BRY</rdfs:label>
-      <lcc-lr:hasTag rdf:datatype="&xsd;string">GB-BRY</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-2-gb;Bromley"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-2-gb;Bromley"/>
-      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
-   </owl:NamedIndividual>
-
-
-
-  <!--
-    ///////////////////////////////////////////////////////////////////////////////////////
-    //
-    // Ealing
-    //
-    ///////////////////////////////////////////////////////////////////////////////////////
-    -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-gb;Ealing">
-      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>Ealing</rdfs:label>
-      <skos:definition>The London borough of Ealing in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
-      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gb;England"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Ealing</lcc-cr:hasEnglishShortName>
-      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gb;LondonBorough"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
-   </owl:NamedIndividual>
-
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-gb;GB-EAL">
-      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the London borough of Ealing in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
-      <rdfs:label>GB-EAL</rdfs:label>
-      <lcc-lr:hasTag rdf:datatype="&xsd;string">GB-EAL</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-2-gb;Ealing"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-2-gb;Ealing"/>
-      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
-   </owl:NamedIndividual>
-
-
-
-  <!--
-    ///////////////////////////////////////////////////////////////////////////////////////
-    //
-    // Greenwich
-    //
-    ///////////////////////////////////////////////////////////////////////////////////////
-    -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-gb;Greenwich">
-      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>Greenwich</rdfs:label>
-      <skos:definition>The London borough of Greenwich in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
-      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gb;England"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Greenwich</lcc-cr:hasEnglishShortName>
-      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gb;LondonBorough"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
-   </owl:NamedIndividual>
-
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-gb;GB-GRE">
-      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the London borough of Greenwich in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
-      <rdfs:label>GB-GRE</rdfs:label>
-      <lcc-lr:hasTag rdf:datatype="&xsd;string">GB-GRE</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-2-gb;Greenwich"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-2-gb;Greenwich"/>
-      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
-   </owl:NamedIndividual>
-
-
-
-  <!--
-    ///////////////////////////////////////////////////////////////////////////////////////
-    //
-    // Halton
-    //
-    ///////////////////////////////////////////////////////////////////////////////////////
-    -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-gb;Halton">
-      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>Halton</rdfs:label>
-      <skos:definition>The unitary authority of Halton in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
-      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gb;England"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Halton</lcc-cr:hasEnglishShortName>
-      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gb;UnitaryAuthority"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
-   </owl:NamedIndividual>
-
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-gb;GB-HAL">
-      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the unitary authority of Halton in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
-      <rdfs:label>GB-HAL</rdfs:label>
-      <lcc-lr:hasTag rdf:datatype="&xsd;string">GB-HAL</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-2-gb;Halton"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-2-gb;Halton"/>
-      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
-   </owl:NamedIndividual>
-
-
-
-  <!--
-    ///////////////////////////////////////////////////////////////////////////////////////
-    //
-    // Haringey
-    //
-    ///////////////////////////////////////////////////////////////////////////////////////
-    -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-gb;Haringey">
-      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>Haringey</rdfs:label>
-      <skos:definition>The London borough of Haringey in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
-      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gb;England"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Haringey</lcc-cr:hasEnglishShortName>
-      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gb;LondonBorough"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
-   </owl:NamedIndividual>
-
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-gb;GB-HRY">
-      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the London borough of Haringey in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
-      <rdfs:label>GB-HRY</rdfs:label>
-      <lcc-lr:hasTag rdf:datatype="&xsd;string">GB-HRY</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-2-gb;Haringey"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-2-gb;Haringey"/>
-      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
-   </owl:NamedIndividual>
-
-
-
-  <!--
-    ///////////////////////////////////////////////////////////////////////////////////////
-    //
-    // Kingston upon Hull
-    //
-    ///////////////////////////////////////////////////////////////////////////////////////
-    -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-gb;KingstonUponHull">
-      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>Kingston upon Hull</rdfs:label>
-      <skos:definition>The unitary authority of Kingston upon Hull in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
-      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gb;England"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Kingston upon Hull</lcc-cr:hasEnglishShortName>
-      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gb;UnitaryAuthority"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
-   </owl:NamedIndividual>
-
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-gb;GB-KHL">
-      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the unitary authority of Kingston upon Hull in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
-      <rdfs:label>GB-KHL</rdfs:label>
-      <lcc-lr:hasTag rdf:datatype="&xsd;string">GB-KHL</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-2-gb;KingstonUponHull"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-2-gb;KingstonUponHull"/>
-      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
-   </owl:NamedIndividual>
-
-
-
-  <!--
-    ///////////////////////////////////////////////////////////////////////////////////////
-    //
-    // North East Lincolnshire
-    //
-    ///////////////////////////////////////////////////////////////////////////////////////
-    -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-gb;NorthEastLincolnshire">
-      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>North East Lincolnshire</rdfs:label>
-      <skos:definition>The unitary authority of North East Lincolnshire in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
-      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gb;England"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">North East Lincolnshire</lcc-cr:hasEnglishShortName>
-      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gb;UnitaryAuthority"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
-   </owl:NamedIndividual>
-
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-gb;GB-NEL">
-      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the unitary authority of North East Lincolnshire in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
-      <rdfs:label>GB-NEL</rdfs:label>
-      <lcc-lr:hasTag rdf:datatype="&xsd;string">GB-NEL</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-2-gb;NorthEastLincolnshire"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-2-gb;NorthEastLincolnshire"/>
-      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
-   </owl:NamedIndividual>
-
-
-
-  <!--
-    ///////////////////////////////////////////////////////////////////////////////////////
-    //
-    // Norfolk
-    //
-    ///////////////////////////////////////////////////////////////////////////////////////
-    -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-gb;Norfolk">
-      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>Norfolk</rdfs:label>
-      <skos:definition>The two-tier county of Norfolk in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
-      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gb;England"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Norfolk</lcc-cr:hasEnglishShortName>
-      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gb;Two-tierCounty"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
-   </owl:NamedIndividual>
-
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-gb;GB-NFK">
-      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the two-tier county of Norfolk in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
-      <rdfs:label>GB-NFK</rdfs:label>
-      <lcc-lr:hasTag rdf:datatype="&xsd;string">GB-NFK</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-2-gb;Norfolk"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-2-gb;Norfolk"/>
-      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
-   </owl:NamedIndividual>
-
-
-
-  <!--
-    ///////////////////////////////////////////////////////////////////////////////////////
-    //
-    // Portsmouth
-    //
-    ///////////////////////////////////////////////////////////////////////////////////////
-    -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-gb;Portsmouth">
-      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>Portsmouth</rdfs:label>
-      <skos:definition>The unitary authority of Portsmouth in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
-      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gb;England"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Portsmouth</lcc-cr:hasEnglishShortName>
-      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gb;UnitaryAuthority"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
-   </owl:NamedIndividual>
-
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-gb;GB-POR">
-      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the unitary authority of Portsmouth in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
-      <rdfs:label>GB-POR</rdfs:label>
-      <lcc-lr:hasTag rdf:datatype="&xsd;string">GB-POR</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-2-gb;Portsmouth"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-2-gb;Portsmouth"/>
-      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
-   </owl:NamedIndividual>
-
-
-
-  <!--
-    ///////////////////////////////////////////////////////////////////////////////////////
-    //
-    // South Gloucestershire
-    //
-    ///////////////////////////////////////////////////////////////////////////////////////
-    -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-gb;SouthGloucestershire">
-      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>South Gloucestershire</rdfs:label>
-      <skos:definition>The unitary authority of South Gloucestershire in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
-      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gb;England"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">South Gloucestershire</lcc-cr:hasEnglishShortName>
-      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gb;UnitaryAuthority"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
-   </owl:NamedIndividual>
-
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-gb;GB-SGC">
-      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the unitary authority of South Gloucestershire in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
-      <rdfs:label>GB-SGC</rdfs:label>
-      <lcc-lr:hasTag rdf:datatype="&xsd;string">GB-SGC</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-2-gb;SouthGloucestershire"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-2-gb;SouthGloucestershire"/>
-      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
-   </owl:NamedIndividual>
-
-
-
-  <!--
-    ///////////////////////////////////////////////////////////////////////////////////////
-    //
-    // West Berkshire
-    //
-    ///////////////////////////////////////////////////////////////////////////////////////
-    -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-gb;WestBerkshire">
-      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>West Berkshire</rdfs:label>
-      <skos:definition>The unitary authority of West Berkshire in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
-      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gb;England"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">West Berkshire</lcc-cr:hasEnglishShortName>
-      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gb;UnitaryAuthority"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
-   </owl:NamedIndividual>
-
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-gb;GB-WBK">
-      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the unitary authority of West Berkshire in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
-      <rdfs:label>GB-WBK</rdfs:label>
-      <lcc-lr:hasTag rdf:datatype="&xsd;string">GB-WBK</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-2-gb;WestBerkshire"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-2-gb;WestBerkshire"/>
-      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
-   </owl:NamedIndividual>
-
-
-
-  <!--
-    ///////////////////////////////////////////////////////////////////////////////////////
-    //
-    // Wandsworth
-    //
-    ///////////////////////////////////////////////////////////////////////////////////////
-    -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-gb;Wandsworth">
-      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>Wandsworth</rdfs:label>
-      <skos:definition>The London borough of Wandsworth in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
-      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gb;England"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Wandsworth</lcc-cr:hasEnglishShortName>
-      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gb;LondonBorough"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
-   </owl:NamedIndividual>
-
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-gb;GB-WND">
-      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the London borough of Wandsworth in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
-      <rdfs:label>GB-WND</rdfs:label>
-      <lcc-lr:hasTag rdf:datatype="&xsd;string">GB-WND</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-2-gb;Wandsworth"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-2-gb;Wandsworth"/>
-      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
-   </owl:NamedIndividual>
-
-
-
-  <!--
-    ///////////////////////////////////////////////////////////////////////////////////////
-    //
-    // Warrington
-    //
-    ///////////////////////////////////////////////////////////////////////////////////////
-    -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-gb;Warrington">
-      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>Warrington</rdfs:label>
-      <skos:definition>The unitary authority of Warrington in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
-      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gb;England"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Warrington</lcc-cr:hasEnglishShortName>
-      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gb;UnitaryAuthority"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
-   </owl:NamedIndividual>
-
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-gb;GB-WRT">
-      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the unitary authority of Warrington in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
-      <rdfs:label>GB-WRT</rdfs:label>
-      <lcc-lr:hasTag rdf:datatype="&xsd;string">GB-WRT</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-2-gb;Warrington"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-2-gb;Warrington"/>
-      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
-   </owl:NamedIndividual>
-
-
-
-  <!--
-    ///////////////////////////////////////////////////////////////////////////////////////
-    //
-    // Isles of Scilly
-    //
-    ///////////////////////////////////////////////////////////////////////////////////////
-    -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-gb;IslesOfScilly">
-      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>Isles of Scilly</rdfs:label>
-      <skos:definition>The unitary authority of Isles of Scilly in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
-      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gb;England"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Isles of Scilly</lcc-cr:hasEnglishShortName>
-      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gb;UnitaryAuthority"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
-   </owl:NamedIndividual>
-
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-gb;GB-IOS">
-      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the unitary authority of Isles of Scilly in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
-      <rdfs:label>GB-IOS</rdfs:label>
-      <lcc-lr:hasTag rdf:datatype="&xsd;string">GB-IOS</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-2-gb;IslesOfScilly"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-2-gb;IslesOfScilly"/>
-      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
-   </owl:NamedIndividual>
-
-
-
 
 
   <!--
@@ -5854,6 +5854,96 @@
       <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
    </owl:NamedIndividual>
+
+  <!--
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Conwy
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+    -->
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-gb;Conwy">
+      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
+      <rdfs:label>Conwy</rdfs:label>
+      <skos:definition>The unitary authority of Conwy in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
+      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gb;Wales"/>
+      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Conwy</lcc-cr:hasEnglishShortName>
+      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gb;UnitaryAuthority"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
+   </owl:NamedIndividual>
+
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-gb;GB-CWY">
+      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
+      <skos:definition>subdivision code for the unitary authority of Conwy in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
+      <rdfs:label>GB-CWY</rdfs:label>
+      <lcc-lr:hasTag rdf:datatype="&xsd;string">GB-CWY</lcc-lr:hasTag>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-gb;Conwy"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-gb;Conwy"/>
+      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
+   </owl:NamedIndividual>
+
+
+
+  <!--
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Neath Port Talbot [Castell-nedd Port Talbot GB-CTL]
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+    -->
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-gb;NeathPortTalbot">
+      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
+      <rdfs:label>Neath Port Talbot [Castell-nedd Port Talbot GB-CTL]</rdfs:label>
+      <skos:definition>The unitary authority of Neath Port Talbot [Castell-nedd Port Talbot GB-CTL] in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
+      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gb;Wales"/>
+      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Neath Port Talbot [Castell-nedd Port Talbot GB-CTL]</lcc-cr:hasEnglishShortName>
+      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gb;UnitaryAuthority"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
+   </owl:NamedIndividual>
+
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-gb;GB-NTL">
+      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
+      <skos:definition>subdivision code for the unitary authority of Neath Port Talbot [Castell-nedd Port Talbot GB-CTL] in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
+      <rdfs:label>GB-NTL</rdfs:label>
+      <lcc-lr:hasTag rdf:datatype="&xsd;string">GB-NTL</lcc-lr:hasTag>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-gb;NeathPortTalbot"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-gb;NeathPortTalbot"/>
+      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
+   </owl:NamedIndividual>
+
+
+
+  <!--
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Rhondda, Cynon, Taff [Rhondda, Cynon,Taf]
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+    -->
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-gb;Rhondda">
+      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
+      <rdfs:label>Rhondda, Cynon, Taff [Rhondda, Cynon,Taf]</rdfs:label>
+      <skos:definition>The unitary authority of Rhondda, Cynon, Taff [Rhondda, Cynon,Taf] in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
+      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gb;Wales"/>
+      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Rhondda, Cynon, Taff [Rhondda, Cynon,Taf]</lcc-cr:hasEnglishShortName>
+      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gb;UnitaryAuthority"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
+   </owl:NamedIndividual>
+
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-gb;GB-RCT">
+      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
+      <skos:definition>subdivision code for the unitary authority of Rhondda, Cynon, Taff [Rhondda, Cynon,Taf] in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
+      <rdfs:label>GB-RCT</rdfs:label>
+      <lcc-lr:hasTag rdf:datatype="&xsd;string">GB-RCT</lcc-lr:hasTag>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-gb;Rhondda"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-gb;Rhondda"/>
+      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
+   </owl:NamedIndividual>
+
+
 
   <!--
     ///////////////////////////////////////////////////////////////////////////////////////
@@ -6419,96 +6509,6 @@
       <lcc-lr:hasTag rdf:datatype="&xsd;string">GB-BGE</lcc-lr:hasTag>
       <lcc-lr:denotes rdf:resource="&lcc-3166-2-gb;Bridgend"/>
       <lcc-lr:identifies rdf:resource="&lcc-3166-2-gb;Bridgend"/>
-      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
-   </owl:NamedIndividual>
-
-
-
-  <!--
-    ///////////////////////////////////////////////////////////////////////////////////////
-    //
-    // Conwy
-    //
-    ///////////////////////////////////////////////////////////////////////////////////////
-    -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-gb;Conwy">
-      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>Conwy</rdfs:label>
-      <skos:definition>The unitary authority of Conwy in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
-      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gb;Wales"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Conwy</lcc-cr:hasEnglishShortName>
-      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gb;UnitaryAuthority"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
-   </owl:NamedIndividual>
-
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-gb;GB-CWY">
-      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the unitary authority of Conwy in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
-      <rdfs:label>GB-CWY</rdfs:label>
-      <lcc-lr:hasTag rdf:datatype="&xsd;string">GB-CWY</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-2-gb;Conwy"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-2-gb;Conwy"/>
-      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
-   </owl:NamedIndividual>
-
-
-
-  <!--
-    ///////////////////////////////////////////////////////////////////////////////////////
-    //
-    // Neath Port Talbot [Castell-nedd Port Talbot GB-CTL]
-    //
-    ///////////////////////////////////////////////////////////////////////////////////////
-    -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-gb;NeathPortTalbot">
-      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>Neath Port Talbot [Castell-nedd Port Talbot GB-CTL]</rdfs:label>
-      <skos:definition>The unitary authority of Neath Port Talbot [Castell-nedd Port Talbot GB-CTL] in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
-      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gb;Wales"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Neath Port Talbot [Castell-nedd Port Talbot GB-CTL]</lcc-cr:hasEnglishShortName>
-      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gb;UnitaryAuthority"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
-   </owl:NamedIndividual>
-
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-gb;GB-NTL">
-      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the unitary authority of Neath Port Talbot [Castell-nedd Port Talbot GB-CTL] in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
-      <rdfs:label>GB-NTL</rdfs:label>
-      <lcc-lr:hasTag rdf:datatype="&xsd;string">GB-NTL</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-2-gb;NeathPortTalbot"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-2-gb;NeathPortTalbot"/>
-      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
-   </owl:NamedIndividual>
-
-
-
-  <!--
-    ///////////////////////////////////////////////////////////////////////////////////////
-    //
-    // Rhondda, Cynon, Taff [Rhondda, Cynon,Taf]
-    //
-    ///////////////////////////////////////////////////////////////////////////////////////
-    -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-gb;Rhondda">
-      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>Rhondda, Cynon, Taff [Rhondda, Cynon,Taf]</rdfs:label>
-      <skos:definition>The unitary authority of Rhondda, Cynon, Taff [Rhondda, Cynon,Taf] in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
-      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gb;Wales"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Rhondda, Cynon, Taff [Rhondda, Cynon,Taf]</lcc-cr:hasEnglishShortName>
-      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gb;UnitaryAuthority"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
-   </owl:NamedIndividual>
-
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-gb;GB-RCT">
-      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the unitary authority of Rhondda, Cynon, Taff [Rhondda, Cynon,Taf] in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
-      <rdfs:label>GB-RCT</rdfs:label>
-      <lcc-lr:hasTag rdf:datatype="&xsd;string">GB-RCT</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-2-gb;Rhondda"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-2-gb;Rhondda"/>
       <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
    </owl:NamedIndividual>

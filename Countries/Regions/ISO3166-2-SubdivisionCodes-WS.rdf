@@ -36,9 +36,9 @@
 
       <!-- Curation and Rights Metadata for the LCC ISO 3166-2 Subdivision Codes for Samoa Ontology -->
 
-      <sm:copyright rdf:datatype="&xsd;string">Copyright (c) 2015-2017 Object Management Group, Inc.
-          Copyright (c) 2015-2017 Adaptive Inc.
-          Copyright (c) 2015-2017 Thematix Partners LLC
+      <sm:copyright rdf:datatype="&xsd;string">Copyright (c) 2015-2019 Object Management Group, Inc.
+          Copyright (c) 2015-2019 Adaptive Inc.
+          Copyright (c) 2015-2019 Thematix Partners LLC
           Copyright (c) 2015-2017 Unisys
         </sm:copyright>
       <dct:license rdf:resource="&sm;MITLicense"/>
@@ -47,9 +47,9 @@
 
       <sm:filename rdf:datatype="&xsd;string">ISO3166-2-SubdivisionCodes-WS.rdf</sm:filename>
       <sm:fileAbbreviation rdf:datatype="&xsd;string">lcc-3166-2-ws</sm:fileAbbreviation>
-      <owl:versionIRI rdf:resource="http://www.omg.org/spec/LCC/20170801/Countries/Regions/ISO3166-2-SubdivisionCodes-WS/"/>
+      <owl:versionIRI rdf:resource="http://www.omg.org/spec/LCC/20190201/Countries/Regions/ISO3166-2-SubdivisionCodes-WS/"/>
       <sm:fileAbstract rdf:datatype="&xsd;string">This ontology represents the subset of the ISO 3166 standard that includes the actual ISO 3166-2 subdivision codes for Samoa, with the ontology and codes for the other parts of the standard represented in models that this ontology depends on.</sm:fileAbstract>
-      <dct:issued rdf:datatype="&xsd;dateTime">2017-07-20T22:26:02.631805+02:00</dct:issued>
+      <dct:issued rdf:datatype="&xsd;dateTime">2019-02-14T00:48:51.124818+01:00</dct:issued>
 
       <sm:dependsOn rdf:datatype="&xsd;anyURI">http://www.omg.org/spec/LCC/Languages/LanguageRepresentation/</sm:dependsOn>
       <sm:dependsOn rdf:datatype="&xsd;anyURI">http://www.omg.org/spec/LCC/Countries/CountryRepresentation/</sm:dependsOn>
@@ -92,37 +92,6 @@
     //
     ///////////////////////////////////////////////////////////////////////////////////////
     -->
-
-
-  <!--
-    ///////////////////////////////////////////////////////////////////////////////////////
-    //
-    // Vaisigano
-    //
-    ///////////////////////////////////////////////////////////////////////////////////////
-    -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-ws;Vaisigano">
-      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>Vaisigano</rdfs:label>
-      <skos:definition>The district of Vaisigano in the country of Samoa</skos:definition>
-      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Samoa"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sm">Vaisigano</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Vaisigano</lcc-cr:hasEnglishShortName>
-      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ws;District"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ws;"/>
-   </owl:NamedIndividual>
-
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-ws;WS-VS">
-      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the district of Vaisigano in the country of Samoa</skos:definition>
-      <rdfs:label>WS-VS</rdfs:label>
-      <lcc-lr:hasTag rdf:datatype="&xsd;string">WS-VS</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-2-ws;Vaisigano"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-2-ws;Vaisigano"/>
-      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ws;"/>
-   </owl:NamedIndividual>
-
 
 
   <!--
@@ -438,6 +407,37 @@
   <!--
     ///////////////////////////////////////////////////////////////////////////////////////
     //
+    // Vaisigano
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+    -->
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-ws;Vaisigano">
+      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
+      <rdfs:label>Vaisigano</rdfs:label>
+      <skos:definition>The district of Vaisigano in the country of Samoa</skos:definition>
+      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Samoa"/>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sm">Vaisigano</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Vaisigano</lcc-cr:hasEnglishShortName>
+      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ws;District"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ws;"/>
+   </owl:NamedIndividual>
+
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-ws;WS-VS">
+      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
+      <skos:definition>subdivision code for the district of Vaisigano in the country of Samoa</skos:definition>
+      <rdfs:label>WS-VS</rdfs:label>
+      <lcc-lr:hasTag rdf:datatype="&xsd;string">WS-VS</lcc-lr:hasTag>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-ws;Vaisigano"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-ws;Vaisigano"/>
+      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ws;"/>
+   </owl:NamedIndividual>
+
+
+
+  <!--
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
     // Savai'i
     //
     ///////////////////////////////////////////////////////////////////////////////////////
@@ -447,8 +447,8 @@
       <rdfs:label>Savai'i</rdfs:label>
       <skos:definition>The territory of Savai'i in the country of Samoa</skos:definition>
       <lcc-cr:hasNumericRegionCode rdf:datatype="&xsd;string">1192</lcc-cr:hasNumericRegionCode>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Savai'i</lcc-cr:hasEnglishShortName>
       <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Savai'i</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Savai'i</lcc-cr:hasEnglishShortName>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Samoa"/>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2;Territory"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ws;"/>
@@ -466,8 +466,8 @@
       <rdfs:label>Upolu</rdfs:label>
       <skos:definition>The territory of Upolu in the country of Samoa</skos:definition>
       <lcc-cr:hasNumericRegionCode rdf:datatype="&xsd;string">1217</lcc-cr:hasNumericRegionCode>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Upolu</lcc-cr:hasEnglishShortName>
       <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Upolu</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Upolu</lcc-cr:hasEnglishShortName>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Samoa"/>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2;Territory"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ws;"/>

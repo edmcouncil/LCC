@@ -36,9 +36,9 @@
 
       <!-- Curation and Rights Metadata for the LCC ISO 3166-2 Subdivision Codes for Saint Vincent and the Grenadines Ontology -->
 
-      <sm:copyright rdf:datatype="&xsd;string">Copyright (c) 2015-2017 Object Management Group, Inc.
-          Copyright (c) 2015-2017 Adaptive Inc.
-          Copyright (c) 2015-2017 Thematix Partners LLC
+      <sm:copyright rdf:datatype="&xsd;string">Copyright (c) 2015-2019 Object Management Group, Inc.
+          Copyright (c) 2015-2019 Adaptive Inc.
+          Copyright (c) 2015-2019 Thematix Partners LLC
           Copyright (c) 2015-2017 Unisys
         </sm:copyright>
       <dct:license rdf:resource="&sm;MITLicense"/>
@@ -47,9 +47,9 @@
 
       <sm:filename rdf:datatype="&xsd;string">ISO3166-2-SubdivisionCodes-VC.rdf</sm:filename>
       <sm:fileAbbreviation rdf:datatype="&xsd;string">lcc-3166-2-vc</sm:fileAbbreviation>
-      <owl:versionIRI rdf:resource="http://www.omg.org/spec/LCC/20170801/Countries/Regions/ISO3166-2-SubdivisionCodes-VC/"/>
+      <owl:versionIRI rdf:resource="http://www.omg.org/spec/LCC/20190201/Countries/Regions/ISO3166-2-SubdivisionCodes-VC/"/>
       <sm:fileAbstract rdf:datatype="&xsd;string">This ontology represents the subset of the ISO 3166 standard that includes the actual ISO 3166-2 subdivision codes for Saint Vincent and the Grenadines, with the ontology and codes for the other parts of the standard represented in models that this ontology depends on.</sm:fileAbstract>
-      <dct:issued rdf:datatype="&xsd;dateTime">2017-07-20T22:26:02.631805+02:00</dct:issued>
+      <dct:issued rdf:datatype="&xsd;dateTime">2019-02-14T00:48:51.124818+01:00</dct:issued>
 
       <sm:dependsOn rdf:datatype="&xsd;anyURI">http://www.omg.org/spec/LCC/Languages/LanguageRepresentation/</sm:dependsOn>
       <sm:dependsOn rdf:datatype="&xsd;anyURI">http://www.omg.org/spec/LCC/Countries/CountryRepresentation/</sm:dependsOn>
@@ -92,66 +92,6 @@
     //
     ///////////////////////////////////////////////////////////////////////////////////////
     -->
-
-
-  <!--
-    ///////////////////////////////////////////////////////////////////////////////////////
-    //
-    // Saint David
-    //
-    ///////////////////////////////////////////////////////////////////////////////////////
-    -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-vc;SaintDavid">
-      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>Saint David</rdfs:label>
-      <skos:definition>The parish of Saint David in the country of Saint Vincent and the Grenadines</skos:definition>
-      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;SaintVincentAndTheGrenadines"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Saint David</lcc-cr:hasEnglishShortName>
-      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-vc;Parish"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-vc;"/>
-   </owl:NamedIndividual>
-
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-vc;VC-03">
-      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the parish of Saint David in the country of Saint Vincent and the Grenadines</skos:definition>
-      <rdfs:label>VC-03</rdfs:label>
-      <lcc-lr:hasTag rdf:datatype="&xsd;string">VC-03</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-2-vc;SaintDavid"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-2-vc;SaintDavid"/>
-      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-vc;"/>
-   </owl:NamedIndividual>
-
-
-
-  <!--
-    ///////////////////////////////////////////////////////////////////////////////////////
-    //
-    // Saint George
-    //
-    ///////////////////////////////////////////////////////////////////////////////////////
-    -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-vc;SaintGeorge">
-      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>Saint George</rdfs:label>
-      <skos:definition>The parish of Saint George in the country of Saint Vincent and the Grenadines</skos:definition>
-      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;SaintVincentAndTheGrenadines"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Saint George</lcc-cr:hasEnglishShortName>
-      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-vc;Parish"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-vc;"/>
-   </owl:NamedIndividual>
-
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-vc;VC-04">
-      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the parish of Saint George in the country of Saint Vincent and the Grenadines</skos:definition>
-      <rdfs:label>VC-04</rdfs:label>
-      <lcc-lr:hasTag rdf:datatype="&xsd;string">VC-04</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-2-vc;SaintGeorge"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-2-vc;SaintGeorge"/>
-      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-vc;"/>
-   </owl:NamedIndividual>
-
 
 
   <!--
@@ -277,6 +217,66 @@
   <!--
     ///////////////////////////////////////////////////////////////////////////////////////
     //
+    // Saint David
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+    -->
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-vc;SaintDavid">
+      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
+      <rdfs:label>Saint David</rdfs:label>
+      <skos:definition>The parish of Saint David in the country of Saint Vincent and the Grenadines</skos:definition>
+      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;SaintVincentAndTheGrenadines"/>
+      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Saint David</lcc-cr:hasEnglishShortName>
+      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-vc;Parish"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-vc;"/>
+   </owl:NamedIndividual>
+
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-vc;VC-03">
+      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
+      <skos:definition>subdivision code for the parish of Saint David in the country of Saint Vincent and the Grenadines</skos:definition>
+      <rdfs:label>VC-03</rdfs:label>
+      <lcc-lr:hasTag rdf:datatype="&xsd;string">VC-03</lcc-lr:hasTag>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-vc;SaintDavid"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-vc;SaintDavid"/>
+      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-vc;"/>
+   </owl:NamedIndividual>
+
+
+
+  <!--
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Saint George
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+    -->
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-vc;SaintGeorge">
+      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
+      <rdfs:label>Saint George</rdfs:label>
+      <skos:definition>The parish of Saint George in the country of Saint Vincent and the Grenadines</skos:definition>
+      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;SaintVincentAndTheGrenadines"/>
+      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Saint George</lcc-cr:hasEnglishShortName>
+      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-vc;Parish"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-vc;"/>
+   </owl:NamedIndividual>
+
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-vc;VC-04">
+      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
+      <skos:definition>subdivision code for the parish of Saint George in the country of Saint Vincent and the Grenadines</skos:definition>
+      <rdfs:label>VC-04</rdfs:label>
+      <lcc-lr:hasTag rdf:datatype="&xsd;string">VC-04</lcc-lr:hasTag>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-vc;SaintGeorge"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-vc;SaintGeorge"/>
+      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-vc;"/>
+   </owl:NamedIndividual>
+
+
+
+  <!--
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
     // Bequia (principal island)
     //
     ///////////////////////////////////////////////////////////////////////////////////////
@@ -286,8 +286,8 @@
       <rdfs:label>Bequia (principal island)</rdfs:label>
       <skos:definition>The territory of Bequia (principal island) in the country of Saint Vincent and the Grenadines</skos:definition>
       <lcc-cr:hasNumericRegionCode rdf:datatype="&xsd;string">1022</lcc-cr:hasNumericRegionCode>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Bequia (principal island)</lcc-cr:hasEnglishShortName>
       <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Bequia (Île principale)</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Bequia (principal island)</lcc-cr:hasEnglishShortName>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;SaintVincentAndTheGrenadines"/>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2;Territory"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-vc;"/>

@@ -36,9 +36,9 @@
 
       <!-- Curation and Rights Metadata for the LCC ISO 3166-2 Subdivision Codes for Trinidad and Tobago Ontology -->
 
-      <sm:copyright rdf:datatype="&xsd;string">Copyright (c) 2015-2017 Object Management Group, Inc.
-          Copyright (c) 2015-2017 Adaptive Inc.
-          Copyright (c) 2015-2017 Thematix Partners LLC
+      <sm:copyright rdf:datatype="&xsd;string">Copyright (c) 2015-2019 Object Management Group, Inc.
+          Copyright (c) 2015-2019 Adaptive Inc.
+          Copyright (c) 2015-2019 Thematix Partners LLC
           Copyright (c) 2015-2017 Unisys
         </sm:copyright>
       <dct:license rdf:resource="&sm;MITLicense"/>
@@ -47,9 +47,9 @@
 
       <sm:filename rdf:datatype="&xsd;string">ISO3166-2-SubdivisionCodes-TT.rdf</sm:filename>
       <sm:fileAbbreviation rdf:datatype="&xsd;string">lcc-3166-2-tt</sm:fileAbbreviation>
-      <owl:versionIRI rdf:resource="http://www.omg.org/spec/LCC/20170801/Countries/Regions/ISO3166-2-SubdivisionCodes-TT/"/>
+      <owl:versionIRI rdf:resource="http://www.omg.org/spec/LCC/20190201/Countries/Regions/ISO3166-2-SubdivisionCodes-TT/"/>
       <sm:fileAbstract rdf:datatype="&xsd;string">This ontology represents the subset of the ISO 3166 standard that includes the actual ISO 3166-2 subdivision codes for Trinidad and Tobago, with the ontology and codes for the other parts of the standard represented in models that this ontology depends on.</sm:fileAbstract>
-      <dct:issued rdf:datatype="&xsd;dateTime">2017-07-20T22:26:02.631805+02:00</dct:issued>
+      <dct:issued rdf:datatype="&xsd;dateTime">2019-02-14T00:48:51.124818+01:00</dct:issued>
 
       <sm:dependsOn rdf:datatype="&xsd;anyURI">http://www.omg.org/spec/LCC/Languages/LanguageRepresentation/</sm:dependsOn>
       <sm:dependsOn rdf:datatype="&xsd;anyURI">http://www.omg.org/spec/LCC/Countries/CountryRepresentation/</sm:dependsOn>
@@ -111,27 +111,27 @@
   <!--
     ///////////////////////////////////////////////////////////////////////////////////////
     //
-    // Port of Spain
+    // Tobago
     //
     ///////////////////////////////////////////////////////////////////////////////////////
     -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-tt;PortOfSpain">
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-tt;Tobago">
       <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>Port of Spain</rdfs:label>
-      <skos:definition>The municipality of Port of Spain in the country of Trinidad and Tobago</skos:definition>
+      <rdfs:label>Tobago</rdfs:label>
+      <skos:definition>The ward of Tobago in the country of Trinidad and Tobago</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;TrinidadAndTobago"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Port of Spain</lcc-cr:hasEnglishShortName>
-      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-tt;Municipality"/>
+      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Tobago</lcc-cr:hasEnglishShortName>
+      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-tt;Ward"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-tt;"/>
    </owl:NamedIndividual>
 
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-tt;TT-POS">
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-tt;TT-TOB">
       <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the municipality of Port of Spain in the country of Trinidad and Tobago</skos:definition>
-      <rdfs:label>TT-POS</rdfs:label>
-      <lcc-lr:hasTag rdf:datatype="&xsd;string">TT-POS</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-2-tt;PortOfSpain"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-2-tt;PortOfSpain"/>
+      <skos:definition>subdivision code for the ward of Tobago in the country of Trinidad and Tobago</skos:definition>
+      <rdfs:label>TT-TOB</rdfs:label>
+      <lcc-lr:hasTag rdf:datatype="&xsd;string">TT-TOB</lcc-lr:hasTag>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-tt;Tobago"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-tt;Tobago"/>
       <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-tt;"/>
    </owl:NamedIndividual>
@@ -141,27 +141,27 @@
   <!--
     ///////////////////////////////////////////////////////////////////////////////////////
     //
-    // San Fernando
+    // Mayaro-Rio Claro
     //
     ///////////////////////////////////////////////////////////////////////////////////////
     -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-tt;SanFernando">
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-tt;Mayaro-RioClaro">
       <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>San Fernando</rdfs:label>
-      <skos:definition>The municipality of San Fernando in the country of Trinidad and Tobago</skos:definition>
+      <rdfs:label>Mayaro-Rio Claro</rdfs:label>
+      <skos:definition>The region of Mayaro-Rio Claro in the country of Trinidad and Tobago</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;TrinidadAndTobago"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">San Fernando</lcc-cr:hasEnglishShortName>
-      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-tt;Municipality"/>
+      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Mayaro-Rio Claro</lcc-cr:hasEnglishShortName>
+      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-tt;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-tt;"/>
    </owl:NamedIndividual>
 
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-tt;TT-SFO">
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-tt;TT-MRC">
       <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the municipality of San Fernando in the country of Trinidad and Tobago</skos:definition>
-      <rdfs:label>TT-SFO</rdfs:label>
-      <lcc-lr:hasTag rdf:datatype="&xsd;string">TT-SFO</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-2-tt;SanFernando"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-2-tt;SanFernando"/>
+      <skos:definition>subdivision code for the region of Mayaro-Rio Claro in the country of Trinidad and Tobago</skos:definition>
+      <rdfs:label>TT-MRC</rdfs:label>
+      <lcc-lr:hasTag rdf:datatype="&xsd;string">TT-MRC</lcc-lr:hasTag>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-tt;Mayaro-RioClaro"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-tt;Mayaro-RioClaro"/>
       <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-tt;"/>
    </owl:NamedIndividual>
@@ -222,66 +222,6 @@
       <lcc-lr:hasTag rdf:datatype="&xsd;string">TT-SIP</lcc-lr:hasTag>
       <lcc-lr:denotes rdf:resource="&lcc-3166-2-tt;Siparia"/>
       <lcc-lr:identifies rdf:resource="&lcc-3166-2-tt;Siparia"/>
-      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-tt;"/>
-   </owl:NamedIndividual>
-
-
-
-  <!--
-    ///////////////////////////////////////////////////////////////////////////////////////
-    //
-    // Tobago
-    //
-    ///////////////////////////////////////////////////////////////////////////////////////
-    -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-tt;Tobago">
-      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>Tobago</rdfs:label>
-      <skos:definition>The ward of Tobago in the country of Trinidad and Tobago</skos:definition>
-      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;TrinidadAndTobago"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Tobago</lcc-cr:hasEnglishShortName>
-      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-tt;Ward"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-tt;"/>
-   </owl:NamedIndividual>
-
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-tt;TT-TOB">
-      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the ward of Tobago in the country of Trinidad and Tobago</skos:definition>
-      <rdfs:label>TT-TOB</rdfs:label>
-      <lcc-lr:hasTag rdf:datatype="&xsd;string">TT-TOB</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-2-tt;Tobago"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-2-tt;Tobago"/>
-      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-tt;"/>
-   </owl:NamedIndividual>
-
-
-
-  <!--
-    ///////////////////////////////////////////////////////////////////////////////////////
-    //
-    // Mayaro-Rio Claro
-    //
-    ///////////////////////////////////////////////////////////////////////////////////////
-    -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-tt;Mayaro-RioClaro">
-      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>Mayaro-Rio Claro</rdfs:label>
-      <skos:definition>The region of Mayaro-Rio Claro in the country of Trinidad and Tobago</skos:definition>
-      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;TrinidadAndTobago"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Mayaro-Rio Claro</lcc-cr:hasEnglishShortName>
-      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-tt;Region"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-tt;"/>
-   </owl:NamedIndividual>
-
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-tt;TT-MRC">
-      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the region of Mayaro-Rio Claro in the country of Trinidad and Tobago</skos:definition>
-      <rdfs:label>TT-MRC</rdfs:label>
-      <lcc-lr:hasTag rdf:datatype="&xsd;string">TT-MRC</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-2-tt;Mayaro-RioClaro"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-2-tt;Mayaro-RioClaro"/>
       <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-tt;"/>
    </owl:NamedIndividual>
@@ -552,6 +492,66 @@
       <lcc-lr:hasTag rdf:datatype="&xsd;string">TT-SGE</lcc-lr:hasTag>
       <lcc-lr:denotes rdf:resource="&lcc-3166-2-tt;SangreGrande"/>
       <lcc-lr:identifies rdf:resource="&lcc-3166-2-tt;SangreGrande"/>
+      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-tt;"/>
+   </owl:NamedIndividual>
+
+
+
+  <!--
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Port of Spain
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+    -->
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-tt;PortOfSpain">
+      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
+      <rdfs:label>Port of Spain</rdfs:label>
+      <skos:definition>The municipality of Port of Spain in the country of Trinidad and Tobago</skos:definition>
+      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;TrinidadAndTobago"/>
+      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Port of Spain</lcc-cr:hasEnglishShortName>
+      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-tt;Municipality"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-tt;"/>
+   </owl:NamedIndividual>
+
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-tt;TT-POS">
+      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
+      <skos:definition>subdivision code for the municipality of Port of Spain in the country of Trinidad and Tobago</skos:definition>
+      <rdfs:label>TT-POS</rdfs:label>
+      <lcc-lr:hasTag rdf:datatype="&xsd;string">TT-POS</lcc-lr:hasTag>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-tt;PortOfSpain"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-tt;PortOfSpain"/>
+      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-tt;"/>
+   </owl:NamedIndividual>
+
+
+
+  <!--
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // San Fernando
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+    -->
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-tt;SanFernando">
+      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
+      <rdfs:label>San Fernando</rdfs:label>
+      <skos:definition>The municipality of San Fernando in the country of Trinidad and Tobago</skos:definition>
+      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;TrinidadAndTobago"/>
+      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">San Fernando</lcc-cr:hasEnglishShortName>
+      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-tt;Municipality"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-tt;"/>
+   </owl:NamedIndividual>
+
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-tt;TT-SFO">
+      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
+      <skos:definition>subdivision code for the municipality of San Fernando in the country of Trinidad and Tobago</skos:definition>
+      <rdfs:label>TT-SFO</rdfs:label>
+      <lcc-lr:hasTag rdf:datatype="&xsd;string">TT-SFO</lcc-lr:hasTag>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-tt;SanFernando"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-tt;SanFernando"/>
       <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-tt;"/>
    </owl:NamedIndividual>

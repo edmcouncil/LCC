@@ -36,9 +36,9 @@
 
       <!-- Curation and Rights Metadata for the LCC ISO 3166-2 Subdivision Codes for Malta Ontology -->
 
-      <sm:copyright rdf:datatype="&xsd;string">Copyright (c) 2015-2017 Object Management Group, Inc.
-          Copyright (c) 2015-2017 Adaptive Inc.
-          Copyright (c) 2015-2017 Thematix Partners LLC
+      <sm:copyright rdf:datatype="&xsd;string">Copyright (c) 2015-2019 Object Management Group, Inc.
+          Copyright (c) 2015-2019 Adaptive Inc.
+          Copyright (c) 2015-2019 Thematix Partners LLC
           Copyright (c) 2015-2017 Unisys
         </sm:copyright>
       <dct:license rdf:resource="&sm;MITLicense"/>
@@ -47,9 +47,9 @@
 
       <sm:filename rdf:datatype="&xsd;string">ISO3166-2-SubdivisionCodes-MT.rdf</sm:filename>
       <sm:fileAbbreviation rdf:datatype="&xsd;string">lcc-3166-2-mt</sm:fileAbbreviation>
-      <owl:versionIRI rdf:resource="http://www.omg.org/spec/LCC/20170801/Countries/Regions/ISO3166-2-SubdivisionCodes-MT/"/>
+      <owl:versionIRI rdf:resource="http://www.omg.org/spec/LCC/20190201/Countries/Regions/ISO3166-2-SubdivisionCodes-MT/"/>
       <sm:fileAbstract rdf:datatype="&xsd;string">This ontology represents the subset of the ISO 3166 standard that includes the actual ISO 3166-2 subdivision codes for Malta, with the ontology and codes for the other parts of the standard represented in models that this ontology depends on.</sm:fileAbstract>
-      <dct:issued rdf:datatype="&xsd;dateTime">2017-07-20T22:26:02.631805+02:00</dct:issued>
+      <dct:issued rdf:datatype="&xsd;dateTime">2019-02-14T00:48:51.124818+01:00</dct:issued>
 
       <sm:dependsOn rdf:datatype="&xsd;anyURI">http://www.omg.org/spec/LCC/Languages/LanguageRepresentation/</sm:dependsOn>
       <sm:dependsOn rdf:datatype="&xsd;anyURI">http://www.omg.org/spec/LCC/Countries/CountryRepresentation/</sm:dependsOn>
@@ -92,192 +92,6 @@
     //
     ///////////////////////////////////////////////////////////////////////////////////////
     -->
-
-
-  <!--
-    ///////////////////////////////////////////////////////////////////////////////////////
-    //
-    // Attard
-    //
-    ///////////////////////////////////////////////////////////////////////////////////////
-    -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-mt;Attard">
-      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>Attard</rdfs:label>
-      <skos:definition>The local council of Attard in the country of Malta</skos:definition>
-      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Malta"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="mt">Attard</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Attard</lcc-cr:hasEnglishShortName>
-      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mt;LocalCouncil"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mt;"/>
-   </owl:NamedIndividual>
-
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-mt;MT-01">
-      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the local council of Attard in the country of Malta</skos:definition>
-      <rdfs:label>MT-01</rdfs:label>
-      <lcc-lr:hasTag rdf:datatype="&xsd;string">MT-01</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-2-mt;Attard"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-2-mt;Attard"/>
-      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mt;"/>
-   </owl:NamedIndividual>
-
-
-
-  <!--
-    ///////////////////////////////////////////////////////////////////////////////////////
-    //
-    // Fontana
-    //
-    ///////////////////////////////////////////////////////////////////////////////////////
-    -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-mt;Fontana">
-      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>Fontana</rdfs:label>
-      <skos:definition>The local council of Fontana in the country of Malta</skos:definition>
-      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Malta"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="mt">Fontana</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Fontana</lcc-cr:hasEnglishShortName>
-      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mt;LocalCouncil"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mt;"/>
-   </owl:NamedIndividual>
-
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-mt;MT-10">
-      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the local council of Fontana in the country of Malta</skos:definition>
-      <rdfs:label>MT-10</rdfs:label>
-      <lcc-lr:hasTag rdf:datatype="&xsd;string">MT-10</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-2-mt;Fontana"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-2-mt;Fontana"/>
-      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mt;"/>
-   </owl:NamedIndividual>
-
-
-
-  <!--
-    ///////////////////////////////////////////////////////////////////////////////////////
-    //
-    // Għaxaq
-    //
-    ///////////////////////////////////////////////////////////////////////////////////////
-    -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-mt;Gaxaq">
-      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>Għaxaq</rdfs:label>
-      <skos:definition>The local council of Għaxaq in the country of Malta</skos:definition>
-      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Malta"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Għaxaq</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="mt">Għaxaq</lcc-cr:hasLocalShortName>
-      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mt;LocalCouncil"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mt;"/>
-   </owl:NamedIndividual>
-
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-mt;MT-17">
-      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the local council of Għaxaq in the country of Malta</skos:definition>
-      <rdfs:label>MT-17</rdfs:label>
-      <lcc-lr:hasTag rdf:datatype="&xsd;string">MT-17</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-2-mt;Gaxaq"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-2-mt;Gaxaq"/>
-      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mt;"/>
-   </owl:NamedIndividual>
-
-
-
-  <!--
-    ///////////////////////////////////////////////////////////////////////////////////////
-    //
-    // Kirkop
-    //
-    ///////////////////////////////////////////////////////////////////////////////////////
-    -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-mt;Kirkop">
-      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>Kirkop</rdfs:label>
-      <skos:definition>The local council of Kirkop in the country of Malta</skos:definition>
-      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Malta"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="mt">Kirkop</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Kirkop</lcc-cr:hasEnglishShortName>
-      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mt;LocalCouncil"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mt;"/>
-   </owl:NamedIndividual>
-
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-mt;MT-23">
-      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the local council of Kirkop in the country of Malta</skos:definition>
-      <rdfs:label>MT-23</rdfs:label>
-      <lcc-lr:hasTag rdf:datatype="&xsd;string">MT-23</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-2-mt;Kirkop"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-2-mt;Kirkop"/>
-      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mt;"/>
-   </owl:NamedIndividual>
-
-
-
-  <!--
-    ///////////////////////////////////////////////////////////////////////////////////////
-    //
-    // Marsaxlokk
-    //
-    ///////////////////////////////////////////////////////////////////////////////////////
-    -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-mt;Marsaxlokk">
-      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>Marsaxlokk</rdfs:label>
-      <skos:definition>The local council of Marsaxlokk in the country of Malta</skos:definition>
-      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Malta"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="mt">Marsaxlokk</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Marsaxlokk</lcc-cr:hasEnglishShortName>
-      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mt;LocalCouncil"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mt;"/>
-   </owl:NamedIndividual>
-
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-mt;MT-28">
-      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the local council of Marsaxlokk in the country of Malta</skos:definition>
-      <rdfs:label>MT-28</rdfs:label>
-      <lcc-lr:hasTag rdf:datatype="&xsd;string">MT-28</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-2-mt;Marsaxlokk"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-2-mt;Marsaxlokk"/>
-      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mt;"/>
-   </owl:NamedIndividual>
-
-
-
-  <!--
-    ///////////////////////////////////////////////////////////////////////////////////////
-    //
-    // Mdina
-    //
-    ///////////////////////////////////////////////////////////////////////////////////////
-    -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-mt;Mdina">
-      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>Mdina</rdfs:label>
-      <skos:definition>The local council of Mdina in the country of Malta</skos:definition>
-      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Malta"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="mt">Mdina</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Mdina</lcc-cr:hasEnglishShortName>
-      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mt;LocalCouncil"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mt;"/>
-   </owl:NamedIndividual>
-
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-mt;MT-29">
-      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the local council of Mdina in the country of Malta</skos:definition>
-      <rdfs:label>MT-29</rdfs:label>
-      <lcc-lr:hasTag rdf:datatype="&xsd;string">MT-29</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-2-mt;Mdina"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-2-mt;Mdina"/>
-      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mt;"/>
-   </owl:NamedIndividual>
-
 
 
   <!--
@@ -2196,6 +2010,192 @@
       <lcc-lr:hasTag rdf:datatype="&xsd;string">MT-57</lcc-lr:hasTag>
       <lcc-lr:denotes rdf:resource="&lcc-3166-2-mt;Swieqi"/>
       <lcc-lr:identifies rdf:resource="&lcc-3166-2-mt;Swieqi"/>
+      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mt;"/>
+   </owl:NamedIndividual>
+
+
+
+  <!--
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Attard
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+    -->
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-mt;Attard">
+      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
+      <rdfs:label>Attard</rdfs:label>
+      <skos:definition>The local council of Attard in the country of Malta</skos:definition>
+      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Malta"/>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="mt">Attard</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Attard</lcc-cr:hasEnglishShortName>
+      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mt;LocalCouncil"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mt;"/>
+   </owl:NamedIndividual>
+
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-mt;MT-01">
+      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
+      <skos:definition>subdivision code for the local council of Attard in the country of Malta</skos:definition>
+      <rdfs:label>MT-01</rdfs:label>
+      <lcc-lr:hasTag rdf:datatype="&xsd;string">MT-01</lcc-lr:hasTag>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-mt;Attard"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-mt;Attard"/>
+      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mt;"/>
+   </owl:NamedIndividual>
+
+
+
+  <!--
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Fontana
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+    -->
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-mt;Fontana">
+      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
+      <rdfs:label>Fontana</rdfs:label>
+      <skos:definition>The local council of Fontana in the country of Malta</skos:definition>
+      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Malta"/>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="mt">Fontana</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Fontana</lcc-cr:hasEnglishShortName>
+      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mt;LocalCouncil"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mt;"/>
+   </owl:NamedIndividual>
+
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-mt;MT-10">
+      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
+      <skos:definition>subdivision code for the local council of Fontana in the country of Malta</skos:definition>
+      <rdfs:label>MT-10</rdfs:label>
+      <lcc-lr:hasTag rdf:datatype="&xsd;string">MT-10</lcc-lr:hasTag>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-mt;Fontana"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-mt;Fontana"/>
+      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mt;"/>
+   </owl:NamedIndividual>
+
+
+
+  <!--
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Għaxaq
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+    -->
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-mt;Gaxaq">
+      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
+      <rdfs:label>Għaxaq</rdfs:label>
+      <skos:definition>The local council of Għaxaq in the country of Malta</skos:definition>
+      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Malta"/>
+      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Għaxaq</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="mt">Għaxaq</lcc-cr:hasLocalShortName>
+      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mt;LocalCouncil"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mt;"/>
+   </owl:NamedIndividual>
+
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-mt;MT-17">
+      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
+      <skos:definition>subdivision code for the local council of Għaxaq in the country of Malta</skos:definition>
+      <rdfs:label>MT-17</rdfs:label>
+      <lcc-lr:hasTag rdf:datatype="&xsd;string">MT-17</lcc-lr:hasTag>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-mt;Gaxaq"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-mt;Gaxaq"/>
+      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mt;"/>
+   </owl:NamedIndividual>
+
+
+
+  <!--
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Kirkop
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+    -->
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-mt;Kirkop">
+      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
+      <rdfs:label>Kirkop</rdfs:label>
+      <skos:definition>The local council of Kirkop in the country of Malta</skos:definition>
+      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Malta"/>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="mt">Kirkop</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Kirkop</lcc-cr:hasEnglishShortName>
+      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mt;LocalCouncil"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mt;"/>
+   </owl:NamedIndividual>
+
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-mt;MT-23">
+      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
+      <skos:definition>subdivision code for the local council of Kirkop in the country of Malta</skos:definition>
+      <rdfs:label>MT-23</rdfs:label>
+      <lcc-lr:hasTag rdf:datatype="&xsd;string">MT-23</lcc-lr:hasTag>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-mt;Kirkop"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-mt;Kirkop"/>
+      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mt;"/>
+   </owl:NamedIndividual>
+
+
+
+  <!--
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Marsaxlokk
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+    -->
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-mt;Marsaxlokk">
+      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
+      <rdfs:label>Marsaxlokk</rdfs:label>
+      <skos:definition>The local council of Marsaxlokk in the country of Malta</skos:definition>
+      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Malta"/>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="mt">Marsaxlokk</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Marsaxlokk</lcc-cr:hasEnglishShortName>
+      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mt;LocalCouncil"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mt;"/>
+   </owl:NamedIndividual>
+
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-mt;MT-28">
+      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
+      <skos:definition>subdivision code for the local council of Marsaxlokk in the country of Malta</skos:definition>
+      <rdfs:label>MT-28</rdfs:label>
+      <lcc-lr:hasTag rdf:datatype="&xsd;string">MT-28</lcc-lr:hasTag>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-mt;Marsaxlokk"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-mt;Marsaxlokk"/>
+      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mt;"/>
+   </owl:NamedIndividual>
+
+
+
+  <!--
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Mdina
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+    -->
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-mt;Mdina">
+      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
+      <rdfs:label>Mdina</rdfs:label>
+      <skos:definition>The local council of Mdina in the country of Malta</skos:definition>
+      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Malta"/>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="mt">Mdina</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Mdina</lcc-cr:hasEnglishShortName>
+      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mt;LocalCouncil"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mt;"/>
+   </owl:NamedIndividual>
+
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-mt;MT-29">
+      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
+      <skos:definition>subdivision code for the local council of Mdina in the country of Malta</skos:definition>
+      <rdfs:label>MT-29</rdfs:label>
+      <lcc-lr:hasTag rdf:datatype="&xsd;string">MT-29</lcc-lr:hasTag>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-mt;Mdina"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-mt;Mdina"/>
       <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mt;"/>
    </owl:NamedIndividual>

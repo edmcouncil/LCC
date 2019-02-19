@@ -36,9 +36,9 @@
 
       <!-- Curation and Rights Metadata for the LCC ISO 3166-2 Subdivision Codes for Sweden Ontology -->
 
-      <sm:copyright rdf:datatype="&xsd;string">Copyright (c) 2015-2017 Object Management Group, Inc.
-          Copyright (c) 2015-2017 Adaptive Inc.
-          Copyright (c) 2015-2017 Thematix Partners LLC
+      <sm:copyright rdf:datatype="&xsd;string">Copyright (c) 2015-2019 Object Management Group, Inc.
+          Copyright (c) 2015-2019 Adaptive Inc.
+          Copyright (c) 2015-2019 Thematix Partners LLC
           Copyright (c) 2015-2017 Unisys
         </sm:copyright>
       <dct:license rdf:resource="&sm;MITLicense"/>
@@ -47,9 +47,9 @@
 
       <sm:filename rdf:datatype="&xsd;string">ISO3166-2-SubdivisionCodes-SE.rdf</sm:filename>
       <sm:fileAbbreviation rdf:datatype="&xsd;string">lcc-3166-2-se</sm:fileAbbreviation>
-      <owl:versionIRI rdf:resource="http://www.omg.org/spec/LCC/20170801/Countries/Regions/ISO3166-2-SubdivisionCodes-SE/"/>
+      <owl:versionIRI rdf:resource="http://www.omg.org/spec/LCC/20190201/Countries/Regions/ISO3166-2-SubdivisionCodes-SE/"/>
       <sm:fileAbstract rdf:datatype="&xsd;string">This ontology represents the subset of the ISO 3166 standard that includes the actual ISO 3166-2 subdivision codes for Sweden, with the ontology and codes for the other parts of the standard represented in models that this ontology depends on.</sm:fileAbstract>
-      <dct:issued rdf:datatype="&xsd;dateTime">2017-07-20T22:26:02.631805+02:00</dct:issued>
+      <dct:issued rdf:datatype="&xsd;dateTime">2019-02-14T00:48:51.124818+01:00</dct:issued>
 
       <sm:dependsOn rdf:datatype="&xsd;anyURI">http://www.omg.org/spec/LCC/Languages/LanguageRepresentation/</sm:dependsOn>
       <sm:dependsOn rdf:datatype="&xsd;anyURI">http://www.omg.org/spec/LCC/Countries/CountryRepresentation/</sm:dependsOn>
@@ -92,126 +92,6 @@
     //
     ///////////////////////////////////////////////////////////////////////////////////////
     -->
-
-
-  <!--
-    ///////////////////////////////////////////////////////////////////////////////////////
-    //
-    // Västerbottens län [SE-24]
-    //
-    ///////////////////////////////////////////////////////////////////////////////////////
-    -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-se;VasterbottensLan">
-      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>Västerbottens län [SE-24]</rdfs:label>
-      <skos:definition>The county of Västerbottens län [SE-24] in the country of Sweden</skos:definition>
-      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Sweden"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sv">Västerbottens län [SE-24]</lcc-cr:hasLocalShortName>
-      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-se;County"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-se;"/>
-   </owl:NamedIndividual>
-
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-se;SE-AC">
-      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the county of Västerbottens län [SE-24] in the country of Sweden</skos:definition>
-      <rdfs:label>SE-AC</rdfs:label>
-      <lcc-lr:hasTag rdf:datatype="&xsd;string">SE-AC</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-2-se;VasterbottensLan"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-2-se;VasterbottensLan"/>
-      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-se;"/>
-   </owl:NamedIndividual>
-
-
-
-  <!--
-    ///////////////////////////////////////////////////////////////////////////////////////
-    //
-    // Uppsala län [SE-03]
-    //
-    ///////////////////////////////////////////////////////////////////////////////////////
-    -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-se;UppsalaLan">
-      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>Uppsala län [SE-03]</rdfs:label>
-      <skos:definition>The county of Uppsala län [SE-03] in the country of Sweden</skos:definition>
-      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Sweden"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sv">Uppsala län [SE-03]</lcc-cr:hasLocalShortName>
-      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-se;County"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-se;"/>
-   </owl:NamedIndividual>
-
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-se;SE-C">
-      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the county of Uppsala län [SE-03] in the country of Sweden</skos:definition>
-      <rdfs:label>SE-C</rdfs:label>
-      <lcc-lr:hasTag rdf:datatype="&xsd;string">SE-C</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-2-se;UppsalaLan"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-2-se;UppsalaLan"/>
-      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-se;"/>
-   </owl:NamedIndividual>
-
-
-
-  <!--
-    ///////////////////////////////////////////////////////////////////////////////////////
-    //
-    // Kalmar län [SE-08]
-    //
-    ///////////////////////////////////////////////////////////////////////////////////////
-    -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-se;KalmarLan">
-      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>Kalmar län [SE-08]</rdfs:label>
-      <skos:definition>The county of Kalmar län [SE-08] in the country of Sweden</skos:definition>
-      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Sweden"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sv">Kalmar län [SE-08]</lcc-cr:hasLocalShortName>
-      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-se;County"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-se;"/>
-   </owl:NamedIndividual>
-
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-se;SE-H">
-      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the county of Kalmar län [SE-08] in the country of Sweden</skos:definition>
-      <rdfs:label>SE-H</rdfs:label>
-      <lcc-lr:hasTag rdf:datatype="&xsd;string">SE-H</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-2-se;KalmarLan"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-2-se;KalmarLan"/>
-      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-se;"/>
-   </owl:NamedIndividual>
-
-
-
-  <!--
-    ///////////////////////////////////////////////////////////////////////////////////////
-    //
-    // Skåne län [SE-12]
-    //
-    ///////////////////////////////////////////////////////////////////////////////////////
-    -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-se;SkaneLan">
-      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>Skåne län [SE-12]</rdfs:label>
-      <skos:definition>The county of Skåne län [SE-12] in the country of Sweden</skos:definition>
-      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Sweden"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sv">Skåne län [SE-12]</lcc-cr:hasLocalShortName>
-      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-se;County"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-se;"/>
-   </owl:NamedIndividual>
-
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-se;SE-M">
-      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the county of Skåne län [SE-12] in the country of Sweden</skos:definition>
-      <rdfs:label>SE-M</rdfs:label>
-      <lcc-lr:hasTag rdf:datatype="&xsd;string">SE-M</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-2-se;SkaneLan"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-2-se;SkaneLan"/>
-      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-se;"/>
-   </owl:NamedIndividual>
-
 
 
   <!--
@@ -718,6 +598,126 @@
       <lcc-lr:hasTag rdf:datatype="&xsd;string">SE-F</lcc-lr:hasTag>
       <lcc-lr:denotes rdf:resource="&lcc-3166-2-se;JonkopingsLan"/>
       <lcc-lr:identifies rdf:resource="&lcc-3166-2-se;JonkopingsLan"/>
+      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-se;"/>
+   </owl:NamedIndividual>
+
+
+
+  <!--
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Västerbottens län [SE-24]
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+    -->
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-se;VasterbottensLan">
+      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
+      <rdfs:label>Västerbottens län [SE-24]</rdfs:label>
+      <skos:definition>The county of Västerbottens län [SE-24] in the country of Sweden</skos:definition>
+      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Sweden"/>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sv">Västerbottens län [SE-24]</lcc-cr:hasLocalShortName>
+      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-se;County"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-se;"/>
+   </owl:NamedIndividual>
+
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-se;SE-AC">
+      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
+      <skos:definition>subdivision code for the county of Västerbottens län [SE-24] in the country of Sweden</skos:definition>
+      <rdfs:label>SE-AC</rdfs:label>
+      <lcc-lr:hasTag rdf:datatype="&xsd;string">SE-AC</lcc-lr:hasTag>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-se;VasterbottensLan"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-se;VasterbottensLan"/>
+      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-se;"/>
+   </owl:NamedIndividual>
+
+
+
+  <!--
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Uppsala län [SE-03]
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+    -->
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-se;UppsalaLan">
+      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
+      <rdfs:label>Uppsala län [SE-03]</rdfs:label>
+      <skos:definition>The county of Uppsala län [SE-03] in the country of Sweden</skos:definition>
+      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Sweden"/>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sv">Uppsala län [SE-03]</lcc-cr:hasLocalShortName>
+      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-se;County"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-se;"/>
+   </owl:NamedIndividual>
+
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-se;SE-C">
+      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
+      <skos:definition>subdivision code for the county of Uppsala län [SE-03] in the country of Sweden</skos:definition>
+      <rdfs:label>SE-C</rdfs:label>
+      <lcc-lr:hasTag rdf:datatype="&xsd;string">SE-C</lcc-lr:hasTag>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-se;UppsalaLan"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-se;UppsalaLan"/>
+      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-se;"/>
+   </owl:NamedIndividual>
+
+
+
+  <!--
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Kalmar län [SE-08]
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+    -->
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-se;KalmarLan">
+      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
+      <rdfs:label>Kalmar län [SE-08]</rdfs:label>
+      <skos:definition>The county of Kalmar län [SE-08] in the country of Sweden</skos:definition>
+      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Sweden"/>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sv">Kalmar län [SE-08]</lcc-cr:hasLocalShortName>
+      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-se;County"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-se;"/>
+   </owl:NamedIndividual>
+
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-se;SE-H">
+      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
+      <skos:definition>subdivision code for the county of Kalmar län [SE-08] in the country of Sweden</skos:definition>
+      <rdfs:label>SE-H</rdfs:label>
+      <lcc-lr:hasTag rdf:datatype="&xsd;string">SE-H</lcc-lr:hasTag>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-se;KalmarLan"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-se;KalmarLan"/>
+      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-se;"/>
+   </owl:NamedIndividual>
+
+
+
+  <!--
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Skåne län [SE-12]
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+    -->
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-se;SkaneLan">
+      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
+      <rdfs:label>Skåne län [SE-12]</rdfs:label>
+      <skos:definition>The county of Skåne län [SE-12] in the country of Sweden</skos:definition>
+      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Sweden"/>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sv">Skåne län [SE-12]</lcc-cr:hasLocalShortName>
+      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-se;County"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-se;"/>
+   </owl:NamedIndividual>
+
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-se;SE-M">
+      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
+      <skos:definition>subdivision code for the county of Skåne län [SE-12] in the country of Sweden</skos:definition>
+      <rdfs:label>SE-M</rdfs:label>
+      <lcc-lr:hasTag rdf:datatype="&xsd;string">SE-M</lcc-lr:hasTag>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-se;SkaneLan"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-se;SkaneLan"/>
       <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-se;"/>
    </owl:NamedIndividual>

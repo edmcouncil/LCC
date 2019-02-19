@@ -36,9 +36,9 @@
 
       <!-- Curation and Rights Metadata for the LCC ISO 3166-2 Subdivision Codes for Saint Helena, Ascension and Tristan da Cunha Ontology -->
 
-      <sm:copyright rdf:datatype="&xsd;string">Copyright (c) 2015-2017 Object Management Group, Inc.
-          Copyright (c) 2015-2017 Adaptive Inc.
-          Copyright (c) 2015-2017 Thematix Partners LLC
+      <sm:copyright rdf:datatype="&xsd;string">Copyright (c) 2015-2019 Object Management Group, Inc.
+          Copyright (c) 2015-2019 Adaptive Inc.
+          Copyright (c) 2015-2019 Thematix Partners LLC
           Copyright (c) 2015-2017 Unisys
         </sm:copyright>
       <dct:license rdf:resource="&sm;MITLicense"/>
@@ -47,9 +47,9 @@
 
       <sm:filename rdf:datatype="&xsd;string">ISO3166-2-SubdivisionCodes-SH.rdf</sm:filename>
       <sm:fileAbbreviation rdf:datatype="&xsd;string">lcc-3166-2-sh</sm:fileAbbreviation>
-      <owl:versionIRI rdf:resource="http://www.omg.org/spec/LCC/20170801/Countries/Regions/ISO3166-2-SubdivisionCodes-SH/"/>
+      <owl:versionIRI rdf:resource="http://www.omg.org/spec/LCC/20190201/Countries/Regions/ISO3166-2-SubdivisionCodes-SH/"/>
       <sm:fileAbstract rdf:datatype="&xsd;string">This ontology represents the subset of the ISO 3166 standard that includes the actual ISO 3166-2 subdivision codes for Saint Helena, Ascension and Tristan da Cunha, with the ontology and codes for the other parts of the standard represented in models that this ontology depends on.</sm:fileAbstract>
-      <dct:issued rdf:datatype="&xsd;dateTime">2017-07-20T22:26:02.631805+02:00</dct:issued>
+      <dct:issued rdf:datatype="&xsd;dateTime">2019-02-14T00:48:51.124818+01:00</dct:issued>
 
       <sm:dependsOn rdf:datatype="&xsd;anyURI">http://www.omg.org/spec/LCC/Languages/LanguageRepresentation/</sm:dependsOn>
       <sm:dependsOn rdf:datatype="&xsd;anyURI">http://www.omg.org/spec/LCC/Countries/CountryRepresentation/</sm:dependsOn>
@@ -92,36 +92,6 @@
     //
     ///////////////////////////////////////////////////////////////////////////////////////
     -->
-
-
-  <!--
-    ///////////////////////////////////////////////////////////////////////////////////////
-    //
-    // Ascension
-    //
-    ///////////////////////////////////////////////////////////////////////////////////////
-    -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-sh;Ascension">
-      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>Ascension</rdfs:label>
-      <skos:definition>The geographical entity of Ascension in the country of Saint Helena, Ascension and Tristan da Cunha</skos:definition>
-      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;SaintHelena"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Ascension</lcc-cr:hasEnglishShortName>
-      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-sh;GeographicalEntity"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-sh;"/>
-   </owl:NamedIndividual>
-
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-sh;SH-AC">
-      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the geographical entity of Ascension in the country of Saint Helena, Ascension and Tristan da Cunha</skos:definition>
-      <rdfs:label>SH-AC</rdfs:label>
-      <lcc-lr:hasTag rdf:datatype="&xsd;string">SH-AC</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-2-sh;Ascension"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-2-sh;Ascension"/>
-      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-sh;"/>
-   </owl:NamedIndividual>
-
 
 
   <!--
@@ -187,6 +157,36 @@
   <!--
     ///////////////////////////////////////////////////////////////////////////////////////
     //
+    // Ascension
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+    -->
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-sh;Ascension">
+      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
+      <rdfs:label>Ascension</rdfs:label>
+      <skos:definition>The geographical entity of Ascension in the country of Saint Helena, Ascension and Tristan da Cunha</skos:definition>
+      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;SaintHelena"/>
+      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Ascension</lcc-cr:hasEnglishShortName>
+      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-sh;GeographicalEntity"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-sh;"/>
+   </owl:NamedIndividual>
+
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-sh;SH-AC">
+      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
+      <skos:definition>subdivision code for the geographical entity of Ascension in the country of Saint Helena, Ascension and Tristan da Cunha</skos:definition>
+      <rdfs:label>SH-AC</rdfs:label>
+      <lcc-lr:hasTag rdf:datatype="&xsd;string">SH-AC</lcc-lr:hasTag>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-sh;Ascension"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-sh;Ascension"/>
+      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-sh;"/>
+   </owl:NamedIndividual>
+
+
+
+  <!--
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
     // Ascension Island
     //
     ///////////////////////////////////////////////////////////////////////////////////////
@@ -196,8 +196,8 @@
       <rdfs:label>Ascension Island</rdfs:label>
       <skos:definition>The territory of Ascension Island in the country of Saint Helena, Ascension and Tristan da Cunha</skos:definition>
       <lcc-cr:hasNumericRegionCode rdf:datatype="&xsd;string">1008</lcc-cr:hasNumericRegionCode>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Ascension Island</lcc-cr:hasEnglishShortName>
       <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">l'Île de l'Ascension</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Ascension Island</lcc-cr:hasEnglishShortName>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;SaintHelena"/>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2;Territory"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-sh;"/>
@@ -215,8 +215,8 @@
       <rdfs:label>Gough Island</rdfs:label>
       <skos:definition>The territory of Gough Island in the country of Saint Helena, Ascension and Tristan da Cunha</skos:definition>
       <lcc-cr:hasNumericRegionCode rdf:datatype="&xsd;string">1070</lcc-cr:hasNumericRegionCode>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Gough Island</lcc-cr:hasEnglishShortName>
       <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Île de Gough</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Gough Island</lcc-cr:hasEnglishShortName>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;SaintHelena"/>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2;Territory"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-sh;"/>
@@ -234,8 +234,8 @@
       <rdfs:label>Inaccessible Island</rdfs:label>
       <skos:definition>The territory of Inaccessible Island in the country of Saint Helena, Ascension and Tristan da Cunha</skos:definition>
       <lcc-cr:hasNumericRegionCode rdf:datatype="&xsd;string">1086</lcc-cr:hasNumericRegionCode>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Inaccessible Island</lcc-cr:hasEnglishShortName>
       <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Île Inaccessible</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Inaccessible Island</lcc-cr:hasEnglishShortName>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;SaintHelena"/>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2;Territory"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-sh;"/>
@@ -253,8 +253,8 @@
       <rdfs:label>Nightingale Island</rdfs:label>
       <skos:definition>The territory of Nightingale Island in the country of Saint Helena, Ascension and Tristan da Cunha</skos:definition>
       <lcc-cr:hasNumericRegionCode rdf:datatype="&xsd;string">1139</lcc-cr:hasNumericRegionCode>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Nightingale Island</lcc-cr:hasEnglishShortName>
       <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Île Nightingale</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Nightingale Island</lcc-cr:hasEnglishShortName>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;SaintHelena"/>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2;Territory"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-sh;"/>
@@ -291,8 +291,8 @@
       <rdfs:label>Stoltenhoff Island</rdfs:label>
       <skos:definition>The territory of Stoltenhoff Island in the country of Saint Helena, Ascension and Tristan da Cunha</skos:definition>
       <lcc-cr:hasNumericRegionCode rdf:datatype="&xsd;string">1204</lcc-cr:hasNumericRegionCode>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Stoltenhoff Island</lcc-cr:hasEnglishShortName>
       <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Île Stoltenhoff</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Stoltenhoff Island</lcc-cr:hasEnglishShortName>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;SaintHelena"/>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2;Territory"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-sh;"/>
@@ -310,8 +310,8 @@
       <rdfs:label>Tristan da Cunha Archipelago</rdfs:label>
       <skos:definition>The territory of Tristan da Cunha Archipelago in the country of Saint Helena, Ascension and Tristan da Cunha</skos:definition>
       <lcc-cr:hasNumericRegionCode rdf:datatype="&xsd;string">1213</lcc-cr:hasNumericRegionCode>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Tristan da Cunha Archipelago</lcc-cr:hasEnglishShortName>
       <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">l'Archipel Tristan da Cunha</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Tristan da Cunha Archipelago</lcc-cr:hasEnglishShortName>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;SaintHelena"/>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2;Territory"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-sh;"/>

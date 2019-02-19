@@ -36,9 +36,9 @@
 
       <!-- Curation and Rights Metadata for the LCC ISO 3166-2 Subdivision Codes for Sudan (the) Ontology -->
 
-      <sm:copyright rdf:datatype="&xsd;string">Copyright (c) 2015-2017 Object Management Group, Inc.
-          Copyright (c) 2015-2017 Adaptive Inc.
-          Copyright (c) 2015-2017 Thematix Partners LLC
+      <sm:copyright rdf:datatype="&xsd;string">Copyright (c) 2015-2019 Object Management Group, Inc.
+          Copyright (c) 2015-2019 Adaptive Inc.
+          Copyright (c) 2015-2019 Thematix Partners LLC
           Copyright (c) 2015-2017 Unisys
         </sm:copyright>
       <dct:license rdf:resource="&sm;MITLicense"/>
@@ -47,9 +47,9 @@
 
       <sm:filename rdf:datatype="&xsd;string">ISO3166-2-SubdivisionCodes-SD.rdf</sm:filename>
       <sm:fileAbbreviation rdf:datatype="&xsd;string">lcc-3166-2-sd</sm:fileAbbreviation>
-      <owl:versionIRI rdf:resource="http://www.omg.org/spec/LCC/20170801/Countries/Regions/ISO3166-2-SubdivisionCodes-SD/"/>
+      <owl:versionIRI rdf:resource="http://www.omg.org/spec/LCC/20190201/Countries/Regions/ISO3166-2-SubdivisionCodes-SD/"/>
       <sm:fileAbstract rdf:datatype="&xsd;string">This ontology represents the subset of the ISO 3166 standard that includes the actual ISO 3166-2 subdivision codes for Sudan (the), with the ontology and codes for the other parts of the standard represented in models that this ontology depends on.</sm:fileAbstract>
-      <dct:issued rdf:datatype="&xsd;dateTime">2017-07-20T22:26:02.631805+02:00</dct:issued>
+      <dct:issued rdf:datatype="&xsd;dateTime">2019-02-14T00:48:51.124818+01:00</dct:issued>
 
       <sm:dependsOn rdf:datatype="&xsd;anyURI">http://www.omg.org/spec/LCC/Languages/LanguageRepresentation/</sm:dependsOn>
       <sm:dependsOn rdf:datatype="&xsd;anyURI">http://www.omg.org/spec/LCC/Countries/CountryRepresentation/</sm:dependsOn>
@@ -97,183 +97,28 @@
   <!--
     ///////////////////////////////////////////////////////////////////////////////////////
     //
-    // Central Darfur
+    // West Kordofan
     //
     ///////////////////////////////////////////////////////////////////////////////////////
     -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-sd;CentralDarfur">
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-sd;WestKordofan">
       <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>Central Darfur</rdfs:label>
-      <skos:definition>The state of Central Darfur in the country of Sudan (the)</skos:definition>
+      <rdfs:label>West Kordofan</rdfs:label>
+      <skos:definition>The state of West Kordofan in the country of Sudan (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Sudan"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Wasaţ Dārfūr Zālinjay</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Central Darfur</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Gharb Kurdufān</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">West Kordofan</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-sd;State"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-sd;"/>
    </owl:NamedIndividual>
 
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-sd;SD-DC">
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-sd;SD-GK">
       <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the state of Central Darfur in the country of Sudan (the)</skos:definition>
-      <rdfs:label>SD-DC</rdfs:label>
-      <lcc-lr:hasTag rdf:datatype="&xsd;string">SD-DC</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-2-sd;CentralDarfur"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-2-sd;CentralDarfur"/>
-      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-sd;"/>
-   </owl:NamedIndividual>
-
-
-
-  <!--
-    ///////////////////////////////////////////////////////////////////////////////////////
-    //
-    // Kassala
-    //
-    ///////////////////////////////////////////////////////////////////////////////////////
-    -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-sd;Kassala">
-      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>Kassala</rdfs:label>
-      <skos:definition>The state of Kassala in the country of Sudan (the)</skos:definition>
-      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Sudan"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Kassala</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Kassalā</lcc-cr:hasLocalShortName>
-      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-sd;State"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-sd;"/>
-   </owl:NamedIndividual>
-
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-sd;SD-KA">
-      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the state of Kassala in the country of Sudan (the)</skos:definition>
-      <rdfs:label>SD-KA</rdfs:label>
-      <lcc-lr:hasTag rdf:datatype="&xsd;string">SD-KA</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-2-sd;Kassala"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-2-sd;Kassala"/>
-      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-sd;"/>
-   </owl:NamedIndividual>
-
-
-
-  <!--
-    ///////////////////////////////////////////////////////////////////////////////////////
-    //
-    // North Kordofan
-    //
-    ///////////////////////////////////////////////////////////////////////////////////////
-    -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-sd;NorthKordofan">
-      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>North Kordofan</rdfs:label>
-      <skos:definition>The state of North Kordofan in the country of Sudan (the)</skos:definition>
-      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Sudan"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Shiamāl Kurdufān</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">North Kordofan</lcc-cr:hasEnglishShortName>
-      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-sd;State"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-sd;"/>
-   </owl:NamedIndividual>
-
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-sd;SD-KN">
-      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the state of North Kordofan in the country of Sudan (the)</skos:definition>
-      <rdfs:label>SD-KN</rdfs:label>
-      <lcc-lr:hasTag rdf:datatype="&xsd;string">SD-KN</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-2-sd;NorthKordofan"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-2-sd;NorthKordofan"/>
-      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-sd;"/>
-   </owl:NamedIndividual>
-
-
-
-  <!--
-    ///////////////////////////////////////////////////////////////////////////////////////
-    //
-    // South Kordofan
-    //
-    ///////////////////////////////////////////////////////////////////////////////////////
-    -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-sd;SouthKordofan">
-      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>South Kordofan</rdfs:label>
-      <skos:definition>The state of South Kordofan in the country of Sudan (the)</skos:definition>
-      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Sudan"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Janūb Kurdufān</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">South Kordofan</lcc-cr:hasEnglishShortName>
-      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-sd;State"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-sd;"/>
-   </owl:NamedIndividual>
-
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-sd;SD-KS">
-      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the state of South Kordofan in the country of Sudan (the)</skos:definition>
-      <rdfs:label>SD-KS</rdfs:label>
-      <lcc-lr:hasTag rdf:datatype="&xsd;string">SD-KS</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-2-sd;SouthKordofan"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-2-sd;SouthKordofan"/>
-      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-sd;"/>
-   </owl:NamedIndividual>
-
-
-
-  <!--
-    ///////////////////////////////////////////////////////////////////////////////////////
-    //
-    // Blue Nile
-    //
-    ///////////////////////////////////////////////////////////////////////////////////////
-    -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-sd;BlueNile">
-      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>Blue Nile</rdfs:label>
-      <skos:definition>The state of Blue Nile in the country of Sudan (the)</skos:definition>
-      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Sudan"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">An Nīl al Azraq</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Blue Nile</lcc-cr:hasEnglishShortName>
-      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-sd;State"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-sd;"/>
-   </owl:NamedIndividual>
-
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-sd;SD-NB">
-      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the state of Blue Nile in the country of Sudan (the)</skos:definition>
-      <rdfs:label>SD-NB</rdfs:label>
-      <lcc-lr:hasTag rdf:datatype="&xsd;string">SD-NB</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-2-sd;BlueNile"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-2-sd;BlueNile"/>
-      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-sd;"/>
-   </owl:NamedIndividual>
-
-
-
-  <!--
-    ///////////////////////////////////////////////////////////////////////////////////////
-    //
-    // River Nile
-    //
-    ///////////////////////////////////////////////////////////////////////////////////////
-    -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-sd;RiverNile">
-      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>River Nile</rdfs:label>
-      <skos:definition>The state of River Nile in the country of Sudan (the)</skos:definition>
-      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Sudan"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">River Nile</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Nahr an Nīl</lcc-cr:hasLocalShortName>
-      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-sd;State"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-sd;"/>
-   </owl:NamedIndividual>
-
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-sd;SD-NR">
-      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the state of River Nile in the country of Sudan (the)</skos:definition>
-      <rdfs:label>SD-NR</rdfs:label>
-      <lcc-lr:hasTag rdf:datatype="&xsd;string">SD-NR</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-2-sd;RiverNile"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-2-sd;RiverNile"/>
+      <skos:definition>subdivision code for the state of West Kordofan in the country of Sudan (the)</skos:definition>
+      <rdfs:label>SD-GK</rdfs:label>
+      <lcc-lr:hasTag rdf:datatype="&xsd;string">SD-GK</lcc-lr:hasTag>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-sd;WestKordofan"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-sd;WestKordofan"/>
       <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-sd;"/>
    </owl:NamedIndividual>
@@ -336,37 +181,6 @@
       <lcc-lr:hasTag rdf:datatype="&xsd;string">SD-RS</lcc-lr:hasTag>
       <lcc-lr:denotes rdf:resource="&lcc-3166-2-sd;RedSea"/>
       <lcc-lr:identifies rdf:resource="&lcc-3166-2-sd;RedSea"/>
-      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-sd;"/>
-   </owl:NamedIndividual>
-
-
-
-  <!--
-    ///////////////////////////////////////////////////////////////////////////////////////
-    //
-    // West Kordofan
-    //
-    ///////////////////////////////////////////////////////////////////////////////////////
-    -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-sd;WestKordofan">
-      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>West Kordofan</rdfs:label>
-      <skos:definition>The state of West Kordofan in the country of Sudan (the)</skos:definition>
-      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Sudan"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Gharb Kurdufān</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">West Kordofan</lcc-cr:hasEnglishShortName>
-      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-sd;State"/>
-      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-sd;"/>
-   </owl:NamedIndividual>
-
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-sd;SD-GK">
-      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the state of West Kordofan in the country of Sudan (the)</skos:definition>
-      <rdfs:label>SD-GK</rdfs:label>
-      <lcc-lr:hasTag rdf:datatype="&xsd;string">SD-GK</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-2-sd;WestKordofan"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-2-sd;WestKordofan"/>
       <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-sd;"/>
    </owl:NamedIndividual>
@@ -646,6 +460,192 @@
       <lcc-lr:hasTag rdf:datatype="&xsd;string">SD-NW</lcc-lr:hasTag>
       <lcc-lr:denotes rdf:resource="&lcc-3166-2-sd;WhiteNile"/>
       <lcc-lr:identifies rdf:resource="&lcc-3166-2-sd;WhiteNile"/>
+      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-sd;"/>
+   </owl:NamedIndividual>
+
+
+
+  <!--
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Central Darfur
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+    -->
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-sd;CentralDarfur">
+      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
+      <rdfs:label>Central Darfur</rdfs:label>
+      <skos:definition>The state of Central Darfur in the country of Sudan (the)</skos:definition>
+      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Sudan"/>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Wasaţ Dārfūr Zālinjay</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Central Darfur</lcc-cr:hasEnglishShortName>
+      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-sd;State"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-sd;"/>
+   </owl:NamedIndividual>
+
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-sd;SD-DC">
+      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
+      <skos:definition>subdivision code for the state of Central Darfur in the country of Sudan (the)</skos:definition>
+      <rdfs:label>SD-DC</rdfs:label>
+      <lcc-lr:hasTag rdf:datatype="&xsd;string">SD-DC</lcc-lr:hasTag>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-sd;CentralDarfur"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-sd;CentralDarfur"/>
+      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-sd;"/>
+   </owl:NamedIndividual>
+
+
+
+  <!--
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Kassala
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+    -->
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-sd;Kassala">
+      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
+      <rdfs:label>Kassala</rdfs:label>
+      <skos:definition>The state of Kassala in the country of Sudan (the)</skos:definition>
+      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Sudan"/>
+      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Kassala</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Kassalā</lcc-cr:hasLocalShortName>
+      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-sd;State"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-sd;"/>
+   </owl:NamedIndividual>
+
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-sd;SD-KA">
+      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
+      <skos:definition>subdivision code for the state of Kassala in the country of Sudan (the)</skos:definition>
+      <rdfs:label>SD-KA</rdfs:label>
+      <lcc-lr:hasTag rdf:datatype="&xsd;string">SD-KA</lcc-lr:hasTag>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-sd;Kassala"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-sd;Kassala"/>
+      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-sd;"/>
+   </owl:NamedIndividual>
+
+
+
+  <!--
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // North Kordofan
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+    -->
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-sd;NorthKordofan">
+      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
+      <rdfs:label>North Kordofan</rdfs:label>
+      <skos:definition>The state of North Kordofan in the country of Sudan (the)</skos:definition>
+      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Sudan"/>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Shiamāl Kurdufān</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">North Kordofan</lcc-cr:hasEnglishShortName>
+      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-sd;State"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-sd;"/>
+   </owl:NamedIndividual>
+
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-sd;SD-KN">
+      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
+      <skos:definition>subdivision code for the state of North Kordofan in the country of Sudan (the)</skos:definition>
+      <rdfs:label>SD-KN</rdfs:label>
+      <lcc-lr:hasTag rdf:datatype="&xsd;string">SD-KN</lcc-lr:hasTag>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-sd;NorthKordofan"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-sd;NorthKordofan"/>
+      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-sd;"/>
+   </owl:NamedIndividual>
+
+
+
+  <!--
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // South Kordofan
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+    -->
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-sd;SouthKordofan">
+      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
+      <rdfs:label>South Kordofan</rdfs:label>
+      <skos:definition>The state of South Kordofan in the country of Sudan (the)</skos:definition>
+      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Sudan"/>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Janūb Kurdufān</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">South Kordofan</lcc-cr:hasEnglishShortName>
+      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-sd;State"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-sd;"/>
+   </owl:NamedIndividual>
+
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-sd;SD-KS">
+      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
+      <skos:definition>subdivision code for the state of South Kordofan in the country of Sudan (the)</skos:definition>
+      <rdfs:label>SD-KS</rdfs:label>
+      <lcc-lr:hasTag rdf:datatype="&xsd;string">SD-KS</lcc-lr:hasTag>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-sd;SouthKordofan"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-sd;SouthKordofan"/>
+      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-sd;"/>
+   </owl:NamedIndividual>
+
+
+
+  <!--
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Blue Nile
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+    -->
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-sd;BlueNile">
+      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
+      <rdfs:label>Blue Nile</rdfs:label>
+      <skos:definition>The state of Blue Nile in the country of Sudan (the)</skos:definition>
+      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Sudan"/>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">An Nīl al Azraq</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Blue Nile</lcc-cr:hasEnglishShortName>
+      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-sd;State"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-sd;"/>
+   </owl:NamedIndividual>
+
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-sd;SD-NB">
+      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
+      <skos:definition>subdivision code for the state of Blue Nile in the country of Sudan (the)</skos:definition>
+      <rdfs:label>SD-NB</rdfs:label>
+      <lcc-lr:hasTag rdf:datatype="&xsd;string">SD-NB</lcc-lr:hasTag>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-sd;BlueNile"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-sd;BlueNile"/>
+      <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-sd;"/>
+   </owl:NamedIndividual>
+
+
+
+  <!--
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // River Nile
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+    -->
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-sd;RiverNile">
+      <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
+      <rdfs:label>River Nile</rdfs:label>
+      <skos:definition>The state of River Nile in the country of Sudan (the)</skos:definition>
+      <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Sudan"/>
+      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">River Nile</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Nahr an Nīl</lcc-cr:hasLocalShortName>
+      <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-sd;State"/>
+      <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-sd;"/>
+   </owl:NamedIndividual>
+
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-sd;SD-NR">
+      <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
+      <skos:definition>subdivision code for the state of River Nile in the country of Sudan (the)</skos:definition>
+      <rdfs:label>SD-NR</rdfs:label>
+      <lcc-lr:hasTag rdf:datatype="&xsd;string">SD-NR</lcc-lr:hasTag>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-sd;RiverNile"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-sd;RiverNile"/>
       <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-sd;"/>
    </owl:NamedIndividual>
