@@ -604,18 +604,18 @@
     -->
    <owl:NamedIndividual rdf:about="&lcc-3166-2-mh;Bikini">
       <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>Bikini & Kili</rdfs:label>
-      <skos:definition>The municipality of Bikini & Kili in the country of Marshall Islands (the)</skos:definition>
+      <rdfs:label>Bikini &amp; Kili</rdfs:label>
+      <skos:definition>The municipality of Bikini &amp; Kili in the country of Marshall Islands (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-mh;RalikChain"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="mh">Pikinni & Kōle</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Bikini & Kili</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="mh">Pikinni &amp; Kōle</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Bikini &amp; Kili</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mh;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mh;"/>
    </owl:NamedIndividual>
 
    <owl:NamedIndividual rdf:about="&lcc-3166-2-mh;MH-KIL">
       <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the municipality of Bikini & Kili in the country of Marshall Islands (the)</skos:definition>
+      <skos:definition>subdivision code for the municipality of Bikini &amp; Kili in the country of Marshall Islands (the)</skos:definition>
       <rdfs:label>MH-KIL</rdfs:label>
       <lcc-lr:hasTag rdf:datatype="&xsd;string">MH-KIL</lcc-lr:hasTag>
       <lcc-lr:denotes rdf:resource="&lcc-3166-2-mh;Bikini"/>
@@ -852,18 +852,18 @@
     -->
    <owl:NamedIndividual rdf:about="&lcc-3166-2-mh;Enewetak">
       <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
-      <rdfs:label>Enewetak & Ujelang</rdfs:label>
-      <skos:definition>The municipality of Enewetak & Ujelang in the country of Marshall Islands (the)</skos:definition>
+      <rdfs:label>Enewetak &amp; Ujelang</rdfs:label>
+      <skos:definition>The municipality of Enewetak &amp; Ujelang in the country of Marshall Islands (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-mh;RalikChain"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="mh">Ānewetak & Wūjlan̄</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Enewetak & Ujelang</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="mh">Ānewetak &amp; Wūjlan̄</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Enewetak &amp; Ujelang</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mh;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mh;"/>
    </owl:NamedIndividual>
 
    <owl:NamedIndividual rdf:about="&lcc-3166-2-mh;MH-ENI">
       <rdf:type rdf:resource="&lcc-cr;GeographicRegionIdentifier"/>
-      <skos:definition>subdivision code for the municipality of Enewetak & Ujelang in the country of Marshall Islands (the)</skos:definition>
+      <skos:definition>subdivision code for the municipality of Enewetak &amp; Ujelang in the country of Marshall Islands (the)</skos:definition>
       <rdfs:label>MH-ENI</rdfs:label>
       <lcc-lr:hasTag rdf:datatype="&xsd;string">MH-ENI</lcc-lr:hasTag>
       <lcc-lr:denotes rdf:resource="&lcc-3166-2-mh;Enewetak"/>
