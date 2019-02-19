@@ -183,8 +183,8 @@
       <skos:definition>subdivision code for the capital territory of Capital Territory (Honiara) in the country of Solomon Islands</skos:definition>
       <rdfs:label>SB-CT</rdfs:label>
       <lcc-lr:hasTag rdf:datatype="&xsd;string">SB-CT</lcc-lr:hasTag>
-      <lcc-lr:denotes rdf:resource="&lcc-3166-2-sb;CapitalTerritory"/>
-      <lcc-lr:identifies rdf:resource="&lcc-3166-2-sb;CapitalTerritory"/>
+      <lcc-lr:denotes rdf:resource="&lcc-3166-2-sb;CapitalTerritoryHoniara"/>
+      <lcc-lr:identifies rdf:resource="&lcc-3166-2-sb;CapitalTerritoryHoniara"/>
       <lcc-lr:isMemberOf rdf:resource="&lcc-3166-2;ISO3166-2-CodeSet"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-sb;"/>
    </owl:NamedIndividual>
