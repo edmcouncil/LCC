@@ -387,6 +387,7 @@ exclude-result-prefixes="xsl xs">
         <xsl:when test="subdivision-code='LA-VT'">Viangchan-Prefecture</xsl:when>
         <xsl:when test="subdivision-code='MU-PU'">PortLouis-City</xsl:when>
         <xsl:when test="subdivision-code='MZ-MPM'">Maputo-City</xsl:when>
+        <xsl:when test="subdivision-code='SB-CT'">CapitalTerritoryHoniara</xsl:when>
         <xsl:when test="subdivision-code='TW-HSZ'">Hsinchu-City</xsl:when>
         <xsl:when test="subdivision-code='TW-CYI'">Chiayi-City</xsl:when>
         <xsl:when test="subdivision-code='UZ-TK'">Toshkent-City</xsl:when>
