@@ -47,10 +47,10 @@ exclude-result-prefixes="xsl xs">
     <xsl:output-character character="&amp;" string="&#x26;"/>
   </xsl:character-map> 
 
-  <xsl:param name="destdir" select="'../Countries/Regions'"/> <!-- The name of the output directory  --> <!-- Default is just for testing -->
+<xsl:param name="destdir" select="'../Countries/Regions'"/> <!-- The name of the output directory  --> <!-- Default is just for testing -->
 <xsl:param name="owl-file-extension" select="'.rdf'"/> <!-- To add to the generated files -->
 <xsl:param name="generate-entities" select="'false'"/> <!-- Whether to use XML entities - requires sepsrate mappign file described below -->
-<xsl:variable name="base-dir" select="concat('file:///', translate($destdir, '\', '/'), '/')"/> 
+<xsl:variable name="base-dir" select="concat(translate($destdir, '\', '/'), '/')"/> 
 <xsl:variable name="countries-base-uri" select="'&amp;lcc-3166-1;'"/>
 <xsl:variable name="subdivisions-base-uri" select="'http://www.omg.org/spec/LCC/Countries/Regions/ISO3166-2-SubdivisionCodes-'"/>
 
