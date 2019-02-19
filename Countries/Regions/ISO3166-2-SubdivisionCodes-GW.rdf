@@ -120,7 +120,7 @@
       <rdfs:label>Leste</rdfs:label>
       <skos:definition>The province of Leste in the country of Guinea-Bissau</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Guinea-Bissau"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="pt">Leste</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="pt">Leste</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gw;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gw;"/>
    </owl:NamedIndividual>
@@ -148,7 +148,7 @@
       <rdfs:label>Gabú</rdfs:label>
       <skos:definition>The region of Gabú in the country of Guinea-Bissau</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gw;Leste"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="pt">Gabú</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="pt">Gabú</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gw;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gw;"/>
    </owl:NamedIndividual>
@@ -178,7 +178,7 @@
       <rdfs:label>Bafatá</rdfs:label>
       <skos:definition>The region of Bafatá in the country of Guinea-Bissau</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gw;Leste"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="pt">Bafatá</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="pt">Bafatá</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gw;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gw;"/>
    </owl:NamedIndividual>
@@ -210,7 +210,7 @@
       <rdfs:label>Bissau</rdfs:label>
       <skos:definition>The autonomous sector of Bissau in the country of Guinea-Bissau</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Guinea-Bissau"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="pt">Bissau</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="pt">Bissau</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gw;AutonomousSector"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gw;"/>
    </owl:NamedIndividual>
@@ -240,7 +240,7 @@
       <rdfs:label>Norte</rdfs:label>
       <skos:definition>The province of Norte in the country of Guinea-Bissau</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Guinea-Bissau"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="pt">Norte</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="pt">Norte</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gw;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gw;"/>
    </owl:NamedIndividual>
@@ -268,7 +268,7 @@
       <rdfs:label>Oio</rdfs:label>
       <skos:definition>The region of Oio in the country of Guinea-Bissau</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gw;Norte"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="pt">Oio</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="pt">Oio</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gw;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gw;"/>
    </owl:NamedIndividual>
@@ -298,7 +298,7 @@
       <rdfs:label>Cacheu</rdfs:label>
       <skos:definition>The region of Cacheu in the country of Guinea-Bissau</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gw;Norte"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="pt">Cacheu</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="pt">Cacheu</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gw;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gw;"/>
    </owl:NamedIndividual>
@@ -328,7 +328,7 @@
       <rdfs:label>Biombo</rdfs:label>
       <skos:definition>The region of Biombo in the country of Guinea-Bissau</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gw;Norte"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="pt">Biombo</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="pt">Biombo</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gw;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gw;"/>
    </owl:NamedIndividual>
@@ -360,7 +360,7 @@
       <rdfs:label>Sul</rdfs:label>
       <skos:definition>The province of Sul in the country of Guinea-Bissau</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Guinea-Bissau"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="pt">Sul</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="pt">Sul</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gw;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gw;"/>
    </owl:NamedIndividual>
@@ -388,7 +388,7 @@
       <rdfs:label>Tombali</rdfs:label>
       <skos:definition>The region of Tombali in the country of Guinea-Bissau</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gw;Sul"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="pt">Tombali</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="pt">Tombali</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gw;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gw;"/>
    </owl:NamedIndividual>
@@ -418,7 +418,7 @@
       <rdfs:label>Bolama</rdfs:label>
       <skos:definition>The region of Bolama in the country of Guinea-Bissau</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gw;Sul"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="pt">Bolama</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="pt">Bolama</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gw;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gw;"/>
    </owl:NamedIndividual>
@@ -448,7 +448,7 @@
       <rdfs:label>Quinara</rdfs:label>
       <skos:definition>The region of Quinara in the country of Guinea-Bissau</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gw;Sul"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="pt">Quinara</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="pt">Quinara</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gw;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gw;"/>
    </owl:NamedIndividual>

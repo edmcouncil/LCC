@@ -127,8 +127,8 @@
       <rdfs:label>Gilgit-Baltistan</rdfs:label>
       <skos:definition>The Pakistan administered area of Gilgit-Baltistan in the country of Pakistan</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Pakistan"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ur">Gilgit-Baltistān</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Gilgit-Baltistan</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ur">Gilgit-Baltistān</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Gilgit-Baltistan</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-pk;PakistanAdministeredArea"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-pk;"/>
    </owl:NamedIndividual>
@@ -158,8 +158,8 @@
       <rdfs:label>Sindh</rdfs:label>
       <skos:definition>The province of Sindh in the country of Pakistan</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Pakistan"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Sindh</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ur">Sindh</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Sindh</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ur">Sindh</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-pk;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-pk;"/>
    </owl:NamedIndividual>
@@ -189,8 +189,8 @@
       <rdfs:label>Khyber Pakhtunkhwa</rdfs:label>
       <skos:definition>The province of Khyber Pakhtunkhwa in the country of Pakistan</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Pakistan"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Khyber Pakhtunkhwa</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ur">Khaībar Pakhtūnkhwā</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Khyber Pakhtunkhwa</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ur">Khaībar Pakhtūnkhwā</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-pk;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-pk;"/>
    </owl:NamedIndividual>
@@ -220,7 +220,7 @@
       <rdfs:label>Federally Administered Tribal Areas</rdfs:label>
       <skos:definition>The territory of Federally Administered Tribal Areas in the country of Pakistan</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Pakistan"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Federally Administered Tribal Areas</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Federally Administered Tribal Areas</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-pk;Territory"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-pk;"/>
    </owl:NamedIndividual>
@@ -250,8 +250,8 @@
       <rdfs:label>Punjab</rdfs:label>
       <skos:definition>The province of Punjab in the country of Pakistan</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Pakistan"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Punjab</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ur">Panjāb</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Punjab</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ur">Panjāb</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-pk;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-pk;"/>
    </owl:NamedIndividual>
@@ -281,8 +281,8 @@
       <rdfs:label>Azad Jammu and Kashmir</rdfs:label>
       <skos:definition>The Pakistan administered area of Azad Jammu and Kashmir in the country of Pakistan</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Pakistan"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Azad Jammu and Kashmir</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ur">Āzād Jammūñ o Kashmīr</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Azad Jammu and Kashmir</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ur">Āzād Jammūñ o Kashmīr</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-pk;PakistanAdministeredArea"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-pk;"/>
    </owl:NamedIndividual>
@@ -312,8 +312,8 @@
       <rdfs:label>Balochistan</rdfs:label>
       <skos:definition>The province of Balochistan in the country of Pakistan</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Pakistan"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Balochistan</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ur">Balōchistān</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Balochistan</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ur">Balōchistān</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-pk;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-pk;"/>
    </owl:NamedIndividual>
@@ -343,8 +343,8 @@
       <rdfs:label>Islamabad</rdfs:label>
       <skos:definition>The federal capital territory of Islamabad in the country of Pakistan</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Pakistan"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ur">Islāmābād</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Islamabad</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ur">Islāmābād</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Islamabad</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-pk;FederalCapitalTerritory"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-pk;"/>
    </owl:NamedIndividual>

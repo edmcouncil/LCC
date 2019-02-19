@@ -106,7 +106,7 @@
       <rdfs:label>Al Muḩarraq</rdfs:label>
       <skos:definition>The governorate of Al Muḩarraq in the country of Bahrain</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Bahrain"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Al Muḩarraq</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Al Muḩarraq</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-bh;Governorate"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-bh;"/>
    </owl:NamedIndividual>
@@ -136,7 +136,7 @@
       <rdfs:label>Ash Shamālīyah</rdfs:label>
       <skos:definition>The governorate of Ash Shamālīyah in the country of Bahrain</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Bahrain"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Ash Shamālīyah</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Ash Shamālīyah</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-bh;Governorate"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-bh;"/>
    </owl:NamedIndividual>
@@ -166,7 +166,7 @@
       <rdfs:label>Al Janūbīyah</rdfs:label>
       <skos:definition>The governorate of Al Janūbīyah in the country of Bahrain</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Bahrain"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Al Janūbīyah</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Al Janūbīyah</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-bh;Governorate"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-bh;"/>
    </owl:NamedIndividual>
@@ -196,7 +196,7 @@
       <rdfs:label>Al ‘Āşimah</rdfs:label>
       <skos:definition>The governorate of Al ‘Āşimah in the country of Bahrain</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Bahrain"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Al ‘Āşimah</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Al ‘Āşimah</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-bh;Governorate"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-bh;"/>
    </owl:NamedIndividual>

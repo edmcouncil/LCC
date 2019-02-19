@@ -120,7 +120,7 @@
       <rdfs:label>Mamou</rdfs:label>
       <skos:definition>The administrative region of Mamou in the country of Guinea</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Guinea"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Mamou</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Mamou</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gn;AdministrativeRegion"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gn;"/>
    </owl:NamedIndividual>
@@ -148,7 +148,7 @@
       <rdfs:label>Dalaba</rdfs:label>
       <skos:definition>The prefecture of Dalaba in the country of Guinea</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gn;Mamou"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Dalaba</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Dalaba</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gn;Prefecture"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gn;"/>
    </owl:NamedIndividual>
@@ -178,7 +178,7 @@
       <rdfs:label>Pita</rdfs:label>
       <skos:definition>The prefecture of Pita in the country of Guinea</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gn;Mamou"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Pita</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Pita</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gn;Prefecture"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gn;"/>
    </owl:NamedIndividual>
@@ -208,7 +208,7 @@
       <rdfs:label>Mamou</rdfs:label>
       <skos:definition>The prefecture of Mamou in the country of Guinea</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gn;Mamou"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Mamou</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Mamou</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gn;Prefecture"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gn;"/>
    </owl:NamedIndividual>
@@ -240,7 +240,7 @@
       <rdfs:label>Conakry</rdfs:label>
       <skos:definition>The governorate of Conakry in the country of Guinea</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Guinea"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Conakry</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Conakry</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gn;Governorate"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gn;"/>
    </owl:NamedIndividual>
@@ -270,7 +270,7 @@
       <rdfs:label>Kankan</rdfs:label>
       <skos:definition>The administrative region of Kankan in the country of Guinea</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Guinea"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Kankan</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Kankan</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gn;AdministrativeRegion"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gn;"/>
    </owl:NamedIndividual>
@@ -298,7 +298,7 @@
       <rdfs:label>Siguiri</rdfs:label>
       <skos:definition>The prefecture of Siguiri in the country of Guinea</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gn;Kankan"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Siguiri</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Siguiri</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gn;Prefecture"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gn;"/>
    </owl:NamedIndividual>
@@ -328,7 +328,7 @@
       <rdfs:label>Mandiana</rdfs:label>
       <skos:definition>The prefecture of Mandiana in the country of Guinea</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gn;Kankan"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Mandiana</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Mandiana</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gn;Prefecture"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gn;"/>
    </owl:NamedIndividual>
@@ -358,7 +358,7 @@
       <rdfs:label>Kankan</rdfs:label>
       <skos:definition>The prefecture of Kankan in the country of Guinea</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gn;Kankan"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Kankan</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Kankan</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gn;Prefecture"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gn;"/>
    </owl:NamedIndividual>
@@ -388,7 +388,7 @@
       <rdfs:label>Kérouané</rdfs:label>
       <skos:definition>The prefecture of Kérouané in the country of Guinea</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gn;Kankan"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Kérouané</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Kérouané</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gn;Prefecture"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gn;"/>
    </owl:NamedIndividual>
@@ -418,7 +418,7 @@
       <rdfs:label>Kouroussa</rdfs:label>
       <skos:definition>The prefecture of Kouroussa in the country of Guinea</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gn;Kankan"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Kouroussa</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Kouroussa</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gn;Prefecture"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gn;"/>
    </owl:NamedIndividual>
@@ -450,7 +450,7 @@
       <rdfs:label>Labé</rdfs:label>
       <skos:definition>The administrative region of Labé in the country of Guinea</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Guinea"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Labé</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Labé</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gn;AdministrativeRegion"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gn;"/>
    </owl:NamedIndividual>
@@ -478,7 +478,7 @@
       <rdfs:label>Koubia</rdfs:label>
       <skos:definition>The prefecture of Koubia in the country of Guinea</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gn;Labe"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Koubia</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Koubia</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gn;Prefecture"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gn;"/>
    </owl:NamedIndividual>
@@ -508,7 +508,7 @@
       <rdfs:label>Mali</rdfs:label>
       <skos:definition>The prefecture of Mali in the country of Guinea</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gn;Labe"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Mali</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Mali</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gn;Prefecture"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gn;"/>
    </owl:NamedIndividual>
@@ -538,7 +538,7 @@
       <rdfs:label>Tougué</rdfs:label>
       <skos:definition>The prefecture of Tougué in the country of Guinea</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gn;Labe"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Tougué</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Tougué</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gn;Prefecture"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gn;"/>
    </owl:NamedIndividual>
@@ -568,7 +568,7 @@
       <rdfs:label>Lélouma</rdfs:label>
       <skos:definition>The prefecture of Lélouma in the country of Guinea</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gn;Labe"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Lélouma</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Lélouma</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gn;Prefecture"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gn;"/>
    </owl:NamedIndividual>
@@ -598,7 +598,7 @@
       <rdfs:label>Labé</rdfs:label>
       <skos:definition>The prefecture of Labé in the country of Guinea</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gn;Labe"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Labé</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Labé</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gn;Prefecture"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gn;"/>
    </owl:NamedIndividual>
@@ -630,7 +630,7 @@
       <rdfs:label>Boké</rdfs:label>
       <skos:definition>The administrative region of Boké in the country of Guinea</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Guinea"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Boké</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Boké</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gn;AdministrativeRegion"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gn;"/>
    </owl:NamedIndividual>
@@ -658,7 +658,7 @@
       <rdfs:label>Boké</rdfs:label>
       <skos:definition>The prefecture of Boké in the country of Guinea</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gn;Boke"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Boké</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Boké</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gn;Prefecture"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gn;"/>
    </owl:NamedIndividual>
@@ -688,7 +688,7 @@
       <rdfs:label>Boffa</rdfs:label>
       <skos:definition>The prefecture of Boffa in the country of Guinea</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gn;Boke"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Boffa</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Boffa</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gn;Prefecture"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gn;"/>
    </owl:NamedIndividual>
@@ -718,7 +718,7 @@
       <rdfs:label>Gaoual</rdfs:label>
       <skos:definition>The prefecture of Gaoual in the country of Guinea</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gn;Boke"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Gaoual</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Gaoual</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gn;Prefecture"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gn;"/>
    </owl:NamedIndividual>
@@ -748,7 +748,7 @@
       <rdfs:label>Fria</rdfs:label>
       <skos:definition>The prefecture of Fria in the country of Guinea</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gn;Boke"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Fria</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Fria</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gn;Prefecture"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gn;"/>
    </owl:NamedIndividual>
@@ -778,7 +778,7 @@
       <rdfs:label>Koundara</rdfs:label>
       <skos:definition>The prefecture of Koundara in the country of Guinea</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gn;Boke"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Koundara</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Koundara</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gn;Prefecture"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gn;"/>
    </owl:NamedIndividual>
@@ -810,7 +810,7 @@
       <rdfs:label>Faranah</rdfs:label>
       <skos:definition>The administrative region of Faranah in the country of Guinea</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Guinea"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Faranah</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Faranah</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gn;AdministrativeRegion"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gn;"/>
    </owl:NamedIndividual>
@@ -838,7 +838,7 @@
       <rdfs:label>Faranah</rdfs:label>
       <skos:definition>The prefecture of Faranah in the country of Guinea</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gn;Faranah"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Faranah</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Faranah</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gn;Prefecture"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gn;"/>
    </owl:NamedIndividual>
@@ -868,7 +868,7 @@
       <rdfs:label>Dinguiraye</rdfs:label>
       <skos:definition>The prefecture of Dinguiraye in the country of Guinea</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gn;Faranah"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Dinguiraye</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Dinguiraye</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gn;Prefecture"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gn;"/>
    </owl:NamedIndividual>
@@ -898,7 +898,7 @@
       <rdfs:label>Dabola</rdfs:label>
       <skos:definition>The prefecture of Dabola in the country of Guinea</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gn;Faranah"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Dabola</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Dabola</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gn;Prefecture"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gn;"/>
    </owl:NamedIndividual>
@@ -928,7 +928,7 @@
       <rdfs:label>Kissidougou</rdfs:label>
       <skos:definition>The prefecture of Kissidougou in the country of Guinea</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gn;Faranah"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Kissidougou</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Kissidougou</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gn;Prefecture"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gn;"/>
    </owl:NamedIndividual>
@@ -960,7 +960,7 @@
       <rdfs:label>Kindia</rdfs:label>
       <skos:definition>The administrative region of Kindia in the country of Guinea</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Guinea"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Kindia</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Kindia</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gn;AdministrativeRegion"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gn;"/>
    </owl:NamedIndividual>
@@ -988,7 +988,7 @@
       <rdfs:label>Kindia</rdfs:label>
       <skos:definition>The prefecture of Kindia in the country of Guinea</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gn;Kindia"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Kindia</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Kindia</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gn;Prefecture"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gn;"/>
    </owl:NamedIndividual>
@@ -1018,7 +1018,7 @@
       <rdfs:label>Dubréka</rdfs:label>
       <skos:definition>The prefecture of Dubréka in the country of Guinea</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gn;Kindia"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Dubréka</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Dubréka</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gn;Prefecture"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gn;"/>
    </owl:NamedIndividual>
@@ -1048,7 +1048,7 @@
       <rdfs:label>Coyah</rdfs:label>
       <skos:definition>The prefecture of Coyah in the country of Guinea</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gn;Kindia"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Coyah</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Coyah</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gn;Prefecture"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gn;"/>
    </owl:NamedIndividual>
@@ -1078,7 +1078,7 @@
       <rdfs:label>Forécariah</rdfs:label>
       <skos:definition>The prefecture of Forécariah in the country of Guinea</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gn;Kindia"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Forécariah</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Forécariah</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gn;Prefecture"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gn;"/>
    </owl:NamedIndividual>
@@ -1108,7 +1108,7 @@
       <rdfs:label>Télimélé</rdfs:label>
       <skos:definition>The prefecture of Télimélé in the country of Guinea</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gn;Kindia"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Télimélé</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Télimélé</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gn;Prefecture"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gn;"/>
    </owl:NamedIndividual>
@@ -1140,7 +1140,7 @@
       <rdfs:label>Nzérékoré</rdfs:label>
       <skos:definition>The administrative region of Nzérékoré in the country of Guinea</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Guinea"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Nzérékoré</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Nzérékoré</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gn;AdministrativeRegion"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gn;"/>
    </owl:NamedIndividual>
@@ -1168,7 +1168,7 @@
       <rdfs:label>Macenta</rdfs:label>
       <skos:definition>The prefecture of Macenta in the country of Guinea</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gn;Nzerekore"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Macenta</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Macenta</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gn;Prefecture"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gn;"/>
    </owl:NamedIndividual>
@@ -1198,7 +1198,7 @@
       <rdfs:label>Lola</rdfs:label>
       <skos:definition>The prefecture of Lola in the country of Guinea</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gn;Nzerekore"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Lola</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Lola</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gn;Prefecture"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gn;"/>
    </owl:NamedIndividual>
@@ -1228,7 +1228,7 @@
       <rdfs:label>Yomou</rdfs:label>
       <skos:definition>The prefecture of Yomou in the country of Guinea</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gn;Nzerekore"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Yomou</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Yomou</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gn;Prefecture"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gn;"/>
    </owl:NamedIndividual>
@@ -1258,7 +1258,7 @@
       <rdfs:label>Beyla</rdfs:label>
       <skos:definition>The prefecture of Beyla in the country of Guinea</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gn;Nzerekore"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Beyla</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Beyla</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gn;Prefecture"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gn;"/>
    </owl:NamedIndividual>
@@ -1288,7 +1288,7 @@
       <rdfs:label>Guékédou</rdfs:label>
       <skos:definition>The prefecture of Guékédou in the country of Guinea</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gn;Nzerekore"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Guékédou</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Guékédou</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gn;Prefecture"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gn;"/>
    </owl:NamedIndividual>
@@ -1318,7 +1318,7 @@
       <rdfs:label>Nzérékoré</rdfs:label>
       <skos:definition>The prefecture of Nzérékoré in the country of Guinea</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gn;Nzerekore"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Nzérékoré</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Nzérékoré</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gn;Prefecture"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gn;"/>
    </owl:NamedIndividual>

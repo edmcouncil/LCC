@@ -106,7 +106,7 @@
       <rdfs:label>Al Jahrā’</rdfs:label>
       <skos:definition>The governorate of Al Jahrā’ in the country of Kuwait</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Kuwait"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Al Jahrā’</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Al Jahrā’</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-kw;Governorate"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-kw;"/>
    </owl:NamedIndividual>
@@ -136,7 +136,7 @@
       <rdfs:label>Al Farwānīyah</rdfs:label>
       <skos:definition>The governorate of Al Farwānīyah in the country of Kuwait</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Kuwait"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Al Farwānīyah</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Al Farwānīyah</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-kw;Governorate"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-kw;"/>
    </owl:NamedIndividual>
@@ -166,7 +166,7 @@
       <rdfs:label>Ḩawallī</rdfs:label>
       <skos:definition>The governorate of Ḩawallī in the country of Kuwait</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Kuwait"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Ḩawallī</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Ḩawallī</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-kw;Governorate"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-kw;"/>
    </owl:NamedIndividual>
@@ -196,7 +196,7 @@
       <rdfs:label>Al ‘Āşimah</rdfs:label>
       <skos:definition>The governorate of Al ‘Āşimah in the country of Kuwait</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Kuwait"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Al ‘Āşimah</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Al ‘Āşimah</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-kw;Governorate"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-kw;"/>
    </owl:NamedIndividual>
@@ -226,7 +226,7 @@
       <rdfs:label>Mubārak al Kabīr</rdfs:label>
       <skos:definition>The governorate of Mubārak al Kabīr in the country of Kuwait</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Kuwait"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Mubārak al Kabīr</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Mubārak al Kabīr</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-kw;Governorate"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-kw;"/>
    </owl:NamedIndividual>
@@ -256,7 +256,7 @@
       <rdfs:label>Al Aḩmadī</rdfs:label>
       <skos:definition>The governorate of Al Aḩmadī in the country of Kuwait</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Kuwait"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Al Aḩmadī</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Al Aḩmadī</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-kw;Governorate"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-kw;"/>
    </owl:NamedIndividual>

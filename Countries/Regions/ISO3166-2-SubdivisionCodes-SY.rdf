@@ -106,7 +106,7 @@
       <rdfs:label>Dimashq</rdfs:label>
       <skos:definition>The province of Dimashq in the country of Syrian Arab Republic</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;SyrianArabRepublic"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Dimashq</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Dimashq</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-sy;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-sy;"/>
    </owl:NamedIndividual>
@@ -136,7 +136,7 @@
       <rdfs:label>Idlib</rdfs:label>
       <skos:definition>The province of Idlib in the country of Syrian Arab Republic</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;SyrianArabRepublic"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Idlib</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Idlib</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-sy;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-sy;"/>
    </owl:NamedIndividual>
@@ -166,7 +166,7 @@
       <rdfs:label>Dayr az Zawr</rdfs:label>
       <skos:definition>The province of Dayr az Zawr in the country of Syrian Arab Republic</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;SyrianArabRepublic"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Dayr az Zawr</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Dayr az Zawr</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-sy;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-sy;"/>
    </owl:NamedIndividual>
@@ -196,7 +196,7 @@
       <rdfs:label>Al Lādhiqīyah</rdfs:label>
       <skos:definition>The province of Al Lādhiqīyah in the country of Syrian Arab Republic</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;SyrianArabRepublic"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Al Lādhiqīyah</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Al Lādhiqīyah</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-sy;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-sy;"/>
    </owl:NamedIndividual>
@@ -226,7 +226,7 @@
       <rdfs:label>Ar Raqqah</rdfs:label>
       <skos:definition>The province of Ar Raqqah in the country of Syrian Arab Republic</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;SyrianArabRepublic"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Ar Raqqah</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Ar Raqqah</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-sy;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-sy;"/>
    </owl:NamedIndividual>
@@ -256,7 +256,7 @@
       <rdfs:label>Al Qunayţirah</rdfs:label>
       <skos:definition>The province of Al Qunayţirah in the country of Syrian Arab Republic</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;SyrianArabRepublic"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Al Qunayţirah</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Al Qunayţirah</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-sy;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-sy;"/>
    </owl:NamedIndividual>
@@ -286,7 +286,7 @@
       <rdfs:label>As Suwaydā'</rdfs:label>
       <skos:definition>The province of As Suwaydā' in the country of Syrian Arab Republic</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;SyrianArabRepublic"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">As Suwaydā'</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">As Suwaydā'</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-sy;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-sy;"/>
    </owl:NamedIndividual>
@@ -316,7 +316,7 @@
       <rdfs:label>Dar'ā</rdfs:label>
       <skos:definition>The province of Dar'ā in the country of Syrian Arab Republic</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;SyrianArabRepublic"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Dar'ā</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Dar'ā</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-sy;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-sy;"/>
    </owl:NamedIndividual>
@@ -346,7 +346,7 @@
       <rdfs:label>Ḩimş</rdfs:label>
       <skos:definition>The province of Ḩimş in the country of Syrian Arab Republic</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;SyrianArabRepublic"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Ḩimş</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Ḩimş</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-sy;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-sy;"/>
    </owl:NamedIndividual>
@@ -376,7 +376,7 @@
       <rdfs:label>Rīf Dimashq</rdfs:label>
       <skos:definition>The province of Rīf Dimashq in the country of Syrian Arab Republic</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;SyrianArabRepublic"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Rīf Dimashq</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Rīf Dimashq</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-sy;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-sy;"/>
    </owl:NamedIndividual>
@@ -406,7 +406,7 @@
       <rdfs:label>Ţarţūs</rdfs:label>
       <skos:definition>The province of Ţarţūs in the country of Syrian Arab Republic</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;SyrianArabRepublic"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Ţarţūs</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Ţarţūs</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-sy;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-sy;"/>
    </owl:NamedIndividual>
@@ -436,7 +436,7 @@
       <rdfs:label>Al Ḩasakah</rdfs:label>
       <skos:definition>The province of Al Ḩasakah in the country of Syrian Arab Republic</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;SyrianArabRepublic"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Al Ḩasakah</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Al Ḩasakah</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-sy;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-sy;"/>
    </owl:NamedIndividual>
@@ -466,7 +466,7 @@
       <rdfs:label>Ḩalab</rdfs:label>
       <skos:definition>The province of Ḩalab in the country of Syrian Arab Republic</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;SyrianArabRepublic"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Ḩalab</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Ḩalab</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-sy;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-sy;"/>
    </owl:NamedIndividual>
@@ -496,7 +496,7 @@
       <rdfs:label>Ḩamāh</rdfs:label>
       <skos:definition>The province of Ḩamāh in the country of Syrian Arab Republic</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;SyrianArabRepublic"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Ḩamāh</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Ḩamāh</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-sy;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-sy;"/>
    </owl:NamedIndividual>

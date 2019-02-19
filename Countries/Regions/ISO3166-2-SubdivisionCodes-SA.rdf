@@ -106,7 +106,7 @@
       <rdfs:label>Al Bāḩah</rdfs:label>
       <skos:definition>The region of Al Bāḩah in the country of Saudi Arabia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;SaudiArabia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Al Bāḩah</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Al Bāḩah</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-sa;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-sa;"/>
    </owl:NamedIndividual>
@@ -136,7 +136,7 @@
       <rdfs:label>Al Jawf</rdfs:label>
       <skos:definition>The region of Al Jawf in the country of Saudi Arabia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;SaudiArabia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Al Jawf</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Al Jawf</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-sa;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-sa;"/>
    </owl:NamedIndividual>
@@ -166,7 +166,7 @@
       <rdfs:label>'Asīr</rdfs:label>
       <skos:definition>The region of 'Asīr in the country of Saudi Arabia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;SaudiArabia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">'Asīr</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">'Asīr</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-sa;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-sa;"/>
    </owl:NamedIndividual>
@@ -196,7 +196,7 @@
       <rdfs:label>Al Ḩudūd ash Shamālīyah</rdfs:label>
       <skos:definition>The region of Al Ḩudūd ash Shamālīyah in the country of Saudi Arabia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;SaudiArabia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Al Ḩudūd ash Shamālīyah</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Al Ḩudūd ash Shamālīyah</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-sa;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-sa;"/>
    </owl:NamedIndividual>
@@ -226,7 +226,7 @@
       <rdfs:label>Al Madīnah al Munawwarah</rdfs:label>
       <skos:definition>The region of Al Madīnah al Munawwarah in the country of Saudi Arabia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;SaudiArabia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Al Madīnah al Munawwarah</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Al Madīnah al Munawwarah</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-sa;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-sa;"/>
    </owl:NamedIndividual>
@@ -256,7 +256,7 @@
       <rdfs:label>Ash Sharqīyah</rdfs:label>
       <skos:definition>The region of Ash Sharqīyah in the country of Saudi Arabia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;SaudiArabia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Ash Sharqīyah</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Ash Sharqīyah</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-sa;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-sa;"/>
    </owl:NamedIndividual>
@@ -286,7 +286,7 @@
       <rdfs:label>Najrān</rdfs:label>
       <skos:definition>The region of Najrān in the country of Saudi Arabia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;SaudiArabia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Najrān</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Najrān</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-sa;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-sa;"/>
    </owl:NamedIndividual>
@@ -316,7 +316,7 @@
       <rdfs:label>Makkah al Mukarramah</rdfs:label>
       <skos:definition>The region of Makkah al Mukarramah in the country of Saudi Arabia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;SaudiArabia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Makkah al Mukarramah</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Makkah al Mukarramah</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-sa;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-sa;"/>
    </owl:NamedIndividual>
@@ -346,7 +346,7 @@
       <rdfs:label>Tabūk</rdfs:label>
       <skos:definition>The region of Tabūk in the country of Saudi Arabia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;SaudiArabia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Tabūk</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Tabūk</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-sa;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-sa;"/>
    </owl:NamedIndividual>
@@ -376,7 +376,7 @@
       <rdfs:label>Ar Riyāḑ</rdfs:label>
       <skos:definition>The region of Ar Riyāḑ in the country of Saudi Arabia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;SaudiArabia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Ar Riyāḑ</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Ar Riyāḑ</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-sa;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-sa;"/>
    </owl:NamedIndividual>
@@ -406,7 +406,7 @@
       <rdfs:label>Al Qaşīm</rdfs:label>
       <skos:definition>The region of Al Qaşīm in the country of Saudi Arabia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;SaudiArabia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Al Qaşīm</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Al Qaşīm</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-sa;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-sa;"/>
    </owl:NamedIndividual>
@@ -436,7 +436,7 @@
       <rdfs:label>Ḩā'il</rdfs:label>
       <skos:definition>The region of Ḩā'il in the country of Saudi Arabia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;SaudiArabia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Ḩā'il</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Ḩā'il</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-sa;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-sa;"/>
    </owl:NamedIndividual>
@@ -466,7 +466,7 @@
       <rdfs:label>Jāzān</rdfs:label>
       <skos:definition>The region of Jāzān in the country of Saudi Arabia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;SaudiArabia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Jāzān</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Jāzān</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-sa;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-sa;"/>
    </owl:NamedIndividual>

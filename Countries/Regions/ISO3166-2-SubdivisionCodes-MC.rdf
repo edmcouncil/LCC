@@ -106,7 +106,7 @@
       <rdfs:label>Monaco-Ville</rdfs:label>
       <skos:definition>The quarter of Monaco-Ville in the country of Monaco</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Monaco"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Monaco-Ville</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Monaco-Ville</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mc;Quarter"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mc;"/>
    </owl:NamedIndividual>
@@ -136,7 +136,7 @@
       <rdfs:label>Port-Hercule</rdfs:label>
       <skos:definition>The quarter of Port-Hercule in the country of Monaco</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Monaco"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Port-Hercule</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Port-Hercule</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mc;Quarter"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mc;"/>
    </owl:NamedIndividual>
@@ -166,7 +166,7 @@
       <rdfs:label>Saint-Roman</rdfs:label>
       <skos:definition>The quarter of Saint-Roman in the country of Monaco</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Monaco"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Saint-Roman</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Saint-Roman</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mc;Quarter"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mc;"/>
    </owl:NamedIndividual>
@@ -196,7 +196,7 @@
       <rdfs:label>Vallon de la Rousse</rdfs:label>
       <skos:definition>The quarter of Vallon de la Rousse in the country of Monaco</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Monaco"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Vallon de la Rousse</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Vallon de la Rousse</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mc;Quarter"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mc;"/>
    </owl:NamedIndividual>
@@ -226,7 +226,7 @@
       <rdfs:label>La Colle</rdfs:label>
       <skos:definition>The quarter of La Colle in the country of Monaco</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Monaco"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">La Colle</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">La Colle</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mc;Quarter"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mc;"/>
    </owl:NamedIndividual>
@@ -256,7 +256,7 @@
       <rdfs:label>La Gare</rdfs:label>
       <skos:definition>The quarter of La Gare in the country of Monaco</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Monaco"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">La Gare</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">La Gare</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mc;Quarter"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mc;"/>
    </owl:NamedIndividual>
@@ -286,7 +286,7 @@
       <rdfs:label>Jardin Exotique</rdfs:label>
       <skos:definition>The quarter of Jardin Exotique in the country of Monaco</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Monaco"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Jardin Exotique</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Jardin Exotique</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mc;Quarter"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mc;"/>
    </owl:NamedIndividual>
@@ -316,7 +316,7 @@
       <rdfs:label>Malbousquet</rdfs:label>
       <skos:definition>The quarter of Malbousquet in the country of Monaco</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Monaco"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Malbousquet</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Malbousquet</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mc;Quarter"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mc;"/>
    </owl:NamedIndividual>
@@ -346,7 +346,7 @@
       <rdfs:label>Spélugues</rdfs:label>
       <skos:definition>The quarter of Spélugues in the country of Monaco</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Monaco"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Spélugues</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Spélugues</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mc;Quarter"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mc;"/>
    </owl:NamedIndividual>
@@ -376,7 +376,7 @@
       <rdfs:label>Monte-Carlo</rdfs:label>
       <skos:definition>The quarter of Monte-Carlo in the country of Monaco</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Monaco"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Monte-Carlo</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Monte-Carlo</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mc;Quarter"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mc;"/>
    </owl:NamedIndividual>
@@ -406,7 +406,7 @@
       <rdfs:label>Moneghetti</rdfs:label>
       <skos:definition>The quarter of Moneghetti in the country of Monaco</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Monaco"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Moneghetti</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Moneghetti</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mc;Quarter"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mc;"/>
    </owl:NamedIndividual>
@@ -436,7 +436,7 @@
       <rdfs:label>Larvotto</rdfs:label>
       <skos:definition>The quarter of Larvotto in the country of Monaco</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Monaco"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Larvotto</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Larvotto</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mc;Quarter"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mc;"/>
    </owl:NamedIndividual>
@@ -466,7 +466,7 @@
       <rdfs:label>Sainte-Dévote</rdfs:label>
       <skos:definition>The quarter of Sainte-Dévote in the country of Monaco</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Monaco"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Sainte-Dévote</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Sainte-Dévote</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mc;Quarter"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mc;"/>
    </owl:NamedIndividual>
@@ -496,7 +496,7 @@
       <rdfs:label>La Source</rdfs:label>
       <skos:definition>The quarter of La Source in the country of Monaco</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Monaco"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">La Source</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">La Source</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mc;Quarter"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mc;"/>
    </owl:NamedIndividual>
@@ -526,7 +526,7 @@
       <rdfs:label>La Condamine</rdfs:label>
       <skos:definition>The quarter of La Condamine in the country of Monaco</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Monaco"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">La Condamine</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">La Condamine</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mc;Quarter"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mc;"/>
    </owl:NamedIndividual>
@@ -556,7 +556,7 @@
       <rdfs:label>Fontvieille</rdfs:label>
       <skos:definition>The quarter of Fontvieille in the country of Monaco</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Monaco"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Fontvieille</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Fontvieille</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mc;Quarter"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mc;"/>
    </owl:NamedIndividual>
@@ -586,7 +586,7 @@
       <rdfs:label>Moulins</rdfs:label>
       <skos:definition>The quarter of Moulins in the country of Monaco</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Monaco"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Moulins</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Moulins</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mc;Quarter"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mc;"/>
    </owl:NamedIndividual>

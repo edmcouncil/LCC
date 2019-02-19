@@ -106,7 +106,7 @@
       <rdfs:label>Bled</rdfs:label>
       <skos:definition>The municipality of Bled in the country of Slovenia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Slovenia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sl">Bled</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sl">Bled</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-si;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
    </owl:NamedIndividual>
@@ -136,7 +136,7 @@
       <rdfs:label>Borovnica</rdfs:label>
       <skos:definition>The municipality of Borovnica in the country of Slovenia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Slovenia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sl">Borovnica</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sl">Borovnica</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-si;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
    </owl:NamedIndividual>
@@ -166,7 +166,7 @@
       <rdfs:label>Brezovica</rdfs:label>
       <skos:definition>The municipality of Brezovica in the country of Slovenia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Slovenia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sl">Brezovica</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sl">Brezovica</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-si;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
    </owl:NamedIndividual>
@@ -196,7 +196,7 @@
       <rdfs:label>Destrnik</rdfs:label>
       <skos:definition>The municipality of Destrnik in the country of Slovenia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Slovenia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sl">Destrnik</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sl">Destrnik</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-si;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
    </owl:NamedIndividual>
@@ -226,7 +226,7 @@
       <rdfs:label>Dornava</rdfs:label>
       <skos:definition>The municipality of Dornava in the country of Slovenia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Slovenia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sl">Dornava</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sl">Dornava</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-si;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
    </owl:NamedIndividual>
@@ -256,7 +256,7 @@
       <rdfs:label>Šalovci</rdfs:label>
       <skos:definition>The municipality of Šalovci in the country of Slovenia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Slovenia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sl">Šalovci</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sl">Šalovci</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-si;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
    </owl:NamedIndividual>
@@ -286,7 +286,7 @@
       <rdfs:label>Ig</rdfs:label>
       <skos:definition>The municipality of Ig in the country of Slovenia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Slovenia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sl">Ig</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sl">Ig</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-si;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
    </owl:NamedIndividual>
@@ -316,7 +316,7 @@
       <rdfs:label>Juršinci</rdfs:label>
       <skos:definition>The municipality of Juršinci in the country of Slovenia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Slovenia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sl">Juršinci</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sl">Juršinci</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-si;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
    </owl:NamedIndividual>
@@ -346,7 +346,7 @@
       <rdfs:label>Kanal</rdfs:label>
       <skos:definition>The municipality of Kanal in the country of Slovenia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Slovenia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sl">Kanal</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sl">Kanal</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-si;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
    </owl:NamedIndividual>
@@ -376,7 +376,7 @@
       <rdfs:label>Laško</rdfs:label>
       <skos:definition>The municipality of Laško in the country of Slovenia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Slovenia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sl">Laško</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sl">Laško</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-si;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
    </owl:NamedIndividual>
@@ -406,7 +406,7 @@
       <rdfs:label>Maribor</rdfs:label>
       <skos:definition>The municipality of Maribor in the country of Slovenia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Slovenia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sl">Maribor</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sl">Maribor</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-si;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
    </owl:NamedIndividual>
@@ -436,7 +436,7 @@
       <rdfs:label>Miren-Kostanjevica</rdfs:label>
       <skos:definition>The municipality of Miren-Kostanjevica in the country of Slovenia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Slovenia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sl">Miren-Kostanjevica</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sl">Miren-Kostanjevica</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-si;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
    </owl:NamedIndividual>
@@ -466,7 +466,7 @@
       <rdfs:label>Muta</rdfs:label>
       <skos:definition>The municipality of Muta in the country of Slovenia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Slovenia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sl">Muta</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sl">Muta</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-si;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
    </owl:NamedIndividual>
@@ -496,7 +496,7 @@
       <rdfs:label>Postojna</rdfs:label>
       <skos:definition>The municipality of Postojna in the country of Slovenia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Slovenia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sl">Postojna</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sl">Postojna</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-si;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
    </owl:NamedIndividual>
@@ -526,7 +526,7 @@
       <rdfs:label>Preddvor</rdfs:label>
       <skos:definition>The municipality of Preddvor in the country of Slovenia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Slovenia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sl">Preddvor</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sl">Preddvor</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-si;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
    </owl:NamedIndividual>
@@ -556,7 +556,7 @@
       <rdfs:label>Sežana</rdfs:label>
       <skos:definition>The municipality of Sežana in the country of Slovenia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Slovenia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sl">Sežana</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sl">Sežana</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-si;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
    </owl:NamedIndividual>
@@ -586,7 +586,7 @@
       <rdfs:label>Slovenska Bistrica</rdfs:label>
       <skos:definition>The municipality of Slovenska Bistrica in the country of Slovenia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Slovenia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sl">Slovenska Bistrica</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sl">Slovenska Bistrica</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-si;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
    </owl:NamedIndividual>
@@ -616,7 +616,7 @@
       <rdfs:label>Slovenske Konjice</rdfs:label>
       <skos:definition>The municipality of Slovenske Konjice in the country of Slovenia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Slovenia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sl">Slovenske Konjice</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sl">Slovenske Konjice</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-si;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
    </owl:NamedIndividual>
@@ -646,7 +646,7 @@
       <rdfs:label>Velike Lašče</rdfs:label>
       <skos:definition>The municipality of Velike Lašče in the country of Slovenia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Slovenia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sl">Velike Lašče</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sl">Velike Lašče</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-si;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
    </owl:NamedIndividual>
@@ -676,7 +676,7 @@
       <rdfs:label>Zavrč</rdfs:label>
       <skos:definition>The municipality of Zavrč in the country of Slovenia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Slovenia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sl">Zavrč</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sl">Zavrč</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-si;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
    </owl:NamedIndividual>
@@ -706,7 +706,7 @@
       <rdfs:label>Žiri</rdfs:label>
       <skos:definition>The municipality of Žiri in the country of Slovenia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Slovenia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sl">Žiri</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sl">Žiri</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-si;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
    </owl:NamedIndividual>
@@ -736,7 +736,7 @@
       <rdfs:label>Braslovče</rdfs:label>
       <skos:definition>The municipality of Braslovče in the country of Slovenia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Slovenia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sl">Braslovče</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sl">Braslovče</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-si;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
    </owl:NamedIndividual>
@@ -766,7 +766,7 @@
       <rdfs:label>Hoče-Slivnica</rdfs:label>
       <skos:definition>The municipality of Hoče-Slivnica in the country of Slovenia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Slovenia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sl">Hoče-Slivnica</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sl">Hoče-Slivnica</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-si;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
    </owl:NamedIndividual>
@@ -796,7 +796,7 @@
       <rdfs:label>Markovci</rdfs:label>
       <skos:definition>The municipality of Markovci in the country of Slovenia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Slovenia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sl">Markovci</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sl">Markovci</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-si;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
    </owl:NamedIndividual>
@@ -826,7 +826,7 @@
       <rdfs:label>Prevalje</rdfs:label>
       <skos:definition>The municipality of Prevalje in the country of Slovenia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Slovenia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sl">Prevalje</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sl">Prevalje</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-si;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
    </owl:NamedIndividual>
@@ -856,7 +856,7 @@
       <rdfs:label>Velika Polana</rdfs:label>
       <skos:definition>The municipality of Velika Polana in the country of Slovenia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Slovenia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sl">Velika Polana</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sl">Velika Polana</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-si;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
    </owl:NamedIndividual>
@@ -886,7 +886,7 @@
       <rdfs:label>Apače</rdfs:label>
       <skos:definition>The municipality of Apače in the country of Slovenia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Slovenia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sl">Apače</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sl">Apače</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-si;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
    </owl:NamedIndividual>
@@ -916,7 +916,7 @@
       <rdfs:label>Sveti Jurij v Slovenskih Goricah</rdfs:label>
       <skos:definition>The municipality of Sveti Jurij v Slovenskih Goricah in the country of Slovenia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Slovenia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sl">Sveti Jurij v Slovenskih Goricah</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sl">Sveti Jurij v Slovenskih Goricah</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-si;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
    </owl:NamedIndividual>
@@ -946,7 +946,7 @@
       <rdfs:label>Ankaran</rdfs:label>
       <skos:definition>The municipality of Ankaran in the country of Slovenia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Slovenia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sl">Ankaran</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sl">Ankaran</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-si;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
    </owl:NamedIndividual>
@@ -976,7 +976,7 @@
       <rdfs:label>Idrija</rdfs:label>
       <skos:definition>The municipality of Idrija in the country of Slovenia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Slovenia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sl">Idrija</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sl">Idrija</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-si;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
    </owl:NamedIndividual>
@@ -1006,7 +1006,7 @@
       <rdfs:label>Kobilje</rdfs:label>
       <skos:definition>The municipality of Kobilje in the country of Slovenia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Slovenia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sl">Kobilje</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sl">Kobilje</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-si;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
    </owl:NamedIndividual>
@@ -1036,7 +1036,7 @@
       <rdfs:label>Ljubljana</rdfs:label>
       <skos:definition>The municipality of Ljubljana in the country of Slovenia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Slovenia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sl">Ljubljana</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sl">Ljubljana</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-si;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
    </owl:NamedIndividual>
@@ -1066,7 +1066,7 @@
       <rdfs:label>Odranci</rdfs:label>
       <skos:definition>The municipality of Odranci in the country of Slovenia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Slovenia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sl">Odranci</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sl">Odranci</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-si;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
    </owl:NamedIndividual>
@@ -1096,7 +1096,7 @@
       <rdfs:label>Podčetrtek</rdfs:label>
       <skos:definition>The municipality of Podčetrtek in the country of Slovenia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Slovenia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sl">Podčetrtek</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sl">Podčetrtek</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-si;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
    </owl:NamedIndividual>
@@ -1126,7 +1126,7 @@
       <rdfs:label>Podvelka</rdfs:label>
       <skos:definition>The municipality of Podvelka in the country of Slovenia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Slovenia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sl">Podvelka</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sl">Podvelka</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-si;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
    </owl:NamedIndividual>
@@ -1156,7 +1156,7 @@
       <rdfs:label>Radovljica</rdfs:label>
       <skos:definition>The municipality of Radovljica in the country of Slovenia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Slovenia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sl">Radovljica</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sl">Radovljica</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-si;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
    </owl:NamedIndividual>
@@ -1186,7 +1186,7 @@
       <rdfs:label>Rogatec</rdfs:label>
       <skos:definition>The municipality of Rogatec in the country of Slovenia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Slovenia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sl">Rogatec</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sl">Rogatec</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-si;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
    </owl:NamedIndividual>
@@ -1216,7 +1216,7 @@
       <rdfs:label>Trbovlje</rdfs:label>
       <skos:definition>The municipality of Trbovlje in the country of Slovenia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Slovenia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sl">Trbovlje</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sl">Trbovlje</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-si;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
    </owl:NamedIndividual>
@@ -1246,7 +1246,7 @@
       <rdfs:label>Vitanje</rdfs:label>
       <skos:definition>The municipality of Vitanje in the country of Slovenia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Slovenia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sl">Vitanje</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sl">Vitanje</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-si;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
    </owl:NamedIndividual>
@@ -1276,7 +1276,7 @@
       <rdfs:label>Bistrica ob Sotli</rdfs:label>
       <skos:definition>The municipality of Bistrica ob Sotli in the country of Slovenia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Slovenia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sl">Bistrica ob Sotli</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sl">Bistrica ob Sotli</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-si;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
    </owl:NamedIndividual>
@@ -1306,7 +1306,7 @@
       <rdfs:label>Bloke</rdfs:label>
       <skos:definition>The municipality of Bloke in the country of Slovenia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Slovenia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sl">Bloke</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sl">Bloke</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-si;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
    </owl:NamedIndividual>
@@ -1336,7 +1336,7 @@
       <rdfs:label>Cankova</rdfs:label>
       <skos:definition>The municipality of Cankova in the country of Slovenia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Slovenia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sl">Cankova</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sl">Cankova</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-si;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
    </owl:NamedIndividual>
@@ -1366,7 +1366,7 @@
       <rdfs:label>Dobje</rdfs:label>
       <skos:definition>The municipality of Dobje in the country of Slovenia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Slovenia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sl">Dobje</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sl">Dobje</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-si;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
    </owl:NamedIndividual>
@@ -1396,7 +1396,7 @@
       <rdfs:label>Jezersko</rdfs:label>
       <skos:definition>The municipality of Jezersko in the country of Slovenia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Slovenia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sl">Jezersko</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sl">Jezersko</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-si;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
    </owl:NamedIndividual>
@@ -1426,7 +1426,7 @@
       <rdfs:label>Podlehnik</rdfs:label>
       <skos:definition>The municipality of Podlehnik in the country of Slovenia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Slovenia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sl">Podlehnik</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sl">Podlehnik</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-si;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
    </owl:NamedIndividual>
@@ -1456,7 +1456,7 @@
       <rdfs:label>Selnica ob Dravi</rdfs:label>
       <skos:definition>The municipality of Selnica ob Dravi in the country of Slovenia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Slovenia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sl">Selnica ob Dravi</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sl">Selnica ob Dravi</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-si;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
    </owl:NamedIndividual>
@@ -1486,7 +1486,7 @@
       <rdfs:label>Renče-Vogrsko</rdfs:label>
       <skos:definition>The municipality of Renče-Vogrsko in the country of Slovenia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Slovenia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sl">Renče-Vogrsko</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sl">Renče-Vogrsko</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-si;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
    </owl:NamedIndividual>
@@ -1516,7 +1516,7 @@
       <rdfs:label>Ajdovščina</rdfs:label>
       <skos:definition>The municipality of Ajdovščina in the country of Slovenia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Slovenia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sl">Ajdovščina</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sl">Ajdovščina</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-si;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
    </owl:NamedIndividual>
@@ -1546,7 +1546,7 @@
       <rdfs:label>Divača</rdfs:label>
       <skos:definition>The municipality of Divača in the country of Slovenia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Slovenia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sl">Divača</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sl">Divača</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-si;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
    </owl:NamedIndividual>
@@ -1576,7 +1576,7 @@
       <rdfs:label>Dravograd</rdfs:label>
       <skos:definition>The municipality of Dravograd in the country of Slovenia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Slovenia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sl">Dravograd</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sl">Dravograd</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-si;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
    </owl:NamedIndividual>
@@ -1606,7 +1606,7 @@
       <rdfs:label>Gorenja vas-Poljane</rdfs:label>
       <skos:definition>The municipality of Gorenja vas-Poljane in the country of Slovenia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Slovenia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sl">Gorenja vas-Poljane</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sl">Gorenja vas-Poljane</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-si;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
    </owl:NamedIndividual>
@@ -1636,7 +1636,7 @@
       <rdfs:label>Grosuplje</rdfs:label>
       <skos:definition>The municipality of Grosuplje in the country of Slovenia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Slovenia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sl">Grosuplje</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sl">Grosuplje</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-si;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
    </owl:NamedIndividual>
@@ -1666,7 +1666,7 @@
       <rdfs:label>Hrastnik</rdfs:label>
       <skos:definition>The municipality of Hrastnik in the country of Slovenia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Slovenia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sl">Hrastnik</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sl">Hrastnik</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-si;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
    </owl:NamedIndividual>
@@ -1696,7 +1696,7 @@
       <rdfs:label>Ivančna Gorica</rdfs:label>
       <skos:definition>The municipality of Ivančna Gorica in the country of Slovenia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Slovenia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sl">Ivančna Gorica</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sl">Ivančna Gorica</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-si;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
    </owl:NamedIndividual>
@@ -1726,7 +1726,7 @@
       <rdfs:label>Izola</rdfs:label>
       <skos:definition>The municipality of Izola in the country of Slovenia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Slovenia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sl">Izola</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sl">Izola</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-si;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
    </owl:NamedIndividual>
@@ -1756,7 +1756,7 @@
       <rdfs:label>Kranjska Gora</rdfs:label>
       <skos:definition>The municipality of Kranjska Gora in the country of Slovenia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Slovenia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sl">Kranjska Gora</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sl">Kranjska Gora</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-si;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
    </owl:NamedIndividual>
@@ -1786,7 +1786,7 @@
       <rdfs:label>Lenart</rdfs:label>
       <skos:definition>The municipality of Lenart in the country of Slovenia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Slovenia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sl">Lenart</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sl">Lenart</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-si;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
    </owl:NamedIndividual>
@@ -1816,7 +1816,7 @@
       <rdfs:label>Litija</rdfs:label>
       <skos:definition>The municipality of Litija in the country of Slovenia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Slovenia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sl">Litija</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sl">Litija</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-si;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
    </owl:NamedIndividual>
@@ -1846,7 +1846,7 @@
       <rdfs:label>Nova Gorica</rdfs:label>
       <skos:definition>The municipality of Nova Gorica in the country of Slovenia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Slovenia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sl">Nova Gorica</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sl">Nova Gorica</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-si;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
    </owl:NamedIndividual>
@@ -1876,7 +1876,7 @@
       <rdfs:label>Pivka</rdfs:label>
       <skos:definition>The municipality of Pivka in the country of Slovenia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Slovenia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sl">Pivka</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sl">Pivka</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-si;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
    </owl:NamedIndividual>
@@ -1906,7 +1906,7 @@
       <rdfs:label>Radeče</rdfs:label>
       <skos:definition>The municipality of Radeče in the country of Slovenia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Slovenia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sl">Radeče</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sl">Radeče</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-si;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
    </owl:NamedIndividual>
@@ -1936,7 +1936,7 @@
       <rdfs:label>Ribnica</rdfs:label>
       <skos:definition>The municipality of Ribnica in the country of Slovenia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Slovenia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sl">Ribnica</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sl">Ribnica</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-si;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
    </owl:NamedIndividual>
@@ -1966,7 +1966,7 @@
       <rdfs:label>Škocjan</rdfs:label>
       <skos:definition>The municipality of Škocjan in the country of Slovenia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Slovenia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sl">Škocjan</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sl">Škocjan</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-si;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
    </owl:NamedIndividual>
@@ -1996,7 +1996,7 @@
       <rdfs:label>Videm</rdfs:label>
       <skos:definition>The municipality of Videm in the country of Slovenia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Slovenia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sl">Videm</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sl">Videm</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-si;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
    </owl:NamedIndividual>
@@ -2026,7 +2026,7 @@
       <rdfs:label>Dolenjske Toplice</rdfs:label>
       <skos:definition>The municipality of Dolenjske Toplice in the country of Slovenia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Slovenia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sl">Dolenjske Toplice</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sl">Dolenjske Toplice</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-si;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
    </owl:NamedIndividual>
@@ -2056,7 +2056,7 @@
       <rdfs:label>Mirna Peč</rdfs:label>
       <skos:definition>The municipality of Mirna Peč in the country of Slovenia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Slovenia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sl">Mirna Peč</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sl">Mirna Peč</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-si;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
    </owl:NamedIndividual>
@@ -2086,7 +2086,7 @@
       <rdfs:label>Oplotnica</rdfs:label>
       <skos:definition>The municipality of Oplotnica in the country of Slovenia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Slovenia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sl">Oplotnica</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sl">Oplotnica</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-si;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
    </owl:NamedIndividual>
@@ -2116,7 +2116,7 @@
       <rdfs:label>Ribnica na Pohorju</rdfs:label>
       <skos:definition>The municipality of Ribnica na Pohorju in the country of Slovenia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Slovenia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sl">Ribnica na Pohorju</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sl">Ribnica na Pohorju</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-si;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
    </owl:NamedIndividual>
@@ -2146,7 +2146,7 @@
       <rdfs:label>Sodražica</rdfs:label>
       <skos:definition>The municipality of Sodražica in the country of Slovenia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Slovenia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sl">Sodražica</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sl">Sodražica</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-si;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
    </owl:NamedIndividual>
@@ -2176,7 +2176,7 @@
       <rdfs:label>Sveta Ana</rdfs:label>
       <skos:definition>The municipality of Sveta Ana in the country of Slovenia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Slovenia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sl">Sveta Ana</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sl">Sveta Ana</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-si;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
    </owl:NamedIndividual>
@@ -2206,7 +2206,7 @@
       <rdfs:label>Tabor</rdfs:label>
       <skos:definition>The municipality of Tabor in the country of Slovenia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Slovenia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sl">Tabor</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sl">Tabor</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-si;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
    </owl:NamedIndividual>
@@ -2236,7 +2236,7 @@
       <rdfs:label>Trzin</rdfs:label>
       <skos:definition>The municipality of Trzin in the country of Slovenia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Slovenia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sl">Trzin</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sl">Trzin</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-si;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
    </owl:NamedIndividual>
@@ -2266,7 +2266,7 @@
       <rdfs:label>Makole</rdfs:label>
       <skos:definition>The municipality of Makole in the country of Slovenia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Slovenia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sl">Makole</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sl">Makole</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-si;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
    </owl:NamedIndividual>
@@ -2296,7 +2296,7 @@
       <rdfs:label>Poljčane</rdfs:label>
       <skos:definition>The municipality of Poljčane in the country of Slovenia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Slovenia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sl">Poljčane</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sl">Poljčane</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-si;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
    </owl:NamedIndividual>
@@ -2326,7 +2326,7 @@
       <rdfs:label>Straža</rdfs:label>
       <skos:definition>The municipality of Straža in the country of Slovenia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Slovenia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sl">Straža</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sl">Straža</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-si;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
    </owl:NamedIndividual>
@@ -2356,7 +2356,7 @@
       <rdfs:label>Šentrupert</rdfs:label>
       <skos:definition>The municipality of Šentrupert in the country of Slovenia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Slovenia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sl">Šentrupert</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sl">Šentrupert</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-si;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
    </owl:NamedIndividual>
@@ -2386,7 +2386,7 @@
       <rdfs:label>Bohinj</rdfs:label>
       <skos:definition>The municipality of Bohinj in the country of Slovenia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Slovenia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sl">Bohinj</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sl">Bohinj</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-si;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
    </owl:NamedIndividual>
@@ -2416,7 +2416,7 @@
       <rdfs:label>Bovec</rdfs:label>
       <skos:definition>The municipality of Bovec in the country of Slovenia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Slovenia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sl">Bovec</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sl">Bovec</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-si;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
    </owl:NamedIndividual>
@@ -2446,7 +2446,7 @@
       <rdfs:label>Brežice</rdfs:label>
       <skos:definition>The municipality of Brežice in the country of Slovenia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Slovenia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sl">Brežice</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sl">Brežice</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-si;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
    </owl:NamedIndividual>
@@ -2476,7 +2476,7 @@
       <rdfs:label>Črenšovci</rdfs:label>
       <skos:definition>The municipality of Črenšovci in the country of Slovenia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Slovenia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sl">Črenšovci</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sl">Črenšovci</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-si;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
    </owl:NamedIndividual>
@@ -2506,7 +2506,7 @@
       <rdfs:label>Gornji Petrovci</rdfs:label>
       <skos:definition>The municipality of Gornji Petrovci in the country of Slovenia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Slovenia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sl">Gornji Petrovci</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sl">Gornji Petrovci</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-si;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
    </owl:NamedIndividual>
@@ -2536,7 +2536,7 @@
       <rdfs:label>Jesenice</rdfs:label>
       <skos:definition>The municipality of Jesenice in the country of Slovenia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Slovenia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sl">Jesenice</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sl">Jesenice</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-si;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
    </owl:NamedIndividual>
@@ -2566,7 +2566,7 @@
       <rdfs:label>Kobarid</rdfs:label>
       <skos:definition>The municipality of Kobarid in the country of Slovenia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Slovenia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sl">Kobarid</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sl">Kobarid</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-si;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
    </owl:NamedIndividual>
@@ -2596,7 +2596,7 @@
       <rdfs:label>Kočevje</rdfs:label>
       <skos:definition>The municipality of Kočevje in the country of Slovenia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Slovenia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sl">Kočevje</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sl">Kočevje</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-si;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
    </owl:NamedIndividual>
@@ -2626,7 +2626,7 @@
       <rdfs:label>Loški Potok</rdfs:label>
       <skos:definition>The municipality of Loški Potok in the country of Slovenia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Slovenia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sl">Loški Potok</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sl">Loški Potok</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-si;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
    </owl:NamedIndividual>
@@ -2656,7 +2656,7 @@
       <rdfs:label>Majšperk</rdfs:label>
       <skos:definition>The municipality of Majšperk in the country of Slovenia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Slovenia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sl">Majšperk</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sl">Majšperk</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-si;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
    </owl:NamedIndividual>
@@ -2686,7 +2686,7 @@
       <rdfs:label>Medvode</rdfs:label>
       <skos:definition>The municipality of Medvode in the country of Slovenia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Slovenia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sl">Medvode</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sl">Medvode</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-si;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
    </owl:NamedIndividual>
@@ -2716,7 +2716,7 @@
       <rdfs:label>Mengeš</rdfs:label>
       <skos:definition>The municipality of Mengeš in the country of Slovenia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Slovenia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sl">Mengeš</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sl">Mengeš</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-si;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
    </owl:NamedIndividual>
@@ -2746,7 +2746,7 @@
       <rdfs:label>Mislinja</rdfs:label>
       <skos:definition>The municipality of Mislinja in the country of Slovenia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Slovenia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sl">Mislinja</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sl">Mislinja</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-si;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
    </owl:NamedIndividual>
@@ -2776,7 +2776,7 @@
       <rdfs:label>Moravske Toplice</rdfs:label>
       <skos:definition>The municipality of Moravske Toplice in the country of Slovenia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Slovenia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sl">Moravske Toplice</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sl">Moravske Toplice</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-si;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
    </owl:NamedIndividual>
@@ -2806,7 +2806,7 @@
       <rdfs:label>Piran</rdfs:label>
       <skos:definition>The municipality of Piran in the country of Slovenia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Slovenia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sl">Piran</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sl">Piran</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-si;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
    </owl:NamedIndividual>
@@ -2836,7 +2836,7 @@
       <rdfs:label>Puconci</rdfs:label>
       <skos:definition>The municipality of Puconci in the country of Slovenia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Slovenia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sl">Puconci</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sl">Puconci</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-si;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
    </owl:NamedIndividual>
@@ -2866,7 +2866,7 @@
       <rdfs:label>Radenci</rdfs:label>
       <skos:definition>The municipality of Radenci in the country of Slovenia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Slovenia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sl">Radenci</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sl">Radenci</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-si;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
    </owl:NamedIndividual>
@@ -2896,7 +2896,7 @@
       <rdfs:label>Ravne na Koroškem</rdfs:label>
       <skos:definition>The municipality of Ravne na Koroškem in the country of Slovenia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Slovenia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sl">Ravne na Koroškem</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sl">Ravne na Koroškem</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-si;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
    </owl:NamedIndividual>
@@ -2926,7 +2926,7 @@
       <rdfs:label>Šentjur</rdfs:label>
       <skos:definition>The municipality of Šentjur in the country of Slovenia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Slovenia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sl">Šentjur</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sl">Šentjur</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-si;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
    </owl:NamedIndividual>
@@ -2956,7 +2956,7 @@
       <rdfs:label>Vipava</rdfs:label>
       <skos:definition>The municipality of Vipava in the country of Slovenia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Slovenia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sl">Vipava</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sl">Vipava</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-si;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
    </owl:NamedIndividual>
@@ -2986,7 +2986,7 @@
       <rdfs:label>Dobrovnik</rdfs:label>
       <skos:definition>The municipality of Dobrovnik in the country of Slovenia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Slovenia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sl">Dobrovnik</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sl">Dobrovnik</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-si;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
    </owl:NamedIndividual>
@@ -3016,7 +3016,7 @@
       <rdfs:label>Hodoš</rdfs:label>
       <skos:definition>The municipality of Hodoš in the country of Slovenia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Slovenia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sl">Hodoš</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sl">Hodoš</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-si;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
    </owl:NamedIndividual>
@@ -3046,7 +3046,7 @@
       <rdfs:label>Polzela</rdfs:label>
       <skos:definition>The municipality of Polzela in the country of Slovenia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Slovenia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sl">Polzela</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sl">Polzela</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-si;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
    </owl:NamedIndividual>
@@ -3076,7 +3076,7 @@
       <rdfs:label>Sveti Andraž v Slovenskih Goricah</rdfs:label>
       <skos:definition>The municipality of Sveti Andraž v Slovenskih Goricah in the country of Slovenia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Slovenia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sl">Sveti Andraž v Slovenskih Goricah</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sl">Sveti Andraž v Slovenskih Goricah</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-si;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
    </owl:NamedIndividual>
@@ -3106,7 +3106,7 @@
       <rdfs:label>Žalec</rdfs:label>
       <skos:definition>The municipality of Žalec in the country of Slovenia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Slovenia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sl">Žalec</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sl">Žalec</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-si;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
    </owl:NamedIndividual>
@@ -3136,7 +3136,7 @@
       <rdfs:label>Žirovnica</rdfs:label>
       <skos:definition>The municipality of Žirovnica in the country of Slovenia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Slovenia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sl">Žirovnica</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sl">Žirovnica</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-si;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
    </owl:NamedIndividual>
@@ -3166,7 +3166,7 @@
       <rdfs:label>Tišina</rdfs:label>
       <skos:definition>The municipality of Tišina in the country of Slovenia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Slovenia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sl">Tišina</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sl">Tišina</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-si;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
    </owl:NamedIndividual>
@@ -3196,7 +3196,7 @@
       <rdfs:label>Celje</rdfs:label>
       <skos:definition>The municipality of Celje in the country of Slovenia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Slovenia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sl">Celje</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sl">Celje</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-si;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
    </owl:NamedIndividual>
@@ -3226,7 +3226,7 @@
       <rdfs:label>Cerknica</rdfs:label>
       <skos:definition>The municipality of Cerknica in the country of Slovenia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Slovenia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sl">Cerknica</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sl">Cerknica</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-si;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
    </owl:NamedIndividual>
@@ -3256,7 +3256,7 @@
       <rdfs:label>Dobrepolje</rdfs:label>
       <skos:definition>The municipality of Dobrepolje in the country of Slovenia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Slovenia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sl">Dobrepolje</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sl">Dobrepolje</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-si;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
    </owl:NamedIndividual>
@@ -3286,7 +3286,7 @@
       <rdfs:label>Dobrova-Polhov Gradec</rdfs:label>
       <skos:definition>The municipality of Dobrova-Polhov Gradec in the country of Slovenia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Slovenia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sl">Dobrova-Polhov Gradec</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sl">Dobrova-Polhov Gradec</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-si;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
    </owl:NamedIndividual>
@@ -3316,7 +3316,7 @@
       <rdfs:label>Domžale</rdfs:label>
       <skos:definition>The municipality of Domžale in the country of Slovenia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Slovenia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sl">Domžale</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sl">Domžale</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-si;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
    </owl:NamedIndividual>
@@ -3346,7 +3346,7 @@
       <rdfs:label>Gornja Radgona</rdfs:label>
       <skos:definition>The municipality of Gornja Radgona in the country of Slovenia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Slovenia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sl">Gornja Radgona</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sl">Gornja Radgona</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-si;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
    </owl:NamedIndividual>
@@ -3376,7 +3376,7 @@
       <rdfs:label>Ilirska Bistrica</rdfs:label>
       <skos:definition>The municipality of Ilirska Bistrica in the country of Slovenia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Slovenia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sl">Ilirska Bistrica</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sl">Ilirska Bistrica</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-si;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
    </owl:NamedIndividual>
@@ -3406,7 +3406,7 @@
       <rdfs:label>Komen</rdfs:label>
       <skos:definition>The municipality of Komen in the country of Slovenia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Slovenia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sl">Komen</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sl">Komen</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-si;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
    </owl:NamedIndividual>
@@ -3436,7 +3436,7 @@
       <rdfs:label>Kranj</rdfs:label>
       <skos:definition>The municipality of Kranj in the country of Slovenia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Slovenia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sl">Kranj</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sl">Kranj</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-si;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
    </owl:NamedIndividual>
@@ -3466,7 +3466,7 @@
       <rdfs:label>Ljutomer</rdfs:label>
       <skos:definition>The municipality of Ljutomer in the country of Slovenia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Slovenia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sl">Ljutomer</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sl">Ljutomer</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-si;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
    </owl:NamedIndividual>
@@ -3496,7 +3496,7 @@
       <rdfs:label>Metlika</rdfs:label>
       <skos:definition>The municipality of Metlika in the country of Slovenia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Slovenia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sl">Metlika</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sl">Metlika</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-si;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
    </owl:NamedIndividual>
@@ -3526,7 +3526,7 @@
       <rdfs:label>Moravče</rdfs:label>
       <skos:definition>The municipality of Moravče in the country of Slovenia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Slovenia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sl">Moravče</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sl">Moravče</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-si;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
    </owl:NamedIndividual>
@@ -3556,7 +3556,7 @@
       <rdfs:label>Nazarje</rdfs:label>
       <skos:definition>The municipality of Nazarje in the country of Slovenia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Slovenia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sl">Nazarje</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sl">Nazarje</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-si;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
    </owl:NamedIndividual>
@@ -3586,7 +3586,7 @@
       <rdfs:label>Pesnica</rdfs:label>
       <skos:definition>The municipality of Pesnica in the country of Slovenia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Slovenia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sl">Pesnica</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sl">Pesnica</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-si;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
    </owl:NamedIndividual>
@@ -3616,7 +3616,7 @@
       <rdfs:label>Ptuj</rdfs:label>
       <skos:definition>The municipality of Ptuj in the country of Slovenia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Slovenia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sl">Ptuj</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sl">Ptuj</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-si;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
    </owl:NamedIndividual>
@@ -3646,7 +3646,7 @@
       <rdfs:label>Sevnica</rdfs:label>
       <skos:definition>The municipality of Sevnica in the country of Slovenia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Slovenia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sl">Sevnica</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sl">Sevnica</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-si;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
    </owl:NamedIndividual>
@@ -3676,7 +3676,7 @@
       <rdfs:label>Starše</rdfs:label>
       <skos:definition>The municipality of Starše in the country of Slovenia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Slovenia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sl">Starše</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sl">Starše</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-si;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
    </owl:NamedIndividual>
@@ -3706,7 +3706,7 @@
       <rdfs:label>Šentilj</rdfs:label>
       <skos:definition>The municipality of Šentilj in the country of Slovenia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Slovenia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sl">Šentilj</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sl">Šentilj</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-si;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
    </owl:NamedIndividual>
@@ -3736,7 +3736,7 @@
       <rdfs:label>Škofljica</rdfs:label>
       <skos:definition>The municipality of Škofljica in the country of Slovenia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Slovenia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sl">Škofljica</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sl">Škofljica</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-si;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
    </owl:NamedIndividual>
@@ -3766,7 +3766,7 @@
       <rdfs:label>Šmarje pri Jelšah</rdfs:label>
       <skos:definition>The municipality of Šmarje pri Jelšah in the country of Slovenia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Slovenia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sl">Šmarje pri Jelšah</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sl">Šmarje pri Jelšah</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-si;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
    </owl:NamedIndividual>
@@ -3796,7 +3796,7 @@
       <rdfs:label>Trebnje</rdfs:label>
       <skos:definition>The municipality of Trebnje in the country of Slovenia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Slovenia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sl">Trebnje</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sl">Trebnje</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-si;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
    </owl:NamedIndividual>
@@ -3826,7 +3826,7 @@
       <rdfs:label>Tržič</rdfs:label>
       <skos:definition>The municipality of Tržič in the country of Slovenia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Slovenia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sl">Tržič</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sl">Tržič</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-si;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
    </owl:NamedIndividual>
@@ -3856,7 +3856,7 @@
       <rdfs:label>Turnišče</rdfs:label>
       <skos:definition>The municipality of Turnišče in the country of Slovenia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Slovenia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sl">Turnišče</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sl">Turnišče</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-si;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
    </owl:NamedIndividual>
@@ -3886,7 +3886,7 @@
       <rdfs:label>Velenje</rdfs:label>
       <skos:definition>The municipality of Velenje in the country of Slovenia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Slovenia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sl">Velenje</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sl">Velenje</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-si;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
    </owl:NamedIndividual>
@@ -3916,7 +3916,7 @@
       <rdfs:label>Železniki</rdfs:label>
       <skos:definition>The municipality of Železniki in the country of Slovenia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Slovenia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sl">Železniki</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sl">Železniki</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-si;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
    </owl:NamedIndividual>
@@ -3946,7 +3946,7 @@
       <rdfs:label>Kostel</rdfs:label>
       <skos:definition>The municipality of Kostel in the country of Slovenia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Slovenia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sl">Kostel</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sl">Kostel</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-si;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
    </owl:NamedIndividual>
@@ -3976,7 +3976,7 @@
       <rdfs:label>Razkrižje</rdfs:label>
       <skos:definition>The municipality of Razkrižje in the country of Slovenia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Slovenia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sl">Razkrižje</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sl">Razkrižje</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-si;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
    </owl:NamedIndividual>
@@ -4006,7 +4006,7 @@
       <rdfs:label>Trnovska Vas</rdfs:label>
       <skos:definition>The municipality of Trnovska Vas in the country of Slovenia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Slovenia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sl">Trnovska Vas</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sl">Trnovska Vas</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-si;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
    </owl:NamedIndividual>
@@ -4036,7 +4036,7 @@
       <rdfs:label>Veržej</rdfs:label>
       <skos:definition>The municipality of Veržej in the country of Slovenia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Slovenia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sl">Veržej</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sl">Veržej</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-si;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
    </owl:NamedIndividual>
@@ -4066,7 +4066,7 @@
       <rdfs:label>Vransko</rdfs:label>
       <skos:definition>The municipality of Vransko in the country of Slovenia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Slovenia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sl">Vransko</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sl">Vransko</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-si;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
    </owl:NamedIndividual>
@@ -4096,7 +4096,7 @@
       <rdfs:label>Žetale</rdfs:label>
       <skos:definition>The municipality of Žetale in the country of Slovenia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Slovenia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sl">Žetale</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sl">Žetale</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-si;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
    </owl:NamedIndividual>
@@ -4126,7 +4126,7 @@
       <rdfs:label>Šmartno pri Litiji</rdfs:label>
       <skos:definition>The municipality of Šmartno pri Litiji in the country of Slovenia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Slovenia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sl">Šmartno pri Litiji</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sl">Šmartno pri Litiji</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-si;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
    </owl:NamedIndividual>
@@ -4156,7 +4156,7 @@
       <rdfs:label>Cirkulane</rdfs:label>
       <skos:definition>The municipality of Cirkulane in the country of Slovenia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Slovenia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sl">Cirkulane</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sl">Cirkulane</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-si;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
    </owl:NamedIndividual>
@@ -4186,7 +4186,7 @@
       <rdfs:label>Sveta Trojica v Slovenskih Goricah</rdfs:label>
       <skos:definition>The municipality of Sveta Trojica v Slovenskih Goricah in the country of Slovenia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Slovenia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sl">Sveta Trojica v Slovenskih Goricah</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sl">Sveta Trojica v Slovenskih Goricah</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-si;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
    </owl:NamedIndividual>
@@ -4216,7 +4216,7 @@
       <rdfs:label>Sveti Tomaž</rdfs:label>
       <skos:definition>The municipality of Sveti Tomaž in the country of Slovenia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Slovenia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sl">Sveti Tomaž</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sl">Sveti Tomaž</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-si;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
    </owl:NamedIndividual>
@@ -4246,7 +4246,7 @@
       <rdfs:label>Log-Dragomer</rdfs:label>
       <skos:definition>The municipality of Log-Dragomer in the country of Slovenia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Slovenia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sl">Log-Dragomer</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sl">Log-Dragomer</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-si;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
    </owl:NamedIndividual>
@@ -4276,7 +4276,7 @@
       <rdfs:label>Mirna</rdfs:label>
       <skos:definition>The municipality of Mirna in the country of Slovenia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Slovenia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sl">Mirna</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sl">Mirna</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-si;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
    </owl:NamedIndividual>
@@ -4306,7 +4306,7 @@
       <rdfs:label>Brda</rdfs:label>
       <skos:definition>The municipality of Brda in the country of Slovenia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Slovenia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sl">Brda</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sl">Brda</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-si;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
    </owl:NamedIndividual>
@@ -4336,7 +4336,7 @@
       <rdfs:label>Črna na Koroškem</rdfs:label>
       <skos:definition>The municipality of Črna na Koroškem in the country of Slovenia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Slovenia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sl">Črna na Koroškem</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sl">Črna na Koroškem</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-si;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
    </owl:NamedIndividual>
@@ -4366,7 +4366,7 @@
       <rdfs:label>Dol pri Ljubljani</rdfs:label>
       <skos:definition>The municipality of Dol pri Ljubljani in the country of Slovenia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Slovenia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sl">Dol pri Ljubljani</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sl">Dol pri Ljubljani</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-si;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
    </owl:NamedIndividual>
@@ -4396,7 +4396,7 @@
       <rdfs:label>Gorišnica</rdfs:label>
       <skos:definition>The municipality of Gorišnica in the country of Slovenia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Slovenia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sl">Gorišnica</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sl">Gorišnica</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-si;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
    </owl:NamedIndividual>
@@ -4426,7 +4426,7 @@
       <rdfs:label>Kidričevo</rdfs:label>
       <skos:definition>The municipality of Kidričevo in the country of Slovenia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Slovenia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sl">Kidričevo</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sl">Kidričevo</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-si;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
    </owl:NamedIndividual>
@@ -4456,7 +4456,7 @@
       <rdfs:label>Kozje</rdfs:label>
       <skos:definition>The municipality of Kozje in the country of Slovenia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Slovenia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sl">Kozje</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sl">Kozje</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-si;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
    </owl:NamedIndividual>
@@ -4486,7 +4486,7 @@
       <rdfs:label>Loška Dolina</rdfs:label>
       <skos:definition>The municipality of Loška Dolina in the country of Slovenia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Slovenia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sl">Loška Dolina</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sl">Loška Dolina</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-si;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
    </owl:NamedIndividual>
@@ -4516,7 +4516,7 @@
       <rdfs:label>Luče</rdfs:label>
       <skos:definition>The municipality of Luče in the country of Slovenia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Slovenia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sl">Luče</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sl">Luče</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-si;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
    </owl:NamedIndividual>
@@ -4546,7 +4546,7 @@
       <rdfs:label>Lukovica</rdfs:label>
       <skos:definition>The municipality of Lukovica in the country of Slovenia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Slovenia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sl">Lukovica</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sl">Lukovica</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-si;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
    </owl:NamedIndividual>
@@ -4576,7 +4576,7 @@
       <rdfs:label>Mežica</rdfs:label>
       <skos:definition>The municipality of Mežica in the country of Slovenia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Slovenia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sl">Mežica</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sl">Mežica</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-si;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
    </owl:NamedIndividual>
@@ -4606,7 +4606,7 @@
       <rdfs:label>Mozirje</rdfs:label>
       <skos:definition>The municipality of Mozirje in the country of Slovenia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Slovenia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sl">Mozirje</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sl">Mozirje</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-si;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
    </owl:NamedIndividual>
@@ -4636,7 +4636,7 @@
       <rdfs:label>Murska Sobota</rdfs:label>
       <skos:definition>The municipality of Murska Sobota in the country of Slovenia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Slovenia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sl">Murska Sobota</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sl">Murska Sobota</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-si;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
    </owl:NamedIndividual>
@@ -4666,7 +4666,7 @@
       <rdfs:label>Naklo</rdfs:label>
       <skos:definition>The municipality of Naklo in the country of Slovenia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Slovenia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sl">Naklo</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sl">Naklo</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-si;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
    </owl:NamedIndividual>
@@ -4696,7 +4696,7 @@
       <rdfs:label>Novo Mesto</rdfs:label>
       <skos:definition>The municipality of Novo Mesto in the country of Slovenia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Slovenia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sl">Novo Mesto</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sl">Novo Mesto</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-si;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
    </owl:NamedIndividual>
@@ -4726,7 +4726,7 @@
       <rdfs:label>Osilnica</rdfs:label>
       <skos:definition>The municipality of Osilnica in the country of Slovenia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Slovenia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sl">Osilnica</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sl">Osilnica</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-si;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
    </owl:NamedIndividual>
@@ -4756,7 +4756,7 @@
       <rdfs:label>Semič</rdfs:label>
       <skos:definition>The municipality of Semič in the country of Slovenia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Slovenia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sl">Semič</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sl">Semič</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-si;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
    </owl:NamedIndividual>
@@ -4786,7 +4786,7 @@
       <rdfs:label>Sveti Jurij</rdfs:label>
       <skos:definition>The municipality of Sveti Jurij in the country of Slovenia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Slovenia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sl">Sveti Jurij</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sl">Sveti Jurij</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-si;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
    </owl:NamedIndividual>
@@ -4816,7 +4816,7 @@
       <rdfs:label>Šmartno ob Paki</rdfs:label>
       <skos:definition>The municipality of Šmartno ob Paki in the country of Slovenia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Slovenia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sl">Šmartno ob Paki</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sl">Šmartno ob Paki</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-si;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
    </owl:NamedIndividual>
@@ -4846,7 +4846,7 @@
       <rdfs:label>Šoštanj</rdfs:label>
       <skos:definition>The municipality of Šoštanj in the country of Slovenia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Slovenia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sl">Šoštanj</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sl">Šoštanj</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-si;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
    </owl:NamedIndividual>
@@ -4876,7 +4876,7 @@
       <rdfs:label>Zagorje ob Savi</rdfs:label>
       <skos:definition>The municipality of Zagorje ob Savi in the country of Slovenia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Slovenia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sl">Zagorje ob Savi</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sl">Zagorje ob Savi</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-si;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
    </owl:NamedIndividual>
@@ -4906,7 +4906,7 @@
       <rdfs:label>Benedikt</rdfs:label>
       <skos:definition>The municipality of Benedikt in the country of Slovenia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Slovenia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sl">Benedikt</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sl">Benedikt</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-si;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
    </owl:NamedIndividual>
@@ -4936,7 +4936,7 @@
       <rdfs:label>Cerkvenjak</rdfs:label>
       <skos:definition>The municipality of Cerkvenjak in the country of Slovenia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Slovenia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sl">Cerkvenjak</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sl">Cerkvenjak</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-si;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
    </owl:NamedIndividual>
@@ -4966,7 +4966,7 @@
       <rdfs:label>Hajdina</rdfs:label>
       <skos:definition>The municipality of Hajdina in the country of Slovenia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Slovenia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sl">Hajdina</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sl">Hajdina</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-si;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
    </owl:NamedIndividual>
@@ -4996,7 +4996,7 @@
       <rdfs:label>Horjul</rdfs:label>
       <skos:definition>The municipality of Horjul in the country of Slovenia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Slovenia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sl">Horjul</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sl">Horjul</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-si;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
    </owl:NamedIndividual>
@@ -5026,7 +5026,7 @@
       <rdfs:label>Križevci</rdfs:label>
       <skos:definition>The municipality of Križevci in the country of Slovenia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Slovenia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sl">Križevci</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sl">Križevci</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-si;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
    </owl:NamedIndividual>
@@ -5056,7 +5056,7 @@
       <rdfs:label>Prebold</rdfs:label>
       <skos:definition>The municipality of Prebold in the country of Slovenia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Slovenia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sl">Prebold</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sl">Prebold</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-si;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
    </owl:NamedIndividual>
@@ -5086,7 +5086,7 @@
       <rdfs:label>Solčava</rdfs:label>
       <skos:definition>The municipality of Solčava in the country of Slovenia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Slovenia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sl">Solčava</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sl">Solčava</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-si;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
    </owl:NamedIndividual>
@@ -5116,7 +5116,7 @@
       <rdfs:label>Mokronog-Trebelno</rdfs:label>
       <skos:definition>The municipality of Mokronog-Trebelno in the country of Slovenia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Slovenia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sl">Mokronog-Trebelno</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sl">Mokronog-Trebelno</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-si;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
    </owl:NamedIndividual>
@@ -5146,7 +5146,7 @@
       <rdfs:label>Cerklje na Gorenjskem</rdfs:label>
       <skos:definition>The municipality of Cerklje na Gorenjskem in the country of Slovenia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Slovenia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sl">Cerklje na Gorenjskem</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sl">Cerklje na Gorenjskem</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-si;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
    </owl:NamedIndividual>
@@ -5176,7 +5176,7 @@
       <rdfs:label>Cerkno</rdfs:label>
       <skos:definition>The municipality of Cerkno in the country of Slovenia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Slovenia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sl">Cerkno</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sl">Cerkno</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-si;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
    </owl:NamedIndividual>
@@ -5206,7 +5206,7 @@
       <rdfs:label>Črnomelj</rdfs:label>
       <skos:definition>The municipality of Črnomelj in the country of Slovenia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Slovenia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sl">Črnomelj</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sl">Črnomelj</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-si;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
    </owl:NamedIndividual>
@@ -5236,7 +5236,7 @@
       <rdfs:label>Gornji Grad</rdfs:label>
       <skos:definition>The municipality of Gornji Grad in the country of Slovenia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Slovenia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sl">Gornji Grad</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sl">Gornji Grad</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-si;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
    </owl:NamedIndividual>
@@ -5266,7 +5266,7 @@
       <rdfs:label>Lendava</rdfs:label>
       <skos:definition>The municipality of Lendava in the country of Slovenia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Slovenia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sl">Lendava</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sl">Lendava</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-si;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
    </owl:NamedIndividual>
@@ -5296,7 +5296,7 @@
       <rdfs:label>Ormož</rdfs:label>
       <skos:definition>The municipality of Ormož in the country of Slovenia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Slovenia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sl">Ormož</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sl">Ormož</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-si;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
    </owl:NamedIndividual>
@@ -5326,7 +5326,7 @@
       <rdfs:label>Rače-Fram</rdfs:label>
       <skos:definition>The municipality of Rače-Fram in the country of Slovenia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Slovenia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sl">Rače-Fram</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sl">Rače-Fram</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-si;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
    </owl:NamedIndividual>
@@ -5356,7 +5356,7 @@
       <rdfs:label>Radlje ob Dravi</rdfs:label>
       <skos:definition>The municipality of Radlje ob Dravi in the country of Slovenia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Slovenia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sl">Radlje ob Dravi</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sl">Radlje ob Dravi</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-si;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
    </owl:NamedIndividual>
@@ -5386,7 +5386,7 @@
       <rdfs:label>Rogaška Slatina</rdfs:label>
       <skos:definition>The municipality of Rogaška Slatina in the country of Slovenia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Slovenia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sl">Rogaška Slatina</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sl">Rogaška Slatina</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-si;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
    </owl:NamedIndividual>
@@ -5416,7 +5416,7 @@
       <rdfs:label>Ruše</rdfs:label>
       <skos:definition>The municipality of Ruše in the country of Slovenia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Slovenia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sl">Ruše</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sl">Ruše</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-si;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
    </owl:NamedIndividual>
@@ -5446,7 +5446,7 @@
       <rdfs:label>Šenčur</rdfs:label>
       <skos:definition>The municipality of Šenčur in the country of Slovenia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Slovenia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sl">Šenčur</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sl">Šenčur</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-si;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
    </owl:NamedIndividual>
@@ -5476,7 +5476,7 @@
       <rdfs:label>Šentjernej</rdfs:label>
       <skos:definition>The municipality of Šentjernej in the country of Slovenia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Slovenia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sl">Šentjernej</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sl">Šentjernej</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-si;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
    </owl:NamedIndividual>
@@ -5506,7 +5506,7 @@
       <rdfs:label>Štore</rdfs:label>
       <skos:definition>The municipality of Štore in the country of Slovenia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Slovenia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sl">Štore</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sl">Štore</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-si;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
    </owl:NamedIndividual>
@@ -5536,7 +5536,7 @@
       <rdfs:label>Vodice</rdfs:label>
       <skos:definition>The municipality of Vodice in the country of Slovenia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Slovenia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sl">Vodice</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sl">Vodice</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-si;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
    </owl:NamedIndividual>
@@ -5566,7 +5566,7 @@
       <rdfs:label>Vojnik</rdfs:label>
       <skos:definition>The municipality of Vojnik in the country of Slovenia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Slovenia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sl">Vojnik</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sl">Vojnik</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-si;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
    </owl:NamedIndividual>
@@ -5596,7 +5596,7 @@
       <rdfs:label>Vrhnika</rdfs:label>
       <skos:definition>The municipality of Vrhnika in the country of Slovenia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Slovenia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sl">Vrhnika</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sl">Vrhnika</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-si;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
    </owl:NamedIndividual>
@@ -5626,7 +5626,7 @@
       <rdfs:label>Dobrna</rdfs:label>
       <skos:definition>The municipality of Dobrna in the country of Slovenia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Slovenia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sl">Dobrna</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sl">Dobrna</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-si;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
    </owl:NamedIndividual>
@@ -5656,7 +5656,7 @@
       <rdfs:label>Grad</rdfs:label>
       <skos:definition>The municipality of Grad in the country of Slovenia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Slovenia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sl">Grad</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sl">Grad</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-si;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
    </owl:NamedIndividual>
@@ -5686,7 +5686,7 @@
       <rdfs:label>Komenda</rdfs:label>
       <skos:definition>The municipality of Komenda in the country of Slovenia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Slovenia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sl">Komenda</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sl">Komenda</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-si;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
    </owl:NamedIndividual>
@@ -5716,7 +5716,7 @@
       <rdfs:label>Šempeter-Vrtojba</rdfs:label>
       <skos:definition>The municipality of Šempeter-Vrtojba in the country of Slovenia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Slovenia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sl">Šempeter-Vrtojba</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sl">Šempeter-Vrtojba</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-si;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
    </owl:NamedIndividual>
@@ -5746,7 +5746,7 @@
       <rdfs:label>Kosanjevica na Krki</rdfs:label>
       <skos:definition>The municipality of Kosanjevica na Krki in the country of Slovenia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Slovenia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sl">Kosanjevica na Krki</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sl">Kosanjevica na Krki</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-si;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
    </owl:NamedIndividual>
@@ -5776,7 +5776,7 @@
       <rdfs:label>Šmarješke Toplice</rdfs:label>
       <skos:definition>The municipality of Šmarješke Toplice in the country of Slovenia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Slovenia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sl">Šmarješke Toplice</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sl">Šmarješke Toplice</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-si;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
    </owl:NamedIndividual>
@@ -5806,7 +5806,7 @@
       <rdfs:label>Gorje</rdfs:label>
       <skos:definition>The municipality of Gorje in the country of Slovenia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Slovenia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sl">Gorje</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sl">Gorje</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-si;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
    </owl:NamedIndividual>
@@ -5836,7 +5836,7 @@
       <rdfs:label>Rečica ob Savinji</rdfs:label>
       <skos:definition>The municipality of Rečica ob Savinji in the country of Slovenia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Slovenia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sl">Rečica ob Savinji</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sl">Rečica ob Savinji</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-si;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
    </owl:NamedIndividual>
@@ -5866,7 +5866,7 @@
       <rdfs:label>Beltinci</rdfs:label>
       <skos:definition>The municipality of Beltinci in the country of Slovenia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Slovenia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sl">Beltinci</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sl">Beltinci</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-si;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
    </owl:NamedIndividual>
@@ -5896,7 +5896,7 @@
       <rdfs:label>Duplek</rdfs:label>
       <skos:definition>The municipality of Duplek in the country of Slovenia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Slovenia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sl">Duplek</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sl">Duplek</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-si;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
    </owl:NamedIndividual>
@@ -5926,7 +5926,7 @@
       <rdfs:label>Hrpelje-Kozina</rdfs:label>
       <skos:definition>The municipality of Hrpelje-Kozina in the country of Slovenia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Slovenia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sl">Hrpelje-Kozina</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sl">Hrpelje-Kozina</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-si;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
    </owl:NamedIndividual>
@@ -5956,7 +5956,7 @@
       <rdfs:label>Kamnik</rdfs:label>
       <skos:definition>The municipality of Kamnik in the country of Slovenia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Slovenia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sl">Kamnik</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sl">Kamnik</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-si;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
    </owl:NamedIndividual>
@@ -5986,7 +5986,7 @@
       <rdfs:label>Koper</rdfs:label>
       <skos:definition>The municipality of Koper in the country of Slovenia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Slovenia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sl">Koper</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sl">Koper</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-si;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
    </owl:NamedIndividual>
@@ -6016,7 +6016,7 @@
       <rdfs:label>Krško</rdfs:label>
       <skos:definition>The municipality of Krško in the country of Slovenia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Slovenia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sl">Krško</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sl">Krško</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-si;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
    </owl:NamedIndividual>
@@ -6046,7 +6046,7 @@
       <rdfs:label>Kungota</rdfs:label>
       <skos:definition>The municipality of Kungota in the country of Slovenia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Slovenia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sl">Kungota</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sl">Kungota</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-si;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
    </owl:NamedIndividual>
@@ -6076,7 +6076,7 @@
       <rdfs:label>Kuzma</rdfs:label>
       <skos:definition>The municipality of Kuzma in the country of Slovenia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Slovenia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sl">Kuzma</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sl">Kuzma</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-si;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
    </owl:NamedIndividual>
@@ -6106,7 +6106,7 @@
       <rdfs:label>Ljubno</rdfs:label>
       <skos:definition>The municipality of Ljubno in the country of Slovenia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Slovenia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sl">Ljubno</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sl">Ljubno</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-si;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
    </owl:NamedIndividual>
@@ -6136,7 +6136,7 @@
       <rdfs:label>Logatec</rdfs:label>
       <skos:definition>The municipality of Logatec in the country of Slovenia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Slovenia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sl">Logatec</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sl">Logatec</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-si;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
    </owl:NamedIndividual>
@@ -6166,7 +6166,7 @@
       <rdfs:label>Rogašovci</rdfs:label>
       <skos:definition>The municipality of Rogašovci in the country of Slovenia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Slovenia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sl">Rogašovci</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sl">Rogašovci</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-si;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
    </owl:NamedIndividual>
@@ -6196,7 +6196,7 @@
       <rdfs:label>Slovenj Gradec</rdfs:label>
       <skos:definition>The municipality of Slovenj Gradec in the country of Slovenia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Slovenia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sl">Slovenj Gradec</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sl">Slovenj Gradec</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-si;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
    </owl:NamedIndividual>
@@ -6226,7 +6226,7 @@
       <rdfs:label>Škofja Loka</rdfs:label>
       <skos:definition>The municipality of Škofja Loka in the country of Slovenia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Slovenia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sl">Škofja Loka</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sl">Škofja Loka</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-si;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
    </owl:NamedIndividual>
@@ -6256,7 +6256,7 @@
       <rdfs:label>Tolmin</rdfs:label>
       <skos:definition>The municipality of Tolmin in the country of Slovenia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Slovenia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sl">Tolmin</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sl">Tolmin</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-si;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
    </owl:NamedIndividual>
@@ -6286,7 +6286,7 @@
       <rdfs:label>Vuzenica</rdfs:label>
       <skos:definition>The municipality of Vuzenica in the country of Slovenia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Slovenia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sl">Vuzenica</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sl">Vuzenica</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-si;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
    </owl:NamedIndividual>
@@ -6316,7 +6316,7 @@
       <rdfs:label>Zreče</rdfs:label>
       <skos:definition>The municipality of Zreče in the country of Slovenia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Slovenia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sl">Zreče</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sl">Zreče</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-si;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
    </owl:NamedIndividual>
@@ -6346,7 +6346,7 @@
       <rdfs:label>Lovrenc na Pohorju</rdfs:label>
       <skos:definition>The municipality of Lovrenc na Pohorju in the country of Slovenia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Slovenia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sl">Lovrenc na Pohorju</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sl">Lovrenc na Pohorju</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-si;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
    </owl:NamedIndividual>
@@ -6376,7 +6376,7 @@
       <rdfs:label>Miklavž na Dravskem Polju</rdfs:label>
       <skos:definition>The municipality of Miklavž na Dravskem Polju in the country of Slovenia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Slovenia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sl">Miklavž na Dravskem Polju</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sl">Miklavž na Dravskem Polju</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-si;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
    </owl:NamedIndividual>
@@ -6406,7 +6406,7 @@
       <rdfs:label>Žužemberk</rdfs:label>
       <skos:definition>The municipality of Žužemberk in the country of Slovenia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Slovenia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sl">Žužemberk</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sl">Žužemberk</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-si;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
    </owl:NamedIndividual>
@@ -6436,7 +6436,7 @@
       <rdfs:label>Središče ob Dravi</rdfs:label>
       <skos:definition>The municipality of Središče ob Dravi in the country of Slovenia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Slovenia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sl">Središče ob Dravi</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sl">Središče ob Dravi</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-si;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-si;"/>
    </owl:NamedIndividual>

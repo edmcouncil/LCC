@@ -106,8 +106,8 @@
       <rdfs:label>Quthing</rdfs:label>
       <skos:definition>The district of Quthing in the country of Lesotho</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Lesotho"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="st">Quthing</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Quthing</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="st">Quthing</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Quthing</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ls;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ls;"/>
    </owl:NamedIndividual>
@@ -137,8 +137,8 @@
       <rdfs:label>Berea</rdfs:label>
       <skos:definition>The district of Berea in the country of Lesotho</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Lesotho"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="st">Berea</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Berea</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="st">Berea</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Berea</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ls;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ls;"/>
    </owl:NamedIndividual>
@@ -168,8 +168,8 @@
       <rdfs:label>Mafeteng</rdfs:label>
       <skos:definition>The district of Mafeteng in the country of Lesotho</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Lesotho"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="st">Mafeteng</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Mafeteng</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="st">Mafeteng</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Mafeteng</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ls;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ls;"/>
    </owl:NamedIndividual>
@@ -199,8 +199,8 @@
       <rdfs:label>Thaba-Tseka</rdfs:label>
       <skos:definition>The district of Thaba-Tseka in the country of Lesotho</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Lesotho"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Thaba-Tseka</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="st">Thaba-Tseka</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Thaba-Tseka</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="st">Thaba-Tseka</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ls;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ls;"/>
    </owl:NamedIndividual>
@@ -230,8 +230,8 @@
       <rdfs:label>Maseru</rdfs:label>
       <skos:definition>The district of Maseru in the country of Lesotho</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Lesotho"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="st">Maseru</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Maseru</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="st">Maseru</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Maseru</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ls;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ls;"/>
    </owl:NamedIndividual>
@@ -261,8 +261,8 @@
       <rdfs:label>Mohale's Hoek</rdfs:label>
       <skos:definition>The district of Mohale's Hoek in the country of Lesotho</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Lesotho"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Mohale's Hoek</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="st">Mohale's Hoek</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Mohale's Hoek</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="st">Mohale's Hoek</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ls;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ls;"/>
    </owl:NamedIndividual>
@@ -292,8 +292,8 @@
       <rdfs:label>Mokhotlong</rdfs:label>
       <skos:definition>The district of Mokhotlong in the country of Lesotho</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Lesotho"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Mokhotlong</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="st">Mokhotlong</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Mokhotlong</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="st">Mokhotlong</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ls;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ls;"/>
    </owl:NamedIndividual>
@@ -323,8 +323,8 @@
       <rdfs:label>Leribe</rdfs:label>
       <skos:definition>The district of Leribe in the country of Lesotho</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Lesotho"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="st">Leribe</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Leribe</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="st">Leribe</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Leribe</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ls;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ls;"/>
    </owl:NamedIndividual>
@@ -354,8 +354,8 @@
       <rdfs:label>Qacha's Nek</rdfs:label>
       <skos:definition>The district of Qacha's Nek in the country of Lesotho</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Lesotho"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Qacha's Nek</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="st">Qacha's Nek</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Qacha's Nek</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="st">Qacha's Nek</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ls;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ls;"/>
    </owl:NamedIndividual>
@@ -385,8 +385,8 @@
       <rdfs:label>Butha-Buthe</rdfs:label>
       <skos:definition>The district of Butha-Buthe in the country of Lesotho</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Lesotho"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Butha-Buthe</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="st">Butha-Buthe</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Butha-Buthe</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="st">Butha-Buthe</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ls;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ls;"/>
    </owl:NamedIndividual>

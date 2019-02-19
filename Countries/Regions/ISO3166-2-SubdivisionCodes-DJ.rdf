@@ -113,8 +113,8 @@
       <rdfs:label>Tadjourah</rdfs:label>
       <skos:definition>The region of Tadjourah in the country of Djibouti</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Djibouti"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Tadjourah</lcc-cr:hasFrenchShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Tājūrah</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Tadjourah</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Tājūrah</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-dj;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-dj;"/>
    </owl:NamedIndividual>
@@ -144,8 +144,8 @@
       <rdfs:label>Awbūk</rdfs:label>
       <skos:definition>The region of Awbūk in the country of Djibouti</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Djibouti"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Awbūk</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Obock</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Awbūk</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Obock</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-dj;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-dj;"/>
    </owl:NamedIndividual>
@@ -175,8 +175,8 @@
       <rdfs:label>Arta</rdfs:label>
       <skos:definition>The region of Arta in the country of Djibouti</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Djibouti"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Arta</lcc-cr:hasFrenchShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">‘Artā</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Arta</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">‘Artā</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-dj;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-dj;"/>
    </owl:NamedIndividual>
@@ -206,8 +206,8 @@
       <rdfs:label>Dikhīl</rdfs:label>
       <skos:definition>The region of Dikhīl in the country of Djibouti</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Djibouti"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Dikhīl</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Dikhil</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Dikhīl</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Dikhil</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-dj;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-dj;"/>
    </owl:NamedIndividual>
@@ -237,8 +237,8 @@
       <rdfs:label>Jībūtī</rdfs:label>
       <skos:definition>The city of Jībūtī in the country of Djibouti</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Djibouti"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Jībūtī</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Djibouti</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Jībūtī</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Djibouti</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-dj;City"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-dj;"/>
    </owl:NamedIndividual>
@@ -268,8 +268,8 @@
       <rdfs:label>‘Alī Şabīḩ</rdfs:label>
       <skos:definition>The region of ‘Alī Şabīḩ in the country of Djibouti</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Djibouti"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">‘Alī Şabīḩ</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Ali Sabieh</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">‘Alī Şabīḩ</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Ali Sabieh</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-dj;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-dj;"/>
    </owl:NamedIndividual>

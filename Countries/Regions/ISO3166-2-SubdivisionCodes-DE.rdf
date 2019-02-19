@@ -106,7 +106,7 @@
       <rdfs:label>Rheinland-Pfalz</rdfs:label>
       <skos:definition>The Land of Rheinland-Pfalz in the country of Germany</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Germany"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="de">Rheinland-Pfalz</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="de">Rheinland-Pfalz</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-de;Land"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-de;"/>
    </owl:NamedIndividual>
@@ -136,7 +136,7 @@
       <rdfs:label>Sachsen</rdfs:label>
       <skos:definition>The Land of Sachsen in the country of Germany</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Germany"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="de">Sachsen</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="de">Sachsen</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-de;Land"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-de;"/>
    </owl:NamedIndividual>
@@ -166,7 +166,7 @@
       <rdfs:label>Baden-Württemberg</rdfs:label>
       <skos:definition>The Land of Baden-Württemberg in the country of Germany</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Germany"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="de">Baden-Württemberg</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="de">Baden-Württemberg</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-de;Land"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-de;"/>
    </owl:NamedIndividual>
@@ -196,7 +196,7 @@
       <rdfs:label>Mecklenburg-Vorpommern</rdfs:label>
       <skos:definition>The Land of Mecklenburg-Vorpommern in the country of Germany</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Germany"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="de">Mecklenburg-Vorpommern</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="de">Mecklenburg-Vorpommern</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-de;Land"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-de;"/>
    </owl:NamedIndividual>
@@ -226,7 +226,7 @@
       <rdfs:label>Nordrhein-Westfalen</rdfs:label>
       <skos:definition>The Land of Nordrhein-Westfalen in the country of Germany</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Germany"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="de">Nordrhein-Westfalen</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="de">Nordrhein-Westfalen</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-de;Land"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-de;"/>
    </owl:NamedIndividual>
@@ -256,7 +256,7 @@
       <rdfs:label>Saarland</rdfs:label>
       <skos:definition>The Land of Saarland in the country of Germany</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Germany"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="de">Saarland</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="de">Saarland</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-de;Land"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-de;"/>
    </owl:NamedIndividual>
@@ -286,7 +286,7 @@
       <rdfs:label>Thüringen</rdfs:label>
       <skos:definition>The Land of Thüringen in the country of Germany</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Germany"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="de">Thüringen</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="de">Thüringen</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-de;Land"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-de;"/>
    </owl:NamedIndividual>
@@ -316,7 +316,7 @@
       <rdfs:label>Sachsen-Anhalt</rdfs:label>
       <skos:definition>The Land of Sachsen-Anhalt in the country of Germany</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Germany"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="de">Sachsen-Anhalt</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="de">Sachsen-Anhalt</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-de;Land"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-de;"/>
    </owl:NamedIndividual>
@@ -346,7 +346,7 @@
       <rdfs:label>Hamburg</rdfs:label>
       <skos:definition>The Land of Hamburg in the country of Germany</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Germany"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="de">Hamburg</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="de">Hamburg</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-de;Land"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-de;"/>
    </owl:NamedIndividual>
@@ -376,7 +376,7 @@
       <rdfs:label>Brandenburg</rdfs:label>
       <skos:definition>The Land of Brandenburg in the country of Germany</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Germany"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="de">Brandenburg</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="de">Brandenburg</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-de;Land"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-de;"/>
    </owl:NamedIndividual>
@@ -406,7 +406,7 @@
       <rdfs:label>Berlin</rdfs:label>
       <skos:definition>The Land of Berlin in the country of Germany</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Germany"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="de">Berlin</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="de">Berlin</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-de;Land"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-de;"/>
    </owl:NamedIndividual>
@@ -436,7 +436,7 @@
       <rdfs:label>Bayern</rdfs:label>
       <skos:definition>The Land of Bayern in the country of Germany</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Germany"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="de">Bayern</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="de">Bayern</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-de;Land"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-de;"/>
    </owl:NamedIndividual>
@@ -466,7 +466,7 @@
       <rdfs:label>Bremen</rdfs:label>
       <skos:definition>The Land of Bremen in the country of Germany</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Germany"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="de">Bremen</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="de">Bremen</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-de;Land"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-de;"/>
    </owl:NamedIndividual>
@@ -496,7 +496,7 @@
       <rdfs:label>Hessen</rdfs:label>
       <skos:definition>The Land of Hessen in the country of Germany</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Germany"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="de">Hessen</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="de">Hessen</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-de;Land"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-de;"/>
    </owl:NamedIndividual>
@@ -526,7 +526,7 @@
       <rdfs:label>Niedersachsen</rdfs:label>
       <skos:definition>The Land of Niedersachsen in the country of Germany</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Germany"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="de">Niedersachsen</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="de">Niedersachsen</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-de;Land"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-de;"/>
    </owl:NamedIndividual>
@@ -556,7 +556,7 @@
       <rdfs:label>Schleswig-Holstein</rdfs:label>
       <skos:definition>The Land of Schleswig-Holstein in the country of Germany</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Germany"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="de">Schleswig-Holstein</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="de">Schleswig-Holstein</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-de;Land"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-de;"/>
    </owl:NamedIndividual>

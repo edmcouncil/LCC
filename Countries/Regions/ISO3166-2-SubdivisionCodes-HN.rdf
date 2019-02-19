@@ -106,7 +106,7 @@
       <rdfs:label>Copán</rdfs:label>
       <skos:definition>The department of Copán in the country of Honduras</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Honduras"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Copán</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Copán</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-hn;Department"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-hn;"/>
    </owl:NamedIndividual>
@@ -136,7 +136,7 @@
       <rdfs:label>La Paz</rdfs:label>
       <skos:definition>The department of La Paz in the country of Honduras</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Honduras"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">La Paz</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">La Paz</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-hn;Department"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-hn;"/>
    </owl:NamedIndividual>
@@ -166,7 +166,7 @@
       <rdfs:label>Santa Bárbara</rdfs:label>
       <skos:definition>The department of Santa Bárbara in the country of Honduras</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Honduras"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Santa Bárbara</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Santa Bárbara</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-hn;Department"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-hn;"/>
    </owl:NamedIndividual>
@@ -196,7 +196,7 @@
       <rdfs:label>Colón</rdfs:label>
       <skos:definition>The department of Colón in the country of Honduras</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Honduras"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Colón</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Colón</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-hn;Department"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-hn;"/>
    </owl:NamedIndividual>
@@ -226,7 +226,7 @@
       <rdfs:label>Yoro</rdfs:label>
       <skos:definition>The department of Yoro in the country of Honduras</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Honduras"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Yoro</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Yoro</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-hn;Department"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-hn;"/>
    </owl:NamedIndividual>
@@ -256,7 +256,7 @@
       <rdfs:label>Valle</rdfs:label>
       <skos:definition>The department of Valle in the country of Honduras</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Honduras"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Valle</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Valle</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-hn;Department"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-hn;"/>
    </owl:NamedIndividual>
@@ -286,7 +286,7 @@
       <rdfs:label>Comayagua</rdfs:label>
       <skos:definition>The department of Comayagua in the country of Honduras</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Honduras"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Comayagua</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Comayagua</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-hn;Department"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-hn;"/>
    </owl:NamedIndividual>
@@ -316,7 +316,7 @@
       <rdfs:label>Lempira</rdfs:label>
       <skos:definition>The department of Lempira in the country of Honduras</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Honduras"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Lempira</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Lempira</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-hn;Department"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-hn;"/>
    </owl:NamedIndividual>
@@ -346,7 +346,7 @@
       <rdfs:label>Choluteca</rdfs:label>
       <skos:definition>The department of Choluteca in the country of Honduras</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Honduras"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Choluteca</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Choluteca</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-hn;Department"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-hn;"/>
    </owl:NamedIndividual>
@@ -376,7 +376,7 @@
       <rdfs:label>Gracias a Dios</rdfs:label>
       <skos:definition>The department of Gracias a Dios in the country of Honduras</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Honduras"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Gracias a Dios</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Gracias a Dios</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-hn;Department"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-hn;"/>
    </owl:NamedIndividual>
@@ -406,7 +406,7 @@
       <rdfs:label>Islas de la Bahía</rdfs:label>
       <skos:definition>The department of Islas de la Bahía in the country of Honduras</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Honduras"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Islas de la Bahía</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Islas de la Bahía</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-hn;Department"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-hn;"/>
    </owl:NamedIndividual>
@@ -436,7 +436,7 @@
       <rdfs:label>Olancho</rdfs:label>
       <skos:definition>The department of Olancho in the country of Honduras</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Honduras"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Olancho</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Olancho</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-hn;Department"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-hn;"/>
    </owl:NamedIndividual>
@@ -466,7 +466,7 @@
       <rdfs:label>El Paraíso</rdfs:label>
       <skos:definition>The department of El Paraíso in the country of Honduras</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Honduras"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">El Paraíso</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">El Paraíso</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-hn;Department"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-hn;"/>
    </owl:NamedIndividual>
@@ -496,7 +496,7 @@
       <rdfs:label>Atlántida</rdfs:label>
       <skos:definition>The department of Atlántida in the country of Honduras</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Honduras"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Atlántida</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Atlántida</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-hn;Department"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-hn;"/>
    </owl:NamedIndividual>
@@ -526,7 +526,7 @@
       <rdfs:label>Cortés</rdfs:label>
       <skos:definition>The department of Cortés in the country of Honduras</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Honduras"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Cortés</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Cortés</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-hn;Department"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-hn;"/>
    </owl:NamedIndividual>
@@ -556,7 +556,7 @@
       <rdfs:label>Francisco Morazán</rdfs:label>
       <skos:definition>The department of Francisco Morazán in the country of Honduras</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Honduras"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Francisco Morazán</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Francisco Morazán</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-hn;Department"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-hn;"/>
    </owl:NamedIndividual>
@@ -586,7 +586,7 @@
       <rdfs:label>Intibucá</rdfs:label>
       <skos:definition>The department of Intibucá in the country of Honduras</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Honduras"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Intibucá</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Intibucá</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-hn;Department"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-hn;"/>
    </owl:NamedIndividual>
@@ -616,7 +616,7 @@
       <rdfs:label>Ocotepeque</rdfs:label>
       <skos:definition>The department of Ocotepeque in the country of Honduras</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Honduras"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Ocotepeque</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Ocotepeque</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-hn;Department"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-hn;"/>
    </owl:NamedIndividual>
@@ -646,8 +646,8 @@
       <rdfs:label>Swan Islands</rdfs:label>
       <skos:definition>The territory of Swan Islands in the country of Honduras</skos:definition>
       <lcc-cr:hasNumericRegionCode rdf:datatype="&xsd;string">1049</lcc-cr:hasNumericRegionCode>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Swan Islands</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">les Îles du Cygne</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Swan Islands</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">les Îles du Cygne</lcc-cr:hasFrenchShortName>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Honduras"/>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2;Territory"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-hn;"/>

@@ -106,7 +106,7 @@
       <rdfs:label>Syddanmark</rdfs:label>
       <skos:definition>The region of Syddanmark in the country of Denmark</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Denmark"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="da">Syddanmark</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="da">Syddanmark</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-dk;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-dk;"/>
    </owl:NamedIndividual>
@@ -136,7 +136,7 @@
       <rdfs:label>Midtjylland</rdfs:label>
       <skos:definition>The region of Midtjylland in the country of Denmark</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Denmark"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="da">Midtjylland</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="da">Midtjylland</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-dk;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-dk;"/>
    </owl:NamedIndividual>
@@ -166,7 +166,7 @@
       <rdfs:label>Sjælland</rdfs:label>
       <skos:definition>The region of Sjælland in the country of Denmark</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Denmark"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="da">Sjælland</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="da">Sjælland</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-dk;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-dk;"/>
    </owl:NamedIndividual>
@@ -196,7 +196,7 @@
       <rdfs:label>Nordjylland</rdfs:label>
       <skos:definition>The region of Nordjylland in the country of Denmark</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Denmark"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="da">Nordjylland</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="da">Nordjylland</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-dk;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-dk;"/>
    </owl:NamedIndividual>
@@ -226,7 +226,7 @@
       <rdfs:label>Hovedstaden</rdfs:label>
       <skos:definition>The region of Hovedstaden in the country of Denmark</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Denmark"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="da">Hovedstaden</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="da">Hovedstaden</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-dk;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-dk;"/>
    </owl:NamedIndividual>

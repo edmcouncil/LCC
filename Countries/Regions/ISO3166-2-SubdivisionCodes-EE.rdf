@@ -106,7 +106,7 @@
       <rdfs:label>Põlvamaa</rdfs:label>
       <skos:definition>The county of Põlvamaa in the country of Estonia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Estonia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="et">Põlvamaa</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="et">Põlvamaa</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ee;County"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ee;"/>
    </owl:NamedIndividual>
@@ -136,7 +136,7 @@
       <rdfs:label>Hiiumaa</rdfs:label>
       <skos:definition>The county of Hiiumaa in the country of Estonia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Estonia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="et">Hiiumaa</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="et">Hiiumaa</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ee;County"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ee;"/>
    </owl:NamedIndividual>
@@ -166,7 +166,7 @@
       <rdfs:label>Tartumaa</rdfs:label>
       <skos:definition>The county of Tartumaa in the country of Estonia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Estonia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="et">Tartumaa</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="et">Tartumaa</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ee;County"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ee;"/>
    </owl:NamedIndividual>
@@ -196,7 +196,7 @@
       <rdfs:label>Jõgevamaa</rdfs:label>
       <skos:definition>The county of Jõgevamaa in the country of Estonia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Estonia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="et">Jõgevamaa</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="et">Jõgevamaa</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ee;County"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ee;"/>
    </owl:NamedIndividual>
@@ -226,7 +226,7 @@
       <rdfs:label>Järvamaa</rdfs:label>
       <skos:definition>The county of Järvamaa in the country of Estonia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Estonia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="et">Järvamaa</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="et">Järvamaa</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ee;County"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ee;"/>
    </owl:NamedIndividual>
@@ -256,7 +256,7 @@
       <rdfs:label>Raplamaa</rdfs:label>
       <skos:definition>The county of Raplamaa in the country of Estonia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Estonia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="et">Raplamaa</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="et">Raplamaa</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ee;County"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ee;"/>
    </owl:NamedIndividual>
@@ -286,7 +286,7 @@
       <rdfs:label>Viljandimaa</rdfs:label>
       <skos:definition>The county of Viljandimaa in the country of Estonia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Estonia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="et">Viljandimaa</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="et">Viljandimaa</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ee;County"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ee;"/>
    </owl:NamedIndividual>
@@ -316,7 +316,7 @@
       <rdfs:label>Harjumaa</rdfs:label>
       <skos:definition>The county of Harjumaa in the country of Estonia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Estonia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="et">Harjumaa</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="et">Harjumaa</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ee;County"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ee;"/>
    </owl:NamedIndividual>
@@ -346,7 +346,7 @@
       <rdfs:label>Ida-Virumaa</rdfs:label>
       <skos:definition>The county of Ida-Virumaa in the country of Estonia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Estonia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="et">Ida-Virumaa</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="et">Ida-Virumaa</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ee;County"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ee;"/>
    </owl:NamedIndividual>
@@ -376,7 +376,7 @@
       <rdfs:label>Läänemaa</rdfs:label>
       <skos:definition>The county of Läänemaa in the country of Estonia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Estonia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="et">Läänemaa</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="et">Läänemaa</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ee;County"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ee;"/>
    </owl:NamedIndividual>
@@ -406,7 +406,7 @@
       <rdfs:label>Lääne-Virumaa</rdfs:label>
       <skos:definition>The county of Lääne-Virumaa in the country of Estonia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Estonia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="et">Lääne-Virumaa</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="et">Lääne-Virumaa</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ee;County"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ee;"/>
    </owl:NamedIndividual>
@@ -436,7 +436,7 @@
       <rdfs:label>Pärnumaa</rdfs:label>
       <skos:definition>The county of Pärnumaa in the country of Estonia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Estonia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="et">Pärnumaa</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="et">Pärnumaa</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ee;County"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ee;"/>
    </owl:NamedIndividual>
@@ -466,7 +466,7 @@
       <rdfs:label>Saaremaa</rdfs:label>
       <skos:definition>The county of Saaremaa in the country of Estonia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Estonia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="et">Saaremaa</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="et">Saaremaa</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ee;County"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ee;"/>
    </owl:NamedIndividual>
@@ -496,7 +496,7 @@
       <rdfs:label>Valgamaa</rdfs:label>
       <skos:definition>The county of Valgamaa in the country of Estonia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Estonia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="et">Valgamaa</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="et">Valgamaa</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ee;County"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ee;"/>
    </owl:NamedIndividual>
@@ -526,7 +526,7 @@
       <rdfs:label>Võrumaa</rdfs:label>
       <skos:definition>The county of Võrumaa in the country of Estonia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Estonia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="et">Võrumaa</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="et">Võrumaa</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ee;County"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ee;"/>
    </owl:NamedIndividual>

@@ -106,7 +106,7 @@
       <rdfs:label>Charlotte</rdfs:label>
       <skos:definition>The parish of Charlotte in the country of Saint Vincent and the Grenadines</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;SaintVincentAndTheGrenadines"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Charlotte</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Charlotte</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-vc;Parish"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-vc;"/>
    </owl:NamedIndividual>
@@ -136,7 +136,7 @@
       <rdfs:label>Grenadines</rdfs:label>
       <skos:definition>The parish of Grenadines in the country of Saint Vincent and the Grenadines</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;SaintVincentAndTheGrenadines"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Grenadines</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Grenadines</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-vc;Parish"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-vc;"/>
    </owl:NamedIndividual>
@@ -166,7 +166,7 @@
       <rdfs:label>Saint Andrew</rdfs:label>
       <skos:definition>The parish of Saint Andrew in the country of Saint Vincent and the Grenadines</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;SaintVincentAndTheGrenadines"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Saint Andrew</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Saint Andrew</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-vc;Parish"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-vc;"/>
    </owl:NamedIndividual>
@@ -196,7 +196,7 @@
       <rdfs:label>Saint Patrick</rdfs:label>
       <skos:definition>The parish of Saint Patrick in the country of Saint Vincent and the Grenadines</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;SaintVincentAndTheGrenadines"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Saint Patrick</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Saint Patrick</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-vc;Parish"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-vc;"/>
    </owl:NamedIndividual>
@@ -226,7 +226,7 @@
       <rdfs:label>Saint David</rdfs:label>
       <skos:definition>The parish of Saint David in the country of Saint Vincent and the Grenadines</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;SaintVincentAndTheGrenadines"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Saint David</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Saint David</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-vc;Parish"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-vc;"/>
    </owl:NamedIndividual>
@@ -256,7 +256,7 @@
       <rdfs:label>Saint George</rdfs:label>
       <skos:definition>The parish of Saint George in the country of Saint Vincent and the Grenadines</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;SaintVincentAndTheGrenadines"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Saint George</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Saint George</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-vc;Parish"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-vc;"/>
    </owl:NamedIndividual>
@@ -286,8 +286,8 @@
       <rdfs:label>Bequia (principal island)</rdfs:label>
       <skos:definition>The territory of Bequia (principal island) in the country of Saint Vincent and the Grenadines</skos:definition>
       <lcc-cr:hasNumericRegionCode rdf:datatype="&xsd;string">1022</lcc-cr:hasNumericRegionCode>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Bequia (Île principale)</lcc-cr:hasFrenchShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Bequia (principal island)</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Bequia (Île principale)</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Bequia (principal island)</lcc-cr:hasEnglishShortName>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;SaintVincentAndTheGrenadines"/>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2;Territory"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-vc;"/>
@@ -305,8 +305,8 @@
       <rdfs:label>Northern Grenadine Islands</rdfs:label>
       <skos:definition>The territory of Northern Grenadine Islands in the country of Saint Vincent and the Grenadines</skos:definition>
       <lcc-cr:hasNumericRegionCode rdf:datatype="&xsd;string">1075</lcc-cr:hasNumericRegionCode>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Northern Grenadine Islands</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">les Îles Grenadines du Nord</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Northern Grenadine Islands</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">les Îles Grenadines du Nord</lcc-cr:hasFrenchShortName>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;SaintVincentAndTheGrenadines"/>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2;Territory"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-vc;"/>
@@ -324,8 +324,8 @@
       <rdfs:label>Saint Vincent Island</rdfs:label>
       <skos:definition>The territory of Saint Vincent Island in the country of Saint Vincent and the Grenadines</skos:definition>
       <lcc-cr:hasNumericRegionCode rdf:datatype="&xsd;string">1176</lcc-cr:hasNumericRegionCode>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">l'Île Saint-Vincent</lcc-cr:hasFrenchShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Saint Vincent Island</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">l'Île Saint-Vincent</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Saint Vincent Island</lcc-cr:hasEnglishShortName>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;SaintVincentAndTheGrenadines"/>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2;Territory"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-vc;"/>

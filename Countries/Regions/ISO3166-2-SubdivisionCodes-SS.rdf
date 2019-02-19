@@ -106,7 +106,7 @@
       <rdfs:label>Western Bahr el  Ghazal</rdfs:label>
       <skos:definition>The state of Western Bahr el  Ghazal in the country of South Sudan</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;SouthSudan"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Western Bahr el  Ghazal</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Western Bahr el  Ghazal</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ss;State"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ss;"/>
    </owl:NamedIndividual>
@@ -136,7 +136,7 @@
       <rdfs:label>Upper Nile</rdfs:label>
       <skos:definition>The state of Upper Nile in the country of South Sudan</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;SouthSudan"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Upper Nile</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Upper Nile</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ss;State"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ss;"/>
    </owl:NamedIndividual>
@@ -166,7 +166,7 @@
       <rdfs:label>Unity</rdfs:label>
       <skos:definition>The state of Unity in the country of South Sudan</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;SouthSudan"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Unity</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Unity</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ss;State"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ss;"/>
    </owl:NamedIndividual>
@@ -196,7 +196,7 @@
       <rdfs:label>Northern Bahr el Ghazal</rdfs:label>
       <skos:definition>The state of Northern Bahr el Ghazal in the country of South Sudan</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;SouthSudan"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Northern Bahr el Ghazal</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Northern Bahr el Ghazal</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ss;State"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ss;"/>
    </owl:NamedIndividual>
@@ -226,7 +226,7 @@
       <rdfs:label>Warrap</rdfs:label>
       <skos:definition>The state of Warrap in the country of South Sudan</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;SouthSudan"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Warrap</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Warrap</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ss;State"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ss;"/>
    </owl:NamedIndividual>
@@ -256,7 +256,7 @@
       <rdfs:label>Eastern Equatoria</rdfs:label>
       <skos:definition>The state of Eastern Equatoria in the country of South Sudan</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;SouthSudan"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Eastern Equatoria</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Eastern Equatoria</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ss;State"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ss;"/>
    </owl:NamedIndividual>
@@ -286,7 +286,7 @@
       <rdfs:label>Central Equatoria</rdfs:label>
       <skos:definition>The state of Central Equatoria in the country of South Sudan</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;SouthSudan"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Central Equatoria</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Central Equatoria</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ss;State"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ss;"/>
    </owl:NamedIndividual>
@@ -316,7 +316,7 @@
       <rdfs:label>Western Equatoria</rdfs:label>
       <skos:definition>The state of Western Equatoria in the country of South Sudan</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;SouthSudan"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Western Equatoria</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Western Equatoria</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ss;State"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ss;"/>
    </owl:NamedIndividual>
@@ -346,7 +346,7 @@
       <rdfs:label>Jonglei</rdfs:label>
       <skos:definition>The state of Jonglei in the country of South Sudan</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;SouthSudan"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Jonglei</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Jonglei</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ss;State"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ss;"/>
    </owl:NamedIndividual>
@@ -376,7 +376,7 @@
       <rdfs:label>Lakes</rdfs:label>
       <skos:definition>The state of Lakes in the country of South Sudan</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;SouthSudan"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Lakes</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Lakes</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ss;State"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ss;"/>
    </owl:NamedIndividual>

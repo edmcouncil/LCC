@@ -106,9 +106,9 @@
       <rdfs:label>Capellen</rdfs:label>
       <skos:definition>The canton of Capellen in the country of Luxembourg</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Luxembourg"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Capellen</lcc-cr:hasFrenchShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="lb">Kapellen</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="de">Capellen</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Capellen</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasLocalShortName xml:lang="lb">Kapellen</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="de">Capellen</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-lu;Canton"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-lu;"/>
    </owl:NamedIndividual>
@@ -138,9 +138,9 @@
       <rdfs:label>Clerf</rdfs:label>
       <skos:definition>The canton of Clerf in the country of Luxembourg</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Luxembourg"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="de">Clerf</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Clervaux</lcc-cr:hasFrenchShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="lb">Klierf</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="de">Clerf</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Clervaux</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasLocalShortName xml:lang="lb">Klierf</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-lu;Canton"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-lu;"/>
    </owl:NamedIndividual>
@@ -170,9 +170,9 @@
       <rdfs:label>Diekirch</rdfs:label>
       <skos:definition>The canton of Diekirch in the country of Luxembourg</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Luxembourg"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="de">Diekirch</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Diekirch</lcc-cr:hasFrenchShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="lb">Diekrech</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="de">Diekirch</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Diekirch</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasLocalShortName xml:lang="lb">Diekrech</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-lu;Canton"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-lu;"/>
    </owl:NamedIndividual>
@@ -202,9 +202,9 @@
       <rdfs:label>Echternach</rdfs:label>
       <skos:definition>The canton of Echternach in the country of Luxembourg</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Luxembourg"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="de">Echternach</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Echternach</lcc-cr:hasFrenchShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="lb">Iechternach</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="de">Echternach</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Echternach</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasLocalShortName xml:lang="lb">Iechternach</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-lu;Canton"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-lu;"/>
    </owl:NamedIndividual>
@@ -234,9 +234,9 @@
       <rdfs:label>Esch an der Alzette</rdfs:label>
       <skos:definition>The canton of Esch an der Alzette in the country of Luxembourg</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Luxembourg"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="de">Esch an der Alzette</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Esch-sur-Alzette</lcc-cr:hasFrenchShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="lb">Esch-Uelzecht</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="de">Esch an der Alzette</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Esch-sur-Alzette</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasLocalShortName xml:lang="lb">Esch-Uelzecht</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-lu;Canton"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-lu;"/>
    </owl:NamedIndividual>
@@ -266,9 +266,9 @@
       <rdfs:label>Gréivemaacher</rdfs:label>
       <skos:definition>The canton of Gréivemaacher in the country of Luxembourg</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Luxembourg"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="lb">Gréivemaacher</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="de">Grevenmacher</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Grevenmacher</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasLocalShortName xml:lang="lb">Gréivemaacher</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="de">Grevenmacher</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Grevenmacher</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-lu;Canton"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-lu;"/>
    </owl:NamedIndividual>
@@ -298,9 +298,9 @@
       <rdfs:label>Lëtzebuerg</rdfs:label>
       <skos:definition>The canton of Lëtzebuerg in the country of Luxembourg</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Luxembourg"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="lb">Lëtzebuerg</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Luxembourg</lcc-cr:hasFrenchShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="de">Luxemburg</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="lb">Lëtzebuerg</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Luxembourg</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasLocalShortName xml:lang="de">Luxemburg</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-lu;Canton"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-lu;"/>
    </owl:NamedIndividual>
@@ -330,9 +330,9 @@
       <rdfs:label>Mersch</rdfs:label>
       <skos:definition>The canton of Mersch in the country of Luxembourg</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Luxembourg"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="de">Mersch</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Mersch</lcc-cr:hasFrenchShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="lb">Miersch</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="de">Mersch</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Mersch</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasLocalShortName xml:lang="lb">Miersch</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-lu;Canton"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-lu;"/>
    </owl:NamedIndividual>
@@ -362,9 +362,9 @@
       <rdfs:label>Redange</rdfs:label>
       <skos:definition>The canton of Redange in the country of Luxembourg</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Luxembourg"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Redange</lcc-cr:hasFrenchShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="de">Redingen</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="lb">Réiden-Atert</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Redange</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasLocalShortName xml:lang="de">Redingen</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="lb">Réiden-Atert</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-lu;Canton"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-lu;"/>
    </owl:NamedIndividual>
@@ -394,9 +394,9 @@
       <rdfs:label>Réimech</rdfs:label>
       <skos:definition>The canton of Réimech in the country of Luxembourg</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Luxembourg"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="lb">Réimech</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="de">Remich</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Remich</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasLocalShortName xml:lang="lb">Réimech</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="de">Remich</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Remich</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-lu;Canton"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-lu;"/>
    </owl:NamedIndividual>
@@ -426,9 +426,9 @@
       <rdfs:label>Veianen</rdfs:label>
       <skos:definition>The canton of Veianen in the country of Luxembourg</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Luxembourg"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="lb">Veianen</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="de">Vianden</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Vianden</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasLocalShortName xml:lang="lb">Veianen</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="de">Vianden</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Vianden</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-lu;Canton"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-lu;"/>
    </owl:NamedIndividual>
@@ -458,9 +458,9 @@
       <rdfs:label>Wiltz</rdfs:label>
       <skos:definition>The canton of Wiltz in the country of Luxembourg</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Luxembourg"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="de">Wiltz</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Wiltz</lcc-cr:hasFrenchShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="lb">Wolz</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="de">Wiltz</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Wiltz</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasLocalShortName xml:lang="lb">Wolz</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-lu;Canton"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-lu;"/>
    </owl:NamedIndividual>

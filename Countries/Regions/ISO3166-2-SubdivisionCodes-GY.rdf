@@ -106,7 +106,7 @@
       <rdfs:label>East Berbice-Corentyne</rdfs:label>
       <skos:definition>The region of East Berbice-Corentyne in the country of Guyana</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Guyana"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">East Berbice-Corentyne</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">East Berbice-Corentyne</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gy;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gy;"/>
    </owl:NamedIndividual>
@@ -136,7 +136,7 @@
       <rdfs:label>Upper Demerara-Berbice</rdfs:label>
       <skos:definition>The region of Upper Demerara-Berbice in the country of Guyana</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Guyana"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Upper Demerara-Berbice</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Upper Demerara-Berbice</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gy;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gy;"/>
    </owl:NamedIndividual>
@@ -166,7 +166,7 @@
       <rdfs:label>Pomeroon-Supenaam</rdfs:label>
       <skos:definition>The region of Pomeroon-Supenaam in the country of Guyana</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Guyana"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Pomeroon-Supenaam</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Pomeroon-Supenaam</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gy;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gy;"/>
    </owl:NamedIndividual>
@@ -196,7 +196,7 @@
       <rdfs:label>Upper Takutu-Upper Essequibo</rdfs:label>
       <skos:definition>The region of Upper Takutu-Upper Essequibo in the country of Guyana</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Guyana"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Upper Takutu-Upper Essequibo</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Upper Takutu-Upper Essequibo</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gy;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gy;"/>
    </owl:NamedIndividual>
@@ -226,7 +226,7 @@
       <rdfs:label>Barima-Waini</rdfs:label>
       <skos:definition>The region of Barima-Waini in the country of Guyana</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Guyana"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Barima-Waini</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Barima-Waini</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gy;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gy;"/>
    </owl:NamedIndividual>
@@ -256,7 +256,7 @@
       <rdfs:label>Cuyuni-Mazaruni</rdfs:label>
       <skos:definition>The region of Cuyuni-Mazaruni in the country of Guyana</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Guyana"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Cuyuni-Mazaruni</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Cuyuni-Mazaruni</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gy;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gy;"/>
    </owl:NamedIndividual>
@@ -286,7 +286,7 @@
       <rdfs:label>Demerara-Mahaica</rdfs:label>
       <skos:definition>The region of Demerara-Mahaica in the country of Guyana</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Guyana"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Demerara-Mahaica</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Demerara-Mahaica</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gy;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gy;"/>
    </owl:NamedIndividual>
@@ -316,7 +316,7 @@
       <rdfs:label>Potaro-Siparuni</rdfs:label>
       <skos:definition>The region of Potaro-Siparuni in the country of Guyana</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Guyana"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Potaro-Siparuni</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Potaro-Siparuni</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gy;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gy;"/>
    </owl:NamedIndividual>
@@ -346,7 +346,7 @@
       <rdfs:label>Essequibo Islands-West Demerara</rdfs:label>
       <skos:definition>The region of Essequibo Islands-West Demerara in the country of Guyana</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Guyana"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Essequibo Islands-West Demerara</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Essequibo Islands-West Demerara</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gy;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gy;"/>
    </owl:NamedIndividual>
@@ -376,7 +376,7 @@
       <rdfs:label>Mahaica-Berbice</rdfs:label>
       <skos:definition>The region of Mahaica-Berbice in the country of Guyana</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Guyana"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Mahaica-Berbice</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Mahaica-Berbice</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gy;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gy;"/>
    </owl:NamedIndividual>

@@ -120,7 +120,7 @@
       <rdfs:label>Braničevski okrug</rdfs:label>
       <skos:definition>The district of Braničevski okrug in the country of Serbia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Serbia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sr">Braničevski okrug</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sr">Braničevski okrug</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-rs;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-rs;"/>
    </owl:NamedIndividual>
@@ -150,7 +150,7 @@
       <rdfs:label>Pomoravski okrug</rdfs:label>
       <skos:definition>The district of Pomoravski okrug in the country of Serbia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Serbia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sr">Pomoravski okrug</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sr">Pomoravski okrug</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-rs;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-rs;"/>
    </owl:NamedIndividual>
@@ -180,7 +180,7 @@
       <rdfs:label>Zlatiborski okrug</rdfs:label>
       <skos:definition>The district of Zlatiborski okrug in the country of Serbia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Serbia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sr">Zlatiborski okrug</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sr">Zlatiborski okrug</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-rs;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-rs;"/>
    </owl:NamedIndividual>
@@ -210,7 +210,7 @@
       <rdfs:label>Kosovo-Metohija</rdfs:label>
       <skos:definition>The autonomous province of Kosovo-Metohija in the country of Serbia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Serbia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sr">Kosovo-Metohija</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sr">Kosovo-Metohija</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-rs;AutonomousProvince"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-rs;"/>
    </owl:NamedIndividual>
@@ -238,7 +238,7 @@
       <rdfs:label>Prizrenski okrug</rdfs:label>
       <skos:definition>The district of Prizrenski okrug in the country of Serbia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-rs;Kosovo-Metohija"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sr">Prizrenski okrug</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sr">Prizrenski okrug</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-rs;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-rs;"/>
    </owl:NamedIndividual>
@@ -268,7 +268,7 @@
       <rdfs:label>Kosovski okrug</rdfs:label>
       <skos:definition>The district of Kosovski okrug in the country of Serbia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-rs;Kosovo-Metohija"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sr">Kosovski okrug</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sr">Kosovski okrug</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-rs;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-rs;"/>
    </owl:NamedIndividual>
@@ -298,7 +298,7 @@
       <rdfs:label>Pećki okrug</rdfs:label>
       <skos:definition>The district of Pećki okrug in the country of Serbia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-rs;Kosovo-Metohija"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sr">Pećki okrug</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sr">Pećki okrug</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-rs;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-rs;"/>
    </owl:NamedIndividual>
@@ -328,7 +328,7 @@
       <rdfs:label>Kosovsko-Mitrovački okrug</rdfs:label>
       <skos:definition>The district of Kosovsko-Mitrovački okrug in the country of Serbia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-rs;Kosovo-Metohija"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sr">Kosovsko-Mitrovački okrug</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sr">Kosovsko-Mitrovački okrug</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-rs;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-rs;"/>
    </owl:NamedIndividual>
@@ -358,7 +358,7 @@
       <rdfs:label>Kosovsko-Pomoravski okrug</rdfs:label>
       <skos:definition>The district of Kosovsko-Pomoravski okrug in the country of Serbia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-rs;Kosovo-Metohija"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sr">Kosovsko-Pomoravski okrug</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sr">Kosovsko-Pomoravski okrug</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-rs;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-rs;"/>
    </owl:NamedIndividual>
@@ -390,7 +390,7 @@
       <rdfs:label>Vojvodina</rdfs:label>
       <skos:definition>The autonomous province of Vojvodina in the country of Serbia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Serbia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sr">Vojvodina</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sr">Vojvodina</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-rs;AutonomousProvince"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-rs;"/>
    </owl:NamedIndividual>
@@ -418,7 +418,7 @@
       <rdfs:label>Severnobanatski okrug</rdfs:label>
       <skos:definition>The district of Severnobanatski okrug in the country of Serbia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-rs;Vojvodina"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sr">Severnobanatski okrug</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sr">Severnobanatski okrug</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-rs;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-rs;"/>
    </owl:NamedIndividual>
@@ -448,7 +448,7 @@
       <rdfs:label>Južnobanatski okrug</rdfs:label>
       <skos:definition>The district of Južnobanatski okrug in the country of Serbia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-rs;Vojvodina"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sr">Južnobanatski okrug</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sr">Južnobanatski okrug</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-rs;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-rs;"/>
    </owl:NamedIndividual>
@@ -478,7 +478,7 @@
       <rdfs:label>Srednjebanatski okrug</rdfs:label>
       <skos:definition>The district of Srednjebanatski okrug in the country of Serbia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-rs;Vojvodina"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sr">Srednjebanatski okrug</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sr">Srednjebanatski okrug</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-rs;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-rs;"/>
    </owl:NamedIndividual>
@@ -508,7 +508,7 @@
       <rdfs:label>Sremski okrug</rdfs:label>
       <skos:definition>The district of Sremski okrug in the country of Serbia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-rs;Vojvodina"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sr">Sremski okrug</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sr">Sremski okrug</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-rs;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-rs;"/>
    </owl:NamedIndividual>
@@ -538,7 +538,7 @@
       <rdfs:label>Južnobački okrug</rdfs:label>
       <skos:definition>The district of Južnobački okrug in the country of Serbia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-rs;Vojvodina"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sr">Južnobački okrug</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sr">Južnobački okrug</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-rs;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-rs;"/>
    </owl:NamedIndividual>
@@ -568,7 +568,7 @@
       <rdfs:label>Severnobački okrug</rdfs:label>
       <skos:definition>The district of Severnobački okrug in the country of Serbia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-rs;Vojvodina"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sr">Severnobački okrug</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sr">Severnobački okrug</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-rs;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-rs;"/>
    </owl:NamedIndividual>
@@ -598,7 +598,7 @@
       <rdfs:label>Zapadnobački okrug</rdfs:label>
       <skos:definition>The district of Zapadnobački okrug in the country of Serbia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-rs;Vojvodina"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sr">Zapadnobački okrug</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sr">Zapadnobački okrug</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-rs;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-rs;"/>
    </owl:NamedIndividual>
@@ -630,7 +630,7 @@
       <rdfs:label>Nišavski okrug</rdfs:label>
       <skos:definition>The district of Nišavski okrug in the country of Serbia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Serbia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sr">Nišavski okrug</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sr">Nišavski okrug</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-rs;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-rs;"/>
    </owl:NamedIndividual>
@@ -660,7 +660,7 @@
       <rdfs:label>Toplički okrug</rdfs:label>
       <skos:definition>The district of Toplički okrug in the country of Serbia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Serbia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sr">Toplički okrug</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sr">Toplički okrug</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-rs;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-rs;"/>
    </owl:NamedIndividual>
@@ -690,7 +690,7 @@
       <rdfs:label>Pirotski okrug</rdfs:label>
       <skos:definition>The district of Pirotski okrug in the country of Serbia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Serbia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sr">Pirotski okrug</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sr">Pirotski okrug</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-rs;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-rs;"/>
    </owl:NamedIndividual>
@@ -720,7 +720,7 @@
       <rdfs:label>Pčinjski okrug</rdfs:label>
       <skos:definition>The district of Pčinjski okrug in the country of Serbia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Serbia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sr">Pčinjski okrug</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sr">Pčinjski okrug</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-rs;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-rs;"/>
    </owl:NamedIndividual>
@@ -750,7 +750,7 @@
       <rdfs:label>Kolubarski okrug</rdfs:label>
       <skos:definition>The district of Kolubarski okrug in the country of Serbia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Serbia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sr">Kolubarski okrug</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sr">Kolubarski okrug</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-rs;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-rs;"/>
    </owl:NamedIndividual>
@@ -780,7 +780,7 @@
       <rdfs:label>Podunavski okrug</rdfs:label>
       <skos:definition>The district of Podunavski okrug in the country of Serbia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Serbia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sr">Podunavski okrug</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sr">Podunavski okrug</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-rs;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-rs;"/>
    </owl:NamedIndividual>
@@ -810,7 +810,7 @@
       <rdfs:label>Rasinski okrug</rdfs:label>
       <skos:definition>The district of Rasinski okrug in the country of Serbia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Serbia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sr">Rasinski okrug</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sr">Rasinski okrug</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-rs;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-rs;"/>
    </owl:NamedIndividual>
@@ -840,7 +840,7 @@
       <rdfs:label>Beograd</rdfs:label>
       <skos:definition>The city of Beograd in the country of Serbia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Serbia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sr">Beograd</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sr">Beograd</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-rs;City"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-rs;"/>
    </owl:NamedIndividual>
@@ -870,7 +870,7 @@
       <rdfs:label>Šumadijski okrug</rdfs:label>
       <skos:definition>The district of Šumadijski okrug in the country of Serbia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Serbia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sr">Šumadijski okrug</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sr">Šumadijski okrug</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-rs;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-rs;"/>
    </owl:NamedIndividual>
@@ -900,7 +900,7 @@
       <rdfs:label>Borski okrug</rdfs:label>
       <skos:definition>The district of Borski okrug in the country of Serbia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Serbia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sr">Borski okrug</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sr">Borski okrug</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-rs;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-rs;"/>
    </owl:NamedIndividual>
@@ -930,7 +930,7 @@
       <rdfs:label>Zaječarski okrug</rdfs:label>
       <skos:definition>The district of Zaječarski okrug in the country of Serbia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Serbia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sr">Zaječarski okrug</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sr">Zaječarski okrug</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-rs;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-rs;"/>
    </owl:NamedIndividual>
@@ -960,7 +960,7 @@
       <rdfs:label>Jablanički okrug</rdfs:label>
       <skos:definition>The district of Jablanički okrug in the country of Serbia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Serbia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sr">Jablanički okrug</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sr">Jablanički okrug</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-rs;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-rs;"/>
    </owl:NamedIndividual>
@@ -990,7 +990,7 @@
       <rdfs:label>Mačvanski okrug</rdfs:label>
       <skos:definition>The district of Mačvanski okrug in the country of Serbia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Serbia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sr">Mačvanski okrug</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sr">Mačvanski okrug</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-rs;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-rs;"/>
    </owl:NamedIndividual>
@@ -1020,7 +1020,7 @@
       <rdfs:label>Raški okrug</rdfs:label>
       <skos:definition>The district of Raški okrug in the country of Serbia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Serbia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sr">Raški okrug</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sr">Raški okrug</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-rs;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-rs;"/>
    </owl:NamedIndividual>
@@ -1050,7 +1050,7 @@
       <rdfs:label>Moravički okrug</rdfs:label>
       <skos:definition>The district of Moravički okrug in the country of Serbia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Serbia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sr">Moravički okrug</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sr">Moravički okrug</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-rs;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-rs;"/>
    </owl:NamedIndividual>

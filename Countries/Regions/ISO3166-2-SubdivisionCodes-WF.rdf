@@ -106,7 +106,7 @@
       <rdfs:label>Alo</rdfs:label>
       <skos:definition>The administrative precinct of Alo in the country of Wallis and Futuna</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;WallisAndFutuna"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Alo</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Alo</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-wf;AdministrativePrecinct"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-wf;"/>
    </owl:NamedIndividual>
@@ -136,7 +136,7 @@
       <rdfs:label>Sigave</rdfs:label>
       <skos:definition>The administrative precinct of Sigave in the country of Wallis and Futuna</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;WallisAndFutuna"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Sigave</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Sigave</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-wf;AdministrativePrecinct"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-wf;"/>
    </owl:NamedIndividual>
@@ -166,7 +166,7 @@
       <rdfs:label>Uvea</rdfs:label>
       <skos:definition>The administrative precinct of Uvea in the country of Wallis and Futuna</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;WallisAndFutuna"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Uvea</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Uvea</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-wf;AdministrativePrecinct"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-wf;"/>
    </owl:NamedIndividual>
@@ -196,8 +196,8 @@
       <rdfs:label>Futuna</rdfs:label>
       <skos:definition>The territory of Futuna in the country of Wallis and Futuna</skos:definition>
       <lcc-cr:hasNumericRegionCode rdf:datatype="&xsd;string">1064</lcc-cr:hasNumericRegionCode>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Futuna</lcc-cr:hasFrenchShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Futuna</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Futuna</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Futuna</lcc-cr:hasEnglishShortName>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;WallisAndFutuna"/>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2;Territory"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-wf;"/>
@@ -215,8 +215,8 @@
       <rdfs:label>Hoorn Islands</rdfs:label>
       <skos:definition>The territory of Hoorn Islands in the country of Wallis and Futuna</skos:definition>
       <lcc-cr:hasNumericRegionCode rdf:datatype="&xsd;string">1084</lcc-cr:hasNumericRegionCode>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Îles de Hoorn</lcc-cr:hasFrenchShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Hoorn Islands</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Îles de Hoorn</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Hoorn Islands</lcc-cr:hasEnglishShortName>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;WallisAndFutuna"/>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2;Territory"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-wf;"/>
@@ -234,8 +234,8 @@
       <rdfs:label>Uvea</rdfs:label>
       <skos:definition>The territory of Uvea in the country of Wallis and Futuna</skos:definition>
       <lcc-cr:hasNumericRegionCode rdf:datatype="&xsd;string">1218</lcc-cr:hasNumericRegionCode>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Uvea</lcc-cr:hasFrenchShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Uvea</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Uvea</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Uvea</lcc-cr:hasEnglishShortName>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;WallisAndFutuna"/>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2;Territory"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-wf;"/>
@@ -253,8 +253,8 @@
       <rdfs:label>Wallis Islands</rdfs:label>
       <skos:definition>The territory of Wallis Islands in the country of Wallis and Futuna</skos:definition>
       <lcc-cr:hasNumericRegionCode rdf:datatype="&xsd;string">1223</lcc-cr:hasNumericRegionCode>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">les Îles Wallis</lcc-cr:hasFrenchShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Wallis Islands</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">les Îles Wallis</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Wallis Islands</lcc-cr:hasEnglishShortName>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;WallisAndFutuna"/>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2;Territory"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-wf;"/>

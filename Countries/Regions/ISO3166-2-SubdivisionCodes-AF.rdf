@@ -106,8 +106,8 @@
       <rdfs:label>Bāmyān</rdfs:label>
       <skos:definition>The province of Bāmyān in the country of Afghanistan</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Afghanistan"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="fa">Bāmyān</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ps">Bāmyān</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="fa">Bāmyān</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ps">Bāmyān</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-af;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-af;"/>
    </owl:NamedIndividual>
@@ -137,8 +137,8 @@
       <rdfs:label>Kābul</rdfs:label>
       <skos:definition>The province of Kābul in the country of Afghanistan</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Afghanistan"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ps">Kābul</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="fa">Kābul</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ps">Kābul</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="fa">Kābul</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-af;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-af;"/>
    </owl:NamedIndividual>
@@ -168,8 +168,8 @@
       <rdfs:label>Kāpīsā</rdfs:label>
       <skos:definition>The province of Kāpīsā in the country of Afghanistan</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Afghanistan"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="fa">Kāpīsā</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ps">Kāpīsā</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="fa">Kāpīsā</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ps">Kāpīsā</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-af;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-af;"/>
    </owl:NamedIndividual>
@@ -199,8 +199,8 @@
       <rdfs:label>Khōst</rdfs:label>
       <skos:definition>The province of Khōst in the country of Afghanistan</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Afghanistan"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="fa">Khōst</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ps">Khōst</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="fa">Khōst</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ps">Khōst</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-af;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-af;"/>
    </owl:NamedIndividual>
@@ -230,8 +230,8 @@
       <rdfs:label>Kunaṟ</rdfs:label>
       <skos:definition>The province of Kunaṟ in the country of Afghanistan</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Afghanistan"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ps">Kunaṟ</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="fa">Kunaṟ</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ps">Kunaṟ</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="fa">Kunaṟ</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-af;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-af;"/>
    </owl:NamedIndividual>
@@ -261,8 +261,8 @@
       <rdfs:label>Kandahār</rdfs:label>
       <skos:definition>The province of Kandahār in the country of Afghanistan</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Afghanistan"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="fa">Kandahār</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ps">Kandahār</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="fa">Kandahār</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ps">Kandahār</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-af;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-af;"/>
    </owl:NamedIndividual>
@@ -292,8 +292,8 @@
       <rdfs:label>Lōgar</rdfs:label>
       <skos:definition>The province of Lōgar in the country of Afghanistan</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Afghanistan"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="fa">Lōgar</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ps">Lōgar</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="fa">Lōgar</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ps">Lōgar</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-af;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-af;"/>
    </owl:NamedIndividual>
@@ -323,8 +323,8 @@
       <rdfs:label>Paktiyā</rdfs:label>
       <skos:definition>The province of Paktiyā in the country of Afghanistan</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Afghanistan"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="fa">Paktiyā</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ps">Paktiyā</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="fa">Paktiyā</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ps">Paktiyā</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-af;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-af;"/>
    </owl:NamedIndividual>
@@ -354,8 +354,8 @@
       <rdfs:label>Samangān</rdfs:label>
       <skos:definition>The province of Samangān in the country of Afghanistan</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Afghanistan"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ps">Samangān</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="fa">Samangān</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ps">Samangān</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="fa">Samangān</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-af;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-af;"/>
    </owl:NamedIndividual>
@@ -385,8 +385,8 @@
       <rdfs:label>Uruzgān</rdfs:label>
       <skos:definition>The province of Uruzgān in the country of Afghanistan</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Afghanistan"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="fa">Uruzgān</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ps">Uruzgān</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="fa">Uruzgān</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ps">Uruzgān</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-af;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-af;"/>
    </owl:NamedIndividual>
@@ -416,8 +416,8 @@
       <rdfs:label>Badakhshān</rdfs:label>
       <skos:definition>The province of Badakhshān in the country of Afghanistan</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Afghanistan"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="fa">Badakhshān</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ps">Badakhshān</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="fa">Badakhshān</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ps">Badakhshān</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-af;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-af;"/>
    </owl:NamedIndividual>
@@ -447,8 +447,8 @@
       <rdfs:label>Fāryāb</rdfs:label>
       <skos:definition>The province of Fāryāb in the country of Afghanistan</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Afghanistan"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ps">Fāryāb</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="fa">Fāryāb</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ps">Fāryāb</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="fa">Fāryāb</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-af;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-af;"/>
    </owl:NamedIndividual>
@@ -478,8 +478,8 @@
       <rdfs:label>Jowzjān</rdfs:label>
       <skos:definition>The province of Jowzjān in the country of Afghanistan</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Afghanistan"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ps">Jowzjān</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="fa">Jowzjān</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ps">Jowzjān</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="fa">Jowzjān</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-af;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-af;"/>
    </owl:NamedIndividual>
@@ -509,8 +509,8 @@
       <rdfs:label>Kunduz</rdfs:label>
       <skos:definition>The province of Kunduz in the country of Afghanistan</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Afghanistan"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="fa">Kunduz</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ps">Kunduz</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="fa">Kunduz</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ps">Kunduz</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-af;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-af;"/>
    </owl:NamedIndividual>
@@ -540,8 +540,8 @@
       <rdfs:label>Laghmān</rdfs:label>
       <skos:definition>The province of Laghmān in the country of Afghanistan</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Afghanistan"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="fa">Laghmān</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ps">Laghmān</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="fa">Laghmān</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ps">Laghmān</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-af;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-af;"/>
    </owl:NamedIndividual>
@@ -571,8 +571,8 @@
       <rdfs:label>Nīmrōz</rdfs:label>
       <skos:definition>The province of Nīmrōz in the country of Afghanistan</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Afghanistan"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ps">Nīmrōz</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="fa">Nīmrōz</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ps">Nīmrōz</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="fa">Nīmrōz</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-af;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-af;"/>
    </owl:NamedIndividual>
@@ -602,8 +602,8 @@
       <rdfs:label>Baghlān</rdfs:label>
       <skos:definition>The province of Baghlān in the country of Afghanistan</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Afghanistan"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="fa">Baghlān</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ps">Baghlān</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="fa">Baghlān</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ps">Baghlān</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-af;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-af;"/>
    </owl:NamedIndividual>
@@ -633,8 +633,8 @@
       <rdfs:label>Farāh</rdfs:label>
       <skos:definition>The province of Farāh in the country of Afghanistan</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Afghanistan"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ps">Farāh</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="fa">Farāh</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ps">Farāh</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="fa">Farāh</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-af;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-af;"/>
    </owl:NamedIndividual>
@@ -664,8 +664,8 @@
       <rdfs:label>Helmand</rdfs:label>
       <skos:definition>The province of Helmand in the country of Afghanistan</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Afghanistan"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="fa">Helmand</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ps">Helmand</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="fa">Helmand</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ps">Helmand</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-af;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-af;"/>
    </owl:NamedIndividual>
@@ -695,8 +695,8 @@
       <rdfs:label>Paktīkā</rdfs:label>
       <skos:definition>The province of Paktīkā in the country of Afghanistan</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Afghanistan"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ps">Paktīkā</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="fa">Paktīkā</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ps">Paktīkā</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="fa">Paktīkā</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-af;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-af;"/>
    </owl:NamedIndividual>
@@ -726,8 +726,8 @@
       <rdfs:label>Sar-e Pul</rdfs:label>
       <skos:definition>The province of Sar-e Pul in the country of Afghanistan</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Afghanistan"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="fa">Sar-e Pul</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ps">Sar-e Pul</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="fa">Sar-e Pul</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ps">Sar-e Pul</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-af;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-af;"/>
    </owl:NamedIndividual>
@@ -757,8 +757,8 @@
       <rdfs:label>Bādghīs</rdfs:label>
       <skos:definition>The province of Bādghīs in the country of Afghanistan</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Afghanistan"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="fa">Bādghīs</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ps">Bādghīs</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="fa">Bādghīs</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ps">Bādghīs</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-af;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-af;"/>
    </owl:NamedIndividual>
@@ -788,8 +788,8 @@
       <rdfs:label>Ghaznī</rdfs:label>
       <skos:definition>The province of Ghaznī in the country of Afghanistan</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Afghanistan"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="fa">Ghaznī</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ps">Ghaznī</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="fa">Ghaznī</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ps">Ghaznī</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-af;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-af;"/>
    </owl:NamedIndividual>
@@ -819,8 +819,8 @@
       <rdfs:label>Panjshayr</rdfs:label>
       <skos:definition>The province of Panjshayr in the country of Afghanistan</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Afghanistan"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ps">Panjshayr</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="fa">Panjshayr</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ps">Panjshayr</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="fa">Panjshayr</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-af;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-af;"/>
    </owl:NamedIndividual>
@@ -850,8 +850,8 @@
       <rdfs:label>Takhār</rdfs:label>
       <skos:definition>The province of Takhār in the country of Afghanistan</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Afghanistan"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ps">Takhār</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="fa">Takhār</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ps">Takhār</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="fa">Takhār</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-af;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-af;"/>
    </owl:NamedIndividual>
@@ -881,8 +881,8 @@
       <rdfs:label>Wardak</rdfs:label>
       <skos:definition>The province of Wardak in the country of Afghanistan</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Afghanistan"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ps">Wardak</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="fa">Wardak</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ps">Wardak</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="fa">Wardak</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-af;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-af;"/>
    </owl:NamedIndividual>
@@ -912,8 +912,8 @@
       <rdfs:label>Balkh</rdfs:label>
       <skos:definition>The province of Balkh in the country of Afghanistan</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Afghanistan"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="fa">Balkh</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ps">Balkh</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="fa">Balkh</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ps">Balkh</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-af;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-af;"/>
    </owl:NamedIndividual>
@@ -943,8 +943,8 @@
       <rdfs:label>Ghōr</rdfs:label>
       <skos:definition>The province of Ghōr in the country of Afghanistan</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Afghanistan"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ps">Ghōr</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="fa">Ghōr</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ps">Ghōr</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="fa">Ghōr</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-af;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-af;"/>
    </owl:NamedIndividual>
@@ -974,8 +974,8 @@
       <rdfs:label>Dāykundī</rdfs:label>
       <skos:definition>The province of Dāykundī in the country of Afghanistan</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Afghanistan"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ps">Dāykundī</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="fa">Dāykundī</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ps">Dāykundī</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="fa">Dāykundī</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-af;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-af;"/>
    </owl:NamedIndividual>
@@ -1005,8 +1005,8 @@
       <rdfs:label>Herāt</rdfs:label>
       <skos:definition>The province of Herāt in the country of Afghanistan</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Afghanistan"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="fa">Herāt</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ps">Herāt</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="fa">Herāt</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ps">Herāt</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-af;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-af;"/>
    </owl:NamedIndividual>
@@ -1036,8 +1036,8 @@
       <rdfs:label>Nangarhār</rdfs:label>
       <skos:definition>The province of Nangarhār in the country of Afghanistan</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Afghanistan"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ps">Nangarhār</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="fa">Nangarhār</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ps">Nangarhār</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="fa">Nangarhār</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-af;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-af;"/>
    </owl:NamedIndividual>
@@ -1067,8 +1067,8 @@
       <rdfs:label>Nūristān</rdfs:label>
       <skos:definition>The province of Nūristān in the country of Afghanistan</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Afghanistan"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="fa">Nūristān</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ps">Nūristān</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="fa">Nūristān</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ps">Nūristān</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-af;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-af;"/>
    </owl:NamedIndividual>
@@ -1098,8 +1098,8 @@
       <rdfs:label>Parwān</rdfs:label>
       <skos:definition>The province of Parwān in the country of Afghanistan</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Afghanistan"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ps">Parwān</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="fa">Parwān</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ps">Parwān</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="fa">Parwān</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-af;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-af;"/>
    </owl:NamedIndividual>
@@ -1129,8 +1129,8 @@
       <rdfs:label>Zābul</rdfs:label>
       <skos:definition>The province of Zābul in the country of Afghanistan</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Afghanistan"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ps">Zābul</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="fa">Zābul</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ps">Zābul</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="fa">Zābul</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-af;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-af;"/>
    </owl:NamedIndividual>

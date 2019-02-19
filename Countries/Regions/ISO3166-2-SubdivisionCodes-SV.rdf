@@ -106,7 +106,7 @@
       <rdfs:label>Cuscatlán</rdfs:label>
       <skos:definition>The department of Cuscatlán in the country of El Salvador</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;ElSalvador"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Cuscatlán</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Cuscatlán</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-sv;Department"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-sv;"/>
    </owl:NamedIndividual>
@@ -136,7 +136,7 @@
       <rdfs:label>San Salvador</rdfs:label>
       <skos:definition>The department of San Salvador in the country of El Salvador</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;ElSalvador"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">San Salvador</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">San Salvador</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-sv;Department"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-sv;"/>
    </owl:NamedIndividual>
@@ -166,7 +166,7 @@
       <rdfs:label>Ahuachapán</rdfs:label>
       <skos:definition>The department of Ahuachapán in the country of El Salvador</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;ElSalvador"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Ahuachapán</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Ahuachapán</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-sv;Department"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-sv;"/>
    </owl:NamedIndividual>
@@ -196,7 +196,7 @@
       <rdfs:label>Santa Ana</rdfs:label>
       <skos:definition>The department of Santa Ana in the country of El Salvador</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;ElSalvador"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Santa Ana</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Santa Ana</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-sv;Department"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-sv;"/>
    </owl:NamedIndividual>
@@ -226,7 +226,7 @@
       <rdfs:label>Sonsonate</rdfs:label>
       <skos:definition>The department of Sonsonate in the country of El Salvador</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;ElSalvador"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Sonsonate</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Sonsonate</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-sv;Department"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-sv;"/>
    </owl:NamedIndividual>
@@ -256,7 +256,7 @@
       <rdfs:label>La Paz</rdfs:label>
       <skos:definition>The department of La Paz in the country of El Salvador</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;ElSalvador"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">La Paz</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">La Paz</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-sv;Department"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-sv;"/>
    </owl:NamedIndividual>
@@ -286,7 +286,7 @@
       <rdfs:label>San Miguel</rdfs:label>
       <skos:definition>The department of San Miguel in the country of El Salvador</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;ElSalvador"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">San Miguel</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">San Miguel</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-sv;Department"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-sv;"/>
    </owl:NamedIndividual>
@@ -316,7 +316,7 @@
       <rdfs:label>Cabañas</rdfs:label>
       <skos:definition>The department of Cabañas in the country of El Salvador</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;ElSalvador"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Cabañas</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Cabañas</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-sv;Department"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-sv;"/>
    </owl:NamedIndividual>
@@ -346,7 +346,7 @@
       <rdfs:label>La Unión</rdfs:label>
       <skos:definition>The department of La Unión in the country of El Salvador</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;ElSalvador"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">La Unión</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">La Unión</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-sv;Department"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-sv;"/>
    </owl:NamedIndividual>
@@ -376,7 +376,7 @@
       <rdfs:label>Chalatenango</rdfs:label>
       <skos:definition>The department of Chalatenango in the country of El Salvador</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;ElSalvador"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Chalatenango</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Chalatenango</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-sv;Department"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-sv;"/>
    </owl:NamedIndividual>
@@ -406,7 +406,7 @@
       <rdfs:label>La Libertad</rdfs:label>
       <skos:definition>The department of La Libertad in the country of El Salvador</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;ElSalvador"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">La Libertad</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">La Libertad</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-sv;Department"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-sv;"/>
    </owl:NamedIndividual>
@@ -436,7 +436,7 @@
       <rdfs:label>San Vicente</rdfs:label>
       <skos:definition>The department of San Vicente in the country of El Salvador</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;ElSalvador"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">San Vicente</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">San Vicente</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-sv;Department"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-sv;"/>
    </owl:NamedIndividual>
@@ -466,7 +466,7 @@
       <rdfs:label>Morazán</rdfs:label>
       <skos:definition>The department of Morazán in the country of El Salvador</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;ElSalvador"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Morazán</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Morazán</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-sv;Department"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-sv;"/>
    </owl:NamedIndividual>
@@ -496,7 +496,7 @@
       <rdfs:label>Usulután</rdfs:label>
       <skos:definition>The department of Usulután in the country of El Salvador</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;ElSalvador"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Usulután</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Usulután</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-sv;Department"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-sv;"/>
    </owl:NamedIndividual>

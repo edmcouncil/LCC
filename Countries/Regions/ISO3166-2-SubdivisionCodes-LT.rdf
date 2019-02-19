@@ -127,7 +127,7 @@
       <rdfs:label>Marijampolės apskritis</rdfs:label>
       <skos:definition>The county of Marijampolės apskritis in the country of Lithuania</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Lithuania"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="lt">Marijampolės apskritis</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="lt">Marijampolės apskritis</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-lt;County"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-lt;"/>
    </owl:NamedIndividual>
@@ -157,7 +157,7 @@
       <rdfs:label>Panevėžio apskritis</rdfs:label>
       <skos:definition>The county of Panevėžio apskritis in the country of Lithuania</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Lithuania"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="lt">Panevėžio apskritis</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="lt">Panevėžio apskritis</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-lt;County"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-lt;"/>
    </owl:NamedIndividual>
@@ -187,7 +187,7 @@
       <rdfs:label>Šiaulių apskritis</rdfs:label>
       <skos:definition>The county of Šiaulių apskritis in the country of Lithuania</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Lithuania"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="lt">Šiaulių apskritis</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="lt">Šiaulių apskritis</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-lt;County"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-lt;"/>
    </owl:NamedIndividual>
@@ -217,7 +217,7 @@
       <rdfs:label>Alytaus apskritis</rdfs:label>
       <skos:definition>The county of Alytaus apskritis in the country of Lithuania</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Lithuania"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="lt">Alytaus apskritis</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="lt">Alytaus apskritis</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-lt;County"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-lt;"/>
    </owl:NamedIndividual>
@@ -247,7 +247,7 @@
       <rdfs:label>Kauno apskritis</rdfs:label>
       <skos:definition>The county of Kauno apskritis in the country of Lithuania</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Lithuania"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="lt">Kauno apskritis</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="lt">Kauno apskritis</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-lt;County"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-lt;"/>
    </owl:NamedIndividual>
@@ -277,7 +277,7 @@
       <rdfs:label>Utenos apskritis</rdfs:label>
       <skos:definition>The county of Utenos apskritis in the country of Lithuania</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Lithuania"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="lt">Utenos apskritis</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="lt">Utenos apskritis</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-lt;County"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-lt;"/>
    </owl:NamedIndividual>
@@ -307,7 +307,7 @@
       <rdfs:label>Alytaus miestas</rdfs:label>
       <skos:definition>The city municipality of Alytaus miestas in the country of Lithuania</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Lithuania"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="lt">Alytaus miestas</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="lt">Alytaus miestas</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-lt;CityMunicipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-lt;"/>
    </owl:NamedIndividual>
@@ -337,7 +337,7 @@
       <rdfs:label>Kauno miestas</rdfs:label>
       <skos:definition>The city municipality of Kauno miestas in the country of Lithuania</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Lithuania"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="lt">Kauno miestas</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="lt">Kauno miestas</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-lt;CityMunicipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-lt;"/>
    </owl:NamedIndividual>
@@ -367,7 +367,7 @@
       <rdfs:label>Klaipėdos miestas</rdfs:label>
       <skos:definition>The city municipality of Klaipėdos miestas in the country of Lithuania</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Lithuania"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="lt">Klaipėdos miestas</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="lt">Klaipėdos miestas</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-lt;CityMunicipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-lt;"/>
    </owl:NamedIndividual>
@@ -397,7 +397,7 @@
       <rdfs:label>Palangos miestas</rdfs:label>
       <skos:definition>The city municipality of Palangos miestas in the country of Lithuania</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Lithuania"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="lt">Palangos miestas</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="lt">Palangos miestas</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-lt;CityMunicipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-lt;"/>
    </owl:NamedIndividual>
@@ -427,7 +427,7 @@
       <rdfs:label>Šiaulių miestas</rdfs:label>
       <skos:definition>The city municipality of Šiaulių miestas in the country of Lithuania</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Lithuania"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="lt">Šiaulių miestas</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="lt">Šiaulių miestas</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-lt;CityMunicipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-lt;"/>
    </owl:NamedIndividual>
@@ -457,7 +457,7 @@
       <rdfs:label>Alytus</rdfs:label>
       <skos:definition>The district municipality of Alytus in the country of Lithuania</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Lithuania"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="lt">Alytus</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="lt">Alytus</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-lt;DistrictMunicipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-lt;"/>
    </owl:NamedIndividual>
@@ -487,7 +487,7 @@
       <rdfs:label>Vilniaus miestas</rdfs:label>
       <skos:definition>The city municipality of Vilniaus miestas in the country of Lithuania</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Lithuania"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="lt">Vilniaus miestas</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="lt">Vilniaus miestas</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-lt;CityMunicipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-lt;"/>
    </owl:NamedIndividual>
@@ -517,7 +517,7 @@
       <rdfs:label>Panevėžio miestas</rdfs:label>
       <skos:definition>The city municipality of Panevėžio miestas in the country of Lithuania</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Lithuania"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="lt">Panevėžio miestas</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="lt">Panevėžio miestas</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-lt;CityMunicipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-lt;"/>
    </owl:NamedIndividual>
@@ -547,7 +547,7 @@
       <rdfs:label>Akmenė</rdfs:label>
       <skos:definition>The district municipality of Akmenė in the country of Lithuania</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Lithuania"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="lt">Akmenė</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="lt">Akmenė</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-lt;DistrictMunicipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-lt;"/>
    </owl:NamedIndividual>
@@ -577,7 +577,7 @@
       <rdfs:label>Anykščiai</rdfs:label>
       <skos:definition>The district municipality of Anykščiai in the country of Lithuania</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Lithuania"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="lt">Anykščiai</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="lt">Anykščiai</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-lt;DistrictMunicipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-lt;"/>
    </owl:NamedIndividual>
@@ -607,7 +607,7 @@
       <rdfs:label>Biržai</rdfs:label>
       <skos:definition>The district municipality of Biržai in the country of Lithuania</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Lithuania"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="lt">Biržai</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="lt">Biržai</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-lt;DistrictMunicipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-lt;"/>
    </owl:NamedIndividual>
@@ -637,7 +637,7 @@
       <rdfs:label>Ignalina</rdfs:label>
       <skos:definition>The district municipality of Ignalina in the country of Lithuania</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Lithuania"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="lt">Ignalina</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="lt">Ignalina</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-lt;DistrictMunicipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-lt;"/>
    </owl:NamedIndividual>
@@ -667,7 +667,7 @@
       <rdfs:label>Jonava</rdfs:label>
       <skos:definition>The district municipality of Jonava in the country of Lithuania</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Lithuania"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="lt">Jonava</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="lt">Jonava</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-lt;DistrictMunicipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-lt;"/>
    </owl:NamedIndividual>
@@ -697,7 +697,7 @@
       <rdfs:label>Joniškis</rdfs:label>
       <skos:definition>The district municipality of Joniškis in the country of Lithuania</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Lithuania"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="lt">Joniškis</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="lt">Joniškis</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-lt;DistrictMunicipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-lt;"/>
    </owl:NamedIndividual>
@@ -727,7 +727,7 @@
       <rdfs:label>Jurbarkas</rdfs:label>
       <skos:definition>The district municipality of Jurbarkas in the country of Lithuania</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Lithuania"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="lt">Jurbarkas</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="lt">Jurbarkas</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-lt;DistrictMunicipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-lt;"/>
    </owl:NamedIndividual>
@@ -757,7 +757,7 @@
       <rdfs:label>Kaišiadorys</rdfs:label>
       <skos:definition>The district municipality of Kaišiadorys in the country of Lithuania</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Lithuania"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="lt">Kaišiadorys</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="lt">Kaišiadorys</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-lt;DistrictMunicipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-lt;"/>
    </owl:NamedIndividual>
@@ -787,7 +787,7 @@
       <rdfs:label>Kaunas</rdfs:label>
       <skos:definition>The district municipality of Kaunas in the country of Lithuania</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Lithuania"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="lt">Kaunas</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="lt">Kaunas</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-lt;DistrictMunicipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-lt;"/>
    </owl:NamedIndividual>
@@ -817,7 +817,7 @@
       <rdfs:label>Kėdainiai</rdfs:label>
       <skos:definition>The district municipality of Kėdainiai in the country of Lithuania</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Lithuania"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="lt">Kėdainiai</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="lt">Kėdainiai</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-lt;DistrictMunicipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-lt;"/>
    </owl:NamedIndividual>
@@ -847,7 +847,7 @@
       <rdfs:label>Kelmė</rdfs:label>
       <skos:definition>The district municipality of Kelmė in the country of Lithuania</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Lithuania"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="lt">Kelmė</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="lt">Kelmė</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-lt;DistrictMunicipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-lt;"/>
    </owl:NamedIndividual>
@@ -877,7 +877,7 @@
       <rdfs:label>Klaipėda</rdfs:label>
       <skos:definition>The district municipality of Klaipėda in the country of Lithuania</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Lithuania"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="lt">Klaipėda</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="lt">Klaipėda</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-lt;DistrictMunicipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-lt;"/>
    </owl:NamedIndividual>
@@ -907,7 +907,7 @@
       <rdfs:label>Kretinga</rdfs:label>
       <skos:definition>The district municipality of Kretinga in the country of Lithuania</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Lithuania"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="lt">Kretinga</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="lt">Kretinga</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-lt;DistrictMunicipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-lt;"/>
    </owl:NamedIndividual>
@@ -937,7 +937,7 @@
       <rdfs:label>Kupiškis</rdfs:label>
       <skos:definition>The district municipality of Kupiškis in the country of Lithuania</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Lithuania"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="lt">Kupiškis</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="lt">Kupiškis</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-lt;DistrictMunicipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-lt;"/>
    </owl:NamedIndividual>
@@ -967,7 +967,7 @@
       <rdfs:label>Lazdijai</rdfs:label>
       <skos:definition>The district municipality of Lazdijai in the country of Lithuania</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Lithuania"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="lt">Lazdijai</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="lt">Lazdijai</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-lt;DistrictMunicipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-lt;"/>
    </owl:NamedIndividual>
@@ -997,7 +997,7 @@
       <rdfs:label>Marijampolė</rdfs:label>
       <skos:definition>The district municipality of Marijampolė in the country of Lithuania</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Lithuania"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="lt">Marijampolė</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="lt">Marijampolė</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-lt;DistrictMunicipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-lt;"/>
    </owl:NamedIndividual>
@@ -1027,7 +1027,7 @@
       <rdfs:label>Mažeikiai</rdfs:label>
       <skos:definition>The district municipality of Mažeikiai in the country of Lithuania</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Lithuania"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="lt">Mažeikiai</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="lt">Mažeikiai</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-lt;DistrictMunicipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-lt;"/>
    </owl:NamedIndividual>
@@ -1057,7 +1057,7 @@
       <rdfs:label>Molėtai</rdfs:label>
       <skos:definition>The district municipality of Molėtai in the country of Lithuania</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Lithuania"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="lt">Molėtai</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="lt">Molėtai</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-lt;DistrictMunicipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-lt;"/>
    </owl:NamedIndividual>
@@ -1087,7 +1087,7 @@
       <rdfs:label>Pakruojis</rdfs:label>
       <skos:definition>The district municipality of Pakruojis in the country of Lithuania</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Lithuania"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="lt">Pakruojis</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="lt">Pakruojis</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-lt;DistrictMunicipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-lt;"/>
    </owl:NamedIndividual>
@@ -1117,7 +1117,7 @@
       <rdfs:label>Panevėžys</rdfs:label>
       <skos:definition>The district municipality of Panevėžys in the country of Lithuania</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Lithuania"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="lt">Panevėžys</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="lt">Panevėžys</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-lt;DistrictMunicipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-lt;"/>
    </owl:NamedIndividual>
@@ -1147,7 +1147,7 @@
       <rdfs:label>Pasvalys</rdfs:label>
       <skos:definition>The district municipality of Pasvalys in the country of Lithuania</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Lithuania"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="lt">Pasvalys</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="lt">Pasvalys</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-lt;DistrictMunicipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-lt;"/>
    </owl:NamedIndividual>
@@ -1177,7 +1177,7 @@
       <rdfs:label>Plungė</rdfs:label>
       <skos:definition>The district municipality of Plungė in the country of Lithuania</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Lithuania"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="lt">Plungė</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="lt">Plungė</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-lt;DistrictMunicipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-lt;"/>
    </owl:NamedIndividual>
@@ -1207,7 +1207,7 @@
       <rdfs:label>Prienai</rdfs:label>
       <skos:definition>The district municipality of Prienai in the country of Lithuania</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Lithuania"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="lt">Prienai</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="lt">Prienai</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-lt;DistrictMunicipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-lt;"/>
    </owl:NamedIndividual>
@@ -1237,7 +1237,7 @@
       <rdfs:label>Radviliškis</rdfs:label>
       <skos:definition>The district municipality of Radviliškis in the country of Lithuania</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Lithuania"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="lt">Radviliškis</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="lt">Radviliškis</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-lt;DistrictMunicipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-lt;"/>
    </owl:NamedIndividual>
@@ -1267,7 +1267,7 @@
       <rdfs:label>Raseiniai</rdfs:label>
       <skos:definition>The district municipality of Raseiniai in the country of Lithuania</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Lithuania"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="lt">Raseiniai</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="lt">Raseiniai</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-lt;DistrictMunicipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-lt;"/>
    </owl:NamedIndividual>
@@ -1297,7 +1297,7 @@
       <rdfs:label>Rokiškis</rdfs:label>
       <skos:definition>The district municipality of Rokiškis in the country of Lithuania</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Lithuania"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="lt">Rokiškis</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="lt">Rokiškis</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-lt;DistrictMunicipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-lt;"/>
    </owl:NamedIndividual>
@@ -1327,7 +1327,7 @@
       <rdfs:label>Šakiai</rdfs:label>
       <skos:definition>The district municipality of Šakiai in the country of Lithuania</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Lithuania"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="lt">Šakiai</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="lt">Šakiai</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-lt;DistrictMunicipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-lt;"/>
    </owl:NamedIndividual>
@@ -1357,7 +1357,7 @@
       <rdfs:label>Šalčininkai</rdfs:label>
       <skos:definition>The district municipality of Šalčininkai in the country of Lithuania</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Lithuania"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="lt">Šalčininkai</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="lt">Šalčininkai</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-lt;DistrictMunicipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-lt;"/>
    </owl:NamedIndividual>
@@ -1387,7 +1387,7 @@
       <rdfs:label>Šiauliai</rdfs:label>
       <skos:definition>The district municipality of Šiauliai in the country of Lithuania</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Lithuania"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="lt">Šiauliai</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="lt">Šiauliai</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-lt;DistrictMunicipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-lt;"/>
    </owl:NamedIndividual>
@@ -1417,7 +1417,7 @@
       <rdfs:label>Šilalė</rdfs:label>
       <skos:definition>The district municipality of Šilalė in the country of Lithuania</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Lithuania"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="lt">Šilalė</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="lt">Šilalė</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-lt;DistrictMunicipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-lt;"/>
    </owl:NamedIndividual>
@@ -1447,7 +1447,7 @@
       <rdfs:label>Šilutė</rdfs:label>
       <skos:definition>The district municipality of Šilutė in the country of Lithuania</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Lithuania"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="lt">Šilutė</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="lt">Šilutė</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-lt;DistrictMunicipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-lt;"/>
    </owl:NamedIndividual>
@@ -1477,7 +1477,7 @@
       <rdfs:label>Širvintos</rdfs:label>
       <skos:definition>The district municipality of Širvintos in the country of Lithuania</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Lithuania"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="lt">Širvintos</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="lt">Širvintos</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-lt;DistrictMunicipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-lt;"/>
    </owl:NamedIndividual>
@@ -1507,7 +1507,7 @@
       <rdfs:label>Skuodas</rdfs:label>
       <skos:definition>The district municipality of Skuodas in the country of Lithuania</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Lithuania"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="lt">Skuodas</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="lt">Skuodas</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-lt;DistrictMunicipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-lt;"/>
    </owl:NamedIndividual>
@@ -1537,7 +1537,7 @@
       <rdfs:label>Švenčionys</rdfs:label>
       <skos:definition>The district municipality of Švenčionys in the country of Lithuania</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Lithuania"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="lt">Švenčionys</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="lt">Švenčionys</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-lt;DistrictMunicipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-lt;"/>
    </owl:NamedIndividual>
@@ -1567,7 +1567,7 @@
       <rdfs:label>Tauragė</rdfs:label>
       <skos:definition>The district municipality of Tauragė in the country of Lithuania</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Lithuania"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="lt">Tauragė</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="lt">Tauragė</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-lt;DistrictMunicipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-lt;"/>
    </owl:NamedIndividual>
@@ -1597,7 +1597,7 @@
       <rdfs:label>Telšiai</rdfs:label>
       <skos:definition>The district municipality of Telšiai in the country of Lithuania</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Lithuania"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="lt">Telšiai</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="lt">Telšiai</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-lt;DistrictMunicipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-lt;"/>
    </owl:NamedIndividual>
@@ -1627,7 +1627,7 @@
       <rdfs:label>Trakai</rdfs:label>
       <skos:definition>The district municipality of Trakai in the country of Lithuania</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Lithuania"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="lt">Trakai</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="lt">Trakai</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-lt;DistrictMunicipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-lt;"/>
    </owl:NamedIndividual>
@@ -1657,7 +1657,7 @@
       <rdfs:label>Ukmergė</rdfs:label>
       <skos:definition>The district municipality of Ukmergė in the country of Lithuania</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Lithuania"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="lt">Ukmergė</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="lt">Ukmergė</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-lt;DistrictMunicipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-lt;"/>
    </owl:NamedIndividual>
@@ -1687,7 +1687,7 @@
       <rdfs:label>Utena</rdfs:label>
       <skos:definition>The district municipality of Utena in the country of Lithuania</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Lithuania"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="lt">Utena</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="lt">Utena</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-lt;DistrictMunicipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-lt;"/>
    </owl:NamedIndividual>
@@ -1717,7 +1717,7 @@
       <rdfs:label>Varėna</rdfs:label>
       <skos:definition>The district municipality of Varėna in the country of Lithuania</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Lithuania"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="lt">Varėna</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="lt">Varėna</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-lt;DistrictMunicipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-lt;"/>
    </owl:NamedIndividual>
@@ -1747,7 +1747,7 @@
       <rdfs:label>Vilkaviškis</rdfs:label>
       <skos:definition>The district municipality of Vilkaviškis in the country of Lithuania</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Lithuania"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="lt">Vilkaviškis</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="lt">Vilkaviškis</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-lt;DistrictMunicipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-lt;"/>
    </owl:NamedIndividual>
@@ -1777,7 +1777,7 @@
       <rdfs:label>Vilnius</rdfs:label>
       <skos:definition>The district municipality of Vilnius in the country of Lithuania</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Lithuania"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="lt">Vilnius</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="lt">Vilnius</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-lt;DistrictMunicipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-lt;"/>
    </owl:NamedIndividual>
@@ -1807,7 +1807,7 @@
       <rdfs:label>Zarasai</rdfs:label>
       <skos:definition>The district municipality of Zarasai in the country of Lithuania</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Lithuania"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="lt">Zarasai</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="lt">Zarasai</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-lt;DistrictMunicipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-lt;"/>
    </owl:NamedIndividual>
@@ -1837,7 +1837,7 @@
       <rdfs:label>Birštono</rdfs:label>
       <skos:definition>The municipality of Birštono in the country of Lithuania</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Lithuania"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="lt">Birštono</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="lt">Birštono</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-lt;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-lt;"/>
    </owl:NamedIndividual>
@@ -1867,7 +1867,7 @@
       <rdfs:label>Druskininkai</rdfs:label>
       <skos:definition>The municipality of Druskininkai in the country of Lithuania</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Lithuania"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="lt">Druskininkai</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="lt">Druskininkai</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-lt;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-lt;"/>
    </owl:NamedIndividual>
@@ -1897,7 +1897,7 @@
       <rdfs:label>Elektrėnai</rdfs:label>
       <skos:definition>The municipality of Elektrėnai in the country of Lithuania</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Lithuania"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="lt">Elektrėnai</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="lt">Elektrėnai</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-lt;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-lt;"/>
    </owl:NamedIndividual>
@@ -1927,7 +1927,7 @@
       <rdfs:label>Kalvarijos</rdfs:label>
       <skos:definition>The municipality of Kalvarijos in the country of Lithuania</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Lithuania"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="lt">Kalvarijos</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="lt">Kalvarijos</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-lt;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-lt;"/>
    </owl:NamedIndividual>
@@ -1957,7 +1957,7 @@
       <rdfs:label>Kazlų Rūdos</rdfs:label>
       <skos:definition>The municipality of Kazlų Rūdos in the country of Lithuania</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Lithuania"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="lt">Kazlų Rūdos</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="lt">Kazlų Rūdos</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-lt;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-lt;"/>
    </owl:NamedIndividual>
@@ -1987,7 +1987,7 @@
       <rdfs:label>Neringa</rdfs:label>
       <skos:definition>The municipality of Neringa in the country of Lithuania</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Lithuania"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="lt">Neringa</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="lt">Neringa</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-lt;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-lt;"/>
    </owl:NamedIndividual>
@@ -2017,7 +2017,7 @@
       <rdfs:label>Pagėgiai</rdfs:label>
       <skos:definition>The municipality of Pagėgiai in the country of Lithuania</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Lithuania"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="lt">Pagėgiai</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="lt">Pagėgiai</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-lt;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-lt;"/>
    </owl:NamedIndividual>
@@ -2047,7 +2047,7 @@
       <rdfs:label>Rietavo</rdfs:label>
       <skos:definition>The municipality of Rietavo in the country of Lithuania</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Lithuania"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="lt">Rietavo</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="lt">Rietavo</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-lt;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-lt;"/>
    </owl:NamedIndividual>
@@ -2077,7 +2077,7 @@
       <rdfs:label>Visaginas</rdfs:label>
       <skos:definition>The municipality of Visaginas in the country of Lithuania</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Lithuania"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="lt">Visaginas</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="lt">Visaginas</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-lt;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-lt;"/>
    </owl:NamedIndividual>
@@ -2107,7 +2107,7 @@
       <rdfs:label>Telšių apskritis</rdfs:label>
       <skos:definition>The county of Telšių apskritis in the country of Lithuania</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Lithuania"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="lt">Telšių apskritis</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="lt">Telšių apskritis</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-lt;County"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-lt;"/>
    </owl:NamedIndividual>
@@ -2137,7 +2137,7 @@
       <rdfs:label>Klaipėdos apskritis</rdfs:label>
       <skos:definition>The county of Klaipėdos apskritis in the country of Lithuania</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Lithuania"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="lt">Klaipėdos apskritis</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="lt">Klaipėdos apskritis</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-lt;County"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-lt;"/>
    </owl:NamedIndividual>
@@ -2167,7 +2167,7 @@
       <rdfs:label>Tauragės apskritis</rdfs:label>
       <skos:definition>The county of Tauragės apskritis in the country of Lithuania</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Lithuania"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="lt">Tauragės apskritis</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="lt">Tauragės apskritis</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-lt;County"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-lt;"/>
    </owl:NamedIndividual>
@@ -2197,7 +2197,7 @@
       <rdfs:label>Vilniaus apskritis</rdfs:label>
       <skos:definition>The county of Vilniaus apskritis in the country of Lithuania</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Lithuania"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="lt">Vilniaus apskritis</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="lt">Vilniaus apskritis</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-lt;County"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-lt;"/>
    </owl:NamedIndividual>

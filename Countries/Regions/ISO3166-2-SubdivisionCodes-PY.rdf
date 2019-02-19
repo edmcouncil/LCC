@@ -113,7 +113,7 @@
       <rdfs:label>Ñeembucú</rdfs:label>
       <skos:definition>The department of Ñeembucú in the country of Paraguay</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Paraguay"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Ñeembucú</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Ñeembucú</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-py;Department"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-py;"/>
    </owl:NamedIndividual>
@@ -143,7 +143,7 @@
       <rdfs:label>Presidente Hayes</rdfs:label>
       <skos:definition>The department of Presidente Hayes in the country of Paraguay</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Paraguay"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Presidente Hayes</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Presidente Hayes</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-py;Department"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-py;"/>
    </owl:NamedIndividual>
@@ -173,7 +173,7 @@
       <rdfs:label>Cordillera</rdfs:label>
       <skos:definition>The department of Cordillera in the country of Paraguay</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Paraguay"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Cordillera</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Cordillera</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-py;Department"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-py;"/>
    </owl:NamedIndividual>
@@ -203,7 +203,7 @@
       <rdfs:label>Misiones</rdfs:label>
       <skos:definition>The department of Misiones in the country of Paraguay</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Paraguay"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Misiones</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Misiones</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-py;Department"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-py;"/>
    </owl:NamedIndividual>
@@ -233,7 +233,7 @@
       <rdfs:label>Paraguarí</rdfs:label>
       <skos:definition>The department of Paraguarí in the country of Paraguay</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Paraguay"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Paraguarí</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Paraguarí</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-py;Department"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-py;"/>
    </owl:NamedIndividual>
@@ -263,7 +263,7 @@
       <rdfs:label>Boquerón</rdfs:label>
       <skos:definition>The department of Boquerón in the country of Paraguay</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Paraguay"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Boquerón</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Boquerón</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-py;Department"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-py;"/>
    </owl:NamedIndividual>
@@ -293,7 +293,7 @@
       <rdfs:label>Caazapá</rdfs:label>
       <skos:definition>The department of Caazapá in the country of Paraguay</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Paraguay"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Caazapá</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Caazapá</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-py;Department"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-py;"/>
    </owl:NamedIndividual>
@@ -323,7 +323,7 @@
       <rdfs:label>Itapúa</rdfs:label>
       <skos:definition>The department of Itapúa in the country of Paraguay</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Paraguay"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Itapúa</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Itapúa</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-py;Department"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-py;"/>
    </owl:NamedIndividual>
@@ -353,7 +353,7 @@
       <rdfs:label>Asunción</rdfs:label>
       <skos:definition>The capital of Asunción in the country of Paraguay</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Paraguay"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Asunción</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Asunción</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-py;Capital"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-py;"/>
    </owl:NamedIndividual>
@@ -383,7 +383,7 @@
       <rdfs:label>Guairá</rdfs:label>
       <skos:definition>The department of Guairá in the country of Paraguay</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Paraguay"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Guairá</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Guairá</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-py;Department"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-py;"/>
    </owl:NamedIndividual>
@@ -413,7 +413,7 @@
       <rdfs:label>Concepción</rdfs:label>
       <skos:definition>The department of Concepción in the country of Paraguay</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Paraguay"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Concepción</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Concepción</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-py;Department"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-py;"/>
    </owl:NamedIndividual>
@@ -443,7 +443,7 @@
       <rdfs:label>Caaguazú</rdfs:label>
       <skos:definition>The department of Caaguazú in the country of Paraguay</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Paraguay"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Caaguazú</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Caaguazú</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-py;Department"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-py;"/>
    </owl:NamedIndividual>
@@ -473,7 +473,7 @@
       <rdfs:label>Amambay</rdfs:label>
       <skos:definition>The department of Amambay in the country of Paraguay</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Paraguay"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Amambay</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Amambay</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-py;Department"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-py;"/>
    </owl:NamedIndividual>
@@ -503,7 +503,7 @@
       <rdfs:label>Alto Paraguay</rdfs:label>
       <skos:definition>The department of Alto Paraguay in the country of Paraguay</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Paraguay"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Alto Paraguay</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Alto Paraguay</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-py;Department"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-py;"/>
    </owl:NamedIndividual>
@@ -533,7 +533,7 @@
       <rdfs:label>San Pedro</rdfs:label>
       <skos:definition>The department of San Pedro in the country of Paraguay</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Paraguay"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">San Pedro</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">San Pedro</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-py;Department"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-py;"/>
    </owl:NamedIndividual>
@@ -563,7 +563,7 @@
       <rdfs:label>Alto Paraná</rdfs:label>
       <skos:definition>The department of Alto Paraná in the country of Paraguay</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Paraguay"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Alto Paraná</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Alto Paraná</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-py;Department"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-py;"/>
    </owl:NamedIndividual>
@@ -593,7 +593,7 @@
       <rdfs:label>Central</rdfs:label>
       <skos:definition>The department of Central in the country of Paraguay</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Paraguay"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Central</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Central</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-py;Department"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-py;"/>
    </owl:NamedIndividual>
@@ -623,7 +623,7 @@
       <rdfs:label>Canindeyú</rdfs:label>
       <skos:definition>The department of Canindeyú in the country of Paraguay</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Paraguay"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Canindeyú</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Canindeyú</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-py;Department"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-py;"/>
    </owl:NamedIndividual>

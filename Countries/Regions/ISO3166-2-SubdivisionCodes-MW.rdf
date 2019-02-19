@@ -113,8 +113,8 @@
       <rdfs:label>Central Region</rdfs:label>
       <skos:definition>The region of Central Region in the country of Malawi</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Malawi"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Central Region</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ny">Chapakati</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Central Region</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ny">Chapakati</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mw;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mw;"/>
    </owl:NamedIndividual>
@@ -142,8 +142,8 @@
       <rdfs:label>Kasungu</rdfs:label>
       <skos:definition>The district of Kasungu in the country of Malawi</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-mw;CentralRegion"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ny">Kasungu</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Kasungu</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ny">Kasungu</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Kasungu</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mw;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mw;"/>
    </owl:NamedIndividual>
@@ -173,8 +173,8 @@
       <rdfs:label>Nkhotakota</rdfs:label>
       <skos:definition>The district of Nkhotakota in the country of Malawi</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-mw;CentralRegion"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ny">Nkhotakota</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Nkhotakota</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ny">Nkhotakota</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Nkhotakota</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mw;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mw;"/>
    </owl:NamedIndividual>
@@ -204,8 +204,8 @@
       <rdfs:label>Mchinji</rdfs:label>
       <skos:definition>The district of Mchinji in the country of Malawi</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-mw;CentralRegion"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ny">Mchinji</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Mchinji</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ny">Mchinji</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Mchinji</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mw;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mw;"/>
    </owl:NamedIndividual>
@@ -235,8 +235,8 @@
       <rdfs:label>Ntchisi</rdfs:label>
       <skos:definition>The district of Ntchisi in the country of Malawi</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-mw;CentralRegion"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Ntchisi</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ny">Ntchisi</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Ntchisi</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ny">Ntchisi</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mw;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mw;"/>
    </owl:NamedIndividual>
@@ -266,8 +266,8 @@
       <rdfs:label>Salima</rdfs:label>
       <skos:definition>The district of Salima in the country of Malawi</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-mw;CentralRegion"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Salima</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ny">Salima</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Salima</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ny">Salima</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mw;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mw;"/>
    </owl:NamedIndividual>
@@ -297,8 +297,8 @@
       <rdfs:label>Dedza</rdfs:label>
       <skos:definition>The district of Dedza in the country of Malawi</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-mw;CentralRegion"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ny">Dedza</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Dedza</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ny">Dedza</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Dedza</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mw;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mw;"/>
    </owl:NamedIndividual>
@@ -328,8 +328,8 @@
       <rdfs:label>Dowa</rdfs:label>
       <skos:definition>The district of Dowa in the country of Malawi</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-mw;CentralRegion"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ny">Dowa</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Dowa</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ny">Dowa</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Dowa</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mw;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mw;"/>
    </owl:NamedIndividual>
@@ -359,8 +359,8 @@
       <rdfs:label>Ntcheu</rdfs:label>
       <skos:definition>The district of Ntcheu in the country of Malawi</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-mw;CentralRegion"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ny">Ntcheu</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Ntcheu</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ny">Ntcheu</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Ntcheu</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mw;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mw;"/>
    </owl:NamedIndividual>
@@ -390,8 +390,8 @@
       <rdfs:label>Lilongwe</rdfs:label>
       <skos:definition>The district of Lilongwe in the country of Malawi</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-mw;CentralRegion"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Lilongwe</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ny">Lilongwe</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Lilongwe</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ny">Lilongwe</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mw;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mw;"/>
    </owl:NamedIndividual>
@@ -423,8 +423,8 @@
       <rdfs:label>Northern Region</rdfs:label>
       <skos:definition>The region of Northern Region in the country of Malawi</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Malawi"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ny">Chakumpoto</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Northern Region</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ny">Chakumpoto</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Northern Region</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mw;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mw;"/>
    </owl:NamedIndividual>
@@ -452,8 +452,8 @@
       <rdfs:label>Chitipa</rdfs:label>
       <skos:definition>The district of Chitipa in the country of Malawi</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-mw;NorthernRegion"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ny">Chitipa</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Chitipa</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ny">Chitipa</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Chitipa</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mw;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mw;"/>
    </owl:NamedIndividual>
@@ -483,8 +483,8 @@
       <rdfs:label>Karonga</rdfs:label>
       <skos:definition>The district of Karonga in the country of Malawi</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-mw;NorthernRegion"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ny">Karonga</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Karonga</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ny">Karonga</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Karonga</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mw;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mw;"/>
    </owl:NamedIndividual>
@@ -514,8 +514,8 @@
       <rdfs:label>Likoma</rdfs:label>
       <skos:definition>The district of Likoma in the country of Malawi</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-mw;NorthernRegion"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ny">Likoma</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Likoma</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ny">Likoma</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Likoma</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mw;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mw;"/>
    </owl:NamedIndividual>
@@ -545,8 +545,8 @@
       <rdfs:label>Nkhata Bay</rdfs:label>
       <skos:definition>The district of Nkhata Bay in the country of Malawi</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-mw;NorthernRegion"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ny">Nkhata Bay</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Nkhata Bay</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ny">Nkhata Bay</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Nkhata Bay</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mw;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mw;"/>
    </owl:NamedIndividual>
@@ -576,8 +576,8 @@
       <rdfs:label>Mzimba</rdfs:label>
       <skos:definition>The district of Mzimba in the country of Malawi</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-mw;NorthernRegion"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ny">Mzimba</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Mzimba</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ny">Mzimba</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Mzimba</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mw;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mw;"/>
    </owl:NamedIndividual>
@@ -607,8 +607,8 @@
       <rdfs:label>Rumphi</rdfs:label>
       <skos:definition>The district of Rumphi in the country of Malawi</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-mw;NorthernRegion"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ny">Rumphi</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Rumphi</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ny">Rumphi</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Rumphi</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mw;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mw;"/>
    </owl:NamedIndividual>
@@ -640,8 +640,8 @@
       <rdfs:label>Southern Region</rdfs:label>
       <skos:definition>The region of Southern Region in the country of Malawi</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Malawi"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ny">Chakumwera</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Southern Region</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ny">Chakumwera</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Southern Region</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mw;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mw;"/>
    </owl:NamedIndividual>
@@ -669,8 +669,8 @@
       <rdfs:label>Balaka</rdfs:label>
       <skos:definition>The district of Balaka in the country of Malawi</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-mw;SouthernRegion"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Balaka</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ny">Balaka</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Balaka</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ny">Balaka</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mw;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mw;"/>
    </owl:NamedIndividual>
@@ -700,8 +700,8 @@
       <rdfs:label>Chikwawa</rdfs:label>
       <skos:definition>The district of Chikwawa in the country of Malawi</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-mw;SouthernRegion"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Chikwawa</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ny">Chikwawa</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Chikwawa</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ny">Chikwawa</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mw;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mw;"/>
    </owl:NamedIndividual>
@@ -731,8 +731,8 @@
       <rdfs:label>Mangochi</rdfs:label>
       <skos:definition>The district of Mangochi in the country of Malawi</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-mw;SouthernRegion"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Mangochi</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ny">Mangochi</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Mangochi</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ny">Mangochi</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mw;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mw;"/>
    </owl:NamedIndividual>
@@ -762,8 +762,8 @@
       <rdfs:label>Mwanza</rdfs:label>
       <skos:definition>The district of Mwanza in the country of Malawi</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-mw;SouthernRegion"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ny">Mwanza</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Mwanza</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ny">Mwanza</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Mwanza</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mw;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mw;"/>
    </owl:NamedIndividual>
@@ -793,8 +793,8 @@
       <rdfs:label>Thyolo</rdfs:label>
       <skos:definition>The district of Thyolo in the country of Malawi</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-mw;SouthernRegion"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Thyolo</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ny">Thyolo</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Thyolo</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ny">Thyolo</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mw;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mw;"/>
    </owl:NamedIndividual>
@@ -824,8 +824,8 @@
       <rdfs:label>Blantyre</rdfs:label>
       <skos:definition>The district of Blantyre in the country of Malawi</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-mw;SouthernRegion"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Blantyre</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ny">Blantyre</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Blantyre</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ny">Blantyre</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mw;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mw;"/>
    </owl:NamedIndividual>
@@ -855,8 +855,8 @@
       <rdfs:label>Machinga</rdfs:label>
       <skos:definition>The district of Machinga in the country of Malawi</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-mw;SouthernRegion"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Machinga</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ny">Machinga</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Machinga</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ny">Machinga</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mw;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mw;"/>
    </owl:NamedIndividual>
@@ -886,8 +886,8 @@
       <rdfs:label>Neno</rdfs:label>
       <skos:definition>The district of Neno in the country of Malawi</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-mw;SouthernRegion"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ny">Neno</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Neno</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ny">Neno</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Neno</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mw;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mw;"/>
    </owl:NamedIndividual>
@@ -917,8 +917,8 @@
       <rdfs:label>Chiradzulu</rdfs:label>
       <skos:definition>The district of Chiradzulu in the country of Malawi</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-mw;SouthernRegion"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Chiradzulu</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ny">Chiradzulu</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Chiradzulu</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ny">Chiradzulu</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mw;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mw;"/>
    </owl:NamedIndividual>
@@ -948,8 +948,8 @@
       <rdfs:label>Mulanje</rdfs:label>
       <skos:definition>The district of Mulanje in the country of Malawi</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-mw;SouthernRegion"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Mulanje</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ny">Mulanje</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Mulanje</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ny">Mulanje</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mw;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mw;"/>
    </owl:NamedIndividual>
@@ -979,8 +979,8 @@
       <rdfs:label>Nsanje</rdfs:label>
       <skos:definition>The district of Nsanje in the country of Malawi</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-mw;SouthernRegion"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Nsanje</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ny">Nsanje</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Nsanje</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ny">Nsanje</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mw;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mw;"/>
    </owl:NamedIndividual>
@@ -1010,8 +1010,8 @@
       <rdfs:label>Phalombe</rdfs:label>
       <skos:definition>The district of Phalombe in the country of Malawi</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-mw;SouthernRegion"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Phalombe</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ny">Phalombe</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Phalombe</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ny">Phalombe</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mw;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mw;"/>
    </owl:NamedIndividual>
@@ -1041,8 +1041,8 @@
       <rdfs:label>Zomba</rdfs:label>
       <skos:definition>The district of Zomba in the country of Malawi</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-mw;SouthernRegion"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Zomba</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ny">Zomba</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Zomba</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ny">Zomba</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mw;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mw;"/>
    </owl:NamedIndividual>

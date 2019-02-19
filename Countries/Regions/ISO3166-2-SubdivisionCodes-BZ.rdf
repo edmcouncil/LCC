@@ -106,7 +106,7 @@
       <rdfs:label>Belize</rdfs:label>
       <skos:definition>The district of Belize in the country of Belize</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Belize"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Belize</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Belize</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-bz;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-bz;"/>
    </owl:NamedIndividual>
@@ -136,7 +136,7 @@
       <rdfs:label>Cayo</rdfs:label>
       <skos:definition>The district of Cayo in the country of Belize</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Belize"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Cayo</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Cayo</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-bz;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-bz;"/>
    </owl:NamedIndividual>
@@ -166,7 +166,7 @@
       <rdfs:label>Orange Walk</rdfs:label>
       <skos:definition>The district of Orange Walk in the country of Belize</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Belize"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Orange Walk</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Orange Walk</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-bz;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-bz;"/>
    </owl:NamedIndividual>
@@ -196,7 +196,7 @@
       <rdfs:label>Corozal</rdfs:label>
       <skos:definition>The district of Corozal in the country of Belize</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Belize"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Corozal</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Corozal</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-bz;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-bz;"/>
    </owl:NamedIndividual>
@@ -226,7 +226,7 @@
       <rdfs:label>Stann Creek</rdfs:label>
       <skos:definition>The district of Stann Creek in the country of Belize</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Belize"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Stann Creek</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Stann Creek</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-bz;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-bz;"/>
    </owl:NamedIndividual>
@@ -256,7 +256,7 @@
       <rdfs:label>Toledo</rdfs:label>
       <skos:definition>The district of Toledo in the country of Belize</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Belize"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Toledo</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Toledo</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-bz;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-bz;"/>
    </owl:NamedIndividual>

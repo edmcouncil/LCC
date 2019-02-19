@@ -113,7 +113,7 @@
       <rdfs:label>Aglonas novads</rdfs:label>
       <skos:definition>The municipality of Aglonas novads in the country of Latvia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Latvia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="lv">Aglonas novads</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="lv">Aglonas novads</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-lv;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-lv;"/>
    </owl:NamedIndividual>
@@ -143,7 +143,7 @@
       <rdfs:label>Grobiņas novads</rdfs:label>
       <skos:definition>The municipality of Grobiņas novads in the country of Latvia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Latvia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="lv">Grobiņas novads</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="lv">Grobiņas novads</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-lv;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-lv;"/>
    </owl:NamedIndividual>
@@ -173,7 +173,7 @@
       <rdfs:label>Gulbenes novads</rdfs:label>
       <skos:definition>The municipality of Gulbenes novads in the country of Latvia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Latvia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="lv">Gulbenes novads</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="lv">Gulbenes novads</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-lv;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-lv;"/>
    </owl:NamedIndividual>
@@ -203,7 +203,7 @@
       <rdfs:label>Kokneses novads</rdfs:label>
       <skos:definition>The municipality of Kokneses novads in the country of Latvia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Latvia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="lv">Kokneses novads</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="lv">Kokneses novads</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-lv;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-lv;"/>
    </owl:NamedIndividual>
@@ -233,7 +233,7 @@
       <rdfs:label>Krustpils novads</rdfs:label>
       <skos:definition>The municipality of Krustpils novads in the country of Latvia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Latvia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="lv">Krustpils novads</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="lv">Krustpils novads</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-lv;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-lv;"/>
    </owl:NamedIndividual>
@@ -263,7 +263,7 @@
       <rdfs:label>Lielvārdes novads</rdfs:label>
       <skos:definition>The municipality of Lielvārdes novads in the country of Latvia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Latvia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="lv">Lielvārdes novads</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="lv">Lielvārdes novads</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-lv;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-lv;"/>
    </owl:NamedIndividual>
@@ -293,7 +293,7 @@
       <rdfs:label>Mālpils novads</rdfs:label>
       <skos:definition>The municipality of Mālpils novads in the country of Latvia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Latvia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="lv">Mālpils novads</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="lv">Mālpils novads</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-lv;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-lv;"/>
    </owl:NamedIndividual>
@@ -323,7 +323,7 @@
       <rdfs:label>Pāvilostas novads</rdfs:label>
       <skos:definition>The municipality of Pāvilostas novads in the country of Latvia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Latvia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="lv">Pāvilostas novads</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="lv">Pāvilostas novads</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-lv;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-lv;"/>
    </owl:NamedIndividual>
@@ -353,7 +353,7 @@
       <rdfs:label>Preiļu novads</rdfs:label>
       <skos:definition>The municipality of Preiļu novads in the country of Latvia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Latvia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="lv">Preiļu novads</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="lv">Preiļu novads</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-lv;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-lv;"/>
    </owl:NamedIndividual>
@@ -383,7 +383,7 @@
       <rdfs:label>Rucavas novads</rdfs:label>
       <skos:definition>The municipality of Rucavas novads in the country of Latvia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Latvia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="lv">Rucavas novads</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="lv">Rucavas novads</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-lv;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-lv;"/>
    </owl:NamedIndividual>
@@ -413,7 +413,7 @@
       <rdfs:label>Sējas novads</rdfs:label>
       <skos:definition>The municipality of Sējas novads in the country of Latvia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Latvia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="lv">Sējas novads</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="lv">Sējas novads</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-lv;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-lv;"/>
    </owl:NamedIndividual>
@@ -443,7 +443,7 @@
       <rdfs:label>Tērvetes novads</rdfs:label>
       <skos:definition>The municipality of Tērvetes novads in the country of Latvia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Latvia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="lv">Tērvetes novads</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="lv">Tērvetes novads</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-lv;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-lv;"/>
    </owl:NamedIndividual>
@@ -473,7 +473,7 @@
       <rdfs:label>Jēkabpils</rdfs:label>
       <skos:definition>The republican city of Jēkabpils in the country of Latvia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Latvia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="lv">Jēkabpils</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="lv">Jēkabpils</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-lv;RepublicanCity"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-lv;"/>
    </owl:NamedIndividual>
@@ -503,7 +503,7 @@
       <rdfs:label>Ventspils</rdfs:label>
       <skos:definition>The republican city of Ventspils in the country of Latvia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Latvia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="lv">Ventspils</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="lv">Ventspils</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-lv;RepublicanCity"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-lv;"/>
    </owl:NamedIndividual>
@@ -533,7 +533,7 @@
       <rdfs:label>Auces novads</rdfs:label>
       <skos:definition>The municipality of Auces novads in the country of Latvia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Latvia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="lv">Auces novads</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="lv">Auces novads</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-lv;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-lv;"/>
    </owl:NamedIndividual>
@@ -563,7 +563,7 @@
       <rdfs:label>Beverīnas novads</rdfs:label>
       <skos:definition>The municipality of Beverīnas novads in the country of Latvia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Latvia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="lv">Beverīnas novads</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="lv">Beverīnas novads</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-lv;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-lv;"/>
    </owl:NamedIndividual>
@@ -593,7 +593,7 @@
       <rdfs:label>Ikšķiles novads</rdfs:label>
       <skos:definition>The municipality of Ikšķiles novads in the country of Latvia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Latvia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="lv">Ikšķiles novads</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="lv">Ikšķiles novads</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-lv;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-lv;"/>
    </owl:NamedIndividual>
@@ -623,7 +623,7 @@
       <rdfs:label>Olaines novads</rdfs:label>
       <skos:definition>The municipality of Olaines novads in the country of Latvia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Latvia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="lv">Olaines novads</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="lv">Olaines novads</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-lv;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-lv;"/>
    </owl:NamedIndividual>
@@ -653,7 +653,7 @@
       <rdfs:label>Priekuļu novads</rdfs:label>
       <skos:definition>The municipality of Priekuļu novads in the country of Latvia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Latvia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="lv">Priekuļu novads</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="lv">Priekuļu novads</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-lv;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-lv;"/>
    </owl:NamedIndividual>
@@ -683,7 +683,7 @@
       <rdfs:label>Raunas novads</rdfs:label>
       <skos:definition>The municipality of Raunas novads in the country of Latvia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Latvia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="lv">Raunas novads</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="lv">Raunas novads</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-lv;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-lv;"/>
    </owl:NamedIndividual>
@@ -713,7 +713,7 @@
       <rdfs:label>Saldus novads</rdfs:label>
       <skos:definition>The municipality of Saldus novads in the country of Latvia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Latvia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="lv">Saldus novads</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="lv">Saldus novads</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-lv;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-lv;"/>
    </owl:NamedIndividual>
@@ -743,7 +743,7 @@
       <rdfs:label>Talsu novads</rdfs:label>
       <skos:definition>The municipality of Talsu novads in the country of Latvia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Latvia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="lv">Talsu novads</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="lv">Talsu novads</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-lv;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-lv;"/>
    </owl:NamedIndividual>
@@ -773,7 +773,7 @@
       <rdfs:label>Viesītes novads</rdfs:label>
       <skos:definition>The municipality of Viesītes novads in the country of Latvia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Latvia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="lv">Viesītes novads</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="lv">Viesītes novads</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-lv;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-lv;"/>
    </owl:NamedIndividual>
@@ -803,7 +803,7 @@
       <rdfs:label>Jelgava</rdfs:label>
       <skos:definition>The republican city of Jelgava in the country of Latvia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Latvia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="lv">Jelgava</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="lv">Jelgava</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-lv;RepublicanCity"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-lv;"/>
    </owl:NamedIndividual>
@@ -833,7 +833,7 @@
       <rdfs:label>Valmiera</rdfs:label>
       <skos:definition>The republican city of Valmiera in the country of Latvia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Latvia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="lv">Valmiera</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="lv">Valmiera</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-lv;RepublicanCity"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-lv;"/>
    </owl:NamedIndividual>
@@ -863,7 +863,7 @@
       <rdfs:label>Alsungas novads</rdfs:label>
       <skos:definition>The municipality of Alsungas novads in the country of Latvia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Latvia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="lv">Alsungas novads</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="lv">Alsungas novads</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-lv;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-lv;"/>
    </owl:NamedIndividual>
@@ -893,7 +893,7 @@
       <rdfs:label>Ērgļu novads</rdfs:label>
       <skos:definition>The municipality of Ērgļu novads in the country of Latvia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Latvia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="lv">Ērgļu novads</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="lv">Ērgļu novads</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-lv;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-lv;"/>
    </owl:NamedIndividual>
@@ -923,7 +923,7 @@
       <rdfs:label>Inčukalna novads</rdfs:label>
       <skos:definition>The municipality of Inčukalna novads in the country of Latvia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Latvia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="lv">Inčukalna novads</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="lv">Inčukalna novads</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-lv;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-lv;"/>
    </owl:NamedIndividual>
@@ -953,7 +953,7 @@
       <rdfs:label>Jaunpiebalgas novads</rdfs:label>
       <skos:definition>The municipality of Jaunpiebalgas novads in the country of Latvia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Latvia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="lv">Jaunpiebalgas novads</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="lv">Jaunpiebalgas novads</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-lv;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-lv;"/>
    </owl:NamedIndividual>
@@ -983,7 +983,7 @@
       <rdfs:label>Kandavas novads</rdfs:label>
       <skos:definition>The municipality of Kandavas novads in the country of Latvia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Latvia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="lv">Kandavas novads</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="lv">Kandavas novads</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-lv;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-lv;"/>
    </owl:NamedIndividual>
@@ -1013,7 +1013,7 @@
       <rdfs:label>Kuldīgas novads</rdfs:label>
       <skos:definition>The municipality of Kuldīgas novads in the country of Latvia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Latvia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="lv">Kuldīgas novads</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="lv">Kuldīgas novads</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-lv;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-lv;"/>
    </owl:NamedIndividual>
@@ -1043,7 +1043,7 @@
       <rdfs:label>Līgatnes novads</rdfs:label>
       <skos:definition>The municipality of Līgatnes novads in the country of Latvia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Latvia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="lv">Līgatnes novads</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="lv">Līgatnes novads</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-lv;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-lv;"/>
    </owl:NamedIndividual>
@@ -1073,7 +1073,7 @@
       <rdfs:label>Neretas novads</rdfs:label>
       <skos:definition>The municipality of Neretas novads in the country of Latvia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Latvia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="lv">Neretas novads</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="lv">Neretas novads</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-lv;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-lv;"/>
    </owl:NamedIndividual>
@@ -1103,7 +1103,7 @@
       <rdfs:label>Pļaviņu novads</rdfs:label>
       <skos:definition>The municipality of Pļaviņu novads in the country of Latvia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Latvia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="lv">Pļaviņu novads</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="lv">Pļaviņu novads</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-lv;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-lv;"/>
    </owl:NamedIndividual>
@@ -1133,7 +1133,7 @@
       <rdfs:label>Rēzeknes novads</rdfs:label>
       <skos:definition>The municipality of Rēzeknes novads in the country of Latvia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Latvia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="lv">Rēzeknes novads</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="lv">Rēzeknes novads</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-lv;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-lv;"/>
    </owl:NamedIndividual>
@@ -1163,7 +1163,7 @@
       <rdfs:label>Rojas novads</rdfs:label>
       <skos:definition>The municipality of Rojas novads in the country of Latvia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Latvia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="lv">Rojas novads</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="lv">Rojas novads</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-lv;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-lv;"/>
    </owl:NamedIndividual>
@@ -1193,7 +1193,7 @@
       <rdfs:label>Salaspils novads</rdfs:label>
       <skos:definition>The municipality of Salaspils novads in the country of Latvia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Latvia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="lv">Salaspils novads</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="lv">Salaspils novads</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-lv;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-lv;"/>
    </owl:NamedIndividual>
@@ -1223,7 +1223,7 @@
       <rdfs:label>Saulkrastu novads</rdfs:label>
       <skos:definition>The municipality of Saulkrastu novads in the country of Latvia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Latvia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="lv">Saulkrastu novads</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="lv">Saulkrastu novads</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-lv;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-lv;"/>
    </owl:NamedIndividual>
@@ -1253,7 +1253,7 @@
       <rdfs:label>Siguldas novads</rdfs:label>
       <skos:definition>The municipality of Siguldas novads in the country of Latvia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Latvia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="lv">Siguldas novads</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="lv">Siguldas novads</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-lv;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-lv;"/>
    </owl:NamedIndividual>
@@ -1283,7 +1283,7 @@
       <rdfs:label>Smiltenes novads</rdfs:label>
       <skos:definition>The municipality of Smiltenes novads in the country of Latvia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Latvia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="lv">Smiltenes novads</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="lv">Smiltenes novads</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-lv;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-lv;"/>
    </owl:NamedIndividual>
@@ -1313,7 +1313,7 @@
       <rdfs:label>Vaiņodes novads</rdfs:label>
       <skos:definition>The municipality of Vaiņodes novads in the country of Latvia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Latvia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="lv">Vaiņodes novads</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="lv">Vaiņodes novads</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-lv;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-lv;"/>
    </owl:NamedIndividual>
@@ -1343,7 +1343,7 @@
       <rdfs:label>Vecpiebalgas novads</rdfs:label>
       <skos:definition>The municipality of Vecpiebalgas novads in the country of Latvia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Latvia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="lv">Vecpiebalgas novads</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="lv">Vecpiebalgas novads</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-lv;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-lv;"/>
    </owl:NamedIndividual>
@@ -1373,7 +1373,7 @@
       <rdfs:label>Rēzekne</rdfs:label>
       <skos:definition>The republican city of Rēzekne in the country of Latvia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Latvia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="lv">Rēzekne</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="lv">Rēzekne</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-lv;RepublicanCity"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-lv;"/>
    </owl:NamedIndividual>
@@ -1403,7 +1403,7 @@
       <rdfs:label>Baldones novads</rdfs:label>
       <skos:definition>The municipality of Baldones novads in the country of Latvia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Latvia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="lv">Baldones novads</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="lv">Baldones novads</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-lv;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-lv;"/>
    </owl:NamedIndividual>
@@ -1433,7 +1433,7 @@
       <rdfs:label>Ciblas novads</rdfs:label>
       <skos:definition>The municipality of Ciblas novads in the country of Latvia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Latvia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="lv">Ciblas novads</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="lv">Ciblas novads</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-lv;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-lv;"/>
    </owl:NamedIndividual>
@@ -1463,7 +1463,7 @@
       <rdfs:label>Daugavpils novads</rdfs:label>
       <skos:definition>The municipality of Daugavpils novads in the country of Latvia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Latvia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="lv">Daugavpils novads</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="lv">Daugavpils novads</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-lv;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-lv;"/>
    </owl:NamedIndividual>
@@ -1493,7 +1493,7 @@
       <rdfs:label>Dobeles novads</rdfs:label>
       <skos:definition>The municipality of Dobeles novads in the country of Latvia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Latvia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="lv">Dobeles novads</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="lv">Dobeles novads</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-lv;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-lv;"/>
    </owl:NamedIndividual>
@@ -1523,7 +1523,7 @@
       <rdfs:label>Engures novads</rdfs:label>
       <skos:definition>The municipality of Engures novads in the country of Latvia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Latvia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="lv">Engures novads</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="lv">Engures novads</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-lv;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-lv;"/>
    </owl:NamedIndividual>
@@ -1553,7 +1553,7 @@
       <rdfs:label>Kocēnu novads</rdfs:label>
       <skos:definition>The municipality of Kocēnu novads in the country of Latvia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Latvia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="lv">Kocēnu novads</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="lv">Kocēnu novads</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-lv;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-lv;"/>
    </owl:NamedIndividual>
@@ -1583,7 +1583,7 @@
       <rdfs:label>Madonas novads</rdfs:label>
       <skos:definition>The municipality of Madonas novads in the country of Latvia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Latvia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="lv">Madonas novads</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="lv">Madonas novads</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-lv;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-lv;"/>
    </owl:NamedIndividual>
@@ -1613,7 +1613,7 @@
       <rdfs:label>Ozolnieku novads</rdfs:label>
       <skos:definition>The municipality of Ozolnieku novads in the country of Latvia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Latvia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="lv">Ozolnieku novads</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="lv">Ozolnieku novads</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-lv;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-lv;"/>
    </owl:NamedIndividual>
@@ -1643,7 +1643,7 @@
       <rdfs:label>Rugāju novads</rdfs:label>
       <skos:definition>The municipality of Rugāju novads in the country of Latvia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Latvia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="lv">Rugāju novads</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="lv">Rugāju novads</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-lv;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-lv;"/>
    </owl:NamedIndividual>
@@ -1673,7 +1673,7 @@
       <rdfs:label>Salas novads</rdfs:label>
       <skos:definition>The municipality of Salas novads in the country of Latvia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Latvia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="lv">Salas novads</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="lv">Salas novads</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-lv;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-lv;"/>
    </owl:NamedIndividual>
@@ -1703,7 +1703,7 @@
       <rdfs:label>Skrīveru novads</rdfs:label>
       <skos:definition>The municipality of Skrīveru novads in the country of Latvia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Latvia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="lv">Skrīveru novads</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="lv">Skrīveru novads</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-lv;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-lv;"/>
    </owl:NamedIndividual>
@@ -1733,7 +1733,7 @@
       <rdfs:label>Vārkavas novads</rdfs:label>
       <skos:definition>The municipality of Vārkavas novads in the country of Latvia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Latvia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="lv">Vārkavas novads</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="lv">Vārkavas novads</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-lv;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-lv;"/>
    </owl:NamedIndividual>
@@ -1763,7 +1763,7 @@
       <rdfs:label>Jūrmala</rdfs:label>
       <skos:definition>The republican city of Jūrmala in the country of Latvia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Latvia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="lv">Jūrmala</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="lv">Jūrmala</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-lv;RepublicanCity"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-lv;"/>
    </owl:NamedIndividual>
@@ -1793,7 +1793,7 @@
       <rdfs:label>Aknīstes novads</rdfs:label>
       <skos:definition>The municipality of Aknīstes novads in the country of Latvia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Latvia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="lv">Aknīstes novads</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="lv">Aknīstes novads</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-lv;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-lv;"/>
    </owl:NamedIndividual>
@@ -1823,7 +1823,7 @@
       <rdfs:label>Ādažu novads</rdfs:label>
       <skos:definition>The municipality of Ādažu novads in the country of Latvia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Latvia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="lv">Ādažu novads</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="lv">Ādažu novads</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-lv;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-lv;"/>
    </owl:NamedIndividual>
@@ -1853,7 +1853,7 @@
       <rdfs:label>Brocēnu novads</rdfs:label>
       <skos:definition>The municipality of Brocēnu novads in the country of Latvia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Latvia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="lv">Brocēnu novads</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="lv">Brocēnu novads</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-lv;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-lv;"/>
    </owl:NamedIndividual>
@@ -1883,7 +1883,7 @@
       <rdfs:label>Durbes novads</rdfs:label>
       <skos:definition>The municipality of Durbes novads in the country of Latvia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Latvia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="lv">Durbes novads</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="lv">Durbes novads</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-lv;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-lv;"/>
    </owl:NamedIndividual>
@@ -1913,7 +1913,7 @@
       <rdfs:label>Naukšēnu novads</rdfs:label>
       <skos:definition>The municipality of Naukšēnu novads in the country of Latvia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Latvia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="lv">Naukšēnu novads</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="lv">Naukšēnu novads</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-lv;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-lv;"/>
    </owl:NamedIndividual>
@@ -1943,7 +1943,7 @@
       <rdfs:label>Valkas novads</rdfs:label>
       <skos:definition>The municipality of Valkas novads in the country of Latvia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Latvia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="lv">Valkas novads</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="lv">Valkas novads</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-lv;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-lv;"/>
    </owl:NamedIndividual>
@@ -1973,7 +1973,7 @@
       <rdfs:label>Vecumnieku novads</rdfs:label>
       <skos:definition>The municipality of Vecumnieku novads in the country of Latvia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Latvia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="lv">Vecumnieku novads</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="lv">Vecumnieku novads</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-lv;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-lv;"/>
    </owl:NamedIndividual>
@@ -2003,7 +2003,7 @@
       <rdfs:label>Viļakas novads</rdfs:label>
       <skos:definition>The municipality of Viļakas novads in the country of Latvia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Latvia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="lv">Viļakas novads</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="lv">Viļakas novads</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-lv;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-lv;"/>
    </owl:NamedIndividual>
@@ -2033,7 +2033,7 @@
       <rdfs:label>Daugavpils</rdfs:label>
       <skos:definition>The republican city of Daugavpils in the country of Latvia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Latvia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="lv">Daugavpils</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="lv">Daugavpils</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-lv;RepublicanCity"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-lv;"/>
    </owl:NamedIndividual>
@@ -2063,7 +2063,7 @@
       <rdfs:label>Liepāja</rdfs:label>
       <skos:definition>The republican city of Liepāja in the country of Latvia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Latvia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="lv">Liepāja</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="lv">Liepāja</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-lv;RepublicanCity"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-lv;"/>
    </owl:NamedIndividual>
@@ -2093,7 +2093,7 @@
       <rdfs:label>Rīga</rdfs:label>
       <skos:definition>The republican city of Rīga in the country of Latvia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Latvia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="lv">Rīga</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="lv">Rīga</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-lv;RepublicanCity"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-lv;"/>
    </owl:NamedIndividual>
@@ -2123,7 +2123,7 @@
       <rdfs:label>Babītes novads</rdfs:label>
       <skos:definition>The municipality of Babītes novads in the country of Latvia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Latvia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="lv">Babītes novads</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="lv">Babītes novads</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-lv;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-lv;"/>
    </owl:NamedIndividual>
@@ -2153,7 +2153,7 @@
       <rdfs:label>Baltinavas novads</rdfs:label>
       <skos:definition>The municipality of Baltinavas novads in the country of Latvia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Latvia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="lv">Baltinavas novads</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="lv">Baltinavas novads</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-lv;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-lv;"/>
    </owl:NamedIndividual>
@@ -2183,7 +2183,7 @@
       <rdfs:label>Burtnieku novads</rdfs:label>
       <skos:definition>The municipality of Burtnieku novads in the country of Latvia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Latvia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="lv">Burtnieku novads</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="lv">Burtnieku novads</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-lv;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-lv;"/>
    </owl:NamedIndividual>
@@ -2213,7 +2213,7 @@
       <rdfs:label>Carnikavas novads</rdfs:label>
       <skos:definition>The municipality of Carnikavas novads in the country of Latvia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Latvia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="lv">Carnikavas novads</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="lv">Carnikavas novads</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-lv;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-lv;"/>
    </owl:NamedIndividual>
@@ -2243,7 +2243,7 @@
       <rdfs:label>Cēsu novads</rdfs:label>
       <skos:definition>The municipality of Cēsu novads in the country of Latvia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Latvia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="lv">Cēsu novads</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="lv">Cēsu novads</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-lv;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-lv;"/>
    </owl:NamedIndividual>
@@ -2273,7 +2273,7 @@
       <rdfs:label>Garkalnes novads</rdfs:label>
       <skos:definition>The municipality of Garkalnes novads in the country of Latvia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Latvia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="lv">Garkalnes novads</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="lv">Garkalnes novads</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-lv;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-lv;"/>
    </owl:NamedIndividual>
@@ -2303,7 +2303,7 @@
       <rdfs:label>Ķeguma novads</rdfs:label>
       <skos:definition>The municipality of Ķeguma novads in the country of Latvia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Latvia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="lv">Ķeguma novads</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="lv">Ķeguma novads</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-lv;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-lv;"/>
    </owl:NamedIndividual>
@@ -2333,7 +2333,7 @@
       <rdfs:label>Ludzas novads</rdfs:label>
       <skos:definition>The municipality of Ludzas novads in the country of Latvia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Latvia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="lv">Ludzas novads</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="lv">Ludzas novads</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-lv;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-lv;"/>
    </owl:NamedIndividual>
@@ -2363,7 +2363,7 @@
       <rdfs:label>Mērsraga novads</rdfs:label>
       <skos:definition>The municipality of Mērsraga novads in the country of Latvia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Latvia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="lv">Mērsraga novads</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="lv">Mērsraga novads</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-lv;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-lv;"/>
    </owl:NamedIndividual>
@@ -2393,7 +2393,7 @@
       <rdfs:label>Nīcas novads</rdfs:label>
       <skos:definition>The municipality of Nīcas novads in the country of Latvia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Latvia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="lv">Nīcas novads</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="lv">Nīcas novads</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-lv;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-lv;"/>
    </owl:NamedIndividual>
@@ -2423,7 +2423,7 @@
       <rdfs:label>Ogres novads</rdfs:label>
       <skos:definition>The municipality of Ogres novads in the country of Latvia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Latvia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="lv">Ogres novads</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="lv">Ogres novads</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-lv;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-lv;"/>
    </owl:NamedIndividual>
@@ -2453,7 +2453,7 @@
       <rdfs:label>Pārgaujas novads</rdfs:label>
       <skos:definition>The municipality of Pārgaujas novads in the country of Latvia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Latvia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="lv">Pārgaujas novads</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="lv">Pārgaujas novads</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-lv;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-lv;"/>
    </owl:NamedIndividual>
@@ -2483,7 +2483,7 @@
       <rdfs:label>Skrundas novads</rdfs:label>
       <skos:definition>The municipality of Skrundas novads in the country of Latvia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Latvia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="lv">Skrundas novads</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="lv">Skrundas novads</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-lv;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-lv;"/>
    </owl:NamedIndividual>
@@ -2513,7 +2513,7 @@
       <rdfs:label>Stopiņu novads</rdfs:label>
       <skos:definition>The municipality of Stopiņu novads in the country of Latvia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Latvia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="lv">Stopiņu novads</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="lv">Stopiņu novads</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-lv;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-lv;"/>
    </owl:NamedIndividual>
@@ -2543,7 +2543,7 @@
       <rdfs:label>Strenču novads</rdfs:label>
       <skos:definition>The municipality of Strenču novads in the country of Latvia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Latvia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="lv">Strenču novads</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="lv">Strenču novads</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-lv;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-lv;"/>
    </owl:NamedIndividual>
@@ -2573,7 +2573,7 @@
       <rdfs:label>Tukuma novads</rdfs:label>
       <skos:definition>The municipality of Tukuma novads in the country of Latvia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Latvia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="lv">Tukuma novads</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="lv">Tukuma novads</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-lv;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-lv;"/>
    </owl:NamedIndividual>
@@ -2603,7 +2603,7 @@
       <rdfs:label>Varakļānu novads</rdfs:label>
       <skos:definition>The municipality of Varakļānu novads in the country of Latvia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Latvia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="lv">Varakļānu novads</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="lv">Varakļānu novads</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-lv;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-lv;"/>
    </owl:NamedIndividual>
@@ -2633,7 +2633,7 @@
       <rdfs:label>Aizkraukles novads</rdfs:label>
       <skos:definition>The municipality of Aizkraukles novads in the country of Latvia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Latvia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="lv">Aizkraukles novads</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="lv">Aizkraukles novads</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-lv;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-lv;"/>
    </owl:NamedIndividual>
@@ -2663,7 +2663,7 @@
       <rdfs:label>Alojas novads</rdfs:label>
       <skos:definition>The municipality of Alojas novads in the country of Latvia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Latvia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="lv">Alojas novads</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="lv">Alojas novads</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-lv;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-lv;"/>
    </owl:NamedIndividual>
@@ -2693,7 +2693,7 @@
       <rdfs:label>Alūksnes novads</rdfs:label>
       <skos:definition>The municipality of Alūksnes novads in the country of Latvia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Latvia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="lv">Alūksnes novads</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="lv">Alūksnes novads</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-lv;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-lv;"/>
    </owl:NamedIndividual>
@@ -2723,7 +2723,7 @@
       <rdfs:label>Amatas novads</rdfs:label>
       <skos:definition>The municipality of Amatas novads in the country of Latvia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Latvia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="lv">Amatas novads</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="lv">Amatas novads</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-lv;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-lv;"/>
    </owl:NamedIndividual>
@@ -2753,7 +2753,7 @@
       <rdfs:label>Balvu novads</rdfs:label>
       <skos:definition>The municipality of Balvu novads in the country of Latvia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Latvia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="lv">Balvu novads</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="lv">Balvu novads</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-lv;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-lv;"/>
    </owl:NamedIndividual>
@@ -2783,7 +2783,7 @@
       <rdfs:label>Dagdas novads</rdfs:label>
       <skos:definition>The municipality of Dagdas novads in the country of Latvia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Latvia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="lv">Dagdas novads</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="lv">Dagdas novads</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-lv;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-lv;"/>
    </owl:NamedIndividual>
@@ -2813,7 +2813,7 @@
       <rdfs:label>Dundagas novads</rdfs:label>
       <skos:definition>The municipality of Dundagas novads in the country of Latvia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Latvia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="lv">Dundagas novads</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="lv">Dundagas novads</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-lv;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-lv;"/>
    </owl:NamedIndividual>
@@ -2843,7 +2843,7 @@
       <rdfs:label>Ilūkstes novads</rdfs:label>
       <skos:definition>The municipality of Ilūkstes novads in the country of Latvia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Latvia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="lv">Ilūkstes novads</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="lv">Ilūkstes novads</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-lv;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-lv;"/>
    </owl:NamedIndividual>
@@ -2873,7 +2873,7 @@
       <rdfs:label>Krāslavas novads</rdfs:label>
       <skos:definition>The municipality of Krāslavas novads in the country of Latvia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Latvia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="lv">Krāslavas novads</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="lv">Krāslavas novads</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-lv;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-lv;"/>
    </owl:NamedIndividual>
@@ -2903,7 +2903,7 @@
       <rdfs:label>Krimuldas novads</rdfs:label>
       <skos:definition>The municipality of Krimuldas novads in the country of Latvia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Latvia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="lv">Krimuldas novads</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="lv">Krimuldas novads</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-lv;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-lv;"/>
    </owl:NamedIndividual>
@@ -2933,7 +2933,7 @@
       <rdfs:label>Limbažu novads</rdfs:label>
       <skos:definition>The municipality of Limbažu novads in the country of Latvia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Latvia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="lv">Limbažu novads</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="lv">Limbažu novads</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-lv;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-lv;"/>
    </owl:NamedIndividual>
@@ -2963,7 +2963,7 @@
       <rdfs:label>Līvānu novads</rdfs:label>
       <skos:definition>The municipality of Līvānu novads in the country of Latvia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Latvia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="lv">Līvānu novads</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="lv">Līvānu novads</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-lv;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-lv;"/>
    </owl:NamedIndividual>
@@ -2993,7 +2993,7 @@
       <rdfs:label>Mazsalacas novads</rdfs:label>
       <skos:definition>The municipality of Mazsalacas novads in the country of Latvia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Latvia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="lv">Mazsalacas novads</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="lv">Mazsalacas novads</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-lv;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-lv;"/>
    </owl:NamedIndividual>
@@ -3023,7 +3023,7 @@
       <rdfs:label>Riebiņu novads</rdfs:label>
       <skos:definition>The municipality of Riebiņu novads in the country of Latvia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Latvia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="lv">Riebiņu novads</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="lv">Riebiņu novads</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-lv;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-lv;"/>
    </owl:NamedIndividual>
@@ -3053,7 +3053,7 @@
       <rdfs:label>Ropažu novads</rdfs:label>
       <skos:definition>The municipality of Ropažu novads in the country of Latvia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Latvia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="lv">Ropažu novads</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="lv">Ropažu novads</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-lv;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-lv;"/>
    </owl:NamedIndividual>
@@ -3083,7 +3083,7 @@
       <rdfs:label>Rundāles novads</rdfs:label>
       <skos:definition>The municipality of Rundāles novads in the country of Latvia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Latvia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="lv">Rundāles novads</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="lv">Rundāles novads</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-lv;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-lv;"/>
    </owl:NamedIndividual>
@@ -3113,7 +3113,7 @@
       <rdfs:label>Salacgrīvas novads</rdfs:label>
       <skos:definition>The municipality of Salacgrīvas novads in the country of Latvia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Latvia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="lv">Salacgrīvas novads</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="lv">Salacgrīvas novads</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-lv;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-lv;"/>
    </owl:NamedIndividual>
@@ -3143,7 +3143,7 @@
       <rdfs:label>Zilupes novads</rdfs:label>
       <skos:definition>The municipality of Zilupes novads in the country of Latvia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Latvia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="lv">Zilupes novads</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="lv">Zilupes novads</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-lv;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-lv;"/>
    </owl:NamedIndividual>
@@ -3173,7 +3173,7 @@
       <rdfs:label>Aizputes novads</rdfs:label>
       <skos:definition>The municipality of Aizputes novads in the country of Latvia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Latvia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="lv">Aizputes novads</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="lv">Aizputes novads</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-lv;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-lv;"/>
    </owl:NamedIndividual>
@@ -3203,7 +3203,7 @@
       <rdfs:label>Apes novads</rdfs:label>
       <skos:definition>The municipality of Apes novads in the country of Latvia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Latvia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="lv">Apes novads</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="lv">Apes novads</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-lv;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-lv;"/>
    </owl:NamedIndividual>
@@ -3233,7 +3233,7 @@
       <rdfs:label>Bauskas novads</rdfs:label>
       <skos:definition>The municipality of Bauskas novads in the country of Latvia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Latvia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="lv">Bauskas novads</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="lv">Bauskas novads</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-lv;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-lv;"/>
    </owl:NamedIndividual>
@@ -3263,7 +3263,7 @@
       <rdfs:label>Cesvaines novads</rdfs:label>
       <skos:definition>The municipality of Cesvaines novads in the country of Latvia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Latvia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="lv">Cesvaines novads</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="lv">Cesvaines novads</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-lv;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-lv;"/>
    </owl:NamedIndividual>
@@ -3293,7 +3293,7 @@
       <rdfs:label>Iecavas novads</rdfs:label>
       <skos:definition>The municipality of Iecavas novads in the country of Latvia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Latvia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="lv">Iecavas novads</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="lv">Iecavas novads</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-lv;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-lv;"/>
    </owl:NamedIndividual>
@@ -3323,7 +3323,7 @@
       <rdfs:label>Jaunjelgavas novads</rdfs:label>
       <skos:definition>The municipality of Jaunjelgavas novads in the country of Latvia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Latvia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="lv">Jaunjelgavas novads</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="lv">Jaunjelgavas novads</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-lv;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-lv;"/>
    </owl:NamedIndividual>
@@ -3353,7 +3353,7 @@
       <rdfs:label>Jaunpils novads</rdfs:label>
       <skos:definition>The municipality of Jaunpils novads in the country of Latvia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Latvia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="lv">Jaunpils novads</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="lv">Jaunpils novads</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-lv;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-lv;"/>
    </owl:NamedIndividual>
@@ -3383,7 +3383,7 @@
       <rdfs:label>Jelgavas novads</rdfs:label>
       <skos:definition>The municipality of Jelgavas novads in the country of Latvia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Latvia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="lv">Jelgavas novads</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="lv">Jelgavas novads</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-lv;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-lv;"/>
    </owl:NamedIndividual>
@@ -3413,7 +3413,7 @@
       <rdfs:label>Jēkabpils novads</rdfs:label>
       <skos:definition>The municipality of Jēkabpils novads in the country of Latvia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Latvia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="lv">Jēkabpils novads</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="lv">Jēkabpils novads</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-lv;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-lv;"/>
    </owl:NamedIndividual>
@@ -3443,7 +3443,7 @@
       <rdfs:label>Kārsavas novads</rdfs:label>
       <skos:definition>The municipality of Kārsavas novads in the country of Latvia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Latvia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="lv">Kārsavas novads</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="lv">Kārsavas novads</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-lv;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-lv;"/>
    </owl:NamedIndividual>
@@ -3473,7 +3473,7 @@
       <rdfs:label>Ķekavas novads</rdfs:label>
       <skos:definition>The municipality of Ķekavas novads in the country of Latvia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Latvia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="lv">Ķekavas novads</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="lv">Ķekavas novads</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-lv;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-lv;"/>
    </owl:NamedIndividual>
@@ -3503,7 +3503,7 @@
       <rdfs:label>Lubānas novads</rdfs:label>
       <skos:definition>The municipality of Lubānas novads in the country of Latvia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Latvia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="lv">Lubānas novads</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="lv">Lubānas novads</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-lv;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-lv;"/>
    </owl:NamedIndividual>
@@ -3533,7 +3533,7 @@
       <rdfs:label>Mārupes novads</rdfs:label>
       <skos:definition>The municipality of Mārupes novads in the country of Latvia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Latvia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="lv">Mārupes novads</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="lv">Mārupes novads</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-lv;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-lv;"/>
    </owl:NamedIndividual>
@@ -3563,7 +3563,7 @@
       <rdfs:label>Priekules novads</rdfs:label>
       <skos:definition>The municipality of Priekules novads in the country of Latvia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Latvia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="lv">Priekules novads</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="lv">Priekules novads</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-lv;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-lv;"/>
    </owl:NamedIndividual>
@@ -3593,7 +3593,7 @@
       <rdfs:label>Rūjienas novads</rdfs:label>
       <skos:definition>The municipality of Rūjienas novads in the country of Latvia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Latvia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="lv">Rūjienas novads</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="lv">Rūjienas novads</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-lv;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-lv;"/>
    </owl:NamedIndividual>
@@ -3623,7 +3623,7 @@
       <rdfs:label>Ventspils novads</rdfs:label>
       <skos:definition>The municipality of Ventspils novads in the country of Latvia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Latvia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="lv">Ventspils novads</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="lv">Ventspils novads</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-lv;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-lv;"/>
    </owl:NamedIndividual>
@@ -3653,7 +3653,7 @@
       <rdfs:label>Viļānu novads</rdfs:label>
       <skos:definition>The municipality of Viļānu novads in the country of Latvia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Latvia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="lv">Viļānu novads</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="lv">Viļānu novads</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-lv;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-lv;"/>
    </owl:NamedIndividual>

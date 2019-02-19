@@ -113,8 +113,8 @@
       <rdfs:label>British Columbia</rdfs:label>
       <skos:definition>The province of British Columbia in the country of Canada</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Canada"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Colombie-Britannique</lcc-cr:hasFrenchShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">British Columbia</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Colombie-Britannique</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">British Columbia</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ca;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ca;"/>
    </owl:NamedIndividual>
@@ -144,8 +144,8 @@
       <rdfs:label>Manitoba</rdfs:label>
       <skos:definition>The province of Manitoba in the country of Canada</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Canada"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Manitoba</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Manitoba</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Manitoba</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Manitoba</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ca;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ca;"/>
    </owl:NamedIndividual>
@@ -175,8 +175,8 @@
       <rdfs:label>New Brunswick</rdfs:label>
       <skos:definition>The province of New Brunswick in the country of Canada</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Canada"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Nouveau-Brunswick</lcc-cr:hasFrenchShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">New Brunswick</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Nouveau-Brunswick</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">New Brunswick</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ca;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ca;"/>
    </owl:NamedIndividual>
@@ -206,8 +206,8 @@
       <rdfs:label>Saskatchewan</rdfs:label>
       <skos:definition>The province of Saskatchewan in the country of Canada</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Canada"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Saskatchewan</lcc-cr:hasFrenchShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Saskatchewan</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Saskatchewan</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Saskatchewan</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ca;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ca;"/>
    </owl:NamedIndividual>
@@ -237,8 +237,8 @@
       <rdfs:label>Alberta</rdfs:label>
       <skos:definition>The province of Alberta in the country of Canada</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Canada"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Alberta</lcc-cr:hasFrenchShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Alberta</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Alberta</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Alberta</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ca;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ca;"/>
    </owl:NamedIndividual>
@@ -268,8 +268,8 @@
       <rdfs:label>Ontario</rdfs:label>
       <skos:definition>The province of Ontario in the country of Canada</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Canada"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Ontario</lcc-cr:hasFrenchShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Ontario</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Ontario</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Ontario</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ca;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ca;"/>
    </owl:NamedIndividual>
@@ -299,8 +299,8 @@
       <rdfs:label>Yukon</rdfs:label>
       <skos:definition>The territory of Yukon in the country of Canada</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Canada"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Yukon</lcc-cr:hasFrenchShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Yukon</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Yukon</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Yukon</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ca;Territory"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ca;"/>
    </owl:NamedIndividual>
@@ -330,8 +330,8 @@
       <rdfs:label>Northwest Territories</rdfs:label>
       <skos:definition>The territory of Northwest Territories in the country of Canada</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Canada"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Territoires du Nord-Ouest</lcc-cr:hasFrenchShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Northwest Territories</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Territoires du Nord-Ouest</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Northwest Territories</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ca;Territory"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ca;"/>
    </owl:NamedIndividual>
@@ -361,8 +361,8 @@
       <rdfs:label>Nunavut</rdfs:label>
       <skos:definition>The territory of Nunavut in the country of Canada</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Canada"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Nunavut</lcc-cr:hasFrenchShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Nunavut</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Nunavut</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Nunavut</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ca;Territory"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ca;"/>
    </owl:NamedIndividual>
@@ -392,8 +392,8 @@
       <rdfs:label>Newfoundland and Labrador</rdfs:label>
       <skos:definition>The province of Newfoundland and Labrador in the country of Canada</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Canada"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Newfoundland and Labrador</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Terre-Neuve-et-Labrador</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Newfoundland and Labrador</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Terre-Neuve-et-Labrador</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ca;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ca;"/>
    </owl:NamedIndividual>
@@ -423,8 +423,8 @@
       <rdfs:label>Prince Edward Island</rdfs:label>
       <skos:definition>The province of Prince Edward Island in the country of Canada</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Canada"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Île-du-Prince-Édouard</lcc-cr:hasFrenchShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Prince Edward Island</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Île-du-Prince-Édouard</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Prince Edward Island</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ca;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ca;"/>
    </owl:NamedIndividual>
@@ -454,8 +454,8 @@
       <rdfs:label>Nova Scotia</rdfs:label>
       <skos:definition>The province of Nova Scotia in the country of Canada</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Canada"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Nova Scotia</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Nouvelle-Écosse</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Nova Scotia</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Nouvelle-Écosse</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ca;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ca;"/>
    </owl:NamedIndividual>
@@ -485,8 +485,8 @@
       <rdfs:label>Quebec</rdfs:label>
       <skos:definition>The province of Quebec in the country of Canada</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Canada"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Quebec</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Québec</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Quebec</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Québec</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ca;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ca;"/>
    </owl:NamedIndividual>

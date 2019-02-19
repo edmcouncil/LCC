@@ -113,7 +113,7 @@
       <rdfs:label>Aveiro</rdfs:label>
       <skos:definition>The district of Aveiro in the country of Portugal</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Portugal"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="pt">Aveiro</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="pt">Aveiro</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-pt;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-pt;"/>
    </owl:NamedIndividual>
@@ -143,7 +143,7 @@
       <rdfs:label>Beja</rdfs:label>
       <skos:definition>The district of Beja in the country of Portugal</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Portugal"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="pt">Beja</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="pt">Beja</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-pt;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-pt;"/>
    </owl:NamedIndividual>
@@ -173,7 +173,7 @@
       <rdfs:label>Castelo Branco</rdfs:label>
       <skos:definition>The district of Castelo Branco in the country of Portugal</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Portugal"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="pt">Castelo Branco</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="pt">Castelo Branco</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-pt;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-pt;"/>
    </owl:NamedIndividual>
@@ -203,7 +203,7 @@
       <rdfs:label>Guarda</rdfs:label>
       <skos:definition>The district of Guarda in the country of Portugal</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Portugal"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="pt">Guarda</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="pt">Guarda</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-pt;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-pt;"/>
    </owl:NamedIndividual>
@@ -233,7 +233,7 @@
       <rdfs:label>Portalegre</rdfs:label>
       <skos:definition>The district of Portalegre in the country of Portugal</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Portugal"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="pt">Portalegre</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="pt">Portalegre</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-pt;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-pt;"/>
    </owl:NamedIndividual>
@@ -263,7 +263,7 @@
       <rdfs:label>Bragança</rdfs:label>
       <skos:definition>The district of Bragança in the country of Portugal</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Portugal"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="pt">Bragança</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="pt">Bragança</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-pt;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-pt;"/>
    </owl:NamedIndividual>
@@ -293,7 +293,7 @@
       <rdfs:label>Coimbra</rdfs:label>
       <skos:definition>The district of Coimbra in the country of Portugal</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Portugal"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="pt">Coimbra</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="pt">Coimbra</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-pt;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-pt;"/>
    </owl:NamedIndividual>
@@ -323,7 +323,7 @@
       <rdfs:label>Leiria</rdfs:label>
       <skos:definition>The district of Leiria in the country of Portugal</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Portugal"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="pt">Leiria</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="pt">Leiria</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-pt;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-pt;"/>
    </owl:NamedIndividual>
@@ -353,7 +353,7 @@
       <rdfs:label>Lisboa</rdfs:label>
       <skos:definition>The district of Lisboa in the country of Portugal</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Portugal"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="pt">Lisboa</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="pt">Lisboa</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-pt;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-pt;"/>
    </owl:NamedIndividual>
@@ -383,7 +383,7 @@
       <rdfs:label>Setúbal</rdfs:label>
       <skos:definition>The district of Setúbal in the country of Portugal</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Portugal"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="pt">Setúbal</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="pt">Setúbal</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-pt;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-pt;"/>
    </owl:NamedIndividual>
@@ -413,7 +413,7 @@
       <rdfs:label>Viana do Castelo</rdfs:label>
       <skos:definition>The district of Viana do Castelo in the country of Portugal</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Portugal"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="pt">Viana do Castelo</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="pt">Viana do Castelo</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-pt;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-pt;"/>
    </owl:NamedIndividual>
@@ -443,7 +443,7 @@
       <rdfs:label>Região Autónoma da Madeira</rdfs:label>
       <skos:definition>The autonomous region of Região Autónoma da Madeira in the country of Portugal</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Portugal"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="pt">Região Autónoma da Madeira</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="pt">Região Autónoma da Madeira</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-pt;AutonomousRegion"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-pt;"/>
    </owl:NamedIndividual>
@@ -473,7 +473,7 @@
       <rdfs:label>Braga</rdfs:label>
       <skos:definition>The district of Braga in the country of Portugal</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Portugal"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="pt">Braga</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="pt">Braga</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-pt;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-pt;"/>
    </owl:NamedIndividual>
@@ -503,7 +503,7 @@
       <rdfs:label>Vila Real</rdfs:label>
       <skos:definition>The district of Vila Real in the country of Portugal</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Portugal"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="pt">Vila Real</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="pt">Vila Real</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-pt;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-pt;"/>
    </owl:NamedIndividual>
@@ -533,7 +533,7 @@
       <rdfs:label>Évora</rdfs:label>
       <skos:definition>The district of Évora in the country of Portugal</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Portugal"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="pt">Évora</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="pt">Évora</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-pt;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-pt;"/>
    </owl:NamedIndividual>
@@ -563,7 +563,7 @@
       <rdfs:label>Porto</rdfs:label>
       <skos:definition>The district of Porto in the country of Portugal</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Portugal"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="pt">Porto</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="pt">Porto</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-pt;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-pt;"/>
    </owl:NamedIndividual>
@@ -593,7 +593,7 @@
       <rdfs:label>Santarém</rdfs:label>
       <skos:definition>The district of Santarém in the country of Portugal</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Portugal"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="pt">Santarém</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="pt">Santarém</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-pt;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-pt;"/>
    </owl:NamedIndividual>
@@ -623,7 +623,7 @@
       <rdfs:label>Faro</rdfs:label>
       <skos:definition>The district of Faro in the country of Portugal</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Portugal"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="pt">Faro</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="pt">Faro</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-pt;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-pt;"/>
    </owl:NamedIndividual>
@@ -653,7 +653,7 @@
       <rdfs:label>Viseu</rdfs:label>
       <skos:definition>The district of Viseu in the country of Portugal</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Portugal"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="pt">Viseu</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="pt">Viseu</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-pt;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-pt;"/>
    </owl:NamedIndividual>
@@ -683,7 +683,7 @@
       <rdfs:label>Região Autónoma dos Açores</rdfs:label>
       <skos:definition>The autonomous region of Região Autónoma dos Açores in the country of Portugal</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Portugal"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="pt">Região Autónoma dos Açores</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="pt">Região Autónoma dos Açores</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-pt;AutonomousRegion"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-pt;"/>
    </owl:NamedIndividual>

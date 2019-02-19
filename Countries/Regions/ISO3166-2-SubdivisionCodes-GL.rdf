@@ -106,7 +106,7 @@
       <rdfs:label>Qeqqata Kommunia</rdfs:label>
       <skos:definition>The municipality of Qeqqata Kommunia in the country of Greenland</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Greenland"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="kl">Qeqqata Kommunia</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="kl">Qeqqata Kommunia</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gl;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gl;"/>
    </owl:NamedIndividual>
@@ -136,7 +136,7 @@
       <rdfs:label>Avannaata Kommunia</rdfs:label>
       <skos:definition>The municipality of Avannaata Kommunia in the country of Greenland</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Greenland"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="kl">Avannaata Kommunia</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="kl">Avannaata Kommunia</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gl;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gl;"/>
    </owl:NamedIndividual>
@@ -166,7 +166,7 @@
       <rdfs:label>Kommune Qeqertalik</rdfs:label>
       <skos:definition>The municipality of Kommune Qeqertalik in the country of Greenland</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Greenland"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="kl">Kommune Qeqertalik</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="kl">Kommune Qeqertalik</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gl;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gl;"/>
    </owl:NamedIndividual>
@@ -196,7 +196,7 @@
       <rdfs:label>Kommune Kujalleq</rdfs:label>
       <skos:definition>The municipality of Kommune Kujalleq in the country of Greenland</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Greenland"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="kl">Kommune Kujalleq</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="kl">Kommune Kujalleq</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gl;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gl;"/>
    </owl:NamedIndividual>
@@ -226,7 +226,7 @@
       <rdfs:label>Kommuneqarfik Sermersooq</rdfs:label>
       <skos:definition>The municipality of Kommuneqarfik Sermersooq in the country of Greenland</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Greenland"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="kl">Kommuneqarfik Sermersooq</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="kl">Kommuneqarfik Sermersooq</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gl;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gl;"/>
    </owl:NamedIndividual>

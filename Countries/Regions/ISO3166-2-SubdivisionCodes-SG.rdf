@@ -106,7 +106,7 @@
       <rdfs:label>North East</rdfs:label>
       <skos:definition>The district of North East in the country of Singapore</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Singapore"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">North East</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">North East</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-sg;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-sg;"/>
    </owl:NamedIndividual>
@@ -136,7 +136,7 @@
       <rdfs:label>North West</rdfs:label>
       <skos:definition>The district of North West in the country of Singapore</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Singapore"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">North West</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">North West</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-sg;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-sg;"/>
    </owl:NamedIndividual>
@@ -166,7 +166,7 @@
       <rdfs:label>South East</rdfs:label>
       <skos:definition>The district of South East in the country of Singapore</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Singapore"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">South East</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">South East</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-sg;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-sg;"/>
    </owl:NamedIndividual>
@@ -196,7 +196,7 @@
       <rdfs:label>Central Singapore</rdfs:label>
       <skos:definition>The district of Central Singapore in the country of Singapore</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Singapore"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Central Singapore</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Central Singapore</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-sg;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-sg;"/>
    </owl:NamedIndividual>
@@ -226,7 +226,7 @@
       <rdfs:label>South West</rdfs:label>
       <skos:definition>The district of South West in the country of Singapore</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Singapore"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">South West</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">South West</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-sg;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-sg;"/>
    </owl:NamedIndividual>

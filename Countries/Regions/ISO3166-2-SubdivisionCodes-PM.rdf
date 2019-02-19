@@ -99,8 +99,8 @@
       <rdfs:label>Miquelon *</rdfs:label>
       <skos:definition>The territory of Miquelon * in the country of Saint Pierre and Miquelon</skos:definition>
       <lcc-cr:hasNumericRegionCode rdf:datatype="&xsd;string">1129</lcc-cr:hasNumericRegionCode>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Miquelon *</lcc-cr:hasFrenchShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Miquelon *</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Miquelon *</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Miquelon *</lcc-cr:hasEnglishShortName>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;SaintPierreAndMiquelon"/>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2;Territory"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-pm;"/>

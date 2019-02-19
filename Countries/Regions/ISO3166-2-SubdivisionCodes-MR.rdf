@@ -106,7 +106,7 @@
       <rdfs:label>Hodh ech Chargui</rdfs:label>
       <skos:definition>The region of Hodh ech Chargui in the country of Mauritania</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Mauritania"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Hodh ech Chargui</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Hodh ech Chargui</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mr;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mr;"/>
    </owl:NamedIndividual>
@@ -136,7 +136,7 @@
       <rdfs:label>Brakna</rdfs:label>
       <skos:definition>The region of Brakna in the country of Mauritania</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Mauritania"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Brakna</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Brakna</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mr;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mr;"/>
    </owl:NamedIndividual>
@@ -166,7 +166,7 @@
       <rdfs:label>Hodh el Gharbi</rdfs:label>
       <skos:definition>The region of Hodh el Gharbi in the country of Mauritania</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Mauritania"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Hodh el Gharbi</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Hodh el Gharbi</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mr;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mr;"/>
    </owl:NamedIndividual>
@@ -196,7 +196,7 @@
       <rdfs:label>Dakhlet Nouâdhibou</rdfs:label>
       <skos:definition>The region of Dakhlet Nouâdhibou in the country of Mauritania</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Mauritania"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Dakhlet Nouâdhibou</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Dakhlet Nouâdhibou</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mr;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mr;"/>
    </owl:NamedIndividual>
@@ -226,7 +226,7 @@
       <rdfs:label>Assaba</rdfs:label>
       <skos:definition>The region of Assaba in the country of Mauritania</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Mauritania"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Assaba</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Assaba</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mr;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mr;"/>
    </owl:NamedIndividual>
@@ -256,7 +256,7 @@
       <rdfs:label>Adrar</rdfs:label>
       <skos:definition>The region of Adrar in the country of Mauritania</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Mauritania"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Adrar</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Adrar</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mr;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mr;"/>
    </owl:NamedIndividual>
@@ -286,7 +286,7 @@
       <rdfs:label>Gorgol</rdfs:label>
       <skos:definition>The region of Gorgol in the country of Mauritania</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Mauritania"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Gorgol</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Gorgol</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mr;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mr;"/>
    </owl:NamedIndividual>
@@ -316,7 +316,7 @@
       <rdfs:label>Inchiri</rdfs:label>
       <skos:definition>The region of Inchiri in the country of Mauritania</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Mauritania"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Inchiri</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Inchiri</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mr;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mr;"/>
    </owl:NamedIndividual>
@@ -346,7 +346,7 @@
       <rdfs:label>Guidimaka</rdfs:label>
       <skos:definition>The region of Guidimaka in the country of Mauritania</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Mauritania"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Guidimaka</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Guidimaka</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mr;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mr;"/>
    </owl:NamedIndividual>
@@ -376,7 +376,7 @@
       <rdfs:label>Trarza</rdfs:label>
       <skos:definition>The region of Trarza in the country of Mauritania</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Mauritania"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Trarza</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Trarza</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mr;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mr;"/>
    </owl:NamedIndividual>
@@ -406,7 +406,7 @@
       <rdfs:label>Tagant</rdfs:label>
       <skos:definition>The region of Tagant in the country of Mauritania</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Mauritania"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Tagant</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Tagant</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mr;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mr;"/>
    </owl:NamedIndividual>
@@ -436,7 +436,7 @@
       <rdfs:label>Tiris Zemmour</rdfs:label>
       <skos:definition>The region of Tiris Zemmour in the country of Mauritania</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Mauritania"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Tiris Zemmour</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Tiris Zemmour</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mr;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mr;"/>
    </owl:NamedIndividual>
@@ -466,8 +466,8 @@
       <rdfs:label>Nouakchott Ouest</rdfs:label>
       <skos:definition>The region of Nouakchott Ouest in the country of Mauritania</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Mauritania"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Nouakchott Ouest</lcc-cr:hasFrenchShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Nuwākshūţ al Gharbīyah</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Nouakchott Ouest</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Nuwākshūţ al Gharbīyah</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mr;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mr;"/>
    </owl:NamedIndividual>
@@ -497,8 +497,8 @@
       <rdfs:label>Nouakchott Nord</rdfs:label>
       <skos:definition>The region of Nouakchott Nord in the country of Mauritania</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Mauritania"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Nouakchott Nord</lcc-cr:hasFrenchShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Nuwākshūţ ash Shamālīyah</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Nouakchott Nord</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Nuwākshūţ ash Shamālīyah</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mr;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mr;"/>
    </owl:NamedIndividual>
@@ -528,8 +528,8 @@
       <rdfs:label>Nouakchott Sud</rdfs:label>
       <skos:definition>The region of Nouakchott Sud in the country of Mauritania</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Mauritania"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Nouakchott Sud</lcc-cr:hasFrenchShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Nuwākshūţ al Janūbīyah</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Nouakchott Sud</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Nuwākshūţ al Janūbīyah</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mr;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mr;"/>
    </owl:NamedIndividual>

@@ -106,7 +106,7 @@
       <rdfs:label>Magallanes</rdfs:label>
       <skos:definition>The region of Magallanes in the country of Chile</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Chile"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Magallanes</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Magallanes</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-cl;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-cl;"/>
    </owl:NamedIndividual>
@@ -136,7 +136,7 @@
       <rdfs:label>Ñuble</rdfs:label>
       <skos:definition>The region of Ñuble in the country of Chile</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Chile"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Ñuble</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Ñuble</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-cl;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-cl;"/>
    </owl:NamedIndividual>
@@ -166,7 +166,7 @@
       <rdfs:label>Antofagasta</rdfs:label>
       <skos:definition>The region of Antofagasta in the country of Chile</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Chile"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Antofagasta</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Antofagasta</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-cl;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-cl;"/>
    </owl:NamedIndividual>
@@ -196,7 +196,7 @@
       <rdfs:label>Región Metropolitana de Santiago</rdfs:label>
       <skos:definition>The region of Región Metropolitana de Santiago in the country of Chile</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Chile"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Región Metropolitana de Santiago</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Región Metropolitana de Santiago</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-cl;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-cl;"/>
    </owl:NamedIndividual>
@@ -226,7 +226,7 @@
       <rdfs:label>Tarapacá</rdfs:label>
       <skos:definition>The region of Tarapacá in the country of Chile</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Chile"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Tarapacá</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Tarapacá</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-cl;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-cl;"/>
    </owl:NamedIndividual>
@@ -256,7 +256,7 @@
       <rdfs:label>Biobío</rdfs:label>
       <skos:definition>The region of Biobío in the country of Chile</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Chile"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Biobío</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Biobío</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-cl;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-cl;"/>
    </owl:NamedIndividual>
@@ -286,7 +286,7 @@
       <rdfs:label>Arica y Parinacota</rdfs:label>
       <skos:definition>The region of Arica y Parinacota in the country of Chile</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Chile"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Arica y Parinacota</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Arica y Parinacota</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-cl;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-cl;"/>
    </owl:NamedIndividual>
@@ -316,7 +316,7 @@
       <rdfs:label>Atacama</rdfs:label>
       <skos:definition>The region of Atacama in the country of Chile</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Chile"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Atacama</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Atacama</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-cl;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-cl;"/>
    </owl:NamedIndividual>
@@ -346,7 +346,7 @@
       <rdfs:label>Los Lagos</rdfs:label>
       <skos:definition>The region of Los Lagos in the country of Chile</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Chile"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Los Lagos</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Los Lagos</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-cl;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-cl;"/>
    </owl:NamedIndividual>
@@ -376,7 +376,7 @@
       <rdfs:label>Los Ríos</rdfs:label>
       <skos:definition>The region of Los Ríos in the country of Chile</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Chile"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Los Ríos</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Los Ríos</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-cl;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-cl;"/>
    </owl:NamedIndividual>
@@ -406,7 +406,7 @@
       <rdfs:label>Maule</rdfs:label>
       <skos:definition>The region of Maule in the country of Chile</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Chile"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Maule</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Maule</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-cl;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-cl;"/>
    </owl:NamedIndividual>
@@ -436,7 +436,7 @@
       <rdfs:label>La Araucanía</rdfs:label>
       <skos:definition>The region of La Araucanía in the country of Chile</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Chile"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">La Araucanía</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">La Araucanía</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-cl;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-cl;"/>
    </owl:NamedIndividual>
@@ -466,7 +466,7 @@
       <rdfs:label>Libertador General Bernardo O'Higgins</rdfs:label>
       <skos:definition>The region of Libertador General Bernardo O'Higgins in the country of Chile</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Chile"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Libertador General Bernardo O'Higgins</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Libertador General Bernardo O'Higgins</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-cl;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-cl;"/>
    </owl:NamedIndividual>
@@ -496,7 +496,7 @@
       <rdfs:label>Aisén del General Carlos Ibañez del Campo</rdfs:label>
       <skos:definition>The region of Aisén del General Carlos Ibañez del Campo in the country of Chile</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Chile"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Aisén del General Carlos Ibañez del Campo</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Aisén del General Carlos Ibañez del Campo</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-cl;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-cl;"/>
    </owl:NamedIndividual>
@@ -526,7 +526,7 @@
       <rdfs:label>Valparaíso</rdfs:label>
       <skos:definition>The region of Valparaíso in the country of Chile</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Chile"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Valparaíso</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Valparaíso</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-cl;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-cl;"/>
    </owl:NamedIndividual>
@@ -556,7 +556,7 @@
       <rdfs:label>Coquimbo</rdfs:label>
       <skos:definition>The region of Coquimbo in the country of Chile</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Chile"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Coquimbo</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Coquimbo</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-cl;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-cl;"/>
    </owl:NamedIndividual>
@@ -586,8 +586,8 @@
       <rdfs:label>Easter Island</rdfs:label>
       <skos:definition>The territory of Easter Island in the country of Chile</skos:definition>
       <lcc-cr:hasNumericRegionCode rdf:datatype="&xsd;string">1053</lcc-cr:hasNumericRegionCode>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Île de Pâques</lcc-cr:hasFrenchShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Easter Island</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Île de Pâques</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Easter Island</lcc-cr:hasEnglishShortName>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Chile"/>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2;Territory"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-cl;"/>
@@ -605,8 +605,8 @@
       <rdfs:label>Juan Fernández Islands</rdfs:label>
       <skos:definition>The territory of Juan Fernández Islands in the country of Chile</skos:definition>
       <lcc-cr:hasNumericRegionCode rdf:datatype="&xsd;string">1094</lcc-cr:hasNumericRegionCode>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">les Îles Juan Fernández</lcc-cr:hasFrenchShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Juan Fernández Islands</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">les Îles Juan Fernández</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Juan Fernández Islands</lcc-cr:hasEnglishShortName>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Chile"/>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2;Territory"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-cl;"/>
@@ -624,8 +624,8 @@
       <rdfs:label>Sala y Gómez Island</rdfs:label>
       <skos:definition>The territory of Sala y Gómez Island in the country of Chile</skos:definition>
       <lcc-cr:hasNumericRegionCode rdf:datatype="&xsd;string">1179</lcc-cr:hasNumericRegionCode>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">l'Île Sala y Gómez</lcc-cr:hasFrenchShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Sala y Gómez Island</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">l'Île Sala y Gómez</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Sala y Gómez Island</lcc-cr:hasEnglishShortName>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Chile"/>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2;Territory"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-cl;"/>
@@ -643,8 +643,8 @@
       <rdfs:label>San Ambrosio Island</rdfs:label>
       <skos:definition>The territory of San Ambrosio Island in the country of Chile</skos:definition>
       <lcc-cr:hasNumericRegionCode rdf:datatype="&xsd;string">1182</lcc-cr:hasNumericRegionCode>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">l'Île San Ambrosio</lcc-cr:hasFrenchShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">San Ambrosio Island</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">l'Île San Ambrosio</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">San Ambrosio Island</lcc-cr:hasEnglishShortName>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Chile"/>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2;Territory"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-cl;"/>
@@ -662,8 +662,8 @@
       <rdfs:label>San Félix Island</rdfs:label>
       <skos:definition>The territory of San Félix Island in the country of Chile</skos:definition>
       <lcc-cr:hasNumericRegionCode rdf:datatype="&xsd;string">1185</lcc-cr:hasNumericRegionCode>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">l'Île San Félix</lcc-cr:hasFrenchShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">San Félix Island</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">l'Île San Félix</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">San Félix Island</lcc-cr:hasEnglishShortName>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Chile"/>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2;Territory"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-cl;"/>

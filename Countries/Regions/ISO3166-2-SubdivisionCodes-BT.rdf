@@ -106,7 +106,7 @@
       <rdfs:label>Paro</rdfs:label>
       <skos:definition>The district of Paro in the country of Bhutan</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Bhutan"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="dz">Paro</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="dz">Paro</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-bt;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-bt;"/>
    </owl:NamedIndividual>
@@ -136,7 +136,7 @@
       <rdfs:label>Monggar</rdfs:label>
       <skos:definition>The district of Monggar in the country of Bhutan</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Bhutan"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="dz">Monggar</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="dz">Monggar</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-bt;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-bt;"/>
    </owl:NamedIndividual>
@@ -166,7 +166,7 @@
       <rdfs:label>Samdrup Jongkhar</rdfs:label>
       <skos:definition>The district of Samdrup Jongkhar in the country of Bhutan</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Bhutan"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="dz">Samdrup Jongkhar</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="dz">Samdrup Jongkhar</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-bt;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-bt;"/>
    </owl:NamedIndividual>
@@ -196,7 +196,7 @@
       <rdfs:label>Chhukha</rdfs:label>
       <skos:definition>The district of Chhukha in the country of Bhutan</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Bhutan"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="dz">Chhukha</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="dz">Chhukha</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-bt;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-bt;"/>
    </owl:NamedIndividual>
@@ -226,7 +226,7 @@
       <rdfs:label>Punakha</rdfs:label>
       <skos:definition>The district of Punakha in the country of Bhutan</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Bhutan"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="dz">Punakha</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="dz">Punakha</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-bt;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-bt;"/>
    </owl:NamedIndividual>
@@ -256,7 +256,7 @@
       <rdfs:label>Wangdue Phodrang</rdfs:label>
       <skos:definition>The district of Wangdue Phodrang in the country of Bhutan</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Bhutan"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="dz">Wangdue Phodrang</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="dz">Wangdue Phodrang</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-bt;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-bt;"/>
    </owl:NamedIndividual>
@@ -286,7 +286,7 @@
       <rdfs:label>Tsirang</rdfs:label>
       <skos:definition>The district of Tsirang in the country of Bhutan</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Bhutan"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="dz">Tsirang</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="dz">Tsirang</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-bt;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-bt;"/>
    </owl:NamedIndividual>
@@ -316,7 +316,7 @@
       <rdfs:label>Bumthang</rdfs:label>
       <skos:definition>The district of Bumthang in the country of Bhutan</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Bhutan"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="dz">Bumthang</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="dz">Bumthang</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-bt;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-bt;"/>
    </owl:NamedIndividual>
@@ -346,7 +346,7 @@
       <rdfs:label>Zhemgang</rdfs:label>
       <skos:definition>The district of Zhemgang in the country of Bhutan</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Bhutan"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="dz">Zhemgang</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="dz">Zhemgang</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-bt;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-bt;"/>
    </owl:NamedIndividual>
@@ -376,7 +376,7 @@
       <rdfs:label>Sarpang</rdfs:label>
       <skos:definition>The district of Sarpang in the country of Bhutan</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Bhutan"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="dz">Sarpang</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="dz">Sarpang</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-bt;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-bt;"/>
    </owl:NamedIndividual>
@@ -406,7 +406,7 @@
       <rdfs:label>Samtse</rdfs:label>
       <skos:definition>The district of Samtse in the country of Bhutan</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Bhutan"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="dz">Samtse</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="dz">Samtse</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-bt;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-bt;"/>
    </owl:NamedIndividual>
@@ -436,7 +436,7 @@
       <rdfs:label>Thimphu</rdfs:label>
       <skos:definition>The district of Thimphu in the country of Bhutan</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Bhutan"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="dz">Thimphu</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="dz">Thimphu</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-bt;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-bt;"/>
    </owl:NamedIndividual>
@@ -466,7 +466,7 @@
       <rdfs:label>Lhuentse</rdfs:label>
       <skos:definition>The district of Lhuentse in the country of Bhutan</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Bhutan"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="dz">Lhuentse</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="dz">Lhuentse</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-bt;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-bt;"/>
    </owl:NamedIndividual>
@@ -496,7 +496,7 @@
       <rdfs:label>Trashi Yangtse</rdfs:label>
       <skos:definition>The district of Trashi Yangtse in the country of Bhutan</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Bhutan"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="dz">Trashi Yangtse</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="dz">Trashi Yangtse</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-bt;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-bt;"/>
    </owl:NamedIndividual>
@@ -526,7 +526,7 @@
       <rdfs:label>Haa</rdfs:label>
       <skos:definition>The district of Haa in the country of Bhutan</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Bhutan"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="dz">Haa</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="dz">Haa</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-bt;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-bt;"/>
    </owl:NamedIndividual>
@@ -556,7 +556,7 @@
       <rdfs:label>Trashigang</rdfs:label>
       <skos:definition>The district of Trashigang in the country of Bhutan</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Bhutan"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="dz">Trashigang</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="dz">Trashigang</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-bt;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-bt;"/>
    </owl:NamedIndividual>
@@ -586,7 +586,7 @@
       <rdfs:label>Gasa</rdfs:label>
       <skos:definition>The district of Gasa in the country of Bhutan</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Bhutan"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="dz">Gasa</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="dz">Gasa</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-bt;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-bt;"/>
    </owl:NamedIndividual>
@@ -616,7 +616,7 @@
       <rdfs:label>Dagana</rdfs:label>
       <skos:definition>The district of Dagana in the country of Bhutan</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Bhutan"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="dz">Dagana</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="dz">Dagana</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-bt;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-bt;"/>
    </owl:NamedIndividual>
@@ -646,7 +646,7 @@
       <rdfs:label>Trongsa</rdfs:label>
       <skos:definition>The district of Trongsa in the country of Bhutan</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Bhutan"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="dz">Trongsa</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="dz">Trongsa</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-bt;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-bt;"/>
    </owl:NamedIndividual>
@@ -676,7 +676,7 @@
       <rdfs:label>Pemagatshel</rdfs:label>
       <skos:definition>The district of Pemagatshel in the country of Bhutan</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Bhutan"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="dz">Pemagatshel</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="dz">Pemagatshel</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-bt;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-bt;"/>
    </owl:NamedIndividual>

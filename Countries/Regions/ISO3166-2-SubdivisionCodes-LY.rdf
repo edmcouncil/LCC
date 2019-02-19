@@ -106,7 +106,7 @@
       <rdfs:label>Banghāzī</rdfs:label>
       <skos:definition>The popularate of Banghāzī in the country of Libya</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Libya"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Banghāzī</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Banghāzī</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ly;Popularate"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ly;"/>
    </owl:NamedIndividual>
@@ -136,7 +136,7 @@
       <rdfs:label>Al Buţnān</rdfs:label>
       <skos:definition>The popularate of Al Buţnān in the country of Libya</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Libya"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Al Buţnān</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Al Buţnān</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ly;Popularate"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ly;"/>
    </owl:NamedIndividual>
@@ -166,7 +166,7 @@
       <rdfs:label>Darnah</rdfs:label>
       <skos:definition>The popularate of Darnah in the country of Libya</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Libya"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Darnah</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Darnah</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ly;Popularate"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ly;"/>
    </owl:NamedIndividual>
@@ -196,7 +196,7 @@
       <rdfs:label>Al Jafārah</rdfs:label>
       <skos:definition>The popularate of Al Jafārah in the country of Libya</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Libya"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Al Jafārah</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Al Jafārah</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ly;Popularate"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ly;"/>
    </owl:NamedIndividual>
@@ -226,7 +226,7 @@
       <rdfs:label>Mişrātah</rdfs:label>
       <skos:definition>The popularate of Mişrātah in the country of Libya</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Libya"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Mişrātah</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Mişrātah</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ly;Popularate"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ly;"/>
    </owl:NamedIndividual>
@@ -256,7 +256,7 @@
       <rdfs:label>Nālūt</rdfs:label>
       <skos:definition>The popularate of Nālūt in the country of Libya</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Libya"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Nālūt</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Nālūt</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ly;Popularate"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ly;"/>
    </owl:NamedIndividual>
@@ -286,7 +286,7 @@
       <rdfs:label>An Nuqāţ al Khams</rdfs:label>
       <skos:definition>The popularate of An Nuqāţ al Khams in the country of Libya</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Libya"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">An Nuqāţ al Khams</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">An Nuqāţ al Khams</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ly;Popularate"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ly;"/>
    </owl:NamedIndividual>
@@ -316,7 +316,7 @@
       <rdfs:label>Surt</rdfs:label>
       <skos:definition>The popularate of Surt in the country of Libya</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Libya"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Surt</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Surt</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ly;Popularate"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ly;"/>
    </owl:NamedIndividual>
@@ -346,7 +346,7 @@
       <rdfs:label>Az Zāwiyah</rdfs:label>
       <skos:definition>The popularate of Az Zāwiyah in the country of Libya</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Libya"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Az Zāwiyah</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Az Zāwiyah</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ly;Popularate"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ly;"/>
    </owl:NamedIndividual>
@@ -376,7 +376,7 @@
       <rdfs:label>Al Jufrah</rdfs:label>
       <skos:definition>The popularate of Al Jufrah in the country of Libya</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Libya"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Al Jufrah</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Al Jufrah</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ly;Popularate"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ly;"/>
    </owl:NamedIndividual>
@@ -406,7 +406,7 @@
       <rdfs:label>Al Marqab</rdfs:label>
       <skos:definition>The popularate of Al Marqab in the country of Libya</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Libya"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Al Marqab</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Al Marqab</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ly;Popularate"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ly;"/>
    </owl:NamedIndividual>
@@ -436,7 +436,7 @@
       <rdfs:label>Wādī al Ḩayāt</rdfs:label>
       <skos:definition>The popularate of Wādī al Ḩayāt in the country of Libya</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Libya"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Wādī al Ḩayāt</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Wādī al Ḩayāt</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ly;Popularate"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ly;"/>
    </owl:NamedIndividual>
@@ -466,7 +466,7 @@
       <rdfs:label>Ghāt</rdfs:label>
       <skos:definition>The popularate of Ghāt in the country of Libya</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Libya"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Ghāt</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Ghāt</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ly;Popularate"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ly;"/>
    </owl:NamedIndividual>
@@ -496,7 +496,7 @@
       <rdfs:label>Ţarābulus</rdfs:label>
       <skos:definition>The popularate of Ţarābulus in the country of Libya</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Libya"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Ţarābulus</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Ţarābulus</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ly;Popularate"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ly;"/>
    </owl:NamedIndividual>
@@ -526,7 +526,7 @@
       <rdfs:label>Al Jabal al Akhḑar</rdfs:label>
       <skos:definition>The popularate of Al Jabal al Akhḑar in the country of Libya</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Libya"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Al Jabal al Akhḑar</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Al Jabal al Akhḑar</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ly;Popularate"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ly;"/>
    </owl:NamedIndividual>
@@ -556,7 +556,7 @@
       <rdfs:label>Al Kufrah</rdfs:label>
       <skos:definition>The popularate of Al Kufrah in the country of Libya</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Libya"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Al Kufrah</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Al Kufrah</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ly;Popularate"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ly;"/>
    </owl:NamedIndividual>
@@ -586,7 +586,7 @@
       <rdfs:label>Murzuq</rdfs:label>
       <skos:definition>The popularate of Murzuq in the country of Libya</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Libya"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Murzuq</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Murzuq</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ly;Popularate"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ly;"/>
    </owl:NamedIndividual>
@@ -616,7 +616,7 @@
       <rdfs:label>Al Jabal al Gharbī</rdfs:label>
       <skos:definition>The popularate of Al Jabal al Gharbī in the country of Libya</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Libya"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Al Jabal al Gharbī</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Al Jabal al Gharbī</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ly;Popularate"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ly;"/>
    </owl:NamedIndividual>
@@ -646,7 +646,7 @@
       <rdfs:label>Wādī ash Shāţi’</rdfs:label>
       <skos:definition>The popularate of Wādī ash Shāţi’ in the country of Libya</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Libya"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Wādī ash Shāţi’</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Wādī ash Shāţi’</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ly;Popularate"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ly;"/>
    </owl:NamedIndividual>
@@ -676,7 +676,7 @@
       <rdfs:label>Al Marj</rdfs:label>
       <skos:definition>The popularate of Al Marj in the country of Libya</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Libya"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Al Marj</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Al Marj</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ly;Popularate"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ly;"/>
    </owl:NamedIndividual>
@@ -706,7 +706,7 @@
       <rdfs:label>Sabhā</rdfs:label>
       <skos:definition>The popularate of Sabhā in the country of Libya</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Libya"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Sabhā</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Sabhā</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ly;Popularate"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ly;"/>
    </owl:NamedIndividual>
@@ -736,7 +736,7 @@
       <rdfs:label>Al Wāḩāt</rdfs:label>
       <skos:definition>The popularate of Al Wāḩāt in the country of Libya</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Libya"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Al Wāḩāt</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Al Wāḩāt</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ly;Popularate"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ly;"/>
    </owl:NamedIndividual>

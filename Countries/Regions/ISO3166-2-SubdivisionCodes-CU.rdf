@@ -113,7 +113,7 @@
       <rdfs:label>Matanzas</rdfs:label>
       <skos:definition>The province of Matanzas in the country of Cuba</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Cuba"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Matanzas</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Matanzas</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-cu;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-cu;"/>
    </owl:NamedIndividual>
@@ -143,7 +143,7 @@
       <rdfs:label>Cienfuegos</rdfs:label>
       <skos:definition>The province of Cienfuegos in the country of Cuba</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Cuba"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Cienfuegos</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Cienfuegos</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-cu;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-cu;"/>
    </owl:NamedIndividual>
@@ -173,7 +173,7 @@
       <rdfs:label>La Habana</rdfs:label>
       <skos:definition>The province of La Habana in the country of Cuba</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Cuba"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">La Habana</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">La Habana</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-cu;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-cu;"/>
    </owl:NamedIndividual>
@@ -203,7 +203,7 @@
       <rdfs:label>Sancti Spíritus</rdfs:label>
       <skos:definition>The province of Sancti Spíritus in the country of Cuba</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Cuba"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Sancti Spíritus</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Sancti Spíritus</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-cu;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-cu;"/>
    </owl:NamedIndividual>
@@ -233,7 +233,7 @@
       <rdfs:label>Granma</rdfs:label>
       <skos:definition>The province of Granma in the country of Cuba</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Cuba"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Granma</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Granma</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-cu;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-cu;"/>
    </owl:NamedIndividual>
@@ -263,7 +263,7 @@
       <rdfs:label>Villa Clara</rdfs:label>
       <skos:definition>The province of Villa Clara in the country of Cuba</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Cuba"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Villa Clara</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Villa Clara</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-cu;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-cu;"/>
    </owl:NamedIndividual>
@@ -293,7 +293,7 @@
       <rdfs:label>Holguín</rdfs:label>
       <skos:definition>The province of Holguín in the country of Cuba</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Cuba"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Holguín</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Holguín</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-cu;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-cu;"/>
    </owl:NamedIndividual>
@@ -323,7 +323,7 @@
       <rdfs:label>Ciego de Ávila</rdfs:label>
       <skos:definition>The province of Ciego de Ávila in the country of Cuba</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Cuba"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Ciego de Ávila</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Ciego de Ávila</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-cu;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-cu;"/>
    </owl:NamedIndividual>
@@ -353,7 +353,7 @@
       <rdfs:label>Camagüey</rdfs:label>
       <skos:definition>The province of Camagüey in the country of Cuba</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Cuba"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Camagüey</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Camagüey</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-cu;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-cu;"/>
    </owl:NamedIndividual>
@@ -383,7 +383,7 @@
       <rdfs:label>Las Tunas</rdfs:label>
       <skos:definition>The province of Las Tunas in the country of Cuba</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Cuba"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Las Tunas</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Las Tunas</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-cu;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-cu;"/>
    </owl:NamedIndividual>
@@ -413,7 +413,7 @@
       <rdfs:label>Santiago de Cuba</rdfs:label>
       <skos:definition>The province of Santiago de Cuba in the country of Cuba</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Cuba"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Santiago de Cuba</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Santiago de Cuba</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-cu;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-cu;"/>
    </owl:NamedIndividual>
@@ -443,7 +443,7 @@
       <rdfs:label>Artemisa</rdfs:label>
       <skos:definition>The province of Artemisa in the country of Cuba</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Cuba"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Artemisa</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Artemisa</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-cu;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-cu;"/>
    </owl:NamedIndividual>
@@ -473,7 +473,7 @@
       <rdfs:label>Mayabeque</rdfs:label>
       <skos:definition>The province of Mayabeque in the country of Cuba</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Cuba"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Mayabeque</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Mayabeque</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-cu;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-cu;"/>
    </owl:NamedIndividual>
@@ -503,7 +503,7 @@
       <rdfs:label>Pinar del Río</rdfs:label>
       <skos:definition>The province of Pinar del Río in the country of Cuba</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Cuba"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Pinar del Río</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Pinar del Río</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-cu;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-cu;"/>
    </owl:NamedIndividual>
@@ -533,7 +533,7 @@
       <rdfs:label>Guantánamo</rdfs:label>
       <skos:definition>The province of Guantánamo in the country of Cuba</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Cuba"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Guantánamo</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Guantánamo</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-cu;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-cu;"/>
    </owl:NamedIndividual>
@@ -563,7 +563,7 @@
       <rdfs:label>Isla de la Juventud</rdfs:label>
       <skos:definition>The special municipality of Isla de la Juventud in the country of Cuba</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Cuba"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Isla de la Juventud</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Isla de la Juventud</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-cu;SpecialMunicipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-cu;"/>
    </owl:NamedIndividual>

@@ -106,7 +106,7 @@
       <rdfs:label>Heredia</rdfs:label>
       <skos:definition>The province of Heredia in the country of Costa Rica</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;CostaRica"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Heredia</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Heredia</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-cr;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-cr;"/>
    </owl:NamedIndividual>
@@ -136,7 +136,7 @@
       <rdfs:label>Limón</rdfs:label>
       <skos:definition>The province of Limón in the country of Costa Rica</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;CostaRica"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Limón</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Limón</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-cr;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-cr;"/>
    </owl:NamedIndividual>
@@ -166,7 +166,7 @@
       <rdfs:label>Guanacaste</rdfs:label>
       <skos:definition>The province of Guanacaste in the country of Costa Rica</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;CostaRica"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Guanacaste</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Guanacaste</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-cr;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-cr;"/>
    </owl:NamedIndividual>
@@ -196,7 +196,7 @@
       <rdfs:label>Puntarenas</rdfs:label>
       <skos:definition>The province of Puntarenas in the country of Costa Rica</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;CostaRica"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Puntarenas</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Puntarenas</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-cr;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-cr;"/>
    </owl:NamedIndividual>
@@ -226,7 +226,7 @@
       <rdfs:label>Alajuela</rdfs:label>
       <skos:definition>The province of Alajuela in the country of Costa Rica</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;CostaRica"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Alajuela</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Alajuela</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-cr;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-cr;"/>
    </owl:NamedIndividual>
@@ -256,7 +256,7 @@
       <rdfs:label>Cartago</rdfs:label>
       <skos:definition>The province of Cartago in the country of Costa Rica</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;CostaRica"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Cartago</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Cartago</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-cr;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-cr;"/>
    </owl:NamedIndividual>
@@ -286,7 +286,7 @@
       <rdfs:label>San José</rdfs:label>
       <skos:definition>The province of San José in the country of Costa Rica</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;CostaRica"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">San José</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">San José</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-cr;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-cr;"/>
    </owl:NamedIndividual>
@@ -316,8 +316,8 @@
       <rdfs:label>Coco Island</rdfs:label>
       <skos:definition>The territory of Coco Island in the country of Costa Rica</skos:definition>
       <lcc-cr:hasNumericRegionCode rdf:datatype="&xsd;string">1044</lcc-cr:hasNumericRegionCode>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">l'Île du Coco</lcc-cr:hasFrenchShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Coco Island</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">l'Île du Coco</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Coco Island</lcc-cr:hasEnglishShortName>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;CostaRica"/>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2;Territory"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-cr;"/>

@@ -106,8 +106,8 @@
       <rdfs:label>Manzini</rdfs:label>
       <skos:definition>The region of Manzini in the country of Eswatini</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Eswatini"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Manzini</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ss">Manzini</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Manzini</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ss">Manzini</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-sz;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-sz;"/>
    </owl:NamedIndividual>
@@ -137,8 +137,8 @@
       <rdfs:label>Shiselweni</rdfs:label>
       <skos:definition>The region of Shiselweni in the country of Eswatini</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Eswatini"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Shiselweni</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ss">Shiselweni</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Shiselweni</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ss">Shiselweni</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-sz;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-sz;"/>
    </owl:NamedIndividual>
@@ -168,8 +168,8 @@
       <rdfs:label>Lubombo</rdfs:label>
       <skos:definition>The region of Lubombo in the country of Eswatini</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Eswatini"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ss">Lubombo</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Lubombo</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ss">Lubombo</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Lubombo</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-sz;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-sz;"/>
    </owl:NamedIndividual>
@@ -199,8 +199,8 @@
       <rdfs:label>Hhohho</rdfs:label>
       <skos:definition>The region of Hhohho in the country of Eswatini</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Eswatini"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ss">Hhohho</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Hhohho</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ss">Hhohho</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Hhohho</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-sz;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-sz;"/>
    </owl:NamedIndividual>

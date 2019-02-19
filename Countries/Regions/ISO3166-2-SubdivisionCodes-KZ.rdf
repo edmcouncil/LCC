@@ -113,9 +113,9 @@
       <rdfs:label>Aqmola oblysy</rdfs:label>
       <skos:definition>The region of Aqmola oblysy in the country of Kazakhstan</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Kazakhstan"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="kk">Aqmola oblysy</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ru">Akmolinskaja oblast'</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ru">Akmolinskaya oblast'</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="kk">Aqmola oblysy</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ru">Akmolinskaja oblast'</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ru">Akmolinskaya oblast'</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-kz;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-kz;"/>
    </owl:NamedIndividual>
@@ -145,9 +145,9 @@
       <rdfs:label>Kyzylordinskaja oblast'</rdfs:label>
       <skos:definition>The region of Kyzylordinskaja oblast' in the country of Kazakhstan</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Kazakhstan"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ru">Kyzylordinskaja oblast'</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="kk">Qyzylorda oblysy</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ru">Kyzylordinskaya oblast'</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ru">Kyzylordinskaja oblast'</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="kk">Qyzylorda oblysy</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ru">Kyzylordinskaya oblast'</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-kz;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-kz;"/>
    </owl:NamedIndividual>
@@ -177,9 +177,9 @@
       <rdfs:label>Vostočno-Kazahstanskaja oblast'</rdfs:label>
       <skos:definition>The region of Vostočno-Kazahstanskaja oblast' in the country of Kazakhstan</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Kazakhstan"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ru">Vostočno-Kazahstanskaja oblast'</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ru">Vostochno-Kazakhstanskaya oblast'</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="kk">Shyghys Qazaqstan oblysy</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ru">Vostočno-Kazahstanskaja oblast'</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ru">Vostochno-Kazakhstanskaya oblast'</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="kk">Shyghys Qazaqstan oblysy</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-kz;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-kz;"/>
    </owl:NamedIndividual>
@@ -209,9 +209,9 @@
       <rdfs:label>Šimkent</rdfs:label>
       <skos:definition>The city of Šimkent in the country of Kazakhstan</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Kazakhstan"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ru">Šimkent</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ru">Shymkent</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="kk">Shymkent</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ru">Šimkent</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ru">Shymkent</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="kk">Shymkent</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-kz;City"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-kz;"/>
    </owl:NamedIndividual>
@@ -241,9 +241,9 @@
       <rdfs:label>Bajkonyr</rdfs:label>
       <skos:definition>The city of Bajkonyr in the country of Kazakhstan</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Kazakhstan"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ru">Bajkonyr</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="kk">Bayqongyr</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ru">Baykonyr</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ru">Bajkonyr</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="kk">Bayqongyr</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ru">Baykonyr</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-kz;City"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-kz;"/>
    </owl:NamedIndividual>
@@ -273,9 +273,9 @@
       <rdfs:label>Almaty oblysy</rdfs:label>
       <skos:definition>The region of Almaty oblysy in the country of Kazakhstan</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Kazakhstan"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="kk">Almaty oblysy</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ru">Almatinskaja oblast'</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ru">Almatinskaya oblast'</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="kk">Almaty oblysy</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ru">Almatinskaja oblast'</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ru">Almatinskaya oblast'</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-kz;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-kz;"/>
    </owl:NamedIndividual>
@@ -305,9 +305,9 @@
       <rdfs:label>Severo-Kazakhstanskaya oblast'</rdfs:label>
       <skos:definition>The region of Severo-Kazakhstanskaya oblast' in the country of Kazakhstan</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Kazakhstan"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ru">Severo-Kazakhstanskaya oblast'</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ru">Severo-Kazahstanskaja oblast'</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="kk">Soltüstik Qazaqstan oblysy</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ru">Severo-Kazakhstanskaya oblast'</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ru">Severo-Kazahstanskaja oblast'</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="kk">Soltüstik Qazaqstan oblysy</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-kz;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-kz;"/>
    </owl:NamedIndividual>
@@ -337,9 +337,9 @@
       <rdfs:label>Türkistan oblysy</rdfs:label>
       <skos:definition>The region of Türkistan oblysy in the country of Kazakhstan</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Kazakhstan"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="kk">Türkistan oblysy</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ru">Turkestanskaja oblast'</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ru">Turkestankaya oblast'</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="kk">Türkistan oblysy</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ru">Turkestanskaja oblast'</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ru">Turkestankaya oblast'</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-kz;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-kz;"/>
    </owl:NamedIndividual>
@@ -369,9 +369,9 @@
       <rdfs:label>Zapadno-Kazahstanskaja oblast'</rdfs:label>
       <skos:definition>The region of Zapadno-Kazahstanskaja oblast' in the country of Kazakhstan</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Kazakhstan"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ru">Zapadno-Kazahstanskaja oblast'</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ru">Zapadno-Kazakhstanskaya oblast'</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="kk">Batys Qazaqstan oblysy</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ru">Zapadno-Kazahstanskaja oblast'</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ru">Zapadno-Kazakhstanskaya oblast'</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="kk">Batys Qazaqstan oblysy</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-kz;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-kz;"/>
    </owl:NamedIndividual>
@@ -401,9 +401,9 @@
       <rdfs:label>Almaty</rdfs:label>
       <skos:definition>The city of Almaty in the country of Kazakhstan</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Kazakhstan"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ru">Almaty</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ru">Almaty</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="kk">Almaty</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ru">Almaty</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ru">Almaty</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="kk">Almaty</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-kz;City"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-kz;"/>
    </owl:NamedIndividual>
@@ -433,9 +433,9 @@
       <rdfs:label>Kostanayskaya oblast'</rdfs:label>
       <skos:definition>The region of Kostanayskaya oblast' in the country of Kazakhstan</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Kazakhstan"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ru">Kostanayskaya oblast'</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ru">Kostanajskaja oblast'</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="kk">Qostanay oblysy</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ru">Kostanayskaya oblast'</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ru">Kostanajskaja oblast'</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="kk">Qostanay oblysy</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-kz;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-kz;"/>
    </owl:NamedIndividual>
@@ -465,9 +465,9 @@
       <rdfs:label>Qaraghandy oblysy</rdfs:label>
       <skos:definition>The region of Qaraghandy oblysy in the country of Kazakhstan</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Kazakhstan"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="kk">Qaraghandy oblysy</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ru">Karagandinskaja oblast'</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ru">Karagandinskaya oblast'</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="kk">Qaraghandy oblysy</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ru">Karagandinskaja oblast'</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ru">Karagandinskaya oblast'</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-kz;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-kz;"/>
    </owl:NamedIndividual>
@@ -497,9 +497,9 @@
       <rdfs:label>Pavlodarskaja oblast'</rdfs:label>
       <skos:definition>The region of Pavlodarskaja oblast' in the country of Kazakhstan</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Kazakhstan"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ru">Pavlodarskaja oblast'</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ru">Pavlodarskaya oblast'</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="kk">Pavlodar oblysy</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ru">Pavlodarskaja oblast'</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ru">Pavlodarskaya oblast'</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="kk">Pavlodar oblysy</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-kz;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-kz;"/>
    </owl:NamedIndividual>
@@ -529,9 +529,9 @@
       <rdfs:label>Astana</rdfs:label>
       <skos:definition>The city of Astana in the country of Kazakhstan</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Kazakhstan"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ru">Astana</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ru">Astana</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="kk">Astana</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ru">Astana</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ru">Astana</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="kk">Astana</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-kz;City"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-kz;"/>
    </owl:NamedIndividual>
@@ -561,9 +561,9 @@
       <rdfs:label>Aktjubinskaja oblast'</rdfs:label>
       <skos:definition>The region of Aktjubinskaja oblast' in the country of Kazakhstan</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Kazakhstan"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ru">Aktjubinskaja oblast'</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="kk">Aqtöbe oblysy</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ru">Aktyubinskaya oblast'</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ru">Aktjubinskaja oblast'</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="kk">Aqtöbe oblysy</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ru">Aktyubinskaya oblast'</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-kz;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-kz;"/>
    </owl:NamedIndividual>
@@ -593,9 +593,9 @@
       <rdfs:label>Atyrauskaja oblast'</rdfs:label>
       <skos:definition>The region of Atyrauskaja oblast' in the country of Kazakhstan</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Kazakhstan"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ru">Atyrauskaja oblast'</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ru">Atyrauskaya oblast'</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="kk">Atyraū oblysy</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ru">Atyrauskaja oblast'</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ru">Atyrauskaya oblast'</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="kk">Atyraū oblysy</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-kz;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-kz;"/>
    </owl:NamedIndividual>
@@ -625,9 +625,9 @@
       <rdfs:label>Mangistauskaya oblast'</rdfs:label>
       <skos:definition>The region of Mangistauskaya oblast' in the country of Kazakhstan</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Kazakhstan"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ru">Mangistauskaya oblast'</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="kk">Mangghystaū oblysy</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ru">Mangystauskaja oblast'</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ru">Mangistauskaya oblast'</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="kk">Mangghystaū oblysy</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ru">Mangystauskaja oblast'</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-kz;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-kz;"/>
    </owl:NamedIndividual>
@@ -657,9 +657,9 @@
       <rdfs:label>Žambylskaja oblast'</rdfs:label>
       <skos:definition>The region of Žambylskaja oblast' in the country of Kazakhstan</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Kazakhstan"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ru">Žambylskaja oblast'</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ru">Zhambylskaya oblast'</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="kk">Zhambyl oblysy</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ru">Žambylskaja oblast'</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ru">Zhambylskaya oblast'</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="kk">Zhambyl oblysy</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-kz;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-kz;"/>
    </owl:NamedIndividual>

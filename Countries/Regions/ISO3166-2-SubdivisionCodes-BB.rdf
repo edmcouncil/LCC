@@ -106,7 +106,7 @@
       <rdfs:label>Saint Lucy</rdfs:label>
       <skos:definition>The parish of Saint Lucy in the country of Barbados</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Barbados"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Saint Lucy</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Saint Lucy</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-bb;Parish"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-bb;"/>
    </owl:NamedIndividual>
@@ -136,7 +136,7 @@
       <rdfs:label>Saint George</rdfs:label>
       <skos:definition>The parish of Saint George in the country of Barbados</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Barbados"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Saint George</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Saint George</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-bb;Parish"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-bb;"/>
    </owl:NamedIndividual>
@@ -166,7 +166,7 @@
       <rdfs:label>Saint John</rdfs:label>
       <skos:definition>The parish of Saint John in the country of Barbados</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Barbados"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Saint John</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Saint John</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-bb;Parish"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-bb;"/>
    </owl:NamedIndividual>
@@ -196,7 +196,7 @@
       <rdfs:label>Saint Andrew</rdfs:label>
       <skos:definition>The parish of Saint Andrew in the country of Barbados</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Barbados"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Saint Andrew</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Saint Andrew</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-bb;Parish"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-bb;"/>
    </owl:NamedIndividual>
@@ -226,7 +226,7 @@
       <rdfs:label>Saint Philip</rdfs:label>
       <skos:definition>The parish of Saint Philip in the country of Barbados</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Barbados"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Saint Philip</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Saint Philip</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-bb;Parish"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-bb;"/>
    </owl:NamedIndividual>
@@ -256,7 +256,7 @@
       <rdfs:label>Saint Thomas</rdfs:label>
       <skos:definition>The parish of Saint Thomas in the country of Barbados</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Barbados"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Saint Thomas</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Saint Thomas</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-bb;Parish"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-bb;"/>
    </owl:NamedIndividual>
@@ -286,7 +286,7 @@
       <rdfs:label>Saint Michael</rdfs:label>
       <skos:definition>The parish of Saint Michael in the country of Barbados</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Barbados"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Saint Michael</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Saint Michael</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-bb;Parish"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-bb;"/>
    </owl:NamedIndividual>
@@ -316,7 +316,7 @@
       <rdfs:label>Saint James</rdfs:label>
       <skos:definition>The parish of Saint James in the country of Barbados</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Barbados"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Saint James</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Saint James</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-bb;Parish"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-bb;"/>
    </owl:NamedIndividual>
@@ -346,7 +346,7 @@
       <rdfs:label>Saint Peter</rdfs:label>
       <skos:definition>The parish of Saint Peter in the country of Barbados</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Barbados"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Saint Peter</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Saint Peter</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-bb;Parish"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-bb;"/>
    </owl:NamedIndividual>
@@ -376,7 +376,7 @@
       <rdfs:label>Christ Church</rdfs:label>
       <skos:definition>The parish of Christ Church in the country of Barbados</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Barbados"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Christ Church</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Christ Church</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-bb;Parish"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-bb;"/>
    </owl:NamedIndividual>
@@ -406,7 +406,7 @@
       <rdfs:label>Saint Joseph</rdfs:label>
       <skos:definition>The parish of Saint Joseph in the country of Barbados</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Barbados"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Saint Joseph</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Saint Joseph</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-bb;Parish"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-bb;"/>
    </owl:NamedIndividual>

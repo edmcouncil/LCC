@@ -106,7 +106,7 @@
       <rdfs:label>Janūb al Bāţinah</rdfs:label>
       <skos:definition>The governorate of Janūb al Bāţinah in the country of Oman</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Oman"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Janūb al Bāţinah</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Janūb al Bāţinah</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-om;Governorate"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-om;"/>
    </owl:NamedIndividual>
@@ -136,7 +136,7 @@
       <rdfs:label>Shamāl al Bāţinah</rdfs:label>
       <skos:definition>The governorate of Shamāl al Bāţinah in the country of Oman</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Oman"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Shamāl al Bāţinah</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Shamāl al Bāţinah</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-om;Governorate"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-om;"/>
    </owl:NamedIndividual>
@@ -166,7 +166,7 @@
       <rdfs:label>Janūb ash Sharqīyah</rdfs:label>
       <skos:definition>The governorate of Janūb ash Sharqīyah in the country of Oman</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Oman"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Janūb ash Sharqīyah</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Janūb ash Sharqīyah</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-om;Governorate"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-om;"/>
    </owl:NamedIndividual>
@@ -196,7 +196,7 @@
       <rdfs:label>Shamāl ash Sharqīyah</rdfs:label>
       <skos:definition>The governorate of Shamāl ash Sharqīyah in the country of Oman</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Oman"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Shamāl ash Sharqīyah</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Shamāl ash Sharqīyah</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-om;Governorate"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-om;"/>
    </owl:NamedIndividual>
@@ -226,7 +226,7 @@
       <rdfs:label>Masqaţ</rdfs:label>
       <skos:definition>The governorate of Masqaţ in the country of Oman</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Oman"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Masqaţ</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Masqaţ</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-om;Governorate"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-om;"/>
    </owl:NamedIndividual>
@@ -256,7 +256,7 @@
       <rdfs:label>Z̧ufār</rdfs:label>
       <skos:definition>The governorate of Z̧ufār in the country of Oman</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Oman"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Z̧ufār</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Z̧ufār</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-om;Governorate"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-om;"/>
    </owl:NamedIndividual>
@@ -286,7 +286,7 @@
       <rdfs:label>Al Buraymī</rdfs:label>
       <skos:definition>The governorate of Al Buraymī in the country of Oman</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Oman"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Al Buraymī</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Al Buraymī</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-om;Governorate"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-om;"/>
    </owl:NamedIndividual>
@@ -316,7 +316,7 @@
       <rdfs:label>Musandam</rdfs:label>
       <skos:definition>The governorate of Musandam in the country of Oman</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Oman"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Musandam</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Musandam</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-om;Governorate"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-om;"/>
    </owl:NamedIndividual>
@@ -346,7 +346,7 @@
       <rdfs:label>Ad Dākhilīyah</rdfs:label>
       <skos:definition>The governorate of Ad Dākhilīyah in the country of Oman</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Oman"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Ad Dākhilīyah</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Ad Dākhilīyah</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-om;Governorate"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-om;"/>
    </owl:NamedIndividual>
@@ -376,7 +376,7 @@
       <rdfs:label>Al Wusţá</rdfs:label>
       <skos:definition>The governorate of Al Wusţá in the country of Oman</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Oman"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Al Wusţá</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Al Wusţá</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-om;Governorate"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-om;"/>
    </owl:NamedIndividual>
@@ -406,7 +406,7 @@
       <rdfs:label>Az̧ Z̧āhirah</rdfs:label>
       <skos:definition>The governorate of Az̧ Z̧āhirah in the country of Oman</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Oman"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Az̧ Z̧āhirah</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Az̧ Z̧āhirah</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-om;Governorate"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-om;"/>
    </owl:NamedIndividual>
@@ -436,8 +436,8 @@
       <rdfs:label>part of the Musandam Peninsula</rdfs:label>
       <skos:definition>The territory of part of the Musandam Peninsula in the country of Oman</skos:definition>
       <lcc-cr:hasNumericRegionCode rdf:datatype="&xsd;string">1133</lcc-cr:hasNumericRegionCode>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">partie de la Presqu'île de Musandam</lcc-cr:hasFrenchShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">part of the Musandam Peninsula</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">partie de la Presqu'île de Musandam</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">part of the Musandam Peninsula</lcc-cr:hasEnglishShortName>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Oman"/>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2;Territory"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-om;"/>

@@ -120,8 +120,8 @@
       <rdfs:label>Basse-Kotto</rdfs:label>
       <skos:definition>The prefecture of Basse-Kotto in the country of Central African Republic (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;CentralAfricanRepublic"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Basse-Kotto</lcc-cr:hasFrenchShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sg">Do-Kötö</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Basse-Kotto</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sg">Do-Kötö</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-cf;Prefecture"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-cf;"/>
    </owl:NamedIndividual>
@@ -151,8 +151,8 @@
       <rdfs:label>Tö-Mbömü</rdfs:label>
       <skos:definition>The prefecture of Tö-Mbömü in the country of Central African Republic (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;CentralAfricanRepublic"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sg">Tö-Mbömü</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Haut-Mbomou</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sg">Tö-Mbömü</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Haut-Mbomou</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-cf;Prefecture"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-cf;"/>
    </owl:NamedIndividual>
@@ -182,8 +182,8 @@
       <rdfs:label>Tö-Sangä / Mbaere-Kadeï</rdfs:label>
       <skos:definition>The prefecture of Tö-Sangä / Mbaere-Kadeï in the country of Central African Republic (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;CentralAfricanRepublic"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sg">Tö-Sangä / Mbaere-Kadeï</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Haute-Sangha / Mambéré-Kadéï</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sg">Tö-Sangä / Mbaere-Kadeï</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Haute-Sangha / Mambéré-Kadéï</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-cf;Prefecture"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-cf;"/>
    </owl:NamedIndividual>
@@ -213,8 +213,8 @@
       <rdfs:label>Lobaye</rdfs:label>
       <skos:definition>The prefecture of Lobaye in the country of Central African Republic (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;CentralAfricanRepublic"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Lobaye</lcc-cr:hasFrenchShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sg">Lobâye</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Lobaye</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sg">Lobâye</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-cf;Prefecture"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-cf;"/>
    </owl:NamedIndividual>
@@ -244,8 +244,8 @@
       <rdfs:label>Ouham</rdfs:label>
       <skos:definition>The prefecture of Ouham in the country of Central African Republic (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;CentralAfricanRepublic"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Ouham</lcc-cr:hasFrenchShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sg">Wâmo</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Ouham</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sg">Wâmo</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-cf;Prefecture"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-cf;"/>
    </owl:NamedIndividual>
@@ -275,8 +275,8 @@
       <rdfs:label>Gribingui</rdfs:label>
       <skos:definition>The economic prefecture of Gribingui in the country of Central African Republic (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;CentralAfricanRepublic"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Gribingui</lcc-cr:hasFrenchShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sg">Gïrïbïngï</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Gribingui</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sg">Gïrïbïngï</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-cf;EconomicPrefecture"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-cf;"/>
    </owl:NamedIndividual>
@@ -306,8 +306,8 @@
       <rdfs:label>Bamïngï-Bangoran</rdfs:label>
       <skos:definition>The prefecture of Bamïngï-Bangoran in the country of Central African Republic (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;CentralAfricanRepublic"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sg">Bamïngï-Bangoran</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Bamingui-Bangoran</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sg">Bamïngï-Bangoran</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Bamingui-Bangoran</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-cf;Prefecture"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-cf;"/>
    </owl:NamedIndividual>
@@ -337,8 +337,8 @@
       <rdfs:label>Ömbëlä-Pökö</rdfs:label>
       <skos:definition>The prefecture of Ömbëlä-Pökö in the country of Central African Republic (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;CentralAfricanRepublic"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sg">Ömbëlä-Pökö</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Ombella-Mpoko</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sg">Ömbëlä-Pökö</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Ombella-Mpoko</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-cf;Prefecture"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-cf;"/>
    </owl:NamedIndividual>
@@ -368,8 +368,8 @@
       <rdfs:label>Tö-Kötö</rdfs:label>
       <skos:definition>The prefecture of Tö-Kötö in the country of Central African Republic (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;CentralAfricanRepublic"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sg">Tö-Kötö</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Haute-Kotto</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sg">Tö-Kötö</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Haute-Kotto</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-cf;Prefecture"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-cf;"/>
    </owl:NamedIndividual>
@@ -399,8 +399,8 @@
       <rdfs:label>Kemö-Gïrïbïngï</rdfs:label>
       <skos:definition>The prefecture of Kemö-Gïrïbïngï in the country of Central African Republic (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;CentralAfricanRepublic"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sg">Kemö-Gïrïbïngï</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Kémo-Gribingui</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sg">Kemö-Gïrïbïngï</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Kémo-Gribingui</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-cf;Prefecture"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-cf;"/>
    </owl:NamedIndividual>
@@ -430,8 +430,8 @@
       <rdfs:label>Mbömü</rdfs:label>
       <skos:definition>The prefecture of Mbömü in the country of Central African Republic (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;CentralAfricanRepublic"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sg">Mbömü</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Mbomou</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sg">Mbömü</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Mbomou</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-cf;Prefecture"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-cf;"/>
    </owl:NamedIndividual>
@@ -461,8 +461,8 @@
       <rdfs:label>Nana-Mambéré</rdfs:label>
       <skos:definition>The prefecture of Nana-Mambéré in the country of Central African Republic (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;CentralAfricanRepublic"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Nana-Mambéré</lcc-cr:hasFrenchShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sg">Nanä-Mbaere</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Nana-Mambéré</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sg">Nanä-Mbaere</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-cf;Prefecture"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-cf;"/>
    </owl:NamedIndividual>
@@ -492,8 +492,8 @@
       <rdfs:label>Sangha</rdfs:label>
       <skos:definition>The economic prefecture of Sangha in the country of Central African Republic (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;CentralAfricanRepublic"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Sangha</lcc-cr:hasFrenchShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sg">Sangä</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Sangha</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sg">Sangä</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-cf;EconomicPrefecture"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-cf;"/>
    </owl:NamedIndividual>
@@ -523,8 +523,8 @@
       <rdfs:label>Vakaga</rdfs:label>
       <skos:definition>The prefecture of Vakaga in the country of Central African Republic (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;CentralAfricanRepublic"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sg">Vakaga</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Vakaga</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sg">Vakaga</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Vakaga</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-cf;Prefecture"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-cf;"/>
    </owl:NamedIndividual>
@@ -554,8 +554,8 @@
       <rdfs:label>Bangî</rdfs:label>
       <skos:definition>The commune of Bangî in the country of Central African Republic (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;CentralAfricanRepublic"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sg">Bangî</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Bangui</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sg">Bangî</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Bangui</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-cf;Commune"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-cf;"/>
    </owl:NamedIndividual>
@@ -585,8 +585,8 @@
       <rdfs:label>Wâmo-Pendë</rdfs:label>
       <skos:definition>The prefecture of Wâmo-Pendë in the country of Central African Republic (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;CentralAfricanRepublic"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sg">Wâmo-Pendë</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Ouham-Pendé</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sg">Wâmo-Pendë</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Ouham-Pendé</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-cf;Prefecture"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-cf;"/>
    </owl:NamedIndividual>
@@ -616,8 +616,8 @@
       <rdfs:label>Wäkä</rdfs:label>
       <skos:definition>The prefecture of Wäkä in the country of Central African Republic (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;CentralAfricanRepublic"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sg">Wäkä</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Ouaka</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sg">Wäkä</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Ouaka</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-cf;Prefecture"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-cf;"/>
    </owl:NamedIndividual>

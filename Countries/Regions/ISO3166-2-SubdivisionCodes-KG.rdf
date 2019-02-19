@@ -113,9 +113,9 @@
       <rdfs:label>Narynskaja oblast'</rdfs:label>
       <skos:definition>The region of Narynskaja oblast' in the country of Kyrgyzstan</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Kyrgyzstan"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ru">Narynskaja oblast'</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ru">Narynskaya oblast'</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ky">Naryn</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ru">Narynskaja oblast'</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ru">Narynskaya oblast'</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ky">Naryn</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-kg;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-kg;"/>
    </owl:NamedIndividual>
@@ -145,9 +145,9 @@
       <rdfs:label>Issyk-Kul'skaya oblast'</rdfs:label>
       <skos:definition>The region of Issyk-Kul'skaya oblast' in the country of Kyrgyzstan</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Kyrgyzstan"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ru">Issyk-Kul'skaya oblast'</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ru">Issyk-Kul'skaja oblast'</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ky">Ysyk-Köl</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ru">Issyk-Kul'skaya oblast'</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ru">Issyk-Kul'skaja oblast'</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ky">Ysyk-Köl</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-kg;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-kg;"/>
    </owl:NamedIndividual>
@@ -177,9 +177,9 @@
       <rdfs:label>Ošskaja oblast'</rdfs:label>
       <skos:definition>The region of Ošskaja oblast' in the country of Kyrgyzstan</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Kyrgyzstan"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ru">Ošskaja oblast'</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ky">Osh</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ru">Oshskaya oblast'</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ru">Ošskaja oblast'</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ky">Osh</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ru">Oshskaya oblast'</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-kg;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-kg;"/>
    </owl:NamedIndividual>
@@ -209,9 +209,9 @@
       <rdfs:label>Talasskaja oblast'</rdfs:label>
       <skos:definition>The region of Talasskaja oblast' in the country of Kyrgyzstan</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Kyrgyzstan"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ru">Talasskaja oblast'</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ru">Talasskaya oblast'</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ky">Talas</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ru">Talasskaja oblast'</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ru">Talasskaya oblast'</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ky">Talas</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-kg;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-kg;"/>
    </owl:NamedIndividual>
@@ -241,9 +241,9 @@
       <rdfs:label>Batkenskaya oblast'</rdfs:label>
       <skos:definition>The region of Batkenskaya oblast' in the country of Kyrgyzstan</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Kyrgyzstan"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ru">Batkenskaya oblast'</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ky">Batken</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ru">Batkenskaja oblast'</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ru">Batkenskaya oblast'</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ky">Batken</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ru">Batkenskaja oblast'</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-kg;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-kg;"/>
    </owl:NamedIndividual>
@@ -273,9 +273,9 @@
       <rdfs:label>Osh</rdfs:label>
       <skos:definition>The city of Osh in the country of Kyrgyzstan</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Kyrgyzstan"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ky">Osh</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ru">Gorod Osh</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ru">Gorod Oš</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ky">Osh</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ru">Gorod Osh</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ru">Gorod Oš</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-kg;City"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-kg;"/>
    </owl:NamedIndividual>
@@ -305,9 +305,9 @@
       <rdfs:label>Gorod Biškek</rdfs:label>
       <skos:definition>The city of Gorod Biškek in the country of Kyrgyzstan</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Kyrgyzstan"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ru">Gorod Biškek</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ru">Gorod Bishkek</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ky">Bishkek</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ru">Gorod Biškek</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ru">Gorod Bishkek</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ky">Bishkek</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-kg;City"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-kg;"/>
    </owl:NamedIndividual>
@@ -337,9 +337,9 @@
       <rdfs:label>Džalal-Abadskaja oblast'</rdfs:label>
       <skos:definition>The region of Džalal-Abadskaja oblast' in the country of Kyrgyzstan</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Kyrgyzstan"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ru">Džalal-Abadskaja oblast'</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ky">Jalal-Abad</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ru">Dzhalal-Abadskaya oblast'</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ru">Džalal-Abadskaja oblast'</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ky">Jalal-Abad</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ru">Dzhalal-Abadskaya oblast'</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-kg;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-kg;"/>
    </owl:NamedIndividual>
@@ -369,9 +369,9 @@
       <rdfs:label>Čujskaja oblast'</rdfs:label>
       <skos:definition>The region of Čujskaja oblast' in the country of Kyrgyzstan</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Kyrgyzstan"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ru">Čujskaja oblast'</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ky">Chüy</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ru">Chuyskaya oblast'</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ru">Čujskaja oblast'</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ky">Chüy</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ru">Chuyskaya oblast'</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-kg;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-kg;"/>
    </owl:NamedIndividual>

@@ -106,9 +106,9 @@
       <rdfs:label>Bonaire</rdfs:label>
       <skos:definition>The special municipality of Bonaire in the country of Bonaire, Sint Eustatius and Saba</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Bonaire"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="nl">Bonaire</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string"> Boneiru</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Bonaire</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="nl">Bonaire</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName> Boneiru</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Bonaire</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-bq;SpecialMunicipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-bq;"/>
    </owl:NamedIndividual>
@@ -138,9 +138,9 @@
       <rdfs:label>Saba</rdfs:label>
       <skos:definition>The special municipality of Saba in the country of Bonaire, Sint Eustatius and Saba</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Bonaire"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Saba</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="nl">Saba</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string">Saba</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Saba</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="nl">Saba</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName>Saba</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-bq;SpecialMunicipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-bq;"/>
    </owl:NamedIndividual>
@@ -170,9 +170,9 @@
       <rdfs:label>Sint Eustatius</rdfs:label>
       <skos:definition>The special municipality of Sint Eustatius in the country of Bonaire, Sint Eustatius and Saba</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Bonaire"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string">Sint Eustatius</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Sint Eustatius</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="nl">Sint Eustatius</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName>Sint Eustatius</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Sint Eustatius</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="nl">Sint Eustatius</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-bq;SpecialMunicipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-bq;"/>
    </owl:NamedIndividual>
@@ -202,8 +202,8 @@
       <rdfs:label>Bonaire</rdfs:label>
       <skos:definition>The territory of Bonaire in the country of Bonaire, Sint Eustatius and Saba</skos:definition>
       <lcc-cr:hasNumericRegionCode rdf:datatype="&xsd;string">1026</lcc-cr:hasNumericRegionCode>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Bonaire</lcc-cr:hasFrenchShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Bonaire</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Bonaire</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Bonaire</lcc-cr:hasEnglishShortName>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Bonaire"/>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2;Territory"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-bq;"/>
@@ -221,8 +221,8 @@
       <rdfs:label>Saba</rdfs:label>
       <skos:definition>The territory of Saba in the country of Bonaire, Sint Eustatius and Saba</skos:definition>
       <lcc-cr:hasNumericRegionCode rdf:datatype="&xsd;string">1161</lcc-cr:hasNumericRegionCode>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Saba</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Saba</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Saba</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Saba</lcc-cr:hasFrenchShortName>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Bonaire"/>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2;Territory"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-bq;"/>
@@ -240,8 +240,8 @@
       <rdfs:label>Sint Eustatius</rdfs:label>
       <skos:definition>The territory of Sint Eustatius in the country of Bonaire, Sint Eustatius and Saba</skos:definition>
       <lcc-cr:hasNumericRegionCode rdf:datatype="&xsd;string">1167</lcc-cr:hasNumericRegionCode>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Saint-Eustache</lcc-cr:hasFrenchShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Sint Eustatius</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Saint-Eustache</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Sint Eustatius</lcc-cr:hasEnglishShortName>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Bonaire"/>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2;Territory"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-bq;"/>

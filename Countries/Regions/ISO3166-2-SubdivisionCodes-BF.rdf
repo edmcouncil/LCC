@@ -113,7 +113,7 @@
       <rdfs:label>Centre-Nord</rdfs:label>
       <skos:definition>The region of Centre-Nord in the country of Burkina Faso</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;BurkinaFaso"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Centre-Nord</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Centre-Nord</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-bf;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-bf;"/>
    </owl:NamedIndividual>
@@ -141,7 +141,7 @@
       <rdfs:label>Namentenga</rdfs:label>
       <skos:definition>The province of Namentenga in the country of Burkina Faso</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-bf;Centre-Nord"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Namentenga</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Namentenga</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-bf;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-bf;"/>
    </owl:NamedIndividual>
@@ -171,7 +171,7 @@
       <rdfs:label>Bam</rdfs:label>
       <skos:definition>The province of Bam in the country of Burkina Faso</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-bf;Centre-Nord"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Bam</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Bam</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-bf;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-bf;"/>
    </owl:NamedIndividual>
@@ -201,7 +201,7 @@
       <rdfs:label>Sanmatenga</rdfs:label>
       <skos:definition>The province of Sanmatenga in the country of Burkina Faso</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-bf;Centre-Nord"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Sanmatenga</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Sanmatenga</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-bf;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-bf;"/>
    </owl:NamedIndividual>
@@ -233,7 +233,7 @@
       <rdfs:label>Boucle du Mouhoun</rdfs:label>
       <skos:definition>The region of Boucle du Mouhoun in the country of Burkina Faso</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;BurkinaFaso"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Boucle du Mouhoun</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Boucle du Mouhoun</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-bf;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-bf;"/>
    </owl:NamedIndividual>
@@ -261,7 +261,7 @@
       <rdfs:label>Banwa</rdfs:label>
       <skos:definition>The province of Banwa in the country of Burkina Faso</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-bf;BoucleDuMouhoun"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Banwa</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Banwa</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-bf;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-bf;"/>
    </owl:NamedIndividual>
@@ -291,7 +291,7 @@
       <rdfs:label>Mouhoun</rdfs:label>
       <skos:definition>The province of Mouhoun in the country of Burkina Faso</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-bf;BoucleDuMouhoun"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Mouhoun</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Mouhoun</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-bf;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-bf;"/>
    </owl:NamedIndividual>
@@ -321,7 +321,7 @@
       <rdfs:label>Nayala</rdfs:label>
       <skos:definition>The province of Nayala in the country of Burkina Faso</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-bf;BoucleDuMouhoun"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Nayala</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Nayala</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-bf;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-bf;"/>
    </owl:NamedIndividual>
@@ -351,7 +351,7 @@
       <rdfs:label>Sourou</rdfs:label>
       <skos:definition>The province of Sourou in the country of Burkina Faso</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-bf;BoucleDuMouhoun"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Sourou</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Sourou</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-bf;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-bf;"/>
    </owl:NamedIndividual>
@@ -381,7 +381,7 @@
       <rdfs:label>Balé</rdfs:label>
       <skos:definition>The province of Balé in the country of Burkina Faso</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-bf;BoucleDuMouhoun"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Balé</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Balé</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-bf;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-bf;"/>
    </owl:NamedIndividual>
@@ -411,7 +411,7 @@
       <rdfs:label>Kossi</rdfs:label>
       <skos:definition>The province of Kossi in the country of Burkina Faso</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-bf;BoucleDuMouhoun"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Kossi</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Kossi</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-bf;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-bf;"/>
    </owl:NamedIndividual>
@@ -443,7 +443,7 @@
       <rdfs:label>Nord</rdfs:label>
       <skos:definition>The region of Nord in the country of Burkina Faso</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;BurkinaFaso"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Nord</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Nord</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-bf;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-bf;"/>
    </owl:NamedIndividual>
@@ -471,7 +471,7 @@
       <rdfs:label>Yatenga</rdfs:label>
       <skos:definition>The province of Yatenga in the country of Burkina Faso</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-bf;Nord"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Yatenga</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Yatenga</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-bf;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-bf;"/>
    </owl:NamedIndividual>
@@ -501,7 +501,7 @@
       <rdfs:label>Loroum</rdfs:label>
       <skos:definition>The province of Loroum in the country of Burkina Faso</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-bf;Nord"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Loroum</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Loroum</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-bf;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-bf;"/>
    </owl:NamedIndividual>
@@ -531,7 +531,7 @@
       <rdfs:label>Passoré</rdfs:label>
       <skos:definition>The province of Passoré in the country of Burkina Faso</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-bf;Nord"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Passoré</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Passoré</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-bf;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-bf;"/>
    </owl:NamedIndividual>
@@ -561,7 +561,7 @@
       <rdfs:label>Zondoma</rdfs:label>
       <skos:definition>The province of Zondoma in the country of Burkina Faso</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-bf;Nord"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Zondoma</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Zondoma</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-bf;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-bf;"/>
    </owl:NamedIndividual>
@@ -593,7 +593,7 @@
       <rdfs:label>Cascades</rdfs:label>
       <skos:definition>The region of Cascades in the country of Burkina Faso</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;BurkinaFaso"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Cascades</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Cascades</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-bf;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-bf;"/>
    </owl:NamedIndividual>
@@ -621,7 +621,7 @@
       <rdfs:label>Léraba</rdfs:label>
       <skos:definition>The province of Léraba in the country of Burkina Faso</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-bf;Cascades"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Léraba</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Léraba</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-bf;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-bf;"/>
    </owl:NamedIndividual>
@@ -651,7 +651,7 @@
       <rdfs:label>Comoé</rdfs:label>
       <skos:definition>The province of Comoé in the country of Burkina Faso</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-bf;Cascades"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Comoé</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Comoé</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-bf;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-bf;"/>
    </owl:NamedIndividual>
@@ -683,7 +683,7 @@
       <rdfs:label>Centre</rdfs:label>
       <skos:definition>The region of Centre in the country of Burkina Faso</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;BurkinaFaso"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Centre</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Centre</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-bf;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-bf;"/>
    </owl:NamedIndividual>
@@ -711,7 +711,7 @@
       <rdfs:label>Kadiogo</rdfs:label>
       <skos:definition>The province of Kadiogo in the country of Burkina Faso</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-bf;Centre"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Kadiogo</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Kadiogo</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-bf;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-bf;"/>
    </owl:NamedIndividual>
@@ -743,7 +743,7 @@
       <rdfs:label>Centre-Est</rdfs:label>
       <skos:definition>The region of Centre-Est in the country of Burkina Faso</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;BurkinaFaso"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Centre-Est</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Centre-Est</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-bf;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-bf;"/>
    </owl:NamedIndividual>
@@ -771,7 +771,7 @@
       <rdfs:label>Boulgou</rdfs:label>
       <skos:definition>The province of Boulgou in the country of Burkina Faso</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-bf;Centre-Est"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Boulgou</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Boulgou</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-bf;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-bf;"/>
    </owl:NamedIndividual>
@@ -801,7 +801,7 @@
       <rdfs:label>Kouritenga</rdfs:label>
       <skos:definition>The province of Kouritenga in the country of Burkina Faso</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-bf;Centre-Est"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Kouritenga</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Kouritenga</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-bf;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-bf;"/>
    </owl:NamedIndividual>
@@ -831,7 +831,7 @@
       <rdfs:label>Koulpélogo</rdfs:label>
       <skos:definition>The province of Koulpélogo in the country of Burkina Faso</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-bf;Centre-Est"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Koulpélogo</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Koulpélogo</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-bf;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-bf;"/>
    </owl:NamedIndividual>
@@ -863,7 +863,7 @@
       <rdfs:label>Centre-Ouest</rdfs:label>
       <skos:definition>The region of Centre-Ouest in the country of Burkina Faso</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;BurkinaFaso"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Centre-Ouest</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Centre-Ouest</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-bf;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-bf;"/>
    </owl:NamedIndividual>
@@ -891,7 +891,7 @@
       <rdfs:label>Sissili</rdfs:label>
       <skos:definition>The province of Sissili in the country of Burkina Faso</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-bf;Centre-Ouest"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Sissili</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Sissili</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-bf;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-bf;"/>
    </owl:NamedIndividual>
@@ -921,7 +921,7 @@
       <rdfs:label>Ziro</rdfs:label>
       <skos:definition>The province of Ziro in the country of Burkina Faso</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-bf;Centre-Ouest"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Ziro</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Ziro</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-bf;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-bf;"/>
    </owl:NamedIndividual>
@@ -951,7 +951,7 @@
       <rdfs:label>Boulkiemdé</rdfs:label>
       <skos:definition>The province of Boulkiemdé in the country of Burkina Faso</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-bf;Centre-Ouest"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Boulkiemdé</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Boulkiemdé</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-bf;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-bf;"/>
    </owl:NamedIndividual>
@@ -981,7 +981,7 @@
       <rdfs:label>Sanguié</rdfs:label>
       <skos:definition>The province of Sanguié in the country of Burkina Faso</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-bf;Centre-Ouest"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Sanguié</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Sanguié</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-bf;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-bf;"/>
    </owl:NamedIndividual>
@@ -1013,7 +1013,7 @@
       <rdfs:label>Centre-Sud</rdfs:label>
       <skos:definition>The region of Centre-Sud in the country of Burkina Faso</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;BurkinaFaso"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Centre-Sud</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Centre-Sud</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-bf;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-bf;"/>
    </owl:NamedIndividual>
@@ -1041,7 +1041,7 @@
       <rdfs:label>Zoundwéogo</rdfs:label>
       <skos:definition>The province of Zoundwéogo in the country of Burkina Faso</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-bf;Centre-Sud"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Zoundwéogo</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Zoundwéogo</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-bf;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-bf;"/>
    </owl:NamedIndividual>
@@ -1071,7 +1071,7 @@
       <rdfs:label>Nahouri</rdfs:label>
       <skos:definition>The province of Nahouri in the country of Burkina Faso</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-bf;Centre-Sud"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Nahouri</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Nahouri</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-bf;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-bf;"/>
    </owl:NamedIndividual>
@@ -1101,7 +1101,7 @@
       <rdfs:label>Bazèga</rdfs:label>
       <skos:definition>The province of Bazèga in the country of Burkina Faso</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-bf;Centre-Sud"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Bazèga</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Bazèga</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-bf;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-bf;"/>
    </owl:NamedIndividual>
@@ -1133,7 +1133,7 @@
       <rdfs:label>Est</rdfs:label>
       <skos:definition>The region of Est in the country of Burkina Faso</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;BurkinaFaso"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Est</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Est</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-bf;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-bf;"/>
    </owl:NamedIndividual>
@@ -1161,7 +1161,7 @@
       <rdfs:label>Gourma</rdfs:label>
       <skos:definition>The province of Gourma in the country of Burkina Faso</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-bf;Est"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Gourma</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Gourma</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-bf;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-bf;"/>
    </owl:NamedIndividual>
@@ -1191,7 +1191,7 @@
       <rdfs:label>Gnagna</rdfs:label>
       <skos:definition>The province of Gnagna in the country of Burkina Faso</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-bf;Est"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Gnagna</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Gnagna</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-bf;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-bf;"/>
    </owl:NamedIndividual>
@@ -1221,7 +1221,7 @@
       <rdfs:label>Komondjari</rdfs:label>
       <skos:definition>The province of Komondjari in the country of Burkina Faso</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-bf;Est"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Komondjari</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Komondjari</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-bf;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-bf;"/>
    </owl:NamedIndividual>
@@ -1251,7 +1251,7 @@
       <rdfs:label>Kompienga</rdfs:label>
       <skos:definition>The province of Kompienga in the country of Burkina Faso</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-bf;Est"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Kompienga</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Kompienga</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-bf;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-bf;"/>
    </owl:NamedIndividual>
@@ -1281,7 +1281,7 @@
       <rdfs:label>Tapoa</rdfs:label>
       <skos:definition>The province of Tapoa in the country of Burkina Faso</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-bf;Est"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Tapoa</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Tapoa</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-bf;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-bf;"/>
    </owl:NamedIndividual>
@@ -1313,7 +1313,7 @@
       <rdfs:label>Hauts-Bassins</rdfs:label>
       <skos:definition>The region of Hauts-Bassins in the country of Burkina Faso</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;BurkinaFaso"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Hauts-Bassins</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Hauts-Bassins</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-bf;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-bf;"/>
    </owl:NamedIndividual>
@@ -1341,7 +1341,7 @@
       <rdfs:label>Houet</rdfs:label>
       <skos:definition>The province of Houet in the country of Burkina Faso</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-bf;Hauts-Bassins"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Houet</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Houet</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-bf;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-bf;"/>
    </owl:NamedIndividual>
@@ -1371,7 +1371,7 @@
       <rdfs:label>Tuy</rdfs:label>
       <skos:definition>The province of Tuy in the country of Burkina Faso</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-bf;Hauts-Bassins"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Tuy</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Tuy</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-bf;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-bf;"/>
    </owl:NamedIndividual>
@@ -1401,7 +1401,7 @@
       <rdfs:label>Kénédougou</rdfs:label>
       <skos:definition>The province of Kénédougou in the country of Burkina Faso</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-bf;Hauts-Bassins"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Kénédougou</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Kénédougou</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-bf;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-bf;"/>
    </owl:NamedIndividual>
@@ -1433,7 +1433,7 @@
       <rdfs:label>Plateau-Central</rdfs:label>
       <skos:definition>The region of Plateau-Central in the country of Burkina Faso</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;BurkinaFaso"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Plateau-Central</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Plateau-Central</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-bf;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-bf;"/>
    </owl:NamedIndividual>
@@ -1461,7 +1461,7 @@
       <rdfs:label>Ganzourgou</rdfs:label>
       <skos:definition>The province of Ganzourgou in the country of Burkina Faso</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-bf;Plateau-Central"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Ganzourgou</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Ganzourgou</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-bf;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-bf;"/>
    </owl:NamedIndividual>
@@ -1491,7 +1491,7 @@
       <rdfs:label>Kourwéogo</rdfs:label>
       <skos:definition>The province of Kourwéogo in the country of Burkina Faso</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-bf;Plateau-Central"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Kourwéogo</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Kourwéogo</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-bf;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-bf;"/>
    </owl:NamedIndividual>
@@ -1521,7 +1521,7 @@
       <rdfs:label>Oubritenga</rdfs:label>
       <skos:definition>The province of Oubritenga in the country of Burkina Faso</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-bf;Plateau-Central"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Oubritenga</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Oubritenga</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-bf;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-bf;"/>
    </owl:NamedIndividual>
@@ -1553,7 +1553,7 @@
       <rdfs:label>Sahel</rdfs:label>
       <skos:definition>The region of Sahel in the country of Burkina Faso</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;BurkinaFaso"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Sahel</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Sahel</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-bf;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-bf;"/>
    </owl:NamedIndividual>
@@ -1581,7 +1581,7 @@
       <rdfs:label>Oudalan</rdfs:label>
       <skos:definition>The province of Oudalan in the country of Burkina Faso</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-bf;Sahel"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Oudalan</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Oudalan</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-bf;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-bf;"/>
    </owl:NamedIndividual>
@@ -1611,7 +1611,7 @@
       <rdfs:label>Soum</rdfs:label>
       <skos:definition>The province of Soum in the country of Burkina Faso</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-bf;Sahel"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Soum</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Soum</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-bf;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-bf;"/>
    </owl:NamedIndividual>
@@ -1641,7 +1641,7 @@
       <rdfs:label>Yagha</rdfs:label>
       <skos:definition>The province of Yagha in the country of Burkina Faso</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-bf;Sahel"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Yagha</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Yagha</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-bf;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-bf;"/>
    </owl:NamedIndividual>
@@ -1671,7 +1671,7 @@
       <rdfs:label>Séno</rdfs:label>
       <skos:definition>The province of Séno in the country of Burkina Faso</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-bf;Sahel"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Séno</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Séno</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-bf;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-bf;"/>
    </owl:NamedIndividual>
@@ -1703,7 +1703,7 @@
       <rdfs:label>Sud-Ouest</rdfs:label>
       <skos:definition>The region of Sud-Ouest in the country of Burkina Faso</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;BurkinaFaso"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Sud-Ouest</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Sud-Ouest</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-bf;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-bf;"/>
    </owl:NamedIndividual>
@@ -1731,7 +1731,7 @@
       <rdfs:label>Poni</rdfs:label>
       <skos:definition>The province of Poni in the country of Burkina Faso</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-bf;Sud-Ouest"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Poni</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Poni</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-bf;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-bf;"/>
    </owl:NamedIndividual>
@@ -1761,7 +1761,7 @@
       <rdfs:label>Bougouriba</rdfs:label>
       <skos:definition>The province of Bougouriba in the country of Burkina Faso</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-bf;Sud-Ouest"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Bougouriba</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Bougouriba</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-bf;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-bf;"/>
    </owl:NamedIndividual>
@@ -1791,7 +1791,7 @@
       <rdfs:label>Noumbiel</rdfs:label>
       <skos:definition>The province of Noumbiel in the country of Burkina Faso</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-bf;Sud-Ouest"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Noumbiel</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Noumbiel</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-bf;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-bf;"/>
    </owl:NamedIndividual>
@@ -1821,7 +1821,7 @@
       <rdfs:label>Ioba</rdfs:label>
       <skos:definition>The province of Ioba in the country of Burkina Faso</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-bf;Sud-Ouest"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Ioba</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Ioba</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-bf;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-bf;"/>
    </owl:NamedIndividual>

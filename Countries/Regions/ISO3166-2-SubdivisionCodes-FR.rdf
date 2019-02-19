@@ -208,7 +208,7 @@
       <rdfs:label>Auvergne-Rhône-Alpes</rdfs:label>
       <skos:definition>The metropolitan region of Auvergne-Rhône-Alpes in the country of France</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;France"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Auvergne-Rhône-Alpes</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Auvergne-Rhône-Alpes</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-fr;MetropolitanRegion"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-fr;"/>
    </owl:NamedIndividual>
@@ -236,7 +236,7 @@
       <rdfs:label>Loire</rdfs:label>
       <skos:definition>The metropolitan department of Loire in the country of France</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-fr;Auvergne-Rhone-Alpes"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Loire</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Loire</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-fr;MetropolitanDepartment"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-fr;"/>
    </owl:NamedIndividual>
@@ -266,7 +266,7 @@
       <rdfs:label>Puy-de-Dôme</rdfs:label>
       <skos:definition>The metropolitan department of Puy-de-Dôme in the country of France</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-fr;Auvergne-Rhone-Alpes"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Puy-de-Dôme</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Puy-de-Dôme</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-fr;MetropolitanDepartment"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-fr;"/>
    </owl:NamedIndividual>
@@ -296,7 +296,7 @@
       <rdfs:label>Savoie</rdfs:label>
       <skos:definition>The metropolitan department of Savoie in the country of France</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-fr;Auvergne-Rhone-Alpes"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Savoie</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Savoie</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-fr;MetropolitanDepartment"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-fr;"/>
    </owl:NamedIndividual>
@@ -326,7 +326,7 @@
       <rdfs:label>Allier</rdfs:label>
       <skos:definition>The metropolitan department of Allier in the country of France</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-fr;Auvergne-Rhone-Alpes"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Allier</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Allier</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-fr;MetropolitanDepartment"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-fr;"/>
    </owl:NamedIndividual>
@@ -356,7 +356,7 @@
       <rdfs:label>Drôme</rdfs:label>
       <skos:definition>The metropolitan department of Drôme in the country of France</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-fr;Auvergne-Rhone-Alpes"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Drôme</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Drôme</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-fr;MetropolitanDepartment"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-fr;"/>
    </owl:NamedIndividual>
@@ -386,7 +386,7 @@
       <rdfs:label>Cantal</rdfs:label>
       <skos:definition>The metropolitan department of Cantal in the country of France</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-fr;Auvergne-Rhone-Alpes"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Cantal</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Cantal</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-fr;MetropolitanDepartment"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-fr;"/>
    </owl:NamedIndividual>
@@ -416,7 +416,7 @@
       <rdfs:label>Ardèche</rdfs:label>
       <skos:definition>The metropolitan department of Ardèche in the country of France</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-fr;Auvergne-Rhone-Alpes"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Ardèche</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Ardèche</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-fr;MetropolitanDepartment"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-fr;"/>
    </owl:NamedIndividual>
@@ -446,7 +446,7 @@
       <rdfs:label>Ain</rdfs:label>
       <skos:definition>The metropolitan department of Ain in the country of France</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-fr;Auvergne-Rhone-Alpes"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Ain</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Ain</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-fr;MetropolitanDepartment"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-fr;"/>
    </owl:NamedIndividual>
@@ -476,7 +476,7 @@
       <rdfs:label>Isère</rdfs:label>
       <skos:definition>The metropolitan department of Isère in the country of France</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-fr;Auvergne-Rhone-Alpes"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Isère</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Isère</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-fr;MetropolitanDepartment"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-fr;"/>
    </owl:NamedIndividual>
@@ -506,7 +506,7 @@
       <rdfs:label>Haute-Loire</rdfs:label>
       <skos:definition>The metropolitan department of Haute-Loire in the country of France</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-fr;Auvergne-Rhone-Alpes"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Haute-Loire</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Haute-Loire</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-fr;MetropolitanDepartment"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-fr;"/>
    </owl:NamedIndividual>
@@ -536,7 +536,7 @@
       <rdfs:label>Haute-Savoie</rdfs:label>
       <skos:definition>The metropolitan department of Haute-Savoie in the country of France</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-fr;Auvergne-Rhone-Alpes"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Haute-Savoie</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Haute-Savoie</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-fr;MetropolitanDepartment"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-fr;"/>
    </owl:NamedIndividual>
@@ -566,7 +566,7 @@
       <rdfs:label>Rhône</rdfs:label>
       <skos:definition>The metropolitan department of Rhône in the country of France</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-fr;Auvergne-Rhone-Alpes"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Rhône</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Rhône</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-fr;MetropolitanDepartment"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-fr;"/>
    </owl:NamedIndividual>
@@ -598,7 +598,7 @@
       <rdfs:label>Bourgogne-Franche-Comté</rdfs:label>
       <skos:definition>The metropolitan region of Bourgogne-Franche-Comté in the country of France</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;France"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Bourgogne-Franche-Comté</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Bourgogne-Franche-Comté</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-fr;MetropolitanRegion"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-fr;"/>
    </owl:NamedIndividual>
@@ -626,7 +626,7 @@
       <rdfs:label>Haute-Saône</rdfs:label>
       <skos:definition>The metropolitan department of Haute-Saône in the country of France</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-fr;Bourgogne-Franche-Comte"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Haute-Saône</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Haute-Saône</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-fr;MetropolitanDepartment"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-fr;"/>
    </owl:NamedIndividual>
@@ -656,7 +656,7 @@
       <rdfs:label>Saône-et-Loire</rdfs:label>
       <skos:definition>The metropolitan department of Saône-et-Loire in the country of France</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-fr;Bourgogne-Franche-Comte"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Saône-et-Loire</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Saône-et-Loire</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-fr;MetropolitanDepartment"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-fr;"/>
    </owl:NamedIndividual>
@@ -686,7 +686,7 @@
       <rdfs:label>Côte-d'Or</rdfs:label>
       <skos:definition>The metropolitan department of Côte-d'Or in the country of France</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-fr;Bourgogne-Franche-Comte"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Côte-d'Or</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Côte-d'Or</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-fr;MetropolitanDepartment"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-fr;"/>
    </owl:NamedIndividual>
@@ -716,7 +716,7 @@
       <rdfs:label>Yonne</rdfs:label>
       <skos:definition>The metropolitan department of Yonne in the country of France</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-fr;Bourgogne-Franche-Comte"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Yonne</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Yonne</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-fr;MetropolitanDepartment"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-fr;"/>
    </owl:NamedIndividual>
@@ -746,7 +746,7 @@
       <rdfs:label>Territoire de Belfort</rdfs:label>
       <skos:definition>The metropolitan department of Territoire de Belfort in the country of France</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-fr;Bourgogne-Franche-Comte"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Territoire de Belfort</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Territoire de Belfort</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-fr;MetropolitanDepartment"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-fr;"/>
    </owl:NamedIndividual>
@@ -776,7 +776,7 @@
       <rdfs:label>Jura</rdfs:label>
       <skos:definition>The metropolitan department of Jura in the country of France</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-fr;Bourgogne-Franche-Comte"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Jura</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Jura</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-fr;MetropolitanDepartment"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-fr;"/>
    </owl:NamedIndividual>
@@ -806,7 +806,7 @@
       <rdfs:label>Nièvre</rdfs:label>
       <skos:definition>The metropolitan department of Nièvre in the country of France</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-fr;Bourgogne-Franche-Comte"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Nièvre</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Nièvre</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-fr;MetropolitanDepartment"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-fr;"/>
    </owl:NamedIndividual>
@@ -836,7 +836,7 @@
       <rdfs:label>Doubs</rdfs:label>
       <skos:definition>The metropolitan department of Doubs in the country of France</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-fr;Bourgogne-Franche-Comte"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Doubs</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Doubs</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-fr;MetropolitanDepartment"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-fr;"/>
    </owl:NamedIndividual>
@@ -868,7 +868,7 @@
       <rdfs:label>Bretagne</rdfs:label>
       <skos:definition>The metropolitan region of Bretagne in the country of France</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;France"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Bretagne</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Bretagne</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-fr;MetropolitanRegion"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-fr;"/>
    </owl:NamedIndividual>
@@ -896,7 +896,7 @@
       <rdfs:label>Côtes-d'Armor</rdfs:label>
       <skos:definition>The metropolitan department of Côtes-d'Armor in the country of France</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-fr;Bretagne"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Côtes-d'Armor</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Côtes-d'Armor</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-fr;MetropolitanDepartment"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-fr;"/>
    </owl:NamedIndividual>
@@ -926,7 +926,7 @@
       <rdfs:label>Finistère</rdfs:label>
       <skos:definition>The metropolitan department of Finistère in the country of France</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-fr;Bretagne"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Finistère</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Finistère</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-fr;MetropolitanDepartment"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-fr;"/>
    </owl:NamedIndividual>
@@ -956,7 +956,7 @@
       <rdfs:label>Morbihan</rdfs:label>
       <skos:definition>The metropolitan department of Morbihan in the country of France</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-fr;Bretagne"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Morbihan</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Morbihan</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-fr;MetropolitanDepartment"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-fr;"/>
    </owl:NamedIndividual>
@@ -986,7 +986,7 @@
       <rdfs:label>Ille-et-Vilaine</rdfs:label>
       <skos:definition>The metropolitan department of Ille-et-Vilaine in the country of France</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-fr;Bretagne"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Ille-et-Vilaine</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Ille-et-Vilaine</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-fr;MetropolitanDepartment"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-fr;"/>
    </owl:NamedIndividual>
@@ -1018,7 +1018,7 @@
       <rdfs:label>Centre-Val de Loire</rdfs:label>
       <skos:definition>The metropolitan region of Centre-Val de Loire in the country of France</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;France"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Centre-Val de Loire</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Centre-Val de Loire</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-fr;MetropolitanRegion"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-fr;"/>
    </owl:NamedIndividual>
@@ -1046,7 +1046,7 @@
       <rdfs:label>Cher</rdfs:label>
       <skos:definition>The metropolitan department of Cher in the country of France</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-fr;Centre-ValDeLoire"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Cher</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Cher</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-fr;MetropolitanDepartment"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-fr;"/>
    </owl:NamedIndividual>
@@ -1076,7 +1076,7 @@
       <rdfs:label>Loir-et-Cher</rdfs:label>
       <skos:definition>The metropolitan department of Loir-et-Cher in the country of France</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-fr;Centre-ValDeLoire"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Loir-et-Cher</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Loir-et-Cher</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-fr;MetropolitanDepartment"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-fr;"/>
    </owl:NamedIndividual>
@@ -1106,7 +1106,7 @@
       <rdfs:label>Loiret</rdfs:label>
       <skos:definition>The metropolitan department of Loiret in the country of France</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-fr;Centre-ValDeLoire"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Loiret</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Loiret</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-fr;MetropolitanDepartment"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-fr;"/>
    </owl:NamedIndividual>
@@ -1136,7 +1136,7 @@
       <rdfs:label>Indre-et-Loire</rdfs:label>
       <skos:definition>The metropolitan department of Indre-et-Loire in the country of France</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-fr;Centre-ValDeLoire"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Indre-et-Loire</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Indre-et-Loire</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-fr;MetropolitanDepartment"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-fr;"/>
    </owl:NamedIndividual>
@@ -1166,7 +1166,7 @@
       <rdfs:label>Indre</rdfs:label>
       <skos:definition>The metropolitan department of Indre in the country of France</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-fr;Centre-ValDeLoire"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Indre</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Indre</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-fr;MetropolitanDepartment"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-fr;"/>
    </owl:NamedIndividual>
@@ -1196,7 +1196,7 @@
       <rdfs:label>Eure-et-Loir</rdfs:label>
       <skos:definition>The metropolitan department of Eure-et-Loir in the country of France</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-fr;Centre-ValDeLoire"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Eure-et-Loir</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Eure-et-Loir</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-fr;MetropolitanDepartment"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-fr;"/>
    </owl:NamedIndividual>
@@ -1228,7 +1228,7 @@
       <rdfs:label>Grand-Est</rdfs:label>
       <skos:definition>The metropolitan region of Grand-Est in the country of France</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;France"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Grand-Est</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Grand-Est</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-fr;MetropolitanRegion"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-fr;"/>
    </owl:NamedIndividual>
@@ -1256,7 +1256,7 @@
       <rdfs:label>Marne</rdfs:label>
       <skos:definition>The metropolitan department of Marne in the country of France</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-fr;Grand-Est"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Marne</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Marne</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-fr;MetropolitanDepartment"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-fr;"/>
    </owl:NamedIndividual>
@@ -1286,7 +1286,7 @@
       <rdfs:label>Meuse</rdfs:label>
       <skos:definition>The metropolitan department of Meuse in the country of France</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-fr;Grand-Est"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Meuse</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Meuse</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-fr;MetropolitanDepartment"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-fr;"/>
    </owl:NamedIndividual>
@@ -1316,7 +1316,7 @@
       <rdfs:label>Moselle</rdfs:label>
       <skos:definition>The metropolitan department of Moselle in the country of France</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-fr;Grand-Est"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Moselle</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Moselle</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-fr;MetropolitanDepartment"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-fr;"/>
    </owl:NamedIndividual>
@@ -1346,7 +1346,7 @@
       <rdfs:label>Bas-Rhin</rdfs:label>
       <skos:definition>The metropolitan department of Bas-Rhin in the country of France</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-fr;Grand-Est"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Bas-Rhin</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Bas-Rhin</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-fr;MetropolitanDepartment"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-fr;"/>
    </owl:NamedIndividual>
@@ -1376,7 +1376,7 @@
       <rdfs:label>Haut-Rhin</rdfs:label>
       <skos:definition>The metropolitan department of Haut-Rhin in the country of France</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-fr;Grand-Est"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Haut-Rhin</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Haut-Rhin</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-fr;MetropolitanDepartment"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-fr;"/>
    </owl:NamedIndividual>
@@ -1406,7 +1406,7 @@
       <rdfs:label>Aube</rdfs:label>
       <skos:definition>The metropolitan department of Aube in the country of France</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-fr;Grand-Est"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Aube</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Aube</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-fr;MetropolitanDepartment"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-fr;"/>
    </owl:NamedIndividual>
@@ -1436,7 +1436,7 @@
       <rdfs:label>Haute-Marne</rdfs:label>
       <skos:definition>The metropolitan department of Haute-Marne in the country of France</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-fr;Grand-Est"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Haute-Marne</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Haute-Marne</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-fr;MetropolitanDepartment"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-fr;"/>
    </owl:NamedIndividual>
@@ -1466,7 +1466,7 @@
       <rdfs:label>Meurthe-et-Moselle</rdfs:label>
       <skos:definition>The metropolitan department of Meurthe-et-Moselle in the country of France</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-fr;Grand-Est"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Meurthe-et-Moselle</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Meurthe-et-Moselle</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-fr;MetropolitanDepartment"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-fr;"/>
    </owl:NamedIndividual>
@@ -1496,7 +1496,7 @@
       <rdfs:label>Ardennes</rdfs:label>
       <skos:definition>The metropolitan department of Ardennes in the country of France</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-fr;Grand-Est"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Ardennes</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Ardennes</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-fr;MetropolitanDepartment"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-fr;"/>
    </owl:NamedIndividual>
@@ -1526,7 +1526,7 @@
       <rdfs:label>Vosges</rdfs:label>
       <skos:definition>The metropolitan department of Vosges in the country of France</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-fr;Grand-Est"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Vosges</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Vosges</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-fr;MetropolitanDepartment"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-fr;"/>
    </owl:NamedIndividual>
@@ -1558,7 +1558,7 @@
       <rdfs:label>Hauts-de-France</rdfs:label>
       <skos:definition>The metropolitan region of Hauts-de-France in the country of France</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;France"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Hauts-de-France</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Hauts-de-France</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-fr;MetropolitanRegion"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-fr;"/>
    </owl:NamedIndividual>
@@ -1586,7 +1586,7 @@
       <rdfs:label>Pas-de-Calais</rdfs:label>
       <skos:definition>The metropolitan department of Pas-de-Calais in the country of France</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-fr;Hauts-de-France"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Pas-de-Calais</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Pas-de-Calais</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-fr;MetropolitanDepartment"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-fr;"/>
    </owl:NamedIndividual>
@@ -1616,7 +1616,7 @@
       <rdfs:label>Aisne</rdfs:label>
       <skos:definition>The metropolitan department of Aisne in the country of France</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-fr;Hauts-de-France"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Aisne</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Aisne</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-fr;MetropolitanDepartment"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-fr;"/>
    </owl:NamedIndividual>
@@ -1646,7 +1646,7 @@
       <rdfs:label>Somme</rdfs:label>
       <skos:definition>The metropolitan department of Somme in the country of France</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-fr;Hauts-de-France"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Somme</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Somme</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-fr;MetropolitanDepartment"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-fr;"/>
    </owl:NamedIndividual>
@@ -1676,7 +1676,7 @@
       <rdfs:label>Nord</rdfs:label>
       <skos:definition>The metropolitan department of Nord in the country of France</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-fr;Hauts-de-France"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Nord</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Nord</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-fr;MetropolitanDepartment"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-fr;"/>
    </owl:NamedIndividual>
@@ -1706,7 +1706,7 @@
       <rdfs:label>Oise</rdfs:label>
       <skos:definition>The metropolitan department of Oise in the country of France</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-fr;Hauts-de-France"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Oise</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Oise</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-fr;MetropolitanDepartment"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-fr;"/>
    </owl:NamedIndividual>
@@ -1738,7 +1738,7 @@
       <rdfs:label>Île-de-France</rdfs:label>
       <skos:definition>The metropolitan region of Île-de-France in the country of France</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;France"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Île-de-France</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Île-de-France</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-fr;MetropolitanRegion"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-fr;"/>
    </owl:NamedIndividual>
@@ -1766,7 +1766,7 @@
       <rdfs:label>Paris</rdfs:label>
       <skos:definition>The metropolitan department of Paris in the country of France</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-fr;Ile-de-France"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Paris</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Paris</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-fr;MetropolitanDepartment"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-fr;"/>
    </owl:NamedIndividual>
@@ -1796,7 +1796,7 @@
       <rdfs:label>Essonne</rdfs:label>
       <skos:definition>The metropolitan department of Essonne in the country of France</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-fr;Ile-de-France"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Essonne</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Essonne</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-fr;MetropolitanDepartment"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-fr;"/>
    </owl:NamedIndividual>
@@ -1826,7 +1826,7 @@
       <rdfs:label>Val-de-Marne</rdfs:label>
       <skos:definition>The metropolitan department of Val-de-Marne in the country of France</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-fr;Ile-de-France"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Val-de-Marne</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Val-de-Marne</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-fr;MetropolitanDepartment"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-fr;"/>
    </owl:NamedIndividual>
@@ -1856,7 +1856,7 @@
       <rdfs:label>Seine-et-Marne</rdfs:label>
       <skos:definition>The metropolitan department of Seine-et-Marne in the country of France</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-fr;Ile-de-France"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Seine-et-Marne</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Seine-et-Marne</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-fr;MetropolitanDepartment"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-fr;"/>
    </owl:NamedIndividual>
@@ -1886,7 +1886,7 @@
       <rdfs:label>Yvelines</rdfs:label>
       <skos:definition>The metropolitan department of Yvelines in the country of France</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-fr;Ile-de-France"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Yvelines</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Yvelines</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-fr;MetropolitanDepartment"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-fr;"/>
    </owl:NamedIndividual>
@@ -1916,7 +1916,7 @@
       <rdfs:label>Val-d'Oise</rdfs:label>
       <skos:definition>The metropolitan department of Val-d'Oise in the country of France</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-fr;Ile-de-France"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Val-d'Oise</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Val-d'Oise</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-fr;MetropolitanDepartment"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-fr;"/>
    </owl:NamedIndividual>
@@ -1946,7 +1946,7 @@
       <rdfs:label>Hauts-de-Seine</rdfs:label>
       <skos:definition>The metropolitan department of Hauts-de-Seine in the country of France</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-fr;Ile-de-France"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Hauts-de-Seine</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Hauts-de-Seine</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-fr;MetropolitanDepartment"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-fr;"/>
    </owl:NamedIndividual>
@@ -1976,7 +1976,7 @@
       <rdfs:label>Seine-Saint-Denis</rdfs:label>
       <skos:definition>The metropolitan department of Seine-Saint-Denis in the country of France</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-fr;Ile-de-France"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Seine-Saint-Denis</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Seine-Saint-Denis</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-fr;MetropolitanDepartment"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-fr;"/>
    </owl:NamedIndividual>
@@ -2008,7 +2008,7 @@
       <rdfs:label>Normandie</rdfs:label>
       <skos:definition>The metropolitan region of Normandie in the country of France</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;France"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Normandie</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Normandie</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-fr;MetropolitanRegion"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-fr;"/>
    </owl:NamedIndividual>
@@ -2036,7 +2036,7 @@
       <rdfs:label>Orne</rdfs:label>
       <skos:definition>The metropolitan department of Orne in the country of France</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-fr;Normandie"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Orne</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Orne</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-fr;MetropolitanDepartment"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-fr;"/>
    </owl:NamedIndividual>
@@ -2066,7 +2066,7 @@
       <rdfs:label>Calvados</rdfs:label>
       <skos:definition>The metropolitan department of Calvados in the country of France</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-fr;Normandie"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Calvados</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Calvados</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-fr;MetropolitanDepartment"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-fr;"/>
    </owl:NamedIndividual>
@@ -2096,7 +2096,7 @@
       <rdfs:label>Seine-Maritime</rdfs:label>
       <skos:definition>The metropolitan department of Seine-Maritime in the country of France</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-fr;Normandie"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Seine-Maritime</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Seine-Maritime</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-fr;MetropolitanDepartment"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-fr;"/>
    </owl:NamedIndividual>
@@ -2126,7 +2126,7 @@
       <rdfs:label>Eure</rdfs:label>
       <skos:definition>The metropolitan department of Eure in the country of France</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-fr;Normandie"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Eure</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Eure</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-fr;MetropolitanDepartment"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-fr;"/>
    </owl:NamedIndividual>
@@ -2156,7 +2156,7 @@
       <rdfs:label>Manche</rdfs:label>
       <skos:definition>The metropolitan department of Manche in the country of France</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-fr;Normandie"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Manche</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Manche</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-fr;MetropolitanDepartment"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-fr;"/>
    </owl:NamedIndividual>
@@ -2188,7 +2188,7 @@
       <rdfs:label>Nouvelle-Aquitaine</rdfs:label>
       <skos:definition>The metropolitan region of Nouvelle-Aquitaine in the country of France</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;France"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Nouvelle-Aquitaine</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Nouvelle-Aquitaine</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-fr;MetropolitanRegion"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-fr;"/>
    </owl:NamedIndividual>
@@ -2216,7 +2216,7 @@
       <rdfs:label>Creuse</rdfs:label>
       <skos:definition>The metropolitan department of Creuse in the country of France</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-fr;Nouvelle-Aquitaine"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Creuse</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Creuse</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-fr;MetropolitanDepartment"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-fr;"/>
    </owl:NamedIndividual>
@@ -2246,7 +2246,7 @@
       <rdfs:label>Landes</rdfs:label>
       <skos:definition>The metropolitan department of Landes in the country of France</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-fr;Nouvelle-Aquitaine"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Landes</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Landes</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-fr;MetropolitanDepartment"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-fr;"/>
    </owl:NamedIndividual>
@@ -2276,7 +2276,7 @@
       <rdfs:label>Haute-Vienne</rdfs:label>
       <skos:definition>The metropolitan department of Haute-Vienne in the country of France</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-fr;Nouvelle-Aquitaine"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Haute-Vienne</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Haute-Vienne</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-fr;MetropolitanDepartment"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-fr;"/>
    </owl:NamedIndividual>
@@ -2306,7 +2306,7 @@
       <rdfs:label>Charente</rdfs:label>
       <skos:definition>The metropolitan department of Charente in the country of France</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-fr;Nouvelle-Aquitaine"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Charente</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Charente</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-fr;MetropolitanDepartment"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-fr;"/>
    </owl:NamedIndividual>
@@ -2336,7 +2336,7 @@
       <rdfs:label>Dordogne</rdfs:label>
       <skos:definition>The metropolitan department of Dordogne in the country of France</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-fr;Nouvelle-Aquitaine"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Dordogne</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Dordogne</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-fr;MetropolitanDepartment"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-fr;"/>
    </owl:NamedIndividual>
@@ -2366,7 +2366,7 @@
       <rdfs:label>Deux-Sèvres</rdfs:label>
       <skos:definition>The metropolitan department of Deux-Sèvres in the country of France</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-fr;Nouvelle-Aquitaine"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Deux-Sèvres</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Deux-Sèvres</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-fr;MetropolitanDepartment"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-fr;"/>
    </owl:NamedIndividual>
@@ -2396,7 +2396,7 @@
       <rdfs:label>Corrèze</rdfs:label>
       <skos:definition>The metropolitan department of Corrèze in the country of France</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-fr;Nouvelle-Aquitaine"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Corrèze</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Corrèze</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-fr;MetropolitanDepartment"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-fr;"/>
    </owl:NamedIndividual>
@@ -2426,7 +2426,7 @@
       <rdfs:label>Lot-et-Garonne</rdfs:label>
       <skos:definition>The metropolitan department of Lot-et-Garonne in the country of France</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-fr;Nouvelle-Aquitaine"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Lot-et-Garonne</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Lot-et-Garonne</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-fr;MetropolitanDepartment"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-fr;"/>
    </owl:NamedIndividual>
@@ -2456,7 +2456,7 @@
       <rdfs:label>Charente-Maritime</rdfs:label>
       <skos:definition>The metropolitan department of Charente-Maritime in the country of France</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-fr;Nouvelle-Aquitaine"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Charente-Maritime</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Charente-Maritime</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-fr;MetropolitanDepartment"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-fr;"/>
    </owl:NamedIndividual>
@@ -2486,7 +2486,7 @@
       <rdfs:label>Vienne</rdfs:label>
       <skos:definition>The metropolitan department of Vienne in the country of France</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-fr;Nouvelle-Aquitaine"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Vienne</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Vienne</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-fr;MetropolitanDepartment"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-fr;"/>
    </owl:NamedIndividual>
@@ -2516,7 +2516,7 @@
       <rdfs:label>Gironde</rdfs:label>
       <skos:definition>The metropolitan department of Gironde in the country of France</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-fr;Nouvelle-Aquitaine"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Gironde</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Gironde</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-fr;MetropolitanDepartment"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-fr;"/>
    </owl:NamedIndividual>
@@ -2546,7 +2546,7 @@
       <rdfs:label>Pyrénées-Atlantiques</rdfs:label>
       <skos:definition>The metropolitan department of Pyrénées-Atlantiques in the country of France</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-fr;Nouvelle-Aquitaine"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Pyrénées-Atlantiques</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Pyrénées-Atlantiques</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-fr;MetropolitanDepartment"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-fr;"/>
    </owl:NamedIndividual>
@@ -2578,7 +2578,7 @@
       <rdfs:label>Occitanie</rdfs:label>
       <skos:definition>The metropolitan region of Occitanie in the country of France</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;France"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Occitanie</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Occitanie</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-fr;MetropolitanRegion"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-fr;"/>
    </owl:NamedIndividual>
@@ -2606,7 +2606,7 @@
       <rdfs:label>Tarn</rdfs:label>
       <skos:definition>The metropolitan department of Tarn in the country of France</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-fr;Occitanie"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Tarn</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Tarn</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-fr;MetropolitanDepartment"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-fr;"/>
    </owl:NamedIndividual>
@@ -2636,7 +2636,7 @@
       <rdfs:label>Gard</rdfs:label>
       <skos:definition>The metropolitan department of Gard in the country of France</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-fr;Occitanie"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Gard</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Gard</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-fr;MetropolitanDepartment"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-fr;"/>
    </owl:NamedIndividual>
@@ -2666,7 +2666,7 @@
       <rdfs:label>Aude</rdfs:label>
       <skos:definition>The metropolitan department of Aude in the country of France</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-fr;Occitanie"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Aude</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Aude</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-fr;MetropolitanDepartment"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-fr;"/>
    </owl:NamedIndividual>
@@ -2696,7 +2696,7 @@
       <rdfs:label>Lozère</rdfs:label>
       <skos:definition>The metropolitan department of Lozère in the country of France</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-fr;Occitanie"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Lozère</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Lozère</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-fr;MetropolitanDepartment"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-fr;"/>
    </owl:NamedIndividual>
@@ -2726,7 +2726,7 @@
       <rdfs:label>Ariège</rdfs:label>
       <skos:definition>The metropolitan department of Ariège in the country of France</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-fr;Occitanie"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Ariège</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Ariège</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-fr;MetropolitanDepartment"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-fr;"/>
    </owl:NamedIndividual>
@@ -2756,7 +2756,7 @@
       <rdfs:label>Hautes-Pyrénées</rdfs:label>
       <skos:definition>The metropolitan department of Hautes-Pyrénées in the country of France</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-fr;Occitanie"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Hautes-Pyrénées</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Hautes-Pyrénées</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-fr;MetropolitanDepartment"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-fr;"/>
    </owl:NamedIndividual>
@@ -2786,7 +2786,7 @@
       <rdfs:label>Hérault</rdfs:label>
       <skos:definition>The metropolitan department of Hérault in the country of France</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-fr;Occitanie"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Hérault</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Hérault</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-fr;MetropolitanDepartment"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-fr;"/>
    </owl:NamedIndividual>
@@ -2816,7 +2816,7 @@
       <rdfs:label>Lot</rdfs:label>
       <skos:definition>The metropolitan department of Lot in the country of France</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-fr;Occitanie"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Lot</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Lot</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-fr;MetropolitanDepartment"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-fr;"/>
    </owl:NamedIndividual>
@@ -2846,7 +2846,7 @@
       <rdfs:label>Tarn-et-Garonne</rdfs:label>
       <skos:definition>The metropolitan department of Tarn-et-Garonne in the country of France</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-fr;Occitanie"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Tarn-et-Garonne</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Tarn-et-Garonne</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-fr;MetropolitanDepartment"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-fr;"/>
    </owl:NamedIndividual>
@@ -2876,7 +2876,7 @@
       <rdfs:label>Pyrénées-Orientales</rdfs:label>
       <skos:definition>The metropolitan department of Pyrénées-Orientales in the country of France</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-fr;Occitanie"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Pyrénées-Orientales</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Pyrénées-Orientales</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-fr;MetropolitanDepartment"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-fr;"/>
    </owl:NamedIndividual>
@@ -2906,7 +2906,7 @@
       <rdfs:label>Aveyron</rdfs:label>
       <skos:definition>The metropolitan department of Aveyron in the country of France</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-fr;Occitanie"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Aveyron</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Aveyron</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-fr;MetropolitanDepartment"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-fr;"/>
    </owl:NamedIndividual>
@@ -2936,7 +2936,7 @@
       <rdfs:label>Haute-Garonne</rdfs:label>
       <skos:definition>The metropolitan department of Haute-Garonne in the country of France</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-fr;Occitanie"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Haute-Garonne</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Haute-Garonne</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-fr;MetropolitanDepartment"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-fr;"/>
    </owl:NamedIndividual>
@@ -2966,7 +2966,7 @@
       <rdfs:label>Gers</rdfs:label>
       <skos:definition>The metropolitan department of Gers in the country of France</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-fr;Occitanie"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Gers</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Gers</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-fr;MetropolitanDepartment"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-fr;"/>
    </owl:NamedIndividual>
@@ -2998,7 +2998,7 @@
       <rdfs:label>Pays-de-la-Loire</rdfs:label>
       <skos:definition>The metropolitan region of Pays-de-la-Loire in the country of France</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;France"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Pays-de-la-Loire</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Pays-de-la-Loire</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-fr;MetropolitanRegion"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-fr;"/>
    </owl:NamedIndividual>
@@ -3026,7 +3026,7 @@
       <rdfs:label>Mayenne</rdfs:label>
       <skos:definition>The metropolitan department of Mayenne in the country of France</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-fr;Pays-de-la-Loire"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Mayenne</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Mayenne</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-fr;MetropolitanDepartment"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-fr;"/>
    </owl:NamedIndividual>
@@ -3056,7 +3056,7 @@
       <rdfs:label>Maine-et-Loire</rdfs:label>
       <skos:definition>The metropolitan department of Maine-et-Loire in the country of France</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-fr;Pays-de-la-Loire"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Maine-et-Loire</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Maine-et-Loire</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-fr;MetropolitanDepartment"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-fr;"/>
    </owl:NamedIndividual>
@@ -3086,7 +3086,7 @@
       <rdfs:label>Sarthe</rdfs:label>
       <skos:definition>The metropolitan department of Sarthe in the country of France</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-fr;Pays-de-la-Loire"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Sarthe</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Sarthe</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-fr;MetropolitanDepartment"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-fr;"/>
    </owl:NamedIndividual>
@@ -3116,7 +3116,7 @@
       <rdfs:label>Loire-Atlantique</rdfs:label>
       <skos:definition>The metropolitan department of Loire-Atlantique in the country of France</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-fr;Pays-de-la-Loire"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Loire-Atlantique</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Loire-Atlantique</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-fr;MetropolitanDepartment"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-fr;"/>
    </owl:NamedIndividual>
@@ -3146,7 +3146,7 @@
       <rdfs:label>Vendée</rdfs:label>
       <skos:definition>The metropolitan department of Vendée in the country of France</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-fr;Pays-de-la-Loire"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Vendée</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Vendée</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-fr;MetropolitanDepartment"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-fr;"/>
    </owl:NamedIndividual>
@@ -3178,7 +3178,7 @@
       <rdfs:label>Provence-Alpes-Côte-d’Azur</rdfs:label>
       <skos:definition>The metropolitan region of Provence-Alpes-Côte-d’Azur in the country of France</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;France"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Provence-Alpes-Côte-d’Azur</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Provence-Alpes-Côte-d’Azur</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-fr;MetropolitanRegion"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-fr;"/>
    </owl:NamedIndividual>
@@ -3206,7 +3206,7 @@
       <rdfs:label>Alpes-de-Haute-Provence</rdfs:label>
       <skos:definition>The metropolitan department of Alpes-de-Haute-Provence in the country of France</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-fr;Provence-Alpes-Cote-dAzur"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Alpes-de-Haute-Provence</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Alpes-de-Haute-Provence</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-fr;MetropolitanDepartment"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-fr;"/>
    </owl:NamedIndividual>
@@ -3236,7 +3236,7 @@
       <rdfs:label>Hautes-Alpes</rdfs:label>
       <skos:definition>The metropolitan department of Hautes-Alpes in the country of France</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-fr;Provence-Alpes-Cote-dAzur"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Hautes-Alpes</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Hautes-Alpes</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-fr;MetropolitanDepartment"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-fr;"/>
    </owl:NamedIndividual>
@@ -3266,7 +3266,7 @@
       <rdfs:label>Var</rdfs:label>
       <skos:definition>The metropolitan department of Var in the country of France</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-fr;Provence-Alpes-Cote-dAzur"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Var</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Var</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-fr;MetropolitanDepartment"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-fr;"/>
    </owl:NamedIndividual>
@@ -3296,7 +3296,7 @@
       <rdfs:label>Alpes-Maritimes</rdfs:label>
       <skos:definition>The metropolitan department of Alpes-Maritimes in the country of France</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-fr;Provence-Alpes-Cote-dAzur"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Alpes-Maritimes</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Alpes-Maritimes</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-fr;MetropolitanDepartment"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-fr;"/>
    </owl:NamedIndividual>
@@ -3326,7 +3326,7 @@
       <rdfs:label>Vaucluse</rdfs:label>
       <skos:definition>The metropolitan department of Vaucluse in the country of France</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-fr;Provence-Alpes-Cote-dAzur"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Vaucluse</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Vaucluse</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-fr;MetropolitanDepartment"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-fr;"/>
    </owl:NamedIndividual>
@@ -3356,7 +3356,7 @@
       <rdfs:label>Bouches-du-Rhône</rdfs:label>
       <skos:definition>The metropolitan department of Bouches-du-Rhône in the country of France</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-fr;Provence-Alpes-Cote-dAzur"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Bouches-du-Rhône</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Bouches-du-Rhône</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-fr;MetropolitanDepartment"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-fr;"/>
    </owl:NamedIndividual>
@@ -3388,7 +3388,7 @@
       <rdfs:label>Guadeloupe</rdfs:label>
       <skos:definition>The overseas region of Guadeloupe in the country of France</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;France"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Guadeloupe</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Guadeloupe</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-fr;OverseasRegion"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-fr;"/>
    </owl:NamedIndividual>
@@ -3448,7 +3448,7 @@
       <rdfs:label>La Réunion</rdfs:label>
       <skos:definition>The overseas region of La Réunion in the country of France</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;France"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">La Réunion</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">La Réunion</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-fr;OverseasRegion"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-fr;"/>
    </owl:NamedIndividual>
@@ -3508,7 +3508,7 @@
       <rdfs:label>Mayotte</rdfs:label>
       <skos:definition>The overseas region of Mayotte in the country of France</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;France"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Mayotte</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Mayotte</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-fr;OverseasRegion"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-fr;"/>
    </owl:NamedIndividual>
@@ -3568,7 +3568,7 @@
       <rdfs:label>Guyane (française) (see also separate country code entry under GF)</rdfs:label>
       <skos:definition>The overseas territorial collectivity of Guyane (française) (see also separate country code entry under GF) in the country of France</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;France"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Guyane (française) (see also separate country code entry under GF)</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Guyane (française) (see also separate country code entry under GF)</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-fr;OverseasTerritorialCollectivity"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-fr;"/>
    </owl:NamedIndividual>
@@ -3598,7 +3598,7 @@
       <rdfs:label>Martinique (see also separate country code entry under MQ)</rdfs:label>
       <skos:definition>The overseas territorial collectivity of Martinique (see also separate country code entry under MQ) in the country of France</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;France"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Martinique (see also separate country code entry under MQ)</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Martinique (see also separate country code entry under MQ)</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-fr;OverseasTerritorialCollectivity"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-fr;"/>
    </owl:NamedIndividual>
@@ -3628,7 +3628,7 @@
       <rdfs:label>Corse</rdfs:label>
       <skos:definition>The collectivity of Corse in the country of France</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;France"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Corse</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Corse</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-fr;Collectivity"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-fr;"/>
    </owl:NamedIndividual>
@@ -3656,7 +3656,7 @@
       <rdfs:label>Corse-du-Sud</rdfs:label>
       <skos:definition>The metropolitan department of Corse-du-Sud in the country of France</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-fr;Corse"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Corse-du-Sud</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Corse-du-Sud</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-fr;MetropolitanDepartment"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-fr;"/>
    </owl:NamedIndividual>
@@ -3686,7 +3686,7 @@
       <rdfs:label>Haute-Corse</rdfs:label>
       <skos:definition>The metropolitan department of Haute-Corse in the country of France</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-fr;Corse"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Haute-Corse</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Haute-Corse</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-fr;MetropolitanDepartment"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-fr;"/>
    </owl:NamedIndividual>
@@ -3718,7 +3718,7 @@
       <rdfs:label>Clipperton</rdfs:label>
       <skos:definition>The dependency of Clipperton in the country of France</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;France"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Clipperton</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Clipperton</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-fr;Dependency"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-fr;"/>
    </owl:NamedIndividual>
@@ -3898,7 +3898,7 @@
       <rdfs:label>l'Île Clipperton</rdfs:label>
       <skos:definition>The territory of l'Île Clipperton in the country of France</skos:definition>
       <lcc-cr:hasNumericRegionCode rdf:datatype="&xsd;string">1043</lcc-cr:hasNumericRegionCode>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">l'Île Clipperton</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">l'Île Clipperton</lcc-cr:hasFrenchShortName>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;France"/>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2;Territory"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-fr;"/>
@@ -3916,7 +3916,7 @@
       <rdfs:label>France métropolitaine</rdfs:label>
       <skos:definition>The territory of France métropolitaine in the country of France</skos:definition>
       <lcc-cr:hasNumericRegionCode rdf:datatype="&xsd;string">1061</lcc-cr:hasNumericRegionCode>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">France métropolitaine</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">France métropolitaine</lcc-cr:hasFrenchShortName>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;France"/>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2;Territory"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-fr;"/>

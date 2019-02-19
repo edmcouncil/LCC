@@ -106,7 +106,7 @@
       <rdfs:label>Saint Ann</rdfs:label>
       <skos:definition>The parish of Saint Ann in the country of Jamaica</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Jamaica"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Saint Ann</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Saint Ann</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-jm;Parish"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-jm;"/>
    </owl:NamedIndividual>
@@ -136,7 +136,7 @@
       <rdfs:label>Clarendon</rdfs:label>
       <skos:definition>The parish of Clarendon in the country of Jamaica</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Jamaica"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Clarendon</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Clarendon</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-jm;Parish"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-jm;"/>
    </owl:NamedIndividual>
@@ -166,7 +166,7 @@
       <rdfs:label>Kingston</rdfs:label>
       <skos:definition>The parish of Kingston in the country of Jamaica</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Jamaica"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Kingston</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Kingston</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-jm;Parish"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-jm;"/>
    </owl:NamedIndividual>
@@ -196,7 +196,7 @@
       <rdfs:label>Manchester</rdfs:label>
       <skos:definition>The parish of Manchester in the country of Jamaica</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Jamaica"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Manchester</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Manchester</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-jm;Parish"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-jm;"/>
    </owl:NamedIndividual>
@@ -226,7 +226,7 @@
       <rdfs:label>Saint Catherine</rdfs:label>
       <skos:definition>The parish of Saint Catherine in the country of Jamaica</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Jamaica"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Saint Catherine</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Saint Catherine</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-jm;Parish"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-jm;"/>
    </owl:NamedIndividual>
@@ -256,7 +256,7 @@
       <rdfs:label>Westmoreland</rdfs:label>
       <skos:definition>The parish of Westmoreland in the country of Jamaica</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Jamaica"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Westmoreland</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Westmoreland</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-jm;Parish"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-jm;"/>
    </owl:NamedIndividual>
@@ -286,7 +286,7 @@
       <rdfs:label>Saint Elizabeth</rdfs:label>
       <skos:definition>The parish of Saint Elizabeth in the country of Jamaica</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Jamaica"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Saint Elizabeth</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Saint Elizabeth</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-jm;Parish"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-jm;"/>
    </owl:NamedIndividual>
@@ -316,7 +316,7 @@
       <rdfs:label>Trelawny</rdfs:label>
       <skos:definition>The parish of Trelawny in the country of Jamaica</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Jamaica"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Trelawny</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Trelawny</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-jm;Parish"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-jm;"/>
    </owl:NamedIndividual>
@@ -346,7 +346,7 @@
       <rdfs:label>Saint Andrew</rdfs:label>
       <skos:definition>The parish of Saint Andrew in the country of Jamaica</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Jamaica"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Saint Andrew</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Saint Andrew</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-jm;Parish"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-jm;"/>
    </owl:NamedIndividual>
@@ -376,7 +376,7 @@
       <rdfs:label>Saint Thomas</rdfs:label>
       <skos:definition>The parish of Saint Thomas in the country of Jamaica</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Jamaica"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Saint Thomas</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Saint Thomas</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-jm;Parish"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-jm;"/>
    </owl:NamedIndividual>
@@ -406,7 +406,7 @@
       <rdfs:label>Saint James</rdfs:label>
       <skos:definition>The parish of Saint James in the country of Jamaica</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Jamaica"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Saint James</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Saint James</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-jm;Parish"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-jm;"/>
    </owl:NamedIndividual>
@@ -436,7 +436,7 @@
       <rdfs:label>Hanover</rdfs:label>
       <skos:definition>The parish of Hanover in the country of Jamaica</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Jamaica"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Hanover</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Hanover</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-jm;Parish"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-jm;"/>
    </owl:NamedIndividual>
@@ -466,7 +466,7 @@
       <rdfs:label>Portland</rdfs:label>
       <skos:definition>The parish of Portland in the country of Jamaica</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Jamaica"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Portland</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Portland</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-jm;Parish"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-jm;"/>
    </owl:NamedIndividual>
@@ -496,7 +496,7 @@
       <rdfs:label>Saint Mary</rdfs:label>
       <skos:definition>The parish of Saint Mary in the country of Jamaica</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Jamaica"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Saint Mary</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Saint Mary</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-jm;Parish"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-jm;"/>
    </owl:NamedIndividual>

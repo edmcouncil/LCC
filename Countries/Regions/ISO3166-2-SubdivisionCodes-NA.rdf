@@ -106,7 +106,7 @@
       <rdfs:label>Oshana</rdfs:label>
       <skos:definition>The region of Oshana in the country of Namibia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Namibia"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Oshana</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Oshana</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-na;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-na;"/>
    </owl:NamedIndividual>
@@ -136,7 +136,7 @@
       <rdfs:label>Hardap</rdfs:label>
       <skos:definition>The region of Hardap in the country of Namibia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Namibia"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Hardap</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Hardap</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-na;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-na;"/>
    </owl:NamedIndividual>
@@ -166,7 +166,7 @@
       <rdfs:label>Khomas</rdfs:label>
       <skos:definition>The region of Khomas in the country of Namibia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Namibia"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Khomas</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Khomas</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-na;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-na;"/>
    </owl:NamedIndividual>
@@ -196,7 +196,7 @@
       <rdfs:label>Zambezi</rdfs:label>
       <skos:definition>The region of Zambezi in the country of Namibia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Namibia"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Zambezi</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Zambezi</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-na;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-na;"/>
    </owl:NamedIndividual>
@@ -226,7 +226,7 @@
       <rdfs:label>Erongo</rdfs:label>
       <skos:definition>The region of Erongo in the country of Namibia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Namibia"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Erongo</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Erongo</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-na;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-na;"/>
    </owl:NamedIndividual>
@@ -256,7 +256,7 @@
       <rdfs:label>Kunene</rdfs:label>
       <skos:definition>The region of Kunene in the country of Namibia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Namibia"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Kunene</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Kunene</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-na;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-na;"/>
    </owl:NamedIndividual>
@@ -286,7 +286,7 @@
       <rdfs:label>Omusati</rdfs:label>
       <skos:definition>The region of Omusati in the country of Namibia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Namibia"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Omusati</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Omusati</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-na;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-na;"/>
    </owl:NamedIndividual>
@@ -316,7 +316,7 @@
       <rdfs:label>Ohangwena</rdfs:label>
       <skos:definition>The region of Ohangwena in the country of Namibia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Namibia"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Ohangwena</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Ohangwena</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-na;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-na;"/>
    </owl:NamedIndividual>
@@ -346,7 +346,7 @@
       <rdfs:label>Otjozondjupa</rdfs:label>
       <skos:definition>The region of Otjozondjupa in the country of Namibia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Namibia"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Otjozondjupa</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Otjozondjupa</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-na;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-na;"/>
    </owl:NamedIndividual>
@@ -376,7 +376,7 @@
       <rdfs:label>Kavango East</rdfs:label>
       <skos:definition>The region of Kavango East in the country of Namibia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Namibia"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Kavango East</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Kavango East</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-na;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-na;"/>
    </owl:NamedIndividual>
@@ -406,7 +406,7 @@
       <rdfs:label>Kavango West</rdfs:label>
       <skos:definition>The region of Kavango West in the country of Namibia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Namibia"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Kavango West</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Kavango West</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-na;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-na;"/>
    </owl:NamedIndividual>
@@ -436,7 +436,7 @@
       <rdfs:label>Karas</rdfs:label>
       <skos:definition>The region of Karas in the country of Namibia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Namibia"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Karas</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Karas</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-na;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-na;"/>
    </owl:NamedIndividual>
@@ -466,7 +466,7 @@
       <rdfs:label>Omaheke</rdfs:label>
       <skos:definition>The region of Omaheke in the country of Namibia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Namibia"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Omaheke</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Omaheke</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-na;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-na;"/>
    </owl:NamedIndividual>
@@ -496,7 +496,7 @@
       <rdfs:label>Oshikoto</rdfs:label>
       <skos:definition>The region of Oshikoto in the country of Namibia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Namibia"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Oshikoto</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Oshikoto</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-na;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-na;"/>
    </owl:NamedIndividual>

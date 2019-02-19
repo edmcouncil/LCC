@@ -113,8 +113,8 @@
       <rdfs:label>Taakaev</rdfs:label>
       <skos:definition>The province of Taakaev in the country of Cambodia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Cambodia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="km">Taakaev</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="km">Takêv</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="km">Taakaev</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="km">Takêv</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-kh;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-kh;"/>
    </owl:NamedIndividual>
@@ -144,8 +144,8 @@
       <rdfs:label>Pailĭn</rdfs:label>
       <skos:definition>The province of Pailĭn in the country of Cambodia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Cambodia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="km">Pailĭn</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="km">Pailin</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="km">Pailĭn</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="km">Pailin</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-kh;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-kh;"/>
    </owl:NamedIndividual>
@@ -175,8 +175,8 @@
       <rdfs:label>Krâchéh</rdfs:label>
       <skos:definition>The province of Krâchéh in the country of Cambodia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Cambodia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="km">Krâchéh</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="km">Kracheh</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="km">Krâchéh</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="km">Kracheh</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-kh;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-kh;"/>
    </owl:NamedIndividual>
@@ -206,8 +206,8 @@
       <rdfs:label>Banteay Mean Chey</rdfs:label>
       <skos:definition>The province of Banteay Mean Chey in the country of Cambodia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Cambodia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="km">Banteay Mean Chey</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="km">Bântéay Méanchey</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="km">Banteay Mean Chey</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="km">Bântéay Méanchey</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-kh;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-kh;"/>
    </owl:NamedIndividual>
@@ -237,8 +237,8 @@
       <rdfs:label>Preăh Sihanouk</rdfs:label>
       <skos:definition>The province of Preăh Sihanouk in the country of Cambodia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Cambodia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="km">Preăh Sihanouk</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="km">Preah Sihanouk</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="km">Preăh Sihanouk</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="km">Preah Sihanouk</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-kh;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-kh;"/>
    </owl:NamedIndividual>
@@ -268,8 +268,8 @@
       <rdfs:label>Kaeb</rdfs:label>
       <skos:definition>The province of Kaeb in the country of Cambodia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Cambodia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="km">Kaeb</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="km">Kêb</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="km">Kaeb</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="km">Kêb</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-kh;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-kh;"/>
    </owl:NamedIndividual>
@@ -299,8 +299,8 @@
       <rdfs:label>Tbong Khmum</rdfs:label>
       <skos:definition>The province of Tbong Khmum in the country of Cambodia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Cambodia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="km">Tbong Khmum</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="km">Tbong Khmŭm</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="km">Tbong Khmum</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="km">Tbong Khmŭm</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-kh;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-kh;"/>
    </owl:NamedIndividual>
@@ -330,8 +330,8 @@
       <rdfs:label>Rotanak Kiri</rdfs:label>
       <skos:definition>The province of Rotanak Kiri in the country of Cambodia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Cambodia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="km">Rotanak Kiri</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="km">Rôtânôkiri</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="km">Rotanak Kiri</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="km">Rôtânôkiri</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-kh;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-kh;"/>
    </owl:NamedIndividual>
@@ -361,8 +361,8 @@
       <rdfs:label>Siem Reab</rdfs:label>
       <skos:definition>The province of Siem Reab in the country of Cambodia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Cambodia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="km">Siem Reab</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="km">Siĕmréab</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="km">Siem Reab</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="km">Siĕmréab</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-kh;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-kh;"/>
    </owl:NamedIndividual>
@@ -392,8 +392,8 @@
       <rdfs:label>Svay Riĕng</rdfs:label>
       <skos:definition>The province of Svay Riĕng in the country of Cambodia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Cambodia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="km">Svay Riĕng</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="km">Svaay Rieng</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="km">Svay Riĕng</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="km">Svaay Rieng</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-kh;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-kh;"/>
    </owl:NamedIndividual>
@@ -423,8 +423,8 @@
       <rdfs:label>Môndól Kiri</rdfs:label>
       <skos:definition>The province of Môndól Kiri in the country of Cambodia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Cambodia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="km">Môndól Kiri</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="km">Mondol Kiri</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="km">Môndól Kiri</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="km">Mondol Kiri</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-kh;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-kh;"/>
    </owl:NamedIndividual>
@@ -454,8 +454,8 @@
       <rdfs:label>Kampong Chhnang</rdfs:label>
       <skos:definition>The province of Kampong Chhnang in the country of Cambodia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Cambodia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="km">Kampong Chhnang</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="km">Kâmpóng Chhnăng</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="km">Kampong Chhnang</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="km">Kâmpóng Chhnăng</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-kh;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-kh;"/>
    </owl:NamedIndividual>
@@ -485,8 +485,8 @@
       <rdfs:label>Kâmpóng Thum</rdfs:label>
       <skos:definition>The province of Kâmpóng Thum in the country of Cambodia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Cambodia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="km">Kâmpóng Thum</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="km">Kampong Thum</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="km">Kâmpóng Thum</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="km">Kampong Thum</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-kh;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-kh;"/>
    </owl:NamedIndividual>
@@ -516,8 +516,8 @@
       <rdfs:label>Baat Dambang</rdfs:label>
       <skos:definition>The province of Baat Dambang in the country of Cambodia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Cambodia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="km">Baat Dambang</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="km">Bătdâmbâng</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="km">Baat Dambang</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="km">Bătdâmbâng</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-kh;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-kh;"/>
    </owl:NamedIndividual>
@@ -547,8 +547,8 @@
       <rdfs:label>Kampong Spueu</rdfs:label>
       <skos:definition>The province of Kampong Spueu in the country of Cambodia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Cambodia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="km">Kampong Spueu</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="km">Kâmpóng Spœ</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="km">Kampong Spueu</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="km">Kâmpóng Spœ</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-kh;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-kh;"/>
    </owl:NamedIndividual>
@@ -578,8 +578,8 @@
       <rdfs:label>Kaoh Kong</rdfs:label>
       <skos:definition>The province of Kaoh Kong in the country of Cambodia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Cambodia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="km">Kaoh Kong</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="km">Kaôh Kŏng</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="km">Kaoh Kong</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="km">Kaôh Kŏng</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-kh;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-kh;"/>
    </owl:NamedIndividual>
@@ -609,8 +609,8 @@
       <rdfs:label>Poŭthĭsăt</rdfs:label>
       <skos:definition>The province of Poŭthĭsăt in the country of Cambodia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Cambodia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="km">Poŭthĭsăt</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="km">Pousaat</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="km">Poŭthĭsăt</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="km">Pousaat</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-kh;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-kh;"/>
    </owl:NamedIndividual>
@@ -640,8 +640,8 @@
       <rdfs:label>Kampong Chaam</rdfs:label>
       <skos:definition>The province of Kampong Chaam in the country of Cambodia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Cambodia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="km">Kampong Chaam</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="km">Kâmpóng Cham</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="km">Kampong Chaam</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="km">Kâmpóng Cham</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-kh;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-kh;"/>
    </owl:NamedIndividual>
@@ -671,8 +671,8 @@
       <rdfs:label>Kandaal</rdfs:label>
       <skos:definition>The province of Kandaal in the country of Cambodia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Cambodia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="km">Kandaal</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="km">Kândal</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="km">Kandaal</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="km">Kândal</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-kh;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-kh;"/>
    </owl:NamedIndividual>
@@ -702,8 +702,8 @@
       <rdfs:label>Stoĕng Trêng</rdfs:label>
       <skos:definition>The province of Stoĕng Trêng in the country of Cambodia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Cambodia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="km">Stoĕng Trêng</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="km">Stueng Traeng</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="km">Stoĕng Trêng</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="km">Stueng Traeng</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-kh;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-kh;"/>
    </owl:NamedIndividual>
@@ -733,8 +733,8 @@
       <rdfs:label>Ŏtdâr Méanchey</rdfs:label>
       <skos:definition>The province of Ŏtdâr Méanchey in the country of Cambodia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Cambodia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="km">Ŏtdâr Méanchey</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="km">Otdar Mean Chey</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="km">Ŏtdâr Méanchey</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="km">Otdar Mean Chey</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-kh;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-kh;"/>
    </owl:NamedIndividual>
@@ -764,8 +764,8 @@
       <rdfs:label>Kampot</rdfs:label>
       <skos:definition>The province of Kampot in the country of Cambodia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Cambodia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="km">Kampot</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="km">Kâmpôt</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="km">Kampot</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="km">Kâmpôt</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-kh;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-kh;"/>
    </owl:NamedIndividual>
@@ -795,8 +795,8 @@
       <rdfs:label>Phnum Pénh</rdfs:label>
       <skos:definition>The autonomous municipality of Phnum Pénh in the country of Cambodia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Cambodia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="km">Phnum Pénh</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="km">Phnom Penh</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="km">Phnum Pénh</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="km">Phnom Penh</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-kh;AutonomousMunicipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-kh;"/>
    </owl:NamedIndividual>
@@ -826,8 +826,8 @@
       <rdfs:label>Preăh Vihéar</rdfs:label>
       <skos:definition>The province of Preăh Vihéar in the country of Cambodia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Cambodia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="km">Preăh Vihéar</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="km">Preah Vihear</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="km">Preăh Vihéar</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="km">Preah Vihear</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-kh;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-kh;"/>
    </owl:NamedIndividual>
@@ -857,8 +857,8 @@
       <rdfs:label>Prey Vêng</rdfs:label>
       <skos:definition>The province of Prey Vêng in the country of Cambodia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Cambodia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="km">Prey Vêng</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="km">Prey Veaeng</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="km">Prey Vêng</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="km">Prey Veaeng</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-kh;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-kh;"/>
    </owl:NamedIndividual>

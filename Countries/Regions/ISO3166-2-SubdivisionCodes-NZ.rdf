@@ -113,8 +113,8 @@
       <rdfs:label>Chatham Islands Territory</rdfs:label>
       <skos:definition>The special island authority of Chatham Islands Territory in the country of New Zealand</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;NewZealand"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="mi">Wharekauri</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Chatham Islands Territory</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="mi">Wharekauri</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Chatham Islands Territory</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-nz;SpecialIslandAuthority"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-nz;"/>
    </owl:NamedIndividual>
@@ -144,8 +144,8 @@
       <rdfs:label>Auckland</rdfs:label>
       <skos:definition>The region of Auckland in the country of New Zealand</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;NewZealand"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Auckland</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="mi">Tāmaki-makau-rau</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Auckland</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="mi">Tāmaki-makau-rau</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-nz;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-nz;"/>
    </owl:NamedIndividual>
@@ -175,8 +175,8 @@
       <rdfs:label>Gisborne</rdfs:label>
       <skos:definition>The region of Gisborne in the country of New Zealand</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;NewZealand"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Gisborne</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="mi">Tūranga nui a Kiwa</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Gisborne</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="mi">Tūranga nui a Kiwa</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-nz;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-nz;"/>
    </owl:NamedIndividual>
@@ -206,8 +206,8 @@
       <rdfs:label>Hawke's Bay</rdfs:label>
       <skos:definition>The region of Hawke's Bay in the country of New Zealand</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;NewZealand"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Hawke's Bay</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="mi">Te Matau a Māui</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Hawke's Bay</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="mi">Te Matau a Māui</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-nz;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-nz;"/>
    </owl:NamedIndividual>
@@ -237,8 +237,8 @@
       <rdfs:label>Manawatu-Wanganui</rdfs:label>
       <skos:definition>The region of Manawatu-Wanganui in the country of New Zealand</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;NewZealand"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="mi">Manawatu Whanganui</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Manawatu-Wanganui</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="mi">Manawatu Whanganui</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Manawatu-Wanganui</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-nz;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-nz;"/>
    </owl:NamedIndividual>
@@ -268,8 +268,8 @@
       <rdfs:label>Bay of Plenty</rdfs:label>
       <skos:definition>The region of Bay of Plenty in the country of New Zealand</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;NewZealand"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Bay of Plenty</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="mi">Te Moana a Toi Te Huatahi</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Bay of Plenty</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="mi">Te Moana a Toi Te Huatahi</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-nz;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-nz;"/>
    </owl:NamedIndividual>
@@ -299,8 +299,8 @@
       <rdfs:label>Canterbury</rdfs:label>
       <skos:definition>The region of Canterbury in the country of New Zealand</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;NewZealand"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="mi">Waitaha</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Canterbury</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="mi">Waitaha</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Canterbury</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-nz;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-nz;"/>
    </owl:NamedIndividual>
@@ -330,7 +330,7 @@
       <rdfs:label>Marlborough</rdfs:label>
       <skos:definition>The region of Marlborough in the country of New Zealand</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;NewZealand"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Marlborough</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Marlborough</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-nz;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-nz;"/>
    </owl:NamedIndividual>
@@ -360,8 +360,8 @@
       <rdfs:label>Nelson</rdfs:label>
       <skos:definition>The region of Nelson in the country of New Zealand</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;NewZealand"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Nelson</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="mi">Whakatū</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Nelson</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="mi">Whakatū</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-nz;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-nz;"/>
    </owl:NamedIndividual>
@@ -391,8 +391,8 @@
       <rdfs:label>Northland</rdfs:label>
       <skos:definition>The region of Northland in the country of New Zealand</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;NewZealand"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Northland</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="mi">Te Tai tokerau</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Northland</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="mi">Te Tai tokerau</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-nz;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-nz;"/>
    </owl:NamedIndividual>
@@ -422,7 +422,7 @@
       <rdfs:label>Tasman</rdfs:label>
       <skos:definition>The region of Tasman in the country of New Zealand</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;NewZealand"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Tasman</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Tasman</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-nz;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-nz;"/>
    </owl:NamedIndividual>
@@ -452,8 +452,8 @@
       <rdfs:label>Otago</rdfs:label>
       <skos:definition>The region of Otago in the country of New Zealand</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;NewZealand"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="mi">Ō Tākou</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Otago</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="mi">Ō Tākou</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Otago</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-nz;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-nz;"/>
    </owl:NamedIndividual>
@@ -483,8 +483,8 @@
       <rdfs:label>Southland</rdfs:label>
       <skos:definition>The region of Southland in the country of New Zealand</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;NewZealand"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Southland</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="mi">Murihiku</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Southland</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="mi">Murihiku</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-nz;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-nz;"/>
    </owl:NamedIndividual>
@@ -514,8 +514,8 @@
       <rdfs:label>Taranaki</rdfs:label>
       <skos:definition>The region of Taranaki in the country of New Zealand</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;NewZealand"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="mi">Taranaki</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Taranaki</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="mi">Taranaki</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Taranaki</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-nz;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-nz;"/>
    </owl:NamedIndividual>
@@ -545,7 +545,7 @@
       <rdfs:label>Waikato</rdfs:label>
       <skos:definition>The region of Waikato in the country of New Zealand</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;NewZealand"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="mi">Waikato</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="mi">Waikato</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-nz;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-nz;"/>
    </owl:NamedIndividual>
@@ -575,8 +575,8 @@
       <rdfs:label>Wellington</rdfs:label>
       <skos:definition>The region of Wellington in the country of New Zealand</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;NewZealand"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Wellington</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="mi">Te Whanga-nui-a-Tara</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Wellington</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="mi">Te Whanga-nui-a-Tara</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-nz;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-nz;"/>
    </owl:NamedIndividual>
@@ -606,8 +606,8 @@
       <rdfs:label>West Coast</rdfs:label>
       <skos:definition>The region of West Coast in the country of New Zealand</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;NewZealand"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">West Coast</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="mi">Te Taihau ā uru</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">West Coast</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="mi">Te Taihau ā uru</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-nz;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-nz;"/>
    </owl:NamedIndividual>
@@ -637,8 +637,8 @@
       <rdfs:label>Antipodes Islands</rdfs:label>
       <skos:definition>The territory of Antipodes Islands in the country of New Zealand</skos:definition>
       <lcc-cr:hasNumericRegionCode rdf:datatype="&xsd;string">1007</lcc-cr:hasNumericRegionCode>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">les Îles Antipodes</lcc-cr:hasFrenchShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Antipodes Islands</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">les Îles Antipodes</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Antipodes Islands</lcc-cr:hasEnglishShortName>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;NewZealand"/>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2;Territory"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-nz;"/>
@@ -656,8 +656,8 @@
       <rdfs:label>Auckland Islands</rdfs:label>
       <skos:definition>The territory of Auckland Islands in the country of New Zealand</skos:definition>
       <lcc-cr:hasNumericRegionCode rdf:datatype="&xsd;string">1010</lcc-cr:hasNumericRegionCode>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">les Îles Auckland</lcc-cr:hasFrenchShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Auckland Islands</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">les Îles Auckland</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Auckland Islands</lcc-cr:hasEnglishShortName>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;NewZealand"/>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2;Territory"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-nz;"/>
@@ -675,8 +675,8 @@
       <rdfs:label>Campbell Island</rdfs:label>
       <skos:definition>The territory of Campbell Island in the country of New Zealand</skos:definition>
       <lcc-cr:hasNumericRegionCode rdf:datatype="&xsd;string">1033</lcc-cr:hasNumericRegionCode>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">l'Île Campbell</lcc-cr:hasFrenchShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Campbell Island</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">l'Île Campbell</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Campbell Island</lcc-cr:hasEnglishShortName>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;NewZealand"/>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2;Territory"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-nz;"/>
@@ -694,8 +694,8 @@
       <rdfs:label>Chatham Islands</rdfs:label>
       <skos:definition>The territory of Chatham Islands in the country of New Zealand</skos:definition>
       <lcc-cr:hasNumericRegionCode rdf:datatype="&xsd;string">1041</lcc-cr:hasNumericRegionCode>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">les Îles Chatham</lcc-cr:hasFrenchShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Chatham Islands</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">les Îles Chatham</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Chatham Islands</lcc-cr:hasEnglishShortName>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;NewZealand"/>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2;Territory"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-nz;"/>
@@ -713,8 +713,8 @@
       <rdfs:label>Kermadec Islands</rdfs:label>
       <skos:definition>The territory of Kermadec Islands in the country of New Zealand</skos:definition>
       <lcc-cr:hasNumericRegionCode rdf:datatype="&xsd;string">1097</lcc-cr:hasNumericRegionCode>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">les Îles Kermadec</lcc-cr:hasFrenchShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Kermadec Islands</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">les Îles Kermadec</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Kermadec Islands</lcc-cr:hasEnglishShortName>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;NewZealand"/>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2;Territory"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-nz;"/>

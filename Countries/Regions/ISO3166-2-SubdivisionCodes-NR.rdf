@@ -106,8 +106,8 @@
       <rdfs:label>Anabar</rdfs:label>
       <skos:definition>The district of Anabar in the country of Nauru</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Nauru"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Anabar</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="na">Anabar</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Anabar</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="na">Anabar</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-nr;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-nr;"/>
    </owl:NamedIndividual>
@@ -137,8 +137,8 @@
       <rdfs:label>Anibare</rdfs:label>
       <skos:definition>The district of Anibare in the country of Nauru</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Nauru"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Anibare</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="na">Anibare</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Anibare</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="na">Anibare</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-nr;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-nr;"/>
    </owl:NamedIndividual>
@@ -168,8 +168,8 @@
       <rdfs:label>Aiwo</rdfs:label>
       <skos:definition>The district of Aiwo in the country of Nauru</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Nauru"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="na">Aiwo</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Aiwo</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="na">Aiwo</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Aiwo</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-nr;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-nr;"/>
    </owl:NamedIndividual>
@@ -199,8 +199,8 @@
       <rdfs:label>Anetan</rdfs:label>
       <skos:definition>The district of Anetan in the country of Nauru</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Nauru"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="na">Anetan</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Anetan</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="na">Anetan</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Anetan</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-nr;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-nr;"/>
    </owl:NamedIndividual>
@@ -230,8 +230,8 @@
       <rdfs:label>Denigomodu</rdfs:label>
       <skos:definition>The district of Denigomodu in the country of Nauru</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Nauru"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="na">Denigomodu</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Denigomodu</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="na">Denigomodu</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Denigomodu</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-nr;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-nr;"/>
    </owl:NamedIndividual>
@@ -261,8 +261,8 @@
       <rdfs:label>Ijuw</rdfs:label>
       <skos:definition>The district of Ijuw in the country of Nauru</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Nauru"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="na">Ijuw</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Ijuw</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="na">Ijuw</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Ijuw</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-nr;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-nr;"/>
    </owl:NamedIndividual>
@@ -292,8 +292,8 @@
       <rdfs:label>Ewa</rdfs:label>
       <skos:definition>The district of Ewa in the country of Nauru</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Nauru"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="na">Ewa</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Ewa</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="na">Ewa</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Ewa</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-nr;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-nr;"/>
    </owl:NamedIndividual>
@@ -323,8 +323,8 @@
       <rdfs:label>Nibok</rdfs:label>
       <skos:definition>The district of Nibok in the country of Nauru</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Nauru"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="na">Nibok</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Nibok</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="na">Nibok</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Nibok</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-nr;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-nr;"/>
    </owl:NamedIndividual>
@@ -354,8 +354,8 @@
       <rdfs:label>Yaren</rdfs:label>
       <skos:definition>The district of Yaren in the country of Nauru</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Nauru"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Yaren</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="na">Yaren</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Yaren</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="na">Yaren</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-nr;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-nr;"/>
    </owl:NamedIndividual>
@@ -385,8 +385,8 @@
       <rdfs:label>Buada</rdfs:label>
       <skos:definition>The district of Buada in the country of Nauru</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Nauru"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="na">Buada</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Buada</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="na">Buada</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Buada</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-nr;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-nr;"/>
    </owl:NamedIndividual>
@@ -416,8 +416,8 @@
       <rdfs:label>Uaboe</rdfs:label>
       <skos:definition>The district of Uaboe in the country of Nauru</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Nauru"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="na">Uaboe</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Uaboe</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="na">Uaboe</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Uaboe</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-nr;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-nr;"/>
    </owl:NamedIndividual>
@@ -447,8 +447,8 @@
       <rdfs:label>Baitsi</rdfs:label>
       <skos:definition>The district of Baitsi in the country of Nauru</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Nauru"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="na">Baitsi</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Baitsi</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="na">Baitsi</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Baitsi</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-nr;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-nr;"/>
    </owl:NamedIndividual>
@@ -478,8 +478,8 @@
       <rdfs:label>Boe</rdfs:label>
       <skos:definition>The district of Boe in the country of Nauru</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Nauru"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="na">Boe</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Boe</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="na">Boe</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Boe</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-nr;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-nr;"/>
    </owl:NamedIndividual>
@@ -509,8 +509,8 @@
       <rdfs:label>Meneng</rdfs:label>
       <skos:definition>The district of Meneng in the country of Nauru</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Nauru"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="na">Meneng</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Meneng</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="na">Meneng</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Meneng</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-nr;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-nr;"/>
    </owl:NamedIndividual>

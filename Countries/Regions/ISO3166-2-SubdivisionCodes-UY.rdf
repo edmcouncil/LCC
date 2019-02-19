@@ -106,7 +106,7 @@
       <rdfs:label>Colonia</rdfs:label>
       <skos:definition>The department of Colonia in the country of Uruguay</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Uruguay"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Colonia</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Colonia</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-uy;Department"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-uy;"/>
    </owl:NamedIndividual>
@@ -136,7 +136,7 @@
       <rdfs:label>Lavalleja</rdfs:label>
       <skos:definition>The department of Lavalleja in the country of Uruguay</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Uruguay"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Lavalleja</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Lavalleja</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-uy;Department"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-uy;"/>
    </owl:NamedIndividual>
@@ -166,7 +166,7 @@
       <rdfs:label>Río Negro</rdfs:label>
       <skos:definition>The department of Río Negro in the country of Uruguay</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Uruguay"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Río Negro</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Río Negro</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-uy;Department"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-uy;"/>
    </owl:NamedIndividual>
@@ -196,7 +196,7 @@
       <rdfs:label>Salto</rdfs:label>
       <skos:definition>The department of Salto in the country of Uruguay</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Uruguay"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Salto</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Salto</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-uy;Department"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-uy;"/>
    </owl:NamedIndividual>
@@ -226,7 +226,7 @@
       <rdfs:label>Durazno</rdfs:label>
       <skos:definition>The department of Durazno in the country of Uruguay</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Uruguay"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Durazno</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Durazno</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-uy;Department"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-uy;"/>
    </owl:NamedIndividual>
@@ -256,7 +256,7 @@
       <rdfs:label>Florida</rdfs:label>
       <skos:definition>The department of Florida in the country of Uruguay</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Uruguay"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Florida</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Florida</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-uy;Department"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-uy;"/>
    </owl:NamedIndividual>
@@ -286,7 +286,7 @@
       <rdfs:label>Flores</rdfs:label>
       <skos:definition>The department of Flores in the country of Uruguay</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Uruguay"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Flores</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Flores</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-uy;Department"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-uy;"/>
    </owl:NamedIndividual>
@@ -316,7 +316,7 @@
       <rdfs:label>Rivera</rdfs:label>
       <skos:definition>The department of Rivera in the country of Uruguay</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Uruguay"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Rivera</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Rivera</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-uy;Department"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-uy;"/>
    </owl:NamedIndividual>
@@ -346,7 +346,7 @@
       <rdfs:label>Cerro Largo</rdfs:label>
       <skos:definition>The department of Cerro Largo in the country of Uruguay</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Uruguay"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Cerro Largo</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Cerro Largo</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-uy;Department"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-uy;"/>
    </owl:NamedIndividual>
@@ -376,7 +376,7 @@
       <rdfs:label>Maldonado</rdfs:label>
       <skos:definition>The department of Maldonado in the country of Uruguay</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Uruguay"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Maldonado</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Maldonado</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-uy;Department"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-uy;"/>
    </owl:NamedIndividual>
@@ -406,7 +406,7 @@
       <rdfs:label>Rocha</rdfs:label>
       <skos:definition>The department of Rocha in the country of Uruguay</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Uruguay"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Rocha</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Rocha</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-uy;Department"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-uy;"/>
    </owl:NamedIndividual>
@@ -436,7 +436,7 @@
       <rdfs:label>Tacuarembó</rdfs:label>
       <skos:definition>The department of Tacuarembó in the country of Uruguay</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Uruguay"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Tacuarembó</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Tacuarembó</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-uy;Department"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-uy;"/>
    </owl:NamedIndividual>
@@ -466,7 +466,7 @@
       <rdfs:label>San José</rdfs:label>
       <skos:definition>The department of San José in the country of Uruguay</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Uruguay"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">San José</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">San José</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-uy;Department"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-uy;"/>
    </owl:NamedIndividual>
@@ -496,7 +496,7 @@
       <rdfs:label>Artigas</rdfs:label>
       <skos:definition>The department of Artigas in the country of Uruguay</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Uruguay"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Artigas</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Artigas</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-uy;Department"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-uy;"/>
    </owl:NamedIndividual>
@@ -526,7 +526,7 @@
       <rdfs:label>Paysandú</rdfs:label>
       <skos:definition>The department of Paysandú in the country of Uruguay</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Uruguay"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Paysandú</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Paysandú</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-uy;Department"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-uy;"/>
    </owl:NamedIndividual>
@@ -556,7 +556,7 @@
       <rdfs:label>Soriano</rdfs:label>
       <skos:definition>The department of Soriano in the country of Uruguay</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Uruguay"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Soriano</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Soriano</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-uy;Department"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-uy;"/>
    </owl:NamedIndividual>
@@ -586,7 +586,7 @@
       <rdfs:label>Canelones</rdfs:label>
       <skos:definition>The department of Canelones in the country of Uruguay</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Uruguay"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Canelones</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Canelones</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-uy;Department"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-uy;"/>
    </owl:NamedIndividual>
@@ -616,7 +616,7 @@
       <rdfs:label>Montevideo</rdfs:label>
       <skos:definition>The department of Montevideo in the country of Uruguay</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Uruguay"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Montevideo</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Montevideo</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-uy;Department"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-uy;"/>
    </owl:NamedIndividual>
@@ -646,7 +646,7 @@
       <rdfs:label>Treinta y Tres</rdfs:label>
       <skos:definition>The department of Treinta y Tres in the country of Uruguay</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Uruguay"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Treinta y Tres</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Treinta y Tres</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-uy;Department"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-uy;"/>
    </owl:NamedIndividual>

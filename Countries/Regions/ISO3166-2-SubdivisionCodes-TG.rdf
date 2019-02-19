@@ -106,7 +106,7 @@
       <rdfs:label>Kara</rdfs:label>
       <skos:definition>The region of Kara in the country of Togo</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Togo"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Kara</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Kara</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-tg;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-tg;"/>
    </owl:NamedIndividual>
@@ -136,7 +136,7 @@
       <rdfs:label>Centrale</rdfs:label>
       <skos:definition>The region of Centrale in the country of Togo</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Togo"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Centrale</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Centrale</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-tg;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-tg;"/>
    </owl:NamedIndividual>
@@ -166,7 +166,7 @@
       <rdfs:label>Plateaux</rdfs:label>
       <skos:definition>The region of Plateaux in the country of Togo</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Togo"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Plateaux</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Plateaux</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-tg;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-tg;"/>
    </owl:NamedIndividual>
@@ -196,7 +196,7 @@
       <rdfs:label>Savanes</rdfs:label>
       <skos:definition>The region of Savanes in the country of Togo</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Togo"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Savanes</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Savanes</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-tg;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-tg;"/>
    </owl:NamedIndividual>
@@ -226,7 +226,7 @@
       <rdfs:label>Maritime (Région)</rdfs:label>
       <skos:definition>The region of Maritime (Région) in the country of Togo</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Togo"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Maritime (Région)</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Maritime (Région)</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-tg;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-tg;"/>
    </owl:NamedIndividual>

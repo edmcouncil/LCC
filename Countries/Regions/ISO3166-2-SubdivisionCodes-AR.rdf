@@ -113,7 +113,7 @@
       <rdfs:label>San Luis</rdfs:label>
       <skos:definition>The province of San Luis in the country of Argentina</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Argentina"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">San Luis</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">San Luis</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ar;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ar;"/>
    </owl:NamedIndividual>
@@ -143,7 +143,7 @@
       <rdfs:label>La Pampa</rdfs:label>
       <skos:definition>The province of La Pampa in the country of Argentina</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Argentina"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">La Pampa</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">La Pampa</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ar;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ar;"/>
    </owl:NamedIndividual>
@@ -173,7 +173,7 @@
       <rdfs:label>Mendoza</rdfs:label>
       <skos:definition>The province of Mendoza in the country of Argentina</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Argentina"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Mendoza</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Mendoza</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ar;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ar;"/>
    </owl:NamedIndividual>
@@ -203,7 +203,7 @@
       <rdfs:label>Neuquén</rdfs:label>
       <skos:definition>The province of Neuquén in the country of Argentina</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Argentina"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Neuquén</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Neuquén</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ar;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ar;"/>
    </owl:NamedIndividual>
@@ -233,7 +233,7 @@
       <rdfs:label>Río Negro</rdfs:label>
       <skos:definition>The province of Río Negro in the country of Argentina</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Argentina"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Río Negro</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Río Negro</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ar;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ar;"/>
    </owl:NamedIndividual>
@@ -263,7 +263,7 @@
       <rdfs:label>Jujuy</rdfs:label>
       <skos:definition>The province of Jujuy in the country of Argentina</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Argentina"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Jujuy</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Jujuy</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ar;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ar;"/>
    </owl:NamedIndividual>
@@ -293,7 +293,7 @@
       <rdfs:label>Misiones</rdfs:label>
       <skos:definition>The province of Misiones in the country of Argentina</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Argentina"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Misiones</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Misiones</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ar;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ar;"/>
    </owl:NamedIndividual>
@@ -323,7 +323,7 @@
       <rdfs:label>Santa Fe</rdfs:label>
       <skos:definition>The province of Santa Fe in the country of Argentina</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Argentina"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Santa Fe</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Santa Fe</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ar;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ar;"/>
    </owl:NamedIndividual>
@@ -353,7 +353,7 @@
       <rdfs:label>Santa Cruz</rdfs:label>
       <skos:definition>The province of Santa Cruz in the country of Argentina</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Argentina"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Santa Cruz</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Santa Cruz</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ar;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ar;"/>
    </owl:NamedIndividual>
@@ -383,7 +383,7 @@
       <rdfs:label>Salta</rdfs:label>
       <skos:definition>The province of Salta in the country of Argentina</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Argentina"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Salta</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Salta</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ar;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ar;"/>
    </owl:NamedIndividual>
@@ -413,7 +413,7 @@
       <rdfs:label>Ciudad Autónoma de Buenos Aires</rdfs:label>
       <skos:definition>The city of Ciudad Autónoma de Buenos Aires in the country of Argentina</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Argentina"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Ciudad Autónoma de Buenos Aires</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Ciudad Autónoma de Buenos Aires</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ar;City"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ar;"/>
    </owl:NamedIndividual>
@@ -443,7 +443,7 @@
       <rdfs:label>La Rioja</rdfs:label>
       <skos:definition>The province of La Rioja in the country of Argentina</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Argentina"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">La Rioja</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">La Rioja</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ar;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ar;"/>
    </owl:NamedIndividual>
@@ -473,7 +473,7 @@
       <rdfs:label>Buenos Aires</rdfs:label>
       <skos:definition>The province of Buenos Aires in the country of Argentina</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Argentina"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Buenos Aires</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Buenos Aires</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ar;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ar;"/>
    </owl:NamedIndividual>
@@ -503,7 +503,7 @@
       <rdfs:label>Santiago del Estero</rdfs:label>
       <skos:definition>The province of Santiago del Estero in the country of Argentina</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Argentina"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Santiago del Estero</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Santiago del Estero</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ar;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ar;"/>
    </owl:NamedIndividual>
@@ -533,7 +533,7 @@
       <rdfs:label>Chaco</rdfs:label>
       <skos:definition>The province of Chaco in the country of Argentina</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Argentina"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Chaco</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Chaco</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ar;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ar;"/>
    </owl:NamedIndividual>
@@ -563,7 +563,7 @@
       <rdfs:label>Formosa</rdfs:label>
       <skos:definition>The province of Formosa in the country of Argentina</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Argentina"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Formosa</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Formosa</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ar;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ar;"/>
    </owl:NamedIndividual>
@@ -593,7 +593,7 @@
       <rdfs:label>Córdoba</rdfs:label>
       <skos:definition>The province of Córdoba in the country of Argentina</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Argentina"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Córdoba</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Córdoba</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ar;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ar;"/>
    </owl:NamedIndividual>
@@ -623,7 +623,7 @@
       <rdfs:label>San Juan</rdfs:label>
       <skos:definition>The province of San Juan in the country of Argentina</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Argentina"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">San Juan</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">San Juan</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ar;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ar;"/>
    </owl:NamedIndividual>
@@ -653,7 +653,7 @@
       <rdfs:label>Tucumán</rdfs:label>
       <skos:definition>The province of Tucumán in the country of Argentina</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Argentina"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Tucumán</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Tucumán</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ar;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ar;"/>
    </owl:NamedIndividual>
@@ -683,7 +683,7 @@
       <rdfs:label>Entre Ríos</rdfs:label>
       <skos:definition>The province of Entre Ríos in the country of Argentina</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Argentina"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Entre Ríos</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Entre Ríos</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ar;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ar;"/>
    </owl:NamedIndividual>
@@ -713,7 +713,7 @@
       <rdfs:label>Catamarca</rdfs:label>
       <skos:definition>The province of Catamarca in the country of Argentina</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Argentina"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Catamarca</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Catamarca</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ar;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ar;"/>
    </owl:NamedIndividual>
@@ -743,7 +743,7 @@
       <rdfs:label>Tierra del Fuego</rdfs:label>
       <skos:definition>The province of Tierra del Fuego in the country of Argentina</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Argentina"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Tierra del Fuego</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Tierra del Fuego</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ar;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ar;"/>
    </owl:NamedIndividual>
@@ -773,7 +773,7 @@
       <rdfs:label>Corrientes</rdfs:label>
       <skos:definition>The province of Corrientes in the country of Argentina</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Argentina"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Corrientes</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Corrientes</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ar;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ar;"/>
    </owl:NamedIndividual>
@@ -803,7 +803,7 @@
       <rdfs:label>Chubut</rdfs:label>
       <skos:definition>The province of Chubut in the country of Argentina</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Argentina"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Chubut</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Chubut</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ar;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ar;"/>
    </owl:NamedIndividual>

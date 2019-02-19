@@ -99,8 +99,8 @@
       <rdfs:label>Anegada</rdfs:label>
       <skos:definition>The territory of Anegada in the country of Virgin Islands British</skos:definition>
       <lcc-cr:hasNumericRegionCode rdf:datatype="&xsd;string">1004</lcc-cr:hasNumericRegionCode>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Anegada</lcc-cr:hasFrenchShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Anegada</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Anegada</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Anegada</lcc-cr:hasEnglishShortName>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;VirginIslandsBritish"/>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2;Territory"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-vg;"/>
@@ -118,8 +118,8 @@
       <rdfs:label>Jost Van Dyke</rdfs:label>
       <skos:definition>The territory of Jost Van Dyke in the country of Virgin Islands British</skos:definition>
       <lcc-cr:hasNumericRegionCode rdf:datatype="&xsd;string">1092</lcc-cr:hasNumericRegionCode>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Jost Van Dyke</lcc-cr:hasFrenchShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Jost Van Dyke</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Jost Van Dyke</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Jost Van Dyke</lcc-cr:hasEnglishShortName>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;VirginIslandsBritish"/>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2;Territory"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-vg;"/>
@@ -137,8 +137,8 @@
       <rdfs:label>Tortola</rdfs:label>
       <skos:definition>The territory of Tortola in the country of Virgin Islands British</skos:definition>
       <lcc-cr:hasNumericRegionCode rdf:datatype="&xsd;string">1211</lcc-cr:hasNumericRegionCode>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Tortola</lcc-cr:hasFrenchShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Tortola</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Tortola</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Tortola</lcc-cr:hasEnglishShortName>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;VirginIslandsBritish"/>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2;Territory"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-vg;"/>
@@ -156,8 +156,8 @@
       <rdfs:label>Virgin Gorda</rdfs:label>
       <skos:definition>The territory of Virgin Gorda in the country of Virgin Islands British</skos:definition>
       <lcc-cr:hasNumericRegionCode rdf:datatype="&xsd;string">1220</lcc-cr:hasNumericRegionCode>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Virgin Gorda</lcc-cr:hasFrenchShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Virgin Gorda</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Virgin Gorda</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Virgin Gorda</lcc-cr:hasEnglishShortName>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;VirginIslandsBritish"/>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2;Territory"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-vg;"/>

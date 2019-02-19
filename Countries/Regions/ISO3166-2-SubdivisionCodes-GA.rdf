@@ -106,7 +106,7 @@
       <rdfs:label>Moyen-Ogooué</rdfs:label>
       <skos:definition>The province of Moyen-Ogooué in the country of Gabon</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Gabon"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Moyen-Ogooué</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Moyen-Ogooué</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ga;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ga;"/>
    </owl:NamedIndividual>
@@ -136,7 +136,7 @@
       <rdfs:label>Nyanga</rdfs:label>
       <skos:definition>The province of Nyanga in the country of Gabon</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Gabon"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Nyanga</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Nyanga</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ga;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ga;"/>
    </owl:NamedIndividual>
@@ -166,7 +166,7 @@
       <rdfs:label>Estuaire</rdfs:label>
       <skos:definition>The province of Estuaire in the country of Gabon</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Gabon"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Estuaire</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Estuaire</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ga;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ga;"/>
    </owl:NamedIndividual>
@@ -196,7 +196,7 @@
       <rdfs:label>Ogooué-Ivindo</rdfs:label>
       <skos:definition>The province of Ogooué-Ivindo in the country of Gabon</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Gabon"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Ogooué-Ivindo</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Ogooué-Ivindo</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ga;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ga;"/>
    </owl:NamedIndividual>
@@ -226,7 +226,7 @@
       <rdfs:label>Ogooué-Lolo</rdfs:label>
       <skos:definition>The province of Ogooué-Lolo in the country of Gabon</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Gabon"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Ogooué-Lolo</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Ogooué-Lolo</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ga;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ga;"/>
    </owl:NamedIndividual>
@@ -256,7 +256,7 @@
       <rdfs:label>Ogooué-Maritime</rdfs:label>
       <skos:definition>The province of Ogooué-Maritime in the country of Gabon</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Gabon"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Ogooué-Maritime</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Ogooué-Maritime</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ga;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ga;"/>
    </owl:NamedIndividual>
@@ -286,7 +286,7 @@
       <rdfs:label>Haut-Ogooué</rdfs:label>
       <skos:definition>The province of Haut-Ogooué in the country of Gabon</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Gabon"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Haut-Ogooué</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Haut-Ogooué</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ga;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ga;"/>
    </owl:NamedIndividual>
@@ -316,7 +316,7 @@
       <rdfs:label>Ngounié</rdfs:label>
       <skos:definition>The province of Ngounié in the country of Gabon</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Gabon"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Ngounié</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Ngounié</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ga;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ga;"/>
    </owl:NamedIndividual>
@@ -346,7 +346,7 @@
       <rdfs:label>Woleu-Ntem</rdfs:label>
       <skos:definition>The province of Woleu-Ntem in the country of Gabon</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Gabon"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Woleu-Ntem</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Woleu-Ntem</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ga;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ga;"/>
    </owl:NamedIndividual>

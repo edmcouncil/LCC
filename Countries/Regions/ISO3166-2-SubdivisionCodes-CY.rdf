@@ -106,8 +106,8 @@
       <rdfs:label>Larnaka</rdfs:label>
       <skos:definition>The district of Larnaka in the country of Cyprus</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Cyprus"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="el">Larnaka</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="tr">Larnaka</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="el">Larnaka</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="tr">Larnaka</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-cy;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-cy;"/>
    </owl:NamedIndividual>
@@ -137,8 +137,8 @@
       <rdfs:label>Keryneia</rdfs:label>
       <skos:definition>The district of Keryneia in the country of Cyprus</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Cyprus"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="el">Keryneia</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="tr">Girne</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="el">Keryneia</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="tr">Girne</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-cy;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-cy;"/>
    </owl:NamedIndividual>
@@ -168,8 +168,8 @@
       <rdfs:label>Lefkosia</rdfs:label>
       <skos:definition>The district of Lefkosia in the country of Cyprus</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Cyprus"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="el">Lefkosia</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="tr">Lefkoşa</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="el">Lefkosia</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="tr">Lefkoşa</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-cy;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-cy;"/>
    </owl:NamedIndividual>
@@ -199,8 +199,8 @@
       <rdfs:label>Mağusa</rdfs:label>
       <skos:definition>The district of Mağusa in the country of Cyprus</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Cyprus"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="tr">Mağusa</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="el">Ammochostos</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="tr">Mağusa</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="el">Ammochostos</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-cy;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-cy;"/>
    </owl:NamedIndividual>
@@ -230,8 +230,8 @@
       <rdfs:label>Pafos</rdfs:label>
       <skos:definition>The district of Pafos in the country of Cyprus</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Cyprus"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="el">Pafos</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="tr">Baf</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="el">Pafos</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="tr">Baf</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-cy;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-cy;"/>
    </owl:NamedIndividual>
@@ -261,8 +261,8 @@
       <rdfs:label>Leymasun</rdfs:label>
       <skos:definition>The district of Leymasun in the country of Cyprus</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Cyprus"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="tr">Leymasun</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="el">Lemesos</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="tr">Leymasun</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="el">Lemesos</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-cy;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-cy;"/>
    </owl:NamedIndividual>

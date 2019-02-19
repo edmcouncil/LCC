@@ -134,7 +134,7 @@
       <rdfs:label>Busan-gwangyeoksi</rdfs:label>
       <skos:definition>The metropolitan city of Busan-gwangyeoksi in the country of Korea Republic Of</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;KoreaRepublicOf"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ko">Busan-gwangyeoksi</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ko">Busan-gwangyeoksi</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-kr;MetropolitanCity"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-kr;"/>
    </owl:NamedIndividual>
@@ -164,7 +164,7 @@
       <rdfs:label>Daegu-gwangyeoksi</rdfs:label>
       <skos:definition>The metropolitan city of Daegu-gwangyeoksi in the country of Korea Republic Of</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;KoreaRepublicOf"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ko">Daegu-gwangyeoksi</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ko">Daegu-gwangyeoksi</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-kr;MetropolitanCity"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-kr;"/>
    </owl:NamedIndividual>
@@ -194,7 +194,7 @@
       <rdfs:label>Daejeon-gwangyeoksi</rdfs:label>
       <skos:definition>The metropolitan city of Daejeon-gwangyeoksi in the country of Korea Republic Of</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;KoreaRepublicOf"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ko">Daejeon-gwangyeoksi</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ko">Daejeon-gwangyeoksi</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-kr;MetropolitanCity"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-kr;"/>
    </owl:NamedIndividual>
@@ -224,7 +224,7 @@
       <rdfs:label>Gwangju-gwangyeoksi</rdfs:label>
       <skos:definition>The metropolitan city of Gwangju-gwangyeoksi in the country of Korea Republic Of</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;KoreaRepublicOf"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ko">Gwangju-gwangyeoksi</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ko">Gwangju-gwangyeoksi</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-kr;MetropolitanCity"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-kr;"/>
    </owl:NamedIndividual>
@@ -254,7 +254,7 @@
       <rdfs:label>Incheon-gwangyeoksi</rdfs:label>
       <skos:definition>The metropolitan city of Incheon-gwangyeoksi in the country of Korea Republic Of</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;KoreaRepublicOf"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ko">Incheon-gwangyeoksi</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ko">Incheon-gwangyeoksi</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-kr;MetropolitanCity"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-kr;"/>
    </owl:NamedIndividual>
@@ -284,7 +284,7 @@
       <rdfs:label>Ulsan-gwangyeoksi</rdfs:label>
       <skos:definition>The metropolitan city of Ulsan-gwangyeoksi in the country of Korea Republic Of</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;KoreaRepublicOf"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ko">Ulsan-gwangyeoksi</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ko">Ulsan-gwangyeoksi</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-kr;MetropolitanCity"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-kr;"/>
    </owl:NamedIndividual>
@@ -314,7 +314,7 @@
       <rdfs:label>Chungcheongbuk-do</rdfs:label>
       <skos:definition>The province of Chungcheongbuk-do in the country of Korea Republic Of</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;KoreaRepublicOf"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ko">Chungcheongbuk-do</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ko">Chungcheongbuk-do</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-kr;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-kr;"/>
    </owl:NamedIndividual>
@@ -344,7 +344,7 @@
       <rdfs:label>Chungcheongnam-do</rdfs:label>
       <skos:definition>The province of Chungcheongnam-do in the country of Korea Republic Of</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;KoreaRepublicOf"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ko">Chungcheongnam-do</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ko">Chungcheongnam-do</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-kr;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-kr;"/>
    </owl:NamedIndividual>
@@ -374,7 +374,7 @@
       <rdfs:label>Gangwon-do</rdfs:label>
       <skos:definition>The province of Gangwon-do in the country of Korea Republic Of</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;KoreaRepublicOf"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ko">Gangwon-do</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ko">Gangwon-do</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-kr;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-kr;"/>
    </owl:NamedIndividual>
@@ -404,7 +404,7 @@
       <rdfs:label>Gyeonggi-do</rdfs:label>
       <skos:definition>The province of Gyeonggi-do in the country of Korea Republic Of</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;KoreaRepublicOf"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ko">Gyeonggi-do</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ko">Gyeonggi-do</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-kr;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-kr;"/>
    </owl:NamedIndividual>
@@ -434,7 +434,7 @@
       <rdfs:label>Gyeongsangbuk-do</rdfs:label>
       <skos:definition>The province of Gyeongsangbuk-do in the country of Korea Republic Of</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;KoreaRepublicOf"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ko">Gyeongsangbuk-do</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ko">Gyeongsangbuk-do</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-kr;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-kr;"/>
    </owl:NamedIndividual>
@@ -464,7 +464,7 @@
       <rdfs:label>Gyeongsangnam-do</rdfs:label>
       <skos:definition>The province of Gyeongsangnam-do in the country of Korea Republic Of</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;KoreaRepublicOf"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ko">Gyeongsangnam-do</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ko">Gyeongsangnam-do</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-kr;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-kr;"/>
    </owl:NamedIndividual>
@@ -494,7 +494,7 @@
       <rdfs:label>Jeollabuk-do</rdfs:label>
       <skos:definition>The province of Jeollabuk-do in the country of Korea Republic Of</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;KoreaRepublicOf"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ko">Jeollabuk-do</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ko">Jeollabuk-do</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-kr;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-kr;"/>
    </owl:NamedIndividual>
@@ -524,7 +524,7 @@
       <rdfs:label>Jeollanam-do</rdfs:label>
       <skos:definition>The province of Jeollanam-do in the country of Korea Republic Of</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;KoreaRepublicOf"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ko">Jeollanam-do</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ko">Jeollanam-do</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-kr;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-kr;"/>
    </owl:NamedIndividual>
@@ -554,7 +554,7 @@
       <rdfs:label>Jeju-teukbyeoljachido</rdfs:label>
       <skos:definition>The special self-governing province of Jeju-teukbyeoljachido in the country of Korea Republic Of</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;KoreaRepublicOf"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ko">Jeju-teukbyeoljachido</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ko">Jeju-teukbyeoljachido</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-kr;SpecialSelf-governingProvince"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-kr;"/>
    </owl:NamedIndividual>
@@ -584,7 +584,7 @@
       <rdfs:label>Seoul-teukbyeolsi</rdfs:label>
       <skos:definition>The special city of Seoul-teukbyeolsi in the country of Korea Republic Of</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;KoreaRepublicOf"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ko">Seoul-teukbyeolsi</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ko">Seoul-teukbyeolsi</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-kr;SpecialCity"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-kr;"/>
    </owl:NamedIndividual>
@@ -614,7 +614,7 @@
       <rdfs:label>Sejong</rdfs:label>
       <skos:definition>The special self-governing city of Sejong in the country of Korea Republic Of</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;KoreaRepublicOf"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ko">Sejong</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ko">Sejong</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-kr;SpecialSelf-governingCity"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-kr;"/>
    </owl:NamedIndividual>

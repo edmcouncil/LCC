@@ -106,8 +106,8 @@
       <rdfs:label>West Kordofan</rdfs:label>
       <skos:definition>The state of West Kordofan in the country of Sudan (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Sudan"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Gharb Kurdufān</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">West Kordofan</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Gharb Kurdufān</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">West Kordofan</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-sd;State"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-sd;"/>
    </owl:NamedIndividual>
@@ -137,8 +137,8 @@
       <rdfs:label>Gedaref</rdfs:label>
       <skos:definition>The state of Gedaref in the country of Sudan (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Sudan"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Gedaref</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Al Qaḑārif</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Gedaref</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Al Qaḑārif</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-sd;State"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-sd;"/>
    </owl:NamedIndividual>
@@ -168,8 +168,8 @@
       <rdfs:label>Red Sea</rdfs:label>
       <skos:definition>The state of Red Sea in the country of Sudan (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Sudan"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Al Baḩr al Aḩmar</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Red Sea</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Al Baḩr al Aḩmar</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Red Sea</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-sd;State"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-sd;"/>
    </owl:NamedIndividual>
@@ -199,8 +199,8 @@
       <rdfs:label>Northern</rdfs:label>
       <skos:definition>The state of Northern in the country of Sudan (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Sudan"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Ash Shamālīyah</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Northern</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Ash Shamālīyah</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Northern</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-sd;State"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-sd;"/>
    </owl:NamedIndividual>
@@ -230,8 +230,8 @@
       <rdfs:label>South Darfur</rdfs:label>
       <skos:definition>The state of South Darfur in the country of Sudan (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Sudan"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">South Darfur</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Janūb Dārfūr</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">South Darfur</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Janūb Dārfūr</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-sd;State"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-sd;"/>
    </owl:NamedIndividual>
@@ -261,8 +261,8 @@
       <rdfs:label>Sennar</rdfs:label>
       <skos:definition>The state of Sennar in the country of Sudan (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Sudan"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Sinnār</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Sennar</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Sinnār</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Sennar</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-sd;State"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-sd;"/>
    </owl:NamedIndividual>
@@ -292,8 +292,8 @@
       <rdfs:label>East Darfur</rdfs:label>
       <skos:definition>The state of East Darfur in the country of Sudan (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Sudan"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">East Darfur</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Sharq Dārfūr</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">East Darfur</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Sharq Dārfūr</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-sd;State"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-sd;"/>
    </owl:NamedIndividual>
@@ -323,8 +323,8 @@
       <rdfs:label>Khartoum</rdfs:label>
       <skos:definition>The state of Khartoum in the country of Sudan (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Sudan"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Khartoum</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Al Kharţūm</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Khartoum</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Al Kharţūm</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-sd;State"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-sd;"/>
    </owl:NamedIndividual>
@@ -354,8 +354,8 @@
       <rdfs:label>North Darfur</rdfs:label>
       <skos:definition>The state of North Darfur in the country of Sudan (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Sudan"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">North Darfur</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Shamāl Dārfūr</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">North Darfur</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Shamāl Dārfūr</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-sd;State"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-sd;"/>
    </owl:NamedIndividual>
@@ -385,8 +385,8 @@
       <rdfs:label>West Darfur</rdfs:label>
       <skos:definition>The state of West Darfur in the country of Sudan (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Sudan"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Gharb Dārfūr</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">West Darfur</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Gharb Dārfūr</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">West Darfur</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-sd;State"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-sd;"/>
    </owl:NamedIndividual>
@@ -416,8 +416,8 @@
       <rdfs:label>Gezira</rdfs:label>
       <skos:definition>The state of Gezira in the country of Sudan (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Sudan"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Al Jazīrah</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Gezira</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Al Jazīrah</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Gezira</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-sd;State"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-sd;"/>
    </owl:NamedIndividual>
@@ -447,8 +447,8 @@
       <rdfs:label>White Nile</rdfs:label>
       <skos:definition>The state of White Nile in the country of Sudan (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Sudan"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">White Nile</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">An Nīl al Abyaḑ</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">White Nile</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">An Nīl al Abyaḑ</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-sd;State"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-sd;"/>
    </owl:NamedIndividual>
@@ -478,8 +478,8 @@
       <rdfs:label>Central Darfur</rdfs:label>
       <skos:definition>The state of Central Darfur in the country of Sudan (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Sudan"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Wasaţ Dārfūr Zālinjay</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Central Darfur</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Wasaţ Dārfūr Zālinjay</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Central Darfur</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-sd;State"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-sd;"/>
    </owl:NamedIndividual>
@@ -509,8 +509,8 @@
       <rdfs:label>Kassala</rdfs:label>
       <skos:definition>The state of Kassala in the country of Sudan (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Sudan"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Kassala</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Kassalā</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Kassala</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Kassalā</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-sd;State"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-sd;"/>
    </owl:NamedIndividual>
@@ -540,8 +540,8 @@
       <rdfs:label>North Kordofan</rdfs:label>
       <skos:definition>The state of North Kordofan in the country of Sudan (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Sudan"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Shiamāl Kurdufān</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">North Kordofan</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Shiamāl Kurdufān</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">North Kordofan</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-sd;State"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-sd;"/>
    </owl:NamedIndividual>
@@ -571,8 +571,8 @@
       <rdfs:label>South Kordofan</rdfs:label>
       <skos:definition>The state of South Kordofan in the country of Sudan (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Sudan"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Janūb Kurdufān</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">South Kordofan</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Janūb Kurdufān</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">South Kordofan</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-sd;State"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-sd;"/>
    </owl:NamedIndividual>
@@ -602,8 +602,8 @@
       <rdfs:label>Blue Nile</rdfs:label>
       <skos:definition>The state of Blue Nile in the country of Sudan (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Sudan"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">An Nīl al Azraq</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Blue Nile</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">An Nīl al Azraq</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Blue Nile</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-sd;State"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-sd;"/>
    </owl:NamedIndividual>
@@ -633,8 +633,8 @@
       <rdfs:label>River Nile</rdfs:label>
       <skos:definition>The state of River Nile in the country of Sudan (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Sudan"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">River Nile</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Nahr an Nīl</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">River Nile</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Nahr an Nīl</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-sd;State"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-sd;"/>
    </owl:NamedIndividual>

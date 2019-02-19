@@ -113,7 +113,7 @@
       <rdfs:label>Attapu</rdfs:label>
       <skos:definition>The province of Attapu in the country of Lao People's Democratic Republic (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;LaoPeoplesDemocraticRepublic"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="lo">Attapu</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="lo">Attapu</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-la;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-la;"/>
    </owl:NamedIndividual>
@@ -143,7 +143,7 @@
       <rdfs:label>Bolikhamxai</rdfs:label>
       <skos:definition>The province of Bolikhamxai in the country of Lao People's Democratic Republic (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;LaoPeoplesDemocraticRepublic"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="lo">Bolikhamxai</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="lo">Bolikhamxai</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-la;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-la;"/>
    </owl:NamedIndividual>
@@ -173,7 +173,7 @@
       <rdfs:label>Champasak</rdfs:label>
       <skos:definition>The province of Champasak in the country of Lao People's Democratic Republic (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;LaoPeoplesDemocraticRepublic"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="lo">Champasak</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="lo">Champasak</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-la;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-la;"/>
    </owl:NamedIndividual>
@@ -203,7 +203,7 @@
       <rdfs:label>Louangphabang</rdfs:label>
       <skos:definition>The province of Louangphabang in the country of Lao People's Democratic Republic (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;LaoPeoplesDemocraticRepublic"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="lo">Louangphabang</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="lo">Louangphabang</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-la;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-la;"/>
    </owl:NamedIndividual>
@@ -233,7 +233,7 @@
       <rdfs:label>Oudômxai</rdfs:label>
       <skos:definition>The province of Oudômxai in the country of Lao People's Democratic Republic (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;LaoPeoplesDemocraticRepublic"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="lo">Oudômxai</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="lo">Oudômxai</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-la;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-la;"/>
    </owl:NamedIndividual>
@@ -263,7 +263,7 @@
       <rdfs:label>Phôngsali</rdfs:label>
       <skos:definition>The province of Phôngsali in the country of Lao People's Democratic Republic (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;LaoPeoplesDemocraticRepublic"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="lo">Phôngsali</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="lo">Phôngsali</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-la;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-la;"/>
    </owl:NamedIndividual>
@@ -293,7 +293,7 @@
       <rdfs:label>Salavan</rdfs:label>
       <skos:definition>The province of Salavan in the country of Lao People's Democratic Republic (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;LaoPeoplesDemocraticRepublic"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="lo">Salavan</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="lo">Salavan</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-la;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-la;"/>
    </owl:NamedIndividual>
@@ -323,7 +323,7 @@
       <rdfs:label>Xaignabouli</rdfs:label>
       <skos:definition>The province of Xaignabouli in the country of Lao People's Democratic Republic (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;LaoPeoplesDemocraticRepublic"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="lo">Xaignabouli</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="lo">Xaignabouli</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-la;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-la;"/>
    </owl:NamedIndividual>
@@ -353,7 +353,7 @@
       <rdfs:label>Xékong</rdfs:label>
       <skos:definition>The province of Xékong in the country of Lao People's Democratic Republic (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;LaoPeoplesDemocraticRepublic"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="lo">Xékong</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="lo">Xékong</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-la;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-la;"/>
    </owl:NamedIndividual>
@@ -383,7 +383,7 @@
       <rdfs:label>Xiangkhouang</rdfs:label>
       <skos:definition>The province of Xiangkhouang in the country of Lao People's Democratic Republic (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;LaoPeoplesDemocraticRepublic"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="lo">Xiangkhouang</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="lo">Xiangkhouang</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-la;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-la;"/>
    </owl:NamedIndividual>
@@ -413,7 +413,7 @@
       <rdfs:label>Bokèo</rdfs:label>
       <skos:definition>The province of Bokèo in the country of Lao People's Democratic Republic (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;LaoPeoplesDemocraticRepublic"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="lo">Bokèo</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="lo">Bokèo</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-la;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-la;"/>
    </owl:NamedIndividual>
@@ -443,7 +443,7 @@
       <rdfs:label>Savannakhét</rdfs:label>
       <skos:definition>The province of Savannakhét in the country of Lao People's Democratic Republic (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;LaoPeoplesDemocraticRepublic"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="lo">Savannakhét</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="lo">Savannakhét</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-la;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-la;"/>
    </owl:NamedIndividual>
@@ -473,7 +473,7 @@
       <rdfs:label>Houaphan</rdfs:label>
       <skos:definition>The province of Houaphan in the country of Lao People's Democratic Republic (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;LaoPeoplesDemocraticRepublic"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="lo">Houaphan</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="lo">Houaphan</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-la;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-la;"/>
    </owl:NamedIndividual>
@@ -503,7 +503,7 @@
       <rdfs:label>Khammouan</rdfs:label>
       <skos:definition>The province of Khammouan in the country of Lao People's Democratic Republic (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;LaoPeoplesDemocraticRepublic"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="lo">Khammouan</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="lo">Khammouan</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-la;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-la;"/>
    </owl:NamedIndividual>
@@ -533,7 +533,7 @@
       <rdfs:label>Viangchan</rdfs:label>
       <skos:definition>The province of Viangchan in the country of Lao People's Democratic Republic (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;LaoPeoplesDemocraticRepublic"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="lo">Viangchan</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="lo">Viangchan</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-la;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-la;"/>
    </owl:NamedIndividual>
@@ -563,7 +563,7 @@
       <rdfs:label>Louang Namtha</rdfs:label>
       <skos:definition>The province of Louang Namtha in the country of Lao People's Democratic Republic (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;LaoPeoplesDemocraticRepublic"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="lo">Louang Namtha</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="lo">Louang Namtha</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-la;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-la;"/>
    </owl:NamedIndividual>
@@ -593,7 +593,7 @@
       <rdfs:label>Viangchan</rdfs:label>
       <skos:definition>The prefecture of Viangchan in the country of Lao People's Democratic Republic (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;LaoPeoplesDemocraticRepublic"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="lo">Viangchan</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="lo">Viangchan</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-la;Prefecture"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-la;"/>
    </owl:NamedIndividual>
@@ -623,7 +623,7 @@
       <rdfs:label>Xaisômboun</rdfs:label>
       <skos:definition>The province of Xaisômboun in the country of Lao People's Democratic Republic (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;LaoPeoplesDemocraticRepublic"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="lo">Xaisômboun</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="lo">Xaisômboun</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-la;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-la;"/>
    </owl:NamedIndividual>

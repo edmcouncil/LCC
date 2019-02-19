@@ -113,7 +113,7 @@
       <rdfs:label>Chittagong</rdfs:label>
       <skos:definition>The division of Chittagong in the country of Bangladesh</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Bangladesh"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="bn">Chittagong</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="bn">Chittagong</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-bd;Division"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-bd;"/>
    </owl:NamedIndividual>
@@ -141,7 +141,7 @@
       <rdfs:label>Noakhali</rdfs:label>
       <skos:definition>The district of Noakhali in the country of Bangladesh</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-bd;Chittagong"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="bn">Noakhali</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="bn">Noakhali</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-bd;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-bd;"/>
    </owl:NamedIndividual>
@@ -171,7 +171,7 @@
       <rdfs:label>Chittagong</rdfs:label>
       <skos:definition>The district of Chittagong in the country of Bangladesh</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-bd;Chittagong"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="bn">Chittagong</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="bn">Chittagong</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-bd;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-bd;"/>
    </owl:NamedIndividual>
@@ -201,7 +201,7 @@
       <rdfs:label>Cox's Bazar</rdfs:label>
       <skos:definition>The district of Cox's Bazar in the country of Bangladesh</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-bd;Chittagong"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="bn">Cox's Bazar</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="bn">Cox's Bazar</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-bd;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-bd;"/>
    </owl:NamedIndividual>
@@ -231,7 +231,7 @@
       <rdfs:label>Rangamati</rdfs:label>
       <skos:definition>The district of Rangamati in the country of Bangladesh</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-bd;Chittagong"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="bn">Rangamati</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="bn">Rangamati</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-bd;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-bd;"/>
    </owl:NamedIndividual>
@@ -261,7 +261,7 @@
       <rdfs:label>Feni</rdfs:label>
       <skos:definition>The district of Feni in the country of Bangladesh</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-bd;Chittagong"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="bn">Feni</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="bn">Feni</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-bd;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-bd;"/>
    </owl:NamedIndividual>
@@ -291,7 +291,7 @@
       <rdfs:label>Lakshmipur</rdfs:label>
       <skos:definition>The district of Lakshmipur in the country of Bangladesh</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-bd;Chittagong"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="bn">Lakshmipur</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="bn">Lakshmipur</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-bd;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-bd;"/>
    </owl:NamedIndividual>
@@ -321,7 +321,7 @@
       <rdfs:label>Chandpur</rdfs:label>
       <skos:definition>The district of Chandpur in the country of Bangladesh</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-bd;Chittagong"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="bn">Chandpur</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="bn">Chandpur</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-bd;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-bd;"/>
    </owl:NamedIndividual>
@@ -351,7 +351,7 @@
       <rdfs:label>Comilla</rdfs:label>
       <skos:definition>The district of Comilla in the country of Bangladesh</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-bd;Chittagong"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="bn">Comilla</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="bn">Comilla</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-bd;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-bd;"/>
    </owl:NamedIndividual>
@@ -381,7 +381,7 @@
       <rdfs:label>Khagrachhari</rdfs:label>
       <skos:definition>The district of Khagrachhari in the country of Bangladesh</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-bd;Chittagong"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="bn">Khagrachhari</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="bn">Khagrachhari</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-bd;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-bd;"/>
    </owl:NamedIndividual>
@@ -411,7 +411,7 @@
       <rdfs:label>Bandarban</rdfs:label>
       <skos:definition>The district of Bandarban in the country of Bangladesh</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-bd;Chittagong"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="bn">Bandarban</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="bn">Bandarban</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-bd;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-bd;"/>
    </owl:NamedIndividual>
@@ -441,7 +441,7 @@
       <rdfs:label>Brahmanbaria</rdfs:label>
       <skos:definition>The district of Brahmanbaria in the country of Bangladesh</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-bd;Chittagong"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="bn">Brahmanbaria</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="bn">Brahmanbaria</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-bd;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-bd;"/>
    </owl:NamedIndividual>
@@ -473,7 +473,7 @@
       <rdfs:label>Mymensingh</rdfs:label>
       <skos:definition>The division of Mymensingh in the country of Bangladesh</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Bangladesh"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="bn">Mymensingh</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="bn">Mymensingh</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-bd;Division"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-bd;"/>
    </owl:NamedIndividual>
@@ -501,7 +501,7 @@
       <rdfs:label>Mymensingh</rdfs:label>
       <skos:definition>The district of Mymensingh in the country of Bangladesh</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-bd;Mymensingh"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="bn">Mymensingh</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="bn">Mymensingh</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-bd;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-bd;"/>
    </owl:NamedIndividual>
@@ -531,7 +531,7 @@
       <rdfs:label>Sherpur</rdfs:label>
       <skos:definition>The district of Sherpur in the country of Bangladesh</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-bd;Mymensingh"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="bn">Sherpur</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="bn">Sherpur</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-bd;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-bd;"/>
    </owl:NamedIndividual>
@@ -561,7 +561,7 @@
       <rdfs:label>Jamalpur</rdfs:label>
       <skos:definition>The district of Jamalpur in the country of Bangladesh</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-bd;Mymensingh"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="bn">Jamalpur</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="bn">Jamalpur</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-bd;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-bd;"/>
    </owl:NamedIndividual>
@@ -591,7 +591,7 @@
       <rdfs:label>Netrakona</rdfs:label>
       <skos:definition>The district of Netrakona in the country of Bangladesh</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-bd;Mymensingh"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="bn">Netrakona</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="bn">Netrakona</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-bd;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-bd;"/>
    </owl:NamedIndividual>
@@ -623,7 +623,7 @@
       <rdfs:label>Barisal</rdfs:label>
       <skos:definition>The division of Barisal in the country of Bangladesh</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Bangladesh"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="bn">Barisal</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="bn">Barisal</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-bd;Division"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-bd;"/>
    </owl:NamedIndividual>
@@ -651,7 +651,7 @@
       <rdfs:label>Jhalakathi</rdfs:label>
       <skos:definition>The district of Jhalakathi in the country of Bangladesh</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-bd;Barisal"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="bn">Jhalakathi</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="bn">Jhalakathi</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-bd;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-bd;"/>
    </owl:NamedIndividual>
@@ -681,7 +681,7 @@
       <rdfs:label>Pirojpur</rdfs:label>
       <skos:definition>The district of Pirojpur in the country of Bangladesh</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-bd;Barisal"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="bn">Pirojpur</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="bn">Pirojpur</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-bd;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-bd;"/>
    </owl:NamedIndividual>
@@ -711,7 +711,7 @@
       <rdfs:label>Barisal</rdfs:label>
       <skos:definition>The district of Barisal in the country of Bangladesh</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-bd;Barisal"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="bn">Barisal</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="bn">Barisal</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-bd;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-bd;"/>
    </owl:NamedIndividual>
@@ -741,7 +741,7 @@
       <rdfs:label>Bhola</rdfs:label>
       <skos:definition>The district of Bhola in the country of Bangladesh</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-bd;Barisal"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="bn">Bhola</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="bn">Bhola</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-bd;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-bd;"/>
    </owl:NamedIndividual>
@@ -771,7 +771,7 @@
       <rdfs:label>Patuakhali</rdfs:label>
       <skos:definition>The district of Patuakhali in the country of Bangladesh</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-bd;Barisal"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="bn">Patuakhali</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="bn">Patuakhali</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-bd;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-bd;"/>
    </owl:NamedIndividual>
@@ -801,7 +801,7 @@
       <rdfs:label>Barguna</rdfs:label>
       <skos:definition>The district of Barguna in the country of Bangladesh</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-bd;Barisal"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="bn">Barguna</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="bn">Barguna</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-bd;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-bd;"/>
    </owl:NamedIndividual>
@@ -833,7 +833,7 @@
       <rdfs:label>Dhaka</rdfs:label>
       <skos:definition>The division of Dhaka in the country of Bangladesh</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Bangladesh"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="bn">Dhaka</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="bn">Dhaka</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-bd;Division"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-bd;"/>
    </owl:NamedIndividual>
@@ -861,7 +861,7 @@
       <rdfs:label>Madaripur</rdfs:label>
       <skos:definition>The district of Madaripur in the country of Bangladesh</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-bd;Dhaka"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="bn">Madaripur</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="bn">Madaripur</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-bd;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-bd;"/>
    </owl:NamedIndividual>
@@ -891,7 +891,7 @@
       <rdfs:label>Shariatpur</rdfs:label>
       <skos:definition>The district of Shariatpur in the country of Bangladesh</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-bd;Dhaka"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="bn">Shariatpur</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="bn">Shariatpur</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-bd;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-bd;"/>
    </owl:NamedIndividual>
@@ -921,7 +921,7 @@
       <rdfs:label>Tangail</rdfs:label>
       <skos:definition>The district of Tangail in the country of Bangladesh</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-bd;Dhaka"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="bn">Tangail</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="bn">Tangail</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-bd;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-bd;"/>
    </owl:NamedIndividual>
@@ -951,7 +951,7 @@
       <rdfs:label>Kishoreganj</rdfs:label>
       <skos:definition>The district of Kishoreganj in the country of Bangladesh</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-bd;Dhaka"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="bn">Kishoreganj</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="bn">Kishoreganj</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-bd;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-bd;"/>
    </owl:NamedIndividual>
@@ -981,7 +981,7 @@
       <rdfs:label>Narsingdi</rdfs:label>
       <skos:definition>The district of Narsingdi in the country of Bangladesh</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-bd;Dhaka"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="bn">Narsingdi</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="bn">Narsingdi</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-bd;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-bd;"/>
    </owl:NamedIndividual>
@@ -1011,7 +1011,7 @@
       <rdfs:label>Dhaka</rdfs:label>
       <skos:definition>The district of Dhaka in the country of Bangladesh</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-bd;Dhaka"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="bn">Dhaka</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="bn">Dhaka</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-bd;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-bd;"/>
    </owl:NamedIndividual>
@@ -1041,7 +1041,7 @@
       <rdfs:label>Faridpur</rdfs:label>
       <skos:definition>The district of Faridpur in the country of Bangladesh</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-bd;Dhaka"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="bn">Faridpur</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="bn">Faridpur</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-bd;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-bd;"/>
    </owl:NamedIndividual>
@@ -1071,7 +1071,7 @@
       <rdfs:label>Gopalganj</rdfs:label>
       <skos:definition>The district of Gopalganj in the country of Bangladesh</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-bd;Dhaka"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="bn">Gopalganj</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="bn">Gopalganj</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-bd;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-bd;"/>
    </owl:NamedIndividual>
@@ -1101,7 +1101,7 @@
       <rdfs:label>Rajbari</rdfs:label>
       <skos:definition>The district of Rajbari in the country of Bangladesh</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-bd;Dhaka"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="bn">Rajbari</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="bn">Rajbari</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-bd;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-bd;"/>
    </owl:NamedIndividual>
@@ -1131,7 +1131,7 @@
       <rdfs:label>Gazipur</rdfs:label>
       <skos:definition>The district of Gazipur in the country of Bangladesh</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-bd;Dhaka"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="bn">Gazipur</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="bn">Gazipur</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-bd;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-bd;"/>
    </owl:NamedIndividual>
@@ -1161,7 +1161,7 @@
       <rdfs:label>Manikganj</rdfs:label>
       <skos:definition>The district of Manikganj in the country of Bangladesh</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-bd;Dhaka"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="bn">Manikganj</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="bn">Manikganj</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-bd;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-bd;"/>
    </owl:NamedIndividual>
@@ -1191,7 +1191,7 @@
       <rdfs:label>Munshiganj</rdfs:label>
       <skos:definition>The district of Munshiganj in the country of Bangladesh</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-bd;Dhaka"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="bn">Munshiganj</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="bn">Munshiganj</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-bd;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-bd;"/>
    </owl:NamedIndividual>
@@ -1221,7 +1221,7 @@
       <rdfs:label>Narayanganj</rdfs:label>
       <skos:definition>The district of Narayanganj in the country of Bangladesh</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-bd;Dhaka"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="bn">Narayanganj</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="bn">Narayanganj</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-bd;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-bd;"/>
    </owl:NamedIndividual>
@@ -1253,7 +1253,7 @@
       <rdfs:label>Khulna</rdfs:label>
       <skos:definition>The division of Khulna in the country of Bangladesh</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Bangladesh"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="bn">Khulna</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="bn">Khulna</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-bd;Division"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-bd;"/>
    </owl:NamedIndividual>
@@ -1281,7 +1281,7 @@
       <rdfs:label>Narail</rdfs:label>
       <skos:definition>The district of Narail in the country of Bangladesh</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-bd;Khulna"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="bn">Narail</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="bn">Narail</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-bd;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-bd;"/>
    </owl:NamedIndividual>
@@ -1311,7 +1311,7 @@
       <rdfs:label>Kushtia</rdfs:label>
       <skos:definition>The district of Kushtia in the country of Bangladesh</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-bd;Khulna"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="bn">Kushtia</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="bn">Kushtia</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-bd;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-bd;"/>
    </owl:NamedIndividual>
@@ -1341,7 +1341,7 @@
       <rdfs:label>Meherpur</rdfs:label>
       <skos:definition>The district of Meherpur in the country of Bangladesh</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-bd;Khulna"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="bn">Meherpur</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="bn">Meherpur</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-bd;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-bd;"/>
    </owl:NamedIndividual>
@@ -1371,7 +1371,7 @@
       <rdfs:label>Chuadanga</rdfs:label>
       <skos:definition>The district of Chuadanga in the country of Bangladesh</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-bd;Khulna"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="bn">Chuadanga</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="bn">Chuadanga</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-bd;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-bd;"/>
    </owl:NamedIndividual>
@@ -1401,7 +1401,7 @@
       <rdfs:label>Jessore</rdfs:label>
       <skos:definition>The district of Jessore in the country of Bangladesh</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-bd;Khulna"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="bn">Jessore</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="bn">Jessore</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-bd;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-bd;"/>
    </owl:NamedIndividual>
@@ -1431,7 +1431,7 @@
       <rdfs:label>Satkhira</rdfs:label>
       <skos:definition>The district of Satkhira in the country of Bangladesh</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-bd;Khulna"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="bn">Satkhira</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="bn">Satkhira</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-bd;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-bd;"/>
    </owl:NamedIndividual>
@@ -1461,7 +1461,7 @@
       <rdfs:label>Magura</rdfs:label>
       <skos:definition>The district of Magura in the country of Bangladesh</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-bd;Khulna"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="bn">Magura</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="bn">Magura</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-bd;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-bd;"/>
    </owl:NamedIndividual>
@@ -1491,7 +1491,7 @@
       <rdfs:label>Bagerhat</rdfs:label>
       <skos:definition>The district of Bagerhat in the country of Bangladesh</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-bd;Khulna"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="bn">Bagerhat</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="bn">Bagerhat</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-bd;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-bd;"/>
    </owl:NamedIndividual>
@@ -1521,7 +1521,7 @@
       <rdfs:label>Jhenaidah</rdfs:label>
       <skos:definition>The district of Jhenaidah in the country of Bangladesh</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-bd;Khulna"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="bn">Jhenaidah</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="bn">Jhenaidah</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-bd;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-bd;"/>
    </owl:NamedIndividual>
@@ -1551,7 +1551,7 @@
       <rdfs:label>Khulna</rdfs:label>
       <skos:definition>The district of Khulna in the country of Bangladesh</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-bd;Khulna"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="bn">Khulna</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="bn">Khulna</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-bd;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-bd;"/>
    </owl:NamedIndividual>
@@ -1583,7 +1583,7 @@
       <rdfs:label>Rajshahi</rdfs:label>
       <skos:definition>The division of Rajshahi in the country of Bangladesh</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Bangladesh"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="bn">Rajshahi</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="bn">Rajshahi</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-bd;Division"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-bd;"/>
    </owl:NamedIndividual>
@@ -1611,7 +1611,7 @@
       <rdfs:label>Chapai Nawabganj</rdfs:label>
       <skos:definition>The district of Chapai Nawabganj in the country of Bangladesh</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-bd;Rajshahi"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="bn">Chapai Nawabganj</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="bn">Chapai Nawabganj</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-bd;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-bd;"/>
    </owl:NamedIndividual>
@@ -1641,7 +1641,7 @@
       <rdfs:label>Naogaon</rdfs:label>
       <skos:definition>The district of Naogaon in the country of Bangladesh</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-bd;Rajshahi"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="bn">Naogaon</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="bn">Naogaon</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-bd;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-bd;"/>
    </owl:NamedIndividual>
@@ -1671,7 +1671,7 @@
       <rdfs:label>Pabna</rdfs:label>
       <skos:definition>The district of Pabna in the country of Bangladesh</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-bd;Rajshahi"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="bn">Pabna</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="bn">Pabna</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-bd;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-bd;"/>
    </owl:NamedIndividual>
@@ -1701,7 +1701,7 @@
       <rdfs:label>Rajshahi</rdfs:label>
       <skos:definition>The district of Rajshahi in the country of Bangladesh</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-bd;Rajshahi"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="bn">Rajshahi</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="bn">Rajshahi</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-bd;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-bd;"/>
    </owl:NamedIndividual>
@@ -1731,7 +1731,7 @@
       <rdfs:label>Joypurhat</rdfs:label>
       <skos:definition>The district of Joypurhat in the country of Bangladesh</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-bd;Rajshahi"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="bn">Joypurhat</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="bn">Joypurhat</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-bd;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-bd;"/>
    </owl:NamedIndividual>
@@ -1761,7 +1761,7 @@
       <rdfs:label>Sirajganj</rdfs:label>
       <skos:definition>The district of Sirajganj in the country of Bangladesh</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-bd;Rajshahi"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="bn">Sirajganj</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="bn">Sirajganj</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-bd;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-bd;"/>
    </owl:NamedIndividual>
@@ -1791,7 +1791,7 @@
       <rdfs:label>Bogra</rdfs:label>
       <skos:definition>The district of Bogra in the country of Bangladesh</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-bd;Rajshahi"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="bn">Bogra</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="bn">Bogra</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-bd;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-bd;"/>
    </owl:NamedIndividual>
@@ -1821,7 +1821,7 @@
       <rdfs:label>Natore</rdfs:label>
       <skos:definition>The district of Natore in the country of Bangladesh</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-bd;Rajshahi"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="bn">Natore</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="bn">Natore</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-bd;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-bd;"/>
    </owl:NamedIndividual>
@@ -1853,7 +1853,7 @@
       <rdfs:label>Rangpur</rdfs:label>
       <skos:definition>The division of Rangpur in the country of Bangladesh</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Bangladesh"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="bn">Rangpur</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="bn">Rangpur</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-bd;Division"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-bd;"/>
    </owl:NamedIndividual>
@@ -1881,7 +1881,7 @@
       <rdfs:label>Rangpur</rdfs:label>
       <skos:definition>The district of Rangpur in the country of Bangladesh</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-bd;Rangpur"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="bn">Rangpur</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="bn">Rangpur</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-bd;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-bd;"/>
    </owl:NamedIndividual>
@@ -1911,7 +1911,7 @@
       <rdfs:label>Gaibandha</rdfs:label>
       <skos:definition>The district of Gaibandha in the country of Bangladesh</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-bd;Rangpur"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="bn">Gaibandha</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="bn">Gaibandha</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-bd;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-bd;"/>
    </owl:NamedIndividual>
@@ -1941,7 +1941,7 @@
       <rdfs:label>Thakurgaon</rdfs:label>
       <skos:definition>The district of Thakurgaon in the country of Bangladesh</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-bd;Rangpur"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="bn">Thakurgaon</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="bn">Thakurgaon</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-bd;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-bd;"/>
    </owl:NamedIndividual>
@@ -1971,7 +1971,7 @@
       <rdfs:label>Kurigram</rdfs:label>
       <skos:definition>The district of Kurigram in the country of Bangladesh</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-bd;Rangpur"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="bn">Kurigram</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="bn">Kurigram</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-bd;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-bd;"/>
    </owl:NamedIndividual>
@@ -2001,7 +2001,7 @@
       <rdfs:label>Panchagarh</rdfs:label>
       <skos:definition>The district of Panchagarh in the country of Bangladesh</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-bd;Rangpur"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="bn">Panchagarh</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="bn">Panchagarh</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-bd;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-bd;"/>
    </owl:NamedIndividual>
@@ -2031,7 +2031,7 @@
       <rdfs:label>Dinajpur</rdfs:label>
       <skos:definition>The district of Dinajpur in the country of Bangladesh</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-bd;Rangpur"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="bn">Dinajpur</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="bn">Dinajpur</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-bd;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-bd;"/>
    </owl:NamedIndividual>
@@ -2061,7 +2061,7 @@
       <rdfs:label>Lalmonirhat</rdfs:label>
       <skos:definition>The district of Lalmonirhat in the country of Bangladesh</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-bd;Rangpur"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="bn">Lalmonirhat</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="bn">Lalmonirhat</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-bd;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-bd;"/>
    </owl:NamedIndividual>
@@ -2091,7 +2091,7 @@
       <rdfs:label>Nilphamari</rdfs:label>
       <skos:definition>The district of Nilphamari in the country of Bangladesh</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-bd;Rangpur"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="bn">Nilphamari</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="bn">Nilphamari</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-bd;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-bd;"/>
    </owl:NamedIndividual>
@@ -2123,7 +2123,7 @@
       <rdfs:label>Sylhet</rdfs:label>
       <skos:definition>The division of Sylhet in the country of Bangladesh</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Bangladesh"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="bn">Sylhet</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="bn">Sylhet</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-bd;Division"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-bd;"/>
    </owl:NamedIndividual>
@@ -2151,7 +2151,7 @@
       <rdfs:label>Moulvibazar</rdfs:label>
       <skos:definition>The district of Moulvibazar in the country of Bangladesh</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-bd;Sylhet"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="bn">Moulvibazar</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="bn">Moulvibazar</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-bd;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-bd;"/>
    </owl:NamedIndividual>
@@ -2181,7 +2181,7 @@
       <rdfs:label>Sylhet</rdfs:label>
       <skos:definition>The district of Sylhet in the country of Bangladesh</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-bd;Sylhet"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="bn">Sylhet</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="bn">Sylhet</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-bd;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-bd;"/>
    </owl:NamedIndividual>
@@ -2211,7 +2211,7 @@
       <rdfs:label>Sunamganj</rdfs:label>
       <skos:definition>The district of Sunamganj in the country of Bangladesh</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-bd;Sylhet"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="bn">Sunamganj</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="bn">Sunamganj</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-bd;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-bd;"/>
    </owl:NamedIndividual>
@@ -2241,7 +2241,7 @@
       <rdfs:label>Habiganj</rdfs:label>
       <skos:definition>The district of Habiganj in the country of Bangladesh</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-bd;Sylhet"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="bn">Habiganj</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="bn">Habiganj</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-bd;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-bd;"/>
    </owl:NamedIndividual>

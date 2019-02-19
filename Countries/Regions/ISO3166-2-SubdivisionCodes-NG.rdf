@@ -113,7 +113,7 @@
       <rdfs:label>Bayelsa</rdfs:label>
       <skos:definition>The state of Bayelsa in the country of Nigeria</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Nigeria"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Bayelsa</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Bayelsa</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ng;State"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ng;"/>
    </owl:NamedIndividual>
@@ -143,7 +143,7 @@
       <rdfs:label>Kano</rdfs:label>
       <skos:definition>The state of Kano in the country of Nigeria</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Nigeria"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Kano</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Kano</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ng;State"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ng;"/>
    </owl:NamedIndividual>
@@ -173,7 +173,7 @@
       <rdfs:label>Katsina</rdfs:label>
       <skos:definition>The state of Katsina in the country of Nigeria</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Nigeria"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Katsina</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Katsina</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ng;State"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ng;"/>
    </owl:NamedIndividual>
@@ -203,7 +203,7 @@
       <rdfs:label>Borno</rdfs:label>
       <skos:definition>The state of Borno in the country of Nigeria</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Nigeria"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Borno</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Borno</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ng;State"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ng;"/>
    </owl:NamedIndividual>
@@ -233,7 +233,7 @@
       <rdfs:label>Ebonyi</rdfs:label>
       <skos:definition>The state of Ebonyi in the country of Nigeria</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Nigeria"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Ebonyi</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Ebonyi</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ng;State"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ng;"/>
    </owl:NamedIndividual>
@@ -263,7 +263,7 @@
       <rdfs:label>Abuja Federal Capital Territory</rdfs:label>
       <skos:definition>The capital territory of Abuja Federal Capital Territory in the country of Nigeria</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Nigeria"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Abuja Federal Capital Territory</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Abuja Federal Capital Territory</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ng;CapitalTerritory"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ng;"/>
    </owl:NamedIndividual>
@@ -293,7 +293,7 @@
       <rdfs:label>Kebbi</rdfs:label>
       <skos:definition>The state of Kebbi in the country of Nigeria</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Nigeria"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Kebbi</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Kebbi</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ng;State"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ng;"/>
    </owl:NamedIndividual>
@@ -323,7 +323,7 @@
       <rdfs:label>Nasarawa</rdfs:label>
       <skos:definition>The state of Nasarawa in the country of Nigeria</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Nigeria"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Nasarawa</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Nasarawa</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ng;State"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ng;"/>
    </owl:NamedIndividual>
@@ -353,7 +353,7 @@
       <rdfs:label>Niger</rdfs:label>
       <skos:definition>The state of Niger in the country of Nigeria</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Nigeria"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Niger</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Niger</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ng;State"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ng;"/>
    </owl:NamedIndividual>
@@ -383,7 +383,7 @@
       <rdfs:label>Ondo</rdfs:label>
       <skos:definition>The state of Ondo in the country of Nigeria</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Nigeria"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Ondo</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Ondo</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ng;State"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ng;"/>
    </owl:NamedIndividual>
@@ -413,7 +413,7 @@
       <rdfs:label>Osun</rdfs:label>
       <skos:definition>The state of Osun in the country of Nigeria</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Nigeria"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Osun</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Osun</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ng;State"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ng;"/>
    </owl:NamedIndividual>
@@ -443,7 +443,7 @@
       <rdfs:label>Oyo</rdfs:label>
       <skos:definition>The state of Oyo in the country of Nigeria</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Nigeria"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Oyo</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Oyo</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ng;State"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ng;"/>
    </owl:NamedIndividual>
@@ -473,7 +473,7 @@
       <rdfs:label>Delta</rdfs:label>
       <skos:definition>The state of Delta in the country of Nigeria</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Nigeria"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Delta</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Delta</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ng;State"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ng;"/>
    </owl:NamedIndividual>
@@ -503,7 +503,7 @@
       <rdfs:label>Ekiti</rdfs:label>
       <skos:definition>The state of Ekiti in the country of Nigeria</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Nigeria"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Ekiti</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Ekiti</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ng;State"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ng;"/>
    </owl:NamedIndividual>
@@ -533,7 +533,7 @@
       <rdfs:label>Kogi</rdfs:label>
       <skos:definition>The state of Kogi in the country of Nigeria</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Nigeria"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Kogi</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Kogi</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ng;State"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ng;"/>
    </owl:NamedIndividual>
@@ -563,7 +563,7 @@
       <rdfs:label>Lagos</rdfs:label>
       <skos:definition>The state of Lagos in the country of Nigeria</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Nigeria"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Lagos</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Lagos</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ng;State"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ng;"/>
    </owl:NamedIndividual>
@@ -593,7 +593,7 @@
       <rdfs:label>Taraba</rdfs:label>
       <skos:definition>The state of Taraba in the country of Nigeria</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Nigeria"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Taraba</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Taraba</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ng;State"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ng;"/>
    </owl:NamedIndividual>
@@ -623,7 +623,7 @@
       <rdfs:label>Kaduna</rdfs:label>
       <skos:definition>The state of Kaduna in the country of Nigeria</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Nigeria"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Kaduna</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Kaduna</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ng;State"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ng;"/>
    </owl:NamedIndividual>
@@ -653,7 +653,7 @@
       <rdfs:label>Ogun</rdfs:label>
       <skos:definition>The state of Ogun in the country of Nigeria</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Nigeria"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Ogun</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Ogun</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ng;State"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ng;"/>
    </owl:NamedIndividual>
@@ -683,7 +683,7 @@
       <rdfs:label>Sokoto</rdfs:label>
       <skos:definition>The state of Sokoto in the country of Nigeria</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Nigeria"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Sokoto</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Sokoto</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ng;State"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ng;"/>
    </owl:NamedIndividual>
@@ -713,7 +713,7 @@
       <rdfs:label>Yobe</rdfs:label>
       <skos:definition>The state of Yobe in the country of Nigeria</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Nigeria"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Yobe</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Yobe</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ng;State"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ng;"/>
    </owl:NamedIndividual>
@@ -743,7 +743,7 @@
       <rdfs:label>Zamfara</rdfs:label>
       <skos:definition>The state of Zamfara in the country of Nigeria</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Nigeria"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Zamfara</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Zamfara</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ng;State"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ng;"/>
    </owl:NamedIndividual>
@@ -773,7 +773,7 @@
       <rdfs:label>Akwa Ibom</rdfs:label>
       <skos:definition>The state of Akwa Ibom in the country of Nigeria</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Nigeria"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Akwa Ibom</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Akwa Ibom</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ng;State"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ng;"/>
    </owl:NamedIndividual>
@@ -803,7 +803,7 @@
       <rdfs:label>Enugu</rdfs:label>
       <skos:definition>The state of Enugu in the country of Nigeria</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Nigeria"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Enugu</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Enugu</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ng;State"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ng;"/>
    </owl:NamedIndividual>
@@ -833,7 +833,7 @@
       <rdfs:label>Imo</rdfs:label>
       <skos:definition>The state of Imo in the country of Nigeria</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Nigeria"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Imo</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Imo</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ng;State"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ng;"/>
    </owl:NamedIndividual>
@@ -863,7 +863,7 @@
       <rdfs:label>Benue</rdfs:label>
       <skos:definition>The state of Benue in the country of Nigeria</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Nigeria"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Benue</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Benue</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ng;State"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ng;"/>
    </owl:NamedIndividual>
@@ -893,7 +893,7 @@
       <rdfs:label>Cross River</rdfs:label>
       <skos:definition>The state of Cross River in the country of Nigeria</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Nigeria"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Cross River</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Cross River</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ng;State"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ng;"/>
    </owl:NamedIndividual>
@@ -923,7 +923,7 @@
       <rdfs:label>Jigawa</rdfs:label>
       <skos:definition>The state of Jigawa in the country of Nigeria</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Nigeria"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Jigawa</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Jigawa</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ng;State"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ng;"/>
    </owl:NamedIndividual>
@@ -953,7 +953,7 @@
       <rdfs:label>Adamawa</rdfs:label>
       <skos:definition>The state of Adamawa in the country of Nigeria</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Nigeria"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Adamawa</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Adamawa</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ng;State"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ng;"/>
    </owl:NamedIndividual>
@@ -983,7 +983,7 @@
       <rdfs:label>Anambra</rdfs:label>
       <skos:definition>The state of Anambra in the country of Nigeria</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Nigeria"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Anambra</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Anambra</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ng;State"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ng;"/>
    </owl:NamedIndividual>
@@ -1013,7 +1013,7 @@
       <rdfs:label>Abia</rdfs:label>
       <skos:definition>The state of Abia in the country of Nigeria</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Nigeria"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Abia</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Abia</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ng;State"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ng;"/>
    </owl:NamedIndividual>
@@ -1043,7 +1043,7 @@
       <rdfs:label>Bauchi</rdfs:label>
       <skos:definition>The state of Bauchi in the country of Nigeria</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Nigeria"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Bauchi</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Bauchi</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ng;State"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ng;"/>
    </owl:NamedIndividual>
@@ -1073,7 +1073,7 @@
       <rdfs:label>Edo</rdfs:label>
       <skos:definition>The state of Edo in the country of Nigeria</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Nigeria"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Edo</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Edo</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ng;State"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ng;"/>
    </owl:NamedIndividual>
@@ -1103,7 +1103,7 @@
       <rdfs:label>Gombe</rdfs:label>
       <skos:definition>The state of Gombe in the country of Nigeria</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Nigeria"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Gombe</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Gombe</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ng;State"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ng;"/>
    </owl:NamedIndividual>
@@ -1133,7 +1133,7 @@
       <rdfs:label>Kwara</rdfs:label>
       <skos:definition>The state of Kwara in the country of Nigeria</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Nigeria"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Kwara</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Kwara</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ng;State"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ng;"/>
    </owl:NamedIndividual>
@@ -1163,7 +1163,7 @@
       <rdfs:label>Plateau</rdfs:label>
       <skos:definition>The state of Plateau in the country of Nigeria</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Nigeria"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Plateau</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Plateau</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ng;State"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ng;"/>
    </owl:NamedIndividual>
@@ -1193,7 +1193,7 @@
       <rdfs:label>Rivers</rdfs:label>
       <skos:definition>The state of Rivers in the country of Nigeria</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Nigeria"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Rivers</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Rivers</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ng;State"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ng;"/>
    </owl:NamedIndividual>

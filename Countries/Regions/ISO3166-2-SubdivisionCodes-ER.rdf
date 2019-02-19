@@ -106,8 +106,8 @@
       <rdfs:label>Gash-Barka</rdfs:label>
       <skos:definition>The region of Gash-Barka in the country of Eritrea</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Eritrea"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ti">Gash-Barka</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Qāsh-Barkah</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ti">Gash-Barka</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Qāsh-Barkah</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-er;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-er;"/>
    </owl:NamedIndividual>
@@ -137,8 +137,8 @@
       <rdfs:label>Al Awsaţ</rdfs:label>
       <skos:definition>The region of Al Awsaţ in the country of Eritrea</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Eritrea"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Al Awsaţ</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ti">Ma’ĭkel</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Al Awsaţ</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ti">Ma’ĭkel</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-er;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-er;"/>
    </owl:NamedIndividual>
@@ -168,8 +168,8 @@
       <rdfs:label>Semienawi K’eyyĭḥ Baḥri</rdfs:label>
       <skos:definition>The region of Semienawi K’eyyĭḥ Baḥri in the country of Eritrea</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Eritrea"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ti">Semienawi K’eyyĭḥ Baḥri</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Shimālī al Baḩrī al Aḩmar</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ti">Semienawi K’eyyĭḥ Baḥri</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Shimālī al Baḩrī al Aḩmar</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-er;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-er;"/>
    </owl:NamedIndividual>
@@ -199,8 +199,8 @@
       <rdfs:label>Janūbī al Baḩrī al Aḩmar</rdfs:label>
       <skos:definition>The region of Janūbī al Baḩrī al Aḩmar in the country of Eritrea</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Eritrea"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Janūbī al Baḩrī al Aḩmar</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ti">Debubawi K’eyyĭḥ Baḥri</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Janūbī al Baḩrī al Aḩmar</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ti">Debubawi K’eyyĭḥ Baḥri</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-er;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-er;"/>
    </owl:NamedIndividual>
@@ -230,8 +230,8 @@
       <rdfs:label>Debub</rdfs:label>
       <skos:definition>The region of Debub in the country of Eritrea</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Eritrea"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ti">Debub</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Al Janūbī</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ti">Debub</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Al Janūbī</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-er;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-er;"/>
    </owl:NamedIndividual>
@@ -261,8 +261,8 @@
       <rdfs:label>‘Anseba</rdfs:label>
       <skos:definition>The region of ‘Anseba in the country of Eritrea</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Eritrea"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ti">‘Anseba</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Ansabā</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ti">‘Anseba</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Ansabā</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-er;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-er;"/>
    </owl:NamedIndividual>

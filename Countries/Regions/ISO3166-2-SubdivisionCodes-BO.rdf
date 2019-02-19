@@ -106,7 +106,7 @@
       <rdfs:label>Cochabamba</rdfs:label>
       <skos:definition>The department of Cochabamba in the country of Bolivia (Plurinational State of)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Bolivia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Cochabamba</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Cochabamba</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-bo;Department"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-bo;"/>
    </owl:NamedIndividual>
@@ -136,7 +136,7 @@
       <rdfs:label>La Paz</rdfs:label>
       <skos:definition>The department of La Paz in the country of Bolivia (Plurinational State of)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Bolivia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">La Paz</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">La Paz</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-bo;Department"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-bo;"/>
    </owl:NamedIndividual>
@@ -166,7 +166,7 @@
       <rdfs:label>El Beni</rdfs:label>
       <skos:definition>The department of El Beni in the country of Bolivia (Plurinational State of)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Bolivia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">El Beni</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">El Beni</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-bo;Department"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-bo;"/>
    </owl:NamedIndividual>
@@ -196,7 +196,7 @@
       <rdfs:label>Oruro</rdfs:label>
       <skos:definition>The department of Oruro in the country of Bolivia (Plurinational State of)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Bolivia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Oruro</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Oruro</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-bo;Department"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-bo;"/>
    </owl:NamedIndividual>
@@ -226,7 +226,7 @@
       <rdfs:label>Santa Cruz</rdfs:label>
       <skos:definition>The department of Santa Cruz in the country of Bolivia (Plurinational State of)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Bolivia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Santa Cruz</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Santa Cruz</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-bo;Department"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-bo;"/>
    </owl:NamedIndividual>
@@ -256,7 +256,7 @@
       <rdfs:label>Potosí</rdfs:label>
       <skos:definition>The department of Potosí in the country of Bolivia (Plurinational State of)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Bolivia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Potosí</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Potosí</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-bo;Department"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-bo;"/>
    </owl:NamedIndividual>
@@ -286,7 +286,7 @@
       <rdfs:label>Tarija</rdfs:label>
       <skos:definition>The department of Tarija in the country of Bolivia (Plurinational State of)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Bolivia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Tarija</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Tarija</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-bo;Department"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-bo;"/>
    </owl:NamedIndividual>
@@ -316,7 +316,7 @@
       <rdfs:label>Chuquisaca</rdfs:label>
       <skos:definition>The department of Chuquisaca in the country of Bolivia (Plurinational State of)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Bolivia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Chuquisaca</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Chuquisaca</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-bo;Department"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-bo;"/>
    </owl:NamedIndividual>
@@ -346,7 +346,7 @@
       <rdfs:label>Pando</rdfs:label>
       <skos:definition>The department of Pando in the country of Bolivia (Plurinational State of)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Bolivia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Pando</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Pando</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-bo;Department"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-bo;"/>
    </owl:NamedIndividual>

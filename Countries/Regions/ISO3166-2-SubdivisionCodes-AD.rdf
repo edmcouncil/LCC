@@ -106,7 +106,7 @@
       <rdfs:label>Canillo</rdfs:label>
       <skos:definition>The parish of Canillo in the country of Andorra</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Andorra"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ca">Canillo</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ca">Canillo</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ad;Parish"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ad;"/>
    </owl:NamedIndividual>
@@ -136,7 +136,7 @@
       <rdfs:label>Sant Julià de Lòria</rdfs:label>
       <skos:definition>The parish of Sant Julià de Lòria in the country of Andorra</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Andorra"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ca">Sant Julià de Lòria</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ca">Sant Julià de Lòria</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ad;Parish"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ad;"/>
    </owl:NamedIndividual>
@@ -166,7 +166,7 @@
       <rdfs:label>Escaldes-Engordany</rdfs:label>
       <skos:definition>The parish of Escaldes-Engordany in the country of Andorra</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Andorra"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ca">Escaldes-Engordany</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ca">Escaldes-Engordany</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ad;Parish"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ad;"/>
    </owl:NamedIndividual>
@@ -196,7 +196,7 @@
       <rdfs:label>Encamp</rdfs:label>
       <skos:definition>The parish of Encamp in the country of Andorra</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Andorra"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ca">Encamp</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ca">Encamp</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ad;Parish"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ad;"/>
    </owl:NamedIndividual>
@@ -226,7 +226,7 @@
       <rdfs:label>Andorra la Vella</rdfs:label>
       <skos:definition>The parish of Andorra la Vella in the country of Andorra</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Andorra"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ca">Andorra la Vella</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ca">Andorra la Vella</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ad;Parish"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ad;"/>
    </owl:NamedIndividual>
@@ -256,7 +256,7 @@
       <rdfs:label>La Massana</rdfs:label>
       <skos:definition>The parish of La Massana in the country of Andorra</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Andorra"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ca">La Massana</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ca">La Massana</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ad;Parish"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ad;"/>
    </owl:NamedIndividual>
@@ -286,7 +286,7 @@
       <rdfs:label>Ordino</rdfs:label>
       <skos:definition>The parish of Ordino in the country of Andorra</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Andorra"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ca">Ordino</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ca">Ordino</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ad;Parish"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ad;"/>
    </owl:NamedIndividual>

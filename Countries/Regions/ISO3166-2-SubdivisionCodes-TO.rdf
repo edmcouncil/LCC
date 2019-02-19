@@ -106,8 +106,8 @@
       <rdfs:label>Ha'apai</rdfs:label>
       <skos:definition>The division of Ha'apai in the country of Tonga</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Tonga"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Ha'apai</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="to">Ha'apai</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Ha'apai</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="to">Ha'apai</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-to;Division"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-to;"/>
    </owl:NamedIndividual>
@@ -137,8 +137,8 @@
       <rdfs:label>Niuas</rdfs:label>
       <skos:definition>The division of Niuas in the country of Tonga</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Tonga"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Niuas</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="to">Niuas</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Niuas</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="to">Niuas</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-to;Division"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-to;"/>
    </owl:NamedIndividual>
@@ -168,8 +168,8 @@
       <rdfs:label>Tongatapu</rdfs:label>
       <skos:definition>The division of Tongatapu in the country of Tonga</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Tonga"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="to">Tongatapu</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Tongatapu</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="to">Tongatapu</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Tongatapu</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-to;Division"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-to;"/>
    </owl:NamedIndividual>
@@ -199,8 +199,8 @@
       <rdfs:label>'Eua</rdfs:label>
       <skos:definition>The division of 'Eua in the country of Tonga</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Tonga"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="to">'Eua</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">'Eua</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="to">'Eua</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">'Eua</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-to;Division"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-to;"/>
    </owl:NamedIndividual>
@@ -230,8 +230,8 @@
       <rdfs:label>Vava'u</rdfs:label>
       <skos:definition>The division of Vava'u in the country of Tonga</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Tonga"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Vava'u</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="to">Vava'u</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Vava'u</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="to">Vava'u</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-to;Division"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-to;"/>
    </owl:NamedIndividual>
@@ -261,8 +261,8 @@
       <rdfs:label>Tongatapu (principal island)</rdfs:label>
       <skos:definition>The territory of Tongatapu (principal island) in the country of Tonga</skos:definition>
       <lcc-cr:hasNumericRegionCode rdf:datatype="&xsd;string">1210</lcc-cr:hasNumericRegionCode>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Tongatapu (île principale)</lcc-cr:hasFrenchShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Tongatapu (principal island)</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Tongatapu (île principale)</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Tongatapu (principal island)</lcc-cr:hasEnglishShortName>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Tonga"/>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2;Territory"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-to;"/>

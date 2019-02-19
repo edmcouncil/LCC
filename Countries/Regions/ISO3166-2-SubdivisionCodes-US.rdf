@@ -150,7 +150,7 @@
       <rdfs:label>Georgia</rdfs:label>
       <skos:definition>The state of Georgia in the country of United States of America (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;UnitedStatesOfAmerica"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Georgia</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Georgia</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-us;State"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-us;"/>
    </owl:NamedIndividual>
@@ -180,7 +180,7 @@
       <rdfs:label>Kansas</rdfs:label>
       <skos:definition>The state of Kansas in the country of United States of America (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;UnitedStatesOfAmerica"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Kansas</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Kansas</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-us;State"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-us;"/>
    </owl:NamedIndividual>
@@ -210,7 +210,7 @@
       <rdfs:label>Minnesota</rdfs:label>
       <skos:definition>The state of Minnesota in the country of United States of America (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;UnitedStatesOfAmerica"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Minnesota</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Minnesota</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-us;State"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-us;"/>
    </owl:NamedIndividual>
@@ -240,7 +240,7 @@
       <rdfs:label>Texas</rdfs:label>
       <skos:definition>The state of Texas in the country of United States of America (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;UnitedStatesOfAmerica"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Texas</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Texas</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-us;State"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-us;"/>
    </owl:NamedIndividual>
@@ -300,7 +300,7 @@
       <rdfs:label>Alaska</rdfs:label>
       <skos:definition>The state of Alaska in the country of United States of America (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;UnitedStatesOfAmerica"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Alaska</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Alaska</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-us;State"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-us;"/>
    </owl:NamedIndividual>
@@ -330,7 +330,7 @@
       <rdfs:label>Alabama</rdfs:label>
       <skos:definition>The state of Alabama in the country of United States of America (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;UnitedStatesOfAmerica"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Alabama</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Alabama</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-us;State"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-us;"/>
    </owl:NamedIndividual>
@@ -360,7 +360,7 @@
       <rdfs:label>Colorado</rdfs:label>
       <skos:definition>The state of Colorado in the country of United States of America (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;UnitedStatesOfAmerica"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Colorado</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Colorado</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-us;State"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-us;"/>
    </owl:NamedIndividual>
@@ -390,7 +390,7 @@
       <rdfs:label>Kentucky</rdfs:label>
       <skos:definition>The state of Kentucky in the country of United States of America (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;UnitedStatesOfAmerica"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Kentucky</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Kentucky</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-us;State"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-us;"/>
    </owl:NamedIndividual>
@@ -450,7 +450,7 @@
       <rdfs:label>New York</rdfs:label>
       <skos:definition>The state of New York in the country of United States of America (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;UnitedStatesOfAmerica"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">New York</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">New York</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-us;State"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-us;"/>
    </owl:NamedIndividual>
@@ -480,7 +480,7 @@
       <rdfs:label>Rhode Island</rdfs:label>
       <skos:definition>The state of Rhode Island in the country of United States of America (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;UnitedStatesOfAmerica"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Rhode Island</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Rhode Island</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-us;State"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-us;"/>
    </owl:NamedIndividual>
@@ -510,7 +510,7 @@
       <rdfs:label>South Carolina</rdfs:label>
       <skos:definition>The state of South Carolina in the country of United States of America (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;UnitedStatesOfAmerica"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">South Carolina</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">South Carolina</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-us;State"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-us;"/>
    </owl:NamedIndividual>
@@ -540,7 +540,7 @@
       <rdfs:label>South Dakota</rdfs:label>
       <skos:definition>The state of South Dakota in the country of United States of America (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;UnitedStatesOfAmerica"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">South Dakota</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">South Dakota</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-us;State"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-us;"/>
    </owl:NamedIndividual>
@@ -570,7 +570,7 @@
       <rdfs:label>Washington</rdfs:label>
       <skos:definition>The state of Washington in the country of United States of America (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;UnitedStatesOfAmerica"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Washington</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Washington</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-us;State"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-us;"/>
    </owl:NamedIndividual>
@@ -600,7 +600,7 @@
       <rdfs:label>District of Columbia</rdfs:label>
       <skos:definition>The district of District of Columbia in the country of United States of America (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;UnitedStatesOfAmerica"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">District of Columbia</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">District of Columbia</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-us;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-us;"/>
    </owl:NamedIndividual>
@@ -660,7 +660,7 @@
       <rdfs:label>Iowa</rdfs:label>
       <skos:definition>The state of Iowa in the country of United States of America (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;UnitedStatesOfAmerica"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Iowa</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Iowa</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-us;State"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-us;"/>
    </owl:NamedIndividual>
@@ -690,7 +690,7 @@
       <rdfs:label>Ohio</rdfs:label>
       <skos:definition>The state of Ohio in the country of United States of America (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;UnitedStatesOfAmerica"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Ohio</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Ohio</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-us;State"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-us;"/>
    </owl:NamedIndividual>
@@ -720,7 +720,7 @@
       <rdfs:label>Oregon</rdfs:label>
       <skos:definition>The state of Oregon in the country of United States of America (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;UnitedStatesOfAmerica"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Oregon</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Oregon</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-us;State"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-us;"/>
    </owl:NamedIndividual>
@@ -750,7 +750,7 @@
       <rdfs:label>California</rdfs:label>
       <skos:definition>The state of California in the country of United States of America (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;UnitedStatesOfAmerica"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">California</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">California</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-us;State"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-us;"/>
    </owl:NamedIndividual>
@@ -780,7 +780,7 @@
       <rdfs:label>Delaware</rdfs:label>
       <skos:definition>The state of Delaware in the country of United States of America (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;UnitedStatesOfAmerica"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Delaware</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Delaware</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-us;State"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-us;"/>
    </owl:NamedIndividual>
@@ -810,7 +810,7 @@
       <rdfs:label>Hawaii</rdfs:label>
       <skos:definition>The state of Hawaii in the country of United States of America (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;UnitedStatesOfAmerica"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Hawaii</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Hawaii</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-us;State"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-us;"/>
    </owl:NamedIndividual>
@@ -840,7 +840,7 @@
       <rdfs:label>Massachusetts</rdfs:label>
       <skos:definition>The state of Massachusetts in the country of United States of America (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;UnitedStatesOfAmerica"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Massachusetts</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Massachusetts</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-us;State"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-us;"/>
    </owl:NamedIndividual>
@@ -870,7 +870,7 @@
       <rdfs:label>Montana</rdfs:label>
       <skos:definition>The state of Montana in the country of United States of America (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;UnitedStatesOfAmerica"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Montana</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Montana</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-us;State"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-us;"/>
    </owl:NamedIndividual>
@@ -900,7 +900,7 @@
       <rdfs:label>North Carolina</rdfs:label>
       <skos:definition>The state of North Carolina in the country of United States of America (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;UnitedStatesOfAmerica"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">North Carolina</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">North Carolina</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-us;State"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-us;"/>
    </owl:NamedIndividual>
@@ -930,7 +930,7 @@
       <rdfs:label>Nebraska</rdfs:label>
       <skos:definition>The state of Nebraska in the country of United States of America (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;UnitedStatesOfAmerica"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Nebraska</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Nebraska</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-us;State"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-us;"/>
    </owl:NamedIndividual>
@@ -960,7 +960,7 @@
       <rdfs:label>New Jersey</rdfs:label>
       <skos:definition>The state of New Jersey in the country of United States of America (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;UnitedStatesOfAmerica"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">New Jersey</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">New Jersey</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-us;State"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-us;"/>
    </owl:NamedIndividual>
@@ -1020,7 +1020,7 @@
       <rdfs:label>Connecticut</rdfs:label>
       <skos:definition>The state of Connecticut in the country of United States of America (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;UnitedStatesOfAmerica"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Connecticut</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Connecticut</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-us;State"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-us;"/>
    </owl:NamedIndividual>
@@ -1050,7 +1050,7 @@
       <rdfs:label>Florida</rdfs:label>
       <skos:definition>The state of Florida in the country of United States of America (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;UnitedStatesOfAmerica"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Florida</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Florida</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-us;State"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-us;"/>
    </owl:NamedIndividual>
@@ -1080,7 +1080,7 @@
       <rdfs:label>Indiana</rdfs:label>
       <skos:definition>The state of Indiana in the country of United States of America (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;UnitedStatesOfAmerica"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Indiana</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Indiana</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-us;State"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-us;"/>
    </owl:NamedIndividual>
@@ -1110,7 +1110,7 @@
       <rdfs:label>Oklahoma</rdfs:label>
       <skos:definition>The state of Oklahoma in the country of United States of America (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;UnitedStatesOfAmerica"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Oklahoma</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Oklahoma</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-us;State"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-us;"/>
    </owl:NamedIndividual>
@@ -1140,7 +1140,7 @@
       <rdfs:label>Utah</rdfs:label>
       <skos:definition>The state of Utah in the country of United States of America (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;UnitedStatesOfAmerica"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Utah</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Utah</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-us;State"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-us;"/>
    </owl:NamedIndividual>
@@ -1170,7 +1170,7 @@
       <rdfs:label>Wisconsin</rdfs:label>
       <skos:definition>The state of Wisconsin in the country of United States of America (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;UnitedStatesOfAmerica"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Wisconsin</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Wisconsin</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-us;State"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-us;"/>
    </owl:NamedIndividual>
@@ -1200,7 +1200,7 @@
       <rdfs:label>West Virginia</rdfs:label>
       <skos:definition>The state of West Virginia in the country of United States of America (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;UnitedStatesOfAmerica"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">West Virginia</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">West Virginia</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-us;State"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-us;"/>
    </owl:NamedIndividual>
@@ -1230,7 +1230,7 @@
       <rdfs:label>Idaho</rdfs:label>
       <skos:definition>The state of Idaho in the country of United States of America (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;UnitedStatesOfAmerica"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Idaho</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Idaho</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-us;State"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-us;"/>
    </owl:NamedIndividual>
@@ -1260,7 +1260,7 @@
       <rdfs:label>Illinois</rdfs:label>
       <skos:definition>The state of Illinois in the country of United States of America (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;UnitedStatesOfAmerica"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Illinois</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Illinois</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-us;State"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-us;"/>
    </owl:NamedIndividual>
@@ -1290,7 +1290,7 @@
       <rdfs:label>Maryland</rdfs:label>
       <skos:definition>The state of Maryland in the country of United States of America (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;UnitedStatesOfAmerica"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Maryland</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Maryland</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-us;State"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-us;"/>
    </owl:NamedIndividual>
@@ -1320,7 +1320,7 @@
       <rdfs:label>Maine</rdfs:label>
       <skos:definition>The state of Maine in the country of United States of America (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;UnitedStatesOfAmerica"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Maine</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Maine</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-us;State"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-us;"/>
    </owl:NamedIndividual>
@@ -1350,7 +1350,7 @@
       <rdfs:label>Missouri</rdfs:label>
       <skos:definition>The state of Missouri in the country of United States of America (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;UnitedStatesOfAmerica"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Missouri</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Missouri</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-us;State"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-us;"/>
    </owl:NamedIndividual>
@@ -1380,7 +1380,7 @@
       <rdfs:label>Mississippi</rdfs:label>
       <skos:definition>The state of Mississippi in the country of United States of America (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;UnitedStatesOfAmerica"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Mississippi</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Mississippi</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-us;State"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-us;"/>
    </owl:NamedIndividual>
@@ -1410,7 +1410,7 @@
       <rdfs:label>New Mexico</rdfs:label>
       <skos:definition>The state of New Mexico in the country of United States of America (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;UnitedStatesOfAmerica"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">New Mexico</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">New Mexico</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-us;State"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-us;"/>
    </owl:NamedIndividual>
@@ -1440,7 +1440,7 @@
       <rdfs:label>Pennsylvania</rdfs:label>
       <skos:definition>The state of Pennsylvania in the country of United States of America (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;UnitedStatesOfAmerica"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Pennsylvania</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Pennsylvania</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-us;State"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-us;"/>
    </owl:NamedIndividual>
@@ -1470,7 +1470,7 @@
       <rdfs:label>Vermont</rdfs:label>
       <skos:definition>The state of Vermont in the country of United States of America (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;UnitedStatesOfAmerica"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Vermont</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Vermont</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-us;State"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-us;"/>
    </owl:NamedIndividual>
@@ -1500,7 +1500,7 @@
       <rdfs:label>Wyoming</rdfs:label>
       <skos:definition>The state of Wyoming in the country of United States of America (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;UnitedStatesOfAmerica"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Wyoming</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Wyoming</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-us;State"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-us;"/>
    </owl:NamedIndividual>
@@ -1530,7 +1530,7 @@
       <rdfs:label>Arizona</rdfs:label>
       <skos:definition>The state of Arizona in the country of United States of America (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;UnitedStatesOfAmerica"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Arizona</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Arizona</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-us;State"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-us;"/>
    </owl:NamedIndividual>
@@ -1560,7 +1560,7 @@
       <rdfs:label>Louisiana</rdfs:label>
       <skos:definition>The state of Louisiana in the country of United States of America (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;UnitedStatesOfAmerica"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Louisiana</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Louisiana</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-us;State"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-us;"/>
    </owl:NamedIndividual>
@@ -1590,7 +1590,7 @@
       <rdfs:label>North Dakota</rdfs:label>
       <skos:definition>The state of North Dakota in the country of United States of America (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;UnitedStatesOfAmerica"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">North Dakota</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">North Dakota</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-us;State"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-us;"/>
    </owl:NamedIndividual>
@@ -1620,7 +1620,7 @@
       <rdfs:label>New Hampshire</rdfs:label>
       <skos:definition>The state of New Hampshire in the country of United States of America (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;UnitedStatesOfAmerica"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">New Hampshire</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">New Hampshire</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-us;State"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-us;"/>
    </owl:NamedIndividual>
@@ -1650,7 +1650,7 @@
       <rdfs:label>Nevada</rdfs:label>
       <skos:definition>The state of Nevada in the country of United States of America (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;UnitedStatesOfAmerica"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Nevada</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Nevada</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-us;State"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-us;"/>
    </owl:NamedIndividual>
@@ -1680,7 +1680,7 @@
       <rdfs:label>Virginia</rdfs:label>
       <skos:definition>The state of Virginia in the country of United States of America (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;UnitedStatesOfAmerica"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Virginia</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Virginia</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-us;State"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-us;"/>
    </owl:NamedIndividual>
@@ -1710,7 +1710,7 @@
       <rdfs:label>Arkansas</rdfs:label>
       <skos:definition>The state of Arkansas in the country of United States of America (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;UnitedStatesOfAmerica"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Arkansas</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Arkansas</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-us;State"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-us;"/>
    </owl:NamedIndividual>
@@ -1740,7 +1740,7 @@
       <rdfs:label>Michigan</rdfs:label>
       <skos:definition>The state of Michigan in the country of United States of America (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;UnitedStatesOfAmerica"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Michigan</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Michigan</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-us;State"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-us;"/>
    </owl:NamedIndividual>
@@ -1800,7 +1800,7 @@
       <rdfs:label>Tennessee</rdfs:label>
       <skos:definition>The state of Tennessee in the country of United States of America (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;UnitedStatesOfAmerica"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Tennessee</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Tennessee</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-us;State"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-us;"/>
    </owl:NamedIndividual>

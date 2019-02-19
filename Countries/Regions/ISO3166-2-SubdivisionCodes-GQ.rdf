@@ -113,9 +113,9 @@
       <rdfs:label>Región Continental</rdfs:label>
       <skos:definition>The region of Región Continental in the country of Equatorial Guinea</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;EquatorialGuinea"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Región Continental</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="pt">Região Continental</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Région Continentale</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Región Continental</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="pt">Região Continental</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Région Continentale</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gq;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gq;"/>
    </owl:NamedIndividual>
@@ -143,9 +143,9 @@
       <rdfs:label>Kié-Ntem</rdfs:label>
       <skos:definition>The province of Kié-Ntem in the country of Equatorial Guinea</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gq;RegionContinental"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Kié-Ntem</lcc-cr:hasFrenchShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="pt">Kié-Ntem</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Kié-Ntem</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Kié-Ntem</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasLocalShortName xml:lang="pt">Kié-Ntem</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Kié-Ntem</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gq;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gq;"/>
    </owl:NamedIndividual>
@@ -175,9 +175,9 @@
       <rdfs:label>Centro Sul</rdfs:label>
       <skos:definition>The province of Centro Sul in the country of Equatorial Guinea</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gq;RegionContinental"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="pt">Centro Sul</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Centro Sud</lcc-cr:hasFrenchShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Centro Sur</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="pt">Centro Sul</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Centro Sud</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Centro Sur</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gq;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gq;"/>
    </owl:NamedIndividual>
@@ -207,9 +207,9 @@
       <rdfs:label>Littoral</rdfs:label>
       <skos:definition>The province of Littoral in the country of Equatorial Guinea</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gq;RegionContinental"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Littoral</lcc-cr:hasFrenchShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="pt">Litoral</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Litoral</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Littoral</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasLocalShortName xml:lang="pt">Litoral</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Litoral</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gq;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gq;"/>
    </owl:NamedIndividual>
@@ -239,9 +239,9 @@
       <rdfs:label>Wele-Nzas</rdfs:label>
       <skos:definition>The province of Wele-Nzas in the country of Equatorial Guinea</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gq;RegionContinental"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Wele-Nzas</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Wele-Nzas</lcc-cr:hasFrenchShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="pt">Wele-Nzas</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Wele-Nzas</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Wele-Nzas</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasLocalShortName xml:lang="pt">Wele-Nzas</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gq;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gq;"/>
    </owl:NamedIndividual>
@@ -273,9 +273,9 @@
       <rdfs:label>Région Insulaire</rdfs:label>
       <skos:definition>The region of Région Insulaire in the country of Equatorial Guinea</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;EquatorialGuinea"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Région Insulaire</lcc-cr:hasFrenchShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Región Insular</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="pt">Região Insular</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Région Insulaire</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Región Insular</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="pt">Região Insular</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gq;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gq;"/>
    </owl:NamedIndividual>
@@ -303,9 +303,9 @@
       <rdfs:label>Annobón</rdfs:label>
       <skos:definition>The province of Annobón in the country of Equatorial Guinea</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gq;RegionInsulaire"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Annobón</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Annobon</lcc-cr:hasFrenchShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="pt">Ano Bom</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Annobón</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Annobon</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasLocalShortName xml:lang="pt">Ano Bom</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gq;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gq;"/>
    </owl:NamedIndividual>
@@ -335,9 +335,9 @@
       <rdfs:label>Bioko Norte</rdfs:label>
       <skos:definition>The province of Bioko Norte in the country of Equatorial Guinea</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gq;RegionInsulaire"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Bioko Norte</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Bioko Nord</lcc-cr:hasFrenchShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="pt">Bioko Norte</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Bioko Norte</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Bioko Nord</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasLocalShortName xml:lang="pt">Bioko Norte</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gq;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gq;"/>
    </owl:NamedIndividual>
@@ -367,9 +367,9 @@
       <rdfs:label>Bioko Sud</rdfs:label>
       <skos:definition>The province of Bioko Sud in the country of Equatorial Guinea</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gq;RegionInsulaire"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Bioko Sud</lcc-cr:hasFrenchShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="pt">Bioko Sul</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Bioko Sur</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Bioko Sud</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasLocalShortName xml:lang="pt">Bioko Sul</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Bioko Sur</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gq;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gq;"/>
    </owl:NamedIndividual>
@@ -401,8 +401,8 @@
       <rdfs:label>Annobón Island</rdfs:label>
       <skos:definition>The territory of Annobón Island in the country of Equatorial Guinea</skos:definition>
       <lcc-cr:hasNumericRegionCode rdf:datatype="&xsd;string">1006</lcc-cr:hasNumericRegionCode>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">l'Île d'Annobón</lcc-cr:hasFrenchShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Annobón Island</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">l'Île d'Annobón</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Annobón Island</lcc-cr:hasEnglishShortName>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;EquatorialGuinea"/>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2;Territory"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gq;"/>
@@ -420,8 +420,8 @@
       <rdfs:label>Bioko Island</rdfs:label>
       <skos:definition>The territory of Bioko Island in the country of Equatorial Guinea</skos:definition>
       <lcc-cr:hasNumericRegionCode rdf:datatype="&xsd;string">1023</lcc-cr:hasNumericRegionCode>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">l'Île de Bioko</lcc-cr:hasFrenchShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Bioko Island</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">l'Île de Bioko</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Bioko Island</lcc-cr:hasEnglishShortName>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;EquatorialGuinea"/>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2;Territory"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gq;"/>
@@ -439,8 +439,8 @@
       <rdfs:label>Continental Region (Rio Muni)</rdfs:label>
       <skos:definition>The territory of Continental Region (Rio Muni) in the country of Equatorial Guinea</skos:definition>
       <lcc-cr:hasNumericRegionCode rdf:datatype="&xsd;string">1045</lcc-cr:hasNumericRegionCode>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Région Continentale (Rio Muni)</lcc-cr:hasFrenchShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Continental Region (Rio Muni)</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Région Continentale (Rio Muni)</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Continental Region (Rio Muni)</lcc-cr:hasEnglishShortName>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;EquatorialGuinea"/>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2;Territory"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gq;"/>
@@ -458,8 +458,8 @@
       <rdfs:label>Rio Muni</rdfs:label>
       <skos:definition>The territory of Rio Muni in the country of Equatorial Guinea</skos:definition>
       <lcc-cr:hasNumericRegionCode rdf:datatype="&xsd;string">1158</lcc-cr:hasNumericRegionCode>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Rio Muni</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Rio Muni</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Rio Muni</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Rio Muni</lcc-cr:hasFrenchShortName>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;EquatorialGuinea"/>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2;Territory"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gq;"/>

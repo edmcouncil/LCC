@@ -113,9 +113,9 @@
       <rdfs:label>Northern</rdfs:label>
       <skos:definition>The province of Northern in the country of Rwanda</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Rwanda"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="rw">Amajyaruguru</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Nord</lcc-cr:hasFrenchShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Northern</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="rw">Amajyaruguru</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Nord</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Northern</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-rw;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-rw;"/>
    </owl:NamedIndividual>
@@ -145,9 +145,9 @@
       <rdfs:label>City of Kigali</rdfs:label>
       <skos:definition>The city of City of Kigali in the country of Rwanda</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Rwanda"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="rw">Umujyi wa Kigali</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Ville de Kigali</lcc-cr:hasFrenchShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">City of Kigali</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="rw">Umujyi wa Kigali</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Ville de Kigali</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">City of Kigali</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-rw;City"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-rw;"/>
    </owl:NamedIndividual>
@@ -177,9 +177,9 @@
       <rdfs:label>Eastern</rdfs:label>
       <skos:definition>The province of Eastern in the country of Rwanda</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Rwanda"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="rw">Iburasirazuba</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Est</lcc-cr:hasFrenchShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Eastern</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="rw">Iburasirazuba</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Est</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Eastern</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-rw;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-rw;"/>
    </owl:NamedIndividual>
@@ -209,9 +209,9 @@
       <rdfs:label>Western</rdfs:label>
       <skos:definition>The province of Western in the country of Rwanda</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Rwanda"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Western</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="rw">Iburengerazuba</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Ouest</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Western</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="rw">Iburengerazuba</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Ouest</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-rw;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-rw;"/>
    </owl:NamedIndividual>
@@ -241,9 +241,9 @@
       <rdfs:label>Southern</rdfs:label>
       <skos:definition>The province of Southern in the country of Rwanda</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Rwanda"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="rw">Amajyepfo</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Southern</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Sud</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasLocalShortName xml:lang="rw">Amajyepfo</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Southern</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Sud</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-rw;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-rw;"/>
    </owl:NamedIndividual>

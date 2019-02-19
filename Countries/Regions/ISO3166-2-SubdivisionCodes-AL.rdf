@@ -106,7 +106,7 @@
       <rdfs:label>Fier</rdfs:label>
       <skos:definition>The county of Fier in the country of Albania</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Albania"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sq">Fier</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sq">Fier</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-al;County"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-al;"/>
    </owl:NamedIndividual>
@@ -136,7 +136,7 @@
       <rdfs:label>Tiranë</rdfs:label>
       <skos:definition>The county of Tiranë in the country of Albania</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Albania"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sq">Tiranë</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sq">Tiranë</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-al;County"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-al;"/>
    </owl:NamedIndividual>
@@ -166,7 +166,7 @@
       <rdfs:label>Vlorë</rdfs:label>
       <skos:definition>The county of Vlorë in the country of Albania</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Albania"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sq">Vlorë</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sq">Vlorë</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-al;County"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-al;"/>
    </owl:NamedIndividual>
@@ -196,7 +196,7 @@
       <rdfs:label>Elbasan</rdfs:label>
       <skos:definition>The county of Elbasan in the country of Albania</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Albania"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sq">Elbasan</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sq">Elbasan</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-al;County"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-al;"/>
    </owl:NamedIndividual>
@@ -226,7 +226,7 @@
       <rdfs:label>Dibër</rdfs:label>
       <skos:definition>The county of Dibër in the country of Albania</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Albania"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sq">Dibër</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sq">Dibër</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-al;County"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-al;"/>
    </owl:NamedIndividual>
@@ -256,7 +256,7 @@
       <rdfs:label>Berat</rdfs:label>
       <skos:definition>The county of Berat in the country of Albania</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Albania"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sq">Berat</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sq">Berat</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-al;County"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-al;"/>
    </owl:NamedIndividual>
@@ -286,7 +286,7 @@
       <rdfs:label>Durrës</rdfs:label>
       <skos:definition>The county of Durrës in the country of Albania</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Albania"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sq">Durrës</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sq">Durrës</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-al;County"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-al;"/>
    </owl:NamedIndividual>
@@ -316,7 +316,7 @@
       <rdfs:label>Lezhë</rdfs:label>
       <skos:definition>The county of Lezhë in the country of Albania</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Albania"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sq">Lezhë</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sq">Lezhë</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-al;County"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-al;"/>
    </owl:NamedIndividual>
@@ -346,7 +346,7 @@
       <rdfs:label>Shkodër</rdfs:label>
       <skos:definition>The county of Shkodër in the country of Albania</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Albania"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sq">Shkodër</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sq">Shkodër</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-al;County"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-al;"/>
    </owl:NamedIndividual>
@@ -376,7 +376,7 @@
       <rdfs:label>Gjirokastër</rdfs:label>
       <skos:definition>The county of Gjirokastër in the country of Albania</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Albania"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sq">Gjirokastër</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sq">Gjirokastër</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-al;County"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-al;"/>
    </owl:NamedIndividual>
@@ -406,7 +406,7 @@
       <rdfs:label>Korçë</rdfs:label>
       <skos:definition>The county of Korçë in the country of Albania</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Albania"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sq">Korçë</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sq">Korçë</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-al;County"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-al;"/>
    </owl:NamedIndividual>
@@ -436,7 +436,7 @@
       <rdfs:label>Kukës</rdfs:label>
       <skos:definition>The county of Kukës in the country of Albania</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Albania"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sq">Kukës</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sq">Kukës</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-al;County"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-al;"/>
    </owl:NamedIndividual>

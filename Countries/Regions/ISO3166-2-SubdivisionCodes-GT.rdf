@@ -106,7 +106,7 @@
       <rdfs:label>Chimaltenango</rdfs:label>
       <skos:definition>The department of Chimaltenango in the country of Guatemala</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Guatemala"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Chimaltenango</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Chimaltenango</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gt;Department"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gt;"/>
    </owl:NamedIndividual>
@@ -136,7 +136,7 @@
       <rdfs:label>Escuintla</rdfs:label>
       <skos:definition>The department of Escuintla in the country of Guatemala</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Guatemala"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Escuintla</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Escuintla</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gt;Department"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gt;"/>
    </owl:NamedIndividual>
@@ -166,7 +166,7 @@
       <rdfs:label>Izabal</rdfs:label>
       <skos:definition>The department of Izabal in the country of Guatemala</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Guatemala"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Izabal</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Izabal</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gt;Department"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gt;"/>
    </owl:NamedIndividual>
@@ -196,7 +196,7 @@
       <rdfs:label>Petén</rdfs:label>
       <skos:definition>The department of Petén in the country of Guatemala</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Guatemala"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Petén</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Petén</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gt;Department"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gt;"/>
    </owl:NamedIndividual>
@@ -226,7 +226,7 @@
       <rdfs:label>Totonicapán</rdfs:label>
       <skos:definition>The department of Totonicapán in the country of Guatemala</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Guatemala"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Totonicapán</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Totonicapán</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gt;Department"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gt;"/>
    </owl:NamedIndividual>
@@ -256,7 +256,7 @@
       <rdfs:label>Guatemala</rdfs:label>
       <skos:definition>The department of Guatemala in the country of Guatemala</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Guatemala"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Guatemala</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Guatemala</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gt;Department"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gt;"/>
    </owl:NamedIndividual>
@@ -286,7 +286,7 @@
       <rdfs:label>Zacapa</rdfs:label>
       <skos:definition>The department of Zacapa in the country of Guatemala</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Guatemala"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Zacapa</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Zacapa</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gt;Department"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gt;"/>
    </owl:NamedIndividual>
@@ -316,7 +316,7 @@
       <rdfs:label>Quetzaltenango</rdfs:label>
       <skos:definition>The department of Quetzaltenango in the country of Guatemala</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Guatemala"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Quetzaltenango</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Quetzaltenango</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gt;Department"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gt;"/>
    </owl:NamedIndividual>
@@ -346,7 +346,7 @@
       <rdfs:label>Retalhuleu</rdfs:label>
       <skos:definition>The department of Retalhuleu in the country of Guatemala</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Guatemala"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Retalhuleu</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Retalhuleu</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gt;Department"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gt;"/>
    </owl:NamedIndividual>
@@ -376,7 +376,7 @@
       <rdfs:label>Huehuetenango</rdfs:label>
       <skos:definition>The department of Huehuetenango in the country of Guatemala</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Guatemala"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Huehuetenango</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Huehuetenango</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gt;Department"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gt;"/>
    </owl:NamedIndividual>
@@ -406,7 +406,7 @@
       <rdfs:label>Sololá</rdfs:label>
       <skos:definition>The department of Sololá in the country of Guatemala</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Guatemala"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Sololá</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Sololá</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gt;Department"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gt;"/>
    </owl:NamedIndividual>
@@ -436,7 +436,7 @@
       <rdfs:label>Santa Rosa</rdfs:label>
       <skos:definition>The department of Santa Rosa in the country of Guatemala</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Guatemala"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Santa Rosa</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Santa Rosa</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gt;Department"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gt;"/>
    </owl:NamedIndividual>
@@ -466,7 +466,7 @@
       <rdfs:label>Suchitepéquez</rdfs:label>
       <skos:definition>The department of Suchitepéquez in the country of Guatemala</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Guatemala"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Suchitepéquez</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Suchitepéquez</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gt;Department"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gt;"/>
    </owl:NamedIndividual>
@@ -496,7 +496,7 @@
       <rdfs:label>El Progreso</rdfs:label>
       <skos:definition>The department of El Progreso in the country of Guatemala</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Guatemala"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">El Progreso</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">El Progreso</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gt;Department"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gt;"/>
    </owl:NamedIndividual>
@@ -526,7 +526,7 @@
       <rdfs:label>Jalapa</rdfs:label>
       <skos:definition>The department of Jalapa in the country of Guatemala</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Guatemala"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Jalapa</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Jalapa</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gt;Department"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gt;"/>
    </owl:NamedIndividual>
@@ -556,7 +556,7 @@
       <rdfs:label>Jutiapa</rdfs:label>
       <skos:definition>The department of Jutiapa in the country of Guatemala</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Guatemala"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Jutiapa</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Jutiapa</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gt;Department"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gt;"/>
    </owl:NamedIndividual>
@@ -586,7 +586,7 @@
       <rdfs:label>Sacatepéquez</rdfs:label>
       <skos:definition>The department of Sacatepéquez in the country of Guatemala</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Guatemala"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Sacatepéquez</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Sacatepéquez</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gt;Department"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gt;"/>
    </owl:NamedIndividual>
@@ -616,7 +616,7 @@
       <rdfs:label>San Marcos</rdfs:label>
       <skos:definition>The department of San Marcos in the country of Guatemala</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Guatemala"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">San Marcos</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">San Marcos</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gt;Department"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gt;"/>
    </owl:NamedIndividual>
@@ -646,7 +646,7 @@
       <rdfs:label>Chiquimula</rdfs:label>
       <skos:definition>The department of Chiquimula in the country of Guatemala</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Guatemala"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Chiquimula</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Chiquimula</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gt;Department"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gt;"/>
    </owl:NamedIndividual>
@@ -676,7 +676,7 @@
       <rdfs:label>Quiché</rdfs:label>
       <skos:definition>The department of Quiché in the country of Guatemala</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Guatemala"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Quiché</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Quiché</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gt;Department"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gt;"/>
    </owl:NamedIndividual>
@@ -706,7 +706,7 @@
       <rdfs:label>Alta Verapaz</rdfs:label>
       <skos:definition>The department of Alta Verapaz in the country of Guatemala</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Guatemala"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Alta Verapaz</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Alta Verapaz</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gt;Department"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gt;"/>
    </owl:NamedIndividual>
@@ -736,7 +736,7 @@
       <rdfs:label>Baja Verapaz</rdfs:label>
       <skos:definition>The department of Baja Verapaz in the country of Guatemala</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Guatemala"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Baja Verapaz</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Baja Verapaz</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gt;Department"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gt;"/>
    </owl:NamedIndividual>

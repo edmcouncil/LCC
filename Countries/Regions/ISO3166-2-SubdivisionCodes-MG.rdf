@@ -106,7 +106,7 @@
       <rdfs:label>Toliara</rdfs:label>
       <skos:definition>The province of Toliara in the country of Madagascar</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Madagascar"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="mg">Toliara</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="mg">Toliara</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mg;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mg;"/>
    </owl:NamedIndividual>
@@ -136,7 +136,7 @@
       <rdfs:label>Antananarivo</rdfs:label>
       <skos:definition>The province of Antananarivo in the country of Madagascar</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Madagascar"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="mg">Antananarivo</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="mg">Antananarivo</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mg;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mg;"/>
    </owl:NamedIndividual>
@@ -166,7 +166,7 @@
       <rdfs:label>Toamasina</rdfs:label>
       <skos:definition>The province of Toamasina in the country of Madagascar</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Madagascar"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="mg">Toamasina</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="mg">Toamasina</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mg;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mg;"/>
    </owl:NamedIndividual>
@@ -196,7 +196,7 @@
       <rdfs:label>Fianarantsoa</rdfs:label>
       <skos:definition>The province of Fianarantsoa in the country of Madagascar</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Madagascar"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="mg">Fianarantsoa</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="mg">Fianarantsoa</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mg;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mg;"/>
    </owl:NamedIndividual>
@@ -226,7 +226,7 @@
       <rdfs:label>Mahajanga</rdfs:label>
       <skos:definition>The province of Mahajanga in the country of Madagascar</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Madagascar"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="mg">Mahajanga</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="mg">Mahajanga</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mg;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mg;"/>
    </owl:NamedIndividual>
@@ -256,7 +256,7 @@
       <rdfs:label>Antsiranana</rdfs:label>
       <skos:definition>The province of Antsiranana in the country of Madagascar</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Madagascar"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="mg">Antsiranana</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="mg">Antsiranana</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mg;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mg;"/>
    </owl:NamedIndividual>

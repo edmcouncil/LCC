@@ -113,8 +113,8 @@
       <rdfs:label>Trøndelag</rdfs:label>
       <skos:definition>The county of Trøndelag in the country of Norway</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Norway"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="nn">Trøndelag</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="nb">Trøndelag</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="nn">Trøndelag</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="nb">Trøndelag</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-no;County"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-no;"/>
    </owl:NamedIndividual>
@@ -144,8 +144,8 @@
       <rdfs:label>Hedmark</rdfs:label>
       <skos:definition>The county of Hedmark in the country of Norway</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Norway"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="nn">Hedmark</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="nb">Hedmark</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="nn">Hedmark</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="nb">Hedmark</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-no;County"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-no;"/>
    </owl:NamedIndividual>
@@ -175,8 +175,8 @@
       <rdfs:label>Hordaland</rdfs:label>
       <skos:definition>The county of Hordaland in the country of Norway</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Norway"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="nn">Hordaland</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="nb">Hordaland</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="nn">Hordaland</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="nb">Hordaland</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-no;County"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-no;"/>
    </owl:NamedIndividual>
@@ -206,8 +206,8 @@
       <rdfs:label>Sogn og Fjordane</rdfs:label>
       <skos:definition>The county of Sogn og Fjordane in the country of Norway</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Norway"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="nb">Sogn og Fjordane</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="nn">Sogn og Fjordane</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="nb">Sogn og Fjordane</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="nn">Sogn og Fjordane</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-no;County"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-no;"/>
    </owl:NamedIndividual>
@@ -237,8 +237,8 @@
       <rdfs:label>Jan Mayen (Arctic Region) (see also separate country code entry under SJ)</rdfs:label>
       <skos:definition>The arctic region of Jan Mayen (Arctic Region) (see also separate country code entry under SJ) in the country of Norway</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Norway"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="nb">Jan Mayen (Arctic Region) (see also separate country code entry under SJ)</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="nn">Jan Mayen (Arctic Region) (see also separate country code entry under SJ)</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="nb">Jan Mayen (Arctic Region) (see also separate country code entry under SJ)</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="nn">Jan Mayen (Arctic Region) (see also separate country code entry under SJ)</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-no;ArcticRegion"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-no;"/>
    </owl:NamedIndividual>
@@ -268,8 +268,8 @@
       <rdfs:label>Akershus</rdfs:label>
       <skos:definition>The county of Akershus in the country of Norway</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Norway"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="nn">Akershus</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="nb">Akershus</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="nn">Akershus</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="nb">Akershus</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-no;County"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-no;"/>
    </owl:NamedIndividual>
@@ -299,8 +299,8 @@
       <rdfs:label>Oslo</rdfs:label>
       <skos:definition>The county of Oslo in the country of Norway</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Norway"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="nb">Oslo</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="nn">Oslo</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="nb">Oslo</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="nn">Oslo</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-no;County"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-no;"/>
    </owl:NamedIndividual>
@@ -330,8 +330,8 @@
       <rdfs:label>Oppland</rdfs:label>
       <skos:definition>The county of Oppland in the country of Norway</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Norway"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="nb">Oppland</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="nn">Oppland</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="nb">Oppland</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="nn">Oppland</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-no;County"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-no;"/>
    </owl:NamedIndividual>
@@ -361,8 +361,8 @@
       <rdfs:label>Vestfold</rdfs:label>
       <skos:definition>The county of Vestfold in the country of Norway</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Norway"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="nn">Vestfold</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="nb">Vestfold</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="nn">Vestfold</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="nb">Vestfold</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-no;County"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-no;"/>
    </owl:NamedIndividual>
@@ -392,9 +392,9 @@
       <rdfs:label>Finnmárku</rdfs:label>
       <skos:definition>The county of Finnmárku in the country of Norway</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Norway"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="se">Finnmárku</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="nn">Finnmark</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="nb">Finnmark</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="se">Finnmárku</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="nn">Finnmark</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="nb">Finnmark</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-no;County"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-no;"/>
    </owl:NamedIndividual>
@@ -424,8 +424,8 @@
       <rdfs:label>Østfold</rdfs:label>
       <skos:definition>The county of Østfold in the country of Norway</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Norway"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="nn">Østfold</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="nb">Østfold</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="nn">Østfold</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="nb">Østfold</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-no;County"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-no;"/>
    </owl:NamedIndividual>
@@ -455,8 +455,8 @@
       <rdfs:label>Vest-Agder</rdfs:label>
       <skos:definition>The county of Vest-Agder in the country of Norway</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Norway"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="nn">Vest-Agder</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="nb">Vest-Agder</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="nn">Vest-Agder</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="nb">Vest-Agder</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-no;County"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-no;"/>
    </owl:NamedIndividual>
@@ -486,9 +486,9 @@
       <rdfs:label>Romsa</rdfs:label>
       <skos:definition>The county of Romsa in the country of Norway</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Norway"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="se">Romsa</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="nb">Troms</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="nn">Troms</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="se">Romsa</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="nb">Troms</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="nn">Troms</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-no;County"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-no;"/>
    </owl:NamedIndividual>
@@ -518,8 +518,8 @@
       <rdfs:label>Telemark</rdfs:label>
       <skos:definition>The county of Telemark in the country of Norway</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Norway"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="nn">Telemark</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="nb">Telemark</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="nn">Telemark</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="nb">Telemark</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-no;County"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-no;"/>
    </owl:NamedIndividual>
@@ -549,8 +549,8 @@
       <rdfs:label>Buskerud</rdfs:label>
       <skos:definition>The county of Buskerud in the country of Norway</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Norway"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="nb">Buskerud</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="nn">Buskerud</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="nb">Buskerud</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="nn">Buskerud</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-no;County"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-no;"/>
    </owl:NamedIndividual>
@@ -580,8 +580,8 @@
       <rdfs:label>Aust-Agder</rdfs:label>
       <skos:definition>The county of Aust-Agder in the country of Norway</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Norway"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="nn">Aust-Agder</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="nb">Aust-Agder</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="nn">Aust-Agder</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="nb">Aust-Agder</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-no;County"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-no;"/>
    </owl:NamedIndividual>
@@ -611,8 +611,8 @@
       <rdfs:label>Svalbard (Arctic Region) (see also separate country code entry under SJ)</rdfs:label>
       <skos:definition>The arctic region of Svalbard (Arctic Region) (see also separate country code entry under SJ) in the country of Norway</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Norway"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="nn">Svalbard (Arctic Region) (see also separate country code entry under SJ)</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="nb">Svalbard (Arctic Region) (see also separate country code entry under SJ)</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="nn">Svalbard (Arctic Region) (see also separate country code entry under SJ)</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="nb">Svalbard (Arctic Region) (see also separate country code entry under SJ)</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-no;ArcticRegion"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-no;"/>
    </owl:NamedIndividual>
@@ -642,8 +642,8 @@
       <rdfs:label>Nordland</rdfs:label>
       <skos:definition>The county of Nordland in the country of Norway</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Norway"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="nn">Nordland</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="nb">Nordland</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="nn">Nordland</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="nb">Nordland</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-no;County"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-no;"/>
    </owl:NamedIndividual>
@@ -673,8 +673,8 @@
       <rdfs:label>Rogaland</rdfs:label>
       <skos:definition>The county of Rogaland in the country of Norway</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Norway"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="nn">Rogaland</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="nb">Rogaland</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="nn">Rogaland</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="nb">Rogaland</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-no;County"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-no;"/>
    </owl:NamedIndividual>
@@ -704,8 +704,8 @@
       <rdfs:label>Møre og Romsdal</rdfs:label>
       <skos:definition>The county of Møre og Romsdal in the country of Norway</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Norway"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="nb">Møre og Romsdal</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="nn">Møre og Romsdal</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="nb">Møre og Romsdal</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="nn">Møre og Romsdal</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-no;County"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-no;"/>
    </owl:NamedIndividual>
