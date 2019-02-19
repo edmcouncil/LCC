@@ -168,7 +168,7 @@
     //
     ///////////////////////////////////////////////////////////////////////////////////////
     -->
-   <owl:NamedIndividual rdf:about="&lcc-3166-2-sb;CapitalTerritory">
+   <owl:NamedIndividual rdf:about="&lcc-3166-2-sb;CapitalTerritoryHoniara">
       <rdf:type rdf:resource="&lcc-cr;CountrySubdivision"/>
       <rdfs:label>Capital Territory (Honiara)</rdfs:label>
       <skos:definition>The capital territory of Capital Territory (Honiara) in the country of Solomon Islands</skos:definition>
