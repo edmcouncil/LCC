@@ -106,7 +106,7 @@
       <rdfs:label>Bolu</rdfs:label>
       <skos:definition>The province of Bolu in the country of Turkey</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Turkey"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="tr">Bolu</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="tr">Bolu</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-tr;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-tr;"/>
    </owl:NamedIndividual>
@@ -136,7 +136,7 @@
       <rdfs:label>Kayseri</rdfs:label>
       <skos:definition>The province of Kayseri in the country of Turkey</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Turkey"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="tr">Kayseri</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="tr">Kayseri</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-tr;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-tr;"/>
    </owl:NamedIndividual>
@@ -166,7 +166,7 @@
       <rdfs:label>Kocaeli</rdfs:label>
       <skos:definition>The province of Kocaeli in the country of Turkey</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Turkey"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="tr">Kocaeli</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="tr">Kocaeli</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-tr;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-tr;"/>
    </owl:NamedIndividual>
@@ -196,7 +196,7 @@
       <rdfs:label>Malatya</rdfs:label>
       <skos:definition>The province of Malatya in the country of Turkey</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Turkey"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="tr">Malatya</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="tr">Malatya</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-tr;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-tr;"/>
    </owl:NamedIndividual>
@@ -226,7 +226,7 @@
       <rdfs:label>Sivas</rdfs:label>
       <skos:definition>The province of Sivas in the country of Turkey</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Turkey"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="tr">Sivas</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="tr">Sivas</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-tr;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-tr;"/>
    </owl:NamedIndividual>
@@ -256,7 +256,7 @@
       <rdfs:label>Aksaray</rdfs:label>
       <skos:definition>The province of Aksaray in the country of Turkey</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Turkey"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="tr">Aksaray</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="tr">Aksaray</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-tr;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-tr;"/>
    </owl:NamedIndividual>
@@ -286,7 +286,7 @@
       <rdfs:label>Kırıkkale</rdfs:label>
       <skos:definition>The province of Kırıkkale in the country of Turkey</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Turkey"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="tr">Kırıkkale</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="tr">Kırıkkale</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-tr;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-tr;"/>
    </owl:NamedIndividual>
@@ -316,7 +316,7 @@
       <rdfs:label>Şırnak</rdfs:label>
       <skos:definition>The province of Şırnak in the country of Turkey</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Turkey"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="tr">Şırnak</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="tr">Şırnak</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-tr;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-tr;"/>
    </owl:NamedIndividual>
@@ -346,7 +346,7 @@
       <rdfs:label>İstanbul</rdfs:label>
       <skos:definition>The province of İstanbul in the country of Turkey</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Turkey"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="tr">İstanbul</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="tr">İstanbul</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-tr;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-tr;"/>
    </owl:NamedIndividual>
@@ -376,7 +376,7 @@
       <rdfs:label>Mardin</rdfs:label>
       <skos:definition>The province of Mardin in the country of Turkey</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Turkey"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="tr">Mardin</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="tr">Mardin</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-tr;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-tr;"/>
    </owl:NamedIndividual>
@@ -406,7 +406,7 @@
       <rdfs:label>Muş</rdfs:label>
       <skos:definition>The province of Muş in the country of Turkey</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Turkey"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="tr">Muş</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="tr">Muş</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-tr;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-tr;"/>
    </owl:NamedIndividual>
@@ -436,7 +436,7 @@
       <rdfs:label>Sinop</rdfs:label>
       <skos:definition>The province of Sinop in the country of Turkey</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Turkey"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="tr">Sinop</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="tr">Sinop</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-tr;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-tr;"/>
    </owl:NamedIndividual>
@@ -466,7 +466,7 @@
       <rdfs:label>Yozgat</rdfs:label>
       <skos:definition>The province of Yozgat in the country of Turkey</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Turkey"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="tr">Yozgat</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="tr">Yozgat</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-tr;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-tr;"/>
    </owl:NamedIndividual>
@@ -496,7 +496,7 @@
       <rdfs:label>Bayburt</rdfs:label>
       <skos:definition>The province of Bayburt in the country of Turkey</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Turkey"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="tr">Bayburt</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="tr">Bayburt</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-tr;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-tr;"/>
    </owl:NamedIndividual>
@@ -526,7 +526,7 @@
       <rdfs:label>Ardahan</rdfs:label>
       <skos:definition>The province of Ardahan in the country of Turkey</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Turkey"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="tr">Ardahan</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="tr">Ardahan</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-tr;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-tr;"/>
    </owl:NamedIndividual>
@@ -556,7 +556,7 @@
       <rdfs:label>Yalova</rdfs:label>
       <skos:definition>The province of Yalova in the country of Turkey</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Turkey"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="tr">Yalova</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="tr">Yalova</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-tr;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-tr;"/>
    </owl:NamedIndividual>
@@ -586,7 +586,7 @@
       <rdfs:label>Karabük</rdfs:label>
       <skos:definition>The province of Karabük in the country of Turkey</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Turkey"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="tr">Karabük</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="tr">Karabük</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-tr;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-tr;"/>
    </owl:NamedIndividual>
@@ -616,7 +616,7 @@
       <rdfs:label>Afyonkarahisar</rdfs:label>
       <skos:definition>The province of Afyonkarahisar in the country of Turkey</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Turkey"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="tr">Afyonkarahisar</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="tr">Afyonkarahisar</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-tr;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-tr;"/>
    </owl:NamedIndividual>
@@ -646,7 +646,7 @@
       <rdfs:label>Artvin</rdfs:label>
       <skos:definition>The province of Artvin in the country of Turkey</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Turkey"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="tr">Artvin</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="tr">Artvin</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-tr;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-tr;"/>
    </owl:NamedIndividual>
@@ -676,7 +676,7 @@
       <rdfs:label>Burdur</rdfs:label>
       <skos:definition>The province of Burdur in the country of Turkey</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Turkey"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="tr">Burdur</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="tr">Burdur</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-tr;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-tr;"/>
    </owl:NamedIndividual>
@@ -706,7 +706,7 @@
       <rdfs:label>Edirne</rdfs:label>
       <skos:definition>The province of Edirne in the country of Turkey</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Turkey"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="tr">Edirne</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="tr">Edirne</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-tr;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-tr;"/>
    </owl:NamedIndividual>
@@ -736,7 +736,7 @@
       <rdfs:label>Erzurum</rdfs:label>
       <skos:definition>The province of Erzurum in the country of Turkey</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Turkey"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="tr">Erzurum</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="tr">Erzurum</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-tr;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-tr;"/>
    </owl:NamedIndividual>
@@ -766,7 +766,7 @@
       <rdfs:label>Gaziantep</rdfs:label>
       <skos:definition>The province of Gaziantep in the country of Turkey</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Turkey"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="tr">Gaziantep</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="tr">Gaziantep</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-tr;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-tr;"/>
    </owl:NamedIndividual>
@@ -796,7 +796,7 @@
       <rdfs:label>Gümüşhane</rdfs:label>
       <skos:definition>The province of Gümüşhane in the country of Turkey</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Turkey"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="tr">Gümüşhane</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="tr">Gümüşhane</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-tr;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-tr;"/>
    </owl:NamedIndividual>
@@ -826,7 +826,7 @@
       <rdfs:label>Kırşehir</rdfs:label>
       <skos:definition>The province of Kırşehir in the country of Turkey</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Turkey"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="tr">Kırşehir</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="tr">Kırşehir</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-tr;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-tr;"/>
    </owl:NamedIndividual>
@@ -856,7 +856,7 @@
       <rdfs:label>Manisa</rdfs:label>
       <skos:definition>The province of Manisa in the country of Turkey</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Turkey"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="tr">Manisa</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="tr">Manisa</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-tr;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-tr;"/>
    </owl:NamedIndividual>
@@ -886,7 +886,7 @@
       <rdfs:label>Siirt</rdfs:label>
       <skos:definition>The province of Siirt in the country of Turkey</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Turkey"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="tr">Siirt</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="tr">Siirt</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-tr;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-tr;"/>
    </owl:NamedIndividual>
@@ -916,7 +916,7 @@
       <rdfs:label>Zonguldak</rdfs:label>
       <skos:definition>The province of Zonguldak in the country of Turkey</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Turkey"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="tr">Zonguldak</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="tr">Zonguldak</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-tr;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-tr;"/>
    </owl:NamedIndividual>
@@ -946,7 +946,7 @@
       <rdfs:label>Karaman</rdfs:label>
       <skos:definition>The province of Karaman in the country of Turkey</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Turkey"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="tr">Karaman</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="tr">Karaman</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-tr;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-tr;"/>
    </owl:NamedIndividual>
@@ -976,7 +976,7 @@
       <rdfs:label>Adıyaman</rdfs:label>
       <skos:definition>The province of Adıyaman in the country of Turkey</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Turkey"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="tr">Adıyaman</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="tr">Adıyaman</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-tr;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-tr;"/>
    </owl:NamedIndividual>
@@ -1006,7 +1006,7 @@
       <rdfs:label>Amasya</rdfs:label>
       <skos:definition>The province of Amasya in the country of Turkey</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Turkey"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="tr">Amasya</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="tr">Amasya</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-tr;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-tr;"/>
    </owl:NamedIndividual>
@@ -1036,7 +1036,7 @@
       <rdfs:label>Bilecik</rdfs:label>
       <skos:definition>The province of Bilecik in the country of Turkey</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Turkey"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="tr">Bilecik</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="tr">Bilecik</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-tr;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-tr;"/>
    </owl:NamedIndividual>
@@ -1066,7 +1066,7 @@
       <rdfs:label>Bitlis</rdfs:label>
       <skos:definition>The province of Bitlis in the country of Turkey</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Turkey"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="tr">Bitlis</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="tr">Bitlis</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-tr;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-tr;"/>
    </owl:NamedIndividual>
@@ -1096,7 +1096,7 @@
       <rdfs:label>Çanakkale</rdfs:label>
       <skos:definition>The province of Çanakkale in the country of Turkey</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Turkey"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="tr">Çanakkale</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="tr">Çanakkale</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-tr;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-tr;"/>
    </owl:NamedIndividual>
@@ -1126,7 +1126,7 @@
       <rdfs:label>Kütahya</rdfs:label>
       <skos:definition>The province of Kütahya in the country of Turkey</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Turkey"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="tr">Kütahya</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="tr">Kütahya</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-tr;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-tr;"/>
    </owl:NamedIndividual>
@@ -1156,7 +1156,7 @@
       <rdfs:label>Ordu</rdfs:label>
       <skos:definition>The province of Ordu in the country of Turkey</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Turkey"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="tr">Ordu</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="tr">Ordu</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-tr;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-tr;"/>
    </owl:NamedIndividual>
@@ -1186,7 +1186,7 @@
       <rdfs:label>Tokat</rdfs:label>
       <skos:definition>The province of Tokat in the country of Turkey</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Turkey"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="tr">Tokat</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="tr">Tokat</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-tr;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-tr;"/>
    </owl:NamedIndividual>
@@ -1216,7 +1216,7 @@
       <rdfs:label>Trabzon</rdfs:label>
       <skos:definition>The province of Trabzon in the country of Turkey</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Turkey"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="tr">Trabzon</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="tr">Trabzon</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-tr;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-tr;"/>
    </owl:NamedIndividual>
@@ -1246,7 +1246,7 @@
       <rdfs:label>Tunceli</rdfs:label>
       <skos:definition>The province of Tunceli in the country of Turkey</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Turkey"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="tr">Tunceli</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="tr">Tunceli</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-tr;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-tr;"/>
    </owl:NamedIndividual>
@@ -1276,7 +1276,7 @@
       <rdfs:label>Osmaniye</rdfs:label>
       <skos:definition>The province of Osmaniye in the country of Turkey</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Turkey"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="tr">Osmaniye</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="tr">Osmaniye</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-tr;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-tr;"/>
    </owl:NamedIndividual>
@@ -1306,7 +1306,7 @@
       <rdfs:label>Balıkesir</rdfs:label>
       <skos:definition>The province of Balıkesir in the country of Turkey</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Turkey"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="tr">Balıkesir</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="tr">Balıkesir</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-tr;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-tr;"/>
    </owl:NamedIndividual>
@@ -1336,7 +1336,7 @@
       <rdfs:label>Çankırı</rdfs:label>
       <skos:definition>The province of Çankırı in the country of Turkey</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Turkey"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="tr">Çankırı</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="tr">Çankırı</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-tr;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-tr;"/>
    </owl:NamedIndividual>
@@ -1366,7 +1366,7 @@
       <rdfs:label>Hakkâri</rdfs:label>
       <skos:definition>The province of Hakkâri in the country of Turkey</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Turkey"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="tr">Hakkâri</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="tr">Hakkâri</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-tr;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-tr;"/>
    </owl:NamedIndividual>
@@ -1396,7 +1396,7 @@
       <rdfs:label>Hatay</rdfs:label>
       <skos:definition>The province of Hatay in the country of Turkey</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Turkey"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="tr">Hatay</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="tr">Hatay</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-tr;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-tr;"/>
    </owl:NamedIndividual>
@@ -1426,7 +1426,7 @@
       <rdfs:label>Isparta</rdfs:label>
       <skos:definition>The province of Isparta in the country of Turkey</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Turkey"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="tr">Isparta</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="tr">Isparta</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-tr;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-tr;"/>
    </owl:NamedIndividual>
@@ -1456,7 +1456,7 @@
       <rdfs:label>İzmir</rdfs:label>
       <skos:definition>The province of İzmir in the country of Turkey</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Turkey"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="tr">İzmir</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="tr">İzmir</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-tr;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-tr;"/>
    </owl:NamedIndividual>
@@ -1486,7 +1486,7 @@
       <rdfs:label>Kastamonu</rdfs:label>
       <skos:definition>The province of Kastamonu in the country of Turkey</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Turkey"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="tr">Kastamonu</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="tr">Kastamonu</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-tr;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-tr;"/>
    </owl:NamedIndividual>
@@ -1516,7 +1516,7 @@
       <rdfs:label>Bartın</rdfs:label>
       <skos:definition>The province of Bartın in the country of Turkey</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Turkey"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="tr">Bartın</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="tr">Bartın</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-tr;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-tr;"/>
    </owl:NamedIndividual>
@@ -1546,7 +1546,7 @@
       <rdfs:label>Adana</rdfs:label>
       <skos:definition>The province of Adana in the country of Turkey</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Turkey"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="tr">Adana</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="tr">Adana</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-tr;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-tr;"/>
    </owl:NamedIndividual>
@@ -1576,7 +1576,7 @@
       <rdfs:label>Bursa</rdfs:label>
       <skos:definition>The province of Bursa in the country of Turkey</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Turkey"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="tr">Bursa</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="tr">Bursa</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-tr;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-tr;"/>
    </owl:NamedIndividual>
@@ -1606,7 +1606,7 @@
       <rdfs:label>Çorum</rdfs:label>
       <skos:definition>The province of Çorum in the country of Turkey</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Turkey"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="tr">Çorum</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="tr">Çorum</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-tr;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-tr;"/>
    </owl:NamedIndividual>
@@ -1636,7 +1636,7 @@
       <rdfs:label>Denizli</rdfs:label>
       <skos:definition>The province of Denizli in the country of Turkey</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Turkey"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="tr">Denizli</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="tr">Denizli</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-tr;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-tr;"/>
    </owl:NamedIndividual>
@@ -1666,7 +1666,7 @@
       <rdfs:label>Diyarbakır</rdfs:label>
       <skos:definition>The province of Diyarbakır in the country of Turkey</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Turkey"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="tr">Diyarbakır</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="tr">Diyarbakır</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-tr;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-tr;"/>
    </owl:NamedIndividual>
@@ -1696,7 +1696,7 @@
       <rdfs:label>Erzincan</rdfs:label>
       <skos:definition>The province of Erzincan in the country of Turkey</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Turkey"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="tr">Erzincan</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="tr">Erzincan</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-tr;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-tr;"/>
    </owl:NamedIndividual>
@@ -1726,7 +1726,7 @@
       <rdfs:label>Giresun</rdfs:label>
       <skos:definition>The province of Giresun in the country of Turkey</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Turkey"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="tr">Giresun</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="tr">Giresun</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-tr;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-tr;"/>
    </owl:NamedIndividual>
@@ -1756,7 +1756,7 @@
       <rdfs:label>Mersin</rdfs:label>
       <skos:definition>The province of Mersin in the country of Turkey</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Turkey"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="tr">Mersin</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="tr">Mersin</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-tr;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-tr;"/>
    </owl:NamedIndividual>
@@ -1786,7 +1786,7 @@
       <rdfs:label>Kahramanmaraş</rdfs:label>
       <skos:definition>The province of Kahramanmaraş in the country of Turkey</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Turkey"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="tr">Kahramanmaraş</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="tr">Kahramanmaraş</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-tr;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-tr;"/>
    </owl:NamedIndividual>
@@ -1816,7 +1816,7 @@
       <rdfs:label>Sakarya</rdfs:label>
       <skos:definition>The province of Sakarya in the country of Turkey</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Turkey"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="tr">Sakarya</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="tr">Sakarya</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-tr;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-tr;"/>
    </owl:NamedIndividual>
@@ -1846,7 +1846,7 @@
       <rdfs:label>Van</rdfs:label>
       <skos:definition>The province of Van in the country of Turkey</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Turkey"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="tr">Van</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="tr">Van</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-tr;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-tr;"/>
    </owl:NamedIndividual>
@@ -1876,7 +1876,7 @@
       <rdfs:label>Batman</rdfs:label>
       <skos:definition>The province of Batman in the country of Turkey</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Turkey"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="tr">Batman</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="tr">Batman</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-tr;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-tr;"/>
    </owl:NamedIndividual>
@@ -1906,7 +1906,7 @@
       <rdfs:label>Kırklareli</rdfs:label>
       <skos:definition>The province of Kırklareli in the country of Turkey</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Turkey"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="tr">Kırklareli</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="tr">Kırklareli</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-tr;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-tr;"/>
    </owl:NamedIndividual>
@@ -1936,7 +1936,7 @@
       <rdfs:label>Nevşehir</rdfs:label>
       <skos:definition>The province of Nevşehir in the country of Turkey</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Turkey"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="tr">Nevşehir</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="tr">Nevşehir</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-tr;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-tr;"/>
    </owl:NamedIndividual>
@@ -1966,7 +1966,7 @@
       <rdfs:label>Rize</rdfs:label>
       <skos:definition>The province of Rize in the country of Turkey</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Turkey"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="tr">Rize</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="tr">Rize</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-tr;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-tr;"/>
    </owl:NamedIndividual>
@@ -1996,7 +1996,7 @@
       <rdfs:label>Samsun</rdfs:label>
       <skos:definition>The province of Samsun in the country of Turkey</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Turkey"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="tr">Samsun</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="tr">Samsun</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-tr;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-tr;"/>
    </owl:NamedIndividual>
@@ -2026,7 +2026,7 @@
       <rdfs:label>Şanlıurfa</rdfs:label>
       <skos:definition>The province of Şanlıurfa in the country of Turkey</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Turkey"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="tr">Şanlıurfa</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="tr">Şanlıurfa</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-tr;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-tr;"/>
    </owl:NamedIndividual>
@@ -2056,7 +2056,7 @@
       <rdfs:label>Uşak</rdfs:label>
       <skos:definition>The province of Uşak in the country of Turkey</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Turkey"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="tr">Uşak</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="tr">Uşak</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-tr;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-tr;"/>
    </owl:NamedIndividual>
@@ -2086,7 +2086,7 @@
       <rdfs:label>Iğdır</rdfs:label>
       <skos:definition>The province of Iğdır in the country of Turkey</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Turkey"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="tr">Iğdır</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="tr">Iğdır</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-tr;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-tr;"/>
    </owl:NamedIndividual>
@@ -2116,7 +2116,7 @@
       <rdfs:label>Düzce</rdfs:label>
       <skos:definition>The province of Düzce in the country of Turkey</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Turkey"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="tr">Düzce</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="tr">Düzce</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-tr;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-tr;"/>
    </owl:NamedIndividual>
@@ -2146,7 +2146,7 @@
       <rdfs:label>Ağrı</rdfs:label>
       <skos:definition>The province of Ağrı in the country of Turkey</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Turkey"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="tr">Ağrı</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="tr">Ağrı</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-tr;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-tr;"/>
    </owl:NamedIndividual>
@@ -2176,7 +2176,7 @@
       <rdfs:label>Ankara</rdfs:label>
       <skos:definition>The province of Ankara in the country of Turkey</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Turkey"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="tr">Ankara</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="tr">Ankara</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-tr;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-tr;"/>
    </owl:NamedIndividual>
@@ -2206,7 +2206,7 @@
       <rdfs:label>Antalya</rdfs:label>
       <skos:definition>The province of Antalya in the country of Turkey</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Turkey"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="tr">Antalya</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="tr">Antalya</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-tr;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-tr;"/>
    </owl:NamedIndividual>
@@ -2236,7 +2236,7 @@
       <rdfs:label>Aydın</rdfs:label>
       <skos:definition>The province of Aydın in the country of Turkey</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Turkey"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="tr">Aydın</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="tr">Aydın</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-tr;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-tr;"/>
    </owl:NamedIndividual>
@@ -2266,7 +2266,7 @@
       <rdfs:label>Bingöl</rdfs:label>
       <skos:definition>The province of Bingöl in the country of Turkey</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Turkey"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="tr">Bingöl</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="tr">Bingöl</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-tr;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-tr;"/>
    </owl:NamedIndividual>
@@ -2296,7 +2296,7 @@
       <rdfs:label>Elazığ</rdfs:label>
       <skos:definition>The province of Elazığ in the country of Turkey</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Turkey"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="tr">Elazığ</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="tr">Elazığ</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-tr;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-tr;"/>
    </owl:NamedIndividual>
@@ -2326,7 +2326,7 @@
       <rdfs:label>Eskişehir</rdfs:label>
       <skos:definition>The province of Eskişehir in the country of Turkey</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Turkey"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="tr">Eskişehir</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="tr">Eskişehir</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-tr;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-tr;"/>
    </owl:NamedIndividual>
@@ -2356,7 +2356,7 @@
       <rdfs:label>Kars</rdfs:label>
       <skos:definition>The province of Kars in the country of Turkey</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Turkey"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="tr">Kars</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="tr">Kars</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-tr;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-tr;"/>
    </owl:NamedIndividual>
@@ -2386,7 +2386,7 @@
       <rdfs:label>Konya</rdfs:label>
       <skos:definition>The province of Konya in the country of Turkey</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Turkey"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="tr">Konya</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="tr">Konya</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-tr;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-tr;"/>
    </owl:NamedIndividual>
@@ -2416,7 +2416,7 @@
       <rdfs:label>Muğla</rdfs:label>
       <skos:definition>The province of Muğla in the country of Turkey</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Turkey"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="tr">Muğla</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="tr">Muğla</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-tr;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-tr;"/>
    </owl:NamedIndividual>
@@ -2446,7 +2446,7 @@
       <rdfs:label>Niğde</rdfs:label>
       <skos:definition>The province of Niğde in the country of Turkey</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Turkey"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="tr">Niğde</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="tr">Niğde</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-tr;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-tr;"/>
    </owl:NamedIndividual>
@@ -2476,7 +2476,7 @@
       <rdfs:label>Tekirdağ</rdfs:label>
       <skos:definition>The province of Tekirdağ in the country of Turkey</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Turkey"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="tr">Tekirdağ</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="tr">Tekirdağ</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-tr;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-tr;"/>
    </owl:NamedIndividual>
@@ -2506,7 +2506,7 @@
       <rdfs:label>Kilis</rdfs:label>
       <skos:definition>The province of Kilis in the country of Turkey</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Turkey"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="tr">Kilis</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="tr">Kilis</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-tr;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-tr;"/>
    </owl:NamedIndividual>

@@ -106,7 +106,7 @@
       <rdfs:label>Saint John</rdfs:label>
       <skos:definition>The parish of Saint John in the country of Dominica</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Dominica"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Saint John</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Saint John</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-dm;Parish"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-dm;"/>
    </owl:NamedIndividual>
@@ -136,7 +136,7 @@
       <rdfs:label>Saint Luke</rdfs:label>
       <skos:definition>The parish of Saint Luke in the country of Dominica</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Dominica"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Saint Luke</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Saint Luke</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-dm;Parish"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-dm;"/>
    </owl:NamedIndividual>
@@ -166,7 +166,7 @@
       <rdfs:label>Saint Joseph</rdfs:label>
       <skos:definition>The parish of Saint Joseph in the country of Dominica</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Dominica"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Saint Joseph</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Saint Joseph</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-dm;Parish"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-dm;"/>
    </owl:NamedIndividual>
@@ -196,7 +196,7 @@
       <rdfs:label>Saint Mark</rdfs:label>
       <skos:definition>The parish of Saint Mark in the country of Dominica</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Dominica"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Saint Mark</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Saint Mark</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-dm;Parish"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-dm;"/>
    </owl:NamedIndividual>
@@ -226,7 +226,7 @@
       <rdfs:label>Saint Patrick</rdfs:label>
       <skos:definition>The parish of Saint Patrick in the country of Dominica</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Dominica"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Saint Patrick</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Saint Patrick</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-dm;Parish"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-dm;"/>
    </owl:NamedIndividual>
@@ -256,7 +256,7 @@
       <rdfs:label>Saint David</rdfs:label>
       <skos:definition>The parish of Saint David in the country of Dominica</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Dominica"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Saint David</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Saint David</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-dm;Parish"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-dm;"/>
    </owl:NamedIndividual>
@@ -286,7 +286,7 @@
       <rdfs:label>Saint Andrew</rdfs:label>
       <skos:definition>The parish of Saint Andrew in the country of Dominica</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Dominica"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Saint Andrew</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Saint Andrew</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-dm;Parish"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-dm;"/>
    </owl:NamedIndividual>
@@ -316,7 +316,7 @@
       <rdfs:label>Saint Peter</rdfs:label>
       <skos:definition>The parish of Saint Peter in the country of Dominica</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Dominica"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Saint Peter</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Saint Peter</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-dm;Parish"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-dm;"/>
    </owl:NamedIndividual>
@@ -346,7 +346,7 @@
       <rdfs:label>Saint George</rdfs:label>
       <skos:definition>The parish of Saint George in the country of Dominica</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Dominica"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Saint George</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Saint George</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-dm;Parish"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-dm;"/>
    </owl:NamedIndividual>
@@ -376,7 +376,7 @@
       <rdfs:label>Saint Paul</rdfs:label>
       <skos:definition>The parish of Saint Paul in the country of Dominica</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Dominica"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Saint Paul</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Saint Paul</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-dm;Parish"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-dm;"/>
    </owl:NamedIndividual>

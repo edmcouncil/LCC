@@ -113,7 +113,7 @@
       <rdfs:label>Saint John</rdfs:label>
       <skos:definition>The parish of Saint John in the country of Grenada</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Grenada"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Saint John</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Saint John</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gd;Parish"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gd;"/>
    </owl:NamedIndividual>
@@ -143,7 +143,7 @@
       <rdfs:label>Southern Grenadine Islands</rdfs:label>
       <skos:definition>The dependency of Southern Grenadine Islands in the country of Grenada</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Grenada"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Southern Grenadine Islands</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Southern Grenadine Islands</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gd;Dependency"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gd;"/>
    </owl:NamedIndividual>
@@ -173,7 +173,7 @@
       <rdfs:label>Saint David</rdfs:label>
       <skos:definition>The parish of Saint David in the country of Grenada</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Grenada"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Saint David</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Saint David</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gd;Parish"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gd;"/>
    </owl:NamedIndividual>
@@ -203,7 +203,7 @@
       <rdfs:label>Saint Mark</rdfs:label>
       <skos:definition>The parish of Saint Mark in the country of Grenada</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Grenada"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Saint Mark</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Saint Mark</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gd;Parish"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gd;"/>
    </owl:NamedIndividual>
@@ -233,7 +233,7 @@
       <rdfs:label>Saint Andrew</rdfs:label>
       <skos:definition>The parish of Saint Andrew in the country of Grenada</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Grenada"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Saint Andrew</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Saint Andrew</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gd;Parish"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gd;"/>
    </owl:NamedIndividual>
@@ -263,7 +263,7 @@
       <rdfs:label>Saint George</rdfs:label>
       <skos:definition>The parish of Saint George in the country of Grenada</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Grenada"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Saint George</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Saint George</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gd;Parish"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gd;"/>
    </owl:NamedIndividual>
@@ -293,7 +293,7 @@
       <rdfs:label>Saint Patrick</rdfs:label>
       <skos:definition>The parish of Saint Patrick in the country of Grenada</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Grenada"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Saint Patrick</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Saint Patrick</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gd;Parish"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gd;"/>
    </owl:NamedIndividual>
@@ -323,8 +323,8 @@
       <rdfs:label>Carriacou</rdfs:label>
       <skos:definition>The territory of Carriacou in the country of Grenada</skos:definition>
       <lcc-cr:hasNumericRegionCode rdf:datatype="&xsd;string">1039</lcc-cr:hasNumericRegionCode>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Carriacou</lcc-cr:hasFrenchShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Carriacou</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Carriacou</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Carriacou</lcc-cr:hasEnglishShortName>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Grenada"/>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2;Territory"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gd;"/>
@@ -342,8 +342,8 @@
       <rdfs:label>Southern Grenadine Islands</rdfs:label>
       <skos:definition>The territory of Southern Grenadine Islands in the country of Grenada</skos:definition>
       <lcc-cr:hasNumericRegionCode rdf:datatype="&xsd;string">1076</lcc-cr:hasNumericRegionCode>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Southern Grenadine Islands</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">les Îles Grenadines du Sud</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Southern Grenadine Islands</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">les Îles Grenadines du Sud</lcc-cr:hasFrenchShortName>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Grenada"/>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2;Territory"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gd;"/>

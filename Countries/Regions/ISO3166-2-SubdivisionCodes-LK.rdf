@@ -113,9 +113,9 @@
       <rdfs:label>Central Province</rdfs:label>
       <skos:definition>The province of Central Province in the country of Sri Lanka</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;SriLanka"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Central Province</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ta">Mattiya mākāṇam</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="si">Madhyama paḷāta</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Central Province</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ta">Mattiya mākāṇam</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="si">Madhyama paḷāta</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-lk;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-lk;"/>
    </owl:NamedIndividual>
@@ -143,9 +143,9 @@
       <rdfs:label>Colombo</rdfs:label>
       <skos:definition>The district of Colombo in the country of Sri Lanka</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-lk;CentralProvince"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Colombo</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="si">Kŏḷamba</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ta">Kŏl̮umpu</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Colombo</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="si">Kŏḷamba</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ta">Kŏl̮umpu</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-lk;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-lk;"/>
    </owl:NamedIndividual>
@@ -175,9 +175,9 @@
       <rdfs:label>Batticaloa</rdfs:label>
       <skos:definition>The district of Batticaloa in the country of Sri Lanka</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-lk;CentralProvince"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Batticaloa</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ta">Maṭṭakkaḷappu</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="si">Maḍakalapuva</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Batticaloa</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ta">Maṭṭakkaḷappu</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="si">Maḍakalapuva</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-lk;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-lk;"/>
    </owl:NamedIndividual>
@@ -207,9 +207,9 @@
       <rdfs:label>Galle</rdfs:label>
       <skos:definition>The district of Galle in the country of Sri Lanka</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-lk;CentralProvince"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Galle</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ta">Kāli</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="si">Gālla</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Galle</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ta">Kāli</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="si">Gālla</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-lk;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-lk;"/>
    </owl:NamedIndividual>
@@ -241,9 +241,9 @@
       <rdfs:label>Southern Province</rdfs:label>
       <skos:definition>The province of Southern Province in the country of Sri Lanka</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;SriLanka"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Southern Province</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="si">Dakuṇu paḷāta</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ta">Tĕṉ mākāṇam</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Southern Province</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="si">Dakuṇu paḷāta</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ta">Tĕṉ mākāṇam</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-lk;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-lk;"/>
    </owl:NamedIndividual>
@@ -271,9 +271,9 @@
       <rdfs:label>Gampaha</rdfs:label>
       <skos:definition>The district of Gampaha in the country of Sri Lanka</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-lk;SouthernProvince"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Gampaha</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ta">Kampahā</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="si">Gampaha</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Gampaha</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ta">Kampahā</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="si">Gampaha</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-lk;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-lk;"/>
    </owl:NamedIndividual>
@@ -303,9 +303,9 @@
       <rdfs:label>Hambantota</rdfs:label>
       <skos:definition>The district of Hambantota in the country of Sri Lanka</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-lk;SouthernProvince"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Hambantota</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ta">Ampāntōṭṭai</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="si">Hambantŏṭa</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Hambantota</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ta">Ampāntōṭṭai</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="si">Hambantŏṭa</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-lk;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-lk;"/>
    </owl:NamedIndividual>
@@ -335,9 +335,9 @@
       <rdfs:label>Jaffna</rdfs:label>
       <skos:definition>The district of Jaffna in the country of Sri Lanka</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-lk;SouthernProvince"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Jaffna</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ta">Yāl̮ppāṇam</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="si">Yāpanaya</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Jaffna</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ta">Yāl̮ppāṇam</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="si">Yāpanaya</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-lk;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-lk;"/>
    </owl:NamedIndividual>
@@ -369,9 +369,9 @@
       <rdfs:label>Uva Province</rdfs:label>
       <skos:definition>The province of Uva Province in the country of Sri Lanka</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;SriLanka"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Uva Province</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ta">Ūvā mākāṇam</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="si">Ūva paḷāta</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Uva Province</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ta">Ūvā mākāṇam</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="si">Ūva paḷāta</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-lk;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-lk;"/>
    </owl:NamedIndividual>
@@ -399,9 +399,9 @@
       <rdfs:label>Puttalam</rdfs:label>
       <skos:definition>The district of Puttalam in the country of Sri Lanka</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-lk;UvaProvince"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Puttalam</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="si">Puttalama</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ta">Puttaḷam</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Puttalam</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="si">Puttalama</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ta">Puttaḷam</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-lk;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-lk;"/>
    </owl:NamedIndividual>
@@ -431,9 +431,9 @@
       <rdfs:label>Ratnapura</rdfs:label>
       <skos:definition>The district of Ratnapura in the country of Sri Lanka</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-lk;UvaProvince"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Ratnapura</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ta">Irattiṉapuri</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="si">Ratnapura</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Ratnapura</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ta">Irattiṉapuri</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="si">Ratnapura</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-lk;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-lk;"/>
    </owl:NamedIndividual>
@@ -465,9 +465,9 @@
       <rdfs:label>Sabaragamuwa Province</rdfs:label>
       <skos:definition>The province of Sabaragamuwa Province in the country of Sri Lanka</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;SriLanka"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Sabaragamuwa Province</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ta">Chappirakamuva mākāṇam</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="si">Sabaragamuva paḷāta</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Sabaragamuwa Province</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ta">Chappirakamuva mākāṇam</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="si">Sabaragamuva paḷāta</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-lk;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-lk;"/>
    </owl:NamedIndividual>
@@ -495,9 +495,9 @@
       <rdfs:label>Vavuniya</rdfs:label>
       <skos:definition>The district of Vavuniya in the country of Sri Lanka</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-lk;SabaragamuwaProvince"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Vavuniya</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ta">Vavuṉiyā</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="si">Vavuniyāva</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Vavuniya</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ta">Vavuṉiyā</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="si">Vavuniyāva</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-lk;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-lk;"/>
    </owl:NamedIndividual>
@@ -527,9 +527,9 @@
       <rdfs:label>Trincomalee</rdfs:label>
       <skos:definition>The district of Trincomalee in the country of Sri Lanka</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-lk;SabaragamuwaProvince"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Trincomalee</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ta">Tirukŏṇamalai</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="si">Trikuṇāmalaya</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Trincomalee</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ta">Tirukŏṇamalai</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="si">Trikuṇāmalaya</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-lk;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-lk;"/>
    </owl:NamedIndividual>
@@ -561,9 +561,9 @@
       <rdfs:label>North Western Province</rdfs:label>
       <skos:definition>The province of North Western Province in the country of Sri Lanka</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;SriLanka"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">North Western Province</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="si">Vayamba paḷāta</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ta">Vaṭamel mākāṇam</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">North Western Province</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="si">Vayamba paḷāta</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ta">Vaṭamel mākāṇam</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-lk;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-lk;"/>
    </owl:NamedIndividual>
@@ -591,9 +591,9 @@
       <rdfs:label>Mullaittivu</rdfs:label>
       <skos:definition>The district of Mullaittivu in the country of Sri Lanka</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-lk;NorthWesternProvince"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Mullaittivu</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="si">Mulativ</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ta">Mullaittīvu</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Mullaittivu</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="si">Mulativ</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ta">Mullaittīvu</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-lk;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-lk;"/>
    </owl:NamedIndividual>
@@ -623,9 +623,9 @@
       <rdfs:label>Monaragala</rdfs:label>
       <skos:definition>The district of Monaragala in the country of Sri Lanka</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-lk;NorthWesternProvince"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Monaragala</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ta">Mŏṉarākalai</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="si">Mŏṇarāgala</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Monaragala</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ta">Mŏṉarākalai</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="si">Mŏṇarāgala</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-lk;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-lk;"/>
    </owl:NamedIndividual>
@@ -657,9 +657,9 @@
       <rdfs:label>North Central Province</rdfs:label>
       <skos:definition>The province of North Central Province in the country of Sri Lanka</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;SriLanka"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">North Central Province</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ta">Vaṭamattiya mākāṇam</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="si">Uturumæ̆da paḷāta</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">North Central Province</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ta">Vaṭamattiya mākāṇam</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="si">Uturumæ̆da paḷāta</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-lk;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-lk;"/>
    </owl:NamedIndividual>
@@ -687,9 +687,9 @@
       <rdfs:label>Nuwara Eliya</rdfs:label>
       <skos:definition>The district of Nuwara Eliya in the country of Sri Lanka</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-lk;NorthCentralProvince"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Nuwara Eliya</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="si">Nuvara Ĕliya</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ta">Nuvarĕliyā</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Nuwara Eliya</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="si">Nuvara Ĕliya</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ta">Nuvarĕliyā</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-lk;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-lk;"/>
    </owl:NamedIndividual>
@@ -719,9 +719,9 @@
       <rdfs:label>Polonnaruwa</rdfs:label>
       <skos:definition>The district of Polonnaruwa in the country of Sri Lanka</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-lk;NorthCentralProvince"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Polonnaruwa</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ta">Pŏlaṉṉaṛuvai</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="si">Pŏḷŏnnaruva</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Polonnaruwa</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ta">Pŏlaṉṉaṛuvai</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="si">Pŏḷŏnnaruva</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-lk;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-lk;"/>
    </owl:NamedIndividual>
@@ -753,9 +753,9 @@
       <rdfs:label>Western Province</rdfs:label>
       <skos:definition>The province of Western Province in the country of Sri Lanka</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;SriLanka"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Western Province</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="si">Basnāhira paḷāta</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ta">Mel mākāṇam</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Western Province</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="si">Basnāhira paḷāta</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ta">Mel mākāṇam</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-lk;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-lk;"/>
    </owl:NamedIndividual>
@@ -783,9 +783,9 @@
       <rdfs:label>Ampara</rdfs:label>
       <skos:definition>The district of Ampara in the country of Sri Lanka</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-lk;WesternProvince"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Ampara</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ta">Ampāṟai</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="si">Ampāra</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Ampara</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ta">Ampāṟai</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="si">Ampāra</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-lk;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-lk;"/>
    </owl:NamedIndividual>
@@ -815,9 +815,9 @@
       <rdfs:label>Badulla</rdfs:label>
       <skos:definition>The district of Badulla in the country of Sri Lanka</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-lk;WesternProvince"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Badulla</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ta">Patuḷai</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="si">Badulla</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Badulla</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ta">Patuḷai</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="si">Badulla</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-lk;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-lk;"/>
    </owl:NamedIndividual>
@@ -847,9 +847,9 @@
       <rdfs:label>Anuradhapura</rdfs:label>
       <skos:definition>The district of Anuradhapura in the country of Sri Lanka</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-lk;WesternProvince"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Anuradhapura</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="si">Anurādhapura</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ta">Anurātapuram</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Anuradhapura</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="si">Anurādhapura</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ta">Anurātapuram</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-lk;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-lk;"/>
    </owl:NamedIndividual>
@@ -881,9 +881,9 @@
       <rdfs:label>Northern Province</rdfs:label>
       <skos:definition>The province of Northern Province in the country of Sri Lanka</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;SriLanka"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Northern Province</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="si">Uturu paḷāta</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ta">Vaṭakku mākāṇam</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Northern Province</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="si">Uturu paḷāta</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ta">Vaṭakku mākāṇam</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-lk;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-lk;"/>
    </owl:NamedIndividual>
@@ -911,9 +911,9 @@
       <rdfs:label>Kilinochchi</rdfs:label>
       <skos:definition>The district of Kilinochchi in the country of Sri Lanka</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-lk;NorthernProvince"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Kilinochchi</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="si">Kilinŏchchi</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ta">Kiḷinochchi</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Kilinochchi</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="si">Kilinŏchchi</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ta">Kiḷinochchi</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-lk;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-lk;"/>
    </owl:NamedIndividual>
@@ -943,9 +943,9 @@
       <rdfs:label>Kegalla</rdfs:label>
       <skos:definition>The district of Kegalla in the country of Sri Lanka</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-lk;NorthernProvince"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Kegalla</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="si">Kægalla</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ta">Kekālai</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Kegalla</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="si">Kægalla</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ta">Kekālai</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-lk;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-lk;"/>
    </owl:NamedIndividual>
@@ -975,9 +975,9 @@
       <rdfs:label>Kalutara</rdfs:label>
       <skos:definition>The district of Kalutara in the country of Sri Lanka</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-lk;NorthernProvince"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Kalutara</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="si">Kaḷutara</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ta">Kaḷuttuṟai</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Kalutara</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="si">Kaḷutara</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ta">Kaḷuttuṟai</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-lk;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-lk;"/>
    </owl:NamedIndividual>
@@ -1007,9 +1007,9 @@
       <rdfs:label>Kandy</rdfs:label>
       <skos:definition>The district of Kandy in the country of Sri Lanka</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-lk;NorthernProvince"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Kandy</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="si">Mahanuvara</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ta">Kaṇṭi</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Kandy</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="si">Mahanuvara</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ta">Kaṇṭi</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-lk;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-lk;"/>
    </owl:NamedIndividual>
@@ -1039,9 +1039,9 @@
       <rdfs:label>Kurunegala</rdfs:label>
       <skos:definition>The district of Kurunegala in the country of Sri Lanka</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-lk;NorthernProvince"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Kurunegala</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="si">Kuruṇægala</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ta">Kurunākal</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Kurunegala</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="si">Kuruṇægala</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ta">Kurunākal</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-lk;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-lk;"/>
    </owl:NamedIndividual>
@@ -1073,9 +1073,9 @@
       <rdfs:label>Eastern Province</rdfs:label>
       <skos:definition>The province of Eastern Province in the country of Sri Lanka</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;SriLanka"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Eastern Province</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="si">Næ̆gĕnahira paḷāta</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ta">Kil̮akku mākāṇam</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Eastern Province</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="si">Næ̆gĕnahira paḷāta</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ta">Kil̮akku mākāṇam</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-lk;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-lk;"/>
    </owl:NamedIndividual>
@@ -1103,9 +1103,9 @@
       <rdfs:label>Mannar</rdfs:label>
       <skos:definition>The district of Mannar in the country of Sri Lanka</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-lk;EasternProvince"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Mannar</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="si">Mannārama</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ta">Maṉṉār</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Mannar</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="si">Mannārama</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ta">Maṉṉār</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-lk;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-lk;"/>
    </owl:NamedIndividual>
@@ -1135,9 +1135,9 @@
       <rdfs:label>Matara</rdfs:label>
       <skos:definition>The district of Matara in the country of Sri Lanka</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-lk;EasternProvince"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Matara</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ta">Māttaṛai</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="si">Mātara</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Matara</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ta">Māttaṛai</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="si">Mātara</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-lk;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-lk;"/>
    </owl:NamedIndividual>
@@ -1167,9 +1167,9 @@
       <rdfs:label>Matale</rdfs:label>
       <skos:definition>The district of Matale in the country of Sri Lanka</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-lk;EasternProvince"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Matale</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ta">Māttaḷai</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="si">Mātale</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Matale</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ta">Māttaḷai</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="si">Mātale</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-lk;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-lk;"/>
    </owl:NamedIndividual>

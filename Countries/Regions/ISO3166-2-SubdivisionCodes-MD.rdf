@@ -127,7 +127,7 @@
       <rdfs:label>Edineț</rdfs:label>
       <skos:definition>The district of Edineț in the country of Moldova (the Republic of)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Moldova"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ro">Edineț</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ro">Edineț</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-md;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-md;"/>
    </owl:NamedIndividual>
@@ -157,7 +157,7 @@
       <rdfs:label>Hîncești</rdfs:label>
       <skos:definition>The district of Hîncești in the country of Moldova (the Republic of)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Moldova"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ro">Hîncești</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ro">Hîncești</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-md;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-md;"/>
    </owl:NamedIndividual>
@@ -187,7 +187,7 @@
       <rdfs:label>Nisporeni</rdfs:label>
       <skos:definition>The district of Nisporeni in the country of Moldova (the Republic of)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Moldova"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ro">Nisporeni</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ro">Nisporeni</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-md;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-md;"/>
    </owl:NamedIndividual>
@@ -217,7 +217,7 @@
       <rdfs:label>Rezina</rdfs:label>
       <skos:definition>The district of Rezina in the country of Moldova (the Republic of)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Moldova"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ro">Rezina</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ro">Rezina</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-md;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-md;"/>
    </owl:NamedIndividual>
@@ -247,7 +247,7 @@
       <rdfs:label>Stînga Nistrului, unitatea teritorială din</rdfs:label>
       <skos:definition>The territorial unit of Stînga Nistrului, unitatea teritorială din in the country of Moldova (the Republic of)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Moldova"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ro">Stînga Nistrului, unitatea teritorială din</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ro">Stînga Nistrului, unitatea teritorială din</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-md;TerritorialUnit"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-md;"/>
    </owl:NamedIndividual>
@@ -277,7 +277,7 @@
       <rdfs:label>Ștefan Vodă</rdfs:label>
       <skos:definition>The district of Ștefan Vodă in the country of Moldova (the Republic of)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Moldova"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ro">Ștefan Vodă</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ro">Ștefan Vodă</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-md;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-md;"/>
    </owl:NamedIndividual>
@@ -307,7 +307,7 @@
       <rdfs:label>Briceni</rdfs:label>
       <skos:definition>The district of Briceni in the country of Moldova (the Republic of)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Moldova"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ro">Briceni</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ro">Briceni</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-md;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-md;"/>
    </owl:NamedIndividual>
@@ -337,7 +337,7 @@
       <rdfs:label>Fălești</rdfs:label>
       <skos:definition>The district of Fălești in the country of Moldova (the Republic of)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Moldova"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ro">Fălești</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ro">Fălești</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-md;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-md;"/>
    </owl:NamedIndividual>
@@ -367,7 +367,7 @@
       <rdfs:label>Cimișlia</rdfs:label>
       <skos:definition>The district of Cimișlia in the country of Moldova (the Republic of)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Moldova"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ro">Cimișlia</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ro">Cimișlia</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-md;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-md;"/>
    </owl:NamedIndividual>
@@ -397,7 +397,7 @@
       <rdfs:label>Florești</rdfs:label>
       <skos:definition>The district of Florești in the country of Moldova (the Republic of)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Moldova"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ro">Florești</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ro">Florești</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-md;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-md;"/>
    </owl:NamedIndividual>
@@ -427,7 +427,7 @@
       <rdfs:label>Leova</rdfs:label>
       <skos:definition>The district of Leova in the country of Moldova (the Republic of)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Moldova"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ro">Leova</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ro">Leova</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-md;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-md;"/>
    </owl:NamedIndividual>
@@ -457,7 +457,7 @@
       <rdfs:label>Orhei</rdfs:label>
       <skos:definition>The district of Orhei in the country of Moldova (the Republic of)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Moldova"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ro">Orhei</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ro">Orhei</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-md;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-md;"/>
    </owl:NamedIndividual>
@@ -487,7 +487,7 @@
       <rdfs:label>Anenii Noi</rdfs:label>
       <skos:definition>The district of Anenii Noi in the country of Moldova (the Republic of)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Moldova"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ro">Anenii Noi</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ro">Anenii Noi</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-md;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-md;"/>
    </owl:NamedIndividual>
@@ -517,7 +517,7 @@
       <rdfs:label>Criuleni</rdfs:label>
       <skos:definition>The district of Criuleni in the country of Moldova (the Republic of)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Moldova"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ro">Criuleni</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ro">Criuleni</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-md;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-md;"/>
    </owl:NamedIndividual>
@@ -547,7 +547,7 @@
       <rdfs:label>Cantemir</rdfs:label>
       <skos:definition>The district of Cantemir in the country of Moldova (the Republic of)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Moldova"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ro">Cantemir</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ro">Cantemir</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-md;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-md;"/>
    </owl:NamedIndividual>
@@ -577,7 +577,7 @@
       <rdfs:label>Glodeni</rdfs:label>
       <skos:definition>The district of Glodeni in the country of Moldova (the Republic of)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Moldova"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ro">Glodeni</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ro">Glodeni</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-md;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-md;"/>
    </owl:NamedIndividual>
@@ -607,7 +607,7 @@
       <rdfs:label>Rîșcani</rdfs:label>
       <skos:definition>The district of Rîșcani in the country of Moldova (the Republic of)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Moldova"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ro">Rîșcani</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ro">Rîșcani</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-md;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-md;"/>
    </owl:NamedIndividual>
@@ -637,7 +637,7 @@
       <rdfs:label>Strășeni</rdfs:label>
       <skos:definition>The district of Strășeni in the country of Moldova (the Republic of)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Moldova"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ro">Strășeni</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ro">Strășeni</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-md;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-md;"/>
    </owl:NamedIndividual>
@@ -667,7 +667,7 @@
       <rdfs:label>Bălți</rdfs:label>
       <skos:definition>The city of Bălți in the country of Moldova (the Republic of)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Moldova"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ro">Bălți</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ro">Bălți</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-md;City"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-md;"/>
    </owl:NamedIndividual>
@@ -697,7 +697,7 @@
       <rdfs:label>Basarabeasca</rdfs:label>
       <skos:definition>The district of Basarabeasca in the country of Moldova (the Republic of)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Moldova"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ro">Basarabeasca</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ro">Basarabeasca</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-md;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-md;"/>
    </owl:NamedIndividual>
@@ -727,7 +727,7 @@
       <rdfs:label>Cahul</rdfs:label>
       <skos:definition>The district of Cahul in the country of Moldova (the Republic of)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Moldova"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ro">Cahul</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ro">Cahul</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-md;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-md;"/>
    </owl:NamedIndividual>
@@ -757,7 +757,7 @@
       <rdfs:label>Șoldănești</rdfs:label>
       <skos:definition>The district of Șoldănești in the country of Moldova (the Republic of)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Moldova"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ro">Șoldănești</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ro">Șoldănești</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-md;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-md;"/>
    </owl:NamedIndividual>
@@ -787,7 +787,7 @@
       <rdfs:label>Sîngerei</rdfs:label>
       <skos:definition>The district of Sîngerei in the country of Moldova (the Republic of)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Moldova"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ro">Sîngerei</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ro">Sîngerei</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-md;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-md;"/>
    </owl:NamedIndividual>
@@ -817,7 +817,7 @@
       <rdfs:label>Călărași</rdfs:label>
       <skos:definition>The district of Călărași in the country of Moldova (the Republic of)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Moldova"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ro">Călărași</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ro">Călărași</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-md;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-md;"/>
    </owl:NamedIndividual>
@@ -847,7 +847,7 @@
       <rdfs:label>Drochia</rdfs:label>
       <skos:definition>The district of Drochia in the country of Moldova (the Republic of)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Moldova"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ro">Drochia</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ro">Drochia</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-md;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-md;"/>
    </owl:NamedIndividual>
@@ -877,7 +877,7 @@
       <rdfs:label>Găgăuzia, Unitatea teritorială autonomă (UTAG)</rdfs:label>
       <skos:definition>The autonomous territorial unit of Găgăuzia, Unitatea teritorială autonomă (UTAG) in the country of Moldova (the Republic of)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Moldova"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ro">Găgăuzia, Unitatea teritorială autonomă (UTAG)</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ro">Găgăuzia, Unitatea teritorială autonomă (UTAG)</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-md;AutonomousTerritorialUnit"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-md;"/>
    </owl:NamedIndividual>
@@ -907,7 +907,7 @@
       <rdfs:label>Ocnița</rdfs:label>
       <skos:definition>The district of Ocnița in the country of Moldova (the Republic of)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Moldova"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ro">Ocnița</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ro">Ocnița</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-md;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-md;"/>
    </owl:NamedIndividual>
@@ -937,7 +937,7 @@
       <rdfs:label>Soroca</rdfs:label>
       <skos:definition>The district of Soroca in the country of Moldova (the Republic of)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Moldova"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ro">Soroca</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ro">Soroca</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-md;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-md;"/>
    </owl:NamedIndividual>
@@ -967,7 +967,7 @@
       <rdfs:label>Taraclia</rdfs:label>
       <skos:definition>The district of Taraclia in the country of Moldova (the Republic of)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Moldova"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ro">Taraclia</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ro">Taraclia</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-md;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-md;"/>
    </owl:NamedIndividual>
@@ -997,7 +997,7 @@
       <rdfs:label>Telenești</rdfs:label>
       <skos:definition>The district of Telenești in the country of Moldova (the Republic of)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Moldova"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ro">Telenești</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ro">Telenești</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-md;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-md;"/>
    </owl:NamedIndividual>
@@ -1027,7 +1027,7 @@
       <rdfs:label>Bender [Tighina]</rdfs:label>
       <skos:definition>The city of Bender [Tighina] in the country of Moldova (the Republic of)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Moldova"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ro">Bender [Tighina]</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ro">Bender [Tighina]</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-md;City"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-md;"/>
    </owl:NamedIndividual>
@@ -1057,7 +1057,7 @@
       <rdfs:label>Căușeni</rdfs:label>
       <skos:definition>The district of Căușeni in the country of Moldova (the Republic of)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Moldova"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ro">Căușeni</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ro">Căușeni</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-md;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-md;"/>
    </owl:NamedIndividual>
@@ -1087,7 +1087,7 @@
       <rdfs:label>Chișinău</rdfs:label>
       <skos:definition>The city of Chișinău in the country of Moldova (the Republic of)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Moldova"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ro">Chișinău</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ro">Chișinău</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-md;City"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-md;"/>
    </owl:NamedIndividual>
@@ -1117,7 +1117,7 @@
       <rdfs:label>Dondușeni</rdfs:label>
       <skos:definition>The district of Dondușeni in the country of Moldova (the Republic of)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Moldova"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ro">Dondușeni</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ro">Dondușeni</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-md;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-md;"/>
    </owl:NamedIndividual>
@@ -1147,7 +1147,7 @@
       <rdfs:label>Dubăsari</rdfs:label>
       <skos:definition>The district of Dubăsari in the country of Moldova (the Republic of)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Moldova"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ro">Dubăsari</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ro">Dubăsari</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-md;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-md;"/>
    </owl:NamedIndividual>
@@ -1177,7 +1177,7 @@
       <rdfs:label>Ialoveni</rdfs:label>
       <skos:definition>The district of Ialoveni in the country of Moldova (the Republic of)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Moldova"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ro">Ialoveni</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ro">Ialoveni</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-md;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-md;"/>
    </owl:NamedIndividual>
@@ -1207,7 +1207,7 @@
       <rdfs:label>Ungheni</rdfs:label>
       <skos:definition>The district of Ungheni in the country of Moldova (the Republic of)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Moldova"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ro">Ungheni</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ro">Ungheni</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-md;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-md;"/>
    </owl:NamedIndividual>

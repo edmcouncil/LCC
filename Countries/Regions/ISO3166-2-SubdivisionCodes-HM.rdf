@@ -99,8 +99,8 @@
       <rdfs:label>McDonald Islands *</rdfs:label>
       <skos:definition>The territory of McDonald Islands * in the country of Heard Island and McDonald Islands</skos:definition>
       <lcc-cr:hasNumericRegionCode rdf:datatype="&xsd;string">1110</lcc-cr:hasNumericRegionCode>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">MacDonald, Îles *</lcc-cr:hasFrenchShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">McDonald Islands *</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">MacDonald, Îles *</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">McDonald Islands *</lcc-cr:hasEnglishShortName>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;HeardIslandAndMcDonaldIslands"/>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2;Territory"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-hm;"/>

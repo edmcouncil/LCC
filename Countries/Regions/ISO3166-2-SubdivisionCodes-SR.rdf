@@ -106,7 +106,7 @@
       <rdfs:label>Wanica</rdfs:label>
       <skos:definition>The district of Wanica in the country of Suriname</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Suriname"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="nl">Wanica</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="nl">Wanica</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-sr;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-sr;"/>
    </owl:NamedIndividual>
@@ -136,7 +136,7 @@
       <rdfs:label>Commewijne</rdfs:label>
       <skos:definition>The district of Commewijne in the country of Suriname</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Suriname"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="nl">Commewijne</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="nl">Commewijne</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-sr;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-sr;"/>
    </owl:NamedIndividual>
@@ -166,7 +166,7 @@
       <rdfs:label>Marowijne</rdfs:label>
       <skos:definition>The district of Marowijne in the country of Suriname</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Suriname"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="nl">Marowijne</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="nl">Marowijne</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-sr;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-sr;"/>
    </owl:NamedIndividual>
@@ -196,7 +196,7 @@
       <rdfs:label>Saramacca</rdfs:label>
       <skos:definition>The district of Saramacca in the country of Suriname</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Suriname"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="nl">Saramacca</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="nl">Saramacca</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-sr;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-sr;"/>
    </owl:NamedIndividual>
@@ -226,7 +226,7 @@
       <rdfs:label>Coronie</rdfs:label>
       <skos:definition>The district of Coronie in the country of Suriname</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Suriname"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="nl">Coronie</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="nl">Coronie</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-sr;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-sr;"/>
    </owl:NamedIndividual>
@@ -256,7 +256,7 @@
       <rdfs:label>Paramaribo</rdfs:label>
       <skos:definition>The district of Paramaribo in the country of Suriname</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Suriname"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="nl">Paramaribo</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="nl">Paramaribo</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-sr;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-sr;"/>
    </owl:NamedIndividual>
@@ -286,7 +286,7 @@
       <rdfs:label>Brokopondo</rdfs:label>
       <skos:definition>The district of Brokopondo in the country of Suriname</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Suriname"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="nl">Brokopondo</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="nl">Brokopondo</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-sr;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-sr;"/>
    </owl:NamedIndividual>
@@ -316,7 +316,7 @@
       <rdfs:label>Nickerie</rdfs:label>
       <skos:definition>The district of Nickerie in the country of Suriname</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Suriname"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="nl">Nickerie</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="nl">Nickerie</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-sr;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-sr;"/>
    </owl:NamedIndividual>
@@ -346,7 +346,7 @@
       <rdfs:label>Para</rdfs:label>
       <skos:definition>The district of Para in the country of Suriname</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Suriname"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="nl">Para</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="nl">Para</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-sr;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-sr;"/>
    </owl:NamedIndividual>
@@ -376,7 +376,7 @@
       <rdfs:label>Sipaliwini</rdfs:label>
       <skos:definition>The district of Sipaliwini in the country of Suriname</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Suriname"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="nl">Sipaliwini</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="nl">Sipaliwini</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-sr;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-sr;"/>
    </owl:NamedIndividual>

@@ -106,7 +106,7 @@
       <rdfs:label>Chuuk</rdfs:label>
       <skos:definition>The state of Chuuk in the country of Micronesia (Federated States of)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Micronesia"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Chuuk</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Chuuk</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-fm;State"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-fm;"/>
    </owl:NamedIndividual>
@@ -136,7 +136,7 @@
       <rdfs:label>Pohnpei</rdfs:label>
       <skos:definition>The state of Pohnpei in the country of Micronesia (Federated States of)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Micronesia"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Pohnpei</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Pohnpei</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-fm;State"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-fm;"/>
    </owl:NamedIndividual>
@@ -166,7 +166,7 @@
       <rdfs:label>Kosrae</rdfs:label>
       <skos:definition>The state of Kosrae in the country of Micronesia (Federated States of)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Micronesia"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Kosrae</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Kosrae</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-fm;State"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-fm;"/>
    </owl:NamedIndividual>
@@ -196,7 +196,7 @@
       <rdfs:label>Yap</rdfs:label>
       <skos:definition>The state of Yap in the country of Micronesia (Federated States of)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Micronesia"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Yap</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Yap</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-fm;State"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-fm;"/>
    </owl:NamedIndividual>
@@ -226,8 +226,8 @@
       <rdfs:label>Caroline Islands</rdfs:label>
       <skos:definition>The territory of Caroline Islands in the country of Micronesia (Federated States of)</skos:definition>
       <lcc-cr:hasNumericRegionCode rdf:datatype="&xsd;string">1035</lcc-cr:hasNumericRegionCode>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Caroline Islands</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">les Îles Carolines</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Caroline Islands</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">les Îles Carolines</lcc-cr:hasFrenchShortName>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Micronesia"/>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2;Territory"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-fm;"/>
@@ -245,8 +245,8 @@
       <rdfs:label>Chuuk</rdfs:label>
       <skos:definition>The territory of Chuuk in the country of Micronesia (Federated States of)</skos:definition>
       <lcc-cr:hasNumericRegionCode rdf:datatype="&xsd;string">1042</lcc-cr:hasNumericRegionCode>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Chuuk</lcc-cr:hasFrenchShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Chuuk</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Chuuk</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Chuuk</lcc-cr:hasEnglishShortName>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Micronesia"/>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2;Territory"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-fm;"/>
@@ -264,8 +264,8 @@
       <rdfs:label>Kosrae</rdfs:label>
       <skos:definition>The territory of Kosrae in the country of Micronesia (Federated States of)</skos:definition>
       <lcc-cr:hasNumericRegionCode rdf:datatype="&xsd;string">1100</lcc-cr:hasNumericRegionCode>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Kosrae</lcc-cr:hasFrenchShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Kosrae</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Kosrae</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Kosrae</lcc-cr:hasEnglishShortName>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Micronesia"/>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2;Territory"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-fm;"/>
@@ -283,8 +283,8 @@
       <rdfs:label>Pohnpei</rdfs:label>
       <skos:definition>The territory of Pohnpei in the country of Micronesia (Federated States of)</skos:definition>
       <lcc-cr:hasNumericRegionCode rdf:datatype="&xsd;string">1151</lcc-cr:hasNumericRegionCode>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Pohnpei</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Pohnpei</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Pohnpei</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Pohnpei</lcc-cr:hasFrenchShortName>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Micronesia"/>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2;Territory"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-fm;"/>
@@ -302,8 +302,8 @@
       <rdfs:label>Yap</rdfs:label>
       <skos:definition>The territory of Yap in the country of Micronesia (Federated States of)</skos:definition>
       <lcc-cr:hasNumericRegionCode rdf:datatype="&xsd;string">1224</lcc-cr:hasNumericRegionCode>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Yap</lcc-cr:hasFrenchShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Yap</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Yap</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Yap</lcc-cr:hasEnglishShortName>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Micronesia"/>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2;Territory"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-fm;"/>

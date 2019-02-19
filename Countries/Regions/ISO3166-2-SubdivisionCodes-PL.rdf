@@ -106,7 +106,7 @@
       <rdfs:label>Lubelskie</rdfs:label>
       <skos:definition>The voivodship of Lubelskie in the country of Poland</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Poland"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="pl">Lubelskie</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="pl">Lubelskie</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-pl;Voivodship"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-pl;"/>
    </owl:NamedIndividual>
@@ -136,7 +136,7 @@
       <rdfs:label>Dolnośląskie</rdfs:label>
       <skos:definition>The voivodship of Dolnośląskie in the country of Poland</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Poland"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="pl">Dolnośląskie</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="pl">Dolnośląskie</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-pl;Voivodship"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-pl;"/>
    </owl:NamedIndividual>
@@ -166,7 +166,7 @@
       <rdfs:label>Kujawsko-pomorskie</rdfs:label>
       <skos:definition>The voivodship of Kujawsko-pomorskie in the country of Poland</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Poland"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="pl">Kujawsko-pomorskie</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="pl">Kujawsko-pomorskie</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-pl;Voivodship"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-pl;"/>
    </owl:NamedIndividual>
@@ -196,7 +196,7 @@
       <rdfs:label>Lubuskie</rdfs:label>
       <skos:definition>The voivodship of Lubuskie in the country of Poland</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Poland"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="pl">Lubuskie</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="pl">Lubuskie</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-pl;Voivodship"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-pl;"/>
    </owl:NamedIndividual>
@@ -226,7 +226,7 @@
       <rdfs:label>Łódzkie</rdfs:label>
       <skos:definition>The voivodship of Łódzkie in the country of Poland</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Poland"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="pl">Łódzkie</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="pl">Łódzkie</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-pl;Voivodship"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-pl;"/>
    </owl:NamedIndividual>
@@ -256,7 +256,7 @@
       <rdfs:label>Małopolskie</rdfs:label>
       <skos:definition>The voivodship of Małopolskie in the country of Poland</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Poland"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="pl">Małopolskie</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="pl">Małopolskie</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-pl;Voivodship"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-pl;"/>
    </owl:NamedIndividual>
@@ -286,7 +286,7 @@
       <rdfs:label>Mazowieckie</rdfs:label>
       <skos:definition>The voivodship of Mazowieckie in the country of Poland</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Poland"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="pl">Mazowieckie</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="pl">Mazowieckie</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-pl;Voivodship"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-pl;"/>
    </owl:NamedIndividual>
@@ -316,7 +316,7 @@
       <rdfs:label>Opolskie</rdfs:label>
       <skos:definition>The voivodship of Opolskie in the country of Poland</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Poland"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="pl">Opolskie</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="pl">Opolskie</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-pl;Voivodship"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-pl;"/>
    </owl:NamedIndividual>
@@ -346,7 +346,7 @@
       <rdfs:label>Podkarpackie</rdfs:label>
       <skos:definition>The voivodship of Podkarpackie in the country of Poland</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Poland"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="pl">Podkarpackie</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="pl">Podkarpackie</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-pl;Voivodship"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-pl;"/>
    </owl:NamedIndividual>
@@ -376,7 +376,7 @@
       <rdfs:label>Podlaskie</rdfs:label>
       <skos:definition>The voivodship of Podlaskie in the country of Poland</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Poland"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="pl">Podlaskie</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="pl">Podlaskie</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-pl;Voivodship"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-pl;"/>
    </owl:NamedIndividual>
@@ -406,7 +406,7 @@
       <rdfs:label>Pomorskie</rdfs:label>
       <skos:definition>The voivodship of Pomorskie in the country of Poland</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Poland"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="pl">Pomorskie</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="pl">Pomorskie</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-pl;Voivodship"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-pl;"/>
    </owl:NamedIndividual>
@@ -436,7 +436,7 @@
       <rdfs:label>Śląskie</rdfs:label>
       <skos:definition>The voivodship of Śląskie in the country of Poland</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Poland"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="pl">Śląskie</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="pl">Śląskie</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-pl;Voivodship"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-pl;"/>
    </owl:NamedIndividual>
@@ -466,7 +466,7 @@
       <rdfs:label>Świętokrzyskie</rdfs:label>
       <skos:definition>The voivodship of Świętokrzyskie in the country of Poland</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Poland"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="pl">Świętokrzyskie</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="pl">Świętokrzyskie</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-pl;Voivodship"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-pl;"/>
    </owl:NamedIndividual>
@@ -496,7 +496,7 @@
       <rdfs:label>Warmińsko-mazurskie</rdfs:label>
       <skos:definition>The voivodship of Warmińsko-mazurskie in the country of Poland</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Poland"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="pl">Warmińsko-mazurskie</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="pl">Warmińsko-mazurskie</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-pl;Voivodship"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-pl;"/>
    </owl:NamedIndividual>
@@ -526,7 +526,7 @@
       <rdfs:label>Wielkopolskie</rdfs:label>
       <skos:definition>The voivodship of Wielkopolskie in the country of Poland</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Poland"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="pl">Wielkopolskie</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="pl">Wielkopolskie</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-pl;Voivodship"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-pl;"/>
    </owl:NamedIndividual>
@@ -556,7 +556,7 @@
       <rdfs:label>Zachodniopomorskie</rdfs:label>
       <skos:definition>The voivodship of Zachodniopomorskie in the country of Poland</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Poland"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="pl">Zachodniopomorskie</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="pl">Zachodniopomorskie</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-pl;Voivodship"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-pl;"/>
    </owl:NamedIndividual>

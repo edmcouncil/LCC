@@ -106,8 +106,8 @@
       <rdfs:label>Ash Shimāl</rdfs:label>
       <skos:definition>The governorate of Ash Shimāl in the country of Lebanon</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Lebanon"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Ash Shimāl</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Liban-Nord</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Ash Shimāl</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Liban-Nord</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-lb;Governorate"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-lb;"/>
    </owl:NamedIndividual>
@@ -137,8 +137,8 @@
       <rdfs:label>‘Akkār</rdfs:label>
       <skos:definition>The governorate of ‘Akkār in the country of Lebanon</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Lebanon"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">‘Akkār</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Aakkâr</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">‘Akkār</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Aakkâr</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-lb;Governorate"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-lb;"/>
    </owl:NamedIndividual>
@@ -168,8 +168,8 @@
       <rdfs:label>Bayrūt</rdfs:label>
       <skos:definition>The governorate of Bayrūt in the country of Lebanon</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Lebanon"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Bayrūt</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Beyrouth</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Bayrūt</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Beyrouth</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-lb;Governorate"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-lb;"/>
    </owl:NamedIndividual>
@@ -199,8 +199,8 @@
       <rdfs:label>Nabatîyé</rdfs:label>
       <skos:definition>The governorate of Nabatîyé in the country of Lebanon</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Lebanon"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Nabatîyé</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">An Nabaţīyah</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Nabatîyé</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">An Nabaţīyah</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-lb;Governorate"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-lb;"/>
    </owl:NamedIndividual>
@@ -230,8 +230,8 @@
       <rdfs:label>Mont-Liban</rdfs:label>
       <skos:definition>The governorate of Mont-Liban in the country of Lebanon</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Lebanon"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Mont-Liban</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Jabal Lubnān</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Mont-Liban</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Jabal Lubnān</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-lb;Governorate"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-lb;"/>
    </owl:NamedIndividual>
@@ -261,8 +261,8 @@
       <rdfs:label>Béqaa</rdfs:label>
       <skos:definition>The governorate of Béqaa in the country of Lebanon</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Lebanon"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Béqaa</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Al Biqā‘</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Béqaa</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Al Biqā‘</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-lb;Governorate"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-lb;"/>
    </owl:NamedIndividual>
@@ -292,8 +292,8 @@
       <rdfs:label>B‘alabak-Al Hirmil</rdfs:label>
       <skos:definition>The governorate of B‘alabak-Al Hirmil in the country of Lebanon</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Lebanon"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">B‘alabak-Al Hirmil</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Baalbek-Hermel</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">B‘alabak-Al Hirmil</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Baalbek-Hermel</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-lb;Governorate"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-lb;"/>
    </owl:NamedIndividual>
@@ -323,8 +323,8 @@
       <rdfs:label>Al Janūb</rdfs:label>
       <skos:definition>The governorate of Al Janūb in the country of Lebanon</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Lebanon"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Al Janūb</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Liban-Sud</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Al Janūb</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Liban-Sud</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-lb;Governorate"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-lb;"/>
    </owl:NamedIndividual>

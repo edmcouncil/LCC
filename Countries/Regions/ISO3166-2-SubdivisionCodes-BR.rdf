@@ -113,7 +113,7 @@
       <rdfs:label>Acre</rdfs:label>
       <skos:definition>The state of Acre in the country of Brazil</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Brazil"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="pt">Acre</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="pt">Acre</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-br;State"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-br;"/>
    </owl:NamedIndividual>
@@ -143,7 +143,7 @@
       <rdfs:label>Amazonas</rdfs:label>
       <skos:definition>The state of Amazonas in the country of Brazil</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Brazil"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="pt">Amazonas</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="pt">Amazonas</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-br;State"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-br;"/>
    </owl:NamedIndividual>
@@ -173,7 +173,7 @@
       <rdfs:label>Ceará</rdfs:label>
       <skos:definition>The state of Ceará in the country of Brazil</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Brazil"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="pt">Ceará</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="pt">Ceará</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-br;State"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-br;"/>
    </owl:NamedIndividual>
@@ -203,7 +203,7 @@
       <rdfs:label>Roraima</rdfs:label>
       <skos:definition>The state of Roraima in the country of Brazil</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Brazil"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="pt">Roraima</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="pt">Roraima</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-br;State"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-br;"/>
    </owl:NamedIndividual>
@@ -233,7 +233,7 @@
       <rdfs:label>Goiás</rdfs:label>
       <skos:definition>The state of Goiás in the country of Brazil</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Brazil"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="pt">Goiás</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="pt">Goiás</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-br;State"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-br;"/>
    </owl:NamedIndividual>
@@ -263,7 +263,7 @@
       <rdfs:label>Minas Gerais</rdfs:label>
       <skos:definition>The state of Minas Gerais in the country of Brazil</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Brazil"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="pt">Minas Gerais</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="pt">Minas Gerais</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-br;State"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-br;"/>
    </owl:NamedIndividual>
@@ -293,7 +293,7 @@
       <rdfs:label>Espírito Santo</rdfs:label>
       <skos:definition>The state of Espírito Santo in the country of Brazil</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Brazil"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="pt">Espírito Santo</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="pt">Espírito Santo</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-br;State"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-br;"/>
    </owl:NamedIndividual>
@@ -323,7 +323,7 @@
       <rdfs:label>Amapá</rdfs:label>
       <skos:definition>The state of Amapá in the country of Brazil</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Brazil"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="pt">Amapá</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="pt">Amapá</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-br;State"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-br;"/>
    </owl:NamedIndividual>
@@ -353,7 +353,7 @@
       <rdfs:label>Bahia</rdfs:label>
       <skos:definition>The state of Bahia in the country of Brazil</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Brazil"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="pt">Bahia</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="pt">Bahia</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-br;State"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-br;"/>
    </owl:NamedIndividual>
@@ -383,7 +383,7 @@
       <rdfs:label>Mato Grosso do Sul</rdfs:label>
       <skos:definition>The state of Mato Grosso do Sul in the country of Brazil</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Brazil"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="pt">Mato Grosso do Sul</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="pt">Mato Grosso do Sul</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-br;State"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-br;"/>
    </owl:NamedIndividual>
@@ -413,7 +413,7 @@
       <rdfs:label>Paraná</rdfs:label>
       <skos:definition>The state of Paraná in the country of Brazil</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Brazil"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="pt">Paraná</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="pt">Paraná</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-br;State"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-br;"/>
    </owl:NamedIndividual>
@@ -443,7 +443,7 @@
       <rdfs:label>Rio Grande do Norte</rdfs:label>
       <skos:definition>The state of Rio Grande do Norte in the country of Brazil</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Brazil"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="pt">Rio Grande do Norte</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="pt">Rio Grande do Norte</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-br;State"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-br;"/>
    </owl:NamedIndividual>
@@ -473,7 +473,7 @@
       <rdfs:label>Mato Grosso</rdfs:label>
       <skos:definition>The state of Mato Grosso in the country of Brazil</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Brazil"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="pt">Mato Grosso</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="pt">Mato Grosso</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-br;State"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-br;"/>
    </owl:NamedIndividual>
@@ -503,7 +503,7 @@
       <rdfs:label>Paraíba</rdfs:label>
       <skos:definition>The state of Paraíba in the country of Brazil</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Brazil"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="pt">Paraíba</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="pt">Paraíba</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-br;State"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-br;"/>
    </owl:NamedIndividual>
@@ -533,7 +533,7 @@
       <rdfs:label>Pernambuco</rdfs:label>
       <skos:definition>The state of Pernambuco in the country of Brazil</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Brazil"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="pt">Pernambuco</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="pt">Pernambuco</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-br;State"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-br;"/>
    </owl:NamedIndividual>
@@ -563,7 +563,7 @@
       <rdfs:label>Rio de Janeiro</rdfs:label>
       <skos:definition>The state of Rio de Janeiro in the country of Brazil</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Brazil"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="pt">Rio de Janeiro</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="pt">Rio de Janeiro</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-br;State"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-br;"/>
    </owl:NamedIndividual>
@@ -593,7 +593,7 @@
       <rdfs:label>Rondônia</rdfs:label>
       <skos:definition>The state of Rondônia in the country of Brazil</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Brazil"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="pt">Rondônia</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="pt">Rondônia</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-br;State"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-br;"/>
    </owl:NamedIndividual>
@@ -623,7 +623,7 @@
       <rdfs:label>Santa Catarina</rdfs:label>
       <skos:definition>The state of Santa Catarina in the country of Brazil</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Brazil"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="pt">Santa Catarina</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="pt">Santa Catarina</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-br;State"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-br;"/>
    </owl:NamedIndividual>
@@ -653,7 +653,7 @@
       <rdfs:label>São Paulo</rdfs:label>
       <skos:definition>The state of São Paulo in the country of Brazil</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Brazil"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="pt">São Paulo</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="pt">São Paulo</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-br;State"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-br;"/>
    </owl:NamedIndividual>
@@ -683,7 +683,7 @@
       <rdfs:label>Alagoas</rdfs:label>
       <skos:definition>The state of Alagoas in the country of Brazil</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Brazil"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="pt">Alagoas</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="pt">Alagoas</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-br;State"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-br;"/>
    </owl:NamedIndividual>
@@ -713,7 +713,7 @@
       <rdfs:label>Distrito Federal</rdfs:label>
       <skos:definition>The federal district of Distrito Federal in the country of Brazil</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Brazil"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="pt">Distrito Federal</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="pt">Distrito Federal</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-br;FederalDistrict"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-br;"/>
    </owl:NamedIndividual>
@@ -743,7 +743,7 @@
       <rdfs:label>Maranhão</rdfs:label>
       <skos:definition>The state of Maranhão in the country of Brazil</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Brazil"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="pt">Maranhão</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="pt">Maranhão</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-br;State"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-br;"/>
    </owl:NamedIndividual>
@@ -773,7 +773,7 @@
       <rdfs:label>Pará</rdfs:label>
       <skos:definition>The state of Pará in the country of Brazil</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Brazil"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="pt">Pará</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="pt">Pará</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-br;State"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-br;"/>
    </owl:NamedIndividual>
@@ -803,7 +803,7 @@
       <rdfs:label>Piauí</rdfs:label>
       <skos:definition>The state of Piauí in the country of Brazil</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Brazil"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="pt">Piauí</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="pt">Piauí</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-br;State"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-br;"/>
    </owl:NamedIndividual>
@@ -833,7 +833,7 @@
       <rdfs:label>Rio Grande do Sul</rdfs:label>
       <skos:definition>The state of Rio Grande do Sul in the country of Brazil</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Brazil"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="pt">Rio Grande do Sul</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="pt">Rio Grande do Sul</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-br;State"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-br;"/>
    </owl:NamedIndividual>
@@ -863,7 +863,7 @@
       <rdfs:label>Sergipe</rdfs:label>
       <skos:definition>The state of Sergipe in the country of Brazil</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Brazil"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="pt">Sergipe</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="pt">Sergipe</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-br;State"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-br;"/>
    </owl:NamedIndividual>
@@ -893,7 +893,7 @@
       <rdfs:label>Tocantins</rdfs:label>
       <skos:definition>The state of Tocantins in the country of Brazil</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Brazil"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="pt">Tocantins</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="pt">Tocantins</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-br;State"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-br;"/>
    </owl:NamedIndividual>
@@ -923,8 +923,8 @@
       <rdfs:label>Fernando de Noronha Island</rdfs:label>
       <skos:definition>The territory of Fernando de Noronha Island in the country of Brazil</skos:definition>
       <lcc-cr:hasNumericRegionCode rdf:datatype="&xsd;string">1060</lcc-cr:hasNumericRegionCode>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">l'Île Fernando de Noronha</lcc-cr:hasFrenchShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Fernando de Noronha Island</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">l'Île Fernando de Noronha</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Fernando de Noronha Island</lcc-cr:hasEnglishShortName>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Brazil"/>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2;Territory"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-br;"/>
@@ -942,8 +942,8 @@
       <rdfs:label>Martim Vaz Islands</rdfs:label>
       <skos:definition>The territory of Martim Vaz Islands in the country of Brazil</skos:definition>
       <lcc-cr:hasNumericRegionCode rdf:datatype="&xsd;string">1123</lcc-cr:hasNumericRegionCode>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">les Îles Martim Vaz</lcc-cr:hasFrenchShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Martim Vaz Islands</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">les Îles Martim Vaz</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Martim Vaz Islands</lcc-cr:hasEnglishShortName>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Brazil"/>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2;Territory"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-br;"/>
@@ -961,8 +961,8 @@
       <rdfs:label>Trindade Island</rdfs:label>
       <skos:definition>The territory of Trindade Island in the country of Brazil</skos:definition>
       <lcc-cr:hasNumericRegionCode rdf:datatype="&xsd;string">1212</lcc-cr:hasNumericRegionCode>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">l'Île de Trindade</lcc-cr:hasFrenchShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Trindade Island</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">l'Île de Trindade</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Trindade Island</lcc-cr:hasEnglishShortName>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Brazil"/>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2;Territory"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-br;"/>

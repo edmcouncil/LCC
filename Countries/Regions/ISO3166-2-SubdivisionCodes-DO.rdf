@@ -120,7 +120,7 @@
       <rdfs:label>Cibao Nordeste</rdfs:label>
       <skos:definition>The region of Cibao Nordeste in the country of Dominican Republic (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;DominicanRepublic"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Cibao Nordeste</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Cibao Nordeste</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-do;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-do;"/>
    </owl:NamedIndividual>
@@ -148,7 +148,7 @@
       <rdfs:label>Hermanas Mirabal</rdfs:label>
       <skos:definition>The province of Hermanas Mirabal in the country of Dominican Republic (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-do;CibaoNordeste"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Hermanas Mirabal</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Hermanas Mirabal</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-do;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-do;"/>
    </owl:NamedIndividual>
@@ -178,7 +178,7 @@
       <rdfs:label>Samaná</rdfs:label>
       <skos:definition>The province of Samaná in the country of Dominican Republic (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-do;CibaoNordeste"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Samaná</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Samaná</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-do;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-do;"/>
    </owl:NamedIndividual>
@@ -208,7 +208,7 @@
       <rdfs:label>María Trinidad Sánchez</rdfs:label>
       <skos:definition>The province of María Trinidad Sánchez in the country of Dominican Republic (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-do;CibaoNordeste"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">María Trinidad Sánchez</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">María Trinidad Sánchez</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-do;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-do;"/>
    </owl:NamedIndividual>
@@ -238,7 +238,7 @@
       <rdfs:label>Duarte</rdfs:label>
       <skos:definition>The province of Duarte in the country of Dominican Republic (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-do;CibaoNordeste"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Duarte</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Duarte</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-do;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-do;"/>
    </owl:NamedIndividual>
@@ -270,7 +270,7 @@
       <rdfs:label>Cibao Noroeste</rdfs:label>
       <skos:definition>The region of Cibao Noroeste in the country of Dominican Republic (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;DominicanRepublic"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Cibao Noroeste</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Cibao Noroeste</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-do;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-do;"/>
    </owl:NamedIndividual>
@@ -298,7 +298,7 @@
       <rdfs:label>Santiago Rodríguez</rdfs:label>
       <skos:definition>The province of Santiago Rodríguez in the country of Dominican Republic (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-do;CibaoNoroeste"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Santiago Rodríguez</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Santiago Rodríguez</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-do;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-do;"/>
    </owl:NamedIndividual>
@@ -328,7 +328,7 @@
       <rdfs:label>Valverde</rdfs:label>
       <skos:definition>The province of Valverde in the country of Dominican Republic (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-do;CibaoNoroeste"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Valverde</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Valverde</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-do;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-do;"/>
    </owl:NamedIndividual>
@@ -358,7 +358,7 @@
       <rdfs:label>Dajabón</rdfs:label>
       <skos:definition>The province of Dajabón in the country of Dominican Republic (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-do;CibaoNoroeste"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Dajabón</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Dajabón</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-do;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-do;"/>
    </owl:NamedIndividual>
@@ -388,7 +388,7 @@
       <rdfs:label>Monte Cristi</rdfs:label>
       <skos:definition>The province of Monte Cristi in the country of Dominican Republic (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-do;CibaoNoroeste"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Monte Cristi</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Monte Cristi</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-do;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-do;"/>
    </owl:NamedIndividual>
@@ -420,7 +420,7 @@
       <rdfs:label>Cibao Norte</rdfs:label>
       <skos:definition>The region of Cibao Norte in the country of Dominican Republic (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;DominicanRepublic"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Cibao Norte</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Cibao Norte</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-do;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-do;"/>
    </owl:NamedIndividual>
@@ -448,7 +448,7 @@
       <rdfs:label>Espaillat</rdfs:label>
       <skos:definition>The province of Espaillat in the country of Dominican Republic (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-do;CibaoNorte"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Espaillat</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Espaillat</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-do;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-do;"/>
    </owl:NamedIndividual>
@@ -478,7 +478,7 @@
       <rdfs:label>Puerto Plata</rdfs:label>
       <skos:definition>The province of Puerto Plata in the country of Dominican Republic (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-do;CibaoNorte"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Puerto Plata</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Puerto Plata</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-do;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-do;"/>
    </owl:NamedIndividual>
@@ -508,7 +508,7 @@
       <rdfs:label>Santiago</rdfs:label>
       <skos:definition>The province of Santiago in the country of Dominican Republic (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-do;CibaoNorte"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Santiago</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Santiago</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-do;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-do;"/>
    </owl:NamedIndividual>
@@ -540,7 +540,7 @@
       <rdfs:label>Cibao Sur</rdfs:label>
       <skos:definition>The region of Cibao Sur in the country of Dominican Republic (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;DominicanRepublic"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Cibao Sur</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Cibao Sur</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-do;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-do;"/>
    </owl:NamedIndividual>
@@ -568,7 +568,7 @@
       <rdfs:label>Sánchez Ramírez</rdfs:label>
       <skos:definition>The province of Sánchez Ramírez in the country of Dominican Republic (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-do;CibaoSur"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Sánchez Ramírez</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Sánchez Ramírez</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-do;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-do;"/>
    </owl:NamedIndividual>
@@ -598,7 +598,7 @@
       <rdfs:label>La Vega</rdfs:label>
       <skos:definition>The province of La Vega in the country of Dominican Republic (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-do;CibaoSur"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">La Vega</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">La Vega</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-do;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-do;"/>
    </owl:NamedIndividual>
@@ -628,7 +628,7 @@
       <rdfs:label>Monseñor Nouel</rdfs:label>
       <skos:definition>The province of Monseñor Nouel in the country of Dominican Republic (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-do;CibaoSur"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Monseñor Nouel</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Monseñor Nouel</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-do;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-do;"/>
    </owl:NamedIndividual>
@@ -660,7 +660,7 @@
       <rdfs:label>El Valle</rdfs:label>
       <skos:definition>The region of El Valle in the country of Dominican Republic (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;DominicanRepublic"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">El Valle</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">El Valle</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-do;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-do;"/>
    </owl:NamedIndividual>
@@ -688,7 +688,7 @@
       <rdfs:label>Elías Piña</rdfs:label>
       <skos:definition>The province of Elías Piña in the country of Dominican Republic (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-do;ElValle"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Elías Piña</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Elías Piña</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-do;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-do;"/>
    </owl:NamedIndividual>
@@ -718,7 +718,7 @@
       <rdfs:label>San Juan</rdfs:label>
       <skos:definition>The province of San Juan in the country of Dominican Republic (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-do;ElValle"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">San Juan</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">San Juan</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-do;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-do;"/>
    </owl:NamedIndividual>
@@ -750,7 +750,7 @@
       <rdfs:label>Enriquillo</rdfs:label>
       <skos:definition>The region of Enriquillo in the country of Dominican Republic (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;DominicanRepublic"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Enriquillo</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Enriquillo</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-do;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-do;"/>
    </owl:NamedIndividual>
@@ -778,7 +778,7 @@
       <rdfs:label>Baoruco</rdfs:label>
       <skos:definition>The province of Baoruco in the country of Dominican Republic (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-do;Enriquillo"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Baoruco</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Baoruco</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-do;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-do;"/>
    </owl:NamedIndividual>
@@ -808,7 +808,7 @@
       <rdfs:label>Pedernales</rdfs:label>
       <skos:definition>The province of Pedernales in the country of Dominican Republic (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-do;Enriquillo"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Pedernales</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Pedernales</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-do;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-do;"/>
    </owl:NamedIndividual>
@@ -838,7 +838,7 @@
       <rdfs:label>Barahona</rdfs:label>
       <skos:definition>The province of Barahona in the country of Dominican Republic (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-do;Enriquillo"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Barahona</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Barahona</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-do;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-do;"/>
    </owl:NamedIndividual>
@@ -868,7 +868,7 @@
       <rdfs:label>Independencia</rdfs:label>
       <skos:definition>The province of Independencia in the country of Dominican Republic (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-do;Enriquillo"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Independencia</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Independencia</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-do;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-do;"/>
    </owl:NamedIndividual>
@@ -900,7 +900,7 @@
       <rdfs:label>Higuamo</rdfs:label>
       <skos:definition>The region of Higuamo in the country of Dominican Republic (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;DominicanRepublic"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Higuamo</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Higuamo</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-do;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-do;"/>
    </owl:NamedIndividual>
@@ -928,7 +928,7 @@
       <rdfs:label>San Pedro de Macorís</rdfs:label>
       <skos:definition>The province of San Pedro de Macorís in the country of Dominican Republic (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-do;Higuamo"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">San Pedro de Macorís</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">San Pedro de Macorís</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-do;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-do;"/>
    </owl:NamedIndividual>
@@ -958,7 +958,7 @@
       <rdfs:label>Hato Mayor</rdfs:label>
       <skos:definition>The province of Hato Mayor in the country of Dominican Republic (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-do;Higuamo"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Hato Mayor</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Hato Mayor</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-do;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-do;"/>
    </owl:NamedIndividual>
@@ -988,7 +988,7 @@
       <rdfs:label>Monte Plata</rdfs:label>
       <skos:definition>The province of Monte Plata in the country of Dominican Republic (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-do;Higuamo"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Monte Plata</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Monte Plata</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-do;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-do;"/>
    </owl:NamedIndividual>
@@ -1020,7 +1020,7 @@
       <rdfs:label>Ozama</rdfs:label>
       <skos:definition>The region of Ozama in the country of Dominican Republic (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;DominicanRepublic"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Ozama</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Ozama</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-do;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-do;"/>
    </owl:NamedIndividual>
@@ -1048,7 +1048,7 @@
       <rdfs:label>Santo Domingo</rdfs:label>
       <skos:definition>The province of Santo Domingo in the country of Dominican Republic (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-do;Ozama"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Santo Domingo</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Santo Domingo</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-do;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-do;"/>
    </owl:NamedIndividual>
@@ -1078,7 +1078,7 @@
       <rdfs:label>Distrito Nacional (Santo Domingo)</rdfs:label>
       <skos:definition>The district of Distrito Nacional (Santo Domingo) in the country of Dominican Republic (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-do;Ozama"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Distrito Nacional (Santo Domingo)</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Distrito Nacional (Santo Domingo)</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-do;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-do;"/>
    </owl:NamedIndividual>
@@ -1110,7 +1110,7 @@
       <rdfs:label>Valdesia</rdfs:label>
       <skos:definition>The region of Valdesia in the country of Dominican Republic (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;DominicanRepublic"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Valdesia</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Valdesia</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-do;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-do;"/>
    </owl:NamedIndividual>
@@ -1138,7 +1138,7 @@
       <rdfs:label>Peravia</rdfs:label>
       <skos:definition>The province of Peravia in the country of Dominican Republic (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-do;Valdesia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Peravia</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Peravia</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-do;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-do;"/>
    </owl:NamedIndividual>
@@ -1168,7 +1168,7 @@
       <rdfs:label>San Cristóbal</rdfs:label>
       <skos:definition>The province of San Cristóbal in the country of Dominican Republic (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-do;Valdesia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">San Cristóbal</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">San Cristóbal</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-do;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-do;"/>
    </owl:NamedIndividual>
@@ -1198,7 +1198,7 @@
       <rdfs:label>San José de Ocoa</rdfs:label>
       <skos:definition>The province of San José de Ocoa in the country of Dominican Republic (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-do;Valdesia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">San José de Ocoa</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">San José de Ocoa</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-do;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-do;"/>
    </owl:NamedIndividual>
@@ -1228,7 +1228,7 @@
       <rdfs:label>Azua</rdfs:label>
       <skos:definition>The province of Azua in the country of Dominican Republic (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-do;Valdesia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Azua</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Azua</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-do;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-do;"/>
    </owl:NamedIndividual>
@@ -1260,7 +1260,7 @@
       <rdfs:label>Yuma</rdfs:label>
       <skos:definition>The region of Yuma in the country of Dominican Republic (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;DominicanRepublic"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Yuma</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Yuma</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-do;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-do;"/>
    </owl:NamedIndividual>
@@ -1288,7 +1288,7 @@
       <rdfs:label>La Altagracia</rdfs:label>
       <skos:definition>The province of La Altagracia in the country of Dominican Republic (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-do;Yuma"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">La Altagracia</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">La Altagracia</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-do;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-do;"/>
    </owl:NamedIndividual>
@@ -1318,7 +1318,7 @@
       <rdfs:label>El Seibo</rdfs:label>
       <skos:definition>The province of El Seibo in the country of Dominican Republic (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-do;Yuma"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">El Seibo</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">El Seibo</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-do;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-do;"/>
    </owl:NamedIndividual>
@@ -1348,7 +1348,7 @@
       <rdfs:label>La Romana</rdfs:label>
       <skos:definition>The province of La Romana in the country of Dominican Republic (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-do;Yuma"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">La Romana</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">La Romana</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-do;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-do;"/>
    </owl:NamedIndividual>

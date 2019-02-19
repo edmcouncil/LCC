@@ -106,7 +106,7 @@
       <rdfs:label>Ash Shīḩānīyah</rdfs:label>
       <skos:definition>The municipality of Ash Shīḩānīyah in the country of Qatar</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Qatar"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Ash Shīḩānīyah</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Ash Shīḩānīyah</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-qa;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-qa;"/>
    </owl:NamedIndividual>
@@ -136,7 +136,7 @@
       <rdfs:label>Umm Şalāl</rdfs:label>
       <skos:definition>The municipality of Umm Şalāl in the country of Qatar</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Qatar"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Umm Şalāl</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Umm Şalāl</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-qa;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-qa;"/>
    </owl:NamedIndividual>
@@ -166,7 +166,7 @@
       <rdfs:label>Al Wakrah</rdfs:label>
       <skos:definition>The municipality of Al Wakrah in the country of Qatar</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Qatar"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Al Wakrah</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Al Wakrah</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-qa;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-qa;"/>
    </owl:NamedIndividual>
@@ -196,7 +196,7 @@
       <rdfs:label>Az̧ Z̧a‘āyin</rdfs:label>
       <skos:definition>The municipality of Az̧ Z̧a‘āyin in the country of Qatar</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Qatar"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Az̧ Z̧a‘āyin</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Az̧ Z̧a‘āyin</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-qa;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-qa;"/>
    </owl:NamedIndividual>
@@ -226,7 +226,7 @@
       <rdfs:label>Ar Rayyān</rdfs:label>
       <skos:definition>The municipality of Ar Rayyān in the country of Qatar</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Qatar"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Ar Rayyān</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Ar Rayyān</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-qa;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-qa;"/>
    </owl:NamedIndividual>
@@ -256,7 +256,7 @@
       <rdfs:label>Ad Dawḩah</rdfs:label>
       <skos:definition>The municipality of Ad Dawḩah in the country of Qatar</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Qatar"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Ad Dawḩah</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Ad Dawḩah</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-qa;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-qa;"/>
    </owl:NamedIndividual>
@@ -286,7 +286,7 @@
       <rdfs:label>Al Khawr wa adh Dhakhīrah</rdfs:label>
       <skos:definition>The municipality of Al Khawr wa adh Dhakhīrah in the country of Qatar</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Qatar"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Al Khawr wa adh Dhakhīrah</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Al Khawr wa adh Dhakhīrah</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-qa;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-qa;"/>
    </owl:NamedIndividual>
@@ -316,7 +316,7 @@
       <rdfs:label>Ash Shamāl</rdfs:label>
       <skos:definition>The municipality of Ash Shamāl in the country of Qatar</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Qatar"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Ash Shamāl</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Ash Shamāl</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-qa;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-qa;"/>
    </owl:NamedIndividual>

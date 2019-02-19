@@ -106,7 +106,7 @@
       <rdfs:label>Tébessa</rdfs:label>
       <skos:definition>The province of Tébessa in the country of Algeria</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Algeria"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Tébessa</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Tébessa</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-dz;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-dz;"/>
    </owl:NamedIndividual>
@@ -136,7 +136,7 @@
       <rdfs:label>Médéa</rdfs:label>
       <skos:definition>The province of Médéa in the country of Algeria</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Algeria"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Médéa</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Médéa</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-dz;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-dz;"/>
    </owl:NamedIndividual>
@@ -166,7 +166,7 @@
       <rdfs:label>Mascara</rdfs:label>
       <skos:definition>The province of Mascara in the country of Algeria</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Algeria"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Mascara</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Mascara</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-dz;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-dz;"/>
    </owl:NamedIndividual>
@@ -196,7 +196,7 @@
       <rdfs:label>Bordj Bou Arréridj</rdfs:label>
       <skos:definition>The province of Bordj Bou Arréridj in the country of Algeria</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Algeria"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Bordj Bou Arréridj</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Bordj Bou Arréridj</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-dz;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-dz;"/>
    </owl:NamedIndividual>
@@ -226,7 +226,7 @@
       <rdfs:label>Tindouf</rdfs:label>
       <skos:definition>The province of Tindouf in the country of Algeria</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Algeria"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Tindouf</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Tindouf</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-dz;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-dz;"/>
    </owl:NamedIndividual>
@@ -256,7 +256,7 @@
       <rdfs:label>Béjaïa</rdfs:label>
       <skos:definition>The province of Béjaïa in the country of Algeria</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Algeria"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Béjaïa</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Béjaïa</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-dz;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-dz;"/>
    </owl:NamedIndividual>
@@ -286,7 +286,7 @@
       <rdfs:label>Tamanrasset</rdfs:label>
       <skos:definition>The province of Tamanrasset in the country of Algeria</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Algeria"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Tamanrasset</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Tamanrasset</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-dz;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-dz;"/>
    </owl:NamedIndividual>
@@ -316,7 +316,7 @@
       <rdfs:label>Tlemcen</rdfs:label>
       <skos:definition>The province of Tlemcen in the country of Algeria</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Algeria"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Tlemcen</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Tlemcen</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-dz;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-dz;"/>
    </owl:NamedIndividual>
@@ -346,7 +346,7 @@
       <rdfs:label>Mostaganem</rdfs:label>
       <skos:definition>The province of Mostaganem in the country of Algeria</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Algeria"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Mostaganem</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Mostaganem</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-dz;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-dz;"/>
    </owl:NamedIndividual>
@@ -376,7 +376,7 @@
       <rdfs:label>Khenchela</rdfs:label>
       <skos:definition>The province of Khenchela in the country of Algeria</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Algeria"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Khenchela</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Khenchela</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-dz;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-dz;"/>
    </owl:NamedIndividual>
@@ -406,7 +406,7 @@
       <rdfs:label>Laghouat</rdfs:label>
       <skos:definition>The province of Laghouat in the country of Algeria</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Algeria"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Laghouat</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Laghouat</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-dz;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-dz;"/>
    </owl:NamedIndividual>
@@ -436,7 +436,7 @@
       <rdfs:label>Blida</rdfs:label>
       <skos:definition>The province of Blida in the country of Algeria</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Algeria"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Blida</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Blida</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-dz;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-dz;"/>
    </owl:NamedIndividual>
@@ -466,7 +466,7 @@
       <rdfs:label>Tiaret</rdfs:label>
       <skos:definition>The province of Tiaret in the country of Algeria</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Algeria"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Tiaret</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Tiaret</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-dz;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-dz;"/>
    </owl:NamedIndividual>
@@ -496,7 +496,7 @@
       <rdfs:label>Tizi Ouzou</rdfs:label>
       <skos:definition>The province of Tizi Ouzou in the country of Algeria</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Algeria"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Tizi Ouzou</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Tizi Ouzou</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-dz;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-dz;"/>
    </owl:NamedIndividual>
@@ -526,7 +526,7 @@
       <rdfs:label>Sétif</rdfs:label>
       <skos:definition>The province of Sétif in the country of Algeria</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Algeria"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Sétif</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Sétif</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-dz;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-dz;"/>
    </owl:NamedIndividual>
@@ -556,7 +556,7 @@
       <rdfs:label>Saïda</rdfs:label>
       <skos:definition>The province of Saïda in the country of Algeria</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Algeria"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Saïda</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Saïda</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-dz;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-dz;"/>
    </owl:NamedIndividual>
@@ -586,7 +586,7 @@
       <rdfs:label>Boumerdès</rdfs:label>
       <skos:definition>The province of Boumerdès in the country of Algeria</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Algeria"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Boumerdès</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Boumerdès</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-dz;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-dz;"/>
    </owl:NamedIndividual>
@@ -616,7 +616,7 @@
       <rdfs:label>Souk Ahras</rdfs:label>
       <skos:definition>The province of Souk Ahras in the country of Algeria</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Algeria"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Souk Ahras</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Souk Ahras</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-dz;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-dz;"/>
    </owl:NamedIndividual>
@@ -646,7 +646,7 @@
       <rdfs:label>Tipaza</rdfs:label>
       <skos:definition>The province of Tipaza in the country of Algeria</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Algeria"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Tipaza</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Tipaza</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-dz;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-dz;"/>
    </owl:NamedIndividual>
@@ -676,7 +676,7 @@
       <rdfs:label>Aïn Defla</rdfs:label>
       <skos:definition>The province of Aïn Defla in the country of Algeria</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Algeria"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Aïn Defla</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Aïn Defla</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-dz;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-dz;"/>
    </owl:NamedIndividual>
@@ -706,7 +706,7 @@
       <rdfs:label>Chlef</rdfs:label>
       <skos:definition>The province of Chlef in the country of Algeria</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Algeria"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Chlef</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Chlef</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-dz;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-dz;"/>
    </owl:NamedIndividual>
@@ -736,7 +736,7 @@
       <rdfs:label>Oum el Bouaghi</rdfs:label>
       <skos:definition>The province of Oum el Bouaghi in the country of Algeria</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Algeria"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Oum el Bouaghi</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Oum el Bouaghi</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-dz;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-dz;"/>
    </owl:NamedIndividual>
@@ -766,7 +766,7 @@
       <rdfs:label>Batna</rdfs:label>
       <skos:definition>The province of Batna in the country of Algeria</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Algeria"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Batna</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Batna</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-dz;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-dz;"/>
    </owl:NamedIndividual>
@@ -796,7 +796,7 @@
       <rdfs:label>Annaba</rdfs:label>
       <skos:definition>The province of Annaba in the country of Algeria</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Algeria"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Annaba</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Annaba</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-dz;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-dz;"/>
    </owl:NamedIndividual>
@@ -826,7 +826,7 @@
       <rdfs:label>El Oued</rdfs:label>
       <skos:definition>The province of El Oued in the country of Algeria</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Algeria"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">El Oued</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">El Oued</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-dz;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-dz;"/>
    </owl:NamedIndividual>
@@ -856,7 +856,7 @@
       <rdfs:label>Adrar</rdfs:label>
       <skos:definition>The province of Adrar in the country of Algeria</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Algeria"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Adrar</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Adrar</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-dz;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-dz;"/>
    </owl:NamedIndividual>
@@ -886,7 +886,7 @@
       <rdfs:label>Béchar</rdfs:label>
       <skos:definition>The province of Béchar in the country of Algeria</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Algeria"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Béchar</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Béchar</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-dz;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-dz;"/>
    </owl:NamedIndividual>
@@ -916,7 +916,7 @@
       <rdfs:label>Alger</rdfs:label>
       <skos:definition>The province of Alger in the country of Algeria</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Algeria"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Alger</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Alger</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-dz;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-dz;"/>
    </owl:NamedIndividual>
@@ -946,7 +946,7 @@
       <rdfs:label>M'sila</rdfs:label>
       <skos:definition>The province of M'sila in the country of Algeria</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Algeria"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">M'sila</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">M'sila</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-dz;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-dz;"/>
    </owl:NamedIndividual>
@@ -976,7 +976,7 @@
       <rdfs:label>Oran</rdfs:label>
       <skos:definition>The province of Oran in the country of Algeria</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Algeria"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Oran</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Oran</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-dz;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-dz;"/>
    </owl:NamedIndividual>
@@ -1006,7 +1006,7 @@
       <rdfs:label>Biskra</rdfs:label>
       <skos:definition>The province of Biskra in the country of Algeria</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Algeria"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Biskra</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Biskra</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-dz;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-dz;"/>
    </owl:NamedIndividual>
@@ -1036,7 +1036,7 @@
       <rdfs:label>Guelma</rdfs:label>
       <skos:definition>The province of Guelma in the country of Algeria</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Algeria"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Guelma</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Guelma</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-dz;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-dz;"/>
    </owl:NamedIndividual>
@@ -1066,7 +1066,7 @@
       <rdfs:label>Illizi</rdfs:label>
       <skos:definition>The province of Illizi in the country of Algeria</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Algeria"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Illizi</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Illizi</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-dz;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-dz;"/>
    </owl:NamedIndividual>
@@ -1096,7 +1096,7 @@
       <rdfs:label>El Tarf</rdfs:label>
       <skos:definition>The province of El Tarf in the country of Algeria</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Algeria"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">El Tarf</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">El Tarf</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-dz;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-dz;"/>
    </owl:NamedIndividual>
@@ -1126,7 +1126,7 @@
       <rdfs:label>Tissemsilt</rdfs:label>
       <skos:definition>The province of Tissemsilt in the country of Algeria</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Algeria"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Tissemsilt</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Tissemsilt</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-dz;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-dz;"/>
    </owl:NamedIndividual>
@@ -1156,7 +1156,7 @@
       <rdfs:label>Naama</rdfs:label>
       <skos:definition>The province of Naama in the country of Algeria</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Algeria"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Naama</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Naama</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-dz;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-dz;"/>
    </owl:NamedIndividual>
@@ -1186,7 +1186,7 @@
       <rdfs:label>Bouira</rdfs:label>
       <skos:definition>The province of Bouira in the country of Algeria</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Algeria"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Bouira</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Bouira</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-dz;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-dz;"/>
    </owl:NamedIndividual>
@@ -1216,7 +1216,7 @@
       <rdfs:label>Skikda</rdfs:label>
       <skos:definition>The province of Skikda in the country of Algeria</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Algeria"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Skikda</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Skikda</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-dz;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-dz;"/>
    </owl:NamedIndividual>
@@ -1246,7 +1246,7 @@
       <rdfs:label>Constantine</rdfs:label>
       <skos:definition>The province of Constantine in the country of Algeria</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Algeria"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Constantine</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Constantine</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-dz;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-dz;"/>
    </owl:NamedIndividual>
@@ -1276,7 +1276,7 @@
       <rdfs:label>El Bayadh</rdfs:label>
       <skos:definition>The province of El Bayadh in the country of Algeria</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Algeria"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">El Bayadh</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">El Bayadh</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-dz;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-dz;"/>
    </owl:NamedIndividual>
@@ -1306,7 +1306,7 @@
       <rdfs:label>Mila</rdfs:label>
       <skos:definition>The province of Mila in the country of Algeria</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Algeria"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Mila</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Mila</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-dz;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-dz;"/>
    </owl:NamedIndividual>
@@ -1336,7 +1336,7 @@
       <rdfs:label>Aïn Témouchent</rdfs:label>
       <skos:definition>The province of Aïn Témouchent in the country of Algeria</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Algeria"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Aïn Témouchent</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Aïn Témouchent</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-dz;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-dz;"/>
    </owl:NamedIndividual>
@@ -1366,7 +1366,7 @@
       <rdfs:label>Relizane</rdfs:label>
       <skos:definition>The province of Relizane in the country of Algeria</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Algeria"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Relizane</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Relizane</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-dz;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-dz;"/>
    </owl:NamedIndividual>
@@ -1396,7 +1396,7 @@
       <rdfs:label>Djelfa</rdfs:label>
       <skos:definition>The province of Djelfa in the country of Algeria</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Algeria"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Djelfa</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Djelfa</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-dz;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-dz;"/>
    </owl:NamedIndividual>
@@ -1426,7 +1426,7 @@
       <rdfs:label>Jijel</rdfs:label>
       <skos:definition>The province of Jijel in the country of Algeria</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Algeria"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Jijel</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Jijel</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-dz;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-dz;"/>
    </owl:NamedIndividual>
@@ -1456,7 +1456,7 @@
       <rdfs:label>Sidi Bel Abbès</rdfs:label>
       <skos:definition>The province of Sidi Bel Abbès in the country of Algeria</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Algeria"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Sidi Bel Abbès</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Sidi Bel Abbès</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-dz;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-dz;"/>
    </owl:NamedIndividual>
@@ -1486,7 +1486,7 @@
       <rdfs:label>Ouargla</rdfs:label>
       <skos:definition>The province of Ouargla in the country of Algeria</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Algeria"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Ouargla</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Ouargla</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-dz;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-dz;"/>
    </owl:NamedIndividual>
@@ -1516,7 +1516,7 @@
       <rdfs:label>Ghardaïa</rdfs:label>
       <skos:definition>The province of Ghardaïa in the country of Algeria</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Algeria"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Ghardaïa</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Ghardaïa</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-dz;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-dz;"/>
    </owl:NamedIndividual>

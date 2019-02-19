@@ -106,7 +106,7 @@
       <rdfs:label>L'Ariana</rdfs:label>
       <skos:definition>The governorate of L'Ariana in the country of Tunisia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Tunisia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">L'Ariana</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">L'Ariana</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-tn;Governorate"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-tn;"/>
    </owl:NamedIndividual>
@@ -136,7 +136,7 @@
       <rdfs:label>Nabeul</rdfs:label>
       <skos:definition>The governorate of Nabeul in the country of Tunisia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Tunisia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Nabeul</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Nabeul</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-tn;Governorate"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-tn;"/>
    </owl:NamedIndividual>
@@ -166,7 +166,7 @@
       <rdfs:label>Tozeur</rdfs:label>
       <skos:definition>The governorate of Tozeur in the country of Tunisia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Tunisia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Tozeur</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Tozeur</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-tn;Governorate"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-tn;"/>
    </owl:NamedIndividual>
@@ -196,7 +196,7 @@
       <rdfs:label>Siliana</rdfs:label>
       <skos:definition>The governorate of Siliana in the country of Tunisia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Tunisia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Siliana</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Siliana</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-tn;Governorate"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-tn;"/>
    </owl:NamedIndividual>
@@ -226,7 +226,7 @@
       <rdfs:label>Kairouan</rdfs:label>
       <skos:definition>The governorate of Kairouan in the country of Tunisia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Tunisia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Kairouan</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Kairouan</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-tn;Governorate"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-tn;"/>
    </owl:NamedIndividual>
@@ -256,7 +256,7 @@
       <rdfs:label>Monastir</rdfs:label>
       <skos:definition>The governorate of Monastir in the country of Tunisia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Tunisia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Monastir</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Monastir</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-tn;Governorate"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-tn;"/>
    </owl:NamedIndividual>
@@ -286,7 +286,7 @@
       <rdfs:label>Tataouine</rdfs:label>
       <skos:definition>The governorate of Tataouine in the country of Tunisia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Tunisia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Tataouine</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Tataouine</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-tn;Governorate"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-tn;"/>
    </owl:NamedIndividual>
@@ -316,7 +316,7 @@
       <rdfs:label>Bizerte</rdfs:label>
       <skos:definition>The governorate of Bizerte in the country of Tunisia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Tunisia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Bizerte</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Bizerte</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-tn;Governorate"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-tn;"/>
    </owl:NamedIndividual>
@@ -346,7 +346,7 @@
       <rdfs:label>Sousse</rdfs:label>
       <skos:definition>The governorate of Sousse in the country of Tunisia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Tunisia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Sousse</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Sousse</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-tn;Governorate"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-tn;"/>
    </owl:NamedIndividual>
@@ -376,7 +376,7 @@
       <rdfs:label>Gafsa</rdfs:label>
       <skos:definition>The governorate of Gafsa in the country of Tunisia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Tunisia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Gafsa</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Gafsa</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-tn;Governorate"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-tn;"/>
    </owl:NamedIndividual>
@@ -406,7 +406,7 @@
       <rdfs:label>Le Kef</rdfs:label>
       <skos:definition>The governorate of Le Kef in the country of Tunisia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Tunisia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Le Kef</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Le Kef</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-tn;Governorate"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-tn;"/>
    </owl:NamedIndividual>
@@ -436,7 +436,7 @@
       <rdfs:label>Ben Arous</rdfs:label>
       <skos:definition>The governorate of Ben Arous in the country of Tunisia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Tunisia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Ben Arous</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Ben Arous</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-tn;Governorate"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-tn;"/>
    </owl:NamedIndividual>
@@ -466,7 +466,7 @@
       <rdfs:label>Kasserine</rdfs:label>
       <skos:definition>The governorate of Kasserine in the country of Tunisia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Tunisia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Kasserine</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Kasserine</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-tn;Governorate"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-tn;"/>
    </owl:NamedIndividual>
@@ -496,7 +496,7 @@
       <rdfs:label>Sidi Bouzid</rdfs:label>
       <skos:definition>The governorate of Sidi Bouzid in the country of Tunisia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Tunisia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Sidi Bouzid</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Sidi Bouzid</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-tn;Governorate"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-tn;"/>
    </owl:NamedIndividual>
@@ -526,7 +526,7 @@
       <rdfs:label>Mahdia</rdfs:label>
       <skos:definition>The governorate of Mahdia in the country of Tunisia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Tunisia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Mahdia</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Mahdia</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-tn;Governorate"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-tn;"/>
    </owl:NamedIndividual>
@@ -556,7 +556,7 @@
       <rdfs:label>Kébili</rdfs:label>
       <skos:definition>The governorate of Kébili in the country of Tunisia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Tunisia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Kébili</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Kébili</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-tn;Governorate"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-tn;"/>
    </owl:NamedIndividual>
@@ -586,7 +586,7 @@
       <rdfs:label>Tunis</rdfs:label>
       <skos:definition>The governorate of Tunis in the country of Tunisia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Tunisia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Tunis</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Tunis</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-tn;Governorate"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-tn;"/>
    </owl:NamedIndividual>
@@ -616,7 +616,7 @@
       <rdfs:label>La Manouba</rdfs:label>
       <skos:definition>The governorate of La Manouba in the country of Tunisia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Tunisia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">La Manouba</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">La Manouba</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-tn;Governorate"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-tn;"/>
    </owl:NamedIndividual>
@@ -646,7 +646,7 @@
       <rdfs:label>Béja</rdfs:label>
       <skos:definition>The governorate of Béja in the country of Tunisia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Tunisia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Béja</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Béja</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-tn;Governorate"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-tn;"/>
    </owl:NamedIndividual>
@@ -676,7 +676,7 @@
       <rdfs:label>Sfax</rdfs:label>
       <skos:definition>The governorate of Sfax in the country of Tunisia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Tunisia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Sfax</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Sfax</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-tn;Governorate"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-tn;"/>
    </owl:NamedIndividual>
@@ -706,7 +706,7 @@
       <rdfs:label>Gabès</rdfs:label>
       <skos:definition>The governorate of Gabès in the country of Tunisia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Tunisia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Gabès</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Gabès</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-tn;Governorate"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-tn;"/>
    </owl:NamedIndividual>
@@ -736,7 +736,7 @@
       <rdfs:label>Médenine</rdfs:label>
       <skos:definition>The governorate of Médenine in the country of Tunisia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Tunisia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Médenine</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Médenine</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-tn;Governorate"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-tn;"/>
    </owl:NamedIndividual>
@@ -766,7 +766,7 @@
       <rdfs:label>Zaghouan</rdfs:label>
       <skos:definition>The governorate of Zaghouan in the country of Tunisia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Tunisia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Zaghouan</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Zaghouan</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-tn;Governorate"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-tn;"/>
    </owl:NamedIndividual>
@@ -796,7 +796,7 @@
       <rdfs:label>Jendouba</rdfs:label>
       <skos:definition>The governorate of Jendouba in the country of Tunisia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Tunisia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Jendouba</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Jendouba</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-tn;Governorate"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-tn;"/>
    </owl:NamedIndividual>

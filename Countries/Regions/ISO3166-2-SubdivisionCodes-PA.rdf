@@ -113,7 +113,7 @@
       <rdfs:label>Bocas del Toro</rdfs:label>
       <skos:definition>The province of Bocas del Toro in the country of Panama</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Panama"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Bocas del Toro</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Bocas del Toro</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-pa;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-pa;"/>
    </owl:NamedIndividual>
@@ -143,7 +143,7 @@
       <rdfs:label>Coclé</rdfs:label>
       <skos:definition>The province of Coclé in the country of Panama</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Panama"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Coclé</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Coclé</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-pa;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-pa;"/>
    </owl:NamedIndividual>
@@ -173,7 +173,7 @@
       <rdfs:label>Darién</rdfs:label>
       <skos:definition>The province of Darién in the country of Panama</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Panama"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Darién</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Darién</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-pa;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-pa;"/>
    </owl:NamedIndividual>
@@ -203,7 +203,7 @@
       <rdfs:label>Ngöbe-Buglé</rdfs:label>
       <skos:definition>The indigenous region of Ngöbe-Buglé in the country of Panama</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Panama"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Ngöbe-Buglé</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Ngöbe-Buglé</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-pa;IndigenousRegion"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-pa;"/>
    </owl:NamedIndividual>
@@ -233,7 +233,7 @@
       <rdfs:label>Chiriquí</rdfs:label>
       <skos:definition>The province of Chiriquí in the country of Panama</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Panama"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Chiriquí</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Chiriquí</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-pa;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-pa;"/>
    </owl:NamedIndividual>
@@ -263,7 +263,7 @@
       <rdfs:label>Los Santos</rdfs:label>
       <skos:definition>The province of Los Santos in the country of Panama</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Panama"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Los Santos</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Los Santos</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-pa;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-pa;"/>
    </owl:NamedIndividual>
@@ -293,7 +293,7 @@
       <rdfs:label>Panamá</rdfs:label>
       <skos:definition>The province of Panamá in the country of Panama</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Panama"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Panamá</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Panamá</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-pa;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-pa;"/>
    </owl:NamedIndividual>
@@ -323,7 +323,7 @@
       <rdfs:label>Herrera</rdfs:label>
       <skos:definition>The province of Herrera in the country of Panama</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Panama"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Herrera</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Herrera</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-pa;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-pa;"/>
    </owl:NamedIndividual>
@@ -353,7 +353,7 @@
       <rdfs:label>Panamá Oeste</rdfs:label>
       <skos:definition>The province of Panamá Oeste in the country of Panama</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Panama"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Panamá Oeste</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Panamá Oeste</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-pa;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-pa;"/>
    </owl:NamedIndividual>
@@ -383,7 +383,7 @@
       <rdfs:label>Colón</rdfs:label>
       <skos:definition>The province of Colón in the country of Panama</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Panama"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Colón</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Colón</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-pa;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-pa;"/>
    </owl:NamedIndividual>
@@ -413,7 +413,7 @@
       <rdfs:label>Guna Yala</rdfs:label>
       <skos:definition>The indigenous region of Guna Yala in the country of Panama</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Panama"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Guna Yala</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Guna Yala</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-pa;IndigenousRegion"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-pa;"/>
    </owl:NamedIndividual>
@@ -443,7 +443,7 @@
       <rdfs:label>Emberá</rdfs:label>
       <skos:definition>The indigenous region of Emberá in the country of Panama</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Panama"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Emberá</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Emberá</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-pa;IndigenousRegion"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-pa;"/>
    </owl:NamedIndividual>
@@ -473,7 +473,7 @@
       <rdfs:label>Veraguas</rdfs:label>
       <skos:definition>The province of Veraguas in the country of Panama</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Panama"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Veraguas</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Veraguas</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-pa;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-pa;"/>
    </owl:NamedIndividual>

@@ -106,7 +106,7 @@
       <rdfs:label>Eschen</rdfs:label>
       <skos:definition>The commune of Eschen in the country of Liechtenstein</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Liechtenstein"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="de">Eschen</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="de">Eschen</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-li;Commune"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-li;"/>
    </owl:NamedIndividual>
@@ -136,7 +136,7 @@
       <rdfs:label>Schellenberg</rdfs:label>
       <skos:definition>The commune of Schellenberg in the country of Liechtenstein</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Liechtenstein"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="de">Schellenberg</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="de">Schellenberg</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-li;Commune"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-li;"/>
    </owl:NamedIndividual>
@@ -166,7 +166,7 @@
       <rdfs:label>Vaduz</rdfs:label>
       <skos:definition>The commune of Vaduz in the country of Liechtenstein</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Liechtenstein"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="de">Vaduz</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="de">Vaduz</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-li;Commune"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-li;"/>
    </owl:NamedIndividual>
@@ -196,7 +196,7 @@
       <rdfs:label>Mauren</rdfs:label>
       <skos:definition>The commune of Mauren in the country of Liechtenstein</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Liechtenstein"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="de">Mauren</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="de">Mauren</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-li;Commune"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-li;"/>
    </owl:NamedIndividual>
@@ -226,7 +226,7 @@
       <rdfs:label>Gamprin</rdfs:label>
       <skos:definition>The commune of Gamprin in the country of Liechtenstein</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Liechtenstein"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="de">Gamprin</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="de">Gamprin</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-li;Commune"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-li;"/>
    </owl:NamedIndividual>
@@ -256,7 +256,7 @@
       <rdfs:label>Planken</rdfs:label>
       <skos:definition>The commune of Planken in the country of Liechtenstein</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Liechtenstein"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="de">Planken</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="de">Planken</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-li;Commune"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-li;"/>
    </owl:NamedIndividual>
@@ -286,7 +286,7 @@
       <rdfs:label>Ruggell</rdfs:label>
       <skos:definition>The commune of Ruggell in the country of Liechtenstein</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Liechtenstein"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="de">Ruggell</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="de">Ruggell</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-li;Commune"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-li;"/>
    </owl:NamedIndividual>
@@ -316,7 +316,7 @@
       <rdfs:label>Balzers</rdfs:label>
       <skos:definition>The commune of Balzers in the country of Liechtenstein</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Liechtenstein"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="de">Balzers</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="de">Balzers</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-li;Commune"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-li;"/>
    </owl:NamedIndividual>
@@ -346,7 +346,7 @@
       <rdfs:label>Triesen</rdfs:label>
       <skos:definition>The commune of Triesen in the country of Liechtenstein</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Liechtenstein"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="de">Triesen</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="de">Triesen</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-li;Commune"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-li;"/>
    </owl:NamedIndividual>
@@ -376,7 +376,7 @@
       <rdfs:label>Schaan</rdfs:label>
       <skos:definition>The commune of Schaan in the country of Liechtenstein</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Liechtenstein"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="de">Schaan</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="de">Schaan</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-li;Commune"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-li;"/>
    </owl:NamedIndividual>
@@ -406,7 +406,7 @@
       <rdfs:label>Triesenberg</rdfs:label>
       <skos:definition>The commune of Triesenberg in the country of Liechtenstein</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Liechtenstein"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="de">Triesenberg</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="de">Triesenberg</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-li;Commune"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-li;"/>
    </owl:NamedIndividual>

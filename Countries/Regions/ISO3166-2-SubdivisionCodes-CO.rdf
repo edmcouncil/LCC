@@ -113,7 +113,7 @@
       <rdfs:label>Boyacá</rdfs:label>
       <skos:definition>The department of Boyacá in the country of Colombia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Colombia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Boyacá</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Boyacá</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-co;Department"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-co;"/>
    </owl:NamedIndividual>
@@ -143,7 +143,7 @@
       <rdfs:label>Caquetá</rdfs:label>
       <skos:definition>The department of Caquetá in the country of Colombia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Colombia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Caquetá</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Caquetá</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-co;Department"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-co;"/>
    </owl:NamedIndividual>
@@ -173,7 +173,7 @@
       <rdfs:label>Cundinamarca</rdfs:label>
       <skos:definition>The department of Cundinamarca in the country of Colombia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Colombia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Cundinamarca</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Cundinamarca</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-co;Department"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-co;"/>
    </owl:NamedIndividual>
@@ -203,7 +203,7 @@
       <rdfs:label>Nariño</rdfs:label>
       <skos:definition>The department of Nariño in the country of Colombia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Colombia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Nariño</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Nariño</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-co;Department"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-co;"/>
    </owl:NamedIndividual>
@@ -233,7 +233,7 @@
       <rdfs:label>Bolívar</rdfs:label>
       <skos:definition>The department of Bolívar in the country of Colombia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Colombia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Bolívar</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Bolívar</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-co;Department"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-co;"/>
    </owl:NamedIndividual>
@@ -263,7 +263,7 @@
       <rdfs:label>Magdalena</rdfs:label>
       <skos:definition>The department of Magdalena in the country of Colombia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Colombia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Magdalena</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Magdalena</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-co;Department"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-co;"/>
    </owl:NamedIndividual>
@@ -293,7 +293,7 @@
       <rdfs:label>Meta</rdfs:label>
       <skos:definition>The department of Meta in the country of Colombia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Colombia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Meta</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Meta</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-co;Department"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-co;"/>
    </owl:NamedIndividual>
@@ -323,7 +323,7 @@
       <rdfs:label>Putumayo</rdfs:label>
       <skos:definition>The department of Putumayo in the country of Colombia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Colombia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Putumayo</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Putumayo</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-co;Department"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-co;"/>
    </owl:NamedIndividual>
@@ -353,7 +353,7 @@
       <rdfs:label>Vichada</rdfs:label>
       <skos:definition>The department of Vichada in the country of Colombia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Colombia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Vichada</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Vichada</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-co;Department"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-co;"/>
    </owl:NamedIndividual>
@@ -383,7 +383,7 @@
       <rdfs:label>Amazonas</rdfs:label>
       <skos:definition>The department of Amazonas in the country of Colombia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Colombia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Amazonas</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Amazonas</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-co;Department"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-co;"/>
    </owl:NamedIndividual>
@@ -413,7 +413,7 @@
       <rdfs:label>Caldas</rdfs:label>
       <skos:definition>The department of Caldas in the country of Colombia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Colombia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Caldas</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Caldas</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-co;Department"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-co;"/>
    </owl:NamedIndividual>
@@ -443,7 +443,7 @@
       <rdfs:label>Cauca</rdfs:label>
       <skos:definition>The department of Cauca in the country of Colombia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Colombia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Cauca</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Cauca</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-co;Department"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-co;"/>
    </owl:NamedIndividual>
@@ -473,7 +473,7 @@
       <rdfs:label>Cesar</rdfs:label>
       <skos:definition>The department of Cesar in the country of Colombia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Colombia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Cesar</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Cesar</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-co;Department"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-co;"/>
    </owl:NamedIndividual>
@@ -503,7 +503,7 @@
       <rdfs:label>Distrito Capital de Bogotá</rdfs:label>
       <skos:definition>The capital district of Distrito Capital de Bogotá in the country of Colombia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Colombia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Distrito Capital de Bogotá</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Distrito Capital de Bogotá</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-co;CapitalDistrict"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-co;"/>
    </owl:NamedIndividual>
@@ -533,7 +533,7 @@
       <rdfs:label>La Guajira</rdfs:label>
       <skos:definition>The department of La Guajira in the country of Colombia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Colombia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">La Guajira</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">La Guajira</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-co;Department"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-co;"/>
    </owl:NamedIndividual>
@@ -563,7 +563,7 @@
       <rdfs:label>Arauca</rdfs:label>
       <skos:definition>The department of Arauca in the country of Colombia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Colombia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Arauca</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Arauca</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-co;Department"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-co;"/>
    </owl:NamedIndividual>
@@ -593,7 +593,7 @@
       <rdfs:label>Norte de Santander</rdfs:label>
       <skos:definition>The department of Norte de Santander in the country of Colombia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Colombia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Norte de Santander</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Norte de Santander</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-co;Department"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-co;"/>
    </owl:NamedIndividual>
@@ -623,7 +623,7 @@
       <rdfs:label>Tolima</rdfs:label>
       <skos:definition>The department of Tolima in the country of Colombia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Colombia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Tolima</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Tolima</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-co;Department"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-co;"/>
    </owl:NamedIndividual>
@@ -653,7 +653,7 @@
       <rdfs:label>Valle del Cauca</rdfs:label>
       <skos:definition>The department of Valle del Cauca in the country of Colombia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Colombia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Valle del Cauca</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Valle del Cauca</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-co;Department"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-co;"/>
    </owl:NamedIndividual>
@@ -683,7 +683,7 @@
       <rdfs:label>Guaviare</rdfs:label>
       <skos:definition>The department of Guaviare in the country of Colombia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Colombia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Guaviare</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Guaviare</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-co;Department"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-co;"/>
    </owl:NamedIndividual>
@@ -713,7 +713,7 @@
       <rdfs:label>Huila</rdfs:label>
       <skos:definition>The department of Huila in the country of Colombia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Colombia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Huila</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Huila</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-co;Department"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-co;"/>
    </owl:NamedIndividual>
@@ -743,7 +743,7 @@
       <rdfs:label>Sucre</rdfs:label>
       <skos:definition>The department of Sucre in the country of Colombia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Colombia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Sucre</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Sucre</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-co;Department"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-co;"/>
    </owl:NamedIndividual>
@@ -773,7 +773,7 @@
       <rdfs:label>Casanare</rdfs:label>
       <skos:definition>The department of Casanare in the country of Colombia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Colombia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Casanare</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Casanare</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-co;Department"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-co;"/>
    </owl:NamedIndividual>
@@ -803,7 +803,7 @@
       <rdfs:label>Chocó</rdfs:label>
       <skos:definition>The department of Chocó in the country of Colombia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Colombia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Chocó</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Chocó</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-co;Department"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-co;"/>
    </owl:NamedIndividual>
@@ -833,7 +833,7 @@
       <rdfs:label>Guainía</rdfs:label>
       <skos:definition>The department of Guainía in the country of Colombia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Colombia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Guainía</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Guainía</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-co;Department"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-co;"/>
    </owl:NamedIndividual>
@@ -863,7 +863,7 @@
       <rdfs:label>Quindío</rdfs:label>
       <skos:definition>The department of Quindío in the country of Colombia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Colombia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Quindío</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Quindío</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-co;Department"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-co;"/>
    </owl:NamedIndividual>
@@ -893,7 +893,7 @@
       <rdfs:label>Risaralda</rdfs:label>
       <skos:definition>The department of Risaralda in the country of Colombia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Colombia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Risaralda</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Risaralda</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-co;Department"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-co;"/>
    </owl:NamedIndividual>
@@ -923,7 +923,7 @@
       <rdfs:label>Santander</rdfs:label>
       <skos:definition>The department of Santander in the country of Colombia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Colombia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Santander</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Santander</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-co;Department"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-co;"/>
    </owl:NamedIndividual>
@@ -953,7 +953,7 @@
       <rdfs:label>Vaupés</rdfs:label>
       <skos:definition>The department of Vaupés in the country of Colombia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Colombia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Vaupés</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Vaupés</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-co;Department"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-co;"/>
    </owl:NamedIndividual>
@@ -983,7 +983,7 @@
       <rdfs:label>Antioquia</rdfs:label>
       <skos:definition>The department of Antioquia in the country of Colombia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Colombia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Antioquia</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Antioquia</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-co;Department"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-co;"/>
    </owl:NamedIndividual>
@@ -1013,7 +1013,7 @@
       <rdfs:label>Atlántico</rdfs:label>
       <skos:definition>The department of Atlántico in the country of Colombia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Colombia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Atlántico</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Atlántico</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-co;Department"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-co;"/>
    </owl:NamedIndividual>
@@ -1043,7 +1043,7 @@
       <rdfs:label>Córdoba</rdfs:label>
       <skos:definition>The department of Córdoba in the country of Colombia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Colombia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Córdoba</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Córdoba</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-co;Department"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-co;"/>
    </owl:NamedIndividual>
@@ -1073,7 +1073,7 @@
       <rdfs:label>San Andrés, Providencia y Santa Catalina</rdfs:label>
       <skos:definition>The department of San Andrés, Providencia y Santa Catalina in the country of Colombia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Colombia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">San Andrés, Providencia y Santa Catalina</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">San Andrés, Providencia y Santa Catalina</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-co;Department"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-co;"/>
    </owl:NamedIndividual>
@@ -1103,8 +1103,8 @@
       <rdfs:label>Malpelo Island</rdfs:label>
       <skos:definition>The territory of Malpelo Island in the country of Colombia</skos:definition>
       <lcc-cr:hasNumericRegionCode rdf:datatype="&xsd;string">1116</lcc-cr:hasNumericRegionCode>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">l'Île de Malpelo</lcc-cr:hasFrenchShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Malpelo Island</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">l'Île de Malpelo</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Malpelo Island</lcc-cr:hasEnglishShortName>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Colombia"/>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2;Territory"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-co;"/>
@@ -1122,8 +1122,8 @@
       <rdfs:label>San Andrés y Providencia Islands</rdfs:label>
       <skos:definition>The territory of San Andrés y Providencia Islands in the country of Colombia</skos:definition>
       <lcc-cr:hasNumericRegionCode rdf:datatype="&xsd;string">1183</lcc-cr:hasNumericRegionCode>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">les Îles San Andrés et Providencia</lcc-cr:hasFrenchShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">San Andrés y Providencia Islands</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">les Îles San Andrés et Providencia</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">San Andrés y Providencia Islands</lcc-cr:hasEnglishShortName>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Colombia"/>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2;Territory"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-co;"/>

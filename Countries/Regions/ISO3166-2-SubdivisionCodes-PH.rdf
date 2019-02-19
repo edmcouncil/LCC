@@ -113,8 +113,8 @@
       <rdfs:label>Western Visayas (Region VI)</rdfs:label>
       <skos:definition>The region of Western Visayas (Region VI) in the country of Philippines (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Philippines"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Western Visayas (Region VI)</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="tl">Rehiyon ng Kanlurang Bisaya</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Western Visayas (Region VI)</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="tl">Rehiyon ng Kanlurang Bisaya</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ph;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ph;"/>
    </owl:NamedIndividual>
@@ -142,8 +142,8 @@
       <rdfs:label>Antique</rdfs:label>
       <skos:definition>The province of Antique in the country of Philippines (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ph;WesternVisayas"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="tl">Antike</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Antique</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="tl">Antike</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Antique</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ph;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ph;"/>
    </owl:NamedIndividual>
@@ -173,8 +173,8 @@
       <rdfs:label>Capiz</rdfs:label>
       <skos:definition>The province of Capiz in the country of Philippines (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ph;WesternVisayas"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Capiz</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="tl">Kapis</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Capiz</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="tl">Kapis</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ph;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ph;"/>
    </owl:NamedIndividual>
@@ -204,8 +204,8 @@
       <rdfs:label>Guimaras</rdfs:label>
       <skos:definition>The province of Guimaras in the country of Philippines (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ph;WesternVisayas"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="tl">Gimaras</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Guimaras</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="tl">Gimaras</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Guimaras</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ph;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ph;"/>
    </owl:NamedIndividual>
@@ -235,8 +235,8 @@
       <rdfs:label>Iloilo</rdfs:label>
       <skos:definition>The province of Iloilo in the country of Philippines (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ph;WesternVisayas"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Iloilo</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="tl">Iloilo</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Iloilo</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="tl">Iloilo</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ph;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ph;"/>
    </owl:NamedIndividual>
@@ -266,8 +266,8 @@
       <rdfs:label>Negros Occidental</rdfs:label>
       <skos:definition>The province of Negros Occidental in the country of Philippines (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ph;WesternVisayas"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Negros Occidental</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="tl">Kanlurang Negros</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Negros Occidental</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="tl">Kanlurang Negros</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ph;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ph;"/>
    </owl:NamedIndividual>
@@ -297,8 +297,8 @@
       <rdfs:label>Aklan</rdfs:label>
       <skos:definition>The province of Aklan in the country of Philippines (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ph;WesternVisayas"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Aklan</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="tl">Aklan</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Aklan</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="tl">Aklan</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ph;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ph;"/>
    </owl:NamedIndividual>
@@ -330,8 +330,8 @@
       <rdfs:label>Davao (Region XI)</rdfs:label>
       <skos:definition>The region of Davao (Region XI) in the country of Philippines (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Philippines"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Davao (Region XI)</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="tl">Rehiyon ng Dabaw</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Davao (Region XI)</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="tl">Rehiyon ng Dabaw</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ph;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ph;"/>
    </owl:NamedIndividual>
@@ -359,8 +359,8 @@
       <rdfs:label>Davao Occidental</rdfs:label>
       <skos:definition>The province of Davao Occidental in the country of Philippines (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ph;Davao"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="tl">Kanlurang Dabaw</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Davao Occidental</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="tl">Kanlurang Dabaw</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Davao Occidental</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ph;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ph;"/>
    </owl:NamedIndividual>
@@ -390,8 +390,8 @@
       <rdfs:label>Sarangani</rdfs:label>
       <skos:definition>The province of Sarangani in the country of Philippines (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ph;Davao"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Sarangani</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="tl">Sarangani</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Sarangani</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="tl">Sarangani</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ph;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ph;"/>
    </owl:NamedIndividual>
@@ -421,8 +421,8 @@
       <rdfs:label>Davao Oriental</rdfs:label>
       <skos:definition>The province of Davao Oriental in the country of Philippines (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ph;Davao"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="tl">Silangang Dabaw</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Davao Oriental</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="tl">Silangang Dabaw</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Davao Oriental</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ph;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ph;"/>
    </owl:NamedIndividual>
@@ -452,8 +452,8 @@
       <rdfs:label>Davao del Sur</rdfs:label>
       <skos:definition>The province of Davao del Sur in the country of Philippines (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ph;Davao"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="tl">Timog Dabaw</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Davao del Sur</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="tl">Timog Dabaw</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Davao del Sur</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ph;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ph;"/>
    </owl:NamedIndividual>
@@ -483,8 +483,8 @@
       <rdfs:label>Compostela Valley</rdfs:label>
       <skos:definition>The province of Compostela Valley in the country of Philippines (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ph;Davao"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="tl">Lambak ng Kompostela</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Compostela Valley</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="tl">Lambak ng Kompostela</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Compostela Valley</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ph;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ph;"/>
    </owl:NamedIndividual>
@@ -514,8 +514,8 @@
       <rdfs:label>Davao del Norte</rdfs:label>
       <skos:definition>The province of Davao del Norte in the country of Philippines (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ph;Davao"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="tl">Hilagang Dabaw</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Davao del Norte</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="tl">Hilagang Dabaw</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Davao del Norte</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ph;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ph;"/>
    </owl:NamedIndividual>
@@ -545,8 +545,8 @@
       <rdfs:label>South Cotabato</rdfs:label>
       <skos:definition>The province of South Cotabato in the country of Philippines (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ph;Davao"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="tl">Timog Kotabato</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">South Cotabato</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="tl">Timog Kotabato</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">South Cotabato</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ph;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ph;"/>
    </owl:NamedIndividual>
@@ -578,8 +578,8 @@
       <rdfs:label>Caraga (Region XIII)</rdfs:label>
       <skos:definition>The region of Caraga (Region XIII) in the country of Philippines (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Philippines"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Caraga (Region XIII)</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="tl">Rehiyon ng Karaga</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Caraga (Region XIII)</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="tl">Rehiyon ng Karaga</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ph;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ph;"/>
    </owl:NamedIndividual>
@@ -607,8 +607,8 @@
       <rdfs:label>Surigao del Norte</rdfs:label>
       <skos:definition>The province of Surigao del Norte in the country of Philippines (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ph;Caraga"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="tl">Hilagang Surigaw</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Surigao del Norte</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="tl">Hilagang Surigaw</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Surigao del Norte</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ph;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ph;"/>
    </owl:NamedIndividual>
@@ -638,8 +638,8 @@
       <rdfs:label>Surigao del Sur</rdfs:label>
       <skos:definition>The province of Surigao del Sur in the country of Philippines (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ph;Caraga"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="tl">Timog Surigaw</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Surigao del Sur</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="tl">Timog Surigaw</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Surigao del Sur</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ph;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ph;"/>
    </owl:NamedIndividual>
@@ -669,8 +669,8 @@
       <rdfs:label>Agusan del Sur</rdfs:label>
       <skos:definition>The province of Agusan del Sur in the country of Philippines (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ph;Caraga"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Agusan del Sur</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="tl">Timog Agusan</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Agusan del Sur</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="tl">Timog Agusan</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ph;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ph;"/>
    </owl:NamedIndividual>
@@ -700,8 +700,8 @@
       <rdfs:label>Agusan del Norte</rdfs:label>
       <skos:definition>The province of Agusan del Norte in the country of Philippines (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ph;Caraga"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Agusan del Norte</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="tl">Hilagang Agusan</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Agusan del Norte</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="tl">Hilagang Agusan</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ph;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ph;"/>
    </owl:NamedIndividual>
@@ -731,8 +731,8 @@
       <rdfs:label>Dinagat Islands</rdfs:label>
       <skos:definition>The province of Dinagat Islands in the country of Philippines (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ph;Caraga"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Dinagat Islands</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="tl">Pulo ng Dinagat</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Dinagat Islands</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="tl">Pulo ng Dinagat</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ph;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ph;"/>
    </owl:NamedIndividual>
@@ -764,8 +764,8 @@
       <rdfs:label>Ilocos (Region I)</rdfs:label>
       <skos:definition>The region of Ilocos (Region I) in the country of Philippines (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Philippines"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Ilocos (Region I)</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="tl">Rehiyon ng Iloko</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Ilocos (Region I)</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="tl">Rehiyon ng Iloko</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ph;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ph;"/>
    </owl:NamedIndividual>
@@ -793,8 +793,8 @@
       <rdfs:label>Ilocos Sur</rdfs:label>
       <skos:definition>The province of Ilocos Sur in the country of Philippines (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ph;Ilocos"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="tl">Timog Iloko</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Ilocos Sur</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="tl">Timog Iloko</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Ilocos Sur</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ph;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ph;"/>
    </owl:NamedIndividual>
@@ -824,8 +824,8 @@
       <rdfs:label>Ilocos Norte</rdfs:label>
       <skos:definition>The province of Ilocos Norte in the country of Philippines (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ph;Ilocos"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Ilocos Norte</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="tl">Hilagang Iloko</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Ilocos Norte</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="tl">Hilagang Iloko</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ph;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ph;"/>
    </owl:NamedIndividual>
@@ -855,8 +855,8 @@
       <rdfs:label>La Union</rdfs:label>
       <skos:definition>The province of La Union in the country of Philippines (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ph;Ilocos"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">La Union</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="tl">La Unyon</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">La Union</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="tl">La Unyon</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ph;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ph;"/>
    </owl:NamedIndividual>
@@ -886,8 +886,8 @@
       <rdfs:label>Pangasinan</rdfs:label>
       <skos:definition>The province of Pangasinan in the country of Philippines (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ph;Ilocos"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Pangasinan</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="tl">Pangasinan</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Pangasinan</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="tl">Pangasinan</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ph;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ph;"/>
    </owl:NamedIndividual>
@@ -919,8 +919,8 @@
       <rdfs:label>Central Luzon (Region III)</rdfs:label>
       <skos:definition>The region of Central Luzon (Region III) in the country of Philippines (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Philippines"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="tl">Rehiyon ng Gitnang Luson</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Central Luzon (Region III)</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="tl">Rehiyon ng Gitnang Luson</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Central Luzon (Region III)</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ph;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ph;"/>
    </owl:NamedIndividual>
@@ -948,8 +948,8 @@
       <rdfs:label>Bataan</rdfs:label>
       <skos:definition>The province of Bataan in the country of Philippines (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ph;CentralLuzon"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="tl">Bataan</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Bataan</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="tl">Bataan</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Bataan</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ph;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ph;"/>
    </owl:NamedIndividual>
@@ -979,8 +979,8 @@
       <rdfs:label>Pampanga</rdfs:label>
       <skos:definition>The province of Pampanga in the country of Philippines (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ph;CentralLuzon"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="tl">Pampanga</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Pampanga</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="tl">Pampanga</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Pampanga</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ph;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ph;"/>
    </owl:NamedIndividual>
@@ -1010,8 +1010,8 @@
       <rdfs:label>Bulacan</rdfs:label>
       <skos:definition>The province of Bulacan in the country of Philippines (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ph;CentralLuzon"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="tl">Bulakan</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Bulacan</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="tl">Bulakan</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Bulacan</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ph;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ph;"/>
    </owl:NamedIndividual>
@@ -1041,8 +1041,8 @@
       <rdfs:label>Nueva Ecija</rdfs:label>
       <skos:definition>The province of Nueva Ecija in the country of Philippines (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ph;CentralLuzon"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="tl">Nuweva Esiha</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Nueva Ecija</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="tl">Nuweva Esiha</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Nueva Ecija</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ph;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ph;"/>
    </owl:NamedIndividual>
@@ -1072,8 +1072,8 @@
       <rdfs:label>Tarlac</rdfs:label>
       <skos:definition>The province of Tarlac in the country of Philippines (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ph;CentralLuzon"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="tl">Tarlak</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Tarlac</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="tl">Tarlak</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Tarlac</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ph;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ph;"/>
    </owl:NamedIndividual>
@@ -1103,8 +1103,8 @@
       <rdfs:label>Zambales</rdfs:label>
       <skos:definition>The province of Zambales in the country of Philippines (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ph;CentralLuzon"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="tl">Sambales</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Zambales</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="tl">Sambales</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Zambales</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ph;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ph;"/>
    </owl:NamedIndividual>
@@ -1134,8 +1134,8 @@
       <rdfs:label>Aurora</rdfs:label>
       <skos:definition>The province of Aurora in the country of Philippines (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ph;CentralLuzon"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="tl">Aurora</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Aurora</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="tl">Aurora</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Aurora</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ph;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ph;"/>
    </owl:NamedIndividual>
@@ -1167,8 +1167,8 @@
       <rdfs:label>Eastern Visayas (Region VIII)</rdfs:label>
       <skos:definition>The region of Eastern Visayas (Region VIII) in the country of Philippines (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Philippines"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Eastern Visayas (Region VIII)</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="tl">Rehiyon ng Silangang Bisaya</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Eastern Visayas (Region VIII)</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="tl">Rehiyon ng Silangang Bisaya</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ph;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ph;"/>
    </owl:NamedIndividual>
@@ -1196,8 +1196,8 @@
       <rdfs:label>Leyte</rdfs:label>
       <skos:definition>The province of Leyte in the country of Philippines (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ph;EasternVisayas"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Leyte</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="tl">Leyte</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Leyte</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="tl">Leyte</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ph;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ph;"/>
    </owl:NamedIndividual>
@@ -1227,8 +1227,8 @@
       <rdfs:label>Southern Leyte</rdfs:label>
       <skos:definition>The province of Southern Leyte in the country of Philippines (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ph;EasternVisayas"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Southern Leyte</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="tl">Katimogang Leyte</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Southern Leyte</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="tl">Katimogang Leyte</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ph;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ph;"/>
    </owl:NamedIndividual>
@@ -1258,8 +1258,8 @@
       <rdfs:label>Biliran</rdfs:label>
       <skos:definition>The province of Biliran in the country of Philippines (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ph;EasternVisayas"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Biliran</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="tl">Biliran</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Biliran</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="tl">Biliran</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ph;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ph;"/>
    </owl:NamedIndividual>
@@ -1289,8 +1289,8 @@
       <rdfs:label>Eastern Samar</rdfs:label>
       <skos:definition>The province of Eastern Samar in the country of Philippines (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ph;EasternVisayas"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="tl">Silangang Samar</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Eastern Samar</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="tl">Silangang Samar</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Eastern Samar</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ph;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ph;"/>
    </owl:NamedIndividual>
@@ -1320,8 +1320,8 @@
       <rdfs:label>Northern Samar</rdfs:label>
       <skos:definition>The province of Northern Samar in the country of Philippines (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ph;EasternVisayas"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Northern Samar</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="tl">Hilagang Samar</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Northern Samar</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="tl">Hilagang Samar</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ph;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ph;"/>
    </owl:NamedIndividual>
@@ -1351,8 +1351,8 @@
       <rdfs:label>Samar</rdfs:label>
       <skos:definition>The province of Samar in the country of Philippines (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ph;EasternVisayas"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="tl">Samar</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Samar</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="tl">Samar</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Samar</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ph;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ph;"/>
    </owl:NamedIndividual>
@@ -1384,8 +1384,8 @@
       <rdfs:label>Northern Mindanao (Region X)</rdfs:label>
       <skos:definition>The region of Northern Mindanao (Region X) in the country of Philippines (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Philippines"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Northern Mindanao (Region X)</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="tl">Rehiyon ng Hilagang Mindanaw</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Northern Mindanao (Region X)</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="tl">Rehiyon ng Hilagang Mindanaw</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ph;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ph;"/>
    </owl:NamedIndividual>
@@ -1413,8 +1413,8 @@
       <rdfs:label>Misamis Oriental</rdfs:label>
       <skos:definition>The province of Misamis Oriental in the country of Philippines (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ph;NorthernMindanao"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Misamis Oriental</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="tl">Silangang Misamis</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Misamis Oriental</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="tl">Silangang Misamis</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ph;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ph;"/>
    </owl:NamedIndividual>
@@ -1444,8 +1444,8 @@
       <rdfs:label>Misamis Occidental</rdfs:label>
       <skos:definition>The province of Misamis Occidental in the country of Philippines (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ph;NorthernMindanao"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Misamis Occidental</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="tl">Kanlurang Misamis</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Misamis Occidental</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="tl">Kanlurang Misamis</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ph;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ph;"/>
    </owl:NamedIndividual>
@@ -1475,8 +1475,8 @@
       <rdfs:label>Camiguin</rdfs:label>
       <skos:definition>The province of Camiguin in the country of Philippines (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ph;NorthernMindanao"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="tl">Kamigin</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Camiguin</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="tl">Kamigin</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Camiguin</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ph;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ph;"/>
    </owl:NamedIndividual>
@@ -1506,8 +1506,8 @@
       <rdfs:label>Bukidnon</rdfs:label>
       <skos:definition>The province of Bukidnon in the country of Philippines (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ph;NorthernMindanao"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Bukidnon</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="tl">Bukidnon</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Bukidnon</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="tl">Bukidnon</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ph;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ph;"/>
    </owl:NamedIndividual>
@@ -1539,8 +1539,8 @@
       <rdfs:label>National Capital Region</rdfs:label>
       <skos:definition>The region of National Capital Region in the country of Philippines (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Philippines"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">National Capital Region</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="tl">Pambansang Punong Rehiyon</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">National Capital Region</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="tl">Pambansang Punong Rehiyon</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ph;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ph;"/>
    </owl:NamedIndividual>
@@ -1570,8 +1570,8 @@
       <rdfs:label>Cagayan Valley (Region II)</rdfs:label>
       <skos:definition>The region of Cagayan Valley (Region II) in the country of Philippines (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Philippines"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Cagayan Valley (Region II)</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="tl">Rehiyon ng Lambak ng Kagayan</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Cagayan Valley (Region II)</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="tl">Rehiyon ng Lambak ng Kagayan</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ph;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ph;"/>
    </owl:NamedIndividual>
@@ -1599,8 +1599,8 @@
       <rdfs:label>Cagayan</rdfs:label>
       <skos:definition>The province of Cagayan in the country of Philippines (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ph;CagayanValley"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Cagayan</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="tl">Kagayan</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Cagayan</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="tl">Kagayan</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ph;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ph;"/>
    </owl:NamedIndividual>
@@ -1630,8 +1630,8 @@
       <rdfs:label>Nueva Vizcaya</rdfs:label>
       <skos:definition>The province of Nueva Vizcaya in the country of Philippines (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ph;CagayanValley"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="tl">Nuweva Biskaya</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Nueva Vizcaya</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="tl">Nuweva Biskaya</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Nueva Vizcaya</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ph;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ph;"/>
    </owl:NamedIndividual>
@@ -1661,8 +1661,8 @@
       <rdfs:label>Quirino</rdfs:label>
       <skos:definition>The province of Quirino in the country of Philippines (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ph;CagayanValley"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="tl">Kirino</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Quirino</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="tl">Kirino</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Quirino</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ph;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ph;"/>
    </owl:NamedIndividual>
@@ -1692,8 +1692,8 @@
       <rdfs:label>Isabela</rdfs:label>
       <skos:definition>The province of Isabela in the country of Philippines (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ph;CagayanValley"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="tl">Isabela</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Isabela</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="tl">Isabela</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Isabela</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ph;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ph;"/>
    </owl:NamedIndividual>
@@ -1723,8 +1723,8 @@
       <rdfs:label>Batanes</rdfs:label>
       <skos:definition>The province of Batanes in the country of Philippines (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ph;CagayanValley"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Batanes</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="tl">Batanes</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Batanes</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="tl">Batanes</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ph;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ph;"/>
    </owl:NamedIndividual>
@@ -1756,8 +1756,8 @@
       <rdfs:label>Central Visayas (Region VII)</rdfs:label>
       <skos:definition>The region of Central Visayas (Region VII) in the country of Philippines (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Philippines"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="tl">Rehiyon ng Gitnang Bisaya</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Central Visayas (Region VII)</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="tl">Rehiyon ng Gitnang Bisaya</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Central Visayas (Region VII)</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ph;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ph;"/>
    </owl:NamedIndividual>
@@ -1785,8 +1785,8 @@
       <rdfs:label>Cebu</rdfs:label>
       <skos:definition>The province of Cebu in the country of Philippines (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ph;CentralVisayas"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="tl">Sebu</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Cebu</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="tl">Sebu</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Cebu</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ph;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ph;"/>
    </owl:NamedIndividual>
@@ -1816,8 +1816,8 @@
       <rdfs:label>Bohol</rdfs:label>
       <skos:definition>The province of Bohol in the country of Philippines (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ph;CentralVisayas"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="tl">Bohol</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Bohol</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="tl">Bohol</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Bohol</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ph;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ph;"/>
    </owl:NamedIndividual>
@@ -1847,8 +1847,8 @@
       <rdfs:label>Negros Oriental</rdfs:label>
       <skos:definition>The province of Negros Oriental in the country of Philippines (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ph;CentralVisayas"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="tl">Silangang Negros</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Negros Oriental</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="tl">Silangang Negros</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Negros Oriental</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ph;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ph;"/>
    </owl:NamedIndividual>
@@ -1878,8 +1878,8 @@
       <rdfs:label>Siquijor</rdfs:label>
       <skos:definition>The province of Siquijor in the country of Philippines (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ph;CentralVisayas"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Siquijor</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="tl">Sikihor</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Siquijor</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="tl">Sikihor</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ph;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ph;"/>
    </owl:NamedIndividual>
@@ -1911,8 +1911,8 @@
       <rdfs:label>Bicol (Region V)</rdfs:label>
       <skos:definition>The region of Bicol (Region V) in the country of Philippines (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Philippines"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Bicol (Region V)</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="tl">Rehiyon ng Bikol</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Bicol (Region V)</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="tl">Rehiyon ng Bikol</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ph;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ph;"/>
    </owl:NamedIndividual>
@@ -1940,8 +1940,8 @@
       <rdfs:label>Catanduanes</rdfs:label>
       <skos:definition>The province of Catanduanes in the country of Philippines (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ph;Bicol"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="tl">Katanduwanes</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Catanduanes</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="tl">Katanduwanes</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Catanduanes</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ph;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ph;"/>
    </owl:NamedIndividual>
@@ -1971,8 +1971,8 @@
       <rdfs:label>Camarines Norte</rdfs:label>
       <skos:definition>The province of Camarines Norte in the country of Philippines (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ph;Bicol"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Camarines Norte</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="tl">Hilagang Kamarines</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Camarines Norte</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="tl">Hilagang Kamarines</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ph;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ph;"/>
    </owl:NamedIndividual>
@@ -2002,8 +2002,8 @@
       <rdfs:label>Sorsogon</rdfs:label>
       <skos:definition>The province of Sorsogon in the country of Philippines (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ph;Bicol"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Sorsogon</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="tl">Sorsogon</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Sorsogon</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="tl">Sorsogon</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ph;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ph;"/>
    </owl:NamedIndividual>
@@ -2033,8 +2033,8 @@
       <rdfs:label>Albay</rdfs:label>
       <skos:definition>The province of Albay in the country of Philippines (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ph;Bicol"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="tl">Albay</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Albay</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="tl">Albay</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Albay</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ph;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ph;"/>
    </owl:NamedIndividual>
@@ -2064,8 +2064,8 @@
       <rdfs:label>Camarines Sur</rdfs:label>
       <skos:definition>The province of Camarines Sur in the country of Philippines (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ph;Bicol"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="tl">Timog Kamarines</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Camarines Sur</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="tl">Timog Kamarines</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Camarines Sur</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ph;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ph;"/>
    </owl:NamedIndividual>
@@ -2095,8 +2095,8 @@
       <rdfs:label>Masbate</rdfs:label>
       <skos:definition>The province of Masbate in the country of Philippines (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ph;Bicol"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Masbate</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="tl">Masbate</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Masbate</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="tl">Masbate</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ph;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ph;"/>
    </owl:NamedIndividual>
@@ -2128,8 +2128,8 @@
       <rdfs:label>Zamboanga Peninsula (Region IX)</rdfs:label>
       <skos:definition>The region of Zamboanga Peninsula (Region IX) in the country of Philippines (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Philippines"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="tl">Rehiyon ng Tangway ng Sambuwangga</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Zamboanga Peninsula (Region IX)</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="tl">Rehiyon ng Tangway ng Sambuwangga</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Zamboanga Peninsula (Region IX)</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ph;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ph;"/>
    </owl:NamedIndividual>
@@ -2157,8 +2157,8 @@
       <rdfs:label>Zamboanga del Sur</rdfs:label>
       <skos:definition>The province of Zamboanga del Sur in the country of Philippines (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ph;ZamboangaPeninsula"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Zamboanga del Sur</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="tl">Timog Sambuwangga</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Zamboanga del Sur</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="tl">Timog Sambuwangga</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ph;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ph;"/>
    </owl:NamedIndividual>
@@ -2188,8 +2188,8 @@
       <rdfs:label>Zamboanga del Norte</rdfs:label>
       <skos:definition>The province of Zamboanga del Norte in the country of Philippines (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ph;ZamboangaPeninsula"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Zamboanga del Norte</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="tl">Hilagang Sambuwangga</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Zamboanga del Norte</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="tl">Hilagang Sambuwangga</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ph;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ph;"/>
    </owl:NamedIndividual>
@@ -2219,8 +2219,8 @@
       <rdfs:label>Zamboanga Sibugay</rdfs:label>
       <skos:definition>The province of Zamboanga Sibugay in the country of Philippines (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ph;ZamboangaPeninsula"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="tl">Sambuwangga Sibugay</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Zamboanga Sibugay</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="tl">Sambuwangga Sibugay</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Zamboanga Sibugay</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ph;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ph;"/>
    </owl:NamedIndividual>
@@ -2250,8 +2250,8 @@
       <rdfs:label>Basilan</rdfs:label>
       <skos:definition>The province of Basilan in the country of Philippines (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ph;ZamboangaPeninsula"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="tl">Basilan</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Basilan</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="tl">Basilan</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Basilan</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ph;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ph;"/>
    </owl:NamedIndividual>
@@ -2283,8 +2283,8 @@
       <rdfs:label>Soccsksargen (Region XII)</rdfs:label>
       <skos:definition>The region of Soccsksargen (Region XII) in the country of Philippines (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Philippines"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Soccsksargen (Region XII)</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="tl">Rehiyon ng Soccsksargen</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Soccsksargen (Region XII)</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="tl">Rehiyon ng Soccsksargen</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ph;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ph;"/>
    </owl:NamedIndividual>
@@ -2312,8 +2312,8 @@
       <rdfs:label>Lanao del Norte</rdfs:label>
       <skos:definition>The province of Lanao del Norte in the country of Philippines (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ph;Soccsksargen"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Lanao del Norte</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="tl">Hilagang Lanaw</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Lanao del Norte</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="tl">Hilagang Lanaw</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ph;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ph;"/>
    </owl:NamedIndividual>
@@ -2343,8 +2343,8 @@
       <rdfs:label>Sultan Kudarat</rdfs:label>
       <skos:definition>The province of Sultan Kudarat in the country of Philippines (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ph;Soccsksargen"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Sultan Kudarat</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="tl">Sultan Kudarat</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Sultan Kudarat</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="tl">Sultan Kudarat</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ph;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ph;"/>
    </owl:NamedIndividual>
@@ -2374,8 +2374,8 @@
       <rdfs:label>Cotabato</rdfs:label>
       <skos:definition>The province of Cotabato in the country of Philippines (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ph;Soccsksargen"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Cotabato</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="tl">Kotabato</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Cotabato</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="tl">Kotabato</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ph;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ph;"/>
    </owl:NamedIndividual>
@@ -2407,8 +2407,8 @@
       <rdfs:label>Autonomous Region in Muslim Mindanao (ARMM)</rdfs:label>
       <skos:definition>The region of Autonomous Region in Muslim Mindanao (ARMM) in the country of Philippines (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Philippines"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="tl">Nagsasariling Rehiyon ng Muslim sa Mindanaw</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Autonomous Region in Muslim Mindanao (ARMM)</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="tl">Nagsasariling Rehiyon ng Muslim sa Mindanaw</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Autonomous Region in Muslim Mindanao (ARMM)</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ph;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ph;"/>
    </owl:NamedIndividual>
@@ -2436,8 +2436,8 @@
       <rdfs:label>Lanao del Sur</rdfs:label>
       <skos:definition>The province of Lanao del Sur in the country of Philippines (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ph;AutonomousRegionInMuslimMindanao"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Lanao del Sur</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="tl">Timog Lanaw</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Lanao del Sur</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="tl">Timog Lanaw</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ph;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ph;"/>
    </owl:NamedIndividual>
@@ -2467,8 +2467,8 @@
       <rdfs:label>Maguindanao</rdfs:label>
       <skos:definition>The province of Maguindanao in the country of Philippines (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ph;AutonomousRegionInMuslimMindanao"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="tl">Magindanaw</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Maguindanao</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="tl">Magindanaw</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Maguindanao</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ph;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ph;"/>
    </owl:NamedIndividual>
@@ -2498,8 +2498,8 @@
       <rdfs:label>Tawi-Tawi</rdfs:label>
       <skos:definition>The province of Tawi-Tawi in the country of Philippines (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ph;AutonomousRegionInMuslimMindanao"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="tl">Tawi-Tawi</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Tawi-Tawi</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="tl">Tawi-Tawi</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Tawi-Tawi</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ph;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ph;"/>
    </owl:NamedIndividual>
@@ -2529,8 +2529,8 @@
       <rdfs:label>Sulu</rdfs:label>
       <skos:definition>The province of Sulu in the country of Philippines (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ph;AutonomousRegionInMuslimMindanao"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="tl">Sulu</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Sulu</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="tl">Sulu</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Sulu</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ph;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ph;"/>
    </owl:NamedIndividual>
@@ -2562,8 +2562,8 @@
       <rdfs:label>Cordillera Administrative Region (CAR)</rdfs:label>
       <skos:definition>The region of Cordillera Administrative Region (CAR) in the country of Philippines (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Philippines"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Cordillera Administrative Region (CAR)</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="tl">Rehiyon ng Administratibo ng Kordilyera</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Cordillera Administrative Region (CAR)</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="tl">Rehiyon ng Administratibo ng Kordilyera</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ph;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ph;"/>
    </owl:NamedIndividual>
@@ -2591,8 +2591,8 @@
       <rdfs:label>Ifugao</rdfs:label>
       <skos:definition>The province of Ifugao in the country of Philippines (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ph;CordilleraAdministrativeRegion"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="tl">Ipugaw</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Ifugao</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="tl">Ipugaw</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Ifugao</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ph;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ph;"/>
    </owl:NamedIndividual>
@@ -2622,8 +2622,8 @@
       <rdfs:label>Kalinga</rdfs:label>
       <skos:definition>The province of Kalinga in the country of Philippines (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ph;CordilleraAdministrativeRegion"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="tl">Kalinga</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Kalinga</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="tl">Kalinga</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Kalinga</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ph;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ph;"/>
    </owl:NamedIndividual>
@@ -2653,8 +2653,8 @@
       <rdfs:label>Abra</rdfs:label>
       <skos:definition>The province of Abra in the country of Philippines (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ph;CordilleraAdministrativeRegion"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="tl">Abra</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Abra</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="tl">Abra</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Abra</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ph;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ph;"/>
    </owl:NamedIndividual>
@@ -2684,8 +2684,8 @@
       <rdfs:label>Benguet</rdfs:label>
       <skos:definition>The province of Benguet in the country of Philippines (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ph;CordilleraAdministrativeRegion"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="tl">Benget</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Benguet</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="tl">Benget</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Benguet</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ph;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ph;"/>
    </owl:NamedIndividual>
@@ -2715,8 +2715,8 @@
       <rdfs:label>Mountain Province</rdfs:label>
       <skos:definition>The province of Mountain Province in the country of Philippines (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ph;CordilleraAdministrativeRegion"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Mountain Province</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="tl">Lalawigang Bulubundukin</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Mountain Province</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="tl">Lalawigang Bulubundukin</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ph;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ph;"/>
    </owl:NamedIndividual>
@@ -2746,8 +2746,8 @@
       <rdfs:label>Apayao</rdfs:label>
       <skos:definition>The province of Apayao in the country of Philippines (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ph;CordilleraAdministrativeRegion"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Apayao</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="tl">Apayaw</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Apayao</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="tl">Apayaw</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ph;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ph;"/>
    </owl:NamedIndividual>
@@ -2779,8 +2779,8 @@
       <rdfs:label>Calabarzon (Region IV-A)</rdfs:label>
       <skos:definition>The region of Calabarzon (Region IV-A) in the country of Philippines (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Philippines"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Calabarzon (Region IV-A)</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="tl">Rehiyon ng Calabarzon</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Calabarzon (Region IV-A)</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="tl">Rehiyon ng Calabarzon</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ph;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ph;"/>
    </owl:NamedIndividual>
@@ -2808,8 +2808,8 @@
       <rdfs:label>Laguna</rdfs:label>
       <skos:definition>The province of Laguna in the country of Philippines (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ph;Calabarzon"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Laguna</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="tl">Laguna</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Laguna</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="tl">Laguna</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ph;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ph;"/>
    </owl:NamedIndividual>
@@ -2839,8 +2839,8 @@
       <rdfs:label>Quezon</rdfs:label>
       <skos:definition>The province of Quezon in the country of Philippines (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ph;Calabarzon"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="tl">Keson</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Quezon</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="tl">Keson</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Quezon</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ph;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ph;"/>
    </owl:NamedIndividual>
@@ -2870,8 +2870,8 @@
       <rdfs:label>Rizal</rdfs:label>
       <skos:definition>The province of Rizal in the country of Philippines (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ph;Calabarzon"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="tl">Risal</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Rizal</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="tl">Risal</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Rizal</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ph;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ph;"/>
    </owl:NamedIndividual>
@@ -2901,8 +2901,8 @@
       <rdfs:label>Batangas</rdfs:label>
       <skos:definition>The province of Batangas in the country of Philippines (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ph;Calabarzon"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Batangas</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="tl">Batangas</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Batangas</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="tl">Batangas</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ph;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ph;"/>
    </owl:NamedIndividual>
@@ -2932,8 +2932,8 @@
       <rdfs:label>Cavite</rdfs:label>
       <skos:definition>The province of Cavite in the country of Philippines (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ph;Calabarzon"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Cavite</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="tl">Kabite</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Cavite</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="tl">Kabite</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ph;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ph;"/>
    </owl:NamedIndividual>
@@ -2965,8 +2965,8 @@
       <rdfs:label>Mimaropa (Region IV-B)</rdfs:label>
       <skos:definition>The region of Mimaropa (Region IV-B) in the country of Philippines (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Philippines"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Mimaropa (Region IV-B)</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="tl">Rehiyon ng Mimaropa</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Mimaropa (Region IV-B)</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="tl">Rehiyon ng Mimaropa</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ph;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ph;"/>
    </owl:NamedIndividual>
@@ -2994,8 +2994,8 @@
       <rdfs:label>Marinduque</rdfs:label>
       <skos:definition>The province of Marinduque in the country of Philippines (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ph;Mimaropa"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="tl">Marinduke</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Marinduque</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="tl">Marinduke</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Marinduque</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ph;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ph;"/>
    </owl:NamedIndividual>
@@ -3025,8 +3025,8 @@
       <rdfs:label>Mindoro Occidental</rdfs:label>
       <skos:definition>The province of Mindoro Occidental in the country of Philippines (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ph;Mimaropa"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Mindoro Occidental</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="tl">Kanlurang Mindoro</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Mindoro Occidental</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="tl">Kanlurang Mindoro</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ph;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ph;"/>
    </owl:NamedIndividual>
@@ -3056,8 +3056,8 @@
       <rdfs:label>Mindoro Oriental</rdfs:label>
       <skos:definition>The province of Mindoro Oriental in the country of Philippines (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ph;Mimaropa"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="tl">Silangang Mindoro</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Mindoro Oriental</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="tl">Silangang Mindoro</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Mindoro Oriental</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ph;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ph;"/>
    </owl:NamedIndividual>
@@ -3087,8 +3087,8 @@
       <rdfs:label>Palawan</rdfs:label>
       <skos:definition>The province of Palawan in the country of Philippines (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ph;Mimaropa"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Palawan</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="tl">Palawan</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Palawan</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="tl">Palawan</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ph;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ph;"/>
    </owl:NamedIndividual>
@@ -3118,8 +3118,8 @@
       <rdfs:label>Romblon</rdfs:label>
       <skos:definition>The province of Romblon in the country of Philippines (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ph;Mimaropa"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="tl">Romblon</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Romblon</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="tl">Romblon</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Romblon</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ph;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ph;"/>
    </owl:NamedIndividual>

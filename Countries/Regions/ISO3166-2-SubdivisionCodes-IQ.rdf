@@ -106,7 +106,7 @@
       <rdfs:label>Bābil</rdfs:label>
       <skos:definition>The governorate of Bābil in the country of Iraq</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Iraq"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Bābil</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Bābil</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-iq;Governorate"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-iq;"/>
    </owl:NamedIndividual>
@@ -136,7 +136,7 @@
       <rdfs:label>Al Muthanná</rdfs:label>
       <skos:definition>The governorate of Al Muthanná in the country of Iraq</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Iraq"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Al Muthanná</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Al Muthanná</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-iq;Governorate"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-iq;"/>
    </owl:NamedIndividual>
@@ -166,7 +166,7 @@
       <rdfs:label>Wāsiţ</rdfs:label>
       <skos:definition>The governorate of Wāsiţ in the country of Iraq</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Iraq"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Wāsiţ</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Wāsiţ</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-iq;Governorate"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-iq;"/>
    </owl:NamedIndividual>
@@ -196,8 +196,8 @@
       <rdfs:label>Hewlêr</rdfs:label>
       <skos:definition>The governorate of Hewlêr in the country of Iraq</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Iraq"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ku">Hewlêr</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Arbīl</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ku">Hewlêr</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Arbīl</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-iq;Governorate"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-iq;"/>
    </owl:NamedIndividual>
@@ -227,7 +227,7 @@
       <rdfs:label>Şalāḩ ad Dīn</rdfs:label>
       <skos:definition>The governorate of Şalāḩ ad Dīn in the country of Iraq</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Iraq"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Şalāḩ ad Dīn</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Şalāḩ ad Dīn</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-iq;Governorate"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-iq;"/>
    </owl:NamedIndividual>
@@ -257,7 +257,7 @@
       <rdfs:label>Diyālá</rdfs:label>
       <skos:definition>The governorate of Diyālá in the country of Iraq</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Iraq"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Diyālá</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Diyālá</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-iq;Governorate"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-iq;"/>
    </owl:NamedIndividual>
@@ -287,7 +287,7 @@
       <rdfs:label>Al Anbār</rdfs:label>
       <skos:definition>The governorate of Al Anbār in the country of Iraq</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Iraq"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Al Anbār</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Al Anbār</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-iq;Governorate"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-iq;"/>
    </owl:NamedIndividual>
@@ -317,7 +317,7 @@
       <rdfs:label>Dhī Qār</rdfs:label>
       <skos:definition>The governorate of Dhī Qār in the country of Iraq</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Iraq"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Dhī Qār</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Dhī Qār</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-iq;Governorate"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-iq;"/>
    </owl:NamedIndividual>
@@ -347,7 +347,7 @@
       <rdfs:label>Karbalā’</rdfs:label>
       <skos:definition>The governorate of Karbalā’ in the country of Iraq</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Iraq"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Karbalā’</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Karbalā’</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-iq;Governorate"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-iq;"/>
    </owl:NamedIndividual>
@@ -377,7 +377,7 @@
       <rdfs:label>An Najaf</rdfs:label>
       <skos:definition>The governorate of An Najaf in the country of Iraq</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Iraq"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">An Najaf</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">An Najaf</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-iq;Governorate"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-iq;"/>
    </owl:NamedIndividual>
@@ -407,7 +407,7 @@
       <rdfs:label>Kirkūk</rdfs:label>
       <skos:definition>The governorate of Kirkūk in the country of Iraq</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Iraq"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Kirkūk</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Kirkūk</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-iq;Governorate"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-iq;"/>
    </owl:NamedIndividual>
@@ -437,7 +437,7 @@
       <rdfs:label>Al Başrah</rdfs:label>
       <skos:definition>The governorate of Al Başrah in the country of Iraq</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Iraq"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Al Başrah</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Al Başrah</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-iq;Governorate"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-iq;"/>
    </owl:NamedIndividual>
@@ -467,8 +467,8 @@
       <rdfs:label>Dihok</rdfs:label>
       <skos:definition>The governorate of Dihok in the country of Iraq</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Iraq"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ku">Dihok</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Dahūk</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ku">Dihok</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Dahūk</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-iq;Governorate"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-iq;"/>
    </owl:NamedIndividual>
@@ -498,7 +498,7 @@
       <rdfs:label>Al Qādisīyah</rdfs:label>
       <skos:definition>The governorate of Al Qādisīyah in the country of Iraq</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Iraq"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Al Qādisīyah</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Al Qādisīyah</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-iq;Governorate"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-iq;"/>
    </owl:NamedIndividual>
@@ -528,8 +528,8 @@
       <rdfs:label>Slêmanî</rdfs:label>
       <skos:definition>The governorate of Slêmanî in the country of Iraq</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Iraq"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ku">Slêmanî</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">As Sulaymānīyah</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ku">Slêmanî</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">As Sulaymānīyah</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-iq;Governorate"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-iq;"/>
    </owl:NamedIndividual>
@@ -559,7 +559,7 @@
       <rdfs:label>Nīnawá</rdfs:label>
       <skos:definition>The governorate of Nīnawá in the country of Iraq</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Iraq"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Nīnawá</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Nīnawá</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-iq;Governorate"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-iq;"/>
    </owl:NamedIndividual>
@@ -589,7 +589,7 @@
       <rdfs:label>Baghdād</rdfs:label>
       <skos:definition>The governorate of Baghdād in the country of Iraq</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Iraq"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Baghdād</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Baghdād</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-iq;Governorate"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-iq;"/>
    </owl:NamedIndividual>
@@ -619,7 +619,7 @@
       <rdfs:label>Maysān</rdfs:label>
       <skos:definition>The governorate of Maysān in the country of Iraq</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Iraq"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Maysān</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Maysān</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-iq;Governorate"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-iq;"/>
    </owl:NamedIndividual>

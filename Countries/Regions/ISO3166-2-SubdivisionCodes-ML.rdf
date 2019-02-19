@@ -113,7 +113,7 @@
       <rdfs:label>Ménaka</rdfs:label>
       <skos:definition>The region of Ménaka in the country of Mali</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Mali"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Ménaka</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Ménaka</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ml;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ml;"/>
    </owl:NamedIndividual>
@@ -143,7 +143,7 @@
       <rdfs:label>Taoudénit</rdfs:label>
       <skos:definition>The region of Taoudénit in the country of Mali</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Mali"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Taoudénit</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Taoudénit</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ml;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ml;"/>
    </owl:NamedIndividual>
@@ -173,7 +173,7 @@
       <rdfs:label>Ségou</rdfs:label>
       <skos:definition>The region of Ségou in the country of Mali</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Mali"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Ségou</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Ségou</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ml;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ml;"/>
    </owl:NamedIndividual>
@@ -203,7 +203,7 @@
       <rdfs:label>Bamako</rdfs:label>
       <skos:definition>The district of Bamako in the country of Mali</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Mali"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Bamako</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Bamako</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ml;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ml;"/>
    </owl:NamedIndividual>
@@ -233,7 +233,7 @@
       <rdfs:label>Tombouctou</rdfs:label>
       <skos:definition>The region of Tombouctou in the country of Mali</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Mali"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Tombouctou</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Tombouctou</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ml;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ml;"/>
    </owl:NamedIndividual>
@@ -263,7 +263,7 @@
       <rdfs:label>Koulikoro</rdfs:label>
       <skos:definition>The region of Koulikoro in the country of Mali</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Mali"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Koulikoro</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Koulikoro</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ml;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ml;"/>
    </owl:NamedIndividual>
@@ -293,7 +293,7 @@
       <rdfs:label>Mopti</rdfs:label>
       <skos:definition>The region of Mopti in the country of Mali</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Mali"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Mopti</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Mopti</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ml;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ml;"/>
    </owl:NamedIndividual>
@@ -323,7 +323,7 @@
       <rdfs:label>Sikasso</rdfs:label>
       <skos:definition>The region of Sikasso in the country of Mali</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Mali"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Sikasso</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Sikasso</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ml;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ml;"/>
    </owl:NamedIndividual>
@@ -353,7 +353,7 @@
       <rdfs:label>Kidal</rdfs:label>
       <skos:definition>The region of Kidal in the country of Mali</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Mali"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Kidal</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Kidal</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ml;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ml;"/>
    </owl:NamedIndividual>
@@ -383,7 +383,7 @@
       <rdfs:label>Kayes</rdfs:label>
       <skos:definition>The region of Kayes in the country of Mali</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Mali"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Kayes</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Kayes</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ml;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ml;"/>
    </owl:NamedIndividual>
@@ -413,7 +413,7 @@
       <rdfs:label>Gao</rdfs:label>
       <skos:definition>The region of Gao in the country of Mali</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Mali"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Gao</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Gao</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ml;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ml;"/>
    </owl:NamedIndividual>

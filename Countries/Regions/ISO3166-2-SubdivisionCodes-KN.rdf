@@ -113,7 +113,7 @@
       <rdfs:label>Nevis</rdfs:label>
       <skos:definition>The state of Nevis in the country of Saint Kitts and Nevis</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;SaintKittsAndNevis"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Nevis</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Nevis</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-kn;State"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-kn;"/>
    </owl:NamedIndividual>
@@ -141,7 +141,7 @@
       <rdfs:label>Saint Paul Charlestown</rdfs:label>
       <skos:definition>The parish of Saint Paul Charlestown in the country of Saint Kitts and Nevis</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-kn;Nevis"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Saint Paul Charlestown</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Saint Paul Charlestown</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-kn;Parish"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-kn;"/>
    </owl:NamedIndividual>
@@ -171,7 +171,7 @@
       <rdfs:label>Saint George Gingerland</rdfs:label>
       <skos:definition>The parish of Saint George Gingerland in the country of Saint Kitts and Nevis</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-kn;Nevis"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Saint George Gingerland</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Saint George Gingerland</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-kn;Parish"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-kn;"/>
    </owl:NamedIndividual>
@@ -201,7 +201,7 @@
       <rdfs:label>Saint James Windward</rdfs:label>
       <skos:definition>The parish of Saint James Windward in the country of Saint Kitts and Nevis</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-kn;Nevis"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Saint James Windward</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Saint James Windward</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-kn;Parish"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-kn;"/>
    </owl:NamedIndividual>
@@ -231,7 +231,7 @@
       <rdfs:label>Saint John Figtree</rdfs:label>
       <skos:definition>The parish of Saint John Figtree in the country of Saint Kitts and Nevis</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-kn;Nevis"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Saint John Figtree</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Saint John Figtree</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-kn;Parish"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-kn;"/>
    </owl:NamedIndividual>
@@ -261,7 +261,7 @@
       <rdfs:label>Saint Thomas Lowland</rdfs:label>
       <skos:definition>The parish of Saint Thomas Lowland in the country of Saint Kitts and Nevis</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-kn;Nevis"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Saint Thomas Lowland</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Saint Thomas Lowland</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-kn;Parish"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-kn;"/>
    </owl:NamedIndividual>
@@ -293,7 +293,7 @@
       <rdfs:label>Saint Kitts</rdfs:label>
       <skos:definition>The state of Saint Kitts in the country of Saint Kitts and Nevis</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;SaintKittsAndNevis"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Saint Kitts</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Saint Kitts</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-kn;State"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-kn;"/>
    </owl:NamedIndividual>
@@ -321,7 +321,7 @@
       <rdfs:label>Saint Mary Cayon</rdfs:label>
       <skos:definition>The parish of Saint Mary Cayon in the country of Saint Kitts and Nevis</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-kn;SaintKitts"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Saint Mary Cayon</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Saint Mary Cayon</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-kn;Parish"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-kn;"/>
    </owl:NamedIndividual>
@@ -351,7 +351,7 @@
       <rdfs:label>Saint Anne Sandy Point</rdfs:label>
       <skos:definition>The parish of Saint Anne Sandy Point in the country of Saint Kitts and Nevis</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-kn;SaintKitts"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Saint Anne Sandy Point</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Saint Anne Sandy Point</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-kn;Parish"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-kn;"/>
    </owl:NamedIndividual>
@@ -381,7 +381,7 @@
       <rdfs:label>Saint Peter Basseterre</rdfs:label>
       <skos:definition>The parish of Saint Peter Basseterre in the country of Saint Kitts and Nevis</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-kn;SaintKitts"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Saint Peter Basseterre</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Saint Peter Basseterre</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-kn;Parish"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-kn;"/>
    </owl:NamedIndividual>
@@ -411,7 +411,7 @@
       <rdfs:label>Christ Church Nichola Town</rdfs:label>
       <skos:definition>The parish of Christ Church Nichola Town in the country of Saint Kitts and Nevis</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-kn;SaintKitts"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Christ Church Nichola Town</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Christ Church Nichola Town</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-kn;Parish"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-kn;"/>
    </owl:NamedIndividual>
@@ -441,7 +441,7 @@
       <rdfs:label>Trinity Palmetto Point</rdfs:label>
       <skos:definition>The parish of Trinity Palmetto Point in the country of Saint Kitts and Nevis</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-kn;SaintKitts"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Trinity Palmetto Point</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Trinity Palmetto Point</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-kn;Parish"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-kn;"/>
    </owl:NamedIndividual>
@@ -471,7 +471,7 @@
       <rdfs:label>Saint John Capisterre</rdfs:label>
       <skos:definition>The parish of Saint John Capisterre in the country of Saint Kitts and Nevis</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-kn;SaintKitts"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Saint John Capisterre</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Saint John Capisterre</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-kn;Parish"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-kn;"/>
    </owl:NamedIndividual>
@@ -501,7 +501,7 @@
       <rdfs:label>Saint Paul Capisterre</rdfs:label>
       <skos:definition>The parish of Saint Paul Capisterre in the country of Saint Kitts and Nevis</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-kn;SaintKitts"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Saint Paul Capisterre</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Saint Paul Capisterre</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-kn;Parish"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-kn;"/>
    </owl:NamedIndividual>
@@ -531,7 +531,7 @@
       <rdfs:label>Saint Thomas Middle Island</rdfs:label>
       <skos:definition>The parish of Saint Thomas Middle Island in the country of Saint Kitts and Nevis</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-kn;SaintKitts"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Saint Thomas Middle Island</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Saint Thomas Middle Island</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-kn;Parish"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-kn;"/>
    </owl:NamedIndividual>
@@ -561,7 +561,7 @@
       <rdfs:label>Saint George Basseterre</rdfs:label>
       <skos:definition>The parish of Saint George Basseterre in the country of Saint Kitts and Nevis</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-kn;SaintKitts"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Saint George Basseterre</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Saint George Basseterre</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-kn;Parish"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-kn;"/>
    </owl:NamedIndividual>
@@ -593,8 +593,8 @@
       <rdfs:label>Nevis *</rdfs:label>
       <skos:definition>The territory of Nevis * in the country of Saint Kitts and Nevis</skos:definition>
       <lcc-cr:hasNumericRegionCode rdf:datatype="&xsd;string">1137</lcc-cr:hasNumericRegionCode>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Niévès*</lcc-cr:hasFrenchShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Nevis *</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Niévès*</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Nevis *</lcc-cr:hasEnglishShortName>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;SaintKittsAndNevis"/>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2;Territory"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-kn;"/>

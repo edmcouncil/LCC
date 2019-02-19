@@ -106,8 +106,8 @@
       <rdfs:label>South</rdfs:label>
       <skos:definition>The region of South in the country of Cameroon</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Cameroon"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">South</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Sud</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">South</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Sud</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-cm;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-cm;"/>
    </owl:NamedIndividual>
@@ -137,8 +137,8 @@
       <rdfs:label>South-West</rdfs:label>
       <skos:definition>The region of South-West in the country of Cameroon</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Cameroon"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Sud-Ouest</lcc-cr:hasFrenchShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">South-West</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Sud-Ouest</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">South-West</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-cm;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-cm;"/>
    </owl:NamedIndividual>
@@ -168,8 +168,8 @@
       <rdfs:label>North-West</rdfs:label>
       <skos:definition>The region of North-West in the country of Cameroon</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Cameroon"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Nord-Ouest</lcc-cr:hasFrenchShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">North-West</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Nord-Ouest</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">North-West</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-cm;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-cm;"/>
    </owl:NamedIndividual>
@@ -199,8 +199,8 @@
       <rdfs:label>West</rdfs:label>
       <skos:definition>The region of West in the country of Cameroon</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Cameroon"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">West</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Ouest</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">West</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Ouest</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-cm;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-cm;"/>
    </owl:NamedIndividual>
@@ -230,8 +230,8 @@
       <rdfs:label>Adamaoua</rdfs:label>
       <skos:definition>The region of Adamaoua in the country of Cameroon</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Cameroon"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Adamaoua</lcc-cr:hasFrenchShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Adamaoua</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Adamaoua</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Adamaoua</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-cm;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-cm;"/>
    </owl:NamedIndividual>
@@ -261,8 +261,8 @@
       <rdfs:label>Littoral</rdfs:label>
       <skos:definition>The region of Littoral in the country of Cameroon</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Cameroon"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Littoral</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Littoral</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Littoral</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Littoral</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-cm;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-cm;"/>
    </owl:NamedIndividual>
@@ -292,8 +292,8 @@
       <rdfs:label>North</rdfs:label>
       <skos:definition>The region of North in the country of Cameroon</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Cameroon"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Nord</lcc-cr:hasFrenchShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">North</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Nord</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">North</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-cm;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-cm;"/>
    </owl:NamedIndividual>
@@ -323,8 +323,8 @@
       <rdfs:label>Centre</rdfs:label>
       <skos:definition>The region of Centre in the country of Cameroon</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Cameroon"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Centre</lcc-cr:hasFrenchShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Centre</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Centre</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Centre</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-cm;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-cm;"/>
    </owl:NamedIndividual>
@@ -354,8 +354,8 @@
       <rdfs:label>Far North</rdfs:label>
       <skos:definition>The region of Far North in the country of Cameroon</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Cameroon"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Extrême-Nord</lcc-cr:hasFrenchShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Far North</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Extrême-Nord</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Far North</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-cm;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-cm;"/>
    </owl:NamedIndividual>
@@ -385,8 +385,8 @@
       <rdfs:label>East</rdfs:label>
       <skos:definition>The region of East in the country of Cameroon</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Cameroon"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">East</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Est</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">East</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Est</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-cm;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-cm;"/>
    </owl:NamedIndividual>

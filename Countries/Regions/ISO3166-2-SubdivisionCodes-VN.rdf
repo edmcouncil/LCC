@@ -113,7 +113,7 @@
       <rdfs:label>Yên Bái</rdfs:label>
       <skos:definition>The province of Yên Bái in the country of Viet Nam</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;VietNam"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="vi">Yên Bái</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="vi">Yên Bái</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-vn;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-vn;"/>
    </owl:NamedIndividual>
@@ -143,7 +143,7 @@
       <rdfs:label>Ninh Bình</rdfs:label>
       <skos:definition>The province of Ninh Bình in the country of Viet Nam</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;VietNam"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="vi">Ninh Bình</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="vi">Ninh Bình</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-vn;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-vn;"/>
    </owl:NamedIndividual>
@@ -173,7 +173,7 @@
       <rdfs:label>Nghệ An</rdfs:label>
       <skos:definition>The province of Nghệ An in the country of Viet Nam</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;VietNam"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="vi">Nghệ An</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="vi">Nghệ An</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-vn;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-vn;"/>
    </owl:NamedIndividual>
@@ -203,7 +203,7 @@
       <rdfs:label>Trà Vinh</rdfs:label>
       <skos:definition>The province of Trà Vinh in the country of Viet Nam</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;VietNam"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="vi">Trà Vinh</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="vi">Trà Vinh</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-vn;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-vn;"/>
    </owl:NamedIndividual>
@@ -233,7 +233,7 @@
       <rdfs:label>Hà Nam</rdfs:label>
       <skos:definition>The province of Hà Nam in the country of Viet Nam</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;VietNam"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="vi">Hà Nam</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="vi">Hà Nam</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-vn;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-vn;"/>
    </owl:NamedIndividual>
@@ -263,7 +263,7 @@
       <rdfs:label>Thái Nguyên</rdfs:label>
       <skos:definition>The province of Thái Nguyên in the country of Viet Nam</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;VietNam"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="vi">Thái Nguyên</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="vi">Thái Nguyên</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-vn;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-vn;"/>
    </owl:NamedIndividual>
@@ -293,7 +293,7 @@
       <rdfs:label>Phú Yên</rdfs:label>
       <skos:definition>The province of Phú Yên in the country of Viet Nam</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;VietNam"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="vi">Phú Yên</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="vi">Phú Yên</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-vn;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-vn;"/>
    </owl:NamedIndividual>
@@ -323,7 +323,7 @@
       <rdfs:label>Ninh Thuận</rdfs:label>
       <skos:definition>The province of Ninh Thuận in the country of Viet Nam</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;VietNam"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="vi">Ninh Thuận</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="vi">Ninh Thuận</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-vn;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-vn;"/>
    </owl:NamedIndividual>
@@ -353,7 +353,7 @@
       <rdfs:label>Sóc Trăng</rdfs:label>
       <skos:definition>The province of Sóc Trăng in the country of Viet Nam</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;VietNam"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="vi">Sóc Trăng</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="vi">Sóc Trăng</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-vn;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-vn;"/>
    </owl:NamedIndividual>
@@ -383,7 +383,7 @@
       <rdfs:label>Bắc Giang</rdfs:label>
       <skos:definition>The province of Bắc Giang in the country of Viet Nam</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;VietNam"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="vi">Bắc Giang</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="vi">Bắc Giang</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-vn;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-vn;"/>
    </owl:NamedIndividual>
@@ -413,7 +413,7 @@
       <rdfs:label>Bắc Ninh</rdfs:label>
       <skos:definition>The province of Bắc Ninh in the country of Viet Nam</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;VietNam"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="vi">Bắc Ninh</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="vi">Bắc Ninh</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-vn;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-vn;"/>
    </owl:NamedIndividual>
@@ -443,7 +443,7 @@
       <rdfs:label>Bình Phước</rdfs:label>
       <skos:definition>The province of Bình Phước in the country of Viet Nam</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;VietNam"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="vi">Bình Phước</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="vi">Bình Phước</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-vn;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-vn;"/>
    </owl:NamedIndividual>
@@ -473,7 +473,7 @@
       <rdfs:label>Hậu Giang</rdfs:label>
       <skos:definition>The province of Hậu Giang in the country of Viet Nam</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;VietNam"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="vi">Hậu Giang</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="vi">Hậu Giang</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-vn;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-vn;"/>
    </owl:NamedIndividual>
@@ -503,7 +503,7 @@
       <rdfs:label>Lào Cai</rdfs:label>
       <skos:definition>The province of Lào Cai in the country of Viet Nam</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;VietNam"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="vi">Lào Cai</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="vi">Lào Cai</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-vn;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-vn;"/>
    </owl:NamedIndividual>
@@ -533,7 +533,7 @@
       <rdfs:label>Quảng Ninh</rdfs:label>
       <skos:definition>The province of Quảng Ninh in the country of Viet Nam</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;VietNam"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="vi">Quảng Ninh</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="vi">Quảng Ninh</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-vn;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-vn;"/>
    </owl:NamedIndividual>
@@ -563,7 +563,7 @@
       <rdfs:label>Thái Bình</rdfs:label>
       <skos:definition>The province of Thái Bình in the country of Viet Nam</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;VietNam"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="vi">Thái Bình</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="vi">Thái Bình</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-vn;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-vn;"/>
    </owl:NamedIndividual>
@@ -593,7 +593,7 @@
       <rdfs:label>Quảng Ngãi</rdfs:label>
       <skos:definition>The province of Quảng Ngãi in the country of Viet Nam</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;VietNam"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="vi">Quảng Ngãi</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="vi">Quảng Ngãi</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-vn;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-vn;"/>
    </owl:NamedIndividual>
@@ -623,7 +623,7 @@
       <rdfs:label>Hưng Yên</rdfs:label>
       <skos:definition>The province of Hưng Yên in the country of Viet Nam</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;VietNam"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="vi">Hưng Yên</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="vi">Hưng Yên</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-vn;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-vn;"/>
    </owl:NamedIndividual>
@@ -653,7 +653,7 @@
       <rdfs:label>Phú Thọ</rdfs:label>
       <skos:definition>The province of Phú Thọ in the country of Viet Nam</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;VietNam"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="vi">Phú Thọ</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="vi">Phú Thọ</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-vn;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-vn;"/>
    </owl:NamedIndividual>
@@ -683,7 +683,7 @@
       <rdfs:label>Hà Tĩnh</rdfs:label>
       <skos:definition>The province of Hà Tĩnh in the country of Viet Nam</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;VietNam"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="vi">Hà Tĩnh</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="vi">Hà Tĩnh</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-vn;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-vn;"/>
    </owl:NamedIndividual>
@@ -713,7 +713,7 @@
       <rdfs:label>Thừa Thiên-Huế</rdfs:label>
       <skos:definition>The province of Thừa Thiên-Huế in the country of Viet Nam</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;VietNam"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="vi">Thừa Thiên-Huế</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="vi">Thừa Thiên-Huế</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-vn;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-vn;"/>
    </owl:NamedIndividual>
@@ -743,7 +743,7 @@
       <rdfs:label>Đắk Lắk</rdfs:label>
       <skos:definition>The province of Đắk Lắk in the country of Viet Nam</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;VietNam"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="vi">Đắk Lắk</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="vi">Đắk Lắk</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-vn;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-vn;"/>
    </owl:NamedIndividual>
@@ -773,7 +773,7 @@
       <rdfs:label>Khánh Hòa</rdfs:label>
       <skos:definition>The province of Khánh Hòa in the country of Viet Nam</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;VietNam"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="vi">Khánh Hòa</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="vi">Khánh Hòa</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-vn;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-vn;"/>
    </owl:NamedIndividual>
@@ -803,7 +803,7 @@
       <rdfs:label>An Giang</rdfs:label>
       <skos:definition>The province of An Giang in the country of Viet Nam</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;VietNam"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="vi">An Giang</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="vi">An Giang</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-vn;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-vn;"/>
    </owl:NamedIndividual>
@@ -833,7 +833,7 @@
       <rdfs:label>Đồng Tháp</rdfs:label>
       <skos:definition>The province of Đồng Tháp in the country of Viet Nam</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;VietNam"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="vi">Đồng Tháp</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="vi">Đồng Tháp</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-vn;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-vn;"/>
    </owl:NamedIndividual>
@@ -863,7 +863,7 @@
       <rdfs:label>Sơn La</rdfs:label>
       <skos:definition>The province of Sơn La in the country of Viet Nam</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;VietNam"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="vi">Sơn La</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="vi">Sơn La</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-vn;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-vn;"/>
    </owl:NamedIndividual>
@@ -893,7 +893,7 @@
       <rdfs:label>Hòa Bình</rdfs:label>
       <skos:definition>The province of Hòa Bình in the country of Viet Nam</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;VietNam"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="vi">Hòa Bình</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="vi">Hòa Bình</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-vn;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-vn;"/>
    </owl:NamedIndividual>
@@ -923,7 +923,7 @@
       <rdfs:label>Quảng Trị</rdfs:label>
       <skos:definition>The province of Quảng Trị in the country of Viet Nam</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;VietNam"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="vi">Quảng Trị</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="vi">Quảng Trị</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-vn;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-vn;"/>
    </owl:NamedIndividual>
@@ -953,7 +953,7 @@
       <rdfs:label>Kiến Giang</rdfs:label>
       <skos:definition>The province of Kiến Giang in the country of Viet Nam</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;VietNam"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="vi">Kiến Giang</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="vi">Kiến Giang</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-vn;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-vn;"/>
    </owl:NamedIndividual>
@@ -983,7 +983,7 @@
       <rdfs:label>Hải Dương</rdfs:label>
       <skos:definition>The province of Hải Dương in the country of Viet Nam</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;VietNam"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="vi">Hải Dương</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="vi">Hải Dương</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-vn;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-vn;"/>
    </owl:NamedIndividual>
@@ -1013,7 +1013,7 @@
       <rdfs:label>Nam Định</rdfs:label>
       <skos:definition>The province of Nam Định in the country of Viet Nam</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;VietNam"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="vi">Nam Định</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="vi">Nam Định</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-vn;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-vn;"/>
    </owl:NamedIndividual>
@@ -1043,7 +1043,7 @@
       <rdfs:label>Hai Phong</rdfs:label>
       <skos:definition>The municipality of Hai Phong in the country of Viet Nam</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;VietNam"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="vi">Hai Phong</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="vi">Hai Phong</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-vn;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-vn;"/>
    </owl:NamedIndividual>
@@ -1073,7 +1073,7 @@
       <rdfs:label>Ho Chi Minh</rdfs:label>
       <skos:definition>The municipality of Ho Chi Minh in the country of Viet Nam</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;VietNam"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="vi">Ho Chi Minh</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="vi">Ho Chi Minh</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-vn;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-vn;"/>
    </owl:NamedIndividual>
@@ -1103,7 +1103,7 @@
       <rdfs:label>Lạng Sơn</rdfs:label>
       <skos:definition>The province of Lạng Sơn in the country of Viet Nam</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;VietNam"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="vi">Lạng Sơn</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="vi">Lạng Sơn</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-vn;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-vn;"/>
    </owl:NamedIndividual>
@@ -1133,7 +1133,7 @@
       <rdfs:label>Thanh Hóa</rdfs:label>
       <skos:definition>The province of Thanh Hóa in the country of Viet Nam</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;VietNam"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="vi">Thanh Hóa</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="vi">Thanh Hóa</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-vn;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-vn;"/>
    </owl:NamedIndividual>
@@ -1163,7 +1163,7 @@
       <rdfs:label>Quảng Bình</rdfs:label>
       <skos:definition>The province of Quảng Bình in the country of Viet Nam</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;VietNam"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="vi">Quảng Bình</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="vi">Quảng Bình</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-vn;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-vn;"/>
    </owl:NamedIndividual>
@@ -1193,7 +1193,7 @@
       <rdfs:label>Bình Thuận</rdfs:label>
       <skos:definition>The province of Bình Thuận in the country of Viet Nam</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;VietNam"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="vi">Bình Thuận</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="vi">Bình Thuận</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-vn;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-vn;"/>
    </owl:NamedIndividual>
@@ -1223,7 +1223,7 @@
       <rdfs:label>Bà Rịa - Vũng Tàu</rdfs:label>
       <skos:definition>The province of Bà Rịa - Vũng Tàu in the country of Viet Nam</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;VietNam"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="vi">Bà Rịa - Vũng Tàu</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="vi">Bà Rịa - Vũng Tàu</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-vn;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-vn;"/>
    </owl:NamedIndividual>
@@ -1253,7 +1253,7 @@
       <rdfs:label>Tiền Giang</rdfs:label>
       <skos:definition>The province of Tiền Giang in the country of Viet Nam</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;VietNam"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="vi">Tiền Giang</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="vi">Tiền Giang</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-vn;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-vn;"/>
    </owl:NamedIndividual>
@@ -1283,7 +1283,7 @@
       <rdfs:label>Bến Tre</rdfs:label>
       <skos:definition>The province of Bến Tre in the country of Viet Nam</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;VietNam"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="vi">Bến Tre</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="vi">Bến Tre</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-vn;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-vn;"/>
    </owl:NamedIndividual>
@@ -1313,7 +1313,7 @@
       <rdfs:label>Bạc Liêu</rdfs:label>
       <skos:definition>The province of Bạc Liêu in the country of Viet Nam</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;VietNam"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="vi">Bạc Liêu</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="vi">Bạc Liêu</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-vn;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-vn;"/>
    </owl:NamedIndividual>
@@ -1343,7 +1343,7 @@
       <rdfs:label>Cà Mau</rdfs:label>
       <skos:definition>The province of Cà Mau in the country of Viet Nam</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;VietNam"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="vi">Cà Mau</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="vi">Cà Mau</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-vn;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-vn;"/>
    </owl:NamedIndividual>
@@ -1373,7 +1373,7 @@
       <rdfs:label>Vĩnh Phúc</rdfs:label>
       <skos:definition>The province of Vĩnh Phúc in the country of Viet Nam</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;VietNam"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="vi">Vĩnh Phúc</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="vi">Vĩnh Phúc</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-vn;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-vn;"/>
    </owl:NamedIndividual>
@@ -1403,7 +1403,7 @@
       <rdfs:label>Tuyên Quang</rdfs:label>
       <skos:definition>The province of Tuyên Quang in the country of Viet Nam</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;VietNam"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="vi">Tuyên Quang</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="vi">Tuyên Quang</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-vn;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-vn;"/>
    </owl:NamedIndividual>
@@ -1433,7 +1433,7 @@
       <rdfs:label>Gia Lai</rdfs:label>
       <skos:definition>The province of Gia Lai in the country of Viet Nam</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;VietNam"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="vi">Gia Lai</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="vi">Gia Lai</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-vn;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-vn;"/>
    </owl:NamedIndividual>
@@ -1463,7 +1463,7 @@
       <rdfs:label>Lâm Đồng</rdfs:label>
       <skos:definition>The province of Lâm Đồng in the country of Viet Nam</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;VietNam"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="vi">Lâm Đồng</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="vi">Lâm Đồng</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-vn;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-vn;"/>
    </owl:NamedIndividual>
@@ -1493,7 +1493,7 @@
       <rdfs:label>Tây Ninh</rdfs:label>
       <skos:definition>The province of Tây Ninh in the country of Viet Nam</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;VietNam"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="vi">Tây Ninh</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="vi">Tây Ninh</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-vn;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-vn;"/>
    </owl:NamedIndividual>
@@ -1523,7 +1523,7 @@
       <rdfs:label>Đồng Nai</rdfs:label>
       <skos:definition>The province of Đồng Nai in the country of Viet Nam</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;VietNam"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="vi">Đồng Nai</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="vi">Đồng Nai</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-vn;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-vn;"/>
    </owl:NamedIndividual>
@@ -1553,7 +1553,7 @@
       <rdfs:label>Bình Dương</rdfs:label>
       <skos:definition>The province of Bình Dương in the country of Viet Nam</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;VietNam"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="vi">Bình Dương</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="vi">Bình Dương</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-vn;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-vn;"/>
    </owl:NamedIndividual>
@@ -1583,7 +1583,7 @@
       <rdfs:label>Đắk Nông</rdfs:label>
       <skos:definition>The province of Đắk Nông in the country of Viet Nam</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;VietNam"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="vi">Đắk Nông</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="vi">Đắk Nông</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-vn;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-vn;"/>
    </owl:NamedIndividual>
@@ -1613,7 +1613,7 @@
       <rdfs:label>Can Tho</rdfs:label>
       <skos:definition>The municipality of Can Tho in the country of Viet Nam</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;VietNam"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="vi">Can Tho</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="vi">Can Tho</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-vn;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-vn;"/>
    </owl:NamedIndividual>
@@ -1643,7 +1643,7 @@
       <rdfs:label>Ha Noi</rdfs:label>
       <skos:definition>The municipality of Ha Noi in the country of Viet Nam</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;VietNam"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="vi">Ha Noi</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="vi">Ha Noi</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-vn;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-vn;"/>
    </owl:NamedIndividual>
@@ -1673,7 +1673,7 @@
       <rdfs:label>Lai Châu</rdfs:label>
       <skos:definition>The province of Lai Châu in the country of Viet Nam</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;VietNam"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="vi">Lai Châu</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="vi">Lai Châu</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-vn;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-vn;"/>
    </owl:NamedIndividual>
@@ -1703,7 +1703,7 @@
       <rdfs:label>Hà Giang</rdfs:label>
       <skos:definition>The province of Hà Giang in the country of Viet Nam</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;VietNam"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="vi">Hà Giang</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="vi">Hà Giang</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-vn;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-vn;"/>
    </owl:NamedIndividual>
@@ -1733,7 +1733,7 @@
       <rdfs:label>Cao Bằng</rdfs:label>
       <skos:definition>The province of Cao Bằng in the country of Viet Nam</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;VietNam"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="vi">Cao Bằng</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="vi">Cao Bằng</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-vn;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-vn;"/>
    </owl:NamedIndividual>
@@ -1763,7 +1763,7 @@
       <rdfs:label>Quảng Nam</rdfs:label>
       <skos:definition>The province of Quảng Nam in the country of Viet Nam</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;VietNam"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="vi">Quảng Nam</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="vi">Quảng Nam</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-vn;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-vn;"/>
    </owl:NamedIndividual>
@@ -1793,7 +1793,7 @@
       <rdfs:label>Kon Tum</rdfs:label>
       <skos:definition>The province of Kon Tum in the country of Viet Nam</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;VietNam"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="vi">Kon Tum</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="vi">Kon Tum</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-vn;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-vn;"/>
    </owl:NamedIndividual>
@@ -1823,7 +1823,7 @@
       <rdfs:label>Bình Định</rdfs:label>
       <skos:definition>The province of Bình Định in the country of Viet Nam</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;VietNam"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="vi">Bình Định</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="vi">Bình Định</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-vn;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-vn;"/>
    </owl:NamedIndividual>
@@ -1853,7 +1853,7 @@
       <rdfs:label>Long An</rdfs:label>
       <skos:definition>The province of Long An in the country of Viet Nam</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;VietNam"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="vi">Long An</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="vi">Long An</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-vn;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-vn;"/>
    </owl:NamedIndividual>
@@ -1883,7 +1883,7 @@
       <rdfs:label>Vĩnh Long</rdfs:label>
       <skos:definition>The province of Vĩnh Long in the country of Viet Nam</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;VietNam"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="vi">Vĩnh Long</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="vi">Vĩnh Long</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-vn;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-vn;"/>
    </owl:NamedIndividual>
@@ -1913,7 +1913,7 @@
       <rdfs:label>Bắc Kạn</rdfs:label>
       <skos:definition>The province of Bắc Kạn in the country of Viet Nam</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;VietNam"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="vi">Bắc Kạn</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="vi">Bắc Kạn</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-vn;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-vn;"/>
    </owl:NamedIndividual>
@@ -1943,7 +1943,7 @@
       <rdfs:label>Điện Biên</rdfs:label>
       <skos:definition>The province of Điện Biên in the country of Viet Nam</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;VietNam"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="vi">Điện Biên</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="vi">Điện Biên</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-vn;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-vn;"/>
    </owl:NamedIndividual>
@@ -1973,7 +1973,7 @@
       <rdfs:label>Da Nang</rdfs:label>
       <skos:definition>The municipality of Da Nang in the country of Viet Nam</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;VietNam"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="vi">Da Nang</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="vi">Da Nang</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-vn;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-vn;"/>
    </owl:NamedIndividual>

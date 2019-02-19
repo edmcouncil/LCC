@@ -106,8 +106,8 @@
       <rdfs:label>Melekeok</rdfs:label>
       <skos:definition>The state of Melekeok in the country of Palau</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Palau"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Melekeok</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string">Melekeok</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Melekeok</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName>Melekeok</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-pw;State"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-pw;"/>
    </owl:NamedIndividual>
@@ -137,8 +137,8 @@
       <rdfs:label>Ngaraard</rdfs:label>
       <skos:definition>The state of Ngaraard in the country of Palau</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Palau"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string">Ngaraard</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Ngaraard</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName>Ngaraard</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Ngaraard</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-pw;State"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-pw;"/>
    </owl:NamedIndividual>
@@ -168,8 +168,8 @@
       <rdfs:label>Ngatpang</rdfs:label>
       <skos:definition>The state of Ngatpang in the country of Palau</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Palau"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string">Ngatpang</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Ngatpang</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName>Ngatpang</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Ngatpang</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-pw;State"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-pw;"/>
    </owl:NamedIndividual>
@@ -199,8 +199,8 @@
       <rdfs:label>Ngiwal</rdfs:label>
       <skos:definition>The state of Ngiwal in the country of Palau</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Palau"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Ngiwal</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string">Ngiwal</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Ngiwal</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName>Ngiwal</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-pw;State"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-pw;"/>
    </owl:NamedIndividual>
@@ -230,8 +230,8 @@
       <rdfs:label>Ngarchelong</rdfs:label>
       <skos:definition>The state of Ngarchelong in the country of Palau</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Palau"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string">Ngarchelong</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Ngarchelong</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName>Ngarchelong</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Ngarchelong</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-pw;State"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-pw;"/>
    </owl:NamedIndividual>
@@ -261,8 +261,8 @@
       <rdfs:label>Airai</rdfs:label>
       <skos:definition>The state of Airai in the country of Palau</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Palau"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string">Airai</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Airai</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName>Airai</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Airai</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-pw;State"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-pw;"/>
    </owl:NamedIndividual>
@@ -292,8 +292,8 @@
       <rdfs:label>Ngeremlengui</rdfs:label>
       <skos:definition>The state of Ngeremlengui in the country of Palau</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Palau"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string">Ngeremlengui</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Ngeremlengui</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName>Ngeremlengui</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Ngeremlengui</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-pw;State"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-pw;"/>
    </owl:NamedIndividual>
@@ -323,8 +323,8 @@
       <rdfs:label>Peleliu</rdfs:label>
       <skos:definition>The state of Peleliu in the country of Palau</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Palau"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Peleliu</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string">Peleliu</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Peleliu</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName>Peleliu</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-pw;State"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-pw;"/>
    </owl:NamedIndividual>
@@ -354,8 +354,8 @@
       <rdfs:label>Aimeliik</rdfs:label>
       <skos:definition>The state of Aimeliik in the country of Palau</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Palau"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string">Aimeliik</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Aimeliik</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName>Aimeliik</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Aimeliik</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-pw;State"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-pw;"/>
    </owl:NamedIndividual>
@@ -385,8 +385,8 @@
       <rdfs:label>Angaur</rdfs:label>
       <skos:definition>The state of Angaur in the country of Palau</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Palau"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string">Angaur</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Angaur</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName>Angaur</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Angaur</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-pw;State"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-pw;"/>
    </owl:NamedIndividual>
@@ -416,8 +416,8 @@
       <rdfs:label>Koror</rdfs:label>
       <skos:definition>The state of Koror in the country of Palau</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Palau"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Koror</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string">Koror</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Koror</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName>Koror</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-pw;State"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-pw;"/>
    </owl:NamedIndividual>
@@ -447,8 +447,8 @@
       <rdfs:label>Ngardmau</rdfs:label>
       <skos:definition>The state of Ngardmau in the country of Palau</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Palau"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string">Ngardmau</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Ngardmau</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName>Ngardmau</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Ngardmau</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-pw;State"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-pw;"/>
    </owl:NamedIndividual>
@@ -478,8 +478,8 @@
       <rdfs:label>Ngchesar</rdfs:label>
       <skos:definition>The state of Ngchesar in the country of Palau</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Palau"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Ngchesar</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string">Ngchesar</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Ngchesar</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName>Ngchesar</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-pw;State"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-pw;"/>
    </owl:NamedIndividual>
@@ -509,8 +509,8 @@
       <rdfs:label>Sonsorol</rdfs:label>
       <skos:definition>The state of Sonsorol in the country of Palau</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Palau"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string">Sonsorol</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Sonsorol</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName>Sonsorol</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Sonsorol</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-pw;State"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-pw;"/>
    </owl:NamedIndividual>
@@ -540,8 +540,8 @@
       <rdfs:label>Hatohobei</rdfs:label>
       <skos:definition>The state of Hatohobei in the country of Palau</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Palau"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string">Hatohobei</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Hatohobei</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName>Hatohobei</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Hatohobei</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-pw;State"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-pw;"/>
    </owl:NamedIndividual>
@@ -571,8 +571,8 @@
       <rdfs:label>Kayangel</rdfs:label>
       <skos:definition>The state of Kayangel in the country of Palau</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Palau"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Kayangel</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string">Kayangel</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Kayangel</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName>Kayangel</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-pw;State"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-pw;"/>
    </owl:NamedIndividual>
@@ -602,8 +602,8 @@
       <rdfs:label>Babelthuap (principal island)</rdfs:label>
       <skos:definition>The territory of Babelthuap (principal island) in the country of Palau</skos:definition>
       <lcc-cr:hasNumericRegionCode rdf:datatype="&xsd;string">1016</lcc-cr:hasNumericRegionCode>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Babelthuap (principal island)</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Babelthuap (île principale)</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Babelthuap (principal island)</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Babelthuap (île principale)</lcc-cr:hasFrenchShortName>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Palau"/>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2;Territory"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-pw;"/>
@@ -621,8 +621,8 @@
       <rdfs:label>the west part of the Caroline Islands</rdfs:label>
       <skos:definition>The territory of the west part of the Caroline Islands in the country of Palau</skos:definition>
       <lcc-cr:hasNumericRegionCode rdf:datatype="&xsd;string">1036</lcc-cr:hasNumericRegionCode>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">the west part of the Caroline Islands</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">la partie ouest des Îles Carolines</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">the west part of the Caroline Islands</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">la partie ouest des Îles Carolines</lcc-cr:hasFrenchShortName>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Palau"/>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2;Territory"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-pw;"/>

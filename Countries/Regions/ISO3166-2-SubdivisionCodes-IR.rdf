@@ -106,7 +106,7 @@
       <rdfs:label>Khūzestān</rdfs:label>
       <skos:definition>The province of Khūzestān in the country of Iran (Islamic Republic of)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Iran"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="fa">Khūzestān</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="fa">Khūzestān</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ir;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ir;"/>
    </owl:NamedIndividual>
@@ -136,7 +136,7 @@
       <rdfs:label>Kordestān</rdfs:label>
       <skos:definition>The province of Kordestān in the country of Iran (Islamic Republic of)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Iran"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="fa">Kordestān</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="fa">Kordestān</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ir;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ir;"/>
    </owl:NamedIndividual>
@@ -166,7 +166,7 @@
       <rdfs:label>Gīlān</rdfs:label>
       <skos:definition>The province of Gīlān in the country of Iran (Islamic Republic of)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Iran"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="fa">Gīlān</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="fa">Gīlān</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ir;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ir;"/>
    </owl:NamedIndividual>
@@ -196,7 +196,7 @@
       <rdfs:label>Yazd</rdfs:label>
       <skos:definition>The province of Yazd in the country of Iran (Islamic Republic of)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Iran"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="fa">Yazd</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="fa">Yazd</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ir;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ir;"/>
    </owl:NamedIndividual>
@@ -226,7 +226,7 @@
       <rdfs:label>Āz̄ārbāyjān-e Shārqī</rdfs:label>
       <skos:definition>The province of Āz̄ārbāyjān-e Shārqī in the country of Iran (Islamic Republic of)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Iran"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="fa">Āz̄ārbāyjān-e Shārqī</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="fa">Āz̄ārbāyjān-e Shārqī</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ir;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ir;"/>
    </owl:NamedIndividual>
@@ -256,7 +256,7 @@
       <rdfs:label>Sīstān va Balūchestān</rdfs:label>
       <skos:definition>The province of Sīstān va Balūchestān in the country of Iran (Islamic Republic of)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Iran"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="fa">Sīstān va Balūchestān</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="fa">Sīstān va Balūchestān</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ir;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ir;"/>
    </owl:NamedIndividual>
@@ -286,7 +286,7 @@
       <rdfs:label>Lorestān</rdfs:label>
       <skos:definition>The province of Lorestān in the country of Iran (Islamic Republic of)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Iran"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="fa">Lorestān</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="fa">Lorestān</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ir;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ir;"/>
    </owl:NamedIndividual>
@@ -316,7 +316,7 @@
       <rdfs:label>Māzandarān</rdfs:label>
       <skos:definition>The province of Māzandarān in the country of Iran (Islamic Republic of)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Iran"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="fa">Māzandarān</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="fa">Māzandarān</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ir;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ir;"/>
    </owl:NamedIndividual>
@@ -346,7 +346,7 @@
       <rdfs:label>Qom</rdfs:label>
       <skos:definition>The province of Qom in the country of Iran (Islamic Republic of)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Iran"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="fa">Qom</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="fa">Qom</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ir;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ir;"/>
    </owl:NamedIndividual>
@@ -376,7 +376,7 @@
       <rdfs:label>Īlām</rdfs:label>
       <skos:definition>The province of Īlām in the country of Iran (Islamic Republic of)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Iran"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="fa">Īlām</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="fa">Īlām</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ir;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ir;"/>
    </owl:NamedIndividual>
@@ -406,7 +406,7 @@
       <rdfs:label>Kermānshāh</rdfs:label>
       <skos:definition>The province of Kermānshāh in the country of Iran (Islamic Republic of)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Iran"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="fa">Kermānshāh</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="fa">Kermānshāh</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ir;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ir;"/>
    </owl:NamedIndividual>
@@ -436,7 +436,7 @@
       <rdfs:label>Kohgīlūyeh va Bowyer Aḩmad</rdfs:label>
       <skos:definition>The province of Kohgīlūyeh va Bowyer Aḩmad in the country of Iran (Islamic Republic of)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Iran"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="fa">Kohgīlūyeh va Bowyer Aḩmad</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="fa">Kohgīlūyeh va Bowyer Aḩmad</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ir;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ir;"/>
    </owl:NamedIndividual>
@@ -466,7 +466,7 @@
       <rdfs:label>Qazvīn</rdfs:label>
       <skos:definition>The province of Qazvīn in the country of Iran (Islamic Republic of)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Iran"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="fa">Qazvīn</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="fa">Qazvīn</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ir;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ir;"/>
    </owl:NamedIndividual>
@@ -496,7 +496,7 @@
       <rdfs:label>Semnān</rdfs:label>
       <skos:definition>The province of Semnān in the country of Iran (Islamic Republic of)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Iran"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="fa">Semnān</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="fa">Semnān</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ir;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ir;"/>
    </owl:NamedIndividual>
@@ -526,7 +526,7 @@
       <rdfs:label>Fārs</rdfs:label>
       <skos:definition>The province of Fārs in the country of Iran (Islamic Republic of)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Iran"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="fa">Fārs</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="fa">Fārs</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ir;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ir;"/>
    </owl:NamedIndividual>
@@ -556,7 +556,7 @@
       <rdfs:label>Markazī</rdfs:label>
       <skos:definition>The province of Markazī in the country of Iran (Islamic Republic of)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Iran"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="fa">Markazī</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="fa">Markazī</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ir;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ir;"/>
    </owl:NamedIndividual>
@@ -586,7 +586,7 @@
       <rdfs:label>Hamadān</rdfs:label>
       <skos:definition>The province of Hamadān in the country of Iran (Islamic Republic of)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Iran"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="fa">Hamadān</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="fa">Hamadān</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ir;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ir;"/>
    </owl:NamedIndividual>
@@ -616,7 +616,7 @@
       <rdfs:label>Būshehr</rdfs:label>
       <skos:definition>The province of Būshehr in the country of Iran (Islamic Republic of)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Iran"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="fa">Būshehr</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="fa">Būshehr</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ir;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ir;"/>
    </owl:NamedIndividual>
@@ -646,7 +646,7 @@
       <rdfs:label>Golestān</rdfs:label>
       <skos:definition>The province of Golestān in the country of Iran (Islamic Republic of)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Iran"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="fa">Golestān</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="fa">Golestān</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ir;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ir;"/>
    </owl:NamedIndividual>
@@ -676,7 +676,7 @@
       <rdfs:label>Khorāsān-e Raẕavī</rdfs:label>
       <skos:definition>The province of Khorāsān-e Raẕavī in the country of Iran (Islamic Republic of)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Iran"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="fa">Khorāsān-e Raẕavī</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="fa">Khorāsān-e Raẕavī</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ir;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ir;"/>
    </owl:NamedIndividual>
@@ -706,7 +706,7 @@
       <rdfs:label>Alborz</rdfs:label>
       <skos:definition>The province of Alborz in the country of Iran (Islamic Republic of)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Iran"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="fa">Alborz</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="fa">Alborz</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ir;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ir;"/>
    </owl:NamedIndividual>
@@ -736,7 +736,7 @@
       <rdfs:label>Āz̄ārbāyjān-e Ghārbī</rdfs:label>
       <skos:definition>The province of Āz̄ārbāyjān-e Ghārbī in the country of Iran (Islamic Republic of)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Iran"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="fa">Āz̄ārbāyjān-e Ghārbī</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="fa">Āz̄ārbāyjān-e Ghārbī</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ir;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ir;"/>
    </owl:NamedIndividual>
@@ -766,7 +766,7 @@
       <rdfs:label>Eşfahān</rdfs:label>
       <skos:definition>The province of Eşfahān in the country of Iran (Islamic Republic of)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Iran"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="fa">Eşfahān</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="fa">Eşfahān</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ir;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ir;"/>
    </owl:NamedIndividual>
@@ -796,7 +796,7 @@
       <rdfs:label>Tehrān</rdfs:label>
       <skos:definition>The province of Tehrān in the country of Iran (Islamic Republic of)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Iran"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="fa">Tehrān</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="fa">Tehrān</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ir;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ir;"/>
    </owl:NamedIndividual>
@@ -826,7 +826,7 @@
       <rdfs:label>Zanjān</rdfs:label>
       <skos:definition>The province of Zanjān in the country of Iran (Islamic Republic of)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Iran"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="fa">Zanjān</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="fa">Zanjān</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ir;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ir;"/>
    </owl:NamedIndividual>
@@ -856,7 +856,7 @@
       <rdfs:label>Kermān</rdfs:label>
       <skos:definition>The province of Kermān in the country of Iran (Islamic Republic of)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Iran"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="fa">Kermān</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="fa">Kermān</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ir;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ir;"/>
    </owl:NamedIndividual>
@@ -886,7 +886,7 @@
       <rdfs:label>Hormozgān</rdfs:label>
       <skos:definition>The province of Hormozgān in the country of Iran (Islamic Republic of)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Iran"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="fa">Hormozgān</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="fa">Hormozgān</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ir;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ir;"/>
    </owl:NamedIndividual>
@@ -916,7 +916,7 @@
       <rdfs:label>Khorāsān-e Jonūbī</rdfs:label>
       <skos:definition>The province of Khorāsān-e Jonūbī in the country of Iran (Islamic Republic of)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Iran"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="fa">Khorāsān-e Jonūbī</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="fa">Khorāsān-e Jonūbī</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ir;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ir;"/>
    </owl:NamedIndividual>
@@ -946,7 +946,7 @@
       <rdfs:label>Khorāsān-e Shomālī</rdfs:label>
       <skos:definition>The province of Khorāsān-e Shomālī in the country of Iran (Islamic Republic of)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Iran"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="fa">Khorāsān-e Shomālī</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="fa">Khorāsān-e Shomālī</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ir;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ir;"/>
    </owl:NamedIndividual>
@@ -976,7 +976,7 @@
       <rdfs:label>Ardabīl</rdfs:label>
       <skos:definition>The province of Ardabīl in the country of Iran (Islamic Republic of)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Iran"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="fa">Ardabīl</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="fa">Ardabīl</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ir;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ir;"/>
    </owl:NamedIndividual>
@@ -1006,7 +1006,7 @@
       <rdfs:label>Chahār Maḩāl va Bakhtīārī</rdfs:label>
       <skos:definition>The province of Chahār Maḩāl va Bakhtīārī in the country of Iran (Islamic Republic of)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Iran"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="fa">Chahār Maḩāl va Bakhtīārī</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="fa">Chahār Maḩāl va Bakhtīārī</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ir;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ir;"/>
    </owl:NamedIndividual>

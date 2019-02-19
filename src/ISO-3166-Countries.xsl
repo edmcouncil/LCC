@@ -113,19 +113,19 @@ exclude-result-prefixes="xsl xs">
   <xsl:for-each select="full-name">
     <xsl:choose>
       <xsl:when test="@lang3code='eng'">
-        <lcc-cr:hasEnglishFullName rdf:datatype="&amp;xsd;string">
+        <lcc-cr:hasEnglishFullName>
           <xsl:copy-of select="@xml:lang"/>
           <xsl:value-of select="."/>
         </lcc-cr:hasEnglishFullName>
       </xsl:when>
       <xsl:when test="@lang3code='fra'">
-        <lcc-cr:hasFrenchFullName rdf:datatype="&amp;xsd;string">
+        <lcc-cr:hasFrenchFullName>
           <xsl:copy-of select="@xml:lang"/>
           <xsl:value-of select="."/>
         </lcc-cr:hasFrenchFullName>
       </xsl:when>
       <xsl:otherwise>
-        <lcc-cr:hasLocalFullName rdf:datatype="&amp;xsd;string">
+        <lcc-cr:hasLocalFullName>
           <xsl:copy-of select="@xml:lang"/>
           <xsl:value-of select="."/>
         </lcc-cr:hasLocalFullName> 
@@ -135,19 +135,19 @@ exclude-result-prefixes="xsl xs">
   <xsl:for-each select="short-name">
     <xsl:choose>
       <xsl:when test="@lang3code='eng'">
-        <lcc-cr:hasEnglishShortName rdf:datatype="&amp;xsd;string">
+        <lcc-cr:hasEnglishShortName>
           <xsl:copy-of select="@xml:lang"/>
           <xsl:value-of select="."/>
         </lcc-cr:hasEnglishShortName>
       </xsl:when>
       <xsl:when test="@lang3code='fra'">
-        <lcc-cr:hasFrenchShortName rdf:datatype="&amp;xsd;string">
+        <lcc-cr:hasFrenchShortName>
           <xsl:copy-of select="@xml:lang"/>
           <xsl:value-of select="."/>
         </lcc-cr:hasFrenchShortName>
       </xsl:when>
       <xsl:otherwise>
-        <lcc-cr:hasLocalShortName rdf:datatype="&amp;xsd;string">
+        <lcc-cr:hasLocalShortName>
           <xsl:copy-of select="@xml:lang"/>
           <xsl:value-of select="."/>
         </lcc-cr:hasLocalShortName> 
@@ -157,13 +157,13 @@ exclude-result-prefixes="xsl xs">
   <xsl:for-each select="short-name-upper-case">
     <xsl:choose>
       <xsl:when test="@lang3code='eng'">
-        <lcc-cr:hasEnglishShortNameInCapitals rdf:datatype="&amp;xsd;string">
+        <lcc-cr:hasEnglishShortNameInCapitals>
           <xsl:copy-of select="@xml:lang"/>
           <xsl:value-of select="."/>
         </lcc-cr:hasEnglishShortNameInCapitals>
       </xsl:when>
       <xsl:when test="@lang3code='fra'">
-        <lcc-cr:hasFrenchShortNameInCapitals rdf:datatype="&amp;xsd;string">
+        <lcc-cr:hasFrenchShortNameInCapitals>
           <xsl:copy-of select="@xml:lang"/>
           <xsl:value-of select="."/>
         </lcc-cr:hasFrenchShortNameInCapitals>
@@ -318,7 +318,7 @@ exclude-result-prefixes="xsl xs">
       <rdf:type rdf:resource="&amp;lcc-lr;LivingLanguage"/>
       <rdfs:label>Shikomor</rdfs:label>
       <skos:definition rdf:datatype="&amp;xsd;string">Shikomor language</skos:definition>
-      <lcc-lr:hasEnglishName rdf:datatype="&amp;xsd;string">Shikomor</lcc-lr:hasEnglishName>
+      <lcc-lr:hasEnglishName xml:lang="en">Shikomor</lcc-lr:hasEnglishName>
       <rdfs:comment>Not yet allocated a code in ISO 639</rdfs:comment>
       <rdfs:isDefinedBy>
         <xsl:attribute name="rdf:resource" select="$countries-base-uri"/>
@@ -356,7 +356,7 @@ exclude-result-prefixes="xsl xs">
       <rdf:type rdf:resource="&lcc-lr;LivingLanguage"/>
       <rdfs:label>Seselwa Creole French</rdfs:label>
       <skos:definition rdf:datatype="&xsd;string">Seselwa Creole French language</skos:definition>
-      <lcc-lr:hasEnglishName rdf:datatype="&xsd;string">Seselwa Creole French</lcc-lr:hasEnglishName>
+      <lcc-lr:hasEnglishName xml:lang="en">Seselwa Creole French</lcc-lr:hasEnglishName>
       <lcc-lr:hasIndigenousName rdf:datatype="&xsd;string">kreol</lcc-lr:hasIndigenousName>
       <rdfs:comment>Part of ISO 639-3, not otherwise represented in OMG ontologies</rdfs:comment>
      <rdfs:isDefinedBy>

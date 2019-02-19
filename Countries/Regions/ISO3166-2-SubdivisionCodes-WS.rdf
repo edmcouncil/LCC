@@ -106,8 +106,8 @@
       <rdfs:label>Satupa'itea</rdfs:label>
       <skos:definition>The district of Satupa'itea in the country of Samoa</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Samoa"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Satupa'itea</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sm">Satupa'itea</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Satupa'itea</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sm">Satupa'itea</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ws;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ws;"/>
    </owl:NamedIndividual>
@@ -137,8 +137,8 @@
       <rdfs:label>A'ana</rdfs:label>
       <skos:definition>The district of A'ana in the country of Samoa</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Samoa"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">A'ana</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sm">A'ana</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">A'ana</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sm">A'ana</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ws;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ws;"/>
    </owl:NamedIndividual>
@@ -168,8 +168,8 @@
       <rdfs:label>Fa'asaleleaga</rdfs:label>
       <skos:definition>The district of Fa'asaleleaga in the country of Samoa</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Samoa"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Fa'asaleleaga</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sm">Fa'asaleleaga</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Fa'asaleleaga</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sm">Fa'asaleleaga</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ws;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ws;"/>
    </owl:NamedIndividual>
@@ -199,8 +199,8 @@
       <rdfs:label>Gaga'emauga</rdfs:label>
       <skos:definition>The district of Gaga'emauga in the country of Samoa</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Samoa"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sm">Gaga'emauga</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Gaga'emauga</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sm">Gaga'emauga</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Gaga'emauga</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ws;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ws;"/>
    </owl:NamedIndividual>
@@ -230,8 +230,8 @@
       <rdfs:label>Atua</rdfs:label>
       <skos:definition>The district of Atua in the country of Samoa</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Samoa"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Atua</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sm">Atua</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Atua</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sm">Atua</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ws;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ws;"/>
    </owl:NamedIndividual>
@@ -261,8 +261,8 @@
       <rdfs:label>Palauli</rdfs:label>
       <skos:definition>The district of Palauli in the country of Samoa</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Samoa"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Palauli</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sm">Palauli</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Palauli</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sm">Palauli</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ws;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ws;"/>
    </owl:NamedIndividual>
@@ -292,8 +292,8 @@
       <rdfs:label>Tuamasaga</rdfs:label>
       <skos:definition>The district of Tuamasaga in the country of Samoa</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Samoa"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Tuamasaga</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sm">Tuamasaga</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Tuamasaga</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sm">Tuamasaga</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ws;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ws;"/>
    </owl:NamedIndividual>
@@ -323,8 +323,8 @@
       <rdfs:label>Va'a-o-Fonoti</rdfs:label>
       <skos:definition>The district of Va'a-o-Fonoti in the country of Samoa</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Samoa"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Va'a-o-Fonoti</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sm">Va'a-o-Fonoti</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Va'a-o-Fonoti</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sm">Va'a-o-Fonoti</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ws;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ws;"/>
    </owl:NamedIndividual>
@@ -354,8 +354,8 @@
       <rdfs:label>Gagaifomauga</rdfs:label>
       <skos:definition>The district of Gagaifomauga in the country of Samoa</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Samoa"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Gagaifomauga</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sm">Gagaifomauga</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Gagaifomauga</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sm">Gagaifomauga</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ws;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ws;"/>
    </owl:NamedIndividual>
@@ -385,8 +385,8 @@
       <rdfs:label>Aiga-i-le-Tai</rdfs:label>
       <skos:definition>The district of Aiga-i-le-Tai in the country of Samoa</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Samoa"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sm">Aiga-i-le-Tai</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Aiga-i-le-Tai</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sm">Aiga-i-le-Tai</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Aiga-i-le-Tai</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ws;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ws;"/>
    </owl:NamedIndividual>
@@ -416,8 +416,8 @@
       <rdfs:label>Vaisigano</rdfs:label>
       <skos:definition>The district of Vaisigano in the country of Samoa</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Samoa"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sm">Vaisigano</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Vaisigano</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sm">Vaisigano</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Vaisigano</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ws;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ws;"/>
    </owl:NamedIndividual>
@@ -447,8 +447,8 @@
       <rdfs:label>Savai'i</rdfs:label>
       <skos:definition>The territory of Savai'i in the country of Samoa</skos:definition>
       <lcc-cr:hasNumericRegionCode rdf:datatype="&xsd;string">1192</lcc-cr:hasNumericRegionCode>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Savai'i</lcc-cr:hasFrenchShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Savai'i</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Savai'i</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Savai'i</lcc-cr:hasEnglishShortName>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Samoa"/>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2;Territory"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ws;"/>
@@ -466,8 +466,8 @@
       <rdfs:label>Upolu</rdfs:label>
       <skos:definition>The territory of Upolu in the country of Samoa</skos:definition>
       <lcc-cr:hasNumericRegionCode rdf:datatype="&xsd;string">1217</lcc-cr:hasNumericRegionCode>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Upolu</lcc-cr:hasFrenchShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Upolu</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Upolu</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Upolu</lcc-cr:hasEnglishShortName>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Samoa"/>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2;Territory"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ws;"/>

@@ -120,7 +120,7 @@
       <rdfs:label>Central</rdfs:label>
       <skos:definition>The division of Central in the country of Fiji</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Fiji"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Central</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Central</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-fj;Division"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-fj;"/>
    </owl:NamedIndividual>
@@ -148,7 +148,7 @@
       <rdfs:label>Naitasiri</rdfs:label>
       <skos:definition>The province of Naitasiri in the country of Fiji</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-fj;Central"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Naitasiri</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Naitasiri</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-fj;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-fj;"/>
    </owl:NamedIndividual>
@@ -178,7 +178,7 @@
       <rdfs:label>Namosi</rdfs:label>
       <skos:definition>The province of Namosi in the country of Fiji</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-fj;Central"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Namosi</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Namosi</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-fj;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-fj;"/>
    </owl:NamedIndividual>
@@ -208,7 +208,7 @@
       <rdfs:label>Rewa</rdfs:label>
       <skos:definition>The province of Rewa in the country of Fiji</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-fj;Central"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Rewa</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Rewa</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-fj;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-fj;"/>
    </owl:NamedIndividual>
@@ -238,7 +238,7 @@
       <rdfs:label>Serua</rdfs:label>
       <skos:definition>The province of Serua in the country of Fiji</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-fj;Central"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Serua</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Serua</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-fj;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-fj;"/>
    </owl:NamedIndividual>
@@ -268,7 +268,7 @@
       <rdfs:label>Tailevu</rdfs:label>
       <skos:definition>The province of Tailevu in the country of Fiji</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-fj;Central"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Tailevu</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Tailevu</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-fj;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-fj;"/>
    </owl:NamedIndividual>
@@ -300,7 +300,7 @@
       <rdfs:label>Rotuma</rdfs:label>
       <skos:definition>The dependency of Rotuma in the country of Fiji</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Fiji"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Rotuma</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Rotuma</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-fj;Dependency"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-fj;"/>
    </owl:NamedIndividual>
@@ -330,7 +330,7 @@
       <rdfs:label>Western</rdfs:label>
       <skos:definition>The division of Western in the country of Fiji</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Fiji"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Western</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Western</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-fj;Division"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-fj;"/>
    </owl:NamedIndividual>
@@ -358,7 +358,7 @@
       <rdfs:label>Ba</rdfs:label>
       <skos:definition>The province of Ba in the country of Fiji</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-fj;Western"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Ba</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Ba</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-fj;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-fj;"/>
    </owl:NamedIndividual>
@@ -388,7 +388,7 @@
       <rdfs:label>Nadroga and Navosa</rdfs:label>
       <skos:definition>The province of Nadroga and Navosa in the country of Fiji</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-fj;Western"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Nadroga and Navosa</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Nadroga and Navosa</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-fj;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-fj;"/>
    </owl:NamedIndividual>
@@ -418,7 +418,7 @@
       <rdfs:label>Ra</rdfs:label>
       <skos:definition>The province of Ra in the country of Fiji</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-fj;Western"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Ra</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Ra</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-fj;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-fj;"/>
    </owl:NamedIndividual>
@@ -450,7 +450,7 @@
       <rdfs:label>Northern</rdfs:label>
       <skos:definition>The division of Northern in the country of Fiji</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Fiji"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Northern</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Northern</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-fj;Division"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-fj;"/>
    </owl:NamedIndividual>
@@ -478,7 +478,7 @@
       <rdfs:label>Bua</rdfs:label>
       <skos:definition>The province of Bua in the country of Fiji</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-fj;Northern"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Bua</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Bua</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-fj;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-fj;"/>
    </owl:NamedIndividual>
@@ -508,7 +508,7 @@
       <rdfs:label>Cakaudrove</rdfs:label>
       <skos:definition>The province of Cakaudrove in the country of Fiji</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-fj;Northern"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Cakaudrove</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Cakaudrove</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-fj;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-fj;"/>
    </owl:NamedIndividual>
@@ -538,7 +538,7 @@
       <rdfs:label>Macuata</rdfs:label>
       <skos:definition>The province of Macuata in the country of Fiji</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-fj;Northern"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Macuata</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Macuata</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-fj;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-fj;"/>
    </owl:NamedIndividual>
@@ -570,7 +570,7 @@
       <rdfs:label>Eastern</rdfs:label>
       <skos:definition>The division of Eastern in the country of Fiji</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Fiji"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Eastern</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Eastern</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-fj;Division"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-fj;"/>
    </owl:NamedIndividual>
@@ -598,7 +598,7 @@
       <rdfs:label>Kadavu</rdfs:label>
       <skos:definition>The province of Kadavu in the country of Fiji</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-fj;Eastern"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Kadavu</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Kadavu</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-fj;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-fj;"/>
    </owl:NamedIndividual>
@@ -628,7 +628,7 @@
       <rdfs:label>Lau</rdfs:label>
       <skos:definition>The province of Lau in the country of Fiji</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-fj;Eastern"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Lau</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Lau</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-fj;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-fj;"/>
    </owl:NamedIndividual>
@@ -658,7 +658,7 @@
       <rdfs:label>Lomaiviti</rdfs:label>
       <skos:definition>The province of Lomaiviti in the country of Fiji</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-fj;Eastern"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Lomaiviti</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Lomaiviti</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-fj;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-fj;"/>
    </owl:NamedIndividual>
@@ -690,8 +690,8 @@
       <rdfs:label>Rotuma Island</rdfs:label>
       <skos:definition>The territory of Rotuma Island in the country of Fiji</skos:definition>
       <lcc-cr:hasNumericRegionCode rdf:datatype="&xsd;string">1160</lcc-cr:hasNumericRegionCode>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Rotuma Island</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">l'Île de Rotuma</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Rotuma Island</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">l'Île de Rotuma</lcc-cr:hasFrenchShortName>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Fiji"/>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2;Territory"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-fj;"/>
@@ -709,8 +709,8 @@
       <rdfs:label>Vanua Levu</rdfs:label>
       <skos:definition>The territory of Vanua Levu in the country of Fiji</skos:definition>
       <lcc-cr:hasNumericRegionCode rdf:datatype="&xsd;string">1219</lcc-cr:hasNumericRegionCode>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Vanua Levu</lcc-cr:hasFrenchShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Vanua Levu</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Vanua Levu</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Vanua Levu</lcc-cr:hasEnglishShortName>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Fiji"/>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2;Territory"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-fj;"/>
@@ -728,8 +728,8 @@
       <rdfs:label>Viti Levu</rdfs:label>
       <skos:definition>The territory of Viti Levu in the country of Fiji</skos:definition>
       <lcc-cr:hasNumericRegionCode rdf:datatype="&xsd;string">1221</lcc-cr:hasNumericRegionCode>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Viti Levu</lcc-cr:hasFrenchShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Viti Levu</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Viti Levu</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Viti Levu</lcc-cr:hasEnglishShortName>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Fiji"/>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2;Territory"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-fj;"/>

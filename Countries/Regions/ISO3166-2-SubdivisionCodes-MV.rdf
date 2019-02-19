@@ -113,8 +113,8 @@
       <rdfs:label>North Ari Atoll</rdfs:label>
       <skos:definition>The administrative atoll of North Ari Atoll in the country of Maldives</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Maldives"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">North Ari Atoll</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="dv">Ariatholhu Uthuruburi</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">North Ari Atoll</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="dv">Ariatholhu Uthuruburi</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mv;AdministrativeAtoll"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mv;"/>
    </owl:NamedIndividual>
@@ -144,8 +144,8 @@
       <rdfs:label>Faadhippolhu</rdfs:label>
       <skos:definition>The administrative atoll of Faadhippolhu in the country of Maldives</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Maldives"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="dv">Faadhippolhu</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Faadhippolhu</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="dv">Faadhippolhu</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Faadhippolhu</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mv;AdministrativeAtoll"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mv;"/>
    </owl:NamedIndividual>
@@ -175,8 +175,8 @@
       <rdfs:label>Felidhu Atoll</rdfs:label>
       <skos:definition>The administrative atoll of Felidhu Atoll in the country of Maldives</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Maldives"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="dv">Felidheatholhu</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Felidhu Atoll</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="dv">Felidheatholhu</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Felidhu Atoll</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mv;AdministrativeAtoll"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mv;"/>
    </owl:NamedIndividual>
@@ -206,8 +206,8 @@
       <rdfs:label>North Maalhosmadulu</rdfs:label>
       <skos:definition>The administrative atoll of North Maalhosmadulu in the country of Maldives</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Maldives"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="dv">Maalhosmadulu Uthuruburi</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">North Maalhosmadulu</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="dv">Maalhosmadulu Uthuruburi</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">North Maalhosmadulu</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mv;AdministrativeAtoll"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mv;"/>
    </owl:NamedIndividual>
@@ -237,8 +237,8 @@
       <rdfs:label>Hahdhunmathi</rdfs:label>
       <skos:definition>The administrative atoll of Hahdhunmathi in the country of Maldives</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Maldives"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Hahdhunmathi</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="dv">Hahdhunmathi</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Hahdhunmathi</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="dv">Hahdhunmathi</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mv;AdministrativeAtoll"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mv;"/>
    </owl:NamedIndividual>
@@ -268,8 +268,8 @@
       <rdfs:label>North Thiladhunmathi</rdfs:label>
       <skos:definition>The administrative atoll of North Thiladhunmathi in the country of Maldives</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Maldives"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="dv">Thiladhunmathee Uthuruburi</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">North Thiladhunmathi</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="dv">Thiladhunmathee Uthuruburi</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">North Thiladhunmathi</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mv;AdministrativeAtoll"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mv;"/>
    </owl:NamedIndividual>
@@ -299,8 +299,8 @@
       <rdfs:label>Kolhumadulu</rdfs:label>
       <skos:definition>The administrative atoll of Kolhumadulu in the country of Maldives</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Maldives"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="dv">Kolhumadulu</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Kolhumadulu</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="dv">Kolhumadulu</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Kolhumadulu</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mv;AdministrativeAtoll"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mv;"/>
    </owl:NamedIndividual>
@@ -330,8 +330,8 @@
       <rdfs:label>Mulaku Atoll</rdfs:label>
       <skos:definition>The administrative atoll of Mulaku Atoll in the country of Maldives</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Maldives"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Mulaku Atoll</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="dv">Mulakatholhu</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Mulaku Atoll</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="dv">Mulakatholhu</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mv;AdministrativeAtoll"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mv;"/>
    </owl:NamedIndividual>
@@ -361,8 +361,8 @@
       <rdfs:label>North Nilandhe Atoll</rdfs:label>
       <skos:definition>The administrative atoll of North Nilandhe Atoll in the country of Maldives</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Maldives"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">North Nilandhe Atoll</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="dv">Nilandheatholhu Uthuruburi</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">North Nilandhe Atoll</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="dv">Nilandheatholhu Uthuruburi</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mv;AdministrativeAtoll"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mv;"/>
    </owl:NamedIndividual>
@@ -392,8 +392,8 @@
       <rdfs:label>South Nilandhe Atoll</rdfs:label>
       <skos:definition>The administrative atoll of South Nilandhe Atoll in the country of Maldives</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Maldives"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">South Nilandhe Atoll</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="dv">Nilandheatholhu Dhekunuburi</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">South Nilandhe Atoll</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="dv">Nilandheatholhu Dhekunuburi</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mv;AdministrativeAtoll"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mv;"/>
    </owl:NamedIndividual>
@@ -423,8 +423,8 @@
       <rdfs:label>South Maalhosmadulu</rdfs:label>
       <skos:definition>The administrative atoll of South Maalhosmadulu in the country of Maldives</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Maldives"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">South Maalhosmadulu</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="dv">Maalhosmadulu Dhekunuburi</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">South Maalhosmadulu</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="dv">Maalhosmadulu Dhekunuburi</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mv;AdministrativeAtoll"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mv;"/>
    </owl:NamedIndividual>
@@ -454,8 +454,8 @@
       <rdfs:label>South Thiladhunmathi</rdfs:label>
       <skos:definition>The administrative atoll of South Thiladhunmathi in the country of Maldives</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Maldives"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">South Thiladhunmathi</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="dv">Thiladhunmathee Dhekunuburi</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">South Thiladhunmathi</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="dv">Thiladhunmathee Dhekunuburi</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mv;AdministrativeAtoll"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mv;"/>
    </owl:NamedIndividual>
@@ -485,8 +485,8 @@
       <rdfs:label>North Miladhunmadulu</rdfs:label>
       <skos:definition>The administrative atoll of North Miladhunmadulu in the country of Maldives</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Maldives"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">North Miladhunmadulu</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="dv">Miladhunmadulu Uthuruburi</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">North Miladhunmadulu</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="dv">Miladhunmadulu Uthuruburi</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mv;AdministrativeAtoll"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mv;"/>
    </owl:NamedIndividual>
@@ -516,8 +516,8 @@
       <rdfs:label>South Miladhunmadulu</rdfs:label>
       <skos:definition>The administrative atoll of South Miladhunmadulu in the country of Maldives</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Maldives"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="dv">Miladhunmadulu Dhekunuburi</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">South Miladhunmadulu</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="dv">Miladhunmadulu Dhekunuburi</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">South Miladhunmadulu</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mv;AdministrativeAtoll"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mv;"/>
    </owl:NamedIndividual>
@@ -547,8 +547,8 @@
       <rdfs:label>Male Atoll</rdfs:label>
       <skos:definition>The administrative atoll of Male Atoll in the country of Maldives</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Maldives"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Male Atoll</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="dv">Maaleatholhu</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Male Atoll</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="dv">Maaleatholhu</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mv;AdministrativeAtoll"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mv;"/>
    </owl:NamedIndividual>
@@ -578,8 +578,8 @@
       <rdfs:label>North Huvadhu Atoll</rdfs:label>
       <skos:definition>The administrative atoll of North Huvadhu Atoll in the country of Maldives</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Maldives"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">North Huvadhu Atoll</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="dv">Huvadhuatholhu Uthuruburi</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">North Huvadhu Atoll</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="dv">Huvadhuatholhu Uthuruburi</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mv;AdministrativeAtoll"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mv;"/>
    </owl:NamedIndividual>
@@ -609,8 +609,8 @@
       <rdfs:label>South Huvadhu Atoll</rdfs:label>
       <skos:definition>The administrative atoll of South Huvadhu Atoll in the country of Maldives</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Maldives"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">South Huvadhu Atoll</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="dv">Huvadhuatholhu Dhekunuburi</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">South Huvadhu Atoll</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="dv">Huvadhuatholhu Dhekunuburi</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mv;AdministrativeAtoll"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mv;"/>
    </owl:NamedIndividual>
@@ -640,8 +640,8 @@
       <rdfs:label>Fuvammulah</rdfs:label>
       <skos:definition>The administrative atoll of Fuvammulah in the country of Maldives</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Maldives"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="dv">Fuvammulah</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Fuvammulah</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="dv">Fuvammulah</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Fuvammulah</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mv;AdministrativeAtoll"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mv;"/>
    </owl:NamedIndividual>
@@ -671,8 +671,8 @@
       <rdfs:label>Addu City</rdfs:label>
       <skos:definition>The city of Addu City in the country of Maldives</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Maldives"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="dv">Addu</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Addu City</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="dv">Addu</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Addu City</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mv;City"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mv;"/>
    </owl:NamedIndividual>
@@ -702,8 +702,8 @@
       <rdfs:label>Male</rdfs:label>
       <skos:definition>The city of Male in the country of Maldives</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Maldives"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Male</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="dv">Maale</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Male</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="dv">Maale</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mv;City"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mv;"/>
    </owl:NamedIndividual>
@@ -733,8 +733,8 @@
       <rdfs:label>South Ari Atoll</rdfs:label>
       <skos:definition>The administrative atoll of South Ari Atoll in the country of Maldives</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Maldives"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="dv">Ariatholhu Dhekunuburi</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">South Ari Atoll</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="dv">Ariatholhu Dhekunuburi</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">South Ari Atoll</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mv;AdministrativeAtoll"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mv;"/>
    </owl:NamedIndividual>

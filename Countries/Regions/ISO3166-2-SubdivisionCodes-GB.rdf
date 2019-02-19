@@ -169,7 +169,7 @@
       <rdfs:label>United Kingdom</rdfs:label>
       <skos:definition>The nation of United Kingdom in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;UnitedKingdomOfGreatBritainAndNorthernIreland"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">United Kingdom</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">United Kingdom</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gb;Nation"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
    </owl:NamedIndividual>
@@ -199,7 +199,7 @@
       <rdfs:label>Great Britain</rdfs:label>
       <skos:definition>The nation of Great Britain in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;UnitedKingdomOfGreatBritainAndNorthernIreland"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Great Britain</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Great Britain</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gb;Nation"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
    </owl:NamedIndividual>
@@ -229,7 +229,7 @@
       <rdfs:label>Scotland</rdfs:label>
       <skos:definition>The country of Scotland in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;UnitedKingdomOfGreatBritainAndNorthernIreland"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Scotland</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Scotland</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gb;Country"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
    </owl:NamedIndividual>
@@ -257,7 +257,7 @@
       <rdfs:label>Edinburgh, City of</rdfs:label>
       <skos:definition>The council area of Edinburgh, City of in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gb;Scotland"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Edinburgh, City of</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Edinburgh, City of</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gb;CouncilArea"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
    </owl:NamedIndividual>
@@ -287,7 +287,7 @@
       <rdfs:label>North Lanarkshire</rdfs:label>
       <skos:definition>The council area of North Lanarkshire in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gb;Scotland"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">North Lanarkshire</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">North Lanarkshire</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gb;CouncilArea"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
    </owl:NamedIndividual>
@@ -317,7 +317,7 @@
       <rdfs:label>Renfrewshire</rdfs:label>
       <skos:definition>The council area of Renfrewshire in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gb;Scotland"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Renfrewshire</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Renfrewshire</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gb;CouncilArea"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
    </owl:NamedIndividual>
@@ -347,7 +347,7 @@
       <rdfs:label>Angus</rdfs:label>
       <skos:definition>The council area of Angus in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gb;Scotland"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Angus</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Angus</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gb;CouncilArea"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
    </owl:NamedIndividual>
@@ -377,7 +377,7 @@
       <rdfs:label>Falkirk</rdfs:label>
       <skos:definition>The council area of Falkirk in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gb;Scotland"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Falkirk</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Falkirk</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gb;CouncilArea"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
    </owl:NamedIndividual>
@@ -407,7 +407,7 @@
       <rdfs:label>Glasgow City</rdfs:label>
       <skos:definition>The council area of Glasgow City in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gb;Scotland"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Glasgow City</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Glasgow City</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gb;CouncilArea"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
    </owl:NamedIndividual>
@@ -437,7 +437,7 @@
       <rdfs:label>Moray</rdfs:label>
       <skos:definition>The council area of Moray in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gb;Scotland"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Moray</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Moray</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gb;CouncilArea"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
    </owl:NamedIndividual>
@@ -467,7 +467,7 @@
       <rdfs:label>Dumfries and Galloway</rdfs:label>
       <skos:definition>The council area of Dumfries and Galloway in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gb;Scotland"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Dumfries and Galloway</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Dumfries and Galloway</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gb;CouncilArea"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
    </owl:NamedIndividual>
@@ -497,7 +497,7 @@
       <rdfs:label>East Lothian</rdfs:label>
       <skos:definition>The council area of East Lothian in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gb;Scotland"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">East Lothian</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">East Lothian</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gb;CouncilArea"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
    </owl:NamedIndividual>
@@ -527,7 +527,7 @@
       <rdfs:label>South Ayrshire</rdfs:label>
       <skos:definition>The council area of South Ayrshire in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gb;Scotland"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">South Ayrshire</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">South Ayrshire</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gb;CouncilArea"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
    </owl:NamedIndividual>
@@ -557,7 +557,7 @@
       <rdfs:label>Aberdeenshire</rdfs:label>
       <skos:definition>The council area of Aberdeenshire in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gb;Scotland"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Aberdeenshire</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Aberdeenshire</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gb;CouncilArea"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
    </owl:NamedIndividual>
@@ -587,7 +587,7 @@
       <rdfs:label>Eilean Siar</rdfs:label>
       <skos:definition>The council area of Eilean Siar in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gb;Scotland"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Eilean Siar</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Eilean Siar</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gb;CouncilArea"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
    </owl:NamedIndividual>
@@ -617,7 +617,7 @@
       <rdfs:label>North Ayrshire</rdfs:label>
       <skos:definition>The council area of North Ayrshire in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gb;Scotland"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">North Ayrshire</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">North Ayrshire</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gb;CouncilArea"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
    </owl:NamedIndividual>
@@ -647,7 +647,7 @@
       <rdfs:label>West Lothian</rdfs:label>
       <skos:definition>The council area of West Lothian in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gb;Scotland"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">West Lothian</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">West Lothian</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gb;CouncilArea"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
    </owl:NamedIndividual>
@@ -677,7 +677,7 @@
       <rdfs:label>Argyll and Bute</rdfs:label>
       <skos:definition>The council area of Argyll and Bute in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gb;Scotland"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Argyll and Bute</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Argyll and Bute</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gb;CouncilArea"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
    </owl:NamedIndividual>
@@ -707,7 +707,7 @@
       <rdfs:label>Clackmannanshire</rdfs:label>
       <skos:definition>The council area of Clackmannanshire in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gb;Scotland"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Clackmannanshire</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Clackmannanshire</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gb;CouncilArea"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
    </owl:NamedIndividual>
@@ -737,7 +737,7 @@
       <rdfs:label>East Dunbartonshire</rdfs:label>
       <skos:definition>The council area of East Dunbartonshire in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gb;Scotland"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">East Dunbartonshire</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">East Dunbartonshire</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gb;CouncilArea"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
    </owl:NamedIndividual>
@@ -767,7 +767,7 @@
       <rdfs:label>Fife</rdfs:label>
       <skos:definition>The council area of Fife in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gb;Scotland"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Fife</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Fife</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gb;CouncilArea"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
    </owl:NamedIndividual>
@@ -797,7 +797,7 @@
       <rdfs:label>Midlothian</rdfs:label>
       <skos:definition>The council area of Midlothian in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gb;Scotland"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Midlothian</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Midlothian</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gb;CouncilArea"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
    </owl:NamedIndividual>
@@ -827,7 +827,7 @@
       <rdfs:label>Orkney Islands</rdfs:label>
       <skos:definition>The council area of Orkney Islands in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gb;Scotland"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Orkney Islands</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Orkney Islands</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gb;CouncilArea"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
    </owl:NamedIndividual>
@@ -857,7 +857,7 @@
       <rdfs:label>Scottish Borders, The</rdfs:label>
       <skos:definition>The council area of Scottish Borders, The in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gb;Scotland"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Scottish Borders, The</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Scottish Borders, The</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gb;CouncilArea"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
    </owl:NamedIndividual>
@@ -887,7 +887,7 @@
       <rdfs:label>South Lanarkshire</rdfs:label>
       <skos:definition>The council area of South Lanarkshire in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gb;Scotland"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">South Lanarkshire</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">South Lanarkshire</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gb;CouncilArea"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
    </owl:NamedIndividual>
@@ -917,7 +917,7 @@
       <rdfs:label>Stirling</rdfs:label>
       <skos:definition>The council area of Stirling in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gb;Scotland"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Stirling</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Stirling</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gb;CouncilArea"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
    </owl:NamedIndividual>
@@ -947,7 +947,7 @@
       <rdfs:label>Shetland Islands</rdfs:label>
       <skos:definition>The council area of Shetland Islands in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gb;Scotland"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Shetland Islands</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Shetland Islands</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gb;CouncilArea"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
    </owl:NamedIndividual>
@@ -977,7 +977,7 @@
       <rdfs:label>West Dunbartonshire</rdfs:label>
       <skos:definition>The council area of West Dunbartonshire in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gb;Scotland"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">West Dunbartonshire</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">West Dunbartonshire</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gb;CouncilArea"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
    </owl:NamedIndividual>
@@ -1007,7 +1007,7 @@
       <rdfs:label>Aberdeen City</rdfs:label>
       <skos:definition>The council area of Aberdeen City in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gb;Scotland"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Aberdeen City</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Aberdeen City</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gb;CouncilArea"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
    </owl:NamedIndividual>
@@ -1037,7 +1037,7 @@
       <rdfs:label>Dundee City</rdfs:label>
       <skos:definition>The council area of Dundee City in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gb;Scotland"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Dundee City</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Dundee City</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gb;CouncilArea"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
    </owl:NamedIndividual>
@@ -1067,7 +1067,7 @@
       <rdfs:label>East Ayrshire</rdfs:label>
       <skos:definition>The council area of East Ayrshire in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gb;Scotland"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">East Ayrshire</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">East Ayrshire</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gb;CouncilArea"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
    </owl:NamedIndividual>
@@ -1097,7 +1097,7 @@
       <rdfs:label>East Renfrewshire</rdfs:label>
       <skos:definition>The council area of East Renfrewshire in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gb;Scotland"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">East Renfrewshire</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">East Renfrewshire</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gb;CouncilArea"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
    </owl:NamedIndividual>
@@ -1127,7 +1127,7 @@
       <rdfs:label>Highland</rdfs:label>
       <skos:definition>The council area of Highland in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gb;Scotland"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Highland</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Highland</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gb;CouncilArea"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
    </owl:NamedIndividual>
@@ -1157,7 +1157,7 @@
       <rdfs:label>Inverclyde</rdfs:label>
       <skos:definition>The council area of Inverclyde in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gb;Scotland"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Inverclyde</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Inverclyde</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gb;CouncilArea"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
    </owl:NamedIndividual>
@@ -1187,7 +1187,7 @@
       <rdfs:label>Perth and Kinross</rdfs:label>
       <skos:definition>The council area of Perth and Kinross in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gb;Scotland"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Perth and Kinross</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Perth and Kinross</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gb;CouncilArea"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
    </owl:NamedIndividual>
@@ -1219,7 +1219,7 @@
       <rdfs:label>England and Wales</rdfs:label>
       <skos:definition>The nation of England and Wales in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;UnitedKingdomOfGreatBritainAndNorthernIreland"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">England and Wales</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">England and Wales</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gb;Nation"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
    </owl:NamedIndividual>
@@ -1249,7 +1249,7 @@
       <rdfs:label>England</rdfs:label>
       <skos:definition>The country of England in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;UnitedKingdomOfGreatBritainAndNorthernIreland"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">England</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">England</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gb;Country"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
    </owl:NamedIndividual>
@@ -1277,7 +1277,7 @@
       <rdfs:label>Bromley</rdfs:label>
       <skos:definition>The London borough of Bromley in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gb;England"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Bromley</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Bromley</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gb;LondonBorough"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
    </owl:NamedIndividual>
@@ -1307,7 +1307,7 @@
       <rdfs:label>Ealing</rdfs:label>
       <skos:definition>The London borough of Ealing in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gb;England"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Ealing</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Ealing</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gb;LondonBorough"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
    </owl:NamedIndividual>
@@ -1337,7 +1337,7 @@
       <rdfs:label>Greenwich</rdfs:label>
       <skos:definition>The London borough of Greenwich in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gb;England"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Greenwich</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Greenwich</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gb;LondonBorough"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
    </owl:NamedIndividual>
@@ -1367,7 +1367,7 @@
       <rdfs:label>Halton</rdfs:label>
       <skos:definition>The unitary authority of Halton in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gb;England"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Halton</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Halton</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gb;UnitaryAuthority"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
    </owl:NamedIndividual>
@@ -1397,7 +1397,7 @@
       <rdfs:label>Haringey</rdfs:label>
       <skos:definition>The London borough of Haringey in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gb;England"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Haringey</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Haringey</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gb;LondonBorough"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
    </owl:NamedIndividual>
@@ -1427,7 +1427,7 @@
       <rdfs:label>Kingston upon Hull</rdfs:label>
       <skos:definition>The unitary authority of Kingston upon Hull in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gb;England"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Kingston upon Hull</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Kingston upon Hull</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gb;UnitaryAuthority"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
    </owl:NamedIndividual>
@@ -1457,7 +1457,7 @@
       <rdfs:label>North East Lincolnshire</rdfs:label>
       <skos:definition>The unitary authority of North East Lincolnshire in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gb;England"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">North East Lincolnshire</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">North East Lincolnshire</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gb;UnitaryAuthority"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
    </owl:NamedIndividual>
@@ -1487,7 +1487,7 @@
       <rdfs:label>Norfolk</rdfs:label>
       <skos:definition>The two-tier county of Norfolk in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gb;England"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Norfolk</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Norfolk</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gb;Two-tierCounty"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
    </owl:NamedIndividual>
@@ -1517,7 +1517,7 @@
       <rdfs:label>Portsmouth</rdfs:label>
       <skos:definition>The unitary authority of Portsmouth in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gb;England"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Portsmouth</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Portsmouth</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gb;UnitaryAuthority"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
    </owl:NamedIndividual>
@@ -1547,7 +1547,7 @@
       <rdfs:label>South Gloucestershire</rdfs:label>
       <skos:definition>The unitary authority of South Gloucestershire in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gb;England"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">South Gloucestershire</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">South Gloucestershire</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gb;UnitaryAuthority"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
    </owl:NamedIndividual>
@@ -1577,7 +1577,7 @@
       <rdfs:label>West Berkshire</rdfs:label>
       <skos:definition>The unitary authority of West Berkshire in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gb;England"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">West Berkshire</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">West Berkshire</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gb;UnitaryAuthority"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
    </owl:NamedIndividual>
@@ -1607,7 +1607,7 @@
       <rdfs:label>Wandsworth</rdfs:label>
       <skos:definition>The London borough of Wandsworth in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gb;England"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Wandsworth</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Wandsworth</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gb;LondonBorough"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
    </owl:NamedIndividual>
@@ -1637,7 +1637,7 @@
       <rdfs:label>Warrington</rdfs:label>
       <skos:definition>The unitary authority of Warrington in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gb;England"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Warrington</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Warrington</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gb;UnitaryAuthority"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
    </owl:NamedIndividual>
@@ -1667,7 +1667,7 @@
       <rdfs:label>Isles of Scilly</rdfs:label>
       <skos:definition>The unitary authority of Isles of Scilly in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gb;England"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Isles of Scilly</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Isles of Scilly</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gb;UnitaryAuthority"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
    </owl:NamedIndividual>
@@ -1697,7 +1697,7 @@
       <rdfs:label>Bath and North East Somerset</rdfs:label>
       <skos:definition>The unitary authority of Bath and North East Somerset in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gb;England"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Bath and North East Somerset</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Bath and North East Somerset</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gb;UnitaryAuthority"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
    </owl:NamedIndividual>
@@ -1727,7 +1727,7 @@
       <rdfs:label>Birmingham</rdfs:label>
       <skos:definition>The metropolitan district of Birmingham in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gb;England"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Birmingham</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Birmingham</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gb;MetropolitanDistrict"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
    </owl:NamedIndividual>
@@ -1757,7 +1757,7 @@
       <rdfs:label>Blackpool</rdfs:label>
       <skos:definition>The unitary authority of Blackpool in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gb;England"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Blackpool</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Blackpool</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gb;UnitaryAuthority"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
    </owl:NamedIndividual>
@@ -1787,7 +1787,7 @@
       <rdfs:label>Cheshire West and Chester</rdfs:label>
       <skos:definition>The unitary authority of Cheshire West and Chester in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gb;England"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Cheshire West and Chester</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Cheshire West and Chester</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gb;UnitaryAuthority"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
    </owl:NamedIndividual>
@@ -1817,7 +1817,7 @@
       <rdfs:label>Hounslow</rdfs:label>
       <skos:definition>The London borough of Hounslow in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gb;England"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Hounslow</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Hounslow</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gb;LondonBorough"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
    </owl:NamedIndividual>
@@ -1847,7 +1847,7 @@
       <rdfs:label>Hertfordshire</rdfs:label>
       <skos:definition>The two-tier county of Hertfordshire in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gb;England"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Hertfordshire</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Hertfordshire</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gb;Two-tierCounty"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
    </owl:NamedIndividual>
@@ -1877,7 +1877,7 @@
       <rdfs:label>Kingston upon Thames</rdfs:label>
       <skos:definition>The London borough of Kingston upon Thames in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gb;England"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Kingston upon Thames</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Kingston upon Thames</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gb;LondonBorough"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
    </owl:NamedIndividual>
@@ -1907,7 +1907,7 @@
       <rdfs:label>Leicestershire</rdfs:label>
       <skos:definition>The two-tier county of Leicestershire in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gb;England"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Leicestershire</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Leicestershire</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gb;Two-tierCounty"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
    </owl:NamedIndividual>
@@ -1937,7 +1937,7 @@
       <rdfs:label>Rochdale</rdfs:label>
       <skos:definition>The metropolitan district of Rochdale in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gb;England"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Rochdale</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Rochdale</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gb;MetropolitanDistrict"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
    </owl:NamedIndividual>
@@ -1967,7 +1967,7 @@
       <rdfs:label>Rotherham</rdfs:label>
       <skos:definition>The metropolitan district of Rotherham in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gb;England"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Rotherham</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Rotherham</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gb;MetropolitanDistrict"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
    </owl:NamedIndividual>
@@ -1997,7 +1997,7 @@
       <rdfs:label>Suffolk</rdfs:label>
       <skos:definition>The two-tier county of Suffolk in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gb;England"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Suffolk</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Suffolk</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gb;Two-tierCounty"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
    </owl:NamedIndividual>
@@ -2027,7 +2027,7 @@
       <rdfs:label>Surrey</rdfs:label>
       <skos:definition>The two-tier county of Surrey in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gb;England"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Surrey</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Surrey</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gb;Two-tierCounty"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
    </owl:NamedIndividual>
@@ -2057,7 +2057,7 @@
       <rdfs:label>Southampton</rdfs:label>
       <skos:definition>The unitary authority of Southampton in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gb;England"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Southampton</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Southampton</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gb;UnitaryAuthority"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
    </owl:NamedIndividual>
@@ -2087,7 +2087,7 @@
       <rdfs:label>Stockton-on-Tees</rdfs:label>
       <skos:definition>The unitary authority of Stockton-on-Tees in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gb;England"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Stockton-on-Tees</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Stockton-on-Tees</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gb;UnitaryAuthority"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
    </owl:NamedIndividual>
@@ -2117,7 +2117,7 @@
       <rdfs:label>Swindon</rdfs:label>
       <skos:definition>The unitary authority of Swindon in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gb;England"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Swindon</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Swindon</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gb;UnitaryAuthority"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
    </owl:NamedIndividual>
@@ -2147,7 +2147,7 @@
       <rdfs:label>Telford and Wrekin</rdfs:label>
       <skos:definition>The unitary authority of Telford and Wrekin in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gb;England"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Telford and Wrekin</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Telford and Wrekin</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gb;UnitaryAuthority"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
    </owl:NamedIndividual>
@@ -2177,7 +2177,7 @@
       <rdfs:label>Windsor and Maidenhead</rdfs:label>
       <skos:definition>The unitary authority of Windsor and Maidenhead in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gb;England"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Windsor and Maidenhead</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Windsor and Maidenhead</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gb;UnitaryAuthority"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
    </owl:NamedIndividual>
@@ -2207,7 +2207,7 @@
       <rdfs:label>Worcestershire</rdfs:label>
       <skos:definition>The two-tier county of Worcestershire in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gb;England"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Worcestershire</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Worcestershire</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gb;Two-tierCounty"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
    </owl:NamedIndividual>
@@ -2237,7 +2237,7 @@
       <rdfs:label>West Sussex</rdfs:label>
       <skos:definition>The two-tier county of West Sussex in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gb;England"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">West Sussex</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">West Sussex</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gb;Two-tierCounty"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
    </owl:NamedIndividual>
@@ -2267,7 +2267,7 @@
       <rdfs:label>Bexley</rdfs:label>
       <skos:definition>The London borough of Bexley in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gb;England"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Bexley</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Bexley</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gb;LondonBorough"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
    </owl:NamedIndividual>
@@ -2297,7 +2297,7 @@
       <rdfs:label>Bournemouth</rdfs:label>
       <skos:definition>The unitary authority of Bournemouth in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gb;England"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Bournemouth</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Bournemouth</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gb;UnitaryAuthority"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
    </owl:NamedIndividual>
@@ -2327,7 +2327,7 @@
       <rdfs:label>Bradford</rdfs:label>
       <skos:definition>The metropolitan district of Bradford in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gb;England"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Bradford</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Bradford</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gb;MetropolitanDistrict"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
    </owl:NamedIndividual>
@@ -2357,7 +2357,7 @@
       <rdfs:label>Bury</rdfs:label>
       <skos:definition>The metropolitan district of Bury in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gb;England"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Bury</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Bury</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gb;MetropolitanDistrict"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
    </owl:NamedIndividual>
@@ -2387,7 +2387,7 @@
       <rdfs:label>Cheshire East</rdfs:label>
       <skos:definition>The unitary authority of Cheshire East in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gb;England"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Cheshire East</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Cheshire East</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gb;UnitaryAuthority"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
    </owl:NamedIndividual>
@@ -2417,7 +2417,7 @@
       <rdfs:label>Cornwall</rdfs:label>
       <skos:definition>The unitary authority of Cornwall in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gb;England"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Cornwall</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Cornwall</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gb;UnitaryAuthority"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
    </owl:NamedIndividual>
@@ -2447,7 +2447,7 @@
       <rdfs:label>Hampshire</rdfs:label>
       <skos:definition>The two-tier county of Hampshire in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gb;England"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Hampshire</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Hampshire</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gb;Two-tierCounty"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
    </owl:NamedIndividual>
@@ -2477,7 +2477,7 @@
       <rdfs:label>Liverpool</rdfs:label>
       <skos:definition>The metropolitan district of Liverpool in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gb;England"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Liverpool</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Liverpool</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gb;MetropolitanDistrict"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
    </owl:NamedIndividual>
@@ -2507,7 +2507,7 @@
       <rdfs:label>North Yorkshire</rdfs:label>
       <skos:definition>The two-tier county of North Yorkshire in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gb;England"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">North Yorkshire</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">North Yorkshire</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gb;Two-tierCounty"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
    </owl:NamedIndividual>
@@ -2537,7 +2537,7 @@
       <rdfs:label>Oxfordshire</rdfs:label>
       <skos:definition>The two-tier county of Oxfordshire in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gb;England"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Oxfordshire</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Oxfordshire</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gb;Two-tierCounty"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
    </owl:NamedIndividual>
@@ -2567,7 +2567,7 @@
       <rdfs:label>Richmond upon Thames</rdfs:label>
       <skos:definition>The London borough of Richmond upon Thames in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gb;England"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Richmond upon Thames</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Richmond upon Thames</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gb;LondonBorough"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
    </owl:NamedIndividual>
@@ -2597,7 +2597,7 @@
       <rdfs:label>Rutland</rdfs:label>
       <skos:definition>The unitary authority of Rutland in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gb;England"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Rutland</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Rutland</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gb;UnitaryAuthority"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
    </owl:NamedIndividual>
@@ -2627,7 +2627,7 @@
       <rdfs:label>Sandwell</rdfs:label>
       <skos:definition>The metropolitan district of Sandwell in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gb;England"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Sandwell</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Sandwell</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gb;MetropolitanDistrict"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
    </owl:NamedIndividual>
@@ -2657,7 +2657,7 @@
       <rdfs:label>Sheffield</rdfs:label>
       <skos:definition>The metropolitan district of Sheffield in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gb;England"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Sheffield</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Sheffield</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gb;MetropolitanDistrict"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
    </owl:NamedIndividual>
@@ -2687,7 +2687,7 @@
       <rdfs:label>Slough</rdfs:label>
       <skos:definition>The unitary authority of Slough in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gb;England"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Slough</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Slough</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gb;UnitaryAuthority"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
    </owl:NamedIndividual>
@@ -2717,7 +2717,7 @@
       <rdfs:label>Thurrock</rdfs:label>
       <skos:definition>The unitary authority of Thurrock in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gb;England"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Thurrock</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Thurrock</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gb;UnitaryAuthority"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
    </owl:NamedIndividual>
@@ -2747,7 +2747,7 @@
       <rdfs:label>Torbay</rdfs:label>
       <skos:definition>The unitary authority of Torbay in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gb;England"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Torbay</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Torbay</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gb;UnitaryAuthority"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
    </owl:NamedIndividual>
@@ -2777,7 +2777,7 @@
       <rdfs:label>Waltham Forest</rdfs:label>
       <skos:definition>The London borough of Waltham Forest in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gb;England"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Waltham Forest</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Waltham Forest</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gb;LondonBorough"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
    </owl:NamedIndividual>
@@ -2807,7 +2807,7 @@
       <rdfs:label>Wiltshire</rdfs:label>
       <skos:definition>The unitary authority of Wiltshire in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gb;England"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Wiltshire</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Wiltshire</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gb;UnitaryAuthority"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
    </owl:NamedIndividual>
@@ -2837,7 +2837,7 @@
       <rdfs:label>Wakefield</rdfs:label>
       <skos:definition>The metropolitan district of Wakefield in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gb;England"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Wakefield</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Wakefield</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gb;MetropolitanDistrict"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
    </owl:NamedIndividual>
@@ -2867,7 +2867,7 @@
       <rdfs:label>York</rdfs:label>
       <skos:definition>The unitary authority of York in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gb;England"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">York</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">York</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gb;UnitaryAuthority"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
    </owl:NamedIndividual>
@@ -2897,7 +2897,7 @@
       <rdfs:label>Calderdale</rdfs:label>
       <skos:definition>The metropolitan district of Calderdale in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gb;England"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Calderdale</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Calderdale</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gb;MetropolitanDistrict"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
    </owl:NamedIndividual>
@@ -2927,7 +2927,7 @@
       <rdfs:label>Coventry</rdfs:label>
       <skos:definition>The metropolitan district of Coventry in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gb;England"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Coventry</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Coventry</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gb;MetropolitanDistrict"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
    </owl:NamedIndividual>
@@ -2957,7 +2957,7 @@
       <rdfs:label>Derby</rdfs:label>
       <skos:definition>The unitary authority of Derby in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gb;England"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Derby</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Derby</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gb;UnitaryAuthority"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
    </owl:NamedIndividual>
@@ -2987,7 +2987,7 @@
       <rdfs:label>Devon</rdfs:label>
       <skos:definition>The two-tier county of Devon in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gb;England"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Devon</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Devon</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gb;Two-tierCounty"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
    </owl:NamedIndividual>
@@ -3017,7 +3017,7 @@
       <rdfs:label>Dudley</rdfs:label>
       <skos:definition>The metropolitan district of Dudley in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gb;England"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Dudley</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Dudley</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gb;MetropolitanDistrict"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
    </owl:NamedIndividual>
@@ -3047,7 +3047,7 @@
       <rdfs:label>Gloucestershire</rdfs:label>
       <skos:definition>The two-tier county of Gloucestershire in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gb;England"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Gloucestershire</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Gloucestershire</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gb;Two-tierCounty"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
    </owl:NamedIndividual>
@@ -3077,7 +3077,7 @@
       <rdfs:label>Hackney</rdfs:label>
       <skos:definition>The London borough of Hackney in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gb;England"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Hackney</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Hackney</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gb;LondonBorough"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
    </owl:NamedIndividual>
@@ -3107,7 +3107,7 @@
       <rdfs:label>Harrow</rdfs:label>
       <skos:definition>The London borough of Harrow in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gb;England"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Harrow</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Harrow</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gb;LondonBorough"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
    </owl:NamedIndividual>
@@ -3137,7 +3137,7 @@
       <rdfs:label>Isle of Wight</rdfs:label>
       <skos:definition>The unitary authority of Isle of Wight in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gb;England"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Isle of Wight</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Isle of Wight</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gb;UnitaryAuthority"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
    </owl:NamedIndividual>
@@ -3167,7 +3167,7 @@
       <rdfs:label>Islington</rdfs:label>
       <skos:definition>The London borough of Islington in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gb;England"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Islington</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Islington</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gb;LondonBorough"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
    </owl:NamedIndividual>
@@ -3197,7 +3197,7 @@
       <rdfs:label>Kensington and Chelsea</rdfs:label>
       <skos:definition>The London borough of Kensington and Chelsea in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gb;England"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Kensington and Chelsea</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Kensington and Chelsea</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gb;LondonBorough"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
    </owl:NamedIndividual>
@@ -3227,7 +3227,7 @@
       <rdfs:label>Lambeth</rdfs:label>
       <skos:definition>The London borough of Lambeth in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gb;England"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Lambeth</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Lambeth</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gb;LondonBorough"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
    </owl:NamedIndividual>
@@ -3257,7 +3257,7 @@
       <rdfs:label>Leeds</rdfs:label>
       <skos:definition>The metropolitan district of Leeds in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gb;England"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Leeds</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Leeds</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gb;MetropolitanDistrict"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
    </owl:NamedIndividual>
@@ -3287,7 +3287,7 @@
       <rdfs:label>Newcastle upon Tyne</rdfs:label>
       <skos:definition>The metropolitan district of Newcastle upon Tyne in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gb;England"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Newcastle upon Tyne</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Newcastle upon Tyne</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gb;MetropolitanDistrict"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
    </owl:NamedIndividual>
@@ -3317,7 +3317,7 @@
       <rdfs:label>Nottingham</rdfs:label>
       <skos:definition>The unitary authority of Nottingham in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gb;England"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Nottingham</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Nottingham</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gb;UnitaryAuthority"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
    </owl:NamedIndividual>
@@ -3347,7 +3347,7 @@
       <rdfs:label>Salford</rdfs:label>
       <skos:definition>The metropolitan district of Salford in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gb;England"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Salford</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Salford</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gb;MetropolitanDistrict"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
    </owl:NamedIndividual>
@@ -3377,7 +3377,7 @@
       <rdfs:label>Solihull</rdfs:label>
       <skos:definition>The metropolitan district of Solihull in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gb;England"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Solihull</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Solihull</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gb;MetropolitanDistrict"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
    </owl:NamedIndividual>
@@ -3407,7 +3407,7 @@
       <rdfs:label>Stoke-on-Trent</rdfs:label>
       <skos:definition>The unitary authority of Stoke-on-Trent in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gb;England"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Stoke-on-Trent</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Stoke-on-Trent</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gb;UnitaryAuthority"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
    </owl:NamedIndividual>
@@ -3437,7 +3437,7 @@
       <rdfs:label>Wolverhampton</rdfs:label>
       <skos:definition>The metropolitan district of Wolverhampton in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gb;England"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Wolverhampton</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Wolverhampton</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gb;MetropolitanDistrict"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
    </owl:NamedIndividual>
@@ -3467,7 +3467,7 @@
       <rdfs:label>Wokingham</rdfs:label>
       <skos:definition>The unitary authority of Wokingham in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gb;England"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Wokingham</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Wokingham</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gb;UnitaryAuthority"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
    </owl:NamedIndividual>
@@ -3497,7 +3497,7 @@
       <rdfs:label>Barnet</rdfs:label>
       <skos:definition>The London borough of Barnet in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gb;England"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Barnet</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Barnet</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gb;LondonBorough"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
    </owl:NamedIndividual>
@@ -3527,7 +3527,7 @@
       <rdfs:label>Brighton and Hove</rdfs:label>
       <skos:definition>The unitary authority of Brighton and Hove in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gb;England"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Brighton and Hove</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Brighton and Hove</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gb;UnitaryAuthority"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
    </owl:NamedIndividual>
@@ -3557,7 +3557,7 @@
       <rdfs:label>Barnsley</rdfs:label>
       <skos:definition>The metropolitan district of Barnsley in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gb;England"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Barnsley</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Barnsley</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gb;MetropolitanDistrict"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
    </owl:NamedIndividual>
@@ -3587,7 +3587,7 @@
       <rdfs:label>Darlington</rdfs:label>
       <skos:definition>The unitary authority of Darlington in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gb;England"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Darlington</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Darlington</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gb;UnitaryAuthority"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
    </owl:NamedIndividual>
@@ -3617,7 +3617,7 @@
       <rdfs:label>East Riding of Yorkshire</rdfs:label>
       <skos:definition>The unitary authority of East Riding of Yorkshire in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gb;England"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">East Riding of Yorkshire</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">East Riding of Yorkshire</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gb;UnitaryAuthority"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
    </owl:NamedIndividual>
@@ -3647,7 +3647,7 @@
       <rdfs:label>Essex</rdfs:label>
       <skos:definition>The two-tier county of Essex in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gb;England"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Essex</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Essex</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gb;Two-tierCounty"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
    </owl:NamedIndividual>
@@ -3677,7 +3677,7 @@
       <rdfs:label>Havering</rdfs:label>
       <skos:definition>The London borough of Havering in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gb;England"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Havering</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Havering</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gb;LondonBorough"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
    </owl:NamedIndividual>
@@ -3707,7 +3707,7 @@
       <rdfs:label>Hillingdon</rdfs:label>
       <skos:definition>The London borough of Hillingdon in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gb;England"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Hillingdon</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Hillingdon</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gb;LondonBorough"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
    </owl:NamedIndividual>
@@ -3737,7 +3737,7 @@
       <rdfs:label>Hartlepool</rdfs:label>
       <skos:definition>The unitary authority of Hartlepool in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gb;England"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Hartlepool</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Hartlepool</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gb;UnitaryAuthority"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
    </owl:NamedIndividual>
@@ -3767,7 +3767,7 @@
       <rdfs:label>Kent</rdfs:label>
       <skos:definition>The two-tier county of Kent in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gb;England"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Kent</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Kent</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gb;Two-tierCounty"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
    </owl:NamedIndividual>
@@ -3797,7 +3797,7 @@
       <rdfs:label>Leicester</rdfs:label>
       <skos:definition>The unitary authority of Leicester in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gb;England"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Leicester</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Leicester</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gb;UnitaryAuthority"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
    </owl:NamedIndividual>
@@ -3827,7 +3827,7 @@
       <rdfs:label>Middlesbrough</rdfs:label>
       <skos:definition>The unitary authority of Middlesbrough in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gb;England"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Middlesbrough</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Middlesbrough</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gb;UnitaryAuthority"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
    </owl:NamedIndividual>
@@ -3857,7 +3857,7 @@
       <rdfs:label>Merton</rdfs:label>
       <skos:definition>The London borough of Merton in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gb;England"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Merton</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Merton</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gb;LondonBorough"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
    </owl:NamedIndividual>
@@ -3887,7 +3887,7 @@
       <rdfs:label>Redbridge</rdfs:label>
       <skos:definition>The London borough of Redbridge in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gb;England"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Redbridge</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Redbridge</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gb;LondonBorough"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
    </owl:NamedIndividual>
@@ -3917,7 +3917,7 @@
       <rdfs:label>Sefton</rdfs:label>
       <skos:definition>The metropolitan district of Sefton in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gb;England"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Sefton</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Sefton</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gb;MetropolitanDistrict"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
    </owl:NamedIndividual>
@@ -3947,7 +3947,7 @@
       <rdfs:label>St. Helens</rdfs:label>
       <skos:definition>The metropolitan district of St. Helens in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gb;England"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">St. Helens</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">St. Helens</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gb;MetropolitanDistrict"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
    </owl:NamedIndividual>
@@ -3977,7 +3977,7 @@
       <rdfs:label>Trafford</rdfs:label>
       <skos:definition>The metropolitan district of Trafford in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gb;England"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Trafford</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Trafford</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gb;MetropolitanDistrict"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
    </owl:NamedIndividual>
@@ -4007,7 +4007,7 @@
       <rdfs:label>Tower Hamlets</rdfs:label>
       <skos:definition>The London borough of Tower Hamlets in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gb;England"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Tower Hamlets</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Tower Hamlets</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gb;LondonBorough"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
    </owl:NamedIndividual>
@@ -4037,7 +4037,7 @@
       <rdfs:label>Warwickshire</rdfs:label>
       <skos:definition>The two-tier county of Warwickshire in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gb;England"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Warwickshire</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Warwickshire</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gb;Two-tierCounty"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
    </owl:NamedIndividual>
@@ -4067,7 +4067,7 @@
       <rdfs:label>Walsall</rdfs:label>
       <skos:definition>The metropolitan district of Walsall in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gb;England"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Walsall</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Walsall</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gb;MetropolitanDistrict"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
    </owl:NamedIndividual>
@@ -4097,7 +4097,7 @@
       <rdfs:label>Derbyshire</rdfs:label>
       <skos:definition>The two-tier county of Derbyshire in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gb;England"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Derbyshire</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Derbyshire</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gb;Two-tierCounty"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
    </owl:NamedIndividual>
@@ -4127,7 +4127,7 @@
       <rdfs:label>Dorset</rdfs:label>
       <skos:definition>The two-tier county of Dorset in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gb;England"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Dorset</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Dorset</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gb;Two-tierCounty"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
    </owl:NamedIndividual>
@@ -4157,7 +4157,7 @@
       <rdfs:label>Enfield</rdfs:label>
       <skos:definition>The London borough of Enfield in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gb;England"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Enfield</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Enfield</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gb;LondonBorough"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
    </owl:NamedIndividual>
@@ -4187,7 +4187,7 @@
       <rdfs:label>Gateshead</rdfs:label>
       <skos:definition>The metropolitan district of Gateshead in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gb;England"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Gateshead</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Gateshead</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gb;MetropolitanDistrict"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
    </owl:NamedIndividual>
@@ -4217,7 +4217,7 @@
       <rdfs:label>Hammersmith and Fulham</rdfs:label>
       <skos:definition>The London borough of Hammersmith and Fulham in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gb;England"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Hammersmith and Fulham</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Hammersmith and Fulham</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gb;LondonBorough"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
    </owl:NamedIndividual>
@@ -4247,7 +4247,7 @@
       <rdfs:label>Knowsley</rdfs:label>
       <skos:definition>The metropolitan district of Knowsley in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gb;England"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Knowsley</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Knowsley</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gb;MetropolitanDistrict"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
    </owl:NamedIndividual>
@@ -4277,7 +4277,7 @@
       <rdfs:label>Lancashire</rdfs:label>
       <skos:definition>The two-tier county of Lancashire in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gb;England"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Lancashire</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Lancashire</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gb;Two-tierCounty"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
    </owl:NamedIndividual>
@@ -4307,7 +4307,7 @@
       <rdfs:label>Lewisham</rdfs:label>
       <skos:definition>The London borough of Lewisham in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gb;England"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Lewisham</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Lewisham</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gb;LondonBorough"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
    </owl:NamedIndividual>
@@ -4337,7 +4337,7 @@
       <rdfs:label>Lincolnshire</rdfs:label>
       <skos:definition>The two-tier county of Lincolnshire in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gb;England"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Lincolnshire</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Lincolnshire</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gb;Two-tierCounty"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
    </owl:NamedIndividual>
@@ -4367,7 +4367,7 @@
       <rdfs:label>Northumberland</rdfs:label>
       <skos:definition>The unitary authority of Northumberland in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gb;England"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Northumberland</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Northumberland</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gb;UnitaryAuthority"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
    </owl:NamedIndividual>
@@ -4397,7 +4397,7 @@
       <rdfs:label>Poole</rdfs:label>
       <skos:definition>The unitary authority of Poole in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gb;England"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Poole</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Poole</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gb;UnitaryAuthority"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
    </owl:NamedIndividual>
@@ -4427,7 +4427,7 @@
       <rdfs:label>Redcar and Cleveland</rdfs:label>
       <skos:definition>The unitary authority of Redcar and Cleveland in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gb;England"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Redcar and Cleveland</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Redcar and Cleveland</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gb;UnitaryAuthority"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
    </owl:NamedIndividual>
@@ -4457,7 +4457,7 @@
       <rdfs:label>Staffordshire</rdfs:label>
       <skos:definition>The two-tier county of Staffordshire in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gb;England"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Staffordshire</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Staffordshire</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gb;Two-tierCounty"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
    </owl:NamedIndividual>
@@ -4487,7 +4487,7 @@
       <rdfs:label>Tameside</rdfs:label>
       <skos:definition>The metropolitan district of Tameside in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gb;England"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Tameside</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Tameside</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gb;MetropolitanDistrict"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
    </owl:NamedIndividual>
@@ -4517,7 +4517,7 @@
       <rdfs:label>Wigan</rdfs:label>
       <skos:definition>The metropolitan district of Wigan in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gb;England"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Wigan</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Wigan</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gb;MetropolitanDistrict"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
    </owl:NamedIndividual>
@@ -4547,7 +4547,7 @@
       <rdfs:label>Blackburn with Darwen</rdfs:label>
       <skos:definition>The unitary authority of Blackburn with Darwen in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gb;England"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Blackburn with Darwen</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Blackburn with Darwen</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gb;UnitaryAuthority"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
    </owl:NamedIndividual>
@@ -4577,7 +4577,7 @@
       <rdfs:label>Brent</rdfs:label>
       <skos:definition>The London borough of Brent in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gb;England"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Brent</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Brent</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gb;LondonBorough"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
    </owl:NamedIndividual>
@@ -4607,7 +4607,7 @@
       <rdfs:label>Bolton</rdfs:label>
       <skos:definition>The metropolitan district of Bolton in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gb;England"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Bolton</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Bolton</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gb;MetropolitanDistrict"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
    </owl:NamedIndividual>
@@ -4637,7 +4637,7 @@
       <rdfs:label>Bracknell Forest</rdfs:label>
       <skos:definition>The unitary authority of Bracknell Forest in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gb;England"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Bracknell Forest</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Bracknell Forest</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gb;UnitaryAuthority"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
    </owl:NamedIndividual>
@@ -4667,7 +4667,7 @@
       <rdfs:label>Central Bedfordshire</rdfs:label>
       <skos:definition>The unitary authority of Central Bedfordshire in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gb;England"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Central Bedfordshire</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Central Bedfordshire</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gb;UnitaryAuthority"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
    </owl:NamedIndividual>
@@ -4697,7 +4697,7 @@
       <rdfs:label>Cumbria</rdfs:label>
       <skos:definition>The two-tier county of Cumbria in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gb;England"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Cumbria</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Cumbria</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gb;Two-tierCounty"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
    </owl:NamedIndividual>
@@ -4727,7 +4727,7 @@
       <rdfs:label>Camden</rdfs:label>
       <skos:definition>The London borough of Camden in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gb;England"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Camden</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Camden</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gb;LondonBorough"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
    </owl:NamedIndividual>
@@ -4757,7 +4757,7 @@
       <rdfs:label>Croydon</rdfs:label>
       <skos:definition>The London borough of Croydon in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gb;England"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Croydon</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Croydon</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gb;LondonBorough"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
    </owl:NamedIndividual>
@@ -4787,7 +4787,7 @@
       <rdfs:label>Durham County</rdfs:label>
       <skos:definition>The unitary authority of Durham County in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gb;England"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Durham County</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Durham County</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gb;UnitaryAuthority"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
    </owl:NamedIndividual>
@@ -4817,7 +4817,7 @@
       <rdfs:label>East Sussex</rdfs:label>
       <skos:definition>The two-tier county of East Sussex in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gb;England"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">East Sussex</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">East Sussex</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gb;Two-tierCounty"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
    </owl:NamedIndividual>
@@ -4847,7 +4847,7 @@
       <rdfs:label>Herefordshire</rdfs:label>
       <skos:definition>The unitary authority of Herefordshire in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gb;England"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Herefordshire</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Herefordshire</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gb;UnitaryAuthority"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
    </owl:NamedIndividual>
@@ -4877,7 +4877,7 @@
       <rdfs:label>Medway</rdfs:label>
       <skos:definition>The unitary authority of Medway in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gb;England"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Medway</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Medway</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gb;UnitaryAuthority"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
    </owl:NamedIndividual>
@@ -4907,7 +4907,7 @@
       <rdfs:label>Northamptonshire</rdfs:label>
       <skos:definition>The two-tier county of Northamptonshire in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gb;England"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Northamptonshire</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Northamptonshire</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gb;Two-tierCounty"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
    </owl:NamedIndividual>
@@ -4937,7 +4937,7 @@
       <rdfs:label>Nottinghamshire</rdfs:label>
       <skos:definition>The two-tier county of Nottinghamshire in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gb;England"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Nottinghamshire</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Nottinghamshire</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gb;Two-tierCounty"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
    </owl:NamedIndividual>
@@ -4967,7 +4967,7 @@
       <rdfs:label>Newham</rdfs:label>
       <skos:definition>The London borough of Newham in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gb;England"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Newham</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Newham</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gb;LondonBorough"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
    </owl:NamedIndividual>
@@ -4997,7 +4997,7 @@
       <rdfs:label>Oldham</rdfs:label>
       <skos:definition>The metropolitan district of Oldham in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gb;England"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Oldham</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Oldham</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gb;MetropolitanDistrict"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
    </owl:NamedIndividual>
@@ -5027,7 +5027,7 @@
       <rdfs:label>Peterborough</rdfs:label>
       <skos:definition>The unitary authority of Peterborough in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gb;England"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Peterborough</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Peterborough</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gb;UnitaryAuthority"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
    </owl:NamedIndividual>
@@ -5057,7 +5057,7 @@
       <rdfs:label>Stockport</rdfs:label>
       <skos:definition>The metropolitan district of Stockport in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gb;England"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Stockport</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Stockport</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gb;MetropolitanDistrict"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
    </owl:NamedIndividual>
@@ -5087,7 +5087,7 @@
       <rdfs:label>Somerset</rdfs:label>
       <skos:definition>The two-tier county of Somerset in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gb;England"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Somerset</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Somerset</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gb;Two-tierCounty"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
    </owl:NamedIndividual>
@@ -5117,7 +5117,7 @@
       <rdfs:label>Southend-on-Sea</rdfs:label>
       <skos:definition>The unitary authority of Southend-on-Sea in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gb;England"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Southend-on-Sea</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Southend-on-Sea</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gb;UnitaryAuthority"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
    </owl:NamedIndividual>
@@ -5147,7 +5147,7 @@
       <rdfs:label>Sutton</rdfs:label>
       <skos:definition>The London borough of Sutton in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gb;England"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Sutton</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Sutton</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gb;LondonBorough"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
    </owl:NamedIndividual>
@@ -5177,7 +5177,7 @@
       <rdfs:label>Bedford</rdfs:label>
       <skos:definition>The unitary authority of Bedford in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gb;England"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Bedford</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Bedford</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gb;UnitaryAuthority"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
    </owl:NamedIndividual>
@@ -5207,7 +5207,7 @@
       <rdfs:label>Barking and Dagenham</rdfs:label>
       <skos:definition>The London borough of Barking and Dagenham in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gb;England"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Barking and Dagenham</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Barking and Dagenham</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gb;LondonBorough"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
    </owl:NamedIndividual>
@@ -5237,7 +5237,7 @@
       <rdfs:label>Buckinghamshire</rdfs:label>
       <skos:definition>The two-tier county of Buckinghamshire in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gb;England"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Buckinghamshire</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Buckinghamshire</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gb;Two-tierCounty"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
    </owl:NamedIndividual>
@@ -5267,7 +5267,7 @@
       <rdfs:label>Bristol, City of</rdfs:label>
       <skos:definition>The unitary authority of Bristol, City of in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gb;England"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Bristol, City of</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Bristol, City of</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gb;UnitaryAuthority"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
    </owl:NamedIndividual>
@@ -5297,7 +5297,7 @@
       <rdfs:label>Cambridgeshire</rdfs:label>
       <skos:definition>The two-tier county of Cambridgeshire in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gb;England"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Cambridgeshire</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Cambridgeshire</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gb;Two-tierCounty"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
    </owl:NamedIndividual>
@@ -5327,7 +5327,7 @@
       <rdfs:label>Doncaster</rdfs:label>
       <skos:definition>The metropolitan district of Doncaster in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gb;England"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Doncaster</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Doncaster</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gb;MetropolitanDistrict"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
    </owl:NamedIndividual>
@@ -5357,7 +5357,7 @@
       <rdfs:label>Kirklees</rdfs:label>
       <skos:definition>The metropolitan district of Kirklees in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gb;England"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Kirklees</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Kirklees</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gb;MetropolitanDistrict"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
    </owl:NamedIndividual>
@@ -5387,7 +5387,7 @@
       <rdfs:label>London, City of</rdfs:label>
       <skos:definition>The city corporation of London, City of in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gb;England"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">London, City of</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">London, City of</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gb;CityCorporation"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
    </owl:NamedIndividual>
@@ -5417,7 +5417,7 @@
       <rdfs:label>Luton</rdfs:label>
       <skos:definition>The unitary authority of Luton in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gb;England"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Luton</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Luton</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gb;UnitaryAuthority"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
    </owl:NamedIndividual>
@@ -5447,7 +5447,7 @@
       <rdfs:label>Manchester</rdfs:label>
       <skos:definition>The metropolitan district of Manchester in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gb;England"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Manchester</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Manchester</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gb;MetropolitanDistrict"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
    </owl:NamedIndividual>
@@ -5477,7 +5477,7 @@
       <rdfs:label>Milton Keynes</rdfs:label>
       <skos:definition>The unitary authority of Milton Keynes in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gb;England"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Milton Keynes</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Milton Keynes</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gb;UnitaryAuthority"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
    </owl:NamedIndividual>
@@ -5507,7 +5507,7 @@
       <rdfs:label>North Lincolnshire</rdfs:label>
       <skos:definition>The unitary authority of North Lincolnshire in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gb;England"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">North Lincolnshire</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">North Lincolnshire</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gb;UnitaryAuthority"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
    </owl:NamedIndividual>
@@ -5537,7 +5537,7 @@
       <rdfs:label>North Somerset</rdfs:label>
       <skos:definition>The unitary authority of North Somerset in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gb;England"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">North Somerset</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">North Somerset</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gb;UnitaryAuthority"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
    </owl:NamedIndividual>
@@ -5567,7 +5567,7 @@
       <rdfs:label>North Tyneside</rdfs:label>
       <skos:definition>The metropolitan district of North Tyneside in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gb;England"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">North Tyneside</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">North Tyneside</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gb;MetropolitanDistrict"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
    </owl:NamedIndividual>
@@ -5597,7 +5597,7 @@
       <rdfs:label>Plymouth</rdfs:label>
       <skos:definition>The unitary authority of Plymouth in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gb;England"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Plymouth</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Plymouth</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gb;UnitaryAuthority"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
    </owl:NamedIndividual>
@@ -5627,7 +5627,7 @@
       <rdfs:label>Reading</rdfs:label>
       <skos:definition>The unitary authority of Reading in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gb;England"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Reading</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Reading</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gb;UnitaryAuthority"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
    </owl:NamedIndividual>
@@ -5657,7 +5657,7 @@
       <rdfs:label>Shropshire</rdfs:label>
       <skos:definition>The unitary authority of Shropshire in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gb;England"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Shropshire</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Shropshire</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gb;UnitaryAuthority"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
    </owl:NamedIndividual>
@@ -5687,7 +5687,7 @@
       <rdfs:label>Sunderland</rdfs:label>
       <skos:definition>The metropolitan district of Sunderland in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gb;England"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Sunderland</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Sunderland</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gb;MetropolitanDistrict"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
    </owl:NamedIndividual>
@@ -5717,7 +5717,7 @@
       <rdfs:label>South Tyneside</rdfs:label>
       <skos:definition>The metropolitan district of South Tyneside in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gb;England"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">South Tyneside</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">South Tyneside</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gb;MetropolitanDistrict"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
    </owl:NamedIndividual>
@@ -5747,7 +5747,7 @@
       <rdfs:label>Southwark</rdfs:label>
       <skos:definition>The London borough of Southwark in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gb;England"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Southwark</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Southwark</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gb;LondonBorough"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
    </owl:NamedIndividual>
@@ -5777,7 +5777,7 @@
       <rdfs:label>Wirral</rdfs:label>
       <skos:definition>The metropolitan district of Wirral in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gb;England"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Wirral</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Wirral</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gb;MetropolitanDistrict"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
    </owl:NamedIndividual>
@@ -5807,7 +5807,7 @@
       <rdfs:label>Westminster</rdfs:label>
       <skos:definition>The London borough of Westminster in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gb;England"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Westminster</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Westminster</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gb;LondonBorough"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
    </owl:NamedIndividual>
@@ -5839,7 +5839,7 @@
       <rdfs:label>Wales [Cymru GB-CYM]</rdfs:label>
       <skos:definition>The country of Wales [Cymru GB-CYM] in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;UnitedKingdomOfGreatBritainAndNorthernIreland"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Wales [Cymru GB-CYM]</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Wales [Cymru GB-CYM]</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gb;Country"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
    </owl:NamedIndividual>
@@ -5867,7 +5867,7 @@
       <rdfs:label>Conwy</rdfs:label>
       <skos:definition>The unitary authority of Conwy in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gb;Wales"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Conwy</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Conwy</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gb;UnitaryAuthority"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
    </owl:NamedIndividual>
@@ -5897,7 +5897,7 @@
       <rdfs:label>Neath Port Talbot [Castell-nedd Port Talbot GB-CTL]</rdfs:label>
       <skos:definition>The unitary authority of Neath Port Talbot [Castell-nedd Port Talbot GB-CTL] in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gb;Wales"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Neath Port Talbot [Castell-nedd Port Talbot GB-CTL]</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Neath Port Talbot [Castell-nedd Port Talbot GB-CTL]</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gb;UnitaryAuthority"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
    </owl:NamedIndividual>
@@ -5927,7 +5927,7 @@
       <rdfs:label>Rhondda, Cynon, Taff [Rhondda, Cynon,Taf]</rdfs:label>
       <skos:definition>The unitary authority of Rhondda, Cynon, Taff [Rhondda, Cynon,Taf] in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gb;Wales"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Rhondda, Cynon, Taff [Rhondda, Cynon,Taf]</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Rhondda, Cynon, Taff [Rhondda, Cynon,Taf]</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gb;UnitaryAuthority"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
    </owl:NamedIndividual>
@@ -5957,7 +5957,7 @@
       <rdfs:label>Newport [Casnewydd GB-CNW]</rdfs:label>
       <skos:definition>The unitary authority of Newport [Casnewydd GB-CNW] in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gb;Wales"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Newport [Casnewydd GB-CNW]</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Newport [Casnewydd GB-CNW]</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gb;UnitaryAuthority"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
    </owl:NamedIndividual>
@@ -5987,7 +5987,7 @@
       <rdfs:label>Blaenau Gwent</rdfs:label>
       <skos:definition>The unitary authority of Blaenau Gwent in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gb;Wales"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Blaenau Gwent</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Blaenau Gwent</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gb;UnitaryAuthority"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
    </owl:NamedIndividual>
@@ -6017,7 +6017,7 @@
       <rdfs:label>Carmarthenshire [Sir Gaerfyrddin GB-GFY]</rdfs:label>
       <skos:definition>The unitary authority of Carmarthenshire [Sir Gaerfyrddin GB-GFY] in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gb;Wales"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Carmarthenshire [Sir Gaerfyrddin GB-GFY]</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Carmarthenshire [Sir Gaerfyrddin GB-GFY]</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gb;UnitaryAuthority"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
    </owl:NamedIndividual>
@@ -6047,7 +6047,7 @@
       <rdfs:label>Denbighshire [Sir Ddinbych GB-DDB]</rdfs:label>
       <skos:definition>The unitary authority of Denbighshire [Sir Ddinbych GB-DDB] in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gb;Wales"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Denbighshire [Sir Ddinbych GB-DDB]</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Denbighshire [Sir Ddinbych GB-DDB]</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gb;UnitaryAuthority"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
    </owl:NamedIndividual>
@@ -6077,7 +6077,7 @@
       <rdfs:label>Flintshire [Sir y Fflint GB-FFL]</rdfs:label>
       <skos:definition>The unitary authority of Flintshire [Sir y Fflint GB-FFL] in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gb;Wales"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Flintshire [Sir y Fflint GB-FFL]</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Flintshire [Sir y Fflint GB-FFL]</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gb;UnitaryAuthority"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
    </owl:NamedIndividual>
@@ -6107,7 +6107,7 @@
       <rdfs:label>Merthyr Tydfil [Merthyr Tudful GB-MTU]</rdfs:label>
       <skos:definition>The unitary authority of Merthyr Tydfil [Merthyr Tudful GB-MTU] in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gb;Wales"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Merthyr Tydfil [Merthyr Tudful GB-MTU]</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Merthyr Tydfil [Merthyr Tudful GB-MTU]</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gb;UnitaryAuthority"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
    </owl:NamedIndividual>
@@ -6137,7 +6137,7 @@
       <rdfs:label>Powys</rdfs:label>
       <skos:definition>The unitary authority of Powys in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gb;Wales"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Powys</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Powys</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gb;UnitaryAuthority"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
    </owl:NamedIndividual>
@@ -6167,7 +6167,7 @@
       <rdfs:label>Vale of Glamorgan, The [Bro Morgannwg GB-BMG]</rdfs:label>
       <skos:definition>The unitary authority of Vale of Glamorgan, The [Bro Morgannwg GB-BMG] in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gb;Wales"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Vale of Glamorgan, The [Bro Morgannwg GB-BMG]</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Vale of Glamorgan, The [Bro Morgannwg GB-BMG]</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gb;UnitaryAuthority"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
    </owl:NamedIndividual>
@@ -6197,7 +6197,7 @@
       <rdfs:label>Isle of Anglesey [Sir Ynys Môn GB-YNM]</rdfs:label>
       <skos:definition>The unitary authority of Isle of Anglesey [Sir Ynys Môn GB-YNM] in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gb;Wales"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Isle of Anglesey [Sir Ynys Môn GB-YNM]</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Isle of Anglesey [Sir Ynys Môn GB-YNM]</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gb;UnitaryAuthority"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
    </owl:NamedIndividual>
@@ -6227,7 +6227,7 @@
       <rdfs:label>Caerphilly [Caerffili GB-CAF]</rdfs:label>
       <skos:definition>The unitary authority of Caerphilly [Caerffili GB-CAF] in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gb;Wales"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Caerphilly [Caerffili GB-CAF]</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Caerphilly [Caerffili GB-CAF]</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gb;UnitaryAuthority"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
    </owl:NamedIndividual>
@@ -6257,7 +6257,7 @@
       <rdfs:label>Gwynedd</rdfs:label>
       <skos:definition>The unitary authority of Gwynedd in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gb;Wales"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Gwynedd</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Gwynedd</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gb;UnitaryAuthority"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
    </owl:NamedIndividual>
@@ -6287,7 +6287,7 @@
       <rdfs:label>Wrexham [Wrecsam GB-WRC]</rdfs:label>
       <skos:definition>The unitary authority of Wrexham [Wrecsam GB-WRC] in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gb;Wales"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Wrexham [Wrecsam GB-WRC]</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Wrexham [Wrecsam GB-WRC]</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gb;UnitaryAuthority"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
    </owl:NamedIndividual>
@@ -6317,7 +6317,7 @@
       <rdfs:label>Ceredigion [Sir Ceredigion]</rdfs:label>
       <skos:definition>The unitary authority of Ceredigion [Sir Ceredigion] in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gb;Wales"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Ceredigion [Sir Ceredigion]</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Ceredigion [Sir Ceredigion]</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gb;UnitaryAuthority"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
    </owl:NamedIndividual>
@@ -6347,7 +6347,7 @@
       <rdfs:label>Monmouthshire [Sir Fynwy GB-FYN]</rdfs:label>
       <skos:definition>The unitary authority of Monmouthshire [Sir Fynwy GB-FYN] in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gb;Wales"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Monmouthshire [Sir Fynwy GB-FYN]</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Monmouthshire [Sir Fynwy GB-FYN]</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gb;UnitaryAuthority"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
    </owl:NamedIndividual>
@@ -6377,7 +6377,7 @@
       <rdfs:label>Pembrokeshire [Sir Benfro GB-BNF]</rdfs:label>
       <skos:definition>The unitary authority of Pembrokeshire [Sir Benfro GB-BNF] in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gb;Wales"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Pembrokeshire [Sir Benfro GB-BNF]</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Pembrokeshire [Sir Benfro GB-BNF]</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gb;UnitaryAuthority"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
    </owl:NamedIndividual>
@@ -6407,7 +6407,7 @@
       <rdfs:label>Torfaen [Tor-faen]</rdfs:label>
       <skos:definition>The unitary authority of Torfaen [Tor-faen] in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gb;Wales"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Torfaen [Tor-faen]</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Torfaen [Tor-faen]</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gb;UnitaryAuthority"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
    </owl:NamedIndividual>
@@ -6437,7 +6437,7 @@
       <rdfs:label>Cardiff [Caerdydd GB-CRD]</rdfs:label>
       <skos:definition>The unitary authority of Cardiff [Caerdydd GB-CRD] in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gb;Wales"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Cardiff [Caerdydd GB-CRD]</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Cardiff [Caerdydd GB-CRD]</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gb;UnitaryAuthority"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
    </owl:NamedIndividual>
@@ -6467,7 +6467,7 @@
       <rdfs:label>Swansea [Abertawe GB-ATA]</rdfs:label>
       <skos:definition>The unitary authority of Swansea [Abertawe GB-ATA] in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gb;Wales"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Swansea [Abertawe GB-ATA]</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Swansea [Abertawe GB-ATA]</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gb;UnitaryAuthority"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
    </owl:NamedIndividual>
@@ -6497,7 +6497,7 @@
       <rdfs:label>Bridgend [Pen-y-bont ar Ogwr GB-POG]</rdfs:label>
       <skos:definition>The unitary authority of Bridgend [Pen-y-bont ar Ogwr GB-POG] in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gb;Wales"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Bridgend [Pen-y-bont ar Ogwr GB-POG]</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Bridgend [Pen-y-bont ar Ogwr GB-POG]</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gb;UnitaryAuthority"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
    </owl:NamedIndividual>
@@ -6529,7 +6529,7 @@
       <rdfs:label>Northern Ireland</rdfs:label>
       <skos:definition>The province of Northern Ireland in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;UnitedKingdomOfGreatBritainAndNorthernIreland"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Northern Ireland</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Northern Ireland</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gb;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
    </owl:NamedIndividual>
@@ -6557,7 +6557,7 @@
       <rdfs:label>Belfast</rdfs:label>
       <skos:definition>The district of Belfast in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gb;NorthernIreland"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Belfast</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Belfast</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gb;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
    </owl:NamedIndividual>
@@ -6587,7 +6587,7 @@
       <rdfs:label>Antrim and Newtownabbey</rdfs:label>
       <skos:definition>The district of Antrim and Newtownabbey in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gb;NorthernIreland"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Antrim and Newtownabbey</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Antrim and Newtownabbey</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gb;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
    </owl:NamedIndividual>
@@ -6617,7 +6617,7 @@
       <rdfs:label>Ards and North Down</rdfs:label>
       <skos:definition>The district of Ards and North Down in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gb;NorthernIreland"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Ards and North Down</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Ards and North Down</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gb;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
    </owl:NamedIndividual>
@@ -6647,7 +6647,7 @@
       <rdfs:label>Armagh, Banbridge and Craigavon</rdfs:label>
       <skos:definition>The district of Armagh, Banbridge and Craigavon in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gb;NorthernIreland"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Armagh, Banbridge and Craigavon</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Armagh, Banbridge and Craigavon</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gb;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
    </owl:NamedIndividual>
@@ -6677,7 +6677,7 @@
       <rdfs:label>Causeway Coast and Glens</rdfs:label>
       <skos:definition>The district of Causeway Coast and Glens in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gb;NorthernIreland"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Causeway Coast and Glens</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Causeway Coast and Glens</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gb;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
    </owl:NamedIndividual>
@@ -6707,7 +6707,7 @@
       <rdfs:label>Derry and Strabane</rdfs:label>
       <skos:definition>The district of Derry and Strabane in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gb;NorthernIreland"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Derry and Strabane</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Derry and Strabane</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gb;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
    </owl:NamedIndividual>
@@ -6737,7 +6737,7 @@
       <rdfs:label>Fermanagh and Omagh</rdfs:label>
       <skos:definition>The district of Fermanagh and Omagh in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gb;NorthernIreland"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Fermanagh and Omagh</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Fermanagh and Omagh</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gb;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
    </owl:NamedIndividual>
@@ -6767,7 +6767,7 @@
       <rdfs:label>Lisburn and Castlereagh</rdfs:label>
       <skos:definition>The district of Lisburn and Castlereagh in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gb;NorthernIreland"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Lisburn and Castlereagh</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Lisburn and Castlereagh</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gb;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
    </owl:NamedIndividual>
@@ -6797,7 +6797,7 @@
       <rdfs:label>Mid and East Antrim</rdfs:label>
       <skos:definition>The district of Mid and East Antrim in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gb;NorthernIreland"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Mid and East Antrim</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Mid and East Antrim</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gb;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
    </owl:NamedIndividual>
@@ -6827,7 +6827,7 @@
       <rdfs:label>Mid Ulster</rdfs:label>
       <skos:definition>The district of Mid Ulster in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gb;NorthernIreland"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Mid Ulster</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Mid Ulster</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gb;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
    </owl:NamedIndividual>
@@ -6857,7 +6857,7 @@
       <rdfs:label>Newry, Mourne and Down</rdfs:label>
       <skos:definition>The district of Newry, Mourne and Down in the country of United Kingdom of Great Britain and Northern Ireland (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-gb;NorthernIreland"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Newry, Mourne and Down</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Newry, Mourne and Down</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-gb;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-gb;"/>
    </owl:NamedIndividual>

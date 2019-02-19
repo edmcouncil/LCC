@@ -106,8 +106,8 @@
       <rdfs:label>Södra Karelen</rdfs:label>
       <skos:definition>The region of Södra Karelen in the country of Finland</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Finland"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sv">Södra Karelen</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="fi">Etelä-Karjala</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sv">Södra Karelen</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="fi">Etelä-Karjala</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-fi;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-fi;"/>
    </owl:NamedIndividual>
@@ -137,8 +137,8 @@
       <rdfs:label>Päijänne-Tavastland</rdfs:label>
       <skos:definition>The region of Päijänne-Tavastland in the country of Finland</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Finland"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sv">Päijänne-Tavastland</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="fi">Päijät-Häme</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sv">Päijänne-Tavastland</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="fi">Päijät-Häme</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-fi;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-fi;"/>
    </owl:NamedIndividual>
@@ -168,8 +168,8 @@
       <rdfs:label>Egentliga Tavastland</rdfs:label>
       <skos:definition>The region of Egentliga Tavastland in the country of Finland</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Finland"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sv">Egentliga Tavastland</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="fi">Kanta-Häme</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sv">Egentliga Tavastland</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="fi">Kanta-Häme</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-fi;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-fi;"/>
    </owl:NamedIndividual>
@@ -199,8 +199,8 @@
       <rdfs:label>Mellersta Finland</rdfs:label>
       <skos:definition>The region of Mellersta Finland in the country of Finland</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Finland"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sv">Mellersta Finland</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="fi">Keski-Suomi</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sv">Mellersta Finland</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="fi">Keski-Suomi</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-fi;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-fi;"/>
    </owl:NamedIndividual>
@@ -230,8 +230,8 @@
       <rdfs:label>Pohjois-Karjala</rdfs:label>
       <skos:definition>The region of Pohjois-Karjala in the country of Finland</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Finland"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="fi">Pohjois-Karjala</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sv">Norra Karelen</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="fi">Pohjois-Karjala</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sv">Norra Karelen</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-fi;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-fi;"/>
    </owl:NamedIndividual>
@@ -261,8 +261,8 @@
       <rdfs:label>Nyland</rdfs:label>
       <skos:definition>The region of Nyland in the country of Finland</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Finland"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sv">Nyland</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="fi">Uusimaa</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sv">Nyland</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="fi">Uusimaa</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-fi;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-fi;"/>
    </owl:NamedIndividual>
@@ -292,8 +292,8 @@
       <rdfs:label>Ahvenanmaan maakunta</rdfs:label>
       <skos:definition>The region of Ahvenanmaan maakunta in the country of Finland</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Finland"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="fi">Ahvenanmaan maakunta</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sv">Landskapet Åland</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="fi">Ahvenanmaan maakunta</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sv">Landskapet Åland</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-fi;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-fi;"/>
    </owl:NamedIndividual>
@@ -323,8 +323,8 @@
       <rdfs:label>Norra Savolax</rdfs:label>
       <skos:definition>The region of Norra Savolax in the country of Finland</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Finland"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sv">Norra Savolax</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="fi">Pohjois-Savo</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sv">Norra Savolax</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="fi">Pohjois-Savo</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-fi;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-fi;"/>
    </owl:NamedIndividual>
@@ -354,8 +354,8 @@
       <rdfs:label>Norra Österbotten</rdfs:label>
       <skos:definition>The region of Norra Österbotten in the country of Finland</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Finland"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sv">Norra Österbotten</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="fi">Pohjois-Pohjanmaa</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sv">Norra Österbotten</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="fi">Pohjois-Pohjanmaa</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-fi;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-fi;"/>
    </owl:NamedIndividual>
@@ -385,8 +385,8 @@
       <rdfs:label>Etelä-Savo</rdfs:label>
       <skos:definition>The region of Etelä-Savo in the country of Finland</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Finland"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="fi">Etelä-Savo</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sv">Södra Savolax</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="fi">Etelä-Savo</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sv">Södra Savolax</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-fi;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-fi;"/>
    </owl:NamedIndividual>
@@ -416,8 +416,8 @@
       <rdfs:label>Mellersta Österbotten</rdfs:label>
       <skos:definition>The region of Mellersta Österbotten in the country of Finland</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Finland"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sv">Mellersta Österbotten</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="fi">Keski-Pohjanmaa</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sv">Mellersta Österbotten</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="fi">Keski-Pohjanmaa</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-fi;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-fi;"/>
    </owl:NamedIndividual>
@@ -447,8 +447,8 @@
       <rdfs:label>Kymmenedalen</rdfs:label>
       <skos:definition>The region of Kymmenedalen in the country of Finland</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Finland"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sv">Kymmenedalen</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="fi">Kymenlaakso</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sv">Kymmenedalen</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="fi">Kymenlaakso</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-fi;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-fi;"/>
    </owl:NamedIndividual>
@@ -478,8 +478,8 @@
       <rdfs:label>Pirkanmaa</rdfs:label>
       <skos:definition>The region of Pirkanmaa in the country of Finland</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Finland"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="fi">Pirkanmaa</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sv">Birkaland</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="fi">Pirkanmaa</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sv">Birkaland</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-fi;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-fi;"/>
    </owl:NamedIndividual>
@@ -509,8 +509,8 @@
       <rdfs:label>Pohjanmaa</rdfs:label>
       <skos:definition>The region of Pohjanmaa in the country of Finland</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Finland"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="fi">Pohjanmaa</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sv">Österbotten</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="fi">Pohjanmaa</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sv">Österbotten</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-fi;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-fi;"/>
    </owl:NamedIndividual>
@@ -540,8 +540,8 @@
       <rdfs:label>Varsinais-Suomi</rdfs:label>
       <skos:definition>The region of Varsinais-Suomi in the country of Finland</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Finland"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="fi">Varsinais-Suomi</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sv">Egentliga Finland</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="fi">Varsinais-Suomi</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sv">Egentliga Finland</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-fi;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-fi;"/>
    </owl:NamedIndividual>
@@ -571,8 +571,8 @@
       <rdfs:label>Satakunda</rdfs:label>
       <skos:definition>The region of Satakunda in the country of Finland</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Finland"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sv">Satakunda</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="fi">Satakunta</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sv">Satakunda</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="fi">Satakunta</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-fi;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-fi;"/>
    </owl:NamedIndividual>
@@ -602,8 +602,8 @@
       <rdfs:label>Södra Österbotten</rdfs:label>
       <skos:definition>The region of Södra Österbotten in the country of Finland</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Finland"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sv">Södra Österbotten</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="fi">Etelä-Pohjanmaa</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sv">Södra Österbotten</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="fi">Etelä-Pohjanmaa</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-fi;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-fi;"/>
    </owl:NamedIndividual>
@@ -633,8 +633,8 @@
       <rdfs:label>Kainuu</rdfs:label>
       <skos:definition>The region of Kainuu in the country of Finland</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Finland"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="fi">Kainuu</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sv">Kajanaland</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="fi">Kainuu</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sv">Kajanaland</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-fi;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-fi;"/>
    </owl:NamedIndividual>
@@ -664,8 +664,8 @@
       <rdfs:label>Lappi</rdfs:label>
       <skos:definition>The region of Lappi in the country of Finland</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Finland"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="fi">Lappi</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sv">Lappland</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="fi">Lappi</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sv">Lappland</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-fi;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-fi;"/>
    </owl:NamedIndividual>
@@ -695,8 +695,8 @@
       <rdfs:label>Åland Islands</rdfs:label>
       <skos:definition>The territory of Åland Islands in the country of Finland</skos:definition>
       <lcc-cr:hasNumericRegionCode rdf:datatype="&xsd;string">1002</lcc-cr:hasNumericRegionCode>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Îles Åland</lcc-cr:hasFrenchShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Åland Islands</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Îles Åland</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Åland Islands</lcc-cr:hasEnglishShortName>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Finland"/>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2;Territory"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-fi;"/>

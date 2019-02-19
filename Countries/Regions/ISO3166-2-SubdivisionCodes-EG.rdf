@@ -106,7 +106,7 @@
       <rdfs:label>Al Iskandarīyah</rdfs:label>
       <skos:definition>The governorate of Al Iskandarīyah in the country of Egypt</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Egypt"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Al Iskandarīyah</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Al Iskandarīyah</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-eg;Governorate"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-eg;"/>
    </owl:NamedIndividual>
@@ -136,7 +136,7 @@
       <rdfs:label>Aswān</rdfs:label>
       <skos:definition>The governorate of Aswān in the country of Egypt</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Egypt"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Aswān</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Aswān</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-eg;Governorate"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-eg;"/>
    </owl:NamedIndividual>
@@ -166,7 +166,7 @@
       <rdfs:label>Janūb Sīnā'</rdfs:label>
       <skos:definition>The governorate of Janūb Sīnā' in the country of Egypt</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Egypt"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Janūb Sīnā'</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Janūb Sīnā'</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-eg;Governorate"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-eg;"/>
    </owl:NamedIndividual>
@@ -196,7 +196,7 @@
       <rdfs:label>Kafr ash Shaykh</rdfs:label>
       <skos:definition>The governorate of Kafr ash Shaykh in the country of Egypt</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Egypt"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Kafr ash Shaykh</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Kafr ash Shaykh</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-eg;Governorate"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-eg;"/>
    </owl:NamedIndividual>
@@ -226,7 +226,7 @@
       <rdfs:label>Al Minyā</rdfs:label>
       <skos:definition>The governorate of Al Minyā in the country of Egypt</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Egypt"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Al Minyā</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Al Minyā</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-eg;Governorate"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-eg;"/>
    </owl:NamedIndividual>
@@ -256,7 +256,7 @@
       <rdfs:label>Asyūţ</rdfs:label>
       <skos:definition>The governorate of Asyūţ in the country of Egypt</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Egypt"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Asyūţ</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Asyūţ</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-eg;Governorate"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-eg;"/>
    </owl:NamedIndividual>
@@ -286,7 +286,7 @@
       <rdfs:label>Banī Suwayf</rdfs:label>
       <skos:definition>The governorate of Banī Suwayf in the country of Egypt</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Egypt"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Banī Suwayf</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Banī Suwayf</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-eg;Governorate"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-eg;"/>
    </owl:NamedIndividual>
@@ -316,7 +316,7 @@
       <rdfs:label>Al Qāhirah</rdfs:label>
       <skos:definition>The governorate of Al Qāhirah in the country of Egypt</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Egypt"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Al Qāhirah</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Al Qāhirah</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-eg;Governorate"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-eg;"/>
    </owl:NamedIndividual>
@@ -346,7 +346,7 @@
       <rdfs:label>Al Fayyūm</rdfs:label>
       <skos:definition>The governorate of Al Fayyūm in the country of Egypt</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Egypt"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Al Fayyūm</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Al Fayyūm</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-eg;Governorate"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-eg;"/>
    </owl:NamedIndividual>
@@ -376,7 +376,7 @@
       <rdfs:label>Būr Sa‘īd</rdfs:label>
       <skos:definition>The governorate of Būr Sa‘īd in the country of Egypt</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Egypt"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Būr Sa‘īd</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Būr Sa‘īd</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-eg;Governorate"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-eg;"/>
    </owl:NamedIndividual>
@@ -406,7 +406,7 @@
       <rdfs:label>Dumyāţ</rdfs:label>
       <skos:definition>The governorate of Dumyāţ in the country of Egypt</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Egypt"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Dumyāţ</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Dumyāţ</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-eg;Governorate"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-eg;"/>
    </owl:NamedIndividual>
@@ -436,7 +436,7 @@
       <rdfs:label>Al Jīzah</rdfs:label>
       <skos:definition>The governorate of Al Jīzah in the country of Egypt</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Egypt"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Al Jīzah</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Al Jīzah</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-eg;Governorate"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-eg;"/>
    </owl:NamedIndividual>
@@ -466,7 +466,7 @@
       <rdfs:label>Al Ismā'īlīyah</rdfs:label>
       <skos:definition>The governorate of Al Ismā'īlīyah in the country of Egypt</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Egypt"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Al Ismā'īlīyah</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Al Ismā'īlīyah</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-eg;Governorate"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-eg;"/>
    </owl:NamedIndividual>
@@ -496,7 +496,7 @@
       <rdfs:label>Sūhāj</rdfs:label>
       <skos:definition>The governorate of Sūhāj in the country of Egypt</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Egypt"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Sūhāj</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Sūhāj</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-eg;Governorate"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-eg;"/>
    </owl:NamedIndividual>
@@ -526,7 +526,7 @@
       <rdfs:label>Al Baḩr al Aḩmar</rdfs:label>
       <skos:definition>The governorate of Al Baḩr al Aḩmar in the country of Egypt</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Egypt"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Al Baḩr al Aḩmar</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Al Baḩr al Aḩmar</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-eg;Governorate"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-eg;"/>
    </owl:NamedIndividual>
@@ -556,7 +556,7 @@
       <rdfs:label>Al Qalyūbīyah</rdfs:label>
       <skos:definition>The governorate of Al Qalyūbīyah in the country of Egypt</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Egypt"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Al Qalyūbīyah</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Al Qalyūbīyah</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-eg;Governorate"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-eg;"/>
    </owl:NamedIndividual>
@@ -586,7 +586,7 @@
       <rdfs:label>Ash Sharqīyah</rdfs:label>
       <skos:definition>The governorate of Ash Sharqīyah in the country of Egypt</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Egypt"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Ash Sharqīyah</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Ash Sharqīyah</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-eg;Governorate"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-eg;"/>
    </owl:NamedIndividual>
@@ -616,7 +616,7 @@
       <rdfs:label>Ad Daqahlīyah</rdfs:label>
       <skos:definition>The governorate of Ad Daqahlīyah in the country of Egypt</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Egypt"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Ad Daqahlīyah</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Ad Daqahlīyah</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-eg;Governorate"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-eg;"/>
    </owl:NamedIndividual>
@@ -646,7 +646,7 @@
       <rdfs:label>Al Uqşur</rdfs:label>
       <skos:definition>The governorate of Al Uqşur in the country of Egypt</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Egypt"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Al Uqşur</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Al Uqşur</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-eg;Governorate"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-eg;"/>
    </owl:NamedIndividual>
@@ -676,7 +676,7 @@
       <rdfs:label>Shamāl Sīnā'</rdfs:label>
       <skos:definition>The governorate of Shamāl Sīnā' in the country of Egypt</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Egypt"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Shamāl Sīnā'</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Shamāl Sīnā'</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-eg;Governorate"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-eg;"/>
    </owl:NamedIndividual>
@@ -706,7 +706,7 @@
       <rdfs:label>Al Wādī al Jadīd</rdfs:label>
       <skos:definition>The governorate of Al Wādī al Jadīd in the country of Egypt</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Egypt"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Al Wādī al Jadīd</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Al Wādī al Jadīd</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-eg;Governorate"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-eg;"/>
    </owl:NamedIndividual>
@@ -736,7 +736,7 @@
       <rdfs:label>Al Gharbīyah</rdfs:label>
       <skos:definition>The governorate of Al Gharbīyah in the country of Egypt</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Egypt"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Al Gharbīyah</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Al Gharbīyah</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-eg;Governorate"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-eg;"/>
    </owl:NamedIndividual>
@@ -766,7 +766,7 @@
       <rdfs:label>Qinā</rdfs:label>
       <skos:definition>The governorate of Qinā in the country of Egypt</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Egypt"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Qinā</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Qinā</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-eg;Governorate"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-eg;"/>
    </owl:NamedIndividual>
@@ -796,7 +796,7 @@
       <rdfs:label>Al Minūfīyah</rdfs:label>
       <skos:definition>The governorate of Al Minūfīyah in the country of Egypt</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Egypt"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Al Minūfīyah</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Al Minūfīyah</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-eg;Governorate"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-eg;"/>
    </owl:NamedIndividual>
@@ -826,7 +826,7 @@
       <rdfs:label>As Suways</rdfs:label>
       <skos:definition>The governorate of As Suways in the country of Egypt</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Egypt"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">As Suways</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">As Suways</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-eg;Governorate"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-eg;"/>
    </owl:NamedIndividual>
@@ -856,7 +856,7 @@
       <rdfs:label>Al Buḩayrah</rdfs:label>
       <skos:definition>The governorate of Al Buḩayrah in the country of Egypt</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Egypt"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Al Buḩayrah</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Al Buḩayrah</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-eg;Governorate"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-eg;"/>
    </owl:NamedIndividual>
@@ -886,7 +886,7 @@
       <rdfs:label>Maţrūḩ</rdfs:label>
       <skos:definition>The governorate of Maţrūḩ in the country of Egypt</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Egypt"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Maţrūḩ</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Maţrūḩ</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-eg;Governorate"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-eg;"/>
    </owl:NamedIndividual>

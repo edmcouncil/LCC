@@ -127,7 +127,7 @@
       <rdfs:label>Kalimantan</rdfs:label>
       <skos:definition>The geographical unit of Kalimantan in the country of Indonesia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Indonesia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="id">Kalimantan</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="id">Kalimantan</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-id;GeographicalUnit"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-id;"/>
    </owl:NamedIndividual>
@@ -155,7 +155,7 @@
       <rdfs:label>Kalimantan Utara</rdfs:label>
       <skos:definition>The province of Kalimantan Utara in the country of Indonesia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-id;Kalimantan"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="id">Kalimantan Utara</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="id">Kalimantan Utara</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-id;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-id;"/>
    </owl:NamedIndividual>
@@ -185,7 +185,7 @@
       <rdfs:label>Kalimantan Tengah</rdfs:label>
       <skos:definition>The province of Kalimantan Tengah in the country of Indonesia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-id;Kalimantan"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="id">Kalimantan Tengah</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="id">Kalimantan Tengah</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-id;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-id;"/>
    </owl:NamedIndividual>
@@ -215,7 +215,7 @@
       <rdfs:label>Kalimantan Barat</rdfs:label>
       <skos:definition>The province of Kalimantan Barat in the country of Indonesia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-id;Kalimantan"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="id">Kalimantan Barat</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="id">Kalimantan Barat</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-id;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-id;"/>
    </owl:NamedIndividual>
@@ -245,7 +245,7 @@
       <rdfs:label>Kalimantan Selatan</rdfs:label>
       <skos:definition>The province of Kalimantan Selatan in the country of Indonesia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-id;Kalimantan"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="id">Kalimantan Selatan</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="id">Kalimantan Selatan</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-id;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-id;"/>
    </owl:NamedIndividual>
@@ -275,7 +275,7 @@
       <rdfs:label>Kalimantan Timur</rdfs:label>
       <skos:definition>The province of Kalimantan Timur in the country of Indonesia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-id;Kalimantan"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="id">Kalimantan Timur</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="id">Kalimantan Timur</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-id;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-id;"/>
    </owl:NamedIndividual>
@@ -307,7 +307,7 @@
       <rdfs:label>Jawa</rdfs:label>
       <skos:definition>The geographical unit of Jawa in the country of Indonesia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Indonesia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="id">Jawa</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="id">Jawa</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-id;GeographicalUnit"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-id;"/>
    </owl:NamedIndividual>
@@ -335,7 +335,7 @@
       <rdfs:label>Jawa Barat</rdfs:label>
       <skos:definition>The province of Jawa Barat in the country of Indonesia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-id;Jawa"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="id">Jawa Barat</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="id">Jawa Barat</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-id;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-id;"/>
    </owl:NamedIndividual>
@@ -365,7 +365,7 @@
       <rdfs:label>Jawa Tengah</rdfs:label>
       <skos:definition>The province of Jawa Tengah in the country of Indonesia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-id;Jawa"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="id">Jawa Tengah</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="id">Jawa Tengah</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-id;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-id;"/>
    </owl:NamedIndividual>
@@ -395,7 +395,7 @@
       <rdfs:label>Jawa Timur</rdfs:label>
       <skos:definition>The province of Jawa Timur in the country of Indonesia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-id;Jawa"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="id">Jawa Timur</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="id">Jawa Timur</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-id;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-id;"/>
    </owl:NamedIndividual>
@@ -425,7 +425,7 @@
       <rdfs:label>Banten</rdfs:label>
       <skos:definition>The province of Banten in the country of Indonesia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-id;Jawa"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="id">Banten</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="id">Banten</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-id;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-id;"/>
    </owl:NamedIndividual>
@@ -455,7 +455,7 @@
       <rdfs:label>Yogyakarta</rdfs:label>
       <skos:definition>The special region of Yogyakarta in the country of Indonesia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-id;Jawa"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="id">Yogyakarta</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="id">Yogyakarta</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-id;SpecialRegion"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-id;"/>
    </owl:NamedIndividual>
@@ -485,7 +485,7 @@
       <rdfs:label>Jakarta Raya</rdfs:label>
       <skos:definition>The capital district of Jakarta Raya in the country of Indonesia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-id;Jawa"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="id">Jakarta Raya</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="id">Jakarta Raya</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-id;CapitalDistrict"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-id;"/>
    </owl:NamedIndividual>
@@ -517,7 +517,7 @@
       <rdfs:label>Nusa Tenggara</rdfs:label>
       <skos:definition>The geographical unit of Nusa Tenggara in the country of Indonesia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Indonesia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="id">Nusa Tenggara</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="id">Nusa Tenggara</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-id;GeographicalUnit"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-id;"/>
    </owl:NamedIndividual>
@@ -545,7 +545,7 @@
       <rdfs:label>Nusa Tenggara Timur</rdfs:label>
       <skos:definition>The province of Nusa Tenggara Timur in the country of Indonesia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-id;NusaTenggara"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="id">Nusa Tenggara Timur</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="id">Nusa Tenggara Timur</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-id;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-id;"/>
    </owl:NamedIndividual>
@@ -575,7 +575,7 @@
       <rdfs:label>Nusa Tenggara Barat</rdfs:label>
       <skos:definition>The province of Nusa Tenggara Barat in the country of Indonesia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-id;NusaTenggara"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="id">Nusa Tenggara Barat</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="id">Nusa Tenggara Barat</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-id;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-id;"/>
    </owl:NamedIndividual>
@@ -605,7 +605,7 @@
       <rdfs:label>Bali</rdfs:label>
       <skos:definition>The province of Bali in the country of Indonesia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-id;NusaTenggara"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="id">Bali</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="id">Bali</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-id;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-id;"/>
    </owl:NamedIndividual>
@@ -637,7 +637,7 @@
       <rdfs:label>Sumatera</rdfs:label>
       <skos:definition>The geographical unit of Sumatera in the country of Indonesia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Indonesia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="id">Sumatera</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="id">Sumatera</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-id;GeographicalUnit"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-id;"/>
    </owl:NamedIndividual>
@@ -665,7 +665,7 @@
       <rdfs:label>Aceh</rdfs:label>
       <skos:definition>The province of Aceh in the country of Indonesia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-id;Sumatera"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="id">Aceh</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="id">Aceh</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-id;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-id;"/>
    </owl:NamedIndividual>
@@ -695,7 +695,7 @@
       <rdfs:label>Kepulauan Bangka Belitung</rdfs:label>
       <skos:definition>The province of Kepulauan Bangka Belitung in the country of Indonesia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-id;Sumatera"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="id">Kepulauan Bangka Belitung</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="id">Kepulauan Bangka Belitung</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-id;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-id;"/>
    </owl:NamedIndividual>
@@ -725,7 +725,7 @@
       <rdfs:label>Jambi</rdfs:label>
       <skos:definition>The province of Jambi in the country of Indonesia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-id;Sumatera"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="id">Jambi</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="id">Jambi</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-id;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-id;"/>
    </owl:NamedIndividual>
@@ -755,7 +755,7 @@
       <rdfs:label>Bengkulu</rdfs:label>
       <skos:definition>The province of Bengkulu in the country of Indonesia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-id;Sumatera"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="id">Bengkulu</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="id">Bengkulu</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-id;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-id;"/>
    </owl:NamedIndividual>
@@ -785,7 +785,7 @@
       <rdfs:label>Sumatera Barat</rdfs:label>
       <skos:definition>The province of Sumatera Barat in the country of Indonesia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-id;Sumatera"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="id">Sumatera Barat</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="id">Sumatera Barat</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-id;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-id;"/>
    </owl:NamedIndividual>
@@ -815,7 +815,7 @@
       <rdfs:label>Sumatera Utara</rdfs:label>
       <skos:definition>The province of Sumatera Utara in the country of Indonesia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-id;Sumatera"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="id">Sumatera Utara</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="id">Sumatera Utara</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-id;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-id;"/>
    </owl:NamedIndividual>
@@ -845,7 +845,7 @@
       <rdfs:label>Lampung</rdfs:label>
       <skos:definition>The province of Lampung in the country of Indonesia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-id;Sumatera"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="id">Lampung</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="id">Lampung</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-id;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-id;"/>
    </owl:NamedIndividual>
@@ -875,7 +875,7 @@
       <rdfs:label>Kepulauan Riau</rdfs:label>
       <skos:definition>The province of Kepulauan Riau in the country of Indonesia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-id;Sumatera"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="id">Kepulauan Riau</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="id">Kepulauan Riau</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-id;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-id;"/>
    </owl:NamedIndividual>
@@ -905,7 +905,7 @@
       <rdfs:label>Riau</rdfs:label>
       <skos:definition>The province of Riau in the country of Indonesia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-id;Sumatera"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="id">Riau</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="id">Riau</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-id;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-id;"/>
    </owl:NamedIndividual>
@@ -935,7 +935,7 @@
       <rdfs:label>Sumatera Selatan</rdfs:label>
       <skos:definition>The province of Sumatera Selatan in the country of Indonesia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-id;Sumatera"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="id">Sumatera Selatan</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="id">Sumatera Selatan</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-id;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-id;"/>
    </owl:NamedIndividual>
@@ -967,7 +967,7 @@
       <rdfs:label>Papua</rdfs:label>
       <skos:definition>The geographical unit of Papua in the country of Indonesia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Indonesia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="id">Papua</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="id">Papua</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-id;GeographicalUnit"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-id;"/>
    </owl:NamedIndividual>
@@ -995,7 +995,7 @@
       <rdfs:label>Papua</rdfs:label>
       <skos:definition>The province of Papua in the country of Indonesia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-id;Papua"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="id">Papua</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="id">Papua</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-id;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-id;"/>
    </owl:NamedIndividual>
@@ -1025,7 +1025,7 @@
       <rdfs:label>Papua Barat</rdfs:label>
       <skos:definition>The province of Papua Barat in the country of Indonesia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-id;Papua"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="id">Papua Barat</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="id">Papua Barat</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-id;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-id;"/>
    </owl:NamedIndividual>
@@ -1057,7 +1057,7 @@
       <rdfs:label>Maluku</rdfs:label>
       <skos:definition>The geographical unit of Maluku in the country of Indonesia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Indonesia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="id">Maluku</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="id">Maluku</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-id;GeographicalUnit"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-id;"/>
    </owl:NamedIndividual>
@@ -1085,7 +1085,7 @@
       <rdfs:label>Maluku</rdfs:label>
       <skos:definition>The province of Maluku in the country of Indonesia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-id;Maluku"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="id">Maluku</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="id">Maluku</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-id;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-id;"/>
    </owl:NamedIndividual>
@@ -1115,7 +1115,7 @@
       <rdfs:label>Maluku Utara</rdfs:label>
       <skos:definition>The province of Maluku Utara in the country of Indonesia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-id;Maluku"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="id">Maluku Utara</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="id">Maluku Utara</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-id;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-id;"/>
    </owl:NamedIndividual>
@@ -1147,7 +1147,7 @@
       <rdfs:label>Sulawesi</rdfs:label>
       <skos:definition>The geographical unit of Sulawesi in the country of Indonesia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Indonesia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="id">Sulawesi</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="id">Sulawesi</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-id;GeographicalUnit"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-id;"/>
    </owl:NamedIndividual>
@@ -1175,7 +1175,7 @@
       <rdfs:label>Sulawesi Utara</rdfs:label>
       <skos:definition>The province of Sulawesi Utara in the country of Indonesia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-id;Sulawesi"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="id">Sulawesi Utara</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="id">Sulawesi Utara</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-id;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-id;"/>
    </owl:NamedIndividual>
@@ -1205,7 +1205,7 @@
       <rdfs:label>Sulawesi Barat</rdfs:label>
       <skos:definition>The province of Sulawesi Barat in the country of Indonesia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-id;Sulawesi"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="id">Sulawesi Barat</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="id">Sulawesi Barat</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-id;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-id;"/>
    </owl:NamedIndividual>
@@ -1235,7 +1235,7 @@
       <rdfs:label>Sulawesi Tengah</rdfs:label>
       <skos:definition>The province of Sulawesi Tengah in the country of Indonesia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-id;Sulawesi"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="id">Sulawesi Tengah</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="id">Sulawesi Tengah</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-id;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-id;"/>
    </owl:NamedIndividual>
@@ -1265,7 +1265,7 @@
       <rdfs:label>Sulawesi Tenggara</rdfs:label>
       <skos:definition>The province of Sulawesi Tenggara in the country of Indonesia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-id;Sulawesi"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="id">Sulawesi Tenggara</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="id">Sulawesi Tenggara</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-id;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-id;"/>
    </owl:NamedIndividual>
@@ -1295,7 +1295,7 @@
       <rdfs:label>Sulawesi Selatan</rdfs:label>
       <skos:definition>The province of Sulawesi Selatan in the country of Indonesia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-id;Sulawesi"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="id">Sulawesi Selatan</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="id">Sulawesi Selatan</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-id;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-id;"/>
    </owl:NamedIndividual>
@@ -1325,7 +1325,7 @@
       <rdfs:label>Gorontalo</rdfs:label>
       <skos:definition>The province of Gorontalo in the country of Indonesia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-id;Sulawesi"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="id">Gorontalo</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="id">Gorontalo</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-id;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-id;"/>
    </owl:NamedIndividual>

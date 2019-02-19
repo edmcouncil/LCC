@@ -106,7 +106,7 @@
       <rdfs:label>Vratsa</rdfs:label>
       <skos:definition>The district of Vratsa in the country of Bulgaria</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Bulgaria"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="bg">Vratsa</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="bg">Vratsa</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-bg;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-bg;"/>
    </owl:NamedIndividual>
@@ -136,7 +136,7 @@
       <rdfs:label>Gabrovo</rdfs:label>
       <skos:definition>The district of Gabrovo in the country of Bulgaria</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Bulgaria"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="bg">Gabrovo</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="bg">Gabrovo</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-bg;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-bg;"/>
    </owl:NamedIndividual>
@@ -166,7 +166,7 @@
       <rdfs:label>Dobrich</rdfs:label>
       <skos:definition>The district of Dobrich in the country of Bulgaria</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Bulgaria"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="bg">Dobrich</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="bg">Dobrich</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-bg;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-bg;"/>
    </owl:NamedIndividual>
@@ -196,7 +196,7 @@
       <rdfs:label>Haskovo</rdfs:label>
       <skos:definition>The district of Haskovo in the country of Bulgaria</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Bulgaria"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="bg">Haskovo</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="bg">Haskovo</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-bg;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-bg;"/>
    </owl:NamedIndividual>
@@ -226,7 +226,7 @@
       <rdfs:label>Veliko Tarnovo</rdfs:label>
       <skos:definition>The district of Veliko Tarnovo in the country of Bulgaria</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Bulgaria"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="bg">Veliko Tarnovo</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="bg">Veliko Tarnovo</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-bg;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-bg;"/>
    </owl:NamedIndividual>
@@ -256,7 +256,7 @@
       <rdfs:label>Kardzhali</rdfs:label>
       <skos:definition>The district of Kardzhali in the country of Bulgaria</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Bulgaria"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="bg">Kardzhali</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="bg">Kardzhali</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-bg;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-bg;"/>
    </owl:NamedIndividual>
@@ -286,7 +286,7 @@
       <rdfs:label>Pleven</rdfs:label>
       <skos:definition>The district of Pleven in the country of Bulgaria</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Bulgaria"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="bg">Pleven</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="bg">Pleven</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-bg;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-bg;"/>
    </owl:NamedIndividual>
@@ -316,7 +316,7 @@
       <rdfs:label>Plovdiv</rdfs:label>
       <skos:definition>The district of Plovdiv in the country of Bulgaria</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Bulgaria"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="bg">Plovdiv</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="bg">Plovdiv</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-bg;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-bg;"/>
    </owl:NamedIndividual>
@@ -346,7 +346,7 @@
       <rdfs:label>Yambol</rdfs:label>
       <skos:definition>The district of Yambol in the country of Bulgaria</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Bulgaria"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="bg">Yambol</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="bg">Yambol</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-bg;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-bg;"/>
    </owl:NamedIndividual>
@@ -376,7 +376,7 @@
       <rdfs:label>Pazardzhik</rdfs:label>
       <skos:definition>The district of Pazardzhik in the country of Bulgaria</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Bulgaria"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="bg">Pazardzhik</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="bg">Pazardzhik</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-bg;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-bg;"/>
    </owl:NamedIndividual>
@@ -406,7 +406,7 @@
       <rdfs:label>Ruse</rdfs:label>
       <skos:definition>The district of Ruse in the country of Bulgaria</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Bulgaria"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="bg">Ruse</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="bg">Ruse</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-bg;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-bg;"/>
    </owl:NamedIndividual>
@@ -436,7 +436,7 @@
       <rdfs:label>Smolyan</rdfs:label>
       <skos:definition>The district of Smolyan in the country of Bulgaria</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Bulgaria"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="bg">Smolyan</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="bg">Smolyan</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-bg;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-bg;"/>
    </owl:NamedIndividual>
@@ -466,7 +466,7 @@
       <rdfs:label>Sofia (stolitsa)</rdfs:label>
       <skos:definition>The district of Sofia (stolitsa) in the country of Bulgaria</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Bulgaria"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="bg">Sofia (stolitsa)</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="bg">Sofia (stolitsa)</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-bg;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-bg;"/>
    </owl:NamedIndividual>
@@ -496,7 +496,7 @@
       <rdfs:label>Shumen</rdfs:label>
       <skos:definition>The district of Shumen in the country of Bulgaria</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Bulgaria"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="bg">Shumen</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="bg">Shumen</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-bg;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-bg;"/>
    </owl:NamedIndividual>
@@ -526,7 +526,7 @@
       <rdfs:label>Burgas</rdfs:label>
       <skos:definition>The district of Burgas in the country of Bulgaria</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Bulgaria"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="bg">Burgas</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="bg">Burgas</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-bg;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-bg;"/>
    </owl:NamedIndividual>
@@ -556,7 +556,7 @@
       <rdfs:label>Pernik</rdfs:label>
       <skos:definition>The district of Pernik in the country of Bulgaria</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Bulgaria"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="bg">Pernik</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="bg">Pernik</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-bg;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-bg;"/>
    </owl:NamedIndividual>
@@ -586,7 +586,7 @@
       <rdfs:label>Silistra</rdfs:label>
       <skos:definition>The district of Silistra in the country of Bulgaria</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Bulgaria"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="bg">Silistra</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="bg">Silistra</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-bg;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-bg;"/>
    </owl:NamedIndividual>
@@ -616,7 +616,7 @@
       <rdfs:label>Targovishte</rdfs:label>
       <skos:definition>The district of Targovishte in the country of Bulgaria</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Bulgaria"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="bg">Targovishte</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="bg">Targovishte</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-bg;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-bg;"/>
    </owl:NamedIndividual>
@@ -646,7 +646,7 @@
       <rdfs:label>Varna</rdfs:label>
       <skos:definition>The district of Varna in the country of Bulgaria</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Bulgaria"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="bg">Varna</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="bg">Varna</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-bg;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-bg;"/>
    </owl:NamedIndividual>
@@ -676,7 +676,7 @@
       <rdfs:label>Stara Zagora</rdfs:label>
       <skos:definition>The district of Stara Zagora in the country of Bulgaria</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Bulgaria"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="bg">Stara Zagora</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="bg">Stara Zagora</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-bg;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-bg;"/>
    </owl:NamedIndividual>
@@ -706,7 +706,7 @@
       <rdfs:label>Blagoevgrad</rdfs:label>
       <skos:definition>The district of Blagoevgrad in the country of Bulgaria</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Bulgaria"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="bg">Blagoevgrad</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="bg">Blagoevgrad</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-bg;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-bg;"/>
    </owl:NamedIndividual>
@@ -736,7 +736,7 @@
       <rdfs:label>Kyustendil</rdfs:label>
       <skos:definition>The district of Kyustendil in the country of Bulgaria</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Bulgaria"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="bg">Kyustendil</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="bg">Kyustendil</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-bg;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-bg;"/>
    </owl:NamedIndividual>
@@ -766,7 +766,7 @@
       <rdfs:label>Montana</rdfs:label>
       <skos:definition>The district of Montana in the country of Bulgaria</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Bulgaria"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="bg">Montana</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="bg">Montana</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-bg;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-bg;"/>
    </owl:NamedIndividual>
@@ -796,7 +796,7 @@
       <rdfs:label>Sliven</rdfs:label>
       <skos:definition>The district of Sliven in the country of Bulgaria</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Bulgaria"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="bg">Sliven</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="bg">Sliven</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-bg;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-bg;"/>
    </owl:NamedIndividual>
@@ -826,7 +826,7 @@
       <rdfs:label>Sofia</rdfs:label>
       <skos:definition>The district of Sofia in the country of Bulgaria</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Bulgaria"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="bg">Sofia</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="bg">Sofia</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-bg;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-bg;"/>
    </owl:NamedIndividual>
@@ -856,7 +856,7 @@
       <rdfs:label>Lovech</rdfs:label>
       <skos:definition>The district of Lovech in the country of Bulgaria</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Bulgaria"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="bg">Lovech</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="bg">Lovech</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-bg;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-bg;"/>
    </owl:NamedIndividual>
@@ -886,7 +886,7 @@
       <rdfs:label>Razgrad</rdfs:label>
       <skos:definition>The district of Razgrad in the country of Bulgaria</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Bulgaria"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="bg">Razgrad</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="bg">Razgrad</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-bg;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-bg;"/>
    </owl:NamedIndividual>
@@ -916,7 +916,7 @@
       <rdfs:label>Vidin</rdfs:label>
       <skos:definition>The district of Vidin in the country of Bulgaria</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Bulgaria"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="bg">Vidin</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="bg">Vidin</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-bg;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-bg;"/>
    </owl:NamedIndividual>

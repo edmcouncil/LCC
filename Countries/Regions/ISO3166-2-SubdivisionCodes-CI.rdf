@@ -113,7 +113,7 @@
       <rdfs:label>Abidjan</rdfs:label>
       <skos:definition>The autonomous district of Abidjan in the country of Côte d'Ivoire</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;CoteDIvoire"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Abidjan</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Abidjan</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ci;AutonomousDistrict"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ci;"/>
    </owl:NamedIndividual>
@@ -143,7 +143,7 @@
       <rdfs:label>Yamoussoukro</rdfs:label>
       <skos:definition>The autonomous district of Yamoussoukro in the country of Côte d'Ivoire</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;CoteDIvoire"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Yamoussoukro</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Yamoussoukro</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ci;AutonomousDistrict"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ci;"/>
    </owl:NamedIndividual>
@@ -173,7 +173,7 @@
       <rdfs:label>Bas-Sassandra</rdfs:label>
       <skos:definition>The district of Bas-Sassandra in the country of Côte d'Ivoire</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;CoteDIvoire"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Bas-Sassandra</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Bas-Sassandra</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ci;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ci;"/>
    </owl:NamedIndividual>
@@ -203,7 +203,7 @@
       <rdfs:label>Comoé</rdfs:label>
       <skos:definition>The district of Comoé in the country of Côte d'Ivoire</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;CoteDIvoire"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Comoé</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Comoé</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ci;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ci;"/>
    </owl:NamedIndividual>
@@ -233,7 +233,7 @@
       <rdfs:label>Denguélé</rdfs:label>
       <skos:definition>The district of Denguélé in the country of Côte d'Ivoire</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;CoteDIvoire"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Denguélé</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Denguélé</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ci;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ci;"/>
    </owl:NamedIndividual>
@@ -263,7 +263,7 @@
       <rdfs:label>Gôh-Djiboua</rdfs:label>
       <skos:definition>The district of Gôh-Djiboua in the country of Côte d'Ivoire</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;CoteDIvoire"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Gôh-Djiboua</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Gôh-Djiboua</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ci;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ci;"/>
    </owl:NamedIndividual>
@@ -293,7 +293,7 @@
       <rdfs:label>Lacs</rdfs:label>
       <skos:definition>The district of Lacs in the country of Côte d'Ivoire</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;CoteDIvoire"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Lacs</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Lacs</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ci;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ci;"/>
    </owl:NamedIndividual>
@@ -323,7 +323,7 @@
       <rdfs:label>Lagunes</rdfs:label>
       <skos:definition>The district of Lagunes in the country of Côte d'Ivoire</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;CoteDIvoire"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Lagunes</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Lagunes</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ci;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ci;"/>
    </owl:NamedIndividual>
@@ -353,7 +353,7 @@
       <rdfs:label>Montagnes</rdfs:label>
       <skos:definition>The district of Montagnes in the country of Côte d'Ivoire</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;CoteDIvoire"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Montagnes</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Montagnes</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ci;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ci;"/>
    </owl:NamedIndividual>
@@ -383,7 +383,7 @@
       <rdfs:label>Sassandra-Marahoué</rdfs:label>
       <skos:definition>The district of Sassandra-Marahoué in the country of Côte d'Ivoire</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;CoteDIvoire"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Sassandra-Marahoué</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Sassandra-Marahoué</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ci;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ci;"/>
    </owl:NamedIndividual>
@@ -413,7 +413,7 @@
       <rdfs:label>Savanes</rdfs:label>
       <skos:definition>The district of Savanes in the country of Côte d'Ivoire</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;CoteDIvoire"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Savanes</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Savanes</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ci;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ci;"/>
    </owl:NamedIndividual>
@@ -443,7 +443,7 @@
       <rdfs:label>Vallée du Bandama</rdfs:label>
       <skos:definition>The district of Vallée du Bandama in the country of Côte d'Ivoire</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;CoteDIvoire"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Vallée du Bandama</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Vallée du Bandama</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ci;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ci;"/>
    </owl:NamedIndividual>
@@ -473,7 +473,7 @@
       <rdfs:label>Woroba</rdfs:label>
       <skos:definition>The district of Woroba in the country of Côte d'Ivoire</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;CoteDIvoire"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Woroba</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Woroba</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ci;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ci;"/>
    </owl:NamedIndividual>
@@ -503,7 +503,7 @@
       <rdfs:label>Zanzan</rdfs:label>
       <skos:definition>The district of Zanzan in the country of Côte d'Ivoire</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;CoteDIvoire"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Zanzan</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Zanzan</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ci;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ci;"/>
    </owl:NamedIndividual>

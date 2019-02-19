@@ -106,7 +106,7 @@
       <rdfs:label>Prešovský kraj</rdfs:label>
       <skos:definition>The region of Prešovský kraj in the country of Slovakia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Slovakia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sk">Prešovský kraj</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sk">Prešovský kraj</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-sk;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-sk;"/>
    </owl:NamedIndividual>
@@ -136,7 +136,7 @@
       <rdfs:label>Trnavský kraj</rdfs:label>
       <skos:definition>The region of Trnavský kraj in the country of Slovakia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Slovakia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sk">Trnavský kraj</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sk">Trnavský kraj</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-sk;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-sk;"/>
    </owl:NamedIndividual>
@@ -166,7 +166,7 @@
       <rdfs:label>Košický kraj</rdfs:label>
       <skos:definition>The region of Košický kraj in the country of Slovakia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Slovakia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sk">Košický kraj</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sk">Košický kraj</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-sk;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-sk;"/>
    </owl:NamedIndividual>
@@ -196,7 +196,7 @@
       <rdfs:label>Banskobystrický kraj</rdfs:label>
       <skos:definition>The region of Banskobystrický kraj in the country of Slovakia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Slovakia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sk">Banskobystrický kraj</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sk">Banskobystrický kraj</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-sk;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-sk;"/>
    </owl:NamedIndividual>
@@ -226,7 +226,7 @@
       <rdfs:label>Nitriansky kraj</rdfs:label>
       <skos:definition>The region of Nitriansky kraj in the country of Slovakia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Slovakia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sk">Nitriansky kraj</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sk">Nitriansky kraj</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-sk;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-sk;"/>
    </owl:NamedIndividual>
@@ -256,7 +256,7 @@
       <rdfs:label>Žilinský kraj</rdfs:label>
       <skos:definition>The region of Žilinský kraj in the country of Slovakia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Slovakia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sk">Žilinský kraj</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sk">Žilinský kraj</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-sk;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-sk;"/>
    </owl:NamedIndividual>
@@ -286,7 +286,7 @@
       <rdfs:label>Bratislavský kraj</rdfs:label>
       <skos:definition>The region of Bratislavský kraj in the country of Slovakia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Slovakia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sk">Bratislavský kraj</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sk">Bratislavský kraj</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-sk;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-sk;"/>
    </owl:NamedIndividual>
@@ -316,7 +316,7 @@
       <rdfs:label>Trenčiansky kraj</rdfs:label>
       <skos:definition>The region of Trenčiansky kraj in the country of Slovakia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Slovakia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sk">Trenčiansky kraj</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sk">Trenčiansky kraj</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-sk;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-sk;"/>
    </owl:NamedIndividual>

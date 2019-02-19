@@ -113,7 +113,7 @@
       <rdfs:label>Uvs</rdfs:label>
       <skos:definition>The province of Uvs in the country of Mongolia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Mongolia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="mn">Uvs</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="mn">Uvs</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mn;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mn;"/>
    </owl:NamedIndividual>
@@ -143,7 +143,7 @@
       <rdfs:label>Govĭ-Altay</rdfs:label>
       <skos:definition>The province of Govĭ-Altay in the country of Mongolia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Mongolia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="mn">Govĭ-Altay</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="mn">Govĭ-Altay</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mn;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mn;"/>
    </owl:NamedIndividual>
@@ -173,7 +173,7 @@
       <rdfs:label>Hövsgöl</rdfs:label>
       <skos:definition>The province of Hövsgöl in the country of Mongolia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Mongolia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="mn">Hövsgöl</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="mn">Hövsgöl</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mn;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mn;"/>
    </owl:NamedIndividual>
@@ -203,7 +203,7 @@
       <rdfs:label>Ömnögovĭ</rdfs:label>
       <skos:definition>The province of Ömnögovĭ in the country of Mongolia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Mongolia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="mn">Ömnögovĭ</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="mn">Ömnögovĭ</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mn;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mn;"/>
    </owl:NamedIndividual>
@@ -233,7 +233,7 @@
       <rdfs:label>Dornod</rdfs:label>
       <skos:definition>The province of Dornod in the country of Mongolia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Mongolia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="mn">Dornod</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="mn">Dornod</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mn;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mn;"/>
    </owl:NamedIndividual>
@@ -263,7 +263,7 @@
       <rdfs:label>Bulgan</rdfs:label>
       <skos:definition>The province of Bulgan in the country of Mongolia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Mongolia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="mn">Bulgan</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="mn">Bulgan</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mn;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mn;"/>
    </owl:NamedIndividual>
@@ -293,7 +293,7 @@
       <rdfs:label>Övörhangay</rdfs:label>
       <skos:definition>The province of Övörhangay in the country of Mongolia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Mongolia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="mn">Övörhangay</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="mn">Övörhangay</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mn;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mn;"/>
    </owl:NamedIndividual>
@@ -323,7 +323,7 @@
       <rdfs:label>Bayanhongor</rdfs:label>
       <skos:definition>The province of Bayanhongor in the country of Mongolia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Mongolia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="mn">Bayanhongor</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="mn">Bayanhongor</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mn;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mn;"/>
    </owl:NamedIndividual>
@@ -353,7 +353,7 @@
       <rdfs:label>Hentiy</rdfs:label>
       <skos:definition>The province of Hentiy in the country of Mongolia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Mongolia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="mn">Hentiy</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="mn">Hentiy</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mn;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mn;"/>
    </owl:NamedIndividual>
@@ -383,7 +383,7 @@
       <rdfs:label>Töv</rdfs:label>
       <skos:definition>The province of Töv in the country of Mongolia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Mongolia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="mn">Töv</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="mn">Töv</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mn;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mn;"/>
    </owl:NamedIndividual>
@@ -413,7 +413,7 @@
       <rdfs:label>Selenge</rdfs:label>
       <skos:definition>The province of Selenge in the country of Mongolia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Mongolia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="mn">Selenge</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="mn">Selenge</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mn;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mn;"/>
    </owl:NamedIndividual>
@@ -443,7 +443,7 @@
       <rdfs:label>Dzavhan</rdfs:label>
       <skos:definition>The province of Dzavhan in the country of Mongolia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Mongolia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="mn">Dzavhan</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="mn">Dzavhan</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mn;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mn;"/>
    </owl:NamedIndividual>
@@ -473,7 +473,7 @@
       <rdfs:label>Dundgovĭ</rdfs:label>
       <skos:definition>The province of Dundgovĭ in the country of Mongolia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Mongolia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="mn">Dundgovĭ</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="mn">Dundgovĭ</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mn;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mn;"/>
    </owl:NamedIndividual>
@@ -503,7 +503,7 @@
       <rdfs:label>Hovd</rdfs:label>
       <skos:definition>The province of Hovd in the country of Mongolia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Mongolia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="mn">Hovd</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="mn">Hovd</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mn;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mn;"/>
    </owl:NamedIndividual>
@@ -533,7 +533,7 @@
       <rdfs:label>Bayan-Ölgiy</rdfs:label>
       <skos:definition>The province of Bayan-Ölgiy in the country of Mongolia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Mongolia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="mn">Bayan-Ölgiy</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="mn">Bayan-Ölgiy</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mn;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mn;"/>
    </owl:NamedIndividual>
@@ -563,7 +563,7 @@
       <rdfs:label>Orhon</rdfs:label>
       <skos:definition>The province of Orhon in the country of Mongolia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Mongolia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="mn">Orhon</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="mn">Orhon</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mn;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mn;"/>
    </owl:NamedIndividual>
@@ -593,7 +593,7 @@
       <rdfs:label>Darhan uul</rdfs:label>
       <skos:definition>The province of Darhan uul in the country of Mongolia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Mongolia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="mn">Darhan uul</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="mn">Darhan uul</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mn;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mn;"/>
    </owl:NamedIndividual>
@@ -623,7 +623,7 @@
       <rdfs:label>Govĭ-Sümber</rdfs:label>
       <skos:definition>The province of Govĭ-Sümber in the country of Mongolia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Mongolia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="mn">Govĭ-Sümber</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="mn">Govĭ-Sümber</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mn;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mn;"/>
    </owl:NamedIndividual>
@@ -653,7 +653,7 @@
       <rdfs:label>Sühbaatar</rdfs:label>
       <skos:definition>The province of Sühbaatar in the country of Mongolia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Mongolia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="mn">Sühbaatar</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="mn">Sühbaatar</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mn;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mn;"/>
    </owl:NamedIndividual>
@@ -683,7 +683,7 @@
       <rdfs:label>Dornogovĭ</rdfs:label>
       <skos:definition>The province of Dornogovĭ in the country of Mongolia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Mongolia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="mn">Dornogovĭ</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="mn">Dornogovĭ</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mn;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mn;"/>
    </owl:NamedIndividual>
@@ -713,7 +713,7 @@
       <rdfs:label>Arhangay</rdfs:label>
       <skos:definition>The province of Arhangay in the country of Mongolia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Mongolia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="mn">Arhangay</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="mn">Arhangay</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mn;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mn;"/>
    </owl:NamedIndividual>
@@ -743,7 +743,7 @@
       <rdfs:label>Ulaanbaatar</rdfs:label>
       <skos:definition>The capital city of Ulaanbaatar in the country of Mongolia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Mongolia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="mn">Ulaanbaatar</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="mn">Ulaanbaatar</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mn;CapitalCity"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mn;"/>
    </owl:NamedIndividual>

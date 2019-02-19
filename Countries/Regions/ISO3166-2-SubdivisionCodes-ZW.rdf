@@ -106,7 +106,7 @@
       <rdfs:label>Manicaland</rdfs:label>
       <skos:definition>The province of Manicaland in the country of Zimbabwe</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Zimbabwe"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Manicaland</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Manicaland</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-zw;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-zw;"/>
    </owl:NamedIndividual>
@@ -136,7 +136,7 @@
       <rdfs:label>Mashonaland Central</rdfs:label>
       <skos:definition>The province of Mashonaland Central in the country of Zimbabwe</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Zimbabwe"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Mashonaland Central</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Mashonaland Central</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-zw;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-zw;"/>
    </owl:NamedIndividual>
@@ -166,7 +166,7 @@
       <rdfs:label>Matabeleland South</rdfs:label>
       <skos:definition>The province of Matabeleland South in the country of Zimbabwe</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Zimbabwe"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Matabeleland South</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Matabeleland South</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-zw;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-zw;"/>
    </owl:NamedIndividual>
@@ -196,7 +196,7 @@
       <rdfs:label>Bulawayo</rdfs:label>
       <skos:definition>The province of Bulawayo in the country of Zimbabwe</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Zimbabwe"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Bulawayo</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Bulawayo</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-zw;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-zw;"/>
    </owl:NamedIndividual>
@@ -226,7 +226,7 @@
       <rdfs:label>Harare</rdfs:label>
       <skos:definition>The province of Harare in the country of Zimbabwe</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Zimbabwe"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Harare</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Harare</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-zw;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-zw;"/>
    </owl:NamedIndividual>
@@ -256,7 +256,7 @@
       <rdfs:label>Midlands</rdfs:label>
       <skos:definition>The province of Midlands in the country of Zimbabwe</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Zimbabwe"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Midlands</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Midlands</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-zw;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-zw;"/>
    </owl:NamedIndividual>
@@ -286,7 +286,7 @@
       <rdfs:label>Mashonaland West</rdfs:label>
       <skos:definition>The province of Mashonaland West in the country of Zimbabwe</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Zimbabwe"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Mashonaland West</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Mashonaland West</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-zw;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-zw;"/>
    </owl:NamedIndividual>
@@ -316,7 +316,7 @@
       <rdfs:label>Mashonaland East</rdfs:label>
       <skos:definition>The province of Mashonaland East in the country of Zimbabwe</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Zimbabwe"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Mashonaland East</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Mashonaland East</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-zw;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-zw;"/>
    </owl:NamedIndividual>
@@ -346,7 +346,7 @@
       <rdfs:label>Matabeleland North</rdfs:label>
       <skos:definition>The province of Matabeleland North in the country of Zimbabwe</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Zimbabwe"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Matabeleland North</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Matabeleland North</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-zw;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-zw;"/>
    </owl:NamedIndividual>
@@ -376,7 +376,7 @@
       <rdfs:label>Masvingo</rdfs:label>
       <skos:definition>The province of Masvingo in the country of Zimbabwe</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Zimbabwe"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Masvingo</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Masvingo</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-zw;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-zw;"/>
    </owl:NamedIndividual>

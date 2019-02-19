@@ -120,7 +120,7 @@
       <rdfs:label>Béni Mellal-Khénifra</rdfs:label>
       <skos:definition>The region of Béni Mellal-Khénifra in the country of Morocco</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Morocco"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Béni Mellal-Khénifra</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Béni Mellal-Khénifra</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ma;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ma;"/>
    </owl:NamedIndividual>
@@ -148,7 +148,7 @@
       <rdfs:label>Fquih Ben Salah</rdfs:label>
       <skos:definition>The province of Fquih Ben Salah in the country of Morocco</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ma;BeniMellal-Khenifra"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Fquih Ben Salah</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Fquih Ben Salah</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ma;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ma;"/>
    </owl:NamedIndividual>
@@ -178,7 +178,7 @@
       <rdfs:label>Azilal</rdfs:label>
       <skos:definition>The province of Azilal in the country of Morocco</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ma;BeniMellal-Khenifra"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Azilal</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Azilal</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ma;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ma;"/>
    </owl:NamedIndividual>
@@ -208,7 +208,7 @@
       <rdfs:label>Khenifra</rdfs:label>
       <skos:definition>The province of Khenifra in the country of Morocco</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ma;BeniMellal-Khenifra"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Khenifra</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Khenifra</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ma;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ma;"/>
    </owl:NamedIndividual>
@@ -238,7 +238,7 @@
       <rdfs:label>Khouribga</rdfs:label>
       <skos:definition>The province of Khouribga in the country of Morocco</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ma;BeniMellal-Khenifra"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Khouribga</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Khouribga</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ma;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ma;"/>
    </owl:NamedIndividual>
@@ -268,7 +268,7 @@
       <rdfs:label>Béni Mellal</rdfs:label>
       <skos:definition>The province of Béni Mellal in the country of Morocco</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ma;BeniMellal-Khenifra"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Béni Mellal</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Béni Mellal</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ma;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ma;"/>
    </owl:NamedIndividual>
@@ -300,7 +300,7 @@
       <rdfs:label>Laâyoune-Sakia El Hamra (EH-partial)</rdfs:label>
       <skos:definition>The region of Laâyoune-Sakia El Hamra (EH-partial) in the country of Morocco</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Morocco"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Laâyoune-Sakia El Hamra (EH-partial)</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Laâyoune-Sakia El Hamra (EH-partial)</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ma;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ma;"/>
    </owl:NamedIndividual>
@@ -328,7 +328,7 @@
       <rdfs:label>Tarfaya (EH-partial)</rdfs:label>
       <skos:definition>The province of Tarfaya (EH-partial) in the country of Morocco</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ma;Laayoune-SakiaElHamra"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Tarfaya (EH-partial)</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Tarfaya (EH-partial)</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ma;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ma;"/>
    </owl:NamedIndividual>
@@ -358,7 +358,7 @@
       <rdfs:label>Es-Semara (EH-partial)</rdfs:label>
       <skos:definition>The province of Es-Semara (EH-partial) in the country of Morocco</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ma;Laayoune-SakiaElHamra"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Es-Semara (EH-partial)</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Es-Semara (EH-partial)</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ma;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ma;"/>
    </owl:NamedIndividual>
@@ -388,7 +388,7 @@
       <rdfs:label>Boujdour (EH)</rdfs:label>
       <skos:definition>The province of Boujdour (EH) in the country of Morocco</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ma;Laayoune-SakiaElHamra"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Boujdour (EH)</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Boujdour (EH)</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ma;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ma;"/>
    </owl:NamedIndividual>
@@ -418,7 +418,7 @@
       <rdfs:label>Laâyoune (EH)</rdfs:label>
       <skos:definition>The province of Laâyoune (EH) in the country of Morocco</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ma;Laayoune-SakiaElHamra"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Laâyoune (EH)</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Laâyoune (EH)</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ma;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ma;"/>
    </owl:NamedIndividual>
@@ -450,7 +450,7 @@
       <rdfs:label>Tanger-Tétouan-Al Hoceïma</rdfs:label>
       <skos:definition>The region of Tanger-Tétouan-Al Hoceïma in the country of Morocco</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Morocco"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Tanger-Tétouan-Al Hoceïma</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Tanger-Tétouan-Al Hoceïma</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ma;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ma;"/>
    </owl:NamedIndividual>
@@ -478,7 +478,7 @@
       <rdfs:label>M’diq-Fnideq</rdfs:label>
       <skos:definition>The prefecture of M’diq-Fnideq in the country of Morocco</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ma;Tanger-Tetouan-AlHoceima"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">M’diq-Fnideq</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">M’diq-Fnideq</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ma;Prefecture"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ma;"/>
    </owl:NamedIndividual>
@@ -508,7 +508,7 @@
       <rdfs:label>Fahs-Anjra</rdfs:label>
       <skos:definition>The province of Fahs-Anjra in the country of Morocco</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ma;Tanger-Tetouan-AlHoceima"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Fahs-Anjra</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Fahs-Anjra</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ma;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ma;"/>
    </owl:NamedIndividual>
@@ -538,7 +538,7 @@
       <rdfs:label>Ouezzane</rdfs:label>
       <skos:definition>The province of Ouezzane in the country of Morocco</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ma;Tanger-Tetouan-AlHoceima"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Ouezzane</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Ouezzane</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ma;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ma;"/>
    </owl:NamedIndividual>
@@ -568,7 +568,7 @@
       <rdfs:label>Tétouan</rdfs:label>
       <skos:definition>The province of Tétouan in the country of Morocco</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ma;Tanger-Tetouan-AlHoceima"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Tétouan</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Tétouan</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ma;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ma;"/>
    </owl:NamedIndividual>
@@ -598,7 +598,7 @@
       <rdfs:label>Larache</rdfs:label>
       <skos:definition>The province of Larache in the country of Morocco</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ma;Tanger-Tetouan-AlHoceima"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Larache</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Larache</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ma;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ma;"/>
    </owl:NamedIndividual>
@@ -628,7 +628,7 @@
       <rdfs:label>Chefchaouen</rdfs:label>
       <skos:definition>The province of Chefchaouen in the country of Morocco</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ma;Tanger-Tetouan-AlHoceima"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Chefchaouen</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Chefchaouen</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ma;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ma;"/>
    </owl:NamedIndividual>
@@ -658,7 +658,7 @@
       <rdfs:label>Al Hoceïma</rdfs:label>
       <skos:definition>The province of Al Hoceïma in the country of Morocco</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ma;Tanger-Tetouan-AlHoceima"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Al Hoceïma</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Al Hoceïma</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ma;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ma;"/>
    </owl:NamedIndividual>
@@ -688,7 +688,7 @@
       <rdfs:label>Tanger-Assilah</rdfs:label>
       <skos:definition>The prefecture of Tanger-Assilah in the country of Morocco</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ma;Tanger-Tetouan-AlHoceima"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Tanger-Assilah</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Tanger-Assilah</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ma;Prefecture"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ma;"/>
    </owl:NamedIndividual>
@@ -720,7 +720,7 @@
       <rdfs:label>Souss-Massa</rdfs:label>
       <skos:definition>The region of Souss-Massa in the country of Morocco</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Morocco"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Souss-Massa</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Souss-Massa</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ma;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ma;"/>
    </owl:NamedIndividual>
@@ -748,7 +748,7 @@
       <rdfs:label>Inezgane-Ait Melloul</rdfs:label>
       <skos:definition>The prefecture of Inezgane-Ait Melloul in the country of Morocco</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ma;Souss-Massa"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Inezgane-Ait Melloul</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Inezgane-Ait Melloul</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ma;Prefecture"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ma;"/>
    </owl:NamedIndividual>
@@ -778,7 +778,7 @@
       <rdfs:label>Taroudant</rdfs:label>
       <skos:definition>The province of Taroudant in the country of Morocco</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ma;Souss-Massa"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Taroudant</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Taroudant</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ma;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ma;"/>
    </owl:NamedIndividual>
@@ -808,7 +808,7 @@
       <rdfs:label>Tiznit</rdfs:label>
       <skos:definition>The province of Tiznit in the country of Morocco</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ma;Souss-Massa"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Tiznit</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Tiznit</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ma;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ma;"/>
    </owl:NamedIndividual>
@@ -838,7 +838,7 @@
       <rdfs:label>Tata</rdfs:label>
       <skos:definition>The province of Tata in the country of Morocco</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ma;Souss-Massa"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Tata</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Tata</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ma;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ma;"/>
    </owl:NamedIndividual>
@@ -868,7 +868,7 @@
       <rdfs:label>Agadir-Ida-Ou-Tanane</rdfs:label>
       <skos:definition>The prefecture of Agadir-Ida-Ou-Tanane in the country of Morocco</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ma;Souss-Massa"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Agadir-Ida-Ou-Tanane</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Agadir-Ida-Ou-Tanane</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ma;Prefecture"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ma;"/>
    </owl:NamedIndividual>
@@ -900,7 +900,7 @@
       <rdfs:label>L'Oriental</rdfs:label>
       <skos:definition>The region of L'Oriental in the country of Morocco</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Morocco"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">L'Oriental</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">L'Oriental</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ma;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ma;"/>
    </owl:NamedIndividual>
@@ -928,7 +928,7 @@
       <rdfs:label>Driouch</rdfs:label>
       <skos:definition>The province of Driouch in the country of Morocco</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ma;LOriental"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Driouch</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Driouch</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ma;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ma;"/>
    </owl:NamedIndividual>
@@ -958,7 +958,7 @@
       <rdfs:label>Guercif</rdfs:label>
       <skos:definition>The province of Guercif in the country of Morocco</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ma;LOriental"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Guercif</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Guercif</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ma;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ma;"/>
    </owl:NamedIndividual>
@@ -988,7 +988,7 @@
       <rdfs:label>Jerada</rdfs:label>
       <skos:definition>The province of Jerada in the country of Morocco</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ma;LOriental"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Jerada</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Jerada</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ma;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ma;"/>
    </owl:NamedIndividual>
@@ -1018,7 +1018,7 @@
       <rdfs:label>Figuig</rdfs:label>
       <skos:definition>The province of Figuig in the country of Morocco</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ma;LOriental"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Figuig</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Figuig</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ma;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ma;"/>
    </owl:NamedIndividual>
@@ -1048,7 +1048,7 @@
       <rdfs:label>Nador</rdfs:label>
       <skos:definition>The province of Nador in the country of Morocco</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ma;LOriental"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Nador</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Nador</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ma;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ma;"/>
    </owl:NamedIndividual>
@@ -1078,7 +1078,7 @@
       <rdfs:label>Taourirt</rdfs:label>
       <skos:definition>The province of Taourirt in the country of Morocco</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ma;LOriental"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Taourirt</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Taourirt</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ma;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ma;"/>
    </owl:NamedIndividual>
@@ -1108,7 +1108,7 @@
       <rdfs:label>Berkane</rdfs:label>
       <skos:definition>The province of Berkane in the country of Morocco</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ma;LOriental"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Berkane</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Berkane</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ma;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ma;"/>
    </owl:NamedIndividual>
@@ -1138,7 +1138,7 @@
       <rdfs:label>Oujda-Angad</rdfs:label>
       <skos:definition>The prefecture of Oujda-Angad in the country of Morocco</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ma;LOriental"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Oujda-Angad</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Oujda-Angad</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ma;Prefecture"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ma;"/>
    </owl:NamedIndividual>
@@ -1170,7 +1170,7 @@
       <rdfs:label>Casablanca-Settat</rdfs:label>
       <skos:definition>The region of Casablanca-Settat in the country of Morocco</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Morocco"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Casablanca-Settat</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Casablanca-Settat</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ma;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ma;"/>
    </owl:NamedIndividual>
@@ -1198,7 +1198,7 @@
       <rdfs:label>Berrechid</rdfs:label>
       <skos:definition>The province of Berrechid in the country of Morocco</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ma;Casablanca-Settat"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Berrechid</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Berrechid</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ma;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ma;"/>
    </owl:NamedIndividual>
@@ -1228,7 +1228,7 @@
       <rdfs:label>Sidi Bennour</rdfs:label>
       <skos:definition>The province of Sidi Bennour in the country of Morocco</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ma;Casablanca-Settat"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Sidi Bennour</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Sidi Bennour</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ma;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ma;"/>
    </owl:NamedIndividual>
@@ -1258,7 +1258,7 @@
       <rdfs:label>Sidi Kacem</rdfs:label>
       <skos:definition>The province of Sidi Kacem in the country of Morocco</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ma;Casablanca-Settat"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Sidi Kacem</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Sidi Kacem</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ma;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ma;"/>
    </owl:NamedIndividual>
@@ -1288,7 +1288,7 @@
       <rdfs:label>Médiouna</rdfs:label>
       <skos:definition>The province of Médiouna in the country of Morocco</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ma;Casablanca-Settat"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Médiouna</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Médiouna</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ma;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ma;"/>
    </owl:NamedIndividual>
@@ -1318,7 +1318,7 @@
       <rdfs:label>Mohammadia</rdfs:label>
       <skos:definition>The prefecture of Mohammadia in the country of Morocco</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ma;Casablanca-Settat"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Mohammadia</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Mohammadia</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ma;Prefecture"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ma;"/>
    </owl:NamedIndividual>
@@ -1348,7 +1348,7 @@
       <rdfs:label>Chtouka-Ait Baha</rdfs:label>
       <skos:definition>The province of Chtouka-Ait Baha in the country of Morocco</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ma;Casablanca-Settat"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Chtouka-Ait Baha</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Chtouka-Ait Baha</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ma;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ma;"/>
    </owl:NamedIndividual>
@@ -1378,7 +1378,7 @@
       <rdfs:label>El Jadida</rdfs:label>
       <skos:definition>The province of El Jadida in the country of Morocco</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ma;Casablanca-Settat"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">El Jadida</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">El Jadida</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ma;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ma;"/>
    </owl:NamedIndividual>
@@ -1408,7 +1408,7 @@
       <rdfs:label>Benslimane</rdfs:label>
       <skos:definition>The province of Benslimane in the country of Morocco</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ma;Casablanca-Settat"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Benslimane</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Benslimane</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ma;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ma;"/>
    </owl:NamedIndividual>
@@ -1440,7 +1440,7 @@
       <rdfs:label>Guelmim-Oued Noun (EH-partial)</rdfs:label>
       <skos:definition>The region of Guelmim-Oued Noun (EH-partial) in the country of Morocco</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Morocco"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Guelmim-Oued Noun (EH-partial)</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Guelmim-Oued Noun (EH-partial)</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ma;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ma;"/>
    </owl:NamedIndividual>
@@ -1468,7 +1468,7 @@
       <rdfs:label>Sidi Ifni</rdfs:label>
       <skos:definition>The province of Sidi Ifni in the country of Morocco</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ma;Guelmim-OuedNoun"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Sidi Ifni</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Sidi Ifni</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ma;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ma;"/>
    </owl:NamedIndividual>
@@ -1498,7 +1498,7 @@
       <rdfs:label>Tan-Tan (EH-partial)</rdfs:label>
       <skos:definition>The province of Tan-Tan (EH-partial) in the country of Morocco</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ma;Guelmim-OuedNoun"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Tan-Tan (EH-partial)</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Tan-Tan (EH-partial)</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ma;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ma;"/>
    </owl:NamedIndividual>
@@ -1528,7 +1528,7 @@
       <rdfs:label>Guelmim</rdfs:label>
       <skos:definition>The province of Guelmim in the country of Morocco</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ma;Guelmim-OuedNoun"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Guelmim</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Guelmim</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ma;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ma;"/>
    </owl:NamedIndividual>
@@ -1558,7 +1558,7 @@
       <rdfs:label>Assa-Zag (EH-partial)</rdfs:label>
       <skos:definition>The province of Assa-Zag (EH-partial) in the country of Morocco</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ma;Guelmim-OuedNoun"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Assa-Zag (EH-partial)</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Assa-Zag (EH-partial)</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ma;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ma;"/>
    </owl:NamedIndividual>
@@ -1590,7 +1590,7 @@
       <rdfs:label>Fès- Meknès</rdfs:label>
       <skos:definition>The region of Fès- Meknès in the country of Morocco</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Morocco"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Fès- Meknès</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Fès- Meknès</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ma;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ma;"/>
    </owl:NamedIndividual>
@@ -1618,7 +1618,7 @@
       <rdfs:label>Ifrane</rdfs:label>
       <skos:definition>The province of Ifrane in the country of Morocco</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ma;Fes-Meknes"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Ifrane</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Ifrane</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ma;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ma;"/>
    </owl:NamedIndividual>
@@ -1648,7 +1648,7 @@
       <rdfs:label>Sefrou</rdfs:label>
       <skos:definition>The province of Sefrou in the country of Morocco</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ma;Fes-Meknes"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Sefrou</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Sefrou</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ma;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ma;"/>
    </owl:NamedIndividual>
@@ -1678,7 +1678,7 @@
       <rdfs:label>Taza</rdfs:label>
       <skos:definition>The province of Taza in the country of Morocco</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ma;Fes-Meknes"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Taza</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Taza</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ma;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ma;"/>
    </owl:NamedIndividual>
@@ -1708,7 +1708,7 @@
       <rdfs:label>Boulemane</rdfs:label>
       <skos:definition>The province of Boulemane in the country of Morocco</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ma;Fes-Meknes"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Boulemane</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Boulemane</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ma;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ma;"/>
    </owl:NamedIndividual>
@@ -1738,7 +1738,7 @@
       <rdfs:label>El Hajeb</rdfs:label>
       <skos:definition>The province of El Hajeb in the country of Morocco</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ma;Fes-Meknes"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">El Hajeb</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">El Hajeb</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ma;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ma;"/>
    </owl:NamedIndividual>
@@ -1768,7 +1768,7 @@
       <rdfs:label>Meknès</rdfs:label>
       <skos:definition>The prefecture of Meknès in the country of Morocco</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ma;Fes-Meknes"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Meknès</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Meknès</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ma;Prefecture"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ma;"/>
    </owl:NamedIndividual>
@@ -1798,7 +1798,7 @@
       <rdfs:label>Moulay Yacoub</rdfs:label>
       <skos:definition>The province of Moulay Yacoub in the country of Morocco</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ma;Fes-Meknes"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Moulay Yacoub</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Moulay Yacoub</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ma;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ma;"/>
    </owl:NamedIndividual>
@@ -1828,7 +1828,7 @@
       <rdfs:label>Taounate</rdfs:label>
       <skos:definition>The province of Taounate in the country of Morocco</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ma;Fes-Meknes"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Taounate</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Taounate</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ma;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ma;"/>
    </owl:NamedIndividual>
@@ -1858,7 +1858,7 @@
       <rdfs:label>Fès</rdfs:label>
       <skos:definition>The prefecture of Fès in the country of Morocco</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ma;Fes-Meknes"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Fès</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Fès</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ma;Prefecture"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ma;"/>
    </owl:NamedIndividual>
@@ -1890,7 +1890,7 @@
       <rdfs:label>Drâa-Tafilalet</rdfs:label>
       <skos:definition>The region of Drâa-Tafilalet in the country of Morocco</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Morocco"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Drâa-Tafilalet</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Drâa-Tafilalet</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ma;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ma;"/>
    </owl:NamedIndividual>
@@ -1918,7 +1918,7 @@
       <rdfs:label>Midelt</rdfs:label>
       <skos:definition>The province of Midelt in the country of Morocco</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ma;Draa-Tafilalet"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Midelt</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Midelt</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ma;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ma;"/>
    </owl:NamedIndividual>
@@ -1948,7 +1948,7 @@
       <rdfs:label>Tinghir</rdfs:label>
       <skos:definition>The province of Tinghir in the country of Morocco</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ma;Draa-Tafilalet"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Tinghir</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Tinghir</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ma;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ma;"/>
    </owl:NamedIndividual>
@@ -1978,7 +1978,7 @@
       <rdfs:label>Errachidia</rdfs:label>
       <skos:definition>The province of Errachidia in the country of Morocco</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ma;Draa-Tafilalet"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Errachidia</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Errachidia</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ma;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ma;"/>
    </owl:NamedIndividual>
@@ -2008,7 +2008,7 @@
       <rdfs:label>Settat</rdfs:label>
       <skos:definition>The province of Settat in the country of Morocco</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ma;Draa-Tafilalet"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Settat</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Settat</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ma;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ma;"/>
    </owl:NamedIndividual>
@@ -2038,7 +2038,7 @@
       <rdfs:label>Casablanca</rdfs:label>
       <skos:definition>The prefecture of Casablanca in the country of Morocco</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ma;Draa-Tafilalet"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Casablanca</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Casablanca</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ma;Prefecture"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ma;"/>
    </owl:NamedIndividual>
@@ -2068,7 +2068,7 @@
       <rdfs:label>Ouarzazate</rdfs:label>
       <skos:definition>The province of Ouarzazate in the country of Morocco</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ma;Draa-Tafilalet"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Ouarzazate</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Ouarzazate</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ma;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ma;"/>
    </owl:NamedIndividual>
@@ -2098,7 +2098,7 @@
       <rdfs:label>Zagora</rdfs:label>
       <skos:definition>The province of Zagora in the country of Morocco</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ma;Draa-Tafilalet"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Zagora</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Zagora</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ma;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ma;"/>
    </owl:NamedIndividual>
@@ -2130,7 +2130,7 @@
       <rdfs:label>Dakhla-Oued Ed-Dahab (EH)</rdfs:label>
       <skos:definition>The region of Dakhla-Oued Ed-Dahab (EH) in the country of Morocco</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Morocco"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Dakhla-Oued Ed-Dahab (EH)</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Dakhla-Oued Ed-Dahab (EH)</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ma;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ma;"/>
    </owl:NamedIndividual>
@@ -2158,7 +2158,7 @@
       <rdfs:label>Aousserd (EH)</rdfs:label>
       <skos:definition>The province of Aousserd (EH) in the country of Morocco</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ma;Dakhla-OuedEd-Dahab"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Aousserd (EH)</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Aousserd (EH)</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ma;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ma;"/>
    </owl:NamedIndividual>
@@ -2188,7 +2188,7 @@
       <rdfs:label>Oued Ed-Dahab (EH)</rdfs:label>
       <skos:definition>The province of Oued Ed-Dahab (EH) in the country of Morocco</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ma;Dakhla-OuedEd-Dahab"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Oued Ed-Dahab (EH)</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Oued Ed-Dahab (EH)</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ma;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ma;"/>
    </owl:NamedIndividual>
@@ -2220,7 +2220,7 @@
       <rdfs:label>Rabat-Salé-Kénitra</rdfs:label>
       <skos:definition>The region of Rabat-Salé-Kénitra in the country of Morocco</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Morocco"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Rabat-Salé-Kénitra</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Rabat-Salé-Kénitra</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ma;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ma;"/>
    </owl:NamedIndividual>
@@ -2248,7 +2248,7 @@
       <rdfs:label>Sidi Slimane</rdfs:label>
       <skos:definition>The province of Sidi Slimane in the country of Morocco</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ma;Rabat-Sale-Kenitra"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Sidi Slimane</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Sidi Slimane</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ma;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ma;"/>
    </owl:NamedIndividual>
@@ -2278,7 +2278,7 @@
       <rdfs:label>Rabat</rdfs:label>
       <skos:definition>The prefecture of Rabat in the country of Morocco</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ma;Rabat-Sale-Kenitra"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Rabat</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Rabat</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ma;Prefecture"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ma;"/>
    </owl:NamedIndividual>
@@ -2308,7 +2308,7 @@
       <rdfs:label>Skhirate-Témara</rdfs:label>
       <skos:definition>The prefecture of Skhirate-Témara in the country of Morocco</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ma;Rabat-Sale-Kenitra"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Skhirate-Témara</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Skhirate-Témara</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ma;Prefecture"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ma;"/>
    </owl:NamedIndividual>
@@ -2338,7 +2338,7 @@
       <rdfs:label>Kénitra</rdfs:label>
       <skos:definition>The province of Kénitra in the country of Morocco</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ma;Rabat-Sale-Kenitra"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Kénitra</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Kénitra</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ma;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ma;"/>
    </owl:NamedIndividual>
@@ -2368,7 +2368,7 @@
       <rdfs:label>Salé</rdfs:label>
       <skos:definition>The prefecture of Salé in the country of Morocco</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ma;Rabat-Sale-Kenitra"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Salé</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Salé</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ma;Prefecture"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ma;"/>
    </owl:NamedIndividual>
@@ -2398,7 +2398,7 @@
       <rdfs:label>Khemisset</rdfs:label>
       <skos:definition>The province of Khemisset in the country of Morocco</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ma;Rabat-Sale-Kenitra"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Khemisset</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Khemisset</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ma;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ma;"/>
    </owl:NamedIndividual>
@@ -2428,7 +2428,7 @@
       <rdfs:label>Nouaceur</rdfs:label>
       <skos:definition>The province of Nouaceur in the country of Morocco</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ma;Rabat-Sale-Kenitra"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Nouaceur</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Nouaceur</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ma;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ma;"/>
    </owl:NamedIndividual>
@@ -2460,7 +2460,7 @@
       <rdfs:label>Marrakech-Safi</rdfs:label>
       <skos:definition>The region of Marrakech-Safi in the country of Morocco</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Morocco"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Marrakech-Safi</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Marrakech-Safi</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ma;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ma;"/>
    </owl:NamedIndividual>
@@ -2488,7 +2488,7 @@
       <rdfs:label>Marrakech</rdfs:label>
       <skos:definition>The prefecture of Marrakech in the country of Morocco</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ma;Marrakech-Safi"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Marrakech</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Marrakech</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ma;Prefecture"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ma;"/>
    </owl:NamedIndividual>
@@ -2518,7 +2518,7 @@
       <rdfs:label>Rehamna</rdfs:label>
       <skos:definition>The province of Rehamna in the country of Morocco</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ma;Marrakech-Safi"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Rehamna</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Rehamna</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ma;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ma;"/>
    </owl:NamedIndividual>
@@ -2548,7 +2548,7 @@
       <rdfs:label>Youssoufia</rdfs:label>
       <skos:definition>The province of Youssoufia in the country of Morocco</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ma;Marrakech-Safi"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Youssoufia</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Youssoufia</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ma;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ma;"/>
    </owl:NamedIndividual>
@@ -2578,7 +2578,7 @@
       <rdfs:label>Chichaoua</rdfs:label>
       <skos:definition>The province of Chichaoua in the country of Morocco</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ma;Marrakech-Safi"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Chichaoua</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Chichaoua</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ma;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ma;"/>
    </owl:NamedIndividual>
@@ -2608,7 +2608,7 @@
       <rdfs:label>El Kelâa des Sraghna</rdfs:label>
       <skos:definition>The province of El Kelâa des Sraghna in the country of Morocco</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ma;Marrakech-Safi"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">El Kelâa des Sraghna</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">El Kelâa des Sraghna</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ma;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ma;"/>
    </owl:NamedIndividual>
@@ -2638,7 +2638,7 @@
       <rdfs:label>Essaouira</rdfs:label>
       <skos:definition>The province of Essaouira in the country of Morocco</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ma;Marrakech-Safi"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Essaouira</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Essaouira</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ma;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ma;"/>
    </owl:NamedIndividual>
@@ -2668,7 +2668,7 @@
       <rdfs:label>Safi</rdfs:label>
       <skos:definition>The province of Safi in the country of Morocco</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ma;Marrakech-Safi"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Safi</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Safi</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ma;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ma;"/>
    </owl:NamedIndividual>
@@ -2698,7 +2698,7 @@
       <rdfs:label>Al Haouz</rdfs:label>
       <skos:definition>The province of Al Haouz in the country of Morocco</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ma;Marrakech-Safi"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Al Haouz</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Al Haouz</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ma;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ma;"/>
    </owl:NamedIndividual>

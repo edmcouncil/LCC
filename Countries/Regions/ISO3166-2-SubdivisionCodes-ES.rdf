@@ -120,7 +120,7 @@
       <rdfs:label>Andalucía</rdfs:label>
       <skos:definition>The autonomous community of Andalucía in the country of Spain</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Spain"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Andalucía</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Andalucía</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-es;AutonomousCommunity"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-es;"/>
    </owl:NamedIndividual>
@@ -148,7 +148,7 @@
       <rdfs:label>Sevilla</rdfs:label>
       <skos:definition>The province of Sevilla in the country of Spain</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-es;Andalucia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Sevilla</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Sevilla</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-es;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-es;"/>
    </owl:NamedIndividual>
@@ -178,7 +178,7 @@
       <rdfs:label>Cádiz</rdfs:label>
       <skos:definition>The province of Cádiz in the country of Spain</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-es;Andalucia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Cádiz</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Cádiz</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-es;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-es;"/>
    </owl:NamedIndividual>
@@ -208,7 +208,7 @@
       <rdfs:label>Granada</rdfs:label>
       <skos:definition>The province of Granada in the country of Spain</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-es;Andalucia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Granada</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Granada</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-es;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-es;"/>
    </owl:NamedIndividual>
@@ -238,7 +238,7 @@
       <rdfs:label>Huelva</rdfs:label>
       <skos:definition>The province of Huelva in the country of Spain</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-es;Andalucia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Huelva</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Huelva</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-es;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-es;"/>
    </owl:NamedIndividual>
@@ -268,7 +268,7 @@
       <rdfs:label>Málaga</rdfs:label>
       <skos:definition>The province of Málaga in the country of Spain</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-es;Andalucia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Málaga</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Málaga</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-es;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-es;"/>
    </owl:NamedIndividual>
@@ -298,7 +298,7 @@
       <rdfs:label>Córdoba</rdfs:label>
       <skos:definition>The province of Córdoba in the country of Spain</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-es;Andalucia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Córdoba</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Córdoba</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-es;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-es;"/>
    </owl:NamedIndividual>
@@ -328,7 +328,7 @@
       <rdfs:label>Almería</rdfs:label>
       <skos:definition>The province of Almería in the country of Spain</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-es;Andalucia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Almería</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Almería</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-es;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-es;"/>
    </owl:NamedIndividual>
@@ -358,7 +358,7 @@
       <rdfs:label>Jaén</rdfs:label>
       <skos:definition>The province of Jaén in the country of Spain</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-es;Andalucia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Jaén</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Jaén</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-es;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-es;"/>
    </owl:NamedIndividual>
@@ -390,8 +390,8 @@
       <rdfs:label>Euskal Herria</rdfs:label>
       <skos:definition>The autonomous community of Euskal Herria in the country of Spain</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Spain"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="eu">Euskal Herria</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">País Vasco</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="eu">Euskal Herria</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">País Vasco</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-es;AutonomousCommunity"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-es;"/>
    </owl:NamedIndividual>
@@ -419,7 +419,7 @@
       <rdfs:label>Bizkaia</rdfs:label>
       <skos:definition>The province of Bizkaia in the country of Spain</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-es;EuskalHerria"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="eu">Bizkaia</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="eu">Bizkaia</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-es;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-es;"/>
    </owl:NamedIndividual>
@@ -449,7 +449,7 @@
       <rdfs:label>Gipuzkoa</rdfs:label>
       <skos:definition>The province of Gipuzkoa in the country of Spain</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-es;EuskalHerria"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="eu">Gipuzkoa</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="eu">Gipuzkoa</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-es;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-es;"/>
    </owl:NamedIndividual>
@@ -479,8 +479,8 @@
       <rdfs:label>Araba*</rdfs:label>
       <skos:definition>The province of Araba* in the country of Spain</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-es;EuskalHerria"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="eu">Araba*</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Álava</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="eu">Araba*</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Álava</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-es;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-es;"/>
    </owl:NamedIndividual>
@@ -512,7 +512,7 @@
       <rdfs:label>Cantabria</rdfs:label>
       <skos:definition>The autonomous community of Cantabria in the country of Spain</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Spain"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Cantabria</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Cantabria</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-es;AutonomousCommunity"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-es;"/>
    </owl:NamedIndividual>
@@ -540,7 +540,7 @@
       <rdfs:label>Cantabria</rdfs:label>
       <skos:definition>The province of Cantabria in the country of Spain</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-es;Cantabria"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Cantabria</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Cantabria</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-es;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-es;"/>
    </owl:NamedIndividual>
@@ -572,7 +572,7 @@
       <rdfs:label>Murcia, Región de</rdfs:label>
       <skos:definition>The autonomous community of Murcia, Región de in the country of Spain</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Spain"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Murcia, Región de</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Murcia, Región de</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-es;AutonomousCommunity"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-es;"/>
    </owl:NamedIndividual>
@@ -600,7 +600,7 @@
       <rdfs:label>Murcia</rdfs:label>
       <skos:definition>The province of Murcia in the country of Spain</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-es;Murcia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Murcia</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Murcia</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-es;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-es;"/>
    </owl:NamedIndividual>
@@ -632,7 +632,7 @@
       <rdfs:label>Aragón</rdfs:label>
       <skos:definition>The autonomous community of Aragón in the country of Spain</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Spain"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Aragón</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Aragón</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-es;AutonomousCommunity"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-es;"/>
    </owl:NamedIndividual>
@@ -660,7 +660,7 @@
       <rdfs:label>Zaragoza</rdfs:label>
       <skos:definition>The province of Zaragoza in the country of Spain</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-es;Aragon"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Zaragoza</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Zaragoza</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-es;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-es;"/>
    </owl:NamedIndividual>
@@ -690,7 +690,7 @@
       <rdfs:label>Huesca</rdfs:label>
       <skos:definition>The province of Huesca in the country of Spain</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-es;Aragon"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Huesca</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Huesca</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-es;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-es;"/>
    </owl:NamedIndividual>
@@ -720,7 +720,7 @@
       <rdfs:label>Teruel</rdfs:label>
       <skos:definition>The province of Teruel in the country of Spain</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-es;Aragon"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Teruel</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Teruel</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-es;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-es;"/>
    </owl:NamedIndividual>
@@ -752,7 +752,7 @@
       <rdfs:label>Asturias, Principado de</rdfs:label>
       <skos:definition>The autonomous community of Asturias, Principado de in the country of Spain</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Spain"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Asturias, Principado de</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Asturias, Principado de</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-es;AutonomousCommunity"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-es;"/>
    </owl:NamedIndividual>
@@ -780,7 +780,7 @@
       <rdfs:label>Asturias</rdfs:label>
       <skos:definition>The province of Asturias in the country of Spain</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-es;Asturias"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Asturias</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Asturias</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-es;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-es;"/>
    </owl:NamedIndividual>
@@ -812,7 +812,7 @@
       <rdfs:label>Ceuta</rdfs:label>
       <skos:definition>The autonomous city in North Africa of Ceuta in the country of Spain</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Spain"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Ceuta</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Ceuta</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-es;AutonomousCityInNorthAfrica"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-es;"/>
    </owl:NamedIndividual>
@@ -842,7 +842,7 @@
       <rdfs:label>Galicia [Galicia]</rdfs:label>
       <skos:definition>The autonomous community of Galicia [Galicia] in the country of Spain</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Spain"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="gl">Galicia [Galicia]</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="gl">Galicia [Galicia]</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-es;AutonomousCommunity"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-es;"/>
    </owl:NamedIndividual>
@@ -870,7 +870,7 @@
       <rdfs:label>A Coruña [La Coruña]</rdfs:label>
       <skos:definition>The province of A Coruña [La Coruña] in the country of Spain</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-es;Galicia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="gl">A Coruña [La Coruña]</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="gl">A Coruña [La Coruña]</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-es;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-es;"/>
    </owl:NamedIndividual>
@@ -900,7 +900,7 @@
       <rdfs:label>Lugo [Lugo]</rdfs:label>
       <skos:definition>The province of Lugo [Lugo] in the country of Spain</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-es;Galicia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="gl">Lugo [Lugo]</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="gl">Lugo [Lugo]</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-es;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-es;"/>
    </owl:NamedIndividual>
@@ -930,7 +930,7 @@
       <rdfs:label>Ourense [Orense]</rdfs:label>
       <skos:definition>The province of Ourense [Orense] in the country of Spain</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-es;Galicia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="gl">Ourense [Orense]</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="gl">Ourense [Orense]</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-es;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-es;"/>
    </owl:NamedIndividual>
@@ -960,7 +960,7 @@
       <rdfs:label>Pontevedra [Pontevedra]</rdfs:label>
       <skos:definition>The province of Pontevedra [Pontevedra] in the country of Spain</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-es;Galicia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="gl">Pontevedra [Pontevedra]</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="gl">Pontevedra [Pontevedra]</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-es;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-es;"/>
    </owl:NamedIndividual>
@@ -992,7 +992,7 @@
       <rdfs:label>La Rioja</rdfs:label>
       <skos:definition>The autonomous community of La Rioja in the country of Spain</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Spain"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">La Rioja</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">La Rioja</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-es;AutonomousCommunity"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-es;"/>
    </owl:NamedIndividual>
@@ -1020,7 +1020,7 @@
       <rdfs:label>La Rioja</rdfs:label>
       <skos:definition>The province of La Rioja in the country of Spain</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-es;LaRioja"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">La Rioja</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">La Rioja</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-es;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-es;"/>
    </owl:NamedIndividual>
@@ -1052,8 +1052,8 @@
       <rdfs:label>Valenciana, Comunitat*</rdfs:label>
       <skos:definition>The autonomous community of Valenciana, Comunitat* in the country of Spain</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Spain"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ca">Valenciana, Comunitat*</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Valenciana, Comunidad</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ca">Valenciana, Comunitat*</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Valenciana, Comunidad</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-es;AutonomousCommunity"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-es;"/>
    </owl:NamedIndividual>
@@ -1081,8 +1081,8 @@
       <rdfs:label>València*</rdfs:label>
       <skos:definition>The province of València* in the country of Spain</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-es;Valenciana"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ca">València*</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Valencia</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ca">València*</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Valencia</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-es;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-es;"/>
    </owl:NamedIndividual>
@@ -1112,8 +1112,8 @@
       <rdfs:label>Castellón</rdfs:label>
       <skos:definition>The province of Castellón in the country of Spain</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-es;Valenciana"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Castellón</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ca">Castelló*</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Castellón</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ca">Castelló*</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-es;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-es;"/>
    </owl:NamedIndividual>
@@ -1143,8 +1143,8 @@
       <rdfs:label>Alacant*</rdfs:label>
       <skos:definition>The province of Alacant* in the country of Spain</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-es;Valenciana"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ca">Alacant*</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Alicante</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ca">Alacant*</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Alicante</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-es;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-es;"/>
    </owl:NamedIndividual>
@@ -1176,7 +1176,7 @@
       <rdfs:label>Catalunya [Cataluña]</rdfs:label>
       <skos:definition>The autonomous community of Catalunya [Cataluña] in the country of Spain</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Spain"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ca">Catalunya [Cataluña]</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ca">Catalunya [Cataluña]</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-es;AutonomousCommunity"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-es;"/>
    </owl:NamedIndividual>
@@ -1204,7 +1204,7 @@
       <rdfs:label>Tarragona [Tarragona]</rdfs:label>
       <skos:definition>The province of Tarragona [Tarragona] in the country of Spain</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-es;Catalunya"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ca">Tarragona [Tarragona]</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ca">Tarragona [Tarragona]</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-es;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-es;"/>
    </owl:NamedIndividual>
@@ -1234,7 +1234,7 @@
       <rdfs:label>Girona [Gerona]</rdfs:label>
       <skos:definition>The province of Girona [Gerona] in the country of Spain</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-es;Catalunya"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ca">Girona [Gerona]</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ca">Girona [Gerona]</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-es;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-es;"/>
    </owl:NamedIndividual>
@@ -1264,7 +1264,7 @@
       <rdfs:label>Barcelona [Barcelona]</rdfs:label>
       <skos:definition>The province of Barcelona [Barcelona] in the country of Spain</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-es;Catalunya"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Barcelona [Barcelona]</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Barcelona [Barcelona]</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-es;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-es;"/>
    </owl:NamedIndividual>
@@ -1294,7 +1294,7 @@
       <rdfs:label>Lleida [Lérida]</rdfs:label>
       <skos:definition>The province of Lleida [Lérida] in the country of Spain</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-es;Catalunya"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ca">Lleida [Lérida]</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ca">Lleida [Lérida]</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-es;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-es;"/>
    </owl:NamedIndividual>
@@ -1326,7 +1326,7 @@
       <rdfs:label>Illes Balears [Islas Baleares]</rdfs:label>
       <skos:definition>The autonomous community of Illes Balears [Islas Baleares] in the country of Spain</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Spain"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ca">Illes Balears [Islas Baleares]</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ca">Illes Balears [Islas Baleares]</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-es;AutonomousCommunity"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-es;"/>
    </owl:NamedIndividual>
@@ -1354,7 +1354,7 @@
       <rdfs:label>Balears [Baleares]</rdfs:label>
       <skos:definition>The province of Balears [Baleares] in the country of Spain</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-es;IllesBalears"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ca">Balears [Baleares]</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ca">Balears [Baleares]</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-es;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-es;"/>
    </owl:NamedIndividual>
@@ -1386,7 +1386,7 @@
       <rdfs:label>Castilla-La Mancha</rdfs:label>
       <skos:definition>The autonomous community of Castilla-La Mancha in the country of Spain</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Spain"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Castilla-La Mancha</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Castilla-La Mancha</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-es;AutonomousCommunity"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-es;"/>
    </owl:NamedIndividual>
@@ -1414,7 +1414,7 @@
       <rdfs:label>Albacete</rdfs:label>
       <skos:definition>The province of Albacete in the country of Spain</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-es;Castilla-LaMancha"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Albacete</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Albacete</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-es;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-es;"/>
    </owl:NamedIndividual>
@@ -1444,7 +1444,7 @@
       <rdfs:label>Cuenca</rdfs:label>
       <skos:definition>The province of Cuenca in the country of Spain</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-es;Castilla-LaMancha"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Cuenca</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Cuenca</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-es;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-es;"/>
    </owl:NamedIndividual>
@@ -1474,7 +1474,7 @@
       <rdfs:label>Toledo</rdfs:label>
       <skos:definition>The province of Toledo in the country of Spain</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-es;Castilla-LaMancha"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Toledo</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Toledo</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-es;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-es;"/>
    </owl:NamedIndividual>
@@ -1504,7 +1504,7 @@
       <rdfs:label>Ciudad Real</rdfs:label>
       <skos:definition>The province of Ciudad Real in the country of Spain</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-es;Castilla-LaMancha"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Ciudad Real</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Ciudad Real</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-es;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-es;"/>
    </owl:NamedIndividual>
@@ -1534,7 +1534,7 @@
       <rdfs:label>Guadalajara</rdfs:label>
       <skos:definition>The province of Guadalajara in the country of Spain</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-es;Castilla-LaMancha"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Guadalajara</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Guadalajara</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-es;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-es;"/>
    </owl:NamedIndividual>
@@ -1566,7 +1566,7 @@
       <rdfs:label>Extremadura</rdfs:label>
       <skos:definition>The autonomous community of Extremadura in the country of Spain</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Spain"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Extremadura</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Extremadura</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-es;AutonomousCommunity"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-es;"/>
    </owl:NamedIndividual>
@@ -1594,7 +1594,7 @@
       <rdfs:label>Cáceres</rdfs:label>
       <skos:definition>The province of Cáceres in the country of Spain</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-es;Extremadura"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Cáceres</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Cáceres</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-es;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-es;"/>
    </owl:NamedIndividual>
@@ -1624,7 +1624,7 @@
       <rdfs:label>Badajoz</rdfs:label>
       <skos:definition>The province of Badajoz in the country of Spain</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-es;Extremadura"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Badajoz</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Badajoz</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-es;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-es;"/>
    </owl:NamedIndividual>
@@ -1656,7 +1656,7 @@
       <rdfs:label>Madrid, Comunidad de</rdfs:label>
       <skos:definition>The autonomous community of Madrid, Comunidad de in the country of Spain</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Spain"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Madrid, Comunidad de</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Madrid, Comunidad de</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-es;AutonomousCommunity"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-es;"/>
    </owl:NamedIndividual>
@@ -1684,7 +1684,7 @@
       <rdfs:label>Madrid</rdfs:label>
       <skos:definition>The province of Madrid in the country of Spain</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-es;Madrid"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Madrid</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Madrid</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-es;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-es;"/>
    </owl:NamedIndividual>
@@ -1716,7 +1716,7 @@
       <rdfs:label>Melilla</rdfs:label>
       <skos:definition>The autonomous city in North Africa of Melilla in the country of Spain</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Spain"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Melilla</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Melilla</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-es;AutonomousCityInNorthAfrica"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-es;"/>
    </owl:NamedIndividual>
@@ -1746,7 +1746,7 @@
       <rdfs:label>Castilla y León</rdfs:label>
       <skos:definition>The autonomous community of Castilla y León in the country of Spain</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Spain"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Castilla y León</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Castilla y León</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-es;AutonomousCommunity"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-es;"/>
    </owl:NamedIndividual>
@@ -1774,7 +1774,7 @@
       <rdfs:label>Salamanca</rdfs:label>
       <skos:definition>The province of Salamanca in the country of Spain</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-es;CastillaYLeon"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Salamanca</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Salamanca</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-es;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-es;"/>
    </owl:NamedIndividual>
@@ -1804,7 +1804,7 @@
       <rdfs:label>Ávila</rdfs:label>
       <skos:definition>The province of Ávila in the country of Spain</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-es;CastillaYLeon"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Ávila</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Ávila</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-es;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-es;"/>
    </owl:NamedIndividual>
@@ -1834,7 +1834,7 @@
       <rdfs:label>Soria</rdfs:label>
       <skos:definition>The province of Soria in the country of Spain</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-es;CastillaYLeon"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Soria</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Soria</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-es;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-es;"/>
    </owl:NamedIndividual>
@@ -1864,7 +1864,7 @@
       <rdfs:label>Palencia</rdfs:label>
       <skos:definition>The province of Palencia in the country of Spain</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-es;CastillaYLeon"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Palencia</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Palencia</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-es;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-es;"/>
    </owl:NamedIndividual>
@@ -1894,7 +1894,7 @@
       <rdfs:label>Valladolid</rdfs:label>
       <skos:definition>The province of Valladolid in the country of Spain</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-es;CastillaYLeon"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Valladolid</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Valladolid</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-es;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-es;"/>
    </owl:NamedIndividual>
@@ -1924,7 +1924,7 @@
       <rdfs:label>Burgos</rdfs:label>
       <skos:definition>The province of Burgos in the country of Spain</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-es;CastillaYLeon"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Burgos</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Burgos</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-es;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-es;"/>
    </owl:NamedIndividual>
@@ -1954,7 +1954,7 @@
       <rdfs:label>Segovia</rdfs:label>
       <skos:definition>The province of Segovia in the country of Spain</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-es;CastillaYLeon"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Segovia</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Segovia</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-es;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-es;"/>
    </owl:NamedIndividual>
@@ -1984,7 +1984,7 @@
       <rdfs:label>Zamora</rdfs:label>
       <skos:definition>The province of Zamora in the country of Spain</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-es;CastillaYLeon"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Zamora</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Zamora</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-es;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-es;"/>
    </owl:NamedIndividual>
@@ -2014,7 +2014,7 @@
       <rdfs:label>León</rdfs:label>
       <skos:definition>The province of León in the country of Spain</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-es;CastillaYLeon"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">León</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">León</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-es;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-es;"/>
    </owl:NamedIndividual>
@@ -2046,7 +2046,7 @@
       <rdfs:label>Canarias</rdfs:label>
       <skos:definition>The autonomous community of Canarias in the country of Spain</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Spain"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Canarias</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Canarias</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-es;AutonomousCommunity"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-es;"/>
    </owl:NamedIndividual>
@@ -2074,7 +2074,7 @@
       <rdfs:label>Santa Cruz de Tenerife</rdfs:label>
       <skos:definition>The province of Santa Cruz de Tenerife in the country of Spain</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-es;Canarias"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Santa Cruz de Tenerife</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Santa Cruz de Tenerife</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-es;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-es;"/>
    </owl:NamedIndividual>
@@ -2104,7 +2104,7 @@
       <rdfs:label>Las Palmas</rdfs:label>
       <skos:definition>The province of Las Palmas in the country of Spain</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-es;Canarias"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Las Palmas</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Las Palmas</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-es;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-es;"/>
    </owl:NamedIndividual>
@@ -2136,8 +2136,8 @@
       <rdfs:label>Nafarroako Foru Komunitatea*</rdfs:label>
       <skos:definition>The autonomous community of Nafarroako Foru Komunitatea* in the country of Spain</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Spain"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="eu">Nafarroako Foru Komunitatea*</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Navarra, Comunidad Foral de</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="eu">Nafarroako Foru Komunitatea*</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Navarra, Comunidad Foral de</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-es;AutonomousCommunity"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-es;"/>
    </owl:NamedIndividual>
@@ -2165,8 +2165,8 @@
       <rdfs:label>Navarra</rdfs:label>
       <skos:definition>The province of Navarra in the country of Spain</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-es;NafarroakoForuKomunitatea"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Navarra</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="eu">Nafarroa*</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Navarra</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="eu">Nafarroa*</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-es;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-es;"/>
    </owl:NamedIndividual>

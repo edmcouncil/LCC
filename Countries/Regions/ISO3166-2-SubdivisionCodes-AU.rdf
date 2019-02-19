@@ -113,7 +113,7 @@
       <rdfs:label>Victoria</rdfs:label>
       <skos:definition>The state of Victoria in the country of Australia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Australia"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Victoria</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Victoria</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-au;State"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-au;"/>
    </owl:NamedIndividual>
@@ -143,7 +143,7 @@
       <rdfs:label>Northern Territory</rdfs:label>
       <skos:definition>The territory of Northern Territory in the country of Australia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Australia"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Northern Territory</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Northern Territory</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-au;Territory"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-au;"/>
    </owl:NamedIndividual>
@@ -173,7 +173,7 @@
       <rdfs:label>Queensland</rdfs:label>
       <skos:definition>The state of Queensland in the country of Australia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Australia"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Queensland</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Queensland</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-au;State"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-au;"/>
    </owl:NamedIndividual>
@@ -203,7 +203,7 @@
       <rdfs:label>Tasmania</rdfs:label>
       <skos:definition>The state of Tasmania in the country of Australia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Australia"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Tasmania</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Tasmania</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-au;State"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-au;"/>
    </owl:NamedIndividual>
@@ -233,7 +233,7 @@
       <rdfs:label>Australian Capital Territory</rdfs:label>
       <skos:definition>The territory of Australian Capital Territory in the country of Australia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Australia"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Australian Capital Territory</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Australian Capital Territory</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-au;Territory"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-au;"/>
    </owl:NamedIndividual>
@@ -263,7 +263,7 @@
       <rdfs:label>New South Wales</rdfs:label>
       <skos:definition>The state of New South Wales in the country of Australia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Australia"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">New South Wales</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">New South Wales</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-au;State"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-au;"/>
    </owl:NamedIndividual>
@@ -293,7 +293,7 @@
       <rdfs:label>South Australia</rdfs:label>
       <skos:definition>The state of South Australia in the country of Australia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Australia"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">South Australia</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">South Australia</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-au;State"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-au;"/>
    </owl:NamedIndividual>
@@ -323,7 +323,7 @@
       <rdfs:label>Western Australia</rdfs:label>
       <skos:definition>The state of Western Australia in the country of Australia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Australia"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Western Australia</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Western Australia</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-au;State"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-au;"/>
    </owl:NamedIndividual>
@@ -353,8 +353,8 @@
       <rdfs:label>Ashmore and Cartier Islands</rdfs:label>
       <skos:definition>The territory of Ashmore and Cartier Islands in the country of Australia</skos:definition>
       <lcc-cr:hasNumericRegionCode rdf:datatype="&xsd;string">1009</lcc-cr:hasNumericRegionCode>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Ashmore and Cartier Islands</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Îles Ashmore-et-Cartier</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Ashmore and Cartier Islands</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Îles Ashmore-et-Cartier</lcc-cr:hasFrenchShortName>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Australia"/>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2;Territory"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-au;"/>
@@ -372,8 +372,8 @@
       <rdfs:label>Coral Sea Islands</rdfs:label>
       <skos:definition>The territory of Coral Sea Islands in the country of Australia</skos:definition>
       <lcc-cr:hasNumericRegionCode rdf:datatype="&xsd;string">1046</lcc-cr:hasNumericRegionCode>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Coral Sea Islands</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Îles de la Mer de Corail</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Coral Sea Islands</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Îles de la Mer de Corail</lcc-cr:hasFrenchShortName>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Australia"/>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2;Territory"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-au;"/>
@@ -391,8 +391,8 @@
       <rdfs:label>Lord Howe Island</rdfs:label>
       <skos:definition>The territory of Lord Howe Island in the country of Australia</skos:definition>
       <lcc-cr:hasNumericRegionCode rdf:datatype="&xsd;string">1107</lcc-cr:hasNumericRegionCode>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">l'Île Lord Howe</lcc-cr:hasFrenchShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Lord Howe Island</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">l'Île Lord Howe</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Lord Howe Island</lcc-cr:hasEnglishShortName>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Australia"/>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2;Territory"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-au;"/>
@@ -410,8 +410,8 @@
       <rdfs:label>Macquarie Island</rdfs:label>
       <skos:definition>The territory of Macquarie Island in the country of Australia</skos:definition>
       <lcc-cr:hasNumericRegionCode rdf:datatype="&xsd;string">1111</lcc-cr:hasNumericRegionCode>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">l'Île Macquarie</lcc-cr:hasFrenchShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Macquarie Island</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">l'Île Macquarie</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Macquarie Island</lcc-cr:hasEnglishShortName>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Australia"/>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2;Territory"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-au;"/>

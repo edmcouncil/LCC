@@ -106,7 +106,7 @@
       <rdfs:label>Saitama</rdfs:label>
       <skos:definition>The prefecture of Saitama in the country of Japan</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Japan"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ja">Saitama</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ja">Saitama</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-jp;Prefecture"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-jp;"/>
    </owl:NamedIndividual>
@@ -136,7 +136,7 @@
       <rdfs:label>Toyama</rdfs:label>
       <skos:definition>The prefecture of Toyama in the country of Japan</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Japan"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ja">Toyama</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ja">Toyama</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-jp;Prefecture"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-jp;"/>
    </owl:NamedIndividual>
@@ -166,8 +166,8 @@
       <rdfs:label>Ishikawa</rdfs:label>
       <skos:definition>The prefecture of Ishikawa in the country of Japan</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Japan"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Ishikawa</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ja">Isikawa</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Ishikawa</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ja">Isikawa</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-jp;Prefecture"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-jp;"/>
    </owl:NamedIndividual>
@@ -197,8 +197,8 @@
       <rdfs:label>Yamanashi</rdfs:label>
       <skos:definition>The prefecture of Yamanashi in the country of Japan</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Japan"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ja">Yamanasi</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Yamanashi</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ja">Yamanasi</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Yamanashi</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-jp;Prefecture"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-jp;"/>
    </owl:NamedIndividual>
@@ -228,8 +228,8 @@
       <rdfs:label>Shizuoka</rdfs:label>
       <skos:definition>The prefecture of Shizuoka in the country of Japan</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Japan"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ja">Sizuoka</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Shizuoka</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ja">Sizuoka</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Shizuoka</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-jp;Prefecture"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-jp;"/>
    </owl:NamedIndividual>
@@ -259,7 +259,7 @@
       <rdfs:label>Mie</rdfs:label>
       <skos:definition>The prefecture of Mie in the country of Japan</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Japan"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ja">Mie</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ja">Mie</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-jp;Prefecture"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-jp;"/>
    </owl:NamedIndividual>
@@ -289,8 +289,8 @@
       <rdfs:label>Kyoto</rdfs:label>
       <skos:definition>The prefecture of Kyoto in the country of Japan</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Japan"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Kyoto</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ja">Kyôto</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Kyoto</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ja">Kyôto</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-jp;Prefecture"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-jp;"/>
    </owl:NamedIndividual>
@@ -320,8 +320,8 @@
       <rdfs:label>Shimane</rdfs:label>
       <skos:definition>The prefecture of Shimane in the country of Japan</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Japan"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Shimane</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ja">Simane</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Shimane</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ja">Simane</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-jp;Prefecture"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-jp;"/>
    </owl:NamedIndividual>
@@ -351,8 +351,8 @@
       <rdfs:label>Tokushima</rdfs:label>
       <skos:definition>The prefecture of Tokushima in the country of Japan</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Japan"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ja">Tokusima</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Tokushima</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ja">Tokusima</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Tokushima</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-jp;Prefecture"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-jp;"/>
    </owl:NamedIndividual>
@@ -382,8 +382,8 @@
       <rdfs:label>Oita</rdfs:label>
       <skos:definition>The prefecture of Oita in the country of Japan</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Japan"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Oita</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ja">Ôita</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Oita</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ja">Ôita</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-jp;Prefecture"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-jp;"/>
    </owl:NamedIndividual>
@@ -413,7 +413,7 @@
       <rdfs:label>Iwate</rdfs:label>
       <skos:definition>The prefecture of Iwate in the country of Japan</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Japan"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ja">Iwate</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ja">Iwate</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-jp;Prefecture"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-jp;"/>
    </owl:NamedIndividual>
@@ -443,8 +443,8 @@
       <rdfs:label>Shiga</rdfs:label>
       <skos:definition>The prefecture of Shiga in the country of Japan</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Japan"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Shiga</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ja">Siga</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Shiga</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ja">Siga</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-jp;Prefecture"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-jp;"/>
    </owl:NamedIndividual>
@@ -474,8 +474,8 @@
       <rdfs:label>Hyogo</rdfs:label>
       <skos:definition>The prefecture of Hyogo in the country of Japan</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Japan"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Hyogo</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ja">Hyôgo</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Hyogo</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ja">Hyôgo</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-jp;Prefecture"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-jp;"/>
    </owl:NamedIndividual>
@@ -505,7 +505,7 @@
       <rdfs:label>Saga</rdfs:label>
       <skos:definition>The prefecture of Saga in the country of Japan</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Japan"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ja">Saga</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ja">Saga</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-jp;Prefecture"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-jp;"/>
    </owl:NamedIndividual>
@@ -535,7 +535,7 @@
       <rdfs:label>Gunma</rdfs:label>
       <skos:definition>The prefecture of Gunma in the country of Japan</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Japan"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ja">Gunma</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ja">Gunma</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-jp;Prefecture"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-jp;"/>
    </owl:NamedIndividual>
@@ -565,8 +565,8 @@
       <rdfs:label>Chiba</rdfs:label>
       <skos:definition>The prefecture of Chiba in the country of Japan</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Japan"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ja">Tiba</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Chiba</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ja">Tiba</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Chiba</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-jp;Prefecture"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-jp;"/>
    </owl:NamedIndividual>
@@ -596,7 +596,7 @@
       <rdfs:label>Kanagawa</rdfs:label>
       <skos:definition>The prefecture of Kanagawa in the country of Japan</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Japan"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ja">Kanagawa</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ja">Kanagawa</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-jp;Prefecture"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-jp;"/>
    </owl:NamedIndividual>
@@ -626,8 +626,8 @@
       <rdfs:label>Kochi</rdfs:label>
       <skos:definition>The prefecture of Kochi in the country of Japan</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Japan"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Kochi</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ja">Kôti</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Kochi</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ja">Kôti</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-jp;Prefecture"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-jp;"/>
    </owl:NamedIndividual>
@@ -657,7 +657,7 @@
       <rdfs:label>Miyazaki</rdfs:label>
       <skos:definition>The prefecture of Miyazaki in the country of Japan</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Japan"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ja">Miyazaki</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ja">Miyazaki</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-jp;Prefecture"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-jp;"/>
    </owl:NamedIndividual>
@@ -687,7 +687,7 @@
       <rdfs:label>Nagano</rdfs:label>
       <skos:definition>The prefecture of Nagano in the country of Japan</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Japan"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ja">Nagano</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ja">Nagano</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-jp;Prefecture"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-jp;"/>
    </owl:NamedIndividual>
@@ -717,7 +717,7 @@
       <rdfs:label>Tottori</rdfs:label>
       <skos:definition>The prefecture of Tottori in the country of Japan</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Japan"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ja">Tottori</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ja">Tottori</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-jp;Prefecture"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-jp;"/>
    </owl:NamedIndividual>
@@ -747,7 +747,7 @@
       <rdfs:label>Ehime</rdfs:label>
       <skos:definition>The prefecture of Ehime in the country of Japan</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Japan"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ja">Ehime</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ja">Ehime</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-jp;Prefecture"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-jp;"/>
    </owl:NamedIndividual>
@@ -777,8 +777,8 @@
       <rdfs:label>Fukuoka</rdfs:label>
       <skos:definition>The prefecture of Fukuoka in the country of Japan</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Japan"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ja">Hukuoka</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Fukuoka</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ja">Hukuoka</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Fukuoka</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-jp;Prefecture"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-jp;"/>
    </owl:NamedIndividual>
@@ -808,7 +808,7 @@
       <rdfs:label>Nagasaki</rdfs:label>
       <skos:definition>The prefecture of Nagasaki in the country of Japan</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Japan"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ja">Nagasaki</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ja">Nagasaki</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-jp;Prefecture"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-jp;"/>
    </owl:NamedIndividual>
@@ -838,7 +838,7 @@
       <rdfs:label>Aomori</rdfs:label>
       <skos:definition>The prefecture of Aomori in the country of Japan</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Japan"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ja">Aomori</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ja">Aomori</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-jp;Prefecture"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-jp;"/>
    </owl:NamedIndividual>
@@ -868,8 +868,8 @@
       <rdfs:label>Fukushima</rdfs:label>
       <skos:definition>The prefecture of Fukushima in the country of Japan</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Japan"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ja">Hukusima</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Fukushima</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ja">Hukusima</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Fukushima</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-jp;Prefecture"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-jp;"/>
    </owl:NamedIndividual>
@@ -899,8 +899,8 @@
       <rdfs:label>Tochigi</rdfs:label>
       <skos:definition>The prefecture of Tochigi in the country of Japan</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Japan"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ja">Totigi</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Tochigi</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ja">Totigi</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Tochigi</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-jp;Prefecture"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-jp;"/>
    </owl:NamedIndividual>
@@ -930,8 +930,8 @@
       <rdfs:label>Fukui</rdfs:label>
       <skos:definition>The prefecture of Fukui in the country of Japan</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Japan"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Fukui</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ja">Hukui</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Fukui</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ja">Hukui</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-jp;Prefecture"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-jp;"/>
    </owl:NamedIndividual>
@@ -961,8 +961,8 @@
       <rdfs:label>Gifu</rdfs:label>
       <skos:definition>The prefecture of Gifu in the country of Japan</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Japan"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ja">Gihu</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Gifu</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ja">Gihu</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Gifu</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-jp;Prefecture"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-jp;"/>
    </owl:NamedIndividual>
@@ -992,8 +992,8 @@
       <rdfs:label>Hiroshima</rdfs:label>
       <skos:definition>The prefecture of Hiroshima in the country of Japan</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Japan"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Hiroshima</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ja">Hirosima</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Hiroshima</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ja">Hirosima</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-jp;Prefecture"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-jp;"/>
    </owl:NamedIndividual>
@@ -1023,8 +1023,8 @@
       <rdfs:label>Yamaguchi</rdfs:label>
       <skos:definition>The prefecture of Yamaguchi in the country of Japan</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Japan"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Yamaguchi</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ja">Yamaguti</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Yamaguchi</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ja">Yamaguti</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-jp;Prefecture"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-jp;"/>
    </owl:NamedIndividual>
@@ -1054,7 +1054,7 @@
       <rdfs:label>Kumamoto</rdfs:label>
       <skos:definition>The prefecture of Kumamoto in the country of Japan</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Japan"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ja">Kumamoto</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ja">Kumamoto</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-jp;Prefecture"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-jp;"/>
    </owl:NamedIndividual>
@@ -1084,8 +1084,8 @@
       <rdfs:label>Kagoshima</rdfs:label>
       <skos:definition>The prefecture of Kagoshima in the country of Japan</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Japan"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ja">Kagosima</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Kagoshima</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ja">Kagosima</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Kagoshima</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-jp;Prefecture"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-jp;"/>
    </owl:NamedIndividual>
@@ -1115,7 +1115,7 @@
       <rdfs:label>Okinawa</rdfs:label>
       <skos:definition>The prefecture of Okinawa in the country of Japan</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Japan"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ja">Okinawa</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ja">Okinawa</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-jp;Prefecture"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-jp;"/>
    </owl:NamedIndividual>
@@ -1145,8 +1145,8 @@
       <rdfs:label>Hokkaido</rdfs:label>
       <skos:definition>The prefecture of Hokkaido in the country of Japan</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Japan"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Hokkaido</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ja">Hokkaidô</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Hokkaido</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ja">Hokkaidô</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-jp;Prefecture"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-jp;"/>
    </owl:NamedIndividual>
@@ -1176,7 +1176,7 @@
       <rdfs:label>Akita</rdfs:label>
       <skos:definition>The prefecture of Akita in the country of Japan</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Japan"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ja">Akita</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ja">Akita</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-jp;Prefecture"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-jp;"/>
    </owl:NamedIndividual>
@@ -1206,8 +1206,8 @@
       <rdfs:label>Tokyo</rdfs:label>
       <skos:definition>The prefecture of Tokyo in the country of Japan</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Japan"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ja">Tôkyô</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Tokyo</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ja">Tôkyô</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Tokyo</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-jp;Prefecture"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-jp;"/>
    </owl:NamedIndividual>
@@ -1237,8 +1237,8 @@
       <rdfs:label>Aichi</rdfs:label>
       <skos:definition>The prefecture of Aichi in the country of Japan</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Japan"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ja">Aiti</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Aichi</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ja">Aiti</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Aichi</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-jp;Prefecture"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-jp;"/>
    </owl:NamedIndividual>
@@ -1268,7 +1268,7 @@
       <rdfs:label>Nara</rdfs:label>
       <skos:definition>The prefecture of Nara in the country of Japan</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Japan"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ja">Nara</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ja">Nara</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-jp;Prefecture"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-jp;"/>
    </owl:NamedIndividual>
@@ -1298,7 +1298,7 @@
       <rdfs:label>Wakayama</rdfs:label>
       <skos:definition>The prefecture of Wakayama in the country of Japan</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Japan"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ja">Wakayama</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ja">Wakayama</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-jp;Prefecture"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-jp;"/>
    </owl:NamedIndividual>
@@ -1328,7 +1328,7 @@
       <rdfs:label>Okayama</rdfs:label>
       <skos:definition>The prefecture of Okayama in the country of Japan</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Japan"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ja">Okayama</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ja">Okayama</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-jp;Prefecture"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-jp;"/>
    </owl:NamedIndividual>
@@ -1358,7 +1358,7 @@
       <rdfs:label>Kagawa</rdfs:label>
       <skos:definition>The prefecture of Kagawa in the country of Japan</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Japan"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ja">Kagawa</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ja">Kagawa</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-jp;Prefecture"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-jp;"/>
    </owl:NamedIndividual>
@@ -1388,7 +1388,7 @@
       <rdfs:label>Miyagi</rdfs:label>
       <skos:definition>The prefecture of Miyagi in the country of Japan</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Japan"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ja">Miyagi</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ja">Miyagi</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-jp;Prefecture"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-jp;"/>
    </owl:NamedIndividual>
@@ -1418,7 +1418,7 @@
       <rdfs:label>Yamagata</rdfs:label>
       <skos:definition>The prefecture of Yamagata in the country of Japan</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Japan"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ja">Yamagata</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ja">Yamagata</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-jp;Prefecture"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-jp;"/>
    </owl:NamedIndividual>
@@ -1448,7 +1448,7 @@
       <rdfs:label>Ibaraki</rdfs:label>
       <skos:definition>The prefecture of Ibaraki in the country of Japan</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Japan"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ja">Ibaraki</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ja">Ibaraki</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-jp;Prefecture"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-jp;"/>
    </owl:NamedIndividual>
@@ -1478,7 +1478,7 @@
       <rdfs:label>Niigata</rdfs:label>
       <skos:definition>The prefecture of Niigata in the country of Japan</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Japan"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ja">Niigata</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ja">Niigata</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-jp;Prefecture"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-jp;"/>
    </owl:NamedIndividual>
@@ -1508,8 +1508,8 @@
       <rdfs:label>Osaka</rdfs:label>
       <skos:definition>The prefecture of Osaka in the country of Japan</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Japan"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Osaka</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ja">Ôsaka</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Osaka</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ja">Ôsaka</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-jp;Prefecture"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-jp;"/>
    </owl:NamedIndividual>

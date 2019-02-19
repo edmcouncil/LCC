@@ -113,7 +113,7 @@
       <rdfs:label>Zadarska županija</rdfs:label>
       <skos:definition>The county of Zadarska županija in the country of Croatia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Croatia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="hr">Zadarska županija</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="hr">Zadarska županija</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-hr;County"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-hr;"/>
    </owl:NamedIndividual>
@@ -143,7 +143,7 @@
       <rdfs:label>Zagrebačka županija</rdfs:label>
       <skos:definition>The county of Zagrebačka županija in the country of Croatia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Croatia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="hr">Zagrebačka županija</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="hr">Zagrebačka županija</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-hr;County"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-hr;"/>
    </owl:NamedIndividual>
@@ -173,7 +173,7 @@
       <rdfs:label>Koprivničko-križevačka županija</rdfs:label>
       <skos:definition>The county of Koprivničko-križevačka županija in the country of Croatia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Croatia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="hr">Koprivničko-križevačka županija</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="hr">Koprivničko-križevačka županija</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-hr;County"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-hr;"/>
    </owl:NamedIndividual>
@@ -203,7 +203,7 @@
       <rdfs:label>Splitsko-dalmatinska županija</rdfs:label>
       <skos:definition>The county of Splitsko-dalmatinska županija in the country of Croatia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Croatia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="hr">Splitsko-dalmatinska županija</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="hr">Splitsko-dalmatinska županija</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-hr;County"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-hr;"/>
    </owl:NamedIndividual>
@@ -233,7 +233,7 @@
       <rdfs:label>Grad Zagreb</rdfs:label>
       <skos:definition>The city of Grad Zagreb in the country of Croatia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Croatia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="hr">Grad Zagreb</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="hr">Grad Zagreb</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-hr;City"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-hr;"/>
    </owl:NamedIndividual>
@@ -263,7 +263,7 @@
       <rdfs:label>Karlovačka županija</rdfs:label>
       <skos:definition>The county of Karlovačka županija in the country of Croatia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Croatia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="hr">Karlovačka županija</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="hr">Karlovačka županija</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-hr;County"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-hr;"/>
    </owl:NamedIndividual>
@@ -293,7 +293,7 @@
       <rdfs:label>Dubrovačko-neretvanska županija</rdfs:label>
       <skos:definition>The county of Dubrovačko-neretvanska županija in the country of Croatia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Croatia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="hr">Dubrovačko-neretvanska županija</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="hr">Dubrovačko-neretvanska županija</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-hr;County"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-hr;"/>
    </owl:NamedIndividual>
@@ -323,7 +323,7 @@
       <rdfs:label>Virovitičko-podravska županija</rdfs:label>
       <skos:definition>The county of Virovitičko-podravska županija in the country of Croatia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Croatia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="hr">Virovitičko-podravska županija</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="hr">Virovitičko-podravska županija</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-hr;County"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-hr;"/>
    </owl:NamedIndividual>
@@ -353,7 +353,7 @@
       <rdfs:label>Osječko-baranjska županija</rdfs:label>
       <skos:definition>The county of Osječko-baranjska županija in the country of Croatia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Croatia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="hr">Osječko-baranjska županija</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="hr">Osječko-baranjska županija</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-hr;County"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-hr;"/>
    </owl:NamedIndividual>
@@ -383,7 +383,7 @@
       <rdfs:label>Vukovarsko-srijemska županija</rdfs:label>
       <skos:definition>The county of Vukovarsko-srijemska županija in the country of Croatia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Croatia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="hr">Vukovarsko-srijemska županija</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="hr">Vukovarsko-srijemska županija</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-hr;County"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-hr;"/>
    </owl:NamedIndividual>
@@ -413,7 +413,7 @@
       <rdfs:label>Krapinsko-zagorska županija</rdfs:label>
       <skos:definition>The county of Krapinsko-zagorska županija in the country of Croatia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Croatia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="hr">Krapinsko-zagorska županija</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="hr">Krapinsko-zagorska županija</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-hr;County"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-hr;"/>
    </owl:NamedIndividual>
@@ -443,7 +443,7 @@
       <rdfs:label>Ličko-senjska županija</rdfs:label>
       <skos:definition>The county of Ličko-senjska županija in the country of Croatia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Croatia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="hr">Ličko-senjska županija</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="hr">Ličko-senjska županija</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-hr;County"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-hr;"/>
    </owl:NamedIndividual>
@@ -473,7 +473,7 @@
       <rdfs:label>Brodsko-posavska županija</rdfs:label>
       <skos:definition>The county of Brodsko-posavska županija in the country of Croatia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Croatia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="hr">Brodsko-posavska županija</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="hr">Brodsko-posavska županija</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-hr;County"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-hr;"/>
    </owl:NamedIndividual>
@@ -503,7 +503,7 @@
       <rdfs:label>Istarska županija</rdfs:label>
       <skos:definition>The county of Istarska županija in the country of Croatia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Croatia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="hr">Istarska županija</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="hr">Istarska županija</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-hr;County"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-hr;"/>
    </owl:NamedIndividual>
@@ -533,7 +533,7 @@
       <rdfs:label>Sisačko-moslavačka županija</rdfs:label>
       <skos:definition>The county of Sisačko-moslavačka županija in the country of Croatia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Croatia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="hr">Sisačko-moslavačka županija</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="hr">Sisačko-moslavačka županija</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-hr;County"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-hr;"/>
    </owl:NamedIndividual>
@@ -563,7 +563,7 @@
       <rdfs:label>Varaždinska županija</rdfs:label>
       <skos:definition>The county of Varaždinska županija in the country of Croatia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Croatia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="hr">Varaždinska županija</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="hr">Varaždinska županija</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-hr;County"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-hr;"/>
    </owl:NamedIndividual>
@@ -593,7 +593,7 @@
       <rdfs:label>Primorsko-goranska županija</rdfs:label>
       <skos:definition>The county of Primorsko-goranska županija in the country of Croatia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Croatia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="hr">Primorsko-goranska županija</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="hr">Primorsko-goranska županija</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-hr;County"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-hr;"/>
    </owl:NamedIndividual>
@@ -623,7 +623,7 @@
       <rdfs:label>Šibensko-kninska županija</rdfs:label>
       <skos:definition>The county of Šibensko-kninska županija in the country of Croatia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Croatia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="hr">Šibensko-kninska županija</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="hr">Šibensko-kninska županija</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-hr;County"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-hr;"/>
    </owl:NamedIndividual>
@@ -653,7 +653,7 @@
       <rdfs:label>Bjelovarsko-bilogorska županija</rdfs:label>
       <skos:definition>The county of Bjelovarsko-bilogorska županija in the country of Croatia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Croatia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="hr">Bjelovarsko-bilogorska županija</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="hr">Bjelovarsko-bilogorska županija</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-hr;County"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-hr;"/>
    </owl:NamedIndividual>
@@ -683,7 +683,7 @@
       <rdfs:label>Međimurska županija</rdfs:label>
       <skos:definition>The county of Međimurska županija in the country of Croatia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Croatia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="hr">Međimurska županija</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="hr">Međimurska županija</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-hr;County"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-hr;"/>
    </owl:NamedIndividual>
@@ -713,7 +713,7 @@
       <rdfs:label>Požeško-slavonska županija</rdfs:label>
       <skos:definition>The county of Požeško-slavonska županija in the country of Croatia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Croatia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="hr">Požeško-slavonska županija</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="hr">Požeško-slavonska županija</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-hr;County"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-hr;"/>
    </owl:NamedIndividual>

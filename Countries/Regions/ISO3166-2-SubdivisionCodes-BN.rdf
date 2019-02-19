@@ -106,8 +106,8 @@
       <rdfs:label>Tutong</rdfs:label>
       <skos:definition>The district of Tutong in the country of Brunei Darussalam</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;BruneiDarussalam"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Tutong</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ms">Tutong</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Tutong</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ms">Tutong</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-bn;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-bn;"/>
    </owl:NamedIndividual>
@@ -137,8 +137,8 @@
       <rdfs:label>Brunei-Muara</rdfs:label>
       <skos:definition>The district of Brunei-Muara in the country of Brunei Darussalam</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;BruneiDarussalam"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ms">Brunei-Muara</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Brunei-Muara</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ms">Brunei-Muara</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Brunei-Muara</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-bn;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-bn;"/>
    </owl:NamedIndividual>
@@ -168,8 +168,8 @@
       <rdfs:label>Belait</rdfs:label>
       <skos:definition>The district of Belait in the country of Brunei Darussalam</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;BruneiDarussalam"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ms">Belait</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Belait</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ms">Belait</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Belait</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-bn;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-bn;"/>
    </owl:NamedIndividual>
@@ -199,8 +199,8 @@
       <rdfs:label>Temburong</rdfs:label>
       <skos:definition>The district of Temburong in the country of Brunei Darussalam</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;BruneiDarussalam"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Temburong</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ms">Temburong</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Temburong</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ms">Temburong</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-bn;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-bn;"/>
    </owl:NamedIndividual>

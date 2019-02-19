@@ -106,7 +106,7 @@
       <rdfs:label>Midway Islands</rdfs:label>
       <skos:definition>The islands, groups of islands of Midway Islands in the country of United States Minor Outlying Islands (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;UnitedStatesMinorOutlyingIslands"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Midway Islands</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Midway Islands</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-um;Islands"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-um;"/>
    </owl:NamedIndividual>
@@ -136,7 +136,7 @@
       <rdfs:label>Howland Island</rdfs:label>
       <skos:definition>The islands, groups of islands of Howland Island in the country of United States Minor Outlying Islands (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;UnitedStatesMinorOutlyingIslands"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Howland Island</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Howland Island</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-um;Islands"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-um;"/>
    </owl:NamedIndividual>
@@ -166,7 +166,7 @@
       <rdfs:label>Jarvis Island</rdfs:label>
       <skos:definition>The islands, groups of islands of Jarvis Island in the country of United States Minor Outlying Islands (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;UnitedStatesMinorOutlyingIslands"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Jarvis Island</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Jarvis Island</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-um;Islands"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-um;"/>
    </owl:NamedIndividual>
@@ -196,7 +196,7 @@
       <rdfs:label>Wake Island</rdfs:label>
       <skos:definition>The islands, groups of islands of Wake Island in the country of United States Minor Outlying Islands (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;UnitedStatesMinorOutlyingIslands"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Wake Island</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Wake Island</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-um;Islands"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-um;"/>
    </owl:NamedIndividual>
@@ -226,7 +226,7 @@
       <rdfs:label>Kingman Reef</rdfs:label>
       <skos:definition>The islands, groups of islands of Kingman Reef in the country of United States Minor Outlying Islands (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;UnitedStatesMinorOutlyingIslands"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Kingman Reef</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Kingman Reef</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-um;Islands"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-um;"/>
    </owl:NamedIndividual>
@@ -256,7 +256,7 @@
       <rdfs:label>Navassa Island</rdfs:label>
       <skos:definition>The islands, groups of islands of Navassa Island in the country of United States Minor Outlying Islands (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;UnitedStatesMinorOutlyingIslands"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Navassa Island</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Navassa Island</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-um;Islands"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-um;"/>
    </owl:NamedIndividual>
@@ -286,7 +286,7 @@
       <rdfs:label>Johnston Atoll</rdfs:label>
       <skos:definition>The islands, groups of islands of Johnston Atoll in the country of United States Minor Outlying Islands (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;UnitedStatesMinorOutlyingIslands"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Johnston Atoll</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Johnston Atoll</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-um;Islands"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-um;"/>
    </owl:NamedIndividual>
@@ -316,7 +316,7 @@
       <rdfs:label>Baker Island</rdfs:label>
       <skos:definition>The islands, groups of islands of Baker Island in the country of United States Minor Outlying Islands (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;UnitedStatesMinorOutlyingIslands"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Baker Island</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Baker Island</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-um;Islands"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-um;"/>
    </owl:NamedIndividual>
@@ -346,7 +346,7 @@
       <rdfs:label>Palmyra Atoll</rdfs:label>
       <skos:definition>The islands, groups of islands of Palmyra Atoll in the country of United States Minor Outlying Islands (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;UnitedStatesMinorOutlyingIslands"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Palmyra Atoll</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Palmyra Atoll</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-um;Islands"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-um;"/>
    </owl:NamedIndividual>
@@ -376,8 +376,8 @@
       <rdfs:label>Baker Island</rdfs:label>
       <skos:definition>The territory of Baker Island in the country of United States Minor Outlying Islands (the)</skos:definition>
       <lcc-cr:hasNumericRegionCode rdf:datatype="&xsd;string">1017</lcc-cr:hasNumericRegionCode>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">l'Île Baker</lcc-cr:hasFrenchShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Baker Island</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">l'Île Baker</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Baker Island</lcc-cr:hasEnglishShortName>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;UnitedStatesMinorOutlyingIslands"/>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2;Territory"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-um;"/>
@@ -395,8 +395,8 @@
       <rdfs:label>Howland Island</rdfs:label>
       <skos:definition>The territory of Howland Island in the country of United States Minor Outlying Islands (the)</skos:definition>
       <lcc-cr:hasNumericRegionCode rdf:datatype="&xsd;string">1085</lcc-cr:hasNumericRegionCode>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">l'Île Howland</lcc-cr:hasFrenchShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Howland Island</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">l'Île Howland</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Howland Island</lcc-cr:hasEnglishShortName>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;UnitedStatesMinorOutlyingIslands"/>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2;Territory"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-um;"/>
@@ -414,8 +414,8 @@
       <rdfs:label>Jarvis Island</rdfs:label>
       <skos:definition>The territory of Jarvis Island in the country of United States Minor Outlying Islands (the)</skos:definition>
       <lcc-cr:hasNumericRegionCode rdf:datatype="&xsd;string">1089</lcc-cr:hasNumericRegionCode>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">l'Île Jarvis</lcc-cr:hasFrenchShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Jarvis Island</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">l'Île Jarvis</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Jarvis Island</lcc-cr:hasEnglishShortName>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;UnitedStatesMinorOutlyingIslands"/>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2;Territory"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-um;"/>
@@ -433,8 +433,8 @@
       <rdfs:label>Johnston Atoll</rdfs:label>
       <skos:definition>The territory of Johnston Atoll in the country of United States Minor Outlying Islands (the)</skos:definition>
       <lcc-cr:hasNumericRegionCode rdf:datatype="&xsd;string">1091</lcc-cr:hasNumericRegionCode>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">l'Atoll Johnston</lcc-cr:hasFrenchShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Johnston Atoll</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">l'Atoll Johnston</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Johnston Atoll</lcc-cr:hasEnglishShortName>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;UnitedStatesMinorOutlyingIslands"/>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2;Territory"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-um;"/>
@@ -452,8 +452,8 @@
       <rdfs:label>Kingman Reef</rdfs:label>
       <skos:definition>The territory of Kingman Reef in the country of United States Minor Outlying Islands (the)</skos:definition>
       <lcc-cr:hasNumericRegionCode rdf:datatype="&xsd;string">1098</lcc-cr:hasNumericRegionCode>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">le Récif Kingman</lcc-cr:hasFrenchShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Kingman Reef</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">le Récif Kingman</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Kingman Reef</lcc-cr:hasEnglishShortName>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;UnitedStatesMinorOutlyingIslands"/>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2;Territory"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-um;"/>
@@ -471,8 +471,8 @@
       <rdfs:label>Midway Islands</rdfs:label>
       <skos:definition>The territory of Midway Islands in the country of United States Minor Outlying Islands (the)</skos:definition>
       <lcc-cr:hasNumericRegionCode rdf:datatype="&xsd;string">1127</lcc-cr:hasNumericRegionCode>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">les Îles Midway</lcc-cr:hasFrenchShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Midway Islands</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">les Îles Midway</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Midway Islands</lcc-cr:hasEnglishShortName>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;UnitedStatesMinorOutlyingIslands"/>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2;Territory"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-um;"/>
@@ -490,8 +490,8 @@
       <rdfs:label>Navassa Island</rdfs:label>
       <skos:definition>The territory of Navassa Island in the country of United States Minor Outlying Islands (the)</skos:definition>
       <lcc-cr:hasNumericRegionCode rdf:datatype="&xsd;string">1135</lcc-cr:hasNumericRegionCode>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Navassa Island</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">l'Île de la Navasse</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Navassa Island</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">l'Île de la Navasse</lcc-cr:hasFrenchShortName>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;UnitedStatesMinorOutlyingIslands"/>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2;Territory"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-um;"/>
@@ -509,8 +509,8 @@
       <rdfs:label>Palmyra Atoll</rdfs:label>
       <skos:definition>The territory of Palmyra Atoll in the country of United States Minor Outlying Islands (the)</skos:definition>
       <lcc-cr:hasNumericRegionCode rdf:datatype="&xsd;string">1145</lcc-cr:hasNumericRegionCode>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">l'Atoll Palmyra</lcc-cr:hasFrenchShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Palmyra Atoll</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">l'Atoll Palmyra</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Palmyra Atoll</lcc-cr:hasEnglishShortName>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;UnitedStatesMinorOutlyingIslands"/>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2;Territory"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-um;"/>
@@ -528,8 +528,8 @@
       <rdfs:label>Wake Island</rdfs:label>
       <skos:definition>The territory of Wake Island in the country of United States Minor Outlying Islands (the)</skos:definition>
       <lcc-cr:hasNumericRegionCode rdf:datatype="&xsd;string">1222</lcc-cr:hasNumericRegionCode>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">l'Île Wake</lcc-cr:hasFrenchShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Wake Island</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">l'Île Wake</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Wake Island</lcc-cr:hasEnglishShortName>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;UnitedStatesMinorOutlyingIslands"/>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2;Territory"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-um;"/>

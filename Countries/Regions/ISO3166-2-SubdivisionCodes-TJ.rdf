@@ -127,7 +127,7 @@
       <rdfs:label>nohiyahoi tobei jumhurí</rdfs:label>
       <skos:definition>The districts under republic administration of nohiyahoi tobei jumhurí in the country of Tajikistan</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Tajikistan"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="tg">nohiyahoi tobei jumhurí</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="tg">nohiyahoi tobei jumhurí</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-tj;DistrictsUnderRepublicAdministration"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-tj;"/>
    </owl:NamedIndividual>
@@ -157,7 +157,7 @@
       <rdfs:label>Khatlon</rdfs:label>
       <skos:definition>The region of Khatlon in the country of Tajikistan</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Tajikistan"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="tg">Khatlon</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="tg">Khatlon</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-tj;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-tj;"/>
    </owl:NamedIndividual>
@@ -187,7 +187,7 @@
       <rdfs:label>Sughd</rdfs:label>
       <skos:definition>The region of Sughd in the country of Tajikistan</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Tajikistan"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="tg">Sughd</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="tg">Sughd</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-tj;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-tj;"/>
    </owl:NamedIndividual>
@@ -217,7 +217,7 @@
       <rdfs:label>Dushanbe</rdfs:label>
       <skos:definition>The capital territory of Dushanbe in the country of Tajikistan</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Tajikistan"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="tg">Dushanbe</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="tg">Dushanbe</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-tj;CapitalTerritory"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-tj;"/>
    </owl:NamedIndividual>
@@ -247,7 +247,7 @@
       <rdfs:label>Kŭhistoni Badakhshon</rdfs:label>
       <skos:definition>The autonomous region of Kŭhistoni Badakhshon in the country of Tajikistan</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Tajikistan"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="tg">Kŭhistoni Badakhshon</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="tg">Kŭhistoni Badakhshon</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-tj;AutonomousRegion"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-tj;"/>
    </owl:NamedIndividual>

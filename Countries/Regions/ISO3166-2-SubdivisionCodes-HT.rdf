@@ -106,8 +106,8 @@
       <rdfs:label>Nord-Ouest</rdfs:label>
       <skos:definition>The department of Nord-Ouest in the country of Haiti</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Haiti"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Nord-Ouest</lcc-cr:hasFrenchShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ht">Nòdwès</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Nord-Ouest</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ht">Nòdwès</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ht;Department"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ht;"/>
    </owl:NamedIndividual>
@@ -137,8 +137,8 @@
       <rdfs:label>Nòdès</rdfs:label>
       <skos:definition>The department of Nòdès in the country of Haiti</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Haiti"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ht">Nòdès</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Nord-Est</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ht">Nòdès</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Nord-Est</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ht;Department"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ht;"/>
    </owl:NamedIndividual>
@@ -168,8 +168,8 @@
       <rdfs:label>Lwès</rdfs:label>
       <skos:definition>The department of Lwès in the country of Haiti</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Haiti"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ht">Lwès</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Ouest</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ht">Lwès</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Ouest</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ht;Department"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ht;"/>
    </owl:NamedIndividual>
@@ -199,8 +199,8 @@
       <rdfs:label>Grandans</rdfs:label>
       <skos:definition>The department of Grandans in the country of Haiti</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Haiti"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ht">Grandans</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Grande’Anse</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ht">Grandans</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Grande’Anse</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ht;Department"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ht;"/>
    </owl:NamedIndividual>
@@ -230,8 +230,8 @@
       <rdfs:label>Nò</rdfs:label>
       <skos:definition>The department of Nò in the country of Haiti</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Haiti"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ht">Nò</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Nord</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ht">Nò</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Nord</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ht;Department"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ht;"/>
    </owl:NamedIndividual>
@@ -261,8 +261,8 @@
       <rdfs:label>Sid</rdfs:label>
       <skos:definition>The department of Sid in the country of Haiti</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Haiti"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ht">Sid</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Sud</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ht">Sid</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Sud</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ht;Department"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ht;"/>
    </owl:NamedIndividual>
@@ -292,8 +292,8 @@
       <rdfs:label>Sud-Est</rdfs:label>
       <skos:definition>The department of Sud-Est in the country of Haiti</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Haiti"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Sud-Est</lcc-cr:hasFrenchShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ht">Sidès</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Sud-Est</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ht">Sidès</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ht;Department"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ht;"/>
    </owl:NamedIndividual>
@@ -323,8 +323,8 @@
       <rdfs:label>Nip</rdfs:label>
       <skos:definition>The department of Nip in the country of Haiti</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Haiti"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ht">Nip</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Nippes</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ht">Nip</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Nippes</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ht;Department"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ht;"/>
    </owl:NamedIndividual>
@@ -354,8 +354,8 @@
       <rdfs:label>Artibonite</rdfs:label>
       <skos:definition>The department of Artibonite in the country of Haiti</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Haiti"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Artibonite</lcc-cr:hasFrenchShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ht">Latibonit</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Artibonite</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ht">Latibonit</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ht;Department"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ht;"/>
    </owl:NamedIndividual>
@@ -385,8 +385,8 @@
       <rdfs:label>Sant</rdfs:label>
       <skos:definition>The department of Sant in the country of Haiti</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Haiti"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ht">Sant</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Centre</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ht">Sant</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Centre</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ht;Department"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ht;"/>
    </owl:NamedIndividual>

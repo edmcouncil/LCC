@@ -120,7 +120,7 @@
       <rdfs:label>Western</rdfs:label>
       <skos:definition>The geographical region of Western in the country of Uganda</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Uganda"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Western</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Western</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ug;GeographicalRegion"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ug;"/>
    </owl:NamedIndividual>
@@ -148,7 +148,7 @@
       <rdfs:label>Kabale</rdfs:label>
       <skos:definition>The district of Kabale in the country of Uganda</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ug;Western"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Kabale</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Kabale</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ug;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ug;"/>
    </owl:NamedIndividual>
@@ -178,7 +178,7 @@
       <rdfs:label>Kagadi</rdfs:label>
       <skos:definition>The district of Kagadi in the country of Uganda</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ug;Western"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Kagadi</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Kagadi</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ug;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ug;"/>
    </owl:NamedIndividual>
@@ -208,7 +208,7 @@
       <rdfs:label>Kakumiro</rdfs:label>
       <skos:definition>The district of Kakumiro in the country of Uganda</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ug;Western"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Kakumiro</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Kakumiro</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ug;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ug;"/>
    </owl:NamedIndividual>
@@ -238,7 +238,7 @@
       <rdfs:label>Rubanda</rdfs:label>
       <skos:definition>The district of Rubanda in the country of Uganda</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ug;Western"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Rubanda</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Rubanda</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ug;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ug;"/>
    </owl:NamedIndividual>
@@ -268,7 +268,7 @@
       <rdfs:label>Bunyangabu</rdfs:label>
       <skos:definition>The district of Bunyangabu in the country of Uganda</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ug;Western"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Bunyangabu</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Bunyangabu</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ug;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ug;"/>
    </owl:NamedIndividual>
@@ -298,7 +298,7 @@
       <rdfs:label>Rukiga</rdfs:label>
       <skos:definition>The district of Rukiga in the country of Uganda</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ug;Western"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Rukiga</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Rukiga</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ug;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ug;"/>
    </owl:NamedIndividual>
@@ -328,7 +328,7 @@
       <rdfs:label>Buhweju</rdfs:label>
       <skos:definition>The district of Buhweju in the country of Uganda</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ug;Western"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Buhweju</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Buhweju</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ug;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ug;"/>
    </owl:NamedIndividual>
@@ -358,7 +358,7 @@
       <rdfs:label>Kikuube</rdfs:label>
       <skos:definition>The district of Kikuube in the country of Uganda</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ug;Western"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Kikuube</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Kikuube</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ug;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ug;"/>
    </owl:NamedIndividual>
@@ -388,7 +388,7 @@
       <rdfs:label>Kiryandongo</rdfs:label>
       <skos:definition>The district of Kiryandongo in the country of Uganda</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ug;Western"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Kiryandongo</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Kiryandongo</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ug;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ug;"/>
    </owl:NamedIndividual>
@@ -418,7 +418,7 @@
       <rdfs:label>Kyegegwa</rdfs:label>
       <skos:definition>The district of Kyegegwa in the country of Uganda</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ug;Western"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Kyegegwa</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Kyegegwa</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ug;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ug;"/>
    </owl:NamedIndividual>
@@ -448,7 +448,7 @@
       <rdfs:label>Mitooma</rdfs:label>
       <skos:definition>The district of Mitooma in the country of Uganda</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ug;Western"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Mitooma</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Mitooma</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ug;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ug;"/>
    </owl:NamedIndividual>
@@ -478,7 +478,7 @@
       <rdfs:label>Ntoroko</rdfs:label>
       <skos:definition>The district of Ntoroko in the country of Uganda</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ug;Western"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Ntoroko</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Ntoroko</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ug;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ug;"/>
    </owl:NamedIndividual>
@@ -508,7 +508,7 @@
       <rdfs:label>Rubirizi</rdfs:label>
       <skos:definition>The district of Rubirizi in the country of Uganda</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ug;Western"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Rubirizi</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Rubirizi</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ug;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ug;"/>
    </owl:NamedIndividual>
@@ -538,7 +538,7 @@
       <rdfs:label>Sheema</rdfs:label>
       <skos:definition>The district of Sheema in the country of Uganda</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ug;Western"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Sheema</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Sheema</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ug;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ug;"/>
    </owl:NamedIndividual>
@@ -568,7 +568,7 @@
       <rdfs:label>Bundibugyo</rdfs:label>
       <skos:definition>The district of Bundibugyo in the country of Uganda</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ug;Western"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Bundibugyo</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Bundibugyo</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ug;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ug;"/>
    </owl:NamedIndividual>
@@ -598,7 +598,7 @@
       <rdfs:label>Hoima</rdfs:label>
       <skos:definition>The district of Hoima in the country of Uganda</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ug;Western"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Hoima</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Hoima</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ug;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ug;"/>
    </owl:NamedIndividual>
@@ -628,7 +628,7 @@
       <rdfs:label>Kyenjojo</rdfs:label>
       <skos:definition>The district of Kyenjojo in the country of Uganda</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ug;Western"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Kyenjojo</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Kyenjojo</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ug;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ug;"/>
    </owl:NamedIndividual>
@@ -658,7 +658,7 @@
       <rdfs:label>Kiruhura</rdfs:label>
       <skos:definition>The district of Kiruhura in the country of Uganda</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ug;Western"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Kiruhura</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Kiruhura</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ug;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ug;"/>
    </owl:NamedIndividual>
@@ -688,7 +688,7 @@
       <rdfs:label>Ntungamo</rdfs:label>
       <skos:definition>The district of Ntungamo in the country of Uganda</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ug;Western"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Ntungamo</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Ntungamo</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ug;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ug;"/>
    </owl:NamedIndividual>
@@ -718,7 +718,7 @@
       <rdfs:label>Kamwenge</rdfs:label>
       <skos:definition>The district of Kamwenge in the country of Uganda</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ug;Western"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Kamwenge</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Kamwenge</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ug;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ug;"/>
    </owl:NamedIndividual>
@@ -748,7 +748,7 @@
       <rdfs:label>Buliisa</rdfs:label>
       <skos:definition>The district of Buliisa in the country of Uganda</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ug;Western"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Buliisa</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Buliisa</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ug;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ug;"/>
    </owl:NamedIndividual>
@@ -778,7 +778,7 @@
       <rdfs:label>Kanungu</rdfs:label>
       <skos:definition>The district of Kanungu in the country of Uganda</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ug;Western"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Kanungu</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Kanungu</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ug;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ug;"/>
    </owl:NamedIndividual>
@@ -808,7 +808,7 @@
       <rdfs:label>Ibanda</rdfs:label>
       <skos:definition>The district of Ibanda in the country of Uganda</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ug;Western"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Ibanda</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Ibanda</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ug;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ug;"/>
    </owl:NamedIndividual>
@@ -838,7 +838,7 @@
       <rdfs:label>Isingiro</rdfs:label>
       <skos:definition>The district of Isingiro in the country of Uganda</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ug;Western"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Isingiro</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Isingiro</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ug;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ug;"/>
    </owl:NamedIndividual>
@@ -868,7 +868,7 @@
       <rdfs:label>Kabarole</rdfs:label>
       <skos:definition>The district of Kabarole in the country of Uganda</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ug;Western"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Kabarole</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Kabarole</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ug;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ug;"/>
    </owl:NamedIndividual>
@@ -898,7 +898,7 @@
       <rdfs:label>Kibaale</rdfs:label>
       <skos:definition>The district of Kibaale in the country of Uganda</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ug;Western"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Kibaale</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Kibaale</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ug;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ug;"/>
    </owl:NamedIndividual>
@@ -928,7 +928,7 @@
       <rdfs:label>Masindi</rdfs:label>
       <skos:definition>The district of Masindi in the country of Uganda</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ug;Western"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Masindi</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Masindi</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ug;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ug;"/>
    </owl:NamedIndividual>
@@ -958,7 +958,7 @@
       <rdfs:label>Rukungiri</rdfs:label>
       <skos:definition>The district of Rukungiri in the country of Uganda</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ug;Western"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Rukungiri</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Rukungiri</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ug;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ug;"/>
    </owl:NamedIndividual>
@@ -988,7 +988,7 @@
       <rdfs:label>Bushenyi</rdfs:label>
       <skos:definition>The district of Bushenyi in the country of Uganda</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ug;Western"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Bushenyi</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Bushenyi</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ug;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ug;"/>
    </owl:NamedIndividual>
@@ -1018,7 +1018,7 @@
       <rdfs:label>Kasese</rdfs:label>
       <skos:definition>The district of Kasese in the country of Uganda</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ug;Western"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Kasese</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Kasese</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ug;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ug;"/>
    </owl:NamedIndividual>
@@ -1048,7 +1048,7 @@
       <rdfs:label>Kisoro</rdfs:label>
       <skos:definition>The district of Kisoro in the country of Uganda</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ug;Western"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Kisoro</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Kisoro</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ug;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ug;"/>
    </owl:NamedIndividual>
@@ -1078,7 +1078,7 @@
       <rdfs:label>Mbarara</rdfs:label>
       <skos:definition>The district of Mbarara in the country of Uganda</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ug;Western"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Mbarara</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Mbarara</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ug;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ug;"/>
    </owl:NamedIndividual>
@@ -1110,7 +1110,7 @@
       <rdfs:label>Central</rdfs:label>
       <skos:definition>The geographical region of Central in the country of Uganda</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Uganda"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Central</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Central</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ug;GeographicalRegion"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ug;"/>
    </owl:NamedIndividual>
@@ -1138,7 +1138,7 @@
       <rdfs:label>Mpigi</rdfs:label>
       <skos:definition>The district of Mpigi in the country of Uganda</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ug;Central"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Mpigi</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Mpigi</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ug;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ug;"/>
    </owl:NamedIndividual>
@@ -1168,7 +1168,7 @@
       <rdfs:label>Kalungu</rdfs:label>
       <skos:definition>The district of Kalungu in the country of Uganda</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ug;Central"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Kalungu</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Kalungu</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ug;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ug;"/>
    </owl:NamedIndividual>
@@ -1198,7 +1198,7 @@
       <rdfs:label>Kyotera</rdfs:label>
       <skos:definition>The district of Kyotera in the country of Uganda</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ug;Central"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Kyotera</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Kyotera</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ug;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ug;"/>
    </owl:NamedIndividual>
@@ -1228,7 +1228,7 @@
       <rdfs:label>Kyankwanzi</rdfs:label>
       <skos:definition>The district of Kyankwanzi in the country of Uganda</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ug;Central"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Kyankwanzi</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Kyankwanzi</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ug;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ug;"/>
    </owl:NamedIndividual>
@@ -1258,7 +1258,7 @@
       <rdfs:label>Lwengo</rdfs:label>
       <skos:definition>The district of Lwengo in the country of Uganda</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ug;Central"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Lwengo</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Lwengo</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ug;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ug;"/>
    </owl:NamedIndividual>
@@ -1288,7 +1288,7 @@
       <rdfs:label>Kasanda</rdfs:label>
       <skos:definition>The district of Kasanda in the country of Uganda</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ug;Central"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Kasanda</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Kasanda</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ug;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ug;"/>
    </owl:NamedIndividual>
@@ -1318,7 +1318,7 @@
       <rdfs:label>Luwero</rdfs:label>
       <skos:definition>The district of Luwero in the country of Uganda</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ug;Central"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Luwero</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Luwero</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ug;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ug;"/>
    </owl:NamedIndividual>
@@ -1348,7 +1348,7 @@
       <rdfs:label>Mubende</rdfs:label>
       <skos:definition>The district of Mubende in the country of Uganda</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ug;Central"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Mubende</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Mubende</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ug;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ug;"/>
    </owl:NamedIndividual>
@@ -1378,7 +1378,7 @@
       <rdfs:label>Kampala</rdfs:label>
       <skos:definition>The city of Kampala in the country of Uganda</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ug;Central"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Kampala</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Kampala</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ug;City"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ug;"/>
    </owl:NamedIndividual>
@@ -1408,7 +1408,7 @@
       <rdfs:label>Nakasongola</rdfs:label>
       <skos:definition>The district of Nakasongola in the country of Uganda</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ug;Central"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Nakasongola</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Nakasongola</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ug;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ug;"/>
    </owl:NamedIndividual>
@@ -1438,7 +1438,7 @@
       <rdfs:label>Rakai</rdfs:label>
       <skos:definition>The district of Rakai in the country of Uganda</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ug;Central"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Rakai</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Rakai</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ug;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ug;"/>
    </owl:NamedIndividual>
@@ -1468,7 +1468,7 @@
       <rdfs:label>Kayunga</rdfs:label>
       <skos:definition>The district of Kayunga in the country of Uganda</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ug;Central"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Kayunga</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Kayunga</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ug;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ug;"/>
    </owl:NamedIndividual>
@@ -1498,7 +1498,7 @@
       <rdfs:label>Wakiso</rdfs:label>
       <skos:definition>The district of Wakiso in the country of Uganda</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ug;Central"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Wakiso</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Wakiso</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ug;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ug;"/>
    </owl:NamedIndividual>
@@ -1528,7 +1528,7 @@
       <rdfs:label>Masaka</rdfs:label>
       <skos:definition>The district of Masaka in the country of Uganda</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ug;Central"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Masaka</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Masaka</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ug;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ug;"/>
    </owl:NamedIndividual>
@@ -1558,7 +1558,7 @@
       <rdfs:label>Mityana</rdfs:label>
       <skos:definition>The district of Mityana in the country of Uganda</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ug;Central"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Mityana</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Mityana</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ug;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ug;"/>
    </owl:NamedIndividual>
@@ -1588,7 +1588,7 @@
       <rdfs:label>Mukono</rdfs:label>
       <skos:definition>The district of Mukono in the country of Uganda</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ug;Central"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Mukono</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Mukono</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ug;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ug;"/>
    </owl:NamedIndividual>
@@ -1618,7 +1618,7 @@
       <rdfs:label>Sembabule</rdfs:label>
       <skos:definition>The district of Sembabule in the country of Uganda</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ug;Central"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Sembabule</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Sembabule</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ug;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ug;"/>
    </owl:NamedIndividual>
@@ -1648,7 +1648,7 @@
       <rdfs:label>Lyantonde</rdfs:label>
       <skos:definition>The district of Lyantonde in the country of Uganda</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ug;Central"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Lyantonde</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Lyantonde</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ug;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ug;"/>
    </owl:NamedIndividual>
@@ -1678,7 +1678,7 @@
       <rdfs:label>Kiboga</rdfs:label>
       <skos:definition>The district of Kiboga in the country of Uganda</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ug;Central"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Kiboga</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Kiboga</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ug;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ug;"/>
    </owl:NamedIndividual>
@@ -1708,7 +1708,7 @@
       <rdfs:label>Nakaseke</rdfs:label>
       <skos:definition>The district of Nakaseke in the country of Uganda</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ug;Central"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Nakaseke</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Nakaseke</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ug;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ug;"/>
    </owl:NamedIndividual>
@@ -1738,7 +1738,7 @@
       <rdfs:label>Buikwe</rdfs:label>
       <skos:definition>The district of Buikwe in the country of Uganda</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ug;Central"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Buikwe</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Buikwe</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ug;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ug;"/>
    </owl:NamedIndividual>
@@ -1768,7 +1768,7 @@
       <rdfs:label>Bukomansibi</rdfs:label>
       <skos:definition>The district of Bukomansibi in the country of Uganda</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ug;Central"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Bukomansibi</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Bukomansibi</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ug;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ug;"/>
    </owl:NamedIndividual>
@@ -1798,7 +1798,7 @@
       <rdfs:label>Butambala</rdfs:label>
       <skos:definition>The district of Butambala in the country of Uganda</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ug;Central"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Butambala</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Butambala</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ug;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ug;"/>
    </owl:NamedIndividual>
@@ -1828,7 +1828,7 @@
       <rdfs:label>Buvuma</rdfs:label>
       <skos:definition>The district of Buvuma in the country of Uganda</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ug;Central"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Buvuma</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Buvuma</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ug;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ug;"/>
    </owl:NamedIndividual>
@@ -1858,7 +1858,7 @@
       <rdfs:label>Gomba</rdfs:label>
       <skos:definition>The district of Gomba in the country of Uganda</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ug;Central"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Gomba</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Gomba</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ug;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ug;"/>
    </owl:NamedIndividual>
@@ -1888,7 +1888,7 @@
       <rdfs:label>Kalangala</rdfs:label>
       <skos:definition>The district of Kalangala in the country of Uganda</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ug;Central"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Kalangala</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Kalangala</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ug;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ug;"/>
    </owl:NamedIndividual>
@@ -1920,7 +1920,7 @@
       <rdfs:label>Eastern</rdfs:label>
       <skos:definition>The geographical region of Eastern in the country of Uganda</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Uganda"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Eastern</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Eastern</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ug;GeographicalRegion"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ug;"/>
    </owl:NamedIndividual>
@@ -1948,7 +1948,7 @@
       <rdfs:label>Jinja</rdfs:label>
       <skos:definition>The district of Jinja in the country of Uganda</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ug;Eastern"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Jinja</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Jinja</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ug;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ug;"/>
    </owl:NamedIndividual>
@@ -1978,7 +1978,7 @@
       <rdfs:label>Mbale</rdfs:label>
       <skos:definition>The district of Mbale in the country of Uganda</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ug;Eastern"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Mbale</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Mbale</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ug;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ug;"/>
    </owl:NamedIndividual>
@@ -2008,7 +2008,7 @@
       <rdfs:label>Tororo</rdfs:label>
       <skos:definition>The district of Tororo in the country of Uganda</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ug;Eastern"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Tororo</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Tororo</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ug;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ug;"/>
    </owl:NamedIndividual>
@@ -2038,7 +2038,7 @@
       <rdfs:label>Butebo</rdfs:label>
       <skos:definition>The district of Butebo in the country of Uganda</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ug;Eastern"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Butebo</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Butebo</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ug;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ug;"/>
    </owl:NamedIndividual>
@@ -2068,7 +2068,7 @@
       <rdfs:label>Namisindwa</rdfs:label>
       <skos:definition>The district of Namisindwa in the country of Uganda</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ug;Eastern"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Namisindwa</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Namisindwa</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ug;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ug;"/>
    </owl:NamedIndividual>
@@ -2098,7 +2098,7 @@
       <rdfs:label>Manafwa</rdfs:label>
       <skos:definition>The district of Manafwa in the country of Uganda</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ug;Eastern"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Manafwa</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Manafwa</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ug;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ug;"/>
    </owl:NamedIndividual>
@@ -2128,7 +2128,7 @@
       <rdfs:label>Namutumba</rdfs:label>
       <skos:definition>The district of Namutumba in the country of Uganda</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ug;Eastern"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Namutumba</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Namutumba</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ug;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ug;"/>
    </owl:NamedIndividual>
@@ -2158,7 +2158,7 @@
       <rdfs:label>Bulambuli</rdfs:label>
       <skos:definition>The district of Bulambuli in the country of Uganda</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ug;Eastern"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Bulambuli</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Bulambuli</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ug;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ug;"/>
    </owl:NamedIndividual>
@@ -2188,7 +2188,7 @@
       <rdfs:label>Buyende</rdfs:label>
       <skos:definition>The district of Buyende in the country of Uganda</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ug;Eastern"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Buyende</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Buyende</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ug;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ug;"/>
    </owl:NamedIndividual>
@@ -2218,7 +2218,7 @@
       <rdfs:label>Kibuku</rdfs:label>
       <skos:definition>The district of Kibuku in the country of Uganda</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ug;Eastern"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Kibuku</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Kibuku</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ug;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ug;"/>
    </owl:NamedIndividual>
@@ -2248,7 +2248,7 @@
       <rdfs:label>Kween</rdfs:label>
       <skos:definition>The district of Kween in the country of Uganda</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ug;Eastern"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Kween</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Kween</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ug;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ug;"/>
    </owl:NamedIndividual>
@@ -2278,7 +2278,7 @@
       <rdfs:label>Luuka</rdfs:label>
       <skos:definition>The district of Luuka in the country of Uganda</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ug;Eastern"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Luuka</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Luuka</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ug;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ug;"/>
    </owl:NamedIndividual>
@@ -2308,7 +2308,7 @@
       <rdfs:label>Namayingo</rdfs:label>
       <skos:definition>The district of Namayingo in the country of Uganda</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ug;Eastern"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Namayingo</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Namayingo</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ug;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ug;"/>
    </owl:NamedIndividual>
@@ -2338,7 +2338,7 @@
       <rdfs:label>Ngora</rdfs:label>
       <skos:definition>The district of Ngora in the country of Uganda</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ug;Eastern"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Ngora</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Ngora</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ug;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ug;"/>
    </owl:NamedIndividual>
@@ -2368,7 +2368,7 @@
       <rdfs:label>Serere</rdfs:label>
       <skos:definition>The district of Serere in the country of Uganda</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ug;Eastern"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Serere</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Serere</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ug;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ug;"/>
    </owl:NamedIndividual>
@@ -2398,7 +2398,7 @@
       <rdfs:label>Bugweri</rdfs:label>
       <skos:definition>The district of Bugweri in the country of Uganda</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ug;Eastern"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Bugweri</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Bugweri</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ug;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ug;"/>
    </owl:NamedIndividual>
@@ -2428,7 +2428,7 @@
       <rdfs:label>Kapelebyong</rdfs:label>
       <skos:definition>The district of Kapelebyong in the country of Uganda</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ug;Eastern"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Kapelebyong</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Kapelebyong</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ug;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ug;"/>
    </owl:NamedIndividual>
@@ -2458,7 +2458,7 @@
       <rdfs:label>Pallisa</rdfs:label>
       <skos:definition>The district of Pallisa in the country of Uganda</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ug;Eastern"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Pallisa</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Pallisa</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ug;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ug;"/>
    </owl:NamedIndividual>
@@ -2488,7 +2488,7 @@
       <rdfs:label>Busia</rdfs:label>
       <skos:definition>The district of Busia in the country of Uganda</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ug;Eastern"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Busia</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Busia</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ug;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ug;"/>
    </owl:NamedIndividual>
@@ -2518,7 +2518,7 @@
       <rdfs:label>Katakwi</rdfs:label>
       <skos:definition>The district of Katakwi in the country of Uganda</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ug;Eastern"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Katakwi</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Katakwi</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ug;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ug;"/>
    </owl:NamedIndividual>
@@ -2548,7 +2548,7 @@
       <rdfs:label>Kamuli</rdfs:label>
       <skos:definition>The district of Kamuli in the country of Uganda</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ug;Eastern"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Kamuli</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Kamuli</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ug;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ug;"/>
    </owl:NamedIndividual>
@@ -2578,7 +2578,7 @@
       <rdfs:label>Kumi</rdfs:label>
       <skos:definition>The district of Kumi in the country of Uganda</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ug;Eastern"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Kumi</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Kumi</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ug;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ug;"/>
    </owl:NamedIndividual>
@@ -2608,7 +2608,7 @@
       <rdfs:label>Kaliro</rdfs:label>
       <skos:definition>The district of Kaliro in the country of Uganda</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ug;Eastern"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Kaliro</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Kaliro</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ug;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ug;"/>
    </owl:NamedIndividual>
@@ -2638,7 +2638,7 @@
       <rdfs:label>Iganga</rdfs:label>
       <skos:definition>The district of Iganga in the country of Uganda</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ug;Eastern"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Iganga</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Iganga</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ug;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ug;"/>
    </owl:NamedIndividual>
@@ -2668,7 +2668,7 @@
       <rdfs:label>Kapchorwa</rdfs:label>
       <skos:definition>The district of Kapchorwa in the country of Uganda</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ug;Eastern"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Kapchorwa</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Kapchorwa</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ug;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ug;"/>
    </owl:NamedIndividual>
@@ -2698,7 +2698,7 @@
       <rdfs:label>Kaberamaido</rdfs:label>
       <skos:definition>The district of Kaberamaido in the country of Uganda</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ug;Eastern"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Kaberamaido</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Kaberamaido</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ug;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ug;"/>
    </owl:NamedIndividual>
@@ -2728,7 +2728,7 @@
       <rdfs:label>Mayuge</rdfs:label>
       <skos:definition>The district of Mayuge in the country of Uganda</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ug;Eastern"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Mayuge</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Mayuge</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ug;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ug;"/>
    </owl:NamedIndividual>
@@ -2758,7 +2758,7 @@
       <rdfs:label>Sironko</rdfs:label>
       <skos:definition>The district of Sironko in the country of Uganda</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ug;Eastern"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Sironko</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Sironko</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ug;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ug;"/>
    </owl:NamedIndividual>
@@ -2788,7 +2788,7 @@
       <rdfs:label>Bududa</rdfs:label>
       <skos:definition>The district of Bududa in the country of Uganda</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ug;Eastern"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Bududa</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Bududa</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ug;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ug;"/>
    </owl:NamedIndividual>
@@ -2818,7 +2818,7 @@
       <rdfs:label>Bukedea</rdfs:label>
       <skos:definition>The district of Bukedea in the country of Uganda</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ug;Eastern"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Bukedea</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Bukedea</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ug;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ug;"/>
    </owl:NamedIndividual>
@@ -2848,7 +2848,7 @@
       <rdfs:label>Butaleja</rdfs:label>
       <skos:definition>The district of Butaleja in the country of Uganda</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ug;Eastern"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Butaleja</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Butaleja</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ug;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ug;"/>
    </owl:NamedIndividual>
@@ -2878,7 +2878,7 @@
       <rdfs:label>Amuria</rdfs:label>
       <skos:definition>The district of Amuria in the country of Uganda</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ug;Eastern"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Amuria</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Amuria</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ug;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ug;"/>
    </owl:NamedIndividual>
@@ -2908,7 +2908,7 @@
       <rdfs:label>Bukwa</rdfs:label>
       <skos:definition>The district of Bukwa in the country of Uganda</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ug;Eastern"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Bukwa</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Bukwa</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ug;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ug;"/>
    </owl:NamedIndividual>
@@ -2938,7 +2938,7 @@
       <rdfs:label>Bugiri</rdfs:label>
       <skos:definition>The district of Bugiri in the country of Uganda</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ug;Eastern"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Bugiri</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Bugiri</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ug;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ug;"/>
    </owl:NamedIndividual>
@@ -2968,7 +2968,7 @@
       <rdfs:label>Soroti</rdfs:label>
       <skos:definition>The district of Soroti in the country of Uganda</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ug;Eastern"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Soroti</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Soroti</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ug;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ug;"/>
    </owl:NamedIndividual>
@@ -2998,7 +2998,7 @@
       <rdfs:label>Budaka</rdfs:label>
       <skos:definition>The district of Budaka in the country of Uganda</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ug;Eastern"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Budaka</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Budaka</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ug;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ug;"/>
    </owl:NamedIndividual>
@@ -3030,7 +3030,7 @@
       <rdfs:label>Northern</rdfs:label>
       <skos:definition>The geographical region of Northern in the country of Uganda</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Uganda"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Northern</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Northern</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ug;GeographicalRegion"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ug;"/>
    </owl:NamedIndividual>
@@ -3058,7 +3058,7 @@
       <rdfs:label>Gulu</rdfs:label>
       <skos:definition>The district of Gulu in the country of Uganda</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ug;Northern"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Gulu</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Gulu</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ug;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ug;"/>
    </owl:NamedIndividual>
@@ -3088,7 +3088,7 @@
       <rdfs:label>Pader</rdfs:label>
       <skos:definition>The district of Pader in the country of Uganda</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ug;Northern"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Pader</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Pader</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ug;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ug;"/>
    </owl:NamedIndividual>
@@ -3118,7 +3118,7 @@
       <rdfs:label>Koboko</rdfs:label>
       <skos:definition>The district of Koboko in the country of Uganda</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ug;Northern"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Koboko</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Koboko</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ug;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ug;"/>
    </owl:NamedIndividual>
@@ -3148,7 +3148,7 @@
       <rdfs:label>Pakwach</rdfs:label>
       <skos:definition>The district of Pakwach in the country of Uganda</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ug;Northern"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Pakwach</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Pakwach</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ug;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ug;"/>
    </owl:NamedIndividual>
@@ -3178,7 +3178,7 @@
       <rdfs:label>Agago</rdfs:label>
       <skos:definition>The district of Agago in the country of Uganda</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ug;Northern"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Agago</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Agago</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ug;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ug;"/>
    </owl:NamedIndividual>
@@ -3208,7 +3208,7 @@
       <rdfs:label>Alebtong</rdfs:label>
       <skos:definition>The district of Alebtong in the country of Uganda</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ug;Northern"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Alebtong</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Alebtong</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ug;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ug;"/>
    </owl:NamedIndividual>
@@ -3238,7 +3238,7 @@
       <rdfs:label>Amudat</rdfs:label>
       <skos:definition>The district of Amudat in the country of Uganda</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ug;Northern"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Amudat</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Amudat</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ug;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ug;"/>
    </owl:NamedIndividual>
@@ -3268,7 +3268,7 @@
       <rdfs:label>Kole</rdfs:label>
       <skos:definition>The district of Kole in the country of Uganda</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ug;Northern"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Kole</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Kole</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ug;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ug;"/>
    </owl:NamedIndividual>
@@ -3298,7 +3298,7 @@
       <rdfs:label>Lamwo</rdfs:label>
       <skos:definition>The district of Lamwo in the country of Uganda</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ug;Northern"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Lamwo</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Lamwo</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ug;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ug;"/>
    </owl:NamedIndividual>
@@ -3328,7 +3328,7 @@
       <rdfs:label>Napak</rdfs:label>
       <skos:definition>The district of Napak in the country of Uganda</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ug;Northern"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Napak</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Napak</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ug;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ug;"/>
    </owl:NamedIndividual>
@@ -3358,7 +3358,7 @@
       <rdfs:label>Nwoya</rdfs:label>
       <skos:definition>The district of Nwoya in the country of Uganda</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ug;Northern"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Nwoya</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Nwoya</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ug;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ug;"/>
    </owl:NamedIndividual>
@@ -3388,7 +3388,7 @@
       <rdfs:label>Otuke</rdfs:label>
       <skos:definition>The district of Otuke in the country of Uganda</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ug;Northern"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Otuke</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Otuke</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ug;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ug;"/>
    </owl:NamedIndividual>
@@ -3418,7 +3418,7 @@
       <rdfs:label>Zombo</rdfs:label>
       <skos:definition>The district of Zombo in the country of Uganda</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ug;Northern"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Zombo</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Zombo</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ug;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ug;"/>
    </owl:NamedIndividual>
@@ -3448,7 +3448,7 @@
       <rdfs:label>Kwania</rdfs:label>
       <skos:definition>The district of Kwania in the country of Uganda</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ug;Northern"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Kwania</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Kwania</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ug;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ug;"/>
    </owl:NamedIndividual>
@@ -3478,7 +3478,7 @@
       <rdfs:label>Nabilatuk</rdfs:label>
       <skos:definition>The district of Nabilatuk in the country of Uganda</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ug;Northern"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Nabilatuk</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Nabilatuk</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ug;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ug;"/>
    </owl:NamedIndividual>
@@ -3508,7 +3508,7 @@
       <rdfs:label>Kotido</rdfs:label>
       <skos:definition>The district of Kotido in the country of Uganda</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ug;Northern"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Kotido</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Kotido</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ug;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ug;"/>
    </owl:NamedIndividual>
@@ -3538,7 +3538,7 @@
       <rdfs:label>Moyo</rdfs:label>
       <skos:definition>The district of Moyo in the country of Uganda</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ug;Northern"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Moyo</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Moyo</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ug;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ug;"/>
    </owl:NamedIndividual>
@@ -3568,7 +3568,7 @@
       <rdfs:label>Nebbi</rdfs:label>
       <skos:definition>The district of Nebbi in the country of Uganda</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ug;Northern"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Nebbi</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Nebbi</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ug;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ug;"/>
    </owl:NamedIndividual>
@@ -3598,7 +3598,7 @@
       <rdfs:label>Yumbe</rdfs:label>
       <skos:definition>The district of Yumbe in the country of Uganda</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ug;Northern"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Yumbe</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Yumbe</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ug;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ug;"/>
    </owl:NamedIndividual>
@@ -3628,7 +3628,7 @@
       <rdfs:label>Kaabong</rdfs:label>
       <skos:definition>The district of Kaabong in the country of Uganda</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ug;Northern"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Kaabong</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Kaabong</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ug;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ug;"/>
    </owl:NamedIndividual>
@@ -3658,7 +3658,7 @@
       <rdfs:label>Omoro</rdfs:label>
       <skos:definition>The district of Omoro in the country of Uganda</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ug;Northern"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Omoro</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Omoro</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ug;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ug;"/>
    </owl:NamedIndividual>
@@ -3688,7 +3688,7 @@
       <rdfs:label>Adjumani</rdfs:label>
       <skos:definition>The district of Adjumani in the country of Uganda</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ug;Northern"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Adjumani</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Adjumani</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ug;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ug;"/>
    </owl:NamedIndividual>
@@ -3718,7 +3718,7 @@
       <rdfs:label>Moroto</rdfs:label>
       <skos:definition>The district of Moroto in the country of Uganda</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ug;Northern"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Moroto</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Moroto</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ug;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ug;"/>
    </owl:NamedIndividual>
@@ -3748,7 +3748,7 @@
       <rdfs:label>Abim</rdfs:label>
       <skos:definition>The district of Abim in the country of Uganda</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ug;Northern"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Abim</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Abim</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ug;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ug;"/>
    </owl:NamedIndividual>
@@ -3778,7 +3778,7 @@
       <rdfs:label>Amolatar</rdfs:label>
       <skos:definition>The district of Amolatar in the country of Uganda</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ug;Northern"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Amolatar</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Amolatar</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ug;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ug;"/>
    </owl:NamedIndividual>
@@ -3808,7 +3808,7 @@
       <rdfs:label>Dokolo</rdfs:label>
       <skos:definition>The district of Dokolo in the country of Uganda</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ug;Northern"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Dokolo</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Dokolo</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ug;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ug;"/>
    </owl:NamedIndividual>
@@ -3838,7 +3838,7 @@
       <rdfs:label>Amuru</rdfs:label>
       <skos:definition>The district of Amuru in the country of Uganda</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ug;Northern"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Amuru</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Amuru</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ug;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ug;"/>
    </owl:NamedIndividual>
@@ -3868,7 +3868,7 @@
       <rdfs:label>Maracha</rdfs:label>
       <skos:definition>The district of Maracha in the country of Uganda</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ug;Northern"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Maracha</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Maracha</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ug;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ug;"/>
    </owl:NamedIndividual>
@@ -3898,7 +3898,7 @@
       <rdfs:label>Kitgum</rdfs:label>
       <skos:definition>The district of Kitgum in the country of Uganda</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ug;Northern"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Kitgum</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Kitgum</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ug;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ug;"/>
    </owl:NamedIndividual>
@@ -3928,7 +3928,7 @@
       <rdfs:label>Lira</rdfs:label>
       <skos:definition>The district of Lira in the country of Uganda</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ug;Northern"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Lira</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Lira</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ug;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ug;"/>
    </owl:NamedIndividual>
@@ -3958,7 +3958,7 @@
       <rdfs:label>Oyam</rdfs:label>
       <skos:definition>The district of Oyam in the country of Uganda</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ug;Northern"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Oyam</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Oyam</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ug;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ug;"/>
    </owl:NamedIndividual>
@@ -3988,7 +3988,7 @@
       <rdfs:label>Apac</rdfs:label>
       <skos:definition>The district of Apac in the country of Uganda</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ug;Northern"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Apac</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Apac</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ug;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ug;"/>
    </owl:NamedIndividual>
@@ -4018,7 +4018,7 @@
       <rdfs:label>Arua</rdfs:label>
       <skos:definition>The district of Arua in the country of Uganda</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ug;Northern"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Arua</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Arua</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ug;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ug;"/>
    </owl:NamedIndividual>
@@ -4048,7 +4048,7 @@
       <rdfs:label>Nakapiripirit</rdfs:label>
       <skos:definition>The district of Nakapiripirit in the country of Uganda</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-ug;Northern"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Nakapiripirit</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Nakapiripirit</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ug;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ug;"/>
    </owl:NamedIndividual>

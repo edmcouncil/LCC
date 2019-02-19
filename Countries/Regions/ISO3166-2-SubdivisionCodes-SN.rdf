@@ -106,7 +106,7 @@
       <rdfs:label>Thiès</rdfs:label>
       <skos:definition>The region of Thiès in the country of Senegal</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Senegal"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Thiès</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Thiès</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-sn;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-sn;"/>
    </owl:NamedIndividual>
@@ -136,7 +136,7 @@
       <rdfs:label>Sédhiou</rdfs:label>
       <skos:definition>The region of Sédhiou in the country of Senegal</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Senegal"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Sédhiou</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Sédhiou</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-sn;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-sn;"/>
    </owl:NamedIndividual>
@@ -166,7 +166,7 @@
       <rdfs:label>Dakar</rdfs:label>
       <skos:definition>The region of Dakar in the country of Senegal</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Senegal"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Dakar</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Dakar</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-sn;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-sn;"/>
    </owl:NamedIndividual>
@@ -196,7 +196,7 @@
       <rdfs:label>Kolda</rdfs:label>
       <skos:definition>The region of Kolda in the country of Senegal</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Senegal"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Kolda</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Kolda</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-sn;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-sn;"/>
    </owl:NamedIndividual>
@@ -226,7 +226,7 @@
       <rdfs:label>Saint-Louis</rdfs:label>
       <skos:definition>The region of Saint-Louis in the country of Senegal</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Senegal"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Saint-Louis</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Saint-Louis</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-sn;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-sn;"/>
    </owl:NamedIndividual>
@@ -256,7 +256,7 @@
       <rdfs:label>Fatick</rdfs:label>
       <skos:definition>The region of Fatick in the country of Senegal</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Senegal"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Fatick</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Fatick</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-sn;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-sn;"/>
    </owl:NamedIndividual>
@@ -286,7 +286,7 @@
       <rdfs:label>Kaffrine</rdfs:label>
       <skos:definition>The region of Kaffrine in the country of Senegal</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Senegal"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Kaffrine</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Kaffrine</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-sn;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-sn;"/>
    </owl:NamedIndividual>
@@ -316,7 +316,7 @@
       <rdfs:label>Ziguinchor</rdfs:label>
       <skos:definition>The region of Ziguinchor in the country of Senegal</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Senegal"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Ziguinchor</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Ziguinchor</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-sn;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-sn;"/>
    </owl:NamedIndividual>
@@ -346,7 +346,7 @@
       <rdfs:label>Kaolack</rdfs:label>
       <skos:definition>The region of Kaolack in the country of Senegal</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Senegal"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Kaolack</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Kaolack</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-sn;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-sn;"/>
    </owl:NamedIndividual>
@@ -376,7 +376,7 @@
       <rdfs:label>Kédougou</rdfs:label>
       <skos:definition>The region of Kédougou in the country of Senegal</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Senegal"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Kédougou</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Kédougou</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-sn;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-sn;"/>
    </owl:NamedIndividual>
@@ -406,7 +406,7 @@
       <rdfs:label>Louga</rdfs:label>
       <skos:definition>The region of Louga in the country of Senegal</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Senegal"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Louga</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Louga</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-sn;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-sn;"/>
    </owl:NamedIndividual>
@@ -436,7 +436,7 @@
       <rdfs:label>Diourbel</rdfs:label>
       <skos:definition>The region of Diourbel in the country of Senegal</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Senegal"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Diourbel</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Diourbel</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-sn;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-sn;"/>
    </owl:NamedIndividual>
@@ -466,7 +466,7 @@
       <rdfs:label>Matam</rdfs:label>
       <skos:definition>The region of Matam in the country of Senegal</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Senegal"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Matam</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Matam</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-sn;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-sn;"/>
    </owl:NamedIndividual>
@@ -496,7 +496,7 @@
       <rdfs:label>Tambacounda</rdfs:label>
       <skos:definition>The region of Tambacounda in the country of Senegal</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Senegal"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Tambacounda</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Tambacounda</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-sn;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-sn;"/>
    </owl:NamedIndividual>

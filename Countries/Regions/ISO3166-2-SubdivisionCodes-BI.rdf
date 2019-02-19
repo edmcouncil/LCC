@@ -106,8 +106,8 @@
       <rdfs:label>Bubanza</rdfs:label>
       <skos:definition>The province of Bubanza in the country of Burundi</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Burundi"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="rn">Bubanza</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Bubanza</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasLocalShortName xml:lang="rn">Bubanza</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Bubanza</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-bi;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-bi;"/>
    </owl:NamedIndividual>
@@ -137,8 +137,8 @@
       <rdfs:label>Rumonge</rdfs:label>
       <skos:definition>The province of Rumonge in the country of Burundi</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Burundi"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="rn">Rumonge</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Rumonge</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasLocalShortName xml:lang="rn">Rumonge</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Rumonge</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-bi;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-bi;"/>
    </owl:NamedIndividual>
@@ -168,8 +168,8 @@
       <rdfs:label>Bujumbura Mairie</rdfs:label>
       <skos:definition>The province of Bujumbura Mairie in the country of Burundi</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Burundi"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="rn">Bujumbura Mairie</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Bujumbura Mairie</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasLocalShortName xml:lang="rn">Bujumbura Mairie</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Bujumbura Mairie</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-bi;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-bi;"/>
    </owl:NamedIndividual>
@@ -199,8 +199,8 @@
       <rdfs:label>Karuzi</rdfs:label>
       <skos:definition>The province of Karuzi in the country of Burundi</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Burundi"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="rn">Karuzi</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Karuzi</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasLocalShortName xml:lang="rn">Karuzi</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Karuzi</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-bi;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-bi;"/>
    </owl:NamedIndividual>
@@ -230,8 +230,8 @@
       <rdfs:label>Muyinga</rdfs:label>
       <skos:definition>The province of Muyinga in the country of Burundi</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Burundi"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Muyinga</lcc-cr:hasFrenchShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="rn">Muyinga</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Muyinga</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasLocalShortName xml:lang="rn">Muyinga</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-bi;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-bi;"/>
    </owl:NamedIndividual>
@@ -261,8 +261,8 @@
       <rdfs:label>Kirundo</rdfs:label>
       <skos:definition>The province of Kirundo in the country of Burundi</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Burundi"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Kirundo</lcc-cr:hasFrenchShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="rn">Kirundo</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Kirundo</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasLocalShortName xml:lang="rn">Kirundo</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-bi;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-bi;"/>
    </owl:NamedIndividual>
@@ -292,8 +292,8 @@
       <rdfs:label>Bururi</rdfs:label>
       <skos:definition>The province of Bururi in the country of Burundi</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Burundi"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="rn">Bururi</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Bururi</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasLocalShortName xml:lang="rn">Bururi</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Bururi</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-bi;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-bi;"/>
    </owl:NamedIndividual>
@@ -323,8 +323,8 @@
       <rdfs:label>Cibitoke</rdfs:label>
       <skos:definition>The province of Cibitoke in the country of Burundi</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Burundi"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Cibitoke</lcc-cr:hasFrenchShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="rn">Cibitoke</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Cibitoke</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasLocalShortName xml:lang="rn">Cibitoke</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-bi;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-bi;"/>
    </owl:NamedIndividual>
@@ -354,8 +354,8 @@
       <rdfs:label>Gitega</rdfs:label>
       <skos:definition>The province of Gitega in the country of Burundi</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Burundi"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="rn">Gitega</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Gitega</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasLocalShortName xml:lang="rn">Gitega</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Gitega</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-bi;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-bi;"/>
    </owl:NamedIndividual>
@@ -385,8 +385,8 @@
       <rdfs:label>Makamba</rdfs:label>
       <skos:definition>The province of Makamba in the country of Burundi</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Burundi"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Makamba</lcc-cr:hasFrenchShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="rn">Makamba</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Makamba</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasLocalShortName xml:lang="rn">Makamba</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-bi;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-bi;"/>
    </owl:NamedIndividual>
@@ -416,8 +416,8 @@
       <rdfs:label>Muramvya</rdfs:label>
       <skos:definition>The province of Muramvya in the country of Burundi</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Burundi"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Muramvya</lcc-cr:hasFrenchShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="rn">Muramvya</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Muramvya</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasLocalShortName xml:lang="rn">Muramvya</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-bi;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-bi;"/>
    </owl:NamedIndividual>
@@ -447,8 +447,8 @@
       <rdfs:label>Ngozi</rdfs:label>
       <skos:definition>The province of Ngozi in the country of Burundi</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Burundi"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="rn">Ngozi</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Ngozi</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasLocalShortName xml:lang="rn">Ngozi</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Ngozi</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-bi;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-bi;"/>
    </owl:NamedIndividual>
@@ -478,8 +478,8 @@
       <rdfs:label>Ruyigi</rdfs:label>
       <skos:definition>The province of Ruyigi in the country of Burundi</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Burundi"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Ruyigi</lcc-cr:hasFrenchShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="rn">Ruyigi</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Ruyigi</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasLocalShortName xml:lang="rn">Ruyigi</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-bi;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-bi;"/>
    </owl:NamedIndividual>
@@ -509,8 +509,8 @@
       <rdfs:label>Kayanza</rdfs:label>
       <skos:definition>The province of Kayanza in the country of Burundi</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Burundi"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="rn">Kayanza</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Kayanza</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasLocalShortName xml:lang="rn">Kayanza</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Kayanza</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-bi;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-bi;"/>
    </owl:NamedIndividual>
@@ -540,8 +540,8 @@
       <rdfs:label>Mwaro</rdfs:label>
       <skos:definition>The province of Mwaro in the country of Burundi</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Burundi"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="rn">Mwaro</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Mwaro</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasLocalShortName xml:lang="rn">Mwaro</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Mwaro</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-bi;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-bi;"/>
    </owl:NamedIndividual>
@@ -571,8 +571,8 @@
       <rdfs:label>Cankuzo</rdfs:label>
       <skos:definition>The province of Cankuzo in the country of Burundi</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Burundi"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="rn">Cankuzo</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Cankuzo</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasLocalShortName xml:lang="rn">Cankuzo</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Cankuzo</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-bi;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-bi;"/>
    </owl:NamedIndividual>
@@ -602,8 +602,8 @@
       <rdfs:label>Bujumbura Rural</rdfs:label>
       <skos:definition>The province of Bujumbura Rural in the country of Burundi</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Burundi"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="rn">Bujumbura Rural</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Bujumbura Rural</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasLocalShortName xml:lang="rn">Bujumbura Rural</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Bujumbura Rural</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-bi;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-bi;"/>
    </owl:NamedIndividual>
@@ -633,8 +633,8 @@
       <rdfs:label>Rutana</rdfs:label>
       <skos:definition>The province of Rutana in the country of Burundi</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Burundi"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Rutana</lcc-cr:hasFrenchShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="rn">Rutana</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Rutana</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasLocalShortName xml:lang="rn">Rutana</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-bi;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-bi;"/>
    </owl:NamedIndividual>

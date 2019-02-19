@@ -106,7 +106,7 @@
       <rdfs:label>Bogdanci</rdfs:label>
       <skos:definition>The municipality of Bogdanci in the country of Macedonia (the former Yugoslav Republic of)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Macedonia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="mk">Bogdanci</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="mk">Bogdanci</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mk;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mk;"/>
    </owl:NamedIndividual>
@@ -136,7 +136,7 @@
       <rdfs:label>Brvenica</rdfs:label>
       <skos:definition>The municipality of Brvenica in the country of Macedonia (the former Yugoslav Republic of)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Macedonia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="mk">Brvenica</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="mk">Brvenica</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mk;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mk;"/>
    </owl:NamedIndividual>
@@ -166,7 +166,7 @@
       <rdfs:label>Vinica</rdfs:label>
       <skos:definition>The municipality of Vinica in the country of Macedonia (the former Yugoslav Republic of)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Macedonia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="mk">Vinica</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="mk">Vinica</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mk;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mk;"/>
    </owl:NamedIndividual>
@@ -196,7 +196,7 @@
       <rdfs:label>Debar</rdfs:label>
       <skos:definition>The municipality of Debar in the country of Macedonia (the former Yugoslav Republic of)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Macedonia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="mk">Debar</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="mk">Debar</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mk;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mk;"/>
    </owl:NamedIndividual>
@@ -226,7 +226,7 @@
       <rdfs:label>Delčevo</rdfs:label>
       <skos:definition>The municipality of Delčevo in the country of Macedonia (the former Yugoslav Republic of)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Macedonia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="mk">Delčevo</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="mk">Delčevo</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mk;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mk;"/>
    </owl:NamedIndividual>
@@ -256,7 +256,7 @@
       <rdfs:label>Dolneni</rdfs:label>
       <skos:definition>The municipality of Dolneni in the country of Macedonia (the former Yugoslav Republic of)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Macedonia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="mk">Dolneni</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="mk">Dolneni</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mk;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mk;"/>
    </owl:NamedIndividual>
@@ -286,7 +286,7 @@
       <rdfs:label>Zelenikovo</rdfs:label>
       <skos:definition>The municipality of Zelenikovo in the country of Macedonia (the former Yugoslav Republic of)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Macedonia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="mk">Zelenikovo</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="mk">Zelenikovo</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mk;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mk;"/>
    </owl:NamedIndividual>
@@ -316,7 +316,7 @@
       <rdfs:label>Karbinci</rdfs:label>
       <skos:definition>The municipality of Karbinci in the country of Macedonia (the former Yugoslav Republic of)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Macedonia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="mk">Karbinci</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="mk">Karbinci</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mk;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mk;"/>
    </owl:NamedIndividual>
@@ -346,7 +346,7 @@
       <rdfs:label>Novaci</rdfs:label>
       <skos:definition>The municipality of Novaci in the country of Macedonia (the former Yugoslav Republic of)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Macedonia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="mk">Novaci</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="mk">Novaci</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mk;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mk;"/>
    </owl:NamedIndividual>
@@ -376,7 +376,7 @@
       <rdfs:label>Radoviš</rdfs:label>
       <skos:definition>The municipality of Radoviš in the country of Macedonia (the former Yugoslav Republic of)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Macedonia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="mk">Radoviš</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="mk">Radoviš</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mk;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mk;"/>
    </owl:NamedIndividual>
@@ -406,7 +406,7 @@
       <rdfs:label>Staro Nagoričane</rdfs:label>
       <skos:definition>The municipality of Staro Nagoričane in the country of Macedonia (the former Yugoslav Republic of)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Macedonia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="mk">Staro Nagoričane</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="mk">Staro Nagoričane</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mk;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mk;"/>
    </owl:NamedIndividual>
@@ -436,7 +436,7 @@
       <rdfs:label>Berovo</rdfs:label>
       <skos:definition>The municipality of Berovo in the country of Macedonia (the former Yugoslav Republic of)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Macedonia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="mk">Berovo</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="mk">Berovo</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mk;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mk;"/>
    </owl:NamedIndividual>
@@ -466,7 +466,7 @@
       <rdfs:label>Valandovo</rdfs:label>
       <skos:definition>The municipality of Valandovo in the country of Macedonia (the former Yugoslav Republic of)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Macedonia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="mk">Valandovo</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="mk">Valandovo</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mk;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mk;"/>
    </owl:NamedIndividual>
@@ -496,7 +496,7 @@
       <rdfs:label>Vasilevo</rdfs:label>
       <skos:definition>The municipality of Vasilevo in the country of Macedonia (the former Yugoslav Republic of)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Macedonia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="mk">Vasilevo</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="mk">Vasilevo</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mk;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mk;"/>
    </owl:NamedIndividual>
@@ -526,7 +526,7 @@
       <rdfs:label>Dojran</rdfs:label>
       <skos:definition>The municipality of Dojran in the country of Macedonia (the former Yugoslav Republic of)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Macedonia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="mk">Dojran</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="mk">Dojran</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mk;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mk;"/>
    </owl:NamedIndividual>
@@ -556,7 +556,7 @@
       <rdfs:label>Kriva Palanka</rdfs:label>
       <skos:definition>The municipality of Kriva Palanka in the country of Macedonia (the former Yugoslav Republic of)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Macedonia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="mk">Kriva Palanka</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="mk">Kriva Palanka</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mk;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mk;"/>
    </owl:NamedIndividual>
@@ -586,7 +586,7 @@
       <rdfs:label>Negotino</rdfs:label>
       <skos:definition>The municipality of Negotino in the country of Macedonia (the former Yugoslav Republic of)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Macedonia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="mk">Negotino</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="mk">Negotino</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mk;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mk;"/>
    </owl:NamedIndividual>
@@ -616,7 +616,7 @@
       <rdfs:label>Novo Selo</rdfs:label>
       <skos:definition>The municipality of Novo Selo in the country of Macedonia (the former Yugoslav Republic of)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Macedonia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="mk">Novo Selo</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="mk">Novo Selo</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mk;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mk;"/>
    </owl:NamedIndividual>
@@ -646,7 +646,7 @@
       <rdfs:label>Pehčevo</rdfs:label>
       <skos:definition>The municipality of Pehčevo in the country of Macedonia (the former Yugoslav Republic of)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Macedonia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="mk">Pehčevo</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="mk">Pehčevo</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mk;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mk;"/>
    </owl:NamedIndividual>
@@ -676,7 +676,7 @@
       <rdfs:label>Centar Župa</rdfs:label>
       <skos:definition>The municipality of Centar Župa in the country of Macedonia (the former Yugoslav Republic of)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Macedonia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="mk">Centar Župa</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="mk">Centar Župa</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mk;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mk;"/>
    </owl:NamedIndividual>
@@ -706,7 +706,7 @@
       <rdfs:label>Čaška</rdfs:label>
       <skos:definition>The municipality of Čaška in the country of Macedonia (the former Yugoslav Republic of)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Macedonia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="mk">Čaška</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="mk">Čaška</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mk;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mk;"/>
    </owl:NamedIndividual>
@@ -736,7 +736,7 @@
       <rdfs:label>Češinovo-Obleševo</rdfs:label>
       <skos:definition>The municipality of Češinovo-Obleševo in the country of Macedonia (the former Yugoslav Republic of)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Macedonia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="mk">Češinovo-Obleševo</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="mk">Češinovo-Obleševo</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mk;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mk;"/>
    </owl:NamedIndividual>
@@ -766,7 +766,7 @@
       <rdfs:label>Bogovinje</rdfs:label>
       <skos:definition>The municipality of Bogovinje in the country of Macedonia (the former Yugoslav Republic of)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Macedonia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="mk">Bogovinje</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="mk">Bogovinje</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mk;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mk;"/>
    </owl:NamedIndividual>
@@ -796,7 +796,7 @@
       <rdfs:label>Vrapčište</rdfs:label>
       <skos:definition>The municipality of Vrapčište in the country of Macedonia (the former Yugoslav Republic of)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Macedonia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="mk">Vrapčište</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="mk">Vrapčište</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mk;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mk;"/>
    </owl:NamedIndividual>
@@ -826,7 +826,7 @@
       <rdfs:label>Demir Hisar</rdfs:label>
       <skos:definition>The municipality of Demir Hisar in the country of Macedonia (the former Yugoslav Republic of)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Macedonia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="mk">Demir Hisar</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="mk">Demir Hisar</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mk;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mk;"/>
    </owl:NamedIndividual>
@@ -856,7 +856,7 @@
       <rdfs:label>Jegunovce</rdfs:label>
       <skos:definition>The municipality of Jegunovce in the country of Macedonia (the former Yugoslav Republic of)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Macedonia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="mk">Jegunovce</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="mk">Jegunovce</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mk;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mk;"/>
    </owl:NamedIndividual>
@@ -886,7 +886,7 @@
       <rdfs:label>Konče</rdfs:label>
       <skos:definition>The municipality of Konče in the country of Macedonia (the former Yugoslav Republic of)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Macedonia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="mk">Konče</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="mk">Konče</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mk;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mk;"/>
    </owl:NamedIndividual>
@@ -916,7 +916,7 @@
       <rdfs:label>Ohrid</rdfs:label>
       <skos:definition>The municipality of Ohrid in the country of Macedonia (the former Yugoslav Republic of)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Macedonia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="mk">Ohrid</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="mk">Ohrid</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mk;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mk;"/>
    </owl:NamedIndividual>
@@ -946,7 +946,7 @@
       <rdfs:label>Prilep</rdfs:label>
       <skos:definition>The municipality of Prilep in the country of Macedonia (the former Yugoslav Republic of)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Macedonia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="mk">Prilep</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="mk">Prilep</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mk;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mk;"/>
    </owl:NamedIndividual>
@@ -976,7 +976,7 @@
       <rdfs:label>Strumica</rdfs:label>
       <skos:definition>The municipality of Strumica in the country of Macedonia (the former Yugoslav Republic of)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Macedonia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="mk">Strumica</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="mk">Strumica</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mk;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mk;"/>
    </owl:NamedIndividual>
@@ -1006,7 +1006,7 @@
       <rdfs:label>Gevgelija</rdfs:label>
       <skos:definition>The municipality of Gevgelija in the country of Macedonia (the former Yugoslav Republic of)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Macedonia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="mk">Gevgelija</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="mk">Gevgelija</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mk;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mk;"/>
    </owl:NamedIndividual>
@@ -1036,7 +1036,7 @@
       <rdfs:label>Debarca</rdfs:label>
       <skos:definition>The municipality of Debarca in the country of Macedonia (the former Yugoslav Republic of)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Macedonia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="mk">Debarca</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="mk">Debarca</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mk;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mk;"/>
    </owl:NamedIndividual>
@@ -1066,7 +1066,7 @@
       <rdfs:label>Demir Kapija</rdfs:label>
       <skos:definition>The municipality of Demir Kapija in the country of Macedonia (the former Yugoslav Republic of)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Macedonia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="mk">Demir Kapija</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="mk">Demir Kapija</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mk;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mk;"/>
    </owl:NamedIndividual>
@@ -1096,7 +1096,7 @@
       <rdfs:label>Kavadarci</rdfs:label>
       <skos:definition>The municipality of Kavadarci in the country of Macedonia (the former Yugoslav Republic of)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Macedonia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="mk">Kavadarci</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="mk">Kavadarci</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mk;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mk;"/>
    </owl:NamedIndividual>
@@ -1126,7 +1126,7 @@
       <rdfs:label>Kratovo</rdfs:label>
       <skos:definition>The municipality of Kratovo in the country of Macedonia (the former Yugoslav Republic of)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Macedonia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="mk">Kratovo</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="mk">Kratovo</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mk;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mk;"/>
    </owl:NamedIndividual>
@@ -1156,7 +1156,7 @@
       <rdfs:label>Mavrovo i Rostuša</rdfs:label>
       <skos:definition>The municipality of Mavrovo i Rostuša in the country of Macedonia (the former Yugoslav Republic of)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Macedonia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="mk">Mavrovo i Rostuša</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="mk">Mavrovo i Rostuša</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mk;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mk;"/>
    </owl:NamedIndividual>
@@ -1186,7 +1186,7 @@
       <rdfs:label>Plasnica</rdfs:label>
       <skos:definition>The municipality of Plasnica in the country of Macedonia (the former Yugoslav Republic of)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Macedonia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="mk">Plasnica</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="mk">Plasnica</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mk;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mk;"/>
    </owl:NamedIndividual>
@@ -1216,7 +1216,7 @@
       <rdfs:label>Sveti Nikole</rdfs:label>
       <skos:definition>The municipality of Sveti Nikole in the country of Macedonia (the former Yugoslav Republic of)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Macedonia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="mk">Sveti Nikole</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="mk">Sveti Nikole</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mk;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mk;"/>
    </owl:NamedIndividual>
@@ -1246,7 +1246,7 @@
       <rdfs:label>Ilinden</rdfs:label>
       <skos:definition>The municipality of Ilinden in the country of Macedonia (the former Yugoslav Republic of)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Macedonia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="mk">Ilinden</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="mk">Ilinden</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mk;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mk;"/>
    </owl:NamedIndividual>
@@ -1276,7 +1276,7 @@
       <rdfs:label>Kočani</rdfs:label>
       <skos:definition>The municipality of Kočani in the country of Macedonia (the former Yugoslav Republic of)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Macedonia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="mk">Kočani</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="mk">Kočani</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mk;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mk;"/>
    </owl:NamedIndividual>
@@ -1306,7 +1306,7 @@
       <rdfs:label>Krivogaštani</rdfs:label>
       <skos:definition>The municipality of Krivogaštani in the country of Macedonia (the former Yugoslav Republic of)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Macedonia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="mk">Krivogaštani</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="mk">Krivogaštani</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mk;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mk;"/>
    </owl:NamedIndividual>
@@ -1336,7 +1336,7 @@
       <rdfs:label>Kruševo</rdfs:label>
       <skos:definition>The municipality of Kruševo in the country of Macedonia (the former Yugoslav Republic of)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Macedonia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="mk">Kruševo</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="mk">Kruševo</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mk;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mk;"/>
    </owl:NamedIndividual>
@@ -1366,7 +1366,7 @@
       <rdfs:label>Lipkovo</rdfs:label>
       <skos:definition>The municipality of Lipkovo in the country of Macedonia (the former Yugoslav Republic of)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Macedonia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="mk">Lipkovo</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="mk">Lipkovo</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mk;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mk;"/>
    </owl:NamedIndividual>
@@ -1396,7 +1396,7 @@
       <rdfs:label>Probištip</rdfs:label>
       <skos:definition>The municipality of Probištip in the country of Macedonia (the former Yugoslav Republic of)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Macedonia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="mk">Probištip</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="mk">Probištip</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mk;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mk;"/>
    </owl:NamedIndividual>
@@ -1426,7 +1426,7 @@
       <rdfs:label>Studeničani</rdfs:label>
       <skos:definition>The municipality of Studeničani in the country of Macedonia (the former Yugoslav Republic of)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Macedonia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="mk">Studeničani</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="mk">Studeničani</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mk;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mk;"/>
    </owl:NamedIndividual>
@@ -1456,7 +1456,7 @@
       <rdfs:label>Tetovo</rdfs:label>
       <skos:definition>The municipality of Tetovo in the country of Macedonia (the former Yugoslav Republic of)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Macedonia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="mk">Tetovo</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="mk">Tetovo</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mk;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mk;"/>
    </owl:NamedIndividual>
@@ -1486,7 +1486,7 @@
       <rdfs:label>Aračinovo</rdfs:label>
       <skos:definition>The municipality of Aračinovo in the country of Macedonia (the former Yugoslav Republic of)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Macedonia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="mk">Aračinovo</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="mk">Aračinovo</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mk;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mk;"/>
    </owl:NamedIndividual>
@@ -1516,7 +1516,7 @@
       <rdfs:label>Bitola</rdfs:label>
       <skos:definition>The municipality of Bitola in the country of Macedonia (the former Yugoslav Republic of)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Macedonia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="mk">Bitola</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="mk">Bitola</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mk;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mk;"/>
    </owl:NamedIndividual>
@@ -1546,7 +1546,7 @@
       <rdfs:label>Bosilovo</rdfs:label>
       <skos:definition>The municipality of Bosilovo in the country of Macedonia (the former Yugoslav Republic of)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Macedonia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="mk">Bosilovo</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="mk">Bosilovo</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mk;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mk;"/>
    </owl:NamedIndividual>
@@ -1576,7 +1576,7 @@
       <rdfs:label>Gostivar</rdfs:label>
       <skos:definition>The municipality of Gostivar in the country of Macedonia (the former Yugoslav Republic of)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Macedonia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="mk">Gostivar</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="mk">Gostivar</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mk;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mk;"/>
    </owl:NamedIndividual>
@@ -1606,7 +1606,7 @@
       <rdfs:label>Želino</rdfs:label>
       <skos:definition>The municipality of Želino in the country of Macedonia (the former Yugoslav Republic of)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Macedonia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="mk">Želino</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="mk">Želino</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mk;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mk;"/>
    </owl:NamedIndividual>
@@ -1636,7 +1636,7 @@
       <rdfs:label>Kičevo</rdfs:label>
       <skos:definition>The municipality of Kičevo in the country of Macedonia (the former Yugoslav Republic of)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Macedonia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="mk">Kičevo</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="mk">Kičevo</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mk;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mk;"/>
    </owl:NamedIndividual>
@@ -1666,7 +1666,7 @@
       <rdfs:label>Makedonska Kamenica</rdfs:label>
       <skos:definition>The municipality of Makedonska Kamenica in the country of Macedonia (the former Yugoslav Republic of)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Macedonia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="mk">Makedonska Kamenica</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="mk">Makedonska Kamenica</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mk;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mk;"/>
    </owl:NamedIndividual>
@@ -1696,7 +1696,7 @@
       <rdfs:label>Mogila</rdfs:label>
       <skos:definition>The municipality of Mogila in the country of Macedonia (the former Yugoslav Republic of)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Macedonia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="mk">Mogila</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="mk">Mogila</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mk;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mk;"/>
    </owl:NamedIndividual>
@@ -1726,7 +1726,7 @@
       <rdfs:label>Resen</rdfs:label>
       <skos:definition>The municipality of Resen in the country of Macedonia (the former Yugoslav Republic of)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Macedonia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="mk">Resen</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="mk">Resen</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mk;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mk;"/>
    </owl:NamedIndividual>
@@ -1756,7 +1756,7 @@
       <rdfs:label>Rosoman</rdfs:label>
       <skos:definition>The municipality of Rosoman in the country of Macedonia (the former Yugoslav Republic of)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Macedonia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="mk">Rosoman</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="mk">Rosoman</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mk;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mk;"/>
    </owl:NamedIndividual>
@@ -1786,7 +1786,7 @@
       <rdfs:label>Tearce</rdfs:label>
       <skos:definition>The municipality of Tearce in the country of Macedonia (the former Yugoslav Republic of)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Macedonia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="mk">Tearce</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="mk">Tearce</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mk;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mk;"/>
    </owl:NamedIndividual>
@@ -1816,7 +1816,7 @@
       <rdfs:label>Vevčani</rdfs:label>
       <skos:definition>The municipality of Vevčani in the country of Macedonia (the former Yugoslav Republic of)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Macedonia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="mk">Vevčani</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="mk">Vevčani</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mk;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mk;"/>
    </owl:NamedIndividual>
@@ -1846,7 +1846,7 @@
       <rdfs:label>Gradsko</rdfs:label>
       <skos:definition>The municipality of Gradsko in the country of Macedonia (the former Yugoslav Republic of)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Macedonia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="mk">Gradsko</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="mk">Gradsko</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mk;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mk;"/>
    </owl:NamedIndividual>
@@ -1876,7 +1876,7 @@
       <rdfs:label>Kumanovo</rdfs:label>
       <skos:definition>The municipality of Kumanovo in the country of Macedonia (the former Yugoslav Republic of)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Macedonia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="mk">Kumanovo</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="mk">Kumanovo</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mk;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mk;"/>
    </owl:NamedIndividual>
@@ -1906,7 +1906,7 @@
       <rdfs:label>Rankovce</rdfs:label>
       <skos:definition>The municipality of Rankovce in the country of Macedonia (the former Yugoslav Republic of)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Macedonia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="mk">Rankovce</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="mk">Rankovce</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mk;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mk;"/>
    </owl:NamedIndividual>
@@ -1936,7 +1936,7 @@
       <rdfs:label>Struga</rdfs:label>
       <skos:definition>The municipality of Struga in the country of Macedonia (the former Yugoslav Republic of)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Macedonia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="mk">Struga</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="mk">Struga</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mk;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mk;"/>
    </owl:NamedIndividual>
@@ -1966,7 +1966,7 @@
       <rdfs:label>Štip</rdfs:label>
       <skos:definition>The municipality of Štip in the country of Macedonia (the former Yugoslav Republic of)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Macedonia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="mk">Štip</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="mk">Štip</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mk;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mk;"/>
    </owl:NamedIndividual>
@@ -1996,7 +1996,7 @@
       <rdfs:label>Veles</rdfs:label>
       <skos:definition>The municipality of Veles in the country of Macedonia (the former Yugoslav Republic of)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Macedonia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="mk">Veles</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="mk">Veles</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mk;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mk;"/>
    </owl:NamedIndividual>
@@ -2026,7 +2026,7 @@
       <rdfs:label>Zrnovci</rdfs:label>
       <skos:definition>The municipality of Zrnovci in the country of Macedonia (the former Yugoslav Republic of)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Macedonia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="mk">Zrnovci</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="mk">Zrnovci</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mk;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mk;"/>
    </owl:NamedIndividual>
@@ -2056,7 +2056,7 @@
       <rdfs:label>Lozovo</rdfs:label>
       <skos:definition>The municipality of Lozovo in the country of Macedonia (the former Yugoslav Republic of)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Macedonia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="mk">Lozovo</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="mk">Lozovo</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mk;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mk;"/>
    </owl:NamedIndividual>
@@ -2086,7 +2086,7 @@
       <rdfs:label>Makedonski Brod</rdfs:label>
       <skos:definition>The municipality of Makedonski Brod in the country of Macedonia (the former Yugoslav Republic of)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Macedonia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="mk">Makedonski Brod</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="mk">Makedonski Brod</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mk;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mk;"/>
    </owl:NamedIndividual>
@@ -2116,7 +2116,7 @@
       <rdfs:label>Petrovec</rdfs:label>
       <skos:definition>The municipality of Petrovec in the country of Macedonia (the former Yugoslav Republic of)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Macedonia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="mk">Petrovec</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="mk">Petrovec</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mk;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mk;"/>
    </owl:NamedIndividual>
@@ -2146,7 +2146,7 @@
       <rdfs:label>Sopište</rdfs:label>
       <skos:definition>The municipality of Sopište in the country of Macedonia (the former Yugoslav Republic of)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Macedonia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="mk">Sopište</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="mk">Sopište</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mk;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mk;"/>
    </owl:NamedIndividual>
@@ -2176,7 +2176,7 @@
       <rdfs:label>Čučer Sandevo</rdfs:label>
       <skos:definition>The municipality of Čučer Sandevo in the country of Macedonia (the former Yugoslav Republic of)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Macedonia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="mk">Čučer Sandevo</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="mk">Čučer Sandevo</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mk;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mk;"/>
    </owl:NamedIndividual>
@@ -2206,7 +2206,7 @@
       <rdfs:label>Skopje</rdfs:label>
       <skos:definition>The municipality of Skopje in the country of Macedonia (the former Yugoslav Republic of)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Macedonia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="mk">Skopje</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="mk">Skopje</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mk;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mk;"/>
    </owl:NamedIndividual>

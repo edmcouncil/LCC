@@ -106,8 +106,8 @@
       <rdfs:label>Mosta</rdfs:label>
       <skos:definition>The local council of Mosta in the country of Malta</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Malta"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="mt">Mosta</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Mosta</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="mt">Mosta</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Mosta</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mt;LocalCouncil"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mt;"/>
    </owl:NamedIndividual>
@@ -137,8 +137,8 @@
       <rdfs:label>Mqabba</rdfs:label>
       <skos:definition>The local council of Mqabba in the country of Malta</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Malta"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="mt">Mqabba</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Mqabba</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="mt">Mqabba</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Mqabba</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mt;LocalCouncil"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mt;"/>
    </owl:NamedIndividual>
@@ -168,8 +168,8 @@
       <rdfs:label>Qormi</rdfs:label>
       <skos:definition>The local council of Qormi in the country of Malta</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Malta"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Qormi</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="mt">Qormi</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Qormi</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="mt">Qormi</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mt;LocalCouncil"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mt;"/>
    </owl:NamedIndividual>
@@ -199,8 +199,8 @@
       <rdfs:label>Saint Julian's</rdfs:label>
       <skos:definition>The local council of Saint Julian's in the country of Malta</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Malta"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="mt">San Ġiljan</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Saint Julian's</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="mt">San Ġiljan</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Saint Julian's</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mt;LocalCouncil"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mt;"/>
    </owl:NamedIndividual>
@@ -230,8 +230,8 @@
       <rdfs:label>Fgura</rdfs:label>
       <skos:definition>The local council of Fgura in the country of Malta</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Malta"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="mt">Fgura</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Fgura</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="mt">Fgura</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Fgura</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mt;LocalCouncil"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mt;"/>
    </owl:NamedIndividual>
@@ -261,8 +261,8 @@
       <rdfs:label>Msida</rdfs:label>
       <skos:definition>The local council of Msida in the country of Malta</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Malta"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Msida</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="mt">Msida</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Msida</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="mt">Msida</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mt;LocalCouncil"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mt;"/>
    </owl:NamedIndividual>
@@ -292,8 +292,8 @@
       <rdfs:label>Mtarfa</rdfs:label>
       <skos:definition>The local council of Mtarfa in the country of Malta</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Malta"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Mtarfa</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="mt">Mtarfa</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Mtarfa</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="mt">Mtarfa</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mt;LocalCouncil"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mt;"/>
    </owl:NamedIndividual>
@@ -323,8 +323,8 @@
       <rdfs:label>Nadur</rdfs:label>
       <skos:definition>The local council of Nadur in the country of Malta</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Malta"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Nadur</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="mt">Nadur</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Nadur</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="mt">Nadur</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mt;LocalCouncil"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mt;"/>
    </owl:NamedIndividual>
@@ -354,8 +354,8 @@
       <rdfs:label>Rabat Malta</rdfs:label>
       <skos:definition>The local council of Rabat Malta in the country of Malta</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Malta"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Rabat Malta</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="mt">Rabat Malta</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Rabat Malta</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="mt">Rabat Malta</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mt;LocalCouncil"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mt;"/>
    </owl:NamedIndividual>
@@ -385,8 +385,8 @@
       <rdfs:label>Għajnsielem</rdfs:label>
       <skos:definition>The local council of Għajnsielem in the country of Malta</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Malta"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="mt">Għajnsielem</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Għajnsielem</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="mt">Għajnsielem</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Għajnsielem</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mt;LocalCouncil"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mt;"/>
    </owl:NamedIndividual>
@@ -416,8 +416,8 @@
       <rdfs:label>Għargħur</rdfs:label>
       <skos:definition>The local council of Għargħur in the country of Malta</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Malta"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Għargħur</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="mt">Għargħur</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Għargħur</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="mt">Għargħur</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mt;LocalCouncil"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mt;"/>
    </owl:NamedIndividual>
@@ -447,8 +447,8 @@
       <rdfs:label>Isla</rdfs:label>
       <skos:definition>The local council of Isla in the country of Malta</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Malta"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Isla</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="mt">Isla</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Isla</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="mt">Isla</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mt;LocalCouncil"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mt;"/>
    </owl:NamedIndividual>
@@ -478,8 +478,8 @@
       <rdfs:label>Marsaskala</rdfs:label>
       <skos:definition>The local council of Marsaskala in the country of Malta</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Malta"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Marsaskala</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="mt">Marsaskala</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Marsaskala</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="mt">Marsaskala</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mt;LocalCouncil"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mt;"/>
    </owl:NamedIndividual>
@@ -509,8 +509,8 @@
       <rdfs:label>Munxar</rdfs:label>
       <skos:definition>The local council of Munxar in the country of Malta</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Malta"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Munxar</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="mt">Munxar</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Munxar</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="mt">Munxar</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mt;LocalCouncil"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mt;"/>
    </owl:NamedIndividual>
@@ -540,8 +540,8 @@
       <rdfs:label>Pembroke</rdfs:label>
       <skos:definition>The local council of Pembroke in the country of Malta</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Malta"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="mt">Pembroke</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Pembroke</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="mt">Pembroke</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Pembroke</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mt;LocalCouncil"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mt;"/>
    </owl:NamedIndividual>
@@ -571,8 +571,8 @@
       <rdfs:label>Qrendi</rdfs:label>
       <skos:definition>The local council of Qrendi in the country of Malta</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Malta"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="mt">Qrendi</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Qrendi</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="mt">Qrendi</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Qrendi</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mt;LocalCouncil"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mt;"/>
    </owl:NamedIndividual>
@@ -602,8 +602,8 @@
       <rdfs:label>Saint John</rdfs:label>
       <skos:definition>The local council of Saint John in the country of Malta</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Malta"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="mt">San Ġwann</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Saint John</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="mt">San Ġwann</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Saint John</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mt;LocalCouncil"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mt;"/>
    </owl:NamedIndividual>
@@ -633,8 +633,8 @@
       <rdfs:label>Saint Lawrence</rdfs:label>
       <skos:definition>The local council of Saint Lawrence in the country of Malta</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Malta"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="mt">San Lawrenz</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Saint Lawrence</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="mt">San Lawrenz</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Saint Lawrence</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mt;LocalCouncil"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mt;"/>
    </owl:NamedIndividual>
@@ -664,8 +664,8 @@
       <rdfs:label>Saint Paul's Bay</rdfs:label>
       <skos:definition>The local council of Saint Paul's Bay in the country of Malta</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Malta"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Saint Paul's Bay</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="mt">San Pawl il-Baħar</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Saint Paul's Bay</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="mt">San Pawl il-Baħar</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mt;LocalCouncil"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mt;"/>
    </owl:NamedIndividual>
@@ -695,8 +695,8 @@
       <rdfs:label>Xagħra</rdfs:label>
       <skos:definition>The local council of Xagħra in the country of Malta</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Malta"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Xagħra</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="mt">Xagħra</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Xagħra</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="mt">Xagħra</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mt;LocalCouncil"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mt;"/>
    </owl:NamedIndividual>
@@ -726,8 +726,8 @@
       <rdfs:label>Xgħajra</rdfs:label>
       <skos:definition>The local council of Xgħajra in the country of Malta</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Malta"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Xgħajra</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="mt">Xgħajra</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Xgħajra</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="mt">Xgħajra</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mt;LocalCouncil"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mt;"/>
    </owl:NamedIndividual>
@@ -757,8 +757,8 @@
       <rdfs:label>Żejtun</rdfs:label>
       <skos:definition>The local council of Żejtun in the country of Malta</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Malta"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Żejtun</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="mt">Żejtun</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Żejtun</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="mt">Żejtun</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mt;LocalCouncil"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mt;"/>
    </owl:NamedIndividual>
@@ -788,8 +788,8 @@
       <rdfs:label>Birżebbuġa</rdfs:label>
       <skos:definition>The local council of Birżebbuġa in the country of Malta</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Malta"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="mt">Birżebbuġa</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Birżebbuġa</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="mt">Birżebbuġa</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Birżebbuġa</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mt;LocalCouncil"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mt;"/>
    </owl:NamedIndividual>
@@ -819,8 +819,8 @@
       <rdfs:label>Bormla</rdfs:label>
       <skos:definition>The local council of Bormla in the country of Malta</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Malta"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Bormla</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="mt">Bormla</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Bormla</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="mt">Bormla</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mt;LocalCouncil"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mt;"/>
    </owl:NamedIndividual>
@@ -850,8 +850,8 @@
       <rdfs:label>Gżira</rdfs:label>
       <skos:definition>The local council of Gżira in the country of Malta</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Malta"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="mt">Gżira</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Gżira</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="mt">Gżira</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Gżira</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mt;LocalCouncil"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mt;"/>
    </owl:NamedIndividual>
@@ -881,8 +881,8 @@
       <rdfs:label>Żabbar</rdfs:label>
       <skos:definition>The local council of Żabbar in the country of Malta</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Malta"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Żabbar</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="mt">Żabbar</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Żabbar</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="mt">Żabbar</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mt;LocalCouncil"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mt;"/>
    </owl:NamedIndividual>
@@ -912,8 +912,8 @@
       <rdfs:label>Balzan</rdfs:label>
       <skos:definition>The local council of Balzan in the country of Malta</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Malta"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Balzan</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="mt">Balzan</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Balzan</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="mt">Balzan</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mt;LocalCouncil"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mt;"/>
    </owl:NamedIndividual>
@@ -943,8 +943,8 @@
       <rdfs:label>Birgu</rdfs:label>
       <skos:definition>The local council of Birgu in the country of Malta</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Malta"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="mt">Birgu</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Birgu</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="mt">Birgu</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Birgu</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mt;LocalCouncil"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mt;"/>
    </owl:NamedIndividual>
@@ -974,8 +974,8 @@
       <rdfs:label>Iklin</rdfs:label>
       <skos:definition>The local council of Iklin in the country of Malta</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Malta"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="mt">Iklin</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Iklin</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="mt">Iklin</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Iklin</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mt;LocalCouncil"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mt;"/>
    </owl:NamedIndividual>
@@ -1005,8 +1005,8 @@
       <rdfs:label>Lija</rdfs:label>
       <skos:definition>The local council of Lija in the country of Malta</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Malta"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Lija</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="mt">Lija</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Lija</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="mt">Lija</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mt;LocalCouncil"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mt;"/>
    </owl:NamedIndividual>
@@ -1036,8 +1036,8 @@
       <rdfs:label>Luqa</rdfs:label>
       <skos:definition>The local council of Luqa in the country of Malta</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Malta"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="mt">Luqa</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Luqa</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="mt">Luqa</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Luqa</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mt;LocalCouncil"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mt;"/>
    </owl:NamedIndividual>
@@ -1067,8 +1067,8 @@
       <rdfs:label>Paola</rdfs:label>
       <skos:definition>The local council of Paola in the country of Malta</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Malta"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Paola</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="mt">Paola</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Paola</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="mt">Paola</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mt;LocalCouncil"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mt;"/>
    </owl:NamedIndividual>
@@ -1098,8 +1098,8 @@
       <rdfs:label>Sannat</rdfs:label>
       <skos:definition>The local council of Sannat in the country of Malta</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Malta"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="mt">Sannat</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Sannat</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="mt">Sannat</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Sannat</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mt;LocalCouncil"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mt;"/>
    </owl:NamedIndividual>
@@ -1129,8 +1129,8 @@
       <rdfs:label>Siġġiewi</rdfs:label>
       <skos:definition>The local council of Siġġiewi in the country of Malta</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Malta"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Siġġiewi</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="mt">Siġġiewi</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Siġġiewi</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="mt">Siġġiewi</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mt;LocalCouncil"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mt;"/>
    </owl:NamedIndividual>
@@ -1160,8 +1160,8 @@
       <rdfs:label>Sliema</rdfs:label>
       <skos:definition>The local council of Sliema in the country of Malta</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Malta"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Sliema</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="mt">Sliema</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Sliema</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="mt">Sliema</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mt;LocalCouncil"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mt;"/>
    </owl:NamedIndividual>
@@ -1191,8 +1191,8 @@
       <rdfs:label>Żebbuġ Malta</rdfs:label>
       <skos:definition>The local council of Żebbuġ Malta in the country of Malta</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Malta"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Żebbuġ Malta</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="mt">Żebbuġ Malta</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Żebbuġ Malta</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="mt">Żebbuġ Malta</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mt;LocalCouncil"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mt;"/>
    </owl:NamedIndividual>
@@ -1222,8 +1222,8 @@
       <rdfs:label>Żurrieq</rdfs:label>
       <skos:definition>The local council of Żurrieq in the country of Malta</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Malta"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="mt">Żurrieq</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Żurrieq</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="mt">Żurrieq</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Żurrieq</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mt;LocalCouncil"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mt;"/>
    </owl:NamedIndividual>
@@ -1253,8 +1253,8 @@
       <rdfs:label>Naxxar</rdfs:label>
       <skos:definition>The local council of Naxxar in the country of Malta</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Malta"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Naxxar</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="mt">Naxxar</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Naxxar</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="mt">Naxxar</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mt;LocalCouncil"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mt;"/>
    </owl:NamedIndividual>
@@ -1284,8 +1284,8 @@
       <rdfs:label>Pietà</rdfs:label>
       <skos:definition>The local council of Pietà in the country of Malta</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Malta"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Pietà</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="mt">Pietà</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Pietà</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="mt">Pietà</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mt;LocalCouncil"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mt;"/>
    </owl:NamedIndividual>
@@ -1315,8 +1315,8 @@
       <rdfs:label>Santa Venera</rdfs:label>
       <skos:definition>The local council of Santa Venera in the country of Malta</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Malta"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Santa Venera</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="mt">Santa Venera</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Santa Venera</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="mt">Santa Venera</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mt;LocalCouncil"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mt;"/>
    </owl:NamedIndividual>
@@ -1346,8 +1346,8 @@
       <rdfs:label>Ta' Xbiex</rdfs:label>
       <skos:definition>The local council of Ta' Xbiex in the country of Malta</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Malta"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Ta' Xbiex</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="mt">Ta' Xbiex</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Ta' Xbiex</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="mt">Ta' Xbiex</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mt;LocalCouncil"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mt;"/>
    </owl:NamedIndividual>
@@ -1377,8 +1377,8 @@
       <rdfs:label>Valletta</rdfs:label>
       <skos:definition>The local council of Valletta in the country of Malta</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Malta"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Valletta</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="mt">Valletta</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Valletta</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="mt">Valletta</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mt;LocalCouncil"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mt;"/>
    </owl:NamedIndividual>
@@ -1408,8 +1408,8 @@
       <rdfs:label>Dingli</rdfs:label>
       <skos:definition>The local council of Dingli in the country of Malta</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Malta"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="mt">Dingli</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Dingli</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="mt">Dingli</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Dingli</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mt;LocalCouncil"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mt;"/>
    </owl:NamedIndividual>
@@ -1439,8 +1439,8 @@
       <rdfs:label>Gudja</rdfs:label>
       <skos:definition>The local council of Gudja in the country of Malta</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Malta"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="mt">Gudja</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Gudja</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="mt">Gudja</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Gudja</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mt;LocalCouncil"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mt;"/>
    </owl:NamedIndividual>
@@ -1470,8 +1470,8 @@
       <rdfs:label>Kalkara</rdfs:label>
       <skos:definition>The local council of Kalkara in the country of Malta</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Malta"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="mt">Kalkara</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Kalkara</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="mt">Kalkara</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Kalkara</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mt;LocalCouncil"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mt;"/>
    </owl:NamedIndividual>
@@ -1501,8 +1501,8 @@
       <rdfs:label>Mġarr</rdfs:label>
       <skos:definition>The local council of Mġarr in the country of Malta</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Malta"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="mt">Mġarr</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Mġarr</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="mt">Mġarr</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Mġarr</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mt;LocalCouncil"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mt;"/>
    </owl:NamedIndividual>
@@ -1532,8 +1532,8 @@
       <rdfs:label>Birkirkara</rdfs:label>
       <skos:definition>The local council of Birkirkara in the country of Malta</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Malta"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Birkirkara</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="mt">Birkirkara</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Birkirkara</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="mt">Birkirkara</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mt;LocalCouncil"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mt;"/>
    </owl:NamedIndividual>
@@ -1563,8 +1563,8 @@
       <rdfs:label>Għarb</rdfs:label>
       <skos:definition>The local council of Għarb in the country of Malta</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Malta"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Għarb</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="mt">Għarb</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Għarb</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="mt">Għarb</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mt;LocalCouncil"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mt;"/>
    </owl:NamedIndividual>
@@ -1594,8 +1594,8 @@
       <rdfs:label>Għasri</rdfs:label>
       <skos:definition>The local council of Għasri in the country of Malta</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Malta"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="mt">Għasri</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Għasri</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="mt">Għasri</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Għasri</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mt;LocalCouncil"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mt;"/>
    </owl:NamedIndividual>
@@ -1625,8 +1625,8 @@
       <rdfs:label>Ħamrun</rdfs:label>
       <skos:definition>The local council of Ħamrun in the country of Malta</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Malta"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="mt">Ħamrun</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Ħamrun</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="mt">Ħamrun</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Ħamrun</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mt;LocalCouncil"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mt;"/>
    </owl:NamedIndividual>
@@ -1656,8 +1656,8 @@
       <rdfs:label>Kerċem</rdfs:label>
       <skos:definition>The local council of Kerċem in the country of Malta</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Malta"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Kerċem</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="mt">Kerċem</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Kerċem</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="mt">Kerċem</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mt;LocalCouncil"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mt;"/>
    </owl:NamedIndividual>
@@ -1687,8 +1687,8 @@
       <rdfs:label>Marsa</rdfs:label>
       <skos:definition>The local council of Marsa in the country of Malta</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Malta"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Marsa</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="mt">Marsa</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Marsa</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="mt">Marsa</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mt;LocalCouncil"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mt;"/>
    </owl:NamedIndividual>
@@ -1718,8 +1718,8 @@
       <rdfs:label>Safi</rdfs:label>
       <skos:definition>The local council of Safi in the country of Malta</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Malta"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Safi</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="mt">Safi</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Safi</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="mt">Safi</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mt;LocalCouncil"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mt;"/>
    </owl:NamedIndividual>
@@ -1749,8 +1749,8 @@
       <rdfs:label>Tarxien</rdfs:label>
       <skos:definition>The local council of Tarxien in the country of Malta</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Malta"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Tarxien</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="mt">Tarxien</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Tarxien</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="mt">Tarxien</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mt;LocalCouncil"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mt;"/>
    </owl:NamedIndividual>
@@ -1780,8 +1780,8 @@
       <rdfs:label>Xewkija</rdfs:label>
       <skos:definition>The local council of Xewkija in the country of Malta</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Malta"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Xewkija</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="mt">Xewkija</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Xewkija</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="mt">Xewkija</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mt;LocalCouncil"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mt;"/>
    </owl:NamedIndividual>
@@ -1811,8 +1811,8 @@
       <rdfs:label>Żebbuġ Gozo</rdfs:label>
       <skos:definition>The local council of Żebbuġ Gozo in the country of Malta</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Malta"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="mt">Żebbuġ Għawdex</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Żebbuġ Gozo</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="mt">Żebbuġ Għawdex</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Żebbuġ Gozo</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mt;LocalCouncil"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mt;"/>
    </owl:NamedIndividual>
@@ -1842,8 +1842,8 @@
       <rdfs:label>Floriana</rdfs:label>
       <skos:definition>The local council of Floriana in the country of Malta</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Malta"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Floriana</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="mt">Floriana</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Floriana</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="mt">Floriana</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mt;LocalCouncil"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mt;"/>
    </owl:NamedIndividual>
@@ -1873,8 +1873,8 @@
       <rdfs:label>Mellieħa</rdfs:label>
       <skos:definition>The local council of Mellieħa in the country of Malta</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Malta"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Mellieħa</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="mt">Mellieħa</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Mellieħa</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="mt">Mellieħa</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mt;LocalCouncil"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mt;"/>
    </owl:NamedIndividual>
@@ -1904,8 +1904,8 @@
       <rdfs:label>Qala</rdfs:label>
       <skos:definition>The local council of Qala in the country of Malta</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Malta"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="mt">Qala</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Qala</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="mt">Qala</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Qala</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mt;LocalCouncil"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mt;"/>
    </owl:NamedIndividual>
@@ -1935,8 +1935,8 @@
       <rdfs:label>Rabat Gozo</rdfs:label>
       <skos:definition>The local council of Rabat Gozo in the country of Malta</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Malta"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="mt">Rabat Għawdex</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Rabat Gozo</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="mt">Rabat Għawdex</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Rabat Gozo</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mt;LocalCouncil"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mt;"/>
    </owl:NamedIndividual>
@@ -1966,8 +1966,8 @@
       <rdfs:label>Saint Lucia's</rdfs:label>
       <skos:definition>The local council of Saint Lucia's in the country of Malta</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Malta"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="mt">Santa Luċija</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Saint Lucia's</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="mt">Santa Luċija</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Saint Lucia's</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mt;LocalCouncil"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mt;"/>
    </owl:NamedIndividual>
@@ -1997,8 +1997,8 @@
       <rdfs:label>Swieqi</rdfs:label>
       <skos:definition>The local council of Swieqi in the country of Malta</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Malta"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Swieqi</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="mt">Swieqi</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Swieqi</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="mt">Swieqi</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mt;LocalCouncil"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mt;"/>
    </owl:NamedIndividual>
@@ -2028,8 +2028,8 @@
       <rdfs:label>Attard</rdfs:label>
       <skos:definition>The local council of Attard in the country of Malta</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Malta"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="mt">Attard</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Attard</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="mt">Attard</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Attard</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mt;LocalCouncil"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mt;"/>
    </owl:NamedIndividual>
@@ -2059,8 +2059,8 @@
       <rdfs:label>Fontana</rdfs:label>
       <skos:definition>The local council of Fontana in the country of Malta</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Malta"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="mt">Fontana</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Fontana</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="mt">Fontana</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Fontana</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mt;LocalCouncil"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mt;"/>
    </owl:NamedIndividual>
@@ -2090,8 +2090,8 @@
       <rdfs:label>Għaxaq</rdfs:label>
       <skos:definition>The local council of Għaxaq in the country of Malta</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Malta"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Għaxaq</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="mt">Għaxaq</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Għaxaq</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="mt">Għaxaq</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mt;LocalCouncil"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mt;"/>
    </owl:NamedIndividual>
@@ -2121,8 +2121,8 @@
       <rdfs:label>Kirkop</rdfs:label>
       <skos:definition>The local council of Kirkop in the country of Malta</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Malta"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="mt">Kirkop</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Kirkop</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="mt">Kirkop</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Kirkop</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mt;LocalCouncil"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mt;"/>
    </owl:NamedIndividual>
@@ -2152,8 +2152,8 @@
       <rdfs:label>Marsaxlokk</rdfs:label>
       <skos:definition>The local council of Marsaxlokk in the country of Malta</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Malta"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="mt">Marsaxlokk</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Marsaxlokk</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="mt">Marsaxlokk</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Marsaxlokk</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mt;LocalCouncil"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mt;"/>
    </owl:NamedIndividual>
@@ -2183,8 +2183,8 @@
       <rdfs:label>Mdina</rdfs:label>
       <skos:definition>The local council of Mdina in the country of Malta</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Malta"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="mt">Mdina</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Mdina</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="mt">Mdina</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Mdina</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mt;LocalCouncil"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mt;"/>
    </owl:NamedIndividual>

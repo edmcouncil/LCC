@@ -120,7 +120,7 @@
       <rdfs:label>Jihočeský kraj</rdfs:label>
       <skos:definition>The region of Jihočeský kraj in the country of Czechia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Czechia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="cs">Jihočeský kraj</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="cs">Jihočeský kraj</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-cz;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-cz;"/>
    </owl:NamedIndividual>
@@ -148,7 +148,7 @@
       <rdfs:label>Písek</rdfs:label>
       <skos:definition>The district of Písek in the country of Czechia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-cz;JihoceskyKraj"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="cs">Písek</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="cs">Písek</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-cz;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-cz;"/>
    </owl:NamedIndividual>
@@ -178,7 +178,7 @@
       <rdfs:label>Prachatice</rdfs:label>
       <skos:definition>The district of Prachatice in the country of Czechia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-cz;JihoceskyKraj"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="cs">Prachatice</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="cs">Prachatice</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-cz;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-cz;"/>
    </owl:NamedIndividual>
@@ -208,7 +208,7 @@
       <rdfs:label>Český Krumlov</rdfs:label>
       <skos:definition>The district of Český Krumlov in the country of Czechia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-cz;JihoceskyKraj"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="cs">Český Krumlov</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="cs">Český Krumlov</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-cz;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-cz;"/>
    </owl:NamedIndividual>
@@ -238,7 +238,7 @@
       <rdfs:label>Strakonice</rdfs:label>
       <skos:definition>The district of Strakonice in the country of Czechia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-cz;JihoceskyKraj"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="cs">Strakonice</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="cs">Strakonice</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-cz;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-cz;"/>
    </owl:NamedIndividual>
@@ -268,7 +268,7 @@
       <rdfs:label>Tábor</rdfs:label>
       <skos:definition>The district of Tábor in the country of Czechia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-cz;JihoceskyKraj"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="cs">Tábor</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="cs">Tábor</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-cz;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-cz;"/>
    </owl:NamedIndividual>
@@ -298,7 +298,7 @@
       <rdfs:label>Jindřichův Hradec</rdfs:label>
       <skos:definition>The district of Jindřichův Hradec in the country of Czechia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-cz;JihoceskyKraj"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="cs">Jindřichův Hradec</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="cs">Jindřichův Hradec</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-cz;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-cz;"/>
    </owl:NamedIndividual>
@@ -328,7 +328,7 @@
       <rdfs:label>České Budějovice</rdfs:label>
       <skos:definition>The district of České Budějovice in the country of Czechia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-cz;JihoceskyKraj"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="cs">České Budějovice</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="cs">České Budějovice</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-cz;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-cz;"/>
    </owl:NamedIndividual>
@@ -360,7 +360,7 @@
       <rdfs:label>Jihomoravský kraj</rdfs:label>
       <skos:definition>The region of Jihomoravský kraj in the country of Czechia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Czechia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="cs">Jihomoravský kraj</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="cs">Jihomoravský kraj</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-cz;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-cz;"/>
    </owl:NamedIndividual>
@@ -388,7 +388,7 @@
       <rdfs:label>Brno-město</rdfs:label>
       <skos:definition>The district of Brno-město in the country of Czechia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-cz;JihomoravskyKraj"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="cs">Brno-město</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="cs">Brno-město</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-cz;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-cz;"/>
    </owl:NamedIndividual>
@@ -418,7 +418,7 @@
       <rdfs:label>Brno-venkov</rdfs:label>
       <skos:definition>The district of Brno-venkov in the country of Czechia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-cz;JihomoravskyKraj"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="cs">Brno-venkov</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="cs">Brno-venkov</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-cz;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-cz;"/>
    </owl:NamedIndividual>
@@ -448,7 +448,7 @@
       <rdfs:label>Hodonín</rdfs:label>
       <skos:definition>The district of Hodonín in the country of Czechia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-cz;JihomoravskyKraj"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="cs">Hodonín</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="cs">Hodonín</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-cz;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-cz;"/>
    </owl:NamedIndividual>
@@ -478,7 +478,7 @@
       <rdfs:label>Vyškov</rdfs:label>
       <skos:definition>The district of Vyškov in the country of Czechia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-cz;JihomoravskyKraj"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="cs">Vyškov</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="cs">Vyškov</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-cz;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-cz;"/>
    </owl:NamedIndividual>
@@ -508,7 +508,7 @@
       <rdfs:label>Znojmo</rdfs:label>
       <skos:definition>The district of Znojmo in the country of Czechia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-cz;JihomoravskyKraj"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="cs">Znojmo</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="cs">Znojmo</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-cz;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-cz;"/>
    </owl:NamedIndividual>
@@ -538,7 +538,7 @@
       <rdfs:label>Blansko</rdfs:label>
       <skos:definition>The district of Blansko in the country of Czechia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-cz;JihomoravskyKraj"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="cs">Blansko</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="cs">Blansko</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-cz;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-cz;"/>
    </owl:NamedIndividual>
@@ -568,7 +568,7 @@
       <rdfs:label>Břeclav</rdfs:label>
       <skos:definition>The district of Břeclav in the country of Czechia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-cz;JihomoravskyKraj"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="cs">Břeclav</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="cs">Břeclav</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-cz;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-cz;"/>
    </owl:NamedIndividual>
@@ -600,7 +600,7 @@
       <rdfs:label>Karlovarský kraj</rdfs:label>
       <skos:definition>The region of Karlovarský kraj in the country of Czechia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Czechia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="cs">Karlovarský kraj</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="cs">Karlovarský kraj</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-cz;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-cz;"/>
    </owl:NamedIndividual>
@@ -628,7 +628,7 @@
       <rdfs:label>Cheb</rdfs:label>
       <skos:definition>The district of Cheb in the country of Czechia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-cz;KarlovarskyKraj"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="cs">Cheb</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="cs">Cheb</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-cz;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-cz;"/>
    </owl:NamedIndividual>
@@ -658,7 +658,7 @@
       <rdfs:label>Karlovy Vary</rdfs:label>
       <skos:definition>The district of Karlovy Vary in the country of Czechia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-cz;KarlovarskyKraj"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="cs">Karlovy Vary</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="cs">Karlovy Vary</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-cz;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-cz;"/>
    </owl:NamedIndividual>
@@ -688,7 +688,7 @@
       <rdfs:label>Sokolov</rdfs:label>
       <skos:definition>The district of Sokolov in the country of Czechia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-cz;KarlovarskyKraj"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="cs">Sokolov</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="cs">Sokolov</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-cz;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-cz;"/>
    </owl:NamedIndividual>
@@ -720,7 +720,7 @@
       <rdfs:label>Královéhradecký kraj</rdfs:label>
       <skos:definition>The region of Královéhradecký kraj in the country of Czechia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Czechia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="cs">Královéhradecký kraj</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="cs">Královéhradecký kraj</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-cz;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-cz;"/>
    </owl:NamedIndividual>
@@ -748,7 +748,7 @@
       <rdfs:label>Hradec Králové</rdfs:label>
       <skos:definition>The district of Hradec Králové in the country of Czechia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-cz;KralovehradeckyKraj"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="cs">Hradec Králové</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="cs">Hradec Králové</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-cz;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-cz;"/>
    </owl:NamedIndividual>
@@ -778,7 +778,7 @@
       <rdfs:label>Rychnov nad Kněžnou</rdfs:label>
       <skos:definition>The district of Rychnov nad Kněžnou in the country of Czechia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-cz;KralovehradeckyKraj"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="cs">Rychnov nad Kněžnou</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="cs">Rychnov nad Kněžnou</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-cz;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-cz;"/>
    </owl:NamedIndividual>
@@ -808,7 +808,7 @@
       <rdfs:label>Jičín</rdfs:label>
       <skos:definition>The district of Jičín in the country of Czechia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-cz;KralovehradeckyKraj"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="cs">Jičín</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="cs">Jičín</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-cz;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-cz;"/>
    </owl:NamedIndividual>
@@ -838,7 +838,7 @@
       <rdfs:label>Trutnov</rdfs:label>
       <skos:definition>The district of Trutnov in the country of Czechia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-cz;KralovehradeckyKraj"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="cs">Trutnov</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="cs">Trutnov</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-cz;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-cz;"/>
    </owl:NamedIndividual>
@@ -868,7 +868,7 @@
       <rdfs:label>Náchod</rdfs:label>
       <skos:definition>The district of Náchod in the country of Czechia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-cz;KralovehradeckyKraj"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="cs">Náchod</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="cs">Náchod</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-cz;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-cz;"/>
    </owl:NamedIndividual>
@@ -900,7 +900,7 @@
       <rdfs:label>Liberecký kraj</rdfs:label>
       <skos:definition>The region of Liberecký kraj in the country of Czechia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Czechia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="cs">Liberecký kraj</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="cs">Liberecký kraj</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-cz;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-cz;"/>
    </owl:NamedIndividual>
@@ -928,7 +928,7 @@
       <rdfs:label>Jablonec nad Nisou</rdfs:label>
       <skos:definition>The district of Jablonec nad Nisou in the country of Czechia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-cz;LibereckyKraj"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="cs">Jablonec nad Nisou</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="cs">Jablonec nad Nisou</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-cz;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-cz;"/>
    </owl:NamedIndividual>
@@ -958,7 +958,7 @@
       <rdfs:label>Liberec</rdfs:label>
       <skos:definition>The district of Liberec in the country of Czechia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-cz;LibereckyKraj"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="cs">Liberec</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="cs">Liberec</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-cz;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-cz;"/>
    </owl:NamedIndividual>
@@ -988,7 +988,7 @@
       <rdfs:label>Česká Lípa</rdfs:label>
       <skos:definition>The district of Česká Lípa in the country of Czechia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-cz;LibereckyKraj"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="cs">Česká Lípa</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="cs">Česká Lípa</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-cz;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-cz;"/>
    </owl:NamedIndividual>
@@ -1018,7 +1018,7 @@
       <rdfs:label>Semily</rdfs:label>
       <skos:definition>The district of Semily in the country of Czechia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-cz;LibereckyKraj"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="cs">Semily</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="cs">Semily</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-cz;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-cz;"/>
    </owl:NamedIndividual>
@@ -1050,7 +1050,7 @@
       <rdfs:label>Moravskoslezský kraj</rdfs:label>
       <skos:definition>The region of Moravskoslezský kraj in the country of Czechia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Czechia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="cs">Moravskoslezský kraj</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="cs">Moravskoslezský kraj</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-cz;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-cz;"/>
    </owl:NamedIndividual>
@@ -1078,7 +1078,7 @@
       <rdfs:label>Bruntál</rdfs:label>
       <skos:definition>The district of Bruntál in the country of Czechia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-cz;MoravskoslezskyKraj"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="cs">Bruntál</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="cs">Bruntál</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-cz;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-cz;"/>
    </owl:NamedIndividual>
@@ -1108,7 +1108,7 @@
       <rdfs:label>Frýdek Místek</rdfs:label>
       <skos:definition>The district of Frýdek Místek in the country of Czechia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-cz;MoravskoslezskyKraj"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="cs">Frýdek Místek</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="cs">Frýdek Místek</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-cz;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-cz;"/>
    </owl:NamedIndividual>
@@ -1138,7 +1138,7 @@
       <rdfs:label>Karviná</rdfs:label>
       <skos:definition>The district of Karviná in the country of Czechia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-cz;MoravskoslezskyKraj"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="cs">Karviná</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="cs">Karviná</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-cz;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-cz;"/>
    </owl:NamedIndividual>
@@ -1168,7 +1168,7 @@
       <rdfs:label>Ostrava-město</rdfs:label>
       <skos:definition>The district of Ostrava-město in the country of Czechia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-cz;MoravskoslezskyKraj"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="cs">Ostrava-město</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="cs">Ostrava-město</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-cz;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-cz;"/>
    </owl:NamedIndividual>
@@ -1198,7 +1198,7 @@
       <rdfs:label>Nový Jičín</rdfs:label>
       <skos:definition>The district of Nový Jičín in the country of Czechia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-cz;MoravskoslezskyKraj"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="cs">Nový Jičín</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="cs">Nový Jičín</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-cz;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-cz;"/>
    </owl:NamedIndividual>
@@ -1228,7 +1228,7 @@
       <rdfs:label>Opava</rdfs:label>
       <skos:definition>The district of Opava in the country of Czechia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-cz;MoravskoslezskyKraj"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="cs">Opava</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="cs">Opava</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-cz;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-cz;"/>
    </owl:NamedIndividual>
@@ -1260,7 +1260,7 @@
       <rdfs:label>Olomoucký kraj</rdfs:label>
       <skos:definition>The region of Olomoucký kraj in the country of Czechia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Czechia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="cs">Olomoucký kraj</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="cs">Olomoucký kraj</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-cz;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-cz;"/>
    </owl:NamedIndividual>
@@ -1288,7 +1288,7 @@
       <rdfs:label>Přerov</rdfs:label>
       <skos:definition>The district of Přerov in the country of Czechia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-cz;OlomouckyKraj"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="cs">Přerov</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="cs">Přerov</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-cz;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-cz;"/>
    </owl:NamedIndividual>
@@ -1318,7 +1318,7 @@
       <rdfs:label>Olomouc</rdfs:label>
       <skos:definition>The district of Olomouc in the country of Czechia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-cz;OlomouckyKraj"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="cs">Olomouc</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="cs">Olomouc</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-cz;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-cz;"/>
    </owl:NamedIndividual>
@@ -1348,7 +1348,7 @@
       <rdfs:label>Jeseník</rdfs:label>
       <skos:definition>The district of Jeseník in the country of Czechia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-cz;OlomouckyKraj"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="cs">Jeseník</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="cs">Jeseník</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-cz;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-cz;"/>
    </owl:NamedIndividual>
@@ -1378,7 +1378,7 @@
       <rdfs:label>Šumperk</rdfs:label>
       <skos:definition>The district of Šumperk in the country of Czechia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-cz;OlomouckyKraj"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="cs">Šumperk</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="cs">Šumperk</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-cz;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-cz;"/>
    </owl:NamedIndividual>
@@ -1408,7 +1408,7 @@
       <rdfs:label>Prostějov</rdfs:label>
       <skos:definition>The district of Prostějov in the country of Czechia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-cz;OlomouckyKraj"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="cs">Prostějov</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="cs">Prostějov</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-cz;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-cz;"/>
    </owl:NamedIndividual>
@@ -1440,7 +1440,7 @@
       <rdfs:label>Pardubický kraj</rdfs:label>
       <skos:definition>The region of Pardubický kraj in the country of Czechia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Czechia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="cs">Pardubický kraj</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="cs">Pardubický kraj</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-cz;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-cz;"/>
    </owl:NamedIndividual>
@@ -1468,7 +1468,7 @@
       <rdfs:label>Pardubice</rdfs:label>
       <skos:definition>The district of Pardubice in the country of Czechia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-cz;PardubickyKraj"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="cs">Pardubice</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="cs">Pardubice</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-cz;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-cz;"/>
    </owl:NamedIndividual>
@@ -1498,7 +1498,7 @@
       <rdfs:label>Ústí nad Orlicí</rdfs:label>
       <skos:definition>The district of Ústí nad Orlicí in the country of Czechia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-cz;PardubickyKraj"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="cs">Ústí nad Orlicí</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="cs">Ústí nad Orlicí</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-cz;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-cz;"/>
    </owl:NamedIndividual>
@@ -1528,7 +1528,7 @@
       <rdfs:label>Svitavy</rdfs:label>
       <skos:definition>The district of Svitavy in the country of Czechia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-cz;PardubickyKraj"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="cs">Svitavy</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="cs">Svitavy</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-cz;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-cz;"/>
    </owl:NamedIndividual>
@@ -1558,7 +1558,7 @@
       <rdfs:label>Chrudim</rdfs:label>
       <skos:definition>The district of Chrudim in the country of Czechia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-cz;PardubickyKraj"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="cs">Chrudim</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="cs">Chrudim</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-cz;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-cz;"/>
    </owl:NamedIndividual>
@@ -1590,7 +1590,7 @@
       <rdfs:label>Plzeňský kraj</rdfs:label>
       <skos:definition>The region of Plzeňský kraj in the country of Czechia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Czechia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="cs">Plzeňský kraj</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="cs">Plzeňský kraj</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-cz;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-cz;"/>
    </owl:NamedIndividual>
@@ -1618,7 +1618,7 @@
       <rdfs:label>Domažlice</rdfs:label>
       <skos:definition>The district of Domažlice in the country of Czechia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-cz;PlzenskyKraj"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="cs">Domažlice</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="cs">Domažlice</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-cz;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-cz;"/>
    </owl:NamedIndividual>
@@ -1648,7 +1648,7 @@
       <rdfs:label>Tachov</rdfs:label>
       <skos:definition>The district of Tachov in the country of Czechia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-cz;PlzenskyKraj"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="cs">Tachov</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="cs">Tachov</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-cz;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-cz;"/>
    </owl:NamedIndividual>
@@ -1678,7 +1678,7 @@
       <rdfs:label>Plzeň-sever</rdfs:label>
       <skos:definition>The district of Plzeň-sever in the country of Czechia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-cz;PlzenskyKraj"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="cs">Plzeň-sever</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="cs">Plzeň-sever</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-cz;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-cz;"/>
    </owl:NamedIndividual>
@@ -1708,7 +1708,7 @@
       <rdfs:label>Plzeň-jih</rdfs:label>
       <skos:definition>The district of Plzeň-jih in the country of Czechia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-cz;PlzenskyKraj"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="cs">Plzeň-jih</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="cs">Plzeň-jih</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-cz;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-cz;"/>
    </owl:NamedIndividual>
@@ -1738,7 +1738,7 @@
       <rdfs:label>Plzeň-město</rdfs:label>
       <skos:definition>The district of Plzeň-město in the country of Czechia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-cz;PlzenskyKraj"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="cs">Plzeň-město</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="cs">Plzeň-město</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-cz;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-cz;"/>
    </owl:NamedIndividual>
@@ -1768,7 +1768,7 @@
       <rdfs:label>Rokycany</rdfs:label>
       <skos:definition>The district of Rokycany in the country of Czechia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-cz;PlzenskyKraj"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="cs">Rokycany</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="cs">Rokycany</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-cz;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-cz;"/>
    </owl:NamedIndividual>
@@ -1798,7 +1798,7 @@
       <rdfs:label>Klatovy</rdfs:label>
       <skos:definition>The district of Klatovy in the country of Czechia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-cz;PlzenskyKraj"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="cs">Klatovy</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="cs">Klatovy</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-cz;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-cz;"/>
    </owl:NamedIndividual>
@@ -1830,7 +1830,7 @@
       <rdfs:label>Středočeský kraj</rdfs:label>
       <skos:definition>The region of Středočeský kraj in the country of Czechia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Czechia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="cs">Středočeský kraj</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="cs">Středočeský kraj</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-cz;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-cz;"/>
    </owl:NamedIndividual>
@@ -1858,7 +1858,7 @@
       <rdfs:label>Kutná Hora</rdfs:label>
       <skos:definition>The district of Kutná Hora in the country of Czechia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-cz;StredoceskyKraj"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="cs">Kutná Hora</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="cs">Kutná Hora</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-cz;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-cz;"/>
    </owl:NamedIndividual>
@@ -1888,7 +1888,7 @@
       <rdfs:label>Rakovník</rdfs:label>
       <skos:definition>The district of Rakovník in the country of Czechia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-cz;StredoceskyKraj"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="cs">Rakovník</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="cs">Rakovník</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-cz;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-cz;"/>
    </owl:NamedIndividual>
@@ -1918,7 +1918,7 @@
       <rdfs:label>Kladno</rdfs:label>
       <skos:definition>The district of Kladno in the country of Czechia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-cz;StredoceskyKraj"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="cs">Kladno</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="cs">Kladno</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-cz;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-cz;"/>
    </owl:NamedIndividual>
@@ -1948,7 +1948,7 @@
       <rdfs:label>Mladá Boleslav</rdfs:label>
       <skos:definition>The district of Mladá Boleslav in the country of Czechia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-cz;StredoceskyKraj"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="cs">Mladá Boleslav</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="cs">Mladá Boleslav</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-cz;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-cz;"/>
    </owl:NamedIndividual>
@@ -1978,7 +1978,7 @@
       <rdfs:label>Mělník</rdfs:label>
       <skos:definition>The district of Mělník in the country of Czechia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-cz;StredoceskyKraj"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="cs">Mělník</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="cs">Mělník</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-cz;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-cz;"/>
    </owl:NamedIndividual>
@@ -2008,7 +2008,7 @@
       <rdfs:label>Praha-západ</rdfs:label>
       <skos:definition>The district of Praha-západ in the country of Czechia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-cz;StredoceskyKraj"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="cs">Praha-západ</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="cs">Praha-západ</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-cz;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-cz;"/>
    </owl:NamedIndividual>
@@ -2038,7 +2038,7 @@
       <rdfs:label>Příbram</rdfs:label>
       <skos:definition>The district of Příbram in the country of Czechia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-cz;StredoceskyKraj"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="cs">Příbram</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="cs">Příbram</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-cz;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-cz;"/>
    </owl:NamedIndividual>
@@ -2068,7 +2068,7 @@
       <rdfs:label>Benešov</rdfs:label>
       <skos:definition>The district of Benešov in the country of Czechia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-cz;StredoceskyKraj"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="cs">Benešov</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="cs">Benešov</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-cz;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-cz;"/>
    </owl:NamedIndividual>
@@ -2098,7 +2098,7 @@
       <rdfs:label>Beroun</rdfs:label>
       <skos:definition>The district of Beroun in the country of Czechia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-cz;StredoceskyKraj"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="cs">Beroun</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="cs">Beroun</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-cz;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-cz;"/>
    </owl:NamedIndividual>
@@ -2128,7 +2128,7 @@
       <rdfs:label>Kolín</rdfs:label>
       <skos:definition>The district of Kolín in the country of Czechia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-cz;StredoceskyKraj"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="cs">Kolín</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="cs">Kolín</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-cz;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-cz;"/>
    </owl:NamedIndividual>
@@ -2158,7 +2158,7 @@
       <rdfs:label>Praha-východ</rdfs:label>
       <skos:definition>The district of Praha-východ in the country of Czechia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-cz;StredoceskyKraj"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="cs">Praha-východ</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="cs">Praha-východ</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-cz;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-cz;"/>
    </owl:NamedIndividual>
@@ -2188,7 +2188,7 @@
       <rdfs:label>Nymburk</rdfs:label>
       <skos:definition>The district of Nymburk in the country of Czechia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-cz;StredoceskyKraj"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="cs">Nymburk</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="cs">Nymburk</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-cz;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-cz;"/>
    </owl:NamedIndividual>
@@ -2220,7 +2220,7 @@
       <rdfs:label>Praha, Hlavní mešto</rdfs:label>
       <skos:definition>The capital city of Praha, Hlavní mešto in the country of Czechia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Czechia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="cs">Praha, Hlavní mešto</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="cs">Praha, Hlavní mešto</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-cz;CapitalCity"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-cz;"/>
    </owl:NamedIndividual>
@@ -2250,7 +2250,7 @@
       <rdfs:label>Ústecký kraj</rdfs:label>
       <skos:definition>The region of Ústecký kraj in the country of Czechia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Czechia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="cs">Ústecký kraj</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="cs">Ústecký kraj</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-cz;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-cz;"/>
    </owl:NamedIndividual>
@@ -2278,7 +2278,7 @@
       <rdfs:label>Most</rdfs:label>
       <skos:definition>The district of Most in the country of Czechia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-cz;UsteckyKraj"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="cs">Most</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="cs">Most</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-cz;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-cz;"/>
    </owl:NamedIndividual>
@@ -2308,7 +2308,7 @@
       <rdfs:label>Litoměřice</rdfs:label>
       <skos:definition>The district of Litoměřice in the country of Czechia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-cz;UsteckyKraj"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="cs">Litoměřice</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="cs">Litoměřice</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-cz;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-cz;"/>
    </owl:NamedIndividual>
@@ -2338,7 +2338,7 @@
       <rdfs:label>Děčín</rdfs:label>
       <skos:definition>The district of Děčín in the country of Czechia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-cz;UsteckyKraj"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="cs">Děčín</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="cs">Děčín</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-cz;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-cz;"/>
    </owl:NamedIndividual>
@@ -2368,7 +2368,7 @@
       <rdfs:label>Chomutov</rdfs:label>
       <skos:definition>The district of Chomutov in the country of Czechia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-cz;UsteckyKraj"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="cs">Chomutov</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="cs">Chomutov</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-cz;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-cz;"/>
    </owl:NamedIndividual>
@@ -2398,7 +2398,7 @@
       <rdfs:label>Louny</rdfs:label>
       <skos:definition>The district of Louny in the country of Czechia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-cz;UsteckyKraj"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="cs">Louny</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="cs">Louny</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-cz;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-cz;"/>
    </owl:NamedIndividual>
@@ -2428,7 +2428,7 @@
       <rdfs:label>Teplice</rdfs:label>
       <skos:definition>The district of Teplice in the country of Czechia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-cz;UsteckyKraj"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="cs">Teplice</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="cs">Teplice</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-cz;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-cz;"/>
    </owl:NamedIndividual>
@@ -2458,7 +2458,7 @@
       <rdfs:label>Ústí nad Labem</rdfs:label>
       <skos:definition>The district of Ústí nad Labem in the country of Czechia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-cz;UsteckyKraj"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="cs">Ústí nad Labem</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="cs">Ústí nad Labem</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-cz;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-cz;"/>
    </owl:NamedIndividual>
@@ -2490,7 +2490,7 @@
       <rdfs:label>Kraj Vysočina</rdfs:label>
       <skos:definition>The region of Kraj Vysočina in the country of Czechia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Czechia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="cs">Kraj Vysočina</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="cs">Kraj Vysočina</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-cz;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-cz;"/>
    </owl:NamedIndividual>
@@ -2518,7 +2518,7 @@
       <rdfs:label>Havlíčkův Brod</rdfs:label>
       <skos:definition>The district of Havlíčkův Brod in the country of Czechia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-cz;KrajVysocina"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="cs">Havlíčkův Brod</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="cs">Havlíčkův Brod</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-cz;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-cz;"/>
    </owl:NamedIndividual>
@@ -2548,7 +2548,7 @@
       <rdfs:label>Jihlava</rdfs:label>
       <skos:definition>The district of Jihlava in the country of Czechia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-cz;KrajVysocina"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="cs">Jihlava</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="cs">Jihlava</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-cz;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-cz;"/>
    </owl:NamedIndividual>
@@ -2578,7 +2578,7 @@
       <rdfs:label>Pelhřimov</rdfs:label>
       <skos:definition>The district of Pelhřimov in the country of Czechia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-cz;KrajVysocina"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="cs">Pelhřimov</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="cs">Pelhřimov</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-cz;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-cz;"/>
    </owl:NamedIndividual>
@@ -2608,7 +2608,7 @@
       <rdfs:label>Třebíč</rdfs:label>
       <skos:definition>The district of Třebíč in the country of Czechia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-cz;KrajVysocina"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="cs">Třebíč</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="cs">Třebíč</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-cz;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-cz;"/>
    </owl:NamedIndividual>
@@ -2638,7 +2638,7 @@
       <rdfs:label>Žďár nad Sázavou</rdfs:label>
       <skos:definition>The district of Žďár nad Sázavou in the country of Czechia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-cz;KrajVysocina"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="cs">Žďár nad Sázavou</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="cs">Žďár nad Sázavou</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-cz;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-cz;"/>
    </owl:NamedIndividual>
@@ -2670,7 +2670,7 @@
       <rdfs:label>Zlínský kraj</rdfs:label>
       <skos:definition>The region of Zlínský kraj in the country of Czechia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Czechia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="cs">Zlínský kraj</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="cs">Zlínský kraj</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-cz;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-cz;"/>
    </owl:NamedIndividual>
@@ -2698,7 +2698,7 @@
       <rdfs:label>Zlín</rdfs:label>
       <skos:definition>The district of Zlín in the country of Czechia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-cz;ZlinskyKraj"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="cs">Zlín</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="cs">Zlín</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-cz;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-cz;"/>
    </owl:NamedIndividual>
@@ -2728,7 +2728,7 @@
       <rdfs:label>Kroměříž</rdfs:label>
       <skos:definition>The district of Kroměříž in the country of Czechia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-cz;ZlinskyKraj"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="cs">Kroměříž</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="cs">Kroměříž</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-cz;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-cz;"/>
    </owl:NamedIndividual>
@@ -2758,7 +2758,7 @@
       <rdfs:label>Uherské Hradiště</rdfs:label>
       <skos:definition>The district of Uherské Hradiště in the country of Czechia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-cz;ZlinskyKraj"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="cs">Uherské Hradiště</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="cs">Uherské Hradiště</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-cz;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-cz;"/>
    </owl:NamedIndividual>
@@ -2788,7 +2788,7 @@
       <rdfs:label>Vsetín</rdfs:label>
       <skos:definition>The district of Vsetín in the country of Czechia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-cz;ZlinskyKraj"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="cs">Vsetín</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="cs">Vsetín</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-cz;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-cz;"/>
    </owl:NamedIndividual>

@@ -113,7 +113,7 @@
       <rdfs:label>Balkan</rdfs:label>
       <skos:definition>The region of Balkan in the country of Turkmenistan</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Turkmenistan"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="tk">Balkan</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="tk">Balkan</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-tm;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-tm;"/>
    </owl:NamedIndividual>
@@ -143,7 +143,7 @@
       <rdfs:label>Ahal</rdfs:label>
       <skos:definition>The region of Ahal in the country of Turkmenistan</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Turkmenistan"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="tk">Ahal</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="tk">Ahal</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-tm;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-tm;"/>
    </owl:NamedIndividual>
@@ -173,7 +173,7 @@
       <rdfs:label>Aşgabat</rdfs:label>
       <skos:definition>The city of Aşgabat in the country of Turkmenistan</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Turkmenistan"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="tk">Aşgabat</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="tk">Aşgabat</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-tm;City"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-tm;"/>
    </owl:NamedIndividual>
@@ -203,7 +203,7 @@
       <rdfs:label>Daşoguz</rdfs:label>
       <skos:definition>The region of Daşoguz in the country of Turkmenistan</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Turkmenistan"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="tk">Daşoguz</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="tk">Daşoguz</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-tm;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-tm;"/>
    </owl:NamedIndividual>
@@ -233,7 +233,7 @@
       <rdfs:label>Lebap</rdfs:label>
       <skos:definition>The region of Lebap in the country of Turkmenistan</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Turkmenistan"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="tk">Lebap</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="tk">Lebap</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-tm;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-tm;"/>
    </owl:NamedIndividual>
@@ -263,7 +263,7 @@
       <rdfs:label>Mary</rdfs:label>
       <skos:definition>The region of Mary in the country of Turkmenistan</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Turkmenistan"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="tk">Mary</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="tk">Mary</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-tm;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-tm;"/>
    </owl:NamedIndividual>

@@ -113,7 +113,7 @@
       <rdfs:label>Molise</rdfs:label>
       <skos:definition>The region of Molise in the country of Italy</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Italy"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="it">Molise</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="it">Molise</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-it;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-it;"/>
    </owl:NamedIndividual>
@@ -141,7 +141,7 @@
       <rdfs:label>Isernia</rdfs:label>
       <skos:definition>The province of Isernia in the country of Italy</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-it;Molise"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="it">Isernia</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="it">Isernia</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-it;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-it;"/>
    </owl:NamedIndividual>
@@ -171,7 +171,7 @@
       <rdfs:label>Campobasso</rdfs:label>
       <skos:definition>The province of Campobasso in the country of Italy</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-it;Molise"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="it">Campobasso</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="it">Campobasso</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-it;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-it;"/>
    </owl:NamedIndividual>
@@ -203,8 +203,8 @@
       <rdfs:label>Valle d'Aosta</rdfs:label>
       <skos:definition>The region of Valle d'Aosta in the country of Italy</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Italy"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="it">Valle d'Aosta</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Val d'Aoste</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasLocalShortName xml:lang="it">Valle d'Aosta</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Val d'Aoste</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-it;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-it;"/>
    </owl:NamedIndividual>
@@ -232,8 +232,8 @@
       <rdfs:label>Aosta</rdfs:label>
       <skos:definition>The province of Aosta in the country of Italy</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-it;ValleDAosta"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="it">Aosta</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Aoste</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasLocalShortName xml:lang="it">Aosta</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Aoste</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-it;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-it;"/>
    </owl:NamedIndividual>
@@ -265,7 +265,7 @@
       <rdfs:label>Lombardia</rdfs:label>
       <skos:definition>The region of Lombardia in the country of Italy</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Italy"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="it">Lombardia</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="it">Lombardia</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-it;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-it;"/>
    </owl:NamedIndividual>
@@ -293,7 +293,7 @@
       <rdfs:label>Cremona</rdfs:label>
       <skos:definition>The province of Cremona in the country of Italy</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-it;Lombardia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="it">Cremona</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="it">Cremona</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-it;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-it;"/>
    </owl:NamedIndividual>
@@ -323,7 +323,7 @@
       <rdfs:label>Lecco</rdfs:label>
       <skos:definition>The province of Lecco in the country of Italy</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-it;Lombardia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="it">Lecco</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="it">Lecco</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-it;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-it;"/>
    </owl:NamedIndividual>
@@ -353,7 +353,7 @@
       <rdfs:label>Brescia</rdfs:label>
       <skos:definition>The province of Brescia in the country of Italy</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-it;Lombardia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="it">Brescia</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="it">Brescia</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-it;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-it;"/>
    </owl:NamedIndividual>
@@ -383,7 +383,7 @@
       <rdfs:label>Sondrio</rdfs:label>
       <skos:definition>The province of Sondrio in the country of Italy</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-it;Lombardia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="it">Sondrio</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="it">Sondrio</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-it;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-it;"/>
    </owl:NamedIndividual>
@@ -413,7 +413,7 @@
       <rdfs:label>Mantova</rdfs:label>
       <skos:definition>The province of Mantova in the country of Italy</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-it;Lombardia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="it">Mantova</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="it">Mantova</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-it;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-it;"/>
    </owl:NamedIndividual>
@@ -443,7 +443,7 @@
       <rdfs:label>Bergamo</rdfs:label>
       <skos:definition>The province of Bergamo in the country of Italy</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-it;Lombardia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="it">Bergamo</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="it">Bergamo</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-it;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-it;"/>
    </owl:NamedIndividual>
@@ -473,7 +473,7 @@
       <rdfs:label>Varese</rdfs:label>
       <skos:definition>The province of Varese in the country of Italy</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-it;Lombardia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="it">Varese</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="it">Varese</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-it;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-it;"/>
    </owl:NamedIndividual>
@@ -503,7 +503,7 @@
       <rdfs:label>Como</rdfs:label>
       <skos:definition>The province of Como in the country of Italy</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-it;Lombardia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="it">Como</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="it">Como</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-it;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-it;"/>
    </owl:NamedIndividual>
@@ -533,7 +533,7 @@
       <rdfs:label>Lodi</rdfs:label>
       <skos:definition>The province of Lodi in the country of Italy</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-it;Lombardia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="it">Lodi</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="it">Lodi</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-it;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-it;"/>
    </owl:NamedIndividual>
@@ -563,7 +563,7 @@
       <rdfs:label>Milano</rdfs:label>
       <skos:definition>The province of Milano in the country of Italy</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-it;Lombardia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="it">Milano</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="it">Milano</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-it;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-it;"/>
    </owl:NamedIndividual>
@@ -593,7 +593,7 @@
       <rdfs:label>Pavia</rdfs:label>
       <skos:definition>The province of Pavia in the country of Italy</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-it;Lombardia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="it">Pavia</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="it">Pavia</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-it;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-it;"/>
    </owl:NamedIndividual>
@@ -623,7 +623,7 @@
       <rdfs:label>Monza e Brianza</rdfs:label>
       <skos:definition>The province of Monza e Brianza in the country of Italy</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-it;Lombardia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="it">Monza e Brianza</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="it">Monza e Brianza</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-it;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-it;"/>
    </owl:NamedIndividual>
@@ -655,7 +655,7 @@
       <rdfs:label>Friuli-Venezia Giulia</rdfs:label>
       <skos:definition>The region of Friuli-Venezia Giulia in the country of Italy</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Italy"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="it">Friuli-Venezia Giulia</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="it">Friuli-Venezia Giulia</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-it;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-it;"/>
    </owl:NamedIndividual>
@@ -683,7 +683,7 @@
       <rdfs:label>Trieste</rdfs:label>
       <skos:definition>The province of Trieste in the country of Italy</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-it;Friuli-VeneziaGiulia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="it">Trieste</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="it">Trieste</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-it;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-it;"/>
    </owl:NamedIndividual>
@@ -713,7 +713,7 @@
       <rdfs:label>Udine</rdfs:label>
       <skos:definition>The province of Udine in the country of Italy</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-it;Friuli-VeneziaGiulia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="it">Udine</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="it">Udine</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-it;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-it;"/>
    </owl:NamedIndividual>
@@ -743,7 +743,7 @@
       <rdfs:label>Pordenone</rdfs:label>
       <skos:definition>The province of Pordenone in the country of Italy</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-it;Friuli-VeneziaGiulia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="it">Pordenone</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="it">Pordenone</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-it;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-it;"/>
    </owl:NamedIndividual>
@@ -773,7 +773,7 @@
       <rdfs:label>Gorizia</rdfs:label>
       <skos:definition>The province of Gorizia in the country of Italy</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-it;Friuli-VeneziaGiulia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="it">Gorizia</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="it">Gorizia</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-it;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-it;"/>
    </owl:NamedIndividual>
@@ -805,7 +805,7 @@
       <rdfs:label>Veneto</rdfs:label>
       <skos:definition>The region of Veneto in the country of Italy</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Italy"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="it">Veneto</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="it">Veneto</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-it;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-it;"/>
    </owl:NamedIndividual>
@@ -833,7 +833,7 @@
       <rdfs:label>Padova</rdfs:label>
       <skos:definition>The province of Padova in the country of Italy</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-it;Veneto"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="it">Padova</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="it">Padova</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-it;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-it;"/>
    </owl:NamedIndividual>
@@ -863,7 +863,7 @@
       <rdfs:label>Rovigo</rdfs:label>
       <skos:definition>The province of Rovigo in the country of Italy</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-it;Veneto"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="it">Rovigo</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="it">Rovigo</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-it;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-it;"/>
    </owl:NamedIndividual>
@@ -893,7 +893,7 @@
       <rdfs:label>Belluno</rdfs:label>
       <skos:definition>The province of Belluno in the country of Italy</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-it;Veneto"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="it">Belluno</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="it">Belluno</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-it;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-it;"/>
    </owl:NamedIndividual>
@@ -923,7 +923,7 @@
       <rdfs:label>Treviso</rdfs:label>
       <skos:definition>The province of Treviso in the country of Italy</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-it;Veneto"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="it">Treviso</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="it">Treviso</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-it;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-it;"/>
    </owl:NamedIndividual>
@@ -953,7 +953,7 @@
       <rdfs:label>Verona</rdfs:label>
       <skos:definition>The province of Verona in the country of Italy</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-it;Veneto"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="it">Verona</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="it">Verona</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-it;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-it;"/>
    </owl:NamedIndividual>
@@ -983,7 +983,7 @@
       <rdfs:label>Venezia</rdfs:label>
       <skos:definition>The province of Venezia in the country of Italy</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-it;Veneto"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="it">Venezia</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="it">Venezia</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-it;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-it;"/>
    </owl:NamedIndividual>
@@ -1013,7 +1013,7 @@
       <rdfs:label>Vicenza</rdfs:label>
       <skos:definition>The province of Vicenza in the country of Italy</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-it;Veneto"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="it">Vicenza</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="it">Vicenza</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-it;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-it;"/>
    </owl:NamedIndividual>
@@ -1045,7 +1045,7 @@
       <rdfs:label>Liguria</rdfs:label>
       <skos:definition>The region of Liguria in the country of Italy</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Italy"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="it">Liguria</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="it">Liguria</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-it;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-it;"/>
    </owl:NamedIndividual>
@@ -1073,7 +1073,7 @@
       <rdfs:label>La Spezia</rdfs:label>
       <skos:definition>The province of La Spezia in the country of Italy</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-it;Liguria"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="it">La Spezia</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="it">La Spezia</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-it;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-it;"/>
    </owl:NamedIndividual>
@@ -1103,7 +1103,7 @@
       <rdfs:label>Savona</rdfs:label>
       <skos:definition>The province of Savona in the country of Italy</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-it;Liguria"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="it">Savona</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="it">Savona</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-it;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-it;"/>
    </owl:NamedIndividual>
@@ -1133,7 +1133,7 @@
       <rdfs:label>Genova</rdfs:label>
       <skos:definition>The province of Genova in the country of Italy</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-it;Liguria"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="it">Genova</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="it">Genova</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-it;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-it;"/>
    </owl:NamedIndividual>
@@ -1163,7 +1163,7 @@
       <rdfs:label>Imperia</rdfs:label>
       <skos:definition>The province of Imperia in the country of Italy</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-it;Liguria"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="it">Imperia</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="it">Imperia</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-it;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-it;"/>
    </owl:NamedIndividual>
@@ -1195,7 +1195,7 @@
       <rdfs:label>Emilia-Romagna</rdfs:label>
       <skos:definition>The region of Emilia-Romagna in the country of Italy</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Italy"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="it">Emilia-Romagna</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="it">Emilia-Romagna</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-it;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-it;"/>
    </owl:NamedIndividual>
@@ -1223,7 +1223,7 @@
       <rdfs:label>Forlì-Cesena</rdfs:label>
       <skos:definition>The province of Forlì-Cesena in the country of Italy</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-it;Emilia-Romagna"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="it">Forlì-Cesena</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="it">Forlì-Cesena</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-it;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-it;"/>
    </owl:NamedIndividual>
@@ -1253,7 +1253,7 @@
       <rdfs:label>Ferrara</rdfs:label>
       <skos:definition>The province of Ferrara in the country of Italy</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-it;Emilia-Romagna"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="it">Ferrara</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="it">Ferrara</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-it;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-it;"/>
    </owl:NamedIndividual>
@@ -1283,7 +1283,7 @@
       <rdfs:label>Piacenza</rdfs:label>
       <skos:definition>The province of Piacenza in the country of Italy</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-it;Emilia-Romagna"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="it">Piacenza</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="it">Piacenza</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-it;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-it;"/>
    </owl:NamedIndividual>
@@ -1313,7 +1313,7 @@
       <rdfs:label>Ravenna</rdfs:label>
       <skos:definition>The province of Ravenna in the country of Italy</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-it;Emilia-Romagna"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="it">Ravenna</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="it">Ravenna</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-it;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-it;"/>
    </owl:NamedIndividual>
@@ -1343,7 +1343,7 @@
       <rdfs:label>Bologna</rdfs:label>
       <skos:definition>The province of Bologna in the country of Italy</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-it;Emilia-Romagna"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="it">Bologna</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="it">Bologna</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-it;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-it;"/>
    </owl:NamedIndividual>
@@ -1373,7 +1373,7 @@
       <rdfs:label>Modena</rdfs:label>
       <skos:definition>The province of Modena in the country of Italy</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-it;Emilia-Romagna"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="it">Modena</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="it">Modena</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-it;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-it;"/>
    </owl:NamedIndividual>
@@ -1403,7 +1403,7 @@
       <rdfs:label>Rimini</rdfs:label>
       <skos:definition>The province of Rimini in the country of Italy</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-it;Emilia-Romagna"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="it">Rimini</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="it">Rimini</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-it;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-it;"/>
    </owl:NamedIndividual>
@@ -1433,7 +1433,7 @@
       <rdfs:label>Parma</rdfs:label>
       <skos:definition>The province of Parma in the country of Italy</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-it;Emilia-Romagna"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="it">Parma</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="it">Parma</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-it;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-it;"/>
    </owl:NamedIndividual>
@@ -1463,7 +1463,7 @@
       <rdfs:label>Reggio Emilia</rdfs:label>
       <skos:definition>The province of Reggio Emilia in the country of Italy</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-it;Emilia-Romagna"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="it">Reggio Emilia</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="it">Reggio Emilia</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-it;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-it;"/>
    </owl:NamedIndividual>
@@ -1495,7 +1495,7 @@
       <rdfs:label>Basilicata</rdfs:label>
       <skos:definition>The region of Basilicata in the country of Italy</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Italy"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="it">Basilicata</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="it">Basilicata</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-it;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-it;"/>
    </owl:NamedIndividual>
@@ -1523,7 +1523,7 @@
       <rdfs:label>Matera</rdfs:label>
       <skos:definition>The province of Matera in the country of Italy</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-it;Basilicata"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="it">Matera</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="it">Matera</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-it;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-it;"/>
    </owl:NamedIndividual>
@@ -1553,7 +1553,7 @@
       <rdfs:label>Potenza</rdfs:label>
       <skos:definition>The province of Potenza in the country of Italy</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-it;Basilicata"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="it">Potenza</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="it">Potenza</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-it;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-it;"/>
    </owl:NamedIndividual>
@@ -1585,7 +1585,7 @@
       <rdfs:label>Sicilia</rdfs:label>
       <skos:definition>The region of Sicilia in the country of Italy</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Italy"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="it">Sicilia</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="it">Sicilia</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-it;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-it;"/>
    </owl:NamedIndividual>
@@ -1613,7 +1613,7 @@
       <rdfs:label>Agrigento</rdfs:label>
       <skos:definition>The province of Agrigento in the country of Italy</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-it;Sicilia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="it">Agrigento</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="it">Agrigento</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-it;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-it;"/>
    </owl:NamedIndividual>
@@ -1643,7 +1643,7 @@
       <rdfs:label>Palermo</rdfs:label>
       <skos:definition>The province of Palermo in the country of Italy</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-it;Sicilia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="it">Palermo</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="it">Palermo</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-it;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-it;"/>
    </owl:NamedIndividual>
@@ -1673,7 +1673,7 @@
       <rdfs:label>Trapani</rdfs:label>
       <skos:definition>The province of Trapani in the country of Italy</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-it;Sicilia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="it">Trapani</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="it">Trapani</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-it;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-it;"/>
    </owl:NamedIndividual>
@@ -1703,7 +1703,7 @@
       <rdfs:label>Caltanissetta</rdfs:label>
       <skos:definition>The province of Caltanissetta in the country of Italy</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-it;Sicilia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="it">Caltanissetta</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="it">Caltanissetta</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-it;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-it;"/>
    </owl:NamedIndividual>
@@ -1733,7 +1733,7 @@
       <rdfs:label>Ragusa</rdfs:label>
       <skos:definition>The province of Ragusa in the country of Italy</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-it;Sicilia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="it">Ragusa</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="it">Ragusa</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-it;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-it;"/>
    </owl:NamedIndividual>
@@ -1763,7 +1763,7 @@
       <rdfs:label>Siracusa</rdfs:label>
       <skos:definition>The province of Siracusa in the country of Italy</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-it;Sicilia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="it">Siracusa</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="it">Siracusa</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-it;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-it;"/>
    </owl:NamedIndividual>
@@ -1793,7 +1793,7 @@
       <rdfs:label>Enna</rdfs:label>
       <skos:definition>The province of Enna in the country of Italy</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-it;Sicilia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="it">Enna</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="it">Enna</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-it;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-it;"/>
    </owl:NamedIndividual>
@@ -1823,7 +1823,7 @@
       <rdfs:label>Messina</rdfs:label>
       <skos:definition>The province of Messina in the country of Italy</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-it;Sicilia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="it">Messina</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="it">Messina</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-it;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-it;"/>
    </owl:NamedIndividual>
@@ -1853,7 +1853,7 @@
       <rdfs:label>Catania</rdfs:label>
       <skos:definition>The province of Catania in the country of Italy</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-it;Sicilia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="it">Catania</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="it">Catania</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-it;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-it;"/>
    </owl:NamedIndividual>
@@ -1885,7 +1885,7 @@
       <rdfs:label>Sardegna</rdfs:label>
       <skos:definition>The region of Sardegna in the country of Italy</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Italy"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="it">Sardegna</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="it">Sardegna</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-it;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-it;"/>
    </owl:NamedIndividual>
@@ -1913,7 +1913,7 @@
       <rdfs:label>Cagliari</rdfs:label>
       <skos:definition>The province of Cagliari in the country of Italy</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-it;Sardegna"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="it">Cagliari</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="it">Cagliari</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-it;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-it;"/>
    </owl:NamedIndividual>
@@ -1943,7 +1943,7 @@
       <rdfs:label>Carbonia-Iglesias</rdfs:label>
       <skos:definition>The province of Carbonia-Iglesias in the country of Italy</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-it;Sardegna"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="it">Carbonia-Iglesias</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="it">Carbonia-Iglesias</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-it;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-it;"/>
    </owl:NamedIndividual>
@@ -1973,7 +1973,7 @@
       <rdfs:label>Ogliastra</rdfs:label>
       <skos:definition>The province of Ogliastra in the country of Italy</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-it;Sardegna"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="it">Ogliastra</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="it">Ogliastra</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-it;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-it;"/>
    </owl:NamedIndividual>
@@ -2003,7 +2003,7 @@
       <rdfs:label>Oristano</rdfs:label>
       <skos:definition>The province of Oristano in the country of Italy</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-it;Sardegna"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="it">Oristano</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="it">Oristano</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-it;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-it;"/>
    </owl:NamedIndividual>
@@ -2033,7 +2033,7 @@
       <rdfs:label>Olbia-Tempio</rdfs:label>
       <skos:definition>The province of Olbia-Tempio in the country of Italy</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-it;Sardegna"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="it">Olbia-Tempio</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="it">Olbia-Tempio</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-it;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-it;"/>
    </owl:NamedIndividual>
@@ -2063,7 +2063,7 @@
       <rdfs:label>Medio Campidano</rdfs:label>
       <skos:definition>The province of Medio Campidano in the country of Italy</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-it;Sardegna"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="it">Medio Campidano</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="it">Medio Campidano</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-it;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-it;"/>
    </owl:NamedIndividual>
@@ -2093,7 +2093,7 @@
       <rdfs:label>Sassari</rdfs:label>
       <skos:definition>The province of Sassari in the country of Italy</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-it;Sardegna"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="it">Sassari</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="it">Sassari</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-it;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-it;"/>
    </owl:NamedIndividual>
@@ -2123,7 +2123,7 @@
       <rdfs:label>Nuoro</rdfs:label>
       <skos:definition>The province of Nuoro in the country of Italy</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-it;Sardegna"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="it">Nuoro</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="it">Nuoro</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-it;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-it;"/>
    </owl:NamedIndividual>
@@ -2155,7 +2155,7 @@
       <rdfs:label>Umbria</rdfs:label>
       <skos:definition>The region of Umbria in the country of Italy</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Italy"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="it">Umbria</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="it">Umbria</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-it;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-it;"/>
    </owl:NamedIndividual>
@@ -2183,7 +2183,7 @@
       <rdfs:label>Perugia</rdfs:label>
       <skos:definition>The province of Perugia in the country of Italy</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-it;Umbria"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="it">Perugia</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="it">Perugia</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-it;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-it;"/>
    </owl:NamedIndividual>
@@ -2213,7 +2213,7 @@
       <rdfs:label>Terni</rdfs:label>
       <skos:definition>The province of Terni in the country of Italy</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-it;Umbria"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="it">Terni</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="it">Terni</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-it;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-it;"/>
    </owl:NamedIndividual>
@@ -2245,7 +2245,7 @@
       <rdfs:label>Campania</rdfs:label>
       <skos:definition>The region of Campania in the country of Italy</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Italy"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="it">Campania</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="it">Campania</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-it;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-it;"/>
    </owl:NamedIndividual>
@@ -2273,7 +2273,7 @@
       <rdfs:label>Napoli</rdfs:label>
       <skos:definition>The province of Napoli in the country of Italy</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-it;Campania"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="it">Napoli</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="it">Napoli</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-it;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-it;"/>
    </owl:NamedIndividual>
@@ -2303,7 +2303,7 @@
       <rdfs:label>Avellino</rdfs:label>
       <skos:definition>The province of Avellino in the country of Italy</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-it;Campania"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="it">Avellino</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="it">Avellino</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-it;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-it;"/>
    </owl:NamedIndividual>
@@ -2333,7 +2333,7 @@
       <rdfs:label>Benevento</rdfs:label>
       <skos:definition>The province of Benevento in the country of Italy</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-it;Campania"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="it">Benevento</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="it">Benevento</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-it;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-it;"/>
    </owl:NamedIndividual>
@@ -2363,7 +2363,7 @@
       <rdfs:label>Salerno</rdfs:label>
       <skos:definition>The province of Salerno in the country of Italy</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-it;Campania"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="it">Salerno</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="it">Salerno</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-it;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-it;"/>
    </owl:NamedIndividual>
@@ -2393,7 +2393,7 @@
       <rdfs:label>Caserta</rdfs:label>
       <skos:definition>The province of Caserta in the country of Italy</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-it;Campania"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="it">Caserta</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="it">Caserta</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-it;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-it;"/>
    </owl:NamedIndividual>
@@ -2425,8 +2425,8 @@
       <rdfs:label>Trentino-Südtirol</rdfs:label>
       <skos:definition>The region of Trentino-Südtirol in the country of Italy</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Italy"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="de">Trentino-Südtirol</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="it">Trentino-Alto Adige</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="de">Trentino-Südtirol</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="it">Trentino-Alto Adige</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-it;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-it;"/>
    </owl:NamedIndividual>
@@ -2454,7 +2454,7 @@
       <rdfs:label>Trento</rdfs:label>
       <skos:definition>The province of Trento in the country of Italy</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-it;Trentino-Sudtirol"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="it">Trento</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="it">Trento</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-it;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-it;"/>
    </owl:NamedIndividual>
@@ -2484,8 +2484,8 @@
       <rdfs:label>Bolzano</rdfs:label>
       <skos:definition>The province of Bolzano in the country of Italy</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-it;Trentino-Sudtirol"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="it">Bolzano</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="de">Bozen</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="it">Bolzano</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="de">Bozen</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-it;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-it;"/>
    </owl:NamedIndividual>
@@ -2517,7 +2517,7 @@
       <rdfs:label>Lazio</rdfs:label>
       <skos:definition>The region of Lazio in the country of Italy</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Italy"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="it">Lazio</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="it">Lazio</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-it;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-it;"/>
    </owl:NamedIndividual>
@@ -2545,7 +2545,7 @@
       <rdfs:label>Frosinone</rdfs:label>
       <skos:definition>The province of Frosinone in the country of Italy</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-it;Lazio"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="it">Frosinone</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="it">Frosinone</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-it;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-it;"/>
    </owl:NamedIndividual>
@@ -2575,7 +2575,7 @@
       <rdfs:label>Rieti</rdfs:label>
       <skos:definition>The province of Rieti in the country of Italy</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-it;Lazio"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="it">Rieti</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="it">Rieti</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-it;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-it;"/>
    </owl:NamedIndividual>
@@ -2605,7 +2605,7 @@
       <rdfs:label>Roma</rdfs:label>
       <skos:definition>The province of Roma in the country of Italy</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-it;Lazio"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="it">Roma</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="it">Roma</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-it;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-it;"/>
    </owl:NamedIndividual>
@@ -2635,7 +2635,7 @@
       <rdfs:label>Viterbo</rdfs:label>
       <skos:definition>The province of Viterbo in the country of Italy</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-it;Lazio"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="it">Viterbo</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="it">Viterbo</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-it;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-it;"/>
    </owl:NamedIndividual>
@@ -2665,7 +2665,7 @@
       <rdfs:label>Latina</rdfs:label>
       <skos:definition>The province of Latina in the country of Italy</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-it;Lazio"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="it">Latina</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="it">Latina</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-it;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-it;"/>
    </owl:NamedIndividual>
@@ -2697,7 +2697,7 @@
       <rdfs:label>Toscana</rdfs:label>
       <skos:definition>The region of Toscana in the country of Italy</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Italy"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="it">Toscana</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="it">Toscana</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-it;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-it;"/>
    </owl:NamedIndividual>
@@ -2725,7 +2725,7 @@
       <rdfs:label>Prato</rdfs:label>
       <skos:definition>The province of Prato in the country of Italy</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-it;Toscana"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="it">Prato</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="it">Prato</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-it;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-it;"/>
    </owl:NamedIndividual>
@@ -2755,7 +2755,7 @@
       <rdfs:label>Pistoia</rdfs:label>
       <skos:definition>The province of Pistoia in the country of Italy</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-it;Toscana"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="it">Pistoia</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="it">Pistoia</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-it;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-it;"/>
    </owl:NamedIndividual>
@@ -2785,7 +2785,7 @@
       <rdfs:label>Lucca</rdfs:label>
       <skos:definition>The province of Lucca in the country of Italy</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-it;Toscana"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="it">Lucca</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="it">Lucca</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-it;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-it;"/>
    </owl:NamedIndividual>
@@ -2815,7 +2815,7 @@
       <rdfs:label>Siena</rdfs:label>
       <skos:definition>The province of Siena in the country of Italy</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-it;Toscana"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="it">Siena</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="it">Siena</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-it;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-it;"/>
    </owl:NamedIndividual>
@@ -2845,7 +2845,7 @@
       <rdfs:label>Massa-Carrara</rdfs:label>
       <skos:definition>The province of Massa-Carrara in the country of Italy</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-it;Toscana"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="it">Massa-Carrara</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="it">Massa-Carrara</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-it;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-it;"/>
    </owl:NamedIndividual>
@@ -2875,7 +2875,7 @@
       <rdfs:label>Pisa</rdfs:label>
       <skos:definition>The province of Pisa in the country of Italy</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-it;Toscana"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="it">Pisa</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="it">Pisa</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-it;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-it;"/>
    </owl:NamedIndividual>
@@ -2905,7 +2905,7 @@
       <rdfs:label>Firenze</rdfs:label>
       <skos:definition>The province of Firenze in the country of Italy</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-it;Toscana"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="it">Firenze</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="it">Firenze</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-it;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-it;"/>
    </owl:NamedIndividual>
@@ -2935,7 +2935,7 @@
       <rdfs:label>Arezzo</rdfs:label>
       <skos:definition>The province of Arezzo in the country of Italy</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-it;Toscana"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="it">Arezzo</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="it">Arezzo</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-it;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-it;"/>
    </owl:NamedIndividual>
@@ -2965,7 +2965,7 @@
       <rdfs:label>Livorno</rdfs:label>
       <skos:definition>The province of Livorno in the country of Italy</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-it;Toscana"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="it">Livorno</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="it">Livorno</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-it;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-it;"/>
    </owl:NamedIndividual>
@@ -2995,7 +2995,7 @@
       <rdfs:label>Grosseto</rdfs:label>
       <skos:definition>The province of Grosseto in the country of Italy</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-it;Toscana"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="it">Grosseto</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="it">Grosseto</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-it;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-it;"/>
    </owl:NamedIndividual>
@@ -3027,7 +3027,7 @@
       <rdfs:label>Puglia</rdfs:label>
       <skos:definition>The region of Puglia in the country of Italy</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Italy"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="it">Puglia</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="it">Puglia</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-it;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-it;"/>
    </owl:NamedIndividual>
@@ -3055,7 +3055,7 @@
       <rdfs:label>Barletta-Andria-Trani</rdfs:label>
       <skos:definition>The province of Barletta-Andria-Trani in the country of Italy</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-it;Puglia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="it">Barletta-Andria-Trani</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="it">Barletta-Andria-Trani</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-it;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-it;"/>
    </owl:NamedIndividual>
@@ -3085,7 +3085,7 @@
       <rdfs:label>Foggia</rdfs:label>
       <skos:definition>The province of Foggia in the country of Italy</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-it;Puglia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="it">Foggia</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="it">Foggia</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-it;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-it;"/>
    </owl:NamedIndividual>
@@ -3115,7 +3115,7 @@
       <rdfs:label>Lecce</rdfs:label>
       <skos:definition>The province of Lecce in the country of Italy</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-it;Puglia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="it">Lecce</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="it">Lecce</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-it;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-it;"/>
    </owl:NamedIndividual>
@@ -3145,7 +3145,7 @@
       <rdfs:label>Bari</rdfs:label>
       <skos:definition>The province of Bari in the country of Italy</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-it;Puglia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="it">Bari</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="it">Bari</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-it;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-it;"/>
    </owl:NamedIndividual>
@@ -3175,7 +3175,7 @@
       <rdfs:label>Brindisi</rdfs:label>
       <skos:definition>The province of Brindisi in the country of Italy</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-it;Puglia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="it">Brindisi</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="it">Brindisi</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-it;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-it;"/>
    </owl:NamedIndividual>
@@ -3205,7 +3205,7 @@
       <rdfs:label>Taranto</rdfs:label>
       <skos:definition>The province of Taranto in the country of Italy</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-it;Puglia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="it">Taranto</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="it">Taranto</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-it;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-it;"/>
    </owl:NamedIndividual>
@@ -3237,7 +3237,7 @@
       <rdfs:label>Calabria</rdfs:label>
       <skos:definition>The region of Calabria in the country of Italy</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Italy"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="it">Calabria</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="it">Calabria</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-it;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-it;"/>
    </owl:NamedIndividual>
@@ -3265,7 +3265,7 @@
       <rdfs:label>Reggio Calabria</rdfs:label>
       <skos:definition>The province of Reggio Calabria in the country of Italy</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-it;Calabria"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="it">Reggio Calabria</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="it">Reggio Calabria</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-it;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-it;"/>
    </owl:NamedIndividual>
@@ -3295,7 +3295,7 @@
       <rdfs:label>Vibo Valentia</rdfs:label>
       <skos:definition>The province of Vibo Valentia in the country of Italy</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-it;Calabria"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="it">Vibo Valentia</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="it">Vibo Valentia</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-it;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-it;"/>
    </owl:NamedIndividual>
@@ -3325,7 +3325,7 @@
       <rdfs:label>Cosenza</rdfs:label>
       <skos:definition>The province of Cosenza in the country of Italy</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-it;Calabria"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="it">Cosenza</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="it">Cosenza</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-it;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-it;"/>
    </owl:NamedIndividual>
@@ -3355,7 +3355,7 @@
       <rdfs:label>Catanzaro</rdfs:label>
       <skos:definition>The province of Catanzaro in the country of Italy</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-it;Calabria"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="it">Catanzaro</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="it">Catanzaro</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-it;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-it;"/>
    </owl:NamedIndividual>
@@ -3385,7 +3385,7 @@
       <rdfs:label>Crotone</rdfs:label>
       <skos:definition>The province of Crotone in the country of Italy</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-it;Calabria"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="it">Crotone</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="it">Crotone</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-it;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-it;"/>
    </owl:NamedIndividual>
@@ -3417,7 +3417,7 @@
       <rdfs:label>Piemonte</rdfs:label>
       <skos:definition>The region of Piemonte in the country of Italy</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Italy"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="it">Piemonte</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="it">Piemonte</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-it;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-it;"/>
    </owl:NamedIndividual>
@@ -3445,7 +3445,7 @@
       <rdfs:label>Vercelli</rdfs:label>
       <skos:definition>The province of Vercelli in the country of Italy</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-it;Piemonte"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="it">Vercelli</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="it">Vercelli</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-it;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-it;"/>
    </owl:NamedIndividual>
@@ -3475,7 +3475,7 @@
       <rdfs:label>Biella</rdfs:label>
       <skos:definition>The province of Biella in the country of Italy</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-it;Piemonte"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="it">Biella</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="it">Biella</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-it;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-it;"/>
    </owl:NamedIndividual>
@@ -3505,7 +3505,7 @@
       <rdfs:label>Novara</rdfs:label>
       <skos:definition>The province of Novara in the country of Italy</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-it;Piemonte"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="it">Novara</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="it">Novara</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-it;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-it;"/>
    </owl:NamedIndividual>
@@ -3535,7 +3535,7 @@
       <rdfs:label>Verbano-Cusio-Ossola</rdfs:label>
       <skos:definition>The province of Verbano-Cusio-Ossola in the country of Italy</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-it;Piemonte"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="it">Verbano-Cusio-Ossola</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="it">Verbano-Cusio-Ossola</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-it;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-it;"/>
    </owl:NamedIndividual>
@@ -3565,7 +3565,7 @@
       <rdfs:label>Torino</rdfs:label>
       <skos:definition>The province of Torino in the country of Italy</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-it;Piemonte"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="it">Torino</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="it">Torino</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-it;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-it;"/>
    </owl:NamedIndividual>
@@ -3595,7 +3595,7 @@
       <rdfs:label>Alessandria</rdfs:label>
       <skos:definition>The province of Alessandria in the country of Italy</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-it;Piemonte"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="it">Alessandria</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="it">Alessandria</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-it;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-it;"/>
    </owl:NamedIndividual>
@@ -3625,7 +3625,7 @@
       <rdfs:label>Asti</rdfs:label>
       <skos:definition>The province of Asti in the country of Italy</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-it;Piemonte"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="it">Asti</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="it">Asti</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-it;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-it;"/>
    </owl:NamedIndividual>
@@ -3655,7 +3655,7 @@
       <rdfs:label>Cuneo</rdfs:label>
       <skos:definition>The province of Cuneo in the country of Italy</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-it;Piemonte"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="it">Cuneo</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="it">Cuneo</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-it;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-it;"/>
    </owl:NamedIndividual>
@@ -3687,7 +3687,7 @@
       <rdfs:label>Marche</rdfs:label>
       <skos:definition>The region of Marche in the country of Italy</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Italy"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="it">Marche</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="it">Marche</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-it;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-it;"/>
    </owl:NamedIndividual>
@@ -3715,7 +3715,7 @@
       <rdfs:label>Fermo</rdfs:label>
       <skos:definition>The province of Fermo in the country of Italy</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-it;Marche"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="it">Fermo</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="it">Fermo</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-it;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-it;"/>
    </owl:NamedIndividual>
@@ -3745,7 +3745,7 @@
       <rdfs:label>Ascoli Piceno</rdfs:label>
       <skos:definition>The province of Ascoli Piceno in the country of Italy</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-it;Marche"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="it">Ascoli Piceno</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="it">Ascoli Piceno</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-it;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-it;"/>
    </owl:NamedIndividual>
@@ -3775,7 +3775,7 @@
       <rdfs:label>Ancona</rdfs:label>
       <skos:definition>The province of Ancona in the country of Italy</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-it;Marche"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="it">Ancona</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="it">Ancona</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-it;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-it;"/>
    </owl:NamedIndividual>
@@ -3805,7 +3805,7 @@
       <rdfs:label>Macerata</rdfs:label>
       <skos:definition>The province of Macerata in the country of Italy</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-it;Marche"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="it">Macerata</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="it">Macerata</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-it;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-it;"/>
    </owl:NamedIndividual>
@@ -3835,7 +3835,7 @@
       <rdfs:label>Pesaro e Urbino</rdfs:label>
       <skos:definition>The province of Pesaro e Urbino in the country of Italy</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-it;Marche"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="it">Pesaro e Urbino</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="it">Pesaro e Urbino</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-it;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-it;"/>
    </owl:NamedIndividual>
@@ -3867,7 +3867,7 @@
       <rdfs:label>Abruzzo</rdfs:label>
       <skos:definition>The region of Abruzzo in the country of Italy</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Italy"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="it">Abruzzo</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="it">Abruzzo</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-it;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-it;"/>
    </owl:NamedIndividual>
@@ -3895,7 +3895,7 @@
       <rdfs:label>Pescara</rdfs:label>
       <skos:definition>The province of Pescara in the country of Italy</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-it;Abruzzo"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="it">Pescara</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="it">Pescara</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-it;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-it;"/>
    </owl:NamedIndividual>
@@ -3925,7 +3925,7 @@
       <rdfs:label>L'Aquila</rdfs:label>
       <skos:definition>The province of L'Aquila in the country of Italy</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-it;Abruzzo"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="it">L'Aquila</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="it">L'Aquila</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-it;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-it;"/>
    </owl:NamedIndividual>
@@ -3955,7 +3955,7 @@
       <rdfs:label>Chieti</rdfs:label>
       <skos:definition>The province of Chieti in the country of Italy</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-it;Abruzzo"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="it">Chieti</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="it">Chieti</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-it;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-it;"/>
    </owl:NamedIndividual>
@@ -3985,7 +3985,7 @@
       <rdfs:label>Teramo</rdfs:label>
       <skos:definition>The province of Teramo in the country of Italy</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-it;Abruzzo"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="it">Teramo</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="it">Teramo</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-it;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-it;"/>
    </owl:NamedIndividual>

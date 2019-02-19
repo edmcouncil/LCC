@@ -141,8 +141,8 @@
       <rdfs:label>Udmurtskaya Respublika</rdfs:label>
       <skos:definition>The republic of Udmurtskaya Respublika in the country of Russian Federation (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;RussianFederation"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ru">Udmurtskaya Respublika</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ru">Udmurtskaja Respublika</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ru">Udmurtskaya Respublika</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ru">Udmurtskaja Respublika</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ru;Republic"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ru;"/>
    </owl:NamedIndividual>
@@ -172,8 +172,8 @@
       <rdfs:label>Čuvašskaja Respublika</rdfs:label>
       <skos:definition>The republic of Čuvašskaja Respublika in the country of Russian Federation (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;RussianFederation"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ru">Čuvašskaja Respublika</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ru">Chuvashskaya Respublika</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ru">Čuvašskaja Respublika</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ru">Chuvashskaya Respublika</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ru;Republic"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ru;"/>
    </owl:NamedIndividual>
@@ -203,8 +203,8 @@
       <rdfs:label>Dagestan, Respublika</rdfs:label>
       <skos:definition>The republic of Dagestan, Respublika in the country of Russian Federation (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;RussianFederation"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ru">Dagestan, Respublika</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ru">Dagestan, Respublika</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ru">Dagestan, Respublika</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ru">Dagestan, Respublika</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ru;Republic"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ru;"/>
    </owl:NamedIndividual>
@@ -234,8 +234,8 @@
       <rdfs:label>Irkutskaya oblast'</rdfs:label>
       <skos:definition>The administrative region of Irkutskaya oblast' in the country of Russian Federation (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;RussianFederation"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ru">Irkutskaya oblast'</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ru">Irkutskaja oblast'</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ru">Irkutskaya oblast'</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ru">Irkutskaja oblast'</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ru;AdministrativeRegion"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ru;"/>
    </owl:NamedIndividual>
@@ -265,8 +265,8 @@
       <rdfs:label>Kamchatskiy kray</rdfs:label>
       <skos:definition>The administrative territory of Kamchatskiy kray in the country of Russian Federation (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;RussianFederation"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ru">Kamchatskiy kray</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ru">Kamčatskij kraj</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ru">Kamchatskiy kray</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ru">Kamčatskij kraj</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ru;AdministrativeTerritory"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ru;"/>
    </owl:NamedIndividual>
@@ -296,8 +296,8 @@
       <rdfs:label>Khabarovskiy kray</rdfs:label>
       <skos:definition>The administrative territory of Khabarovskiy kray in the country of Russian Federation (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;RussianFederation"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ru">Khabarovskiy kray</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ru">Habarovskij kraj</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ru">Khabarovskiy kray</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ru">Habarovskij kraj</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ru;AdministrativeTerritory"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ru;"/>
    </owl:NamedIndividual>
@@ -327,8 +327,8 @@
       <rdfs:label>Magadanskaya oblast'</rdfs:label>
       <skos:definition>The administrative region of Magadanskaya oblast' in the country of Russian Federation (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;RussianFederation"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ru">Magadanskaya oblast'</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ru">Magadanskaja oblast'</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ru">Magadanskaya oblast'</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ru">Magadanskaja oblast'</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ru;AdministrativeRegion"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ru;"/>
    </owl:NamedIndividual>
@@ -358,8 +358,8 @@
       <rdfs:label>Novgorodskaja oblast'</rdfs:label>
       <skos:definition>The administrative region of Novgorodskaja oblast' in the country of Russian Federation (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;RussianFederation"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ru">Novgorodskaja oblast'</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ru">Novgorodskaya oblast'</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ru">Novgorodskaja oblast'</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ru">Novgorodskaya oblast'</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ru;AdministrativeRegion"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ru;"/>
    </owl:NamedIndividual>
@@ -389,8 +389,8 @@
       <rdfs:label>Nižegorodskaja oblast'</rdfs:label>
       <skos:definition>The administrative region of Nižegorodskaja oblast' in the country of Russian Federation (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;RussianFederation"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ru">Nižegorodskaja oblast'</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ru">Nizhegorodskaya oblast'</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ru">Nižegorodskaja oblast'</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ru">Nizhegorodskaya oblast'</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ru;AdministrativeRegion"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ru;"/>
    </owl:NamedIndividual>
@@ -420,8 +420,8 @@
       <rdfs:label>Orenburgskaja oblast'</rdfs:label>
       <skos:definition>The administrative region of Orenburgskaja oblast' in the country of Russian Federation (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;RussianFederation"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ru">Orenburgskaja oblast'</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ru">Orenburgskaya oblast'</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ru">Orenburgskaja oblast'</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ru">Orenburgskaya oblast'</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ru;AdministrativeRegion"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ru;"/>
    </owl:NamedIndividual>
@@ -451,8 +451,8 @@
       <rdfs:label>Orlovskaja oblast'</rdfs:label>
       <skos:definition>The administrative region of Orlovskaja oblast' in the country of Russian Federation (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;RussianFederation"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ru">Orlovskaja oblast'</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ru">Orlovskaya oblast'</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ru">Orlovskaja oblast'</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ru">Orlovskaya oblast'</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ru;AdministrativeRegion"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ru;"/>
    </owl:NamedIndividual>
@@ -482,8 +482,8 @@
       <rdfs:label>Pskovskaja oblast'</rdfs:label>
       <skos:definition>The administrative region of Pskovskaja oblast' in the country of Russian Federation (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;RussianFederation"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ur">Pskovskaja oblast'</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ru">Pskovskaya oblast'</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ur">Pskovskaja oblast'</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ru">Pskovskaya oblast'</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ru;AdministrativeRegion"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ru;"/>
    </owl:NamedIndividual>
@@ -513,8 +513,8 @@
       <rdfs:label>Sverdlovskaya oblast'</rdfs:label>
       <skos:definition>The administrative region of Sverdlovskaya oblast' in the country of Russian Federation (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;RussianFederation"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ru">Sverdlovskaya oblast'</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ru">Sverdlovskaja oblast'</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ru">Sverdlovskaya oblast'</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ru">Sverdlovskaja oblast'</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ru;AdministrativeRegion"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ru;"/>
    </owl:NamedIndividual>
@@ -544,8 +544,8 @@
       <rdfs:label>Tyumenskaya oblast'</rdfs:label>
       <skos:definition>The administrative region of Tyumenskaya oblast' in the country of Russian Federation (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;RussianFederation"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ru">Tyumenskaya oblast'</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ru">Tjumenskaja oblast'</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ru">Tyumenskaya oblast'</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ru">Tjumenskaja oblast'</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ru;AdministrativeRegion"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ru;"/>
    </owl:NamedIndividual>
@@ -575,8 +575,8 @@
       <rdfs:label>Altajskij kraj</rdfs:label>
       <skos:definition>The administrative territory of Altajskij kraj in the country of Russian Federation (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;RussianFederation"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ru">Altajskij kraj</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ru">Altayskiy kray</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ru">Altajskij kraj</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ru">Altayskiy kray</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ru;AdministrativeTerritory"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ru;"/>
    </owl:NamedIndividual>
@@ -606,8 +606,8 @@
       <rdfs:label>Ivanovskaya oblast'</rdfs:label>
       <skos:definition>The administrative region of Ivanovskaya oblast' in the country of Russian Federation (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;RussianFederation"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ru">Ivanovskaya oblast'</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ru">Ivanovskaja oblast'</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ru">Ivanovskaya oblast'</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ru">Ivanovskaja oblast'</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ru;AdministrativeRegion"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ru;"/>
    </owl:NamedIndividual>
@@ -637,8 +637,8 @@
       <rdfs:label>Krasnodarskiy kray</rdfs:label>
       <skos:definition>The administrative territory of Krasnodarskiy kray in the country of Russian Federation (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;RussianFederation"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ru">Krasnodarskiy kray</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ru">Krasnodarskij kraj</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ru">Krasnodarskiy kray</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ru">Krasnodarskij kraj</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ru;AdministrativeTerritory"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ru;"/>
    </owl:NamedIndividual>
@@ -668,8 +668,8 @@
       <rdfs:label>Kemerovskaya oblast'</rdfs:label>
       <skos:definition>The administrative region of Kemerovskaya oblast' in the country of Russian Federation (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;RussianFederation"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ru">Kemerovskaya oblast'</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ru">Kemerovskaja oblast'</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ru">Kemerovskaya oblast'</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ru">Kemerovskaja oblast'</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ru;AdministrativeRegion"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ru;"/>
    </owl:NamedIndividual>
@@ -699,8 +699,8 @@
       <rdfs:label>Khanty-Mansiyskiy avtonomnyy okrug</rdfs:label>
       <skos:definition>The autonomous district of Khanty-Mansiyskiy avtonomnyy okrug in the country of Russian Federation (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;RussianFederation"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ru">Khanty-Mansiyskiy avtonomnyy okrug</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ru">Hanty-Mansijskij avtonomnyj okrug</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ru">Khanty-Mansiyskiy avtonomnyy okrug</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ru">Hanty-Mansijskij avtonomnyj okrug</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ru;AutonomousDistrict"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ru;"/>
    </owl:NamedIndividual>
@@ -730,8 +730,8 @@
       <rdfs:label>Hakasija, Respublika</rdfs:label>
       <skos:definition>The republic of Hakasija, Respublika in the country of Russian Federation (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;RussianFederation"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ru">Hakasija, Respublika</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ru">Khakasiya, Respublika</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ru">Hakasija, Respublika</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ru">Khakasiya, Respublika</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ru;Republic"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ru;"/>
    </owl:NamedIndividual>
@@ -761,8 +761,8 @@
       <rdfs:label>Lipeckaja oblast'</rdfs:label>
       <skos:definition>The administrative region of Lipeckaja oblast' in the country of Russian Federation (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;RussianFederation"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ru">Lipeckaja oblast'</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ru">Lipetskaya oblast'</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ru">Lipeckaja oblast'</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ru">Lipetskaya oblast'</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ru;AdministrativeRegion"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ru;"/>
    </owl:NamedIndividual>
@@ -792,8 +792,8 @@
       <rdfs:label>Mariy El, Respublika</rdfs:label>
       <skos:definition>The republic of Mariy El, Respublika in the country of Russian Federation (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;RussianFederation"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ru">Mariy El, Respublika</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ru">Marij Èl, Respublika</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ru">Mariy El, Respublika</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ru">Marij Èl, Respublika</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ru;Republic"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ru;"/>
    </owl:NamedIndividual>
@@ -823,8 +823,8 @@
       <rdfs:label>Mordoviya, Respublika</rdfs:label>
       <skos:definition>The republic of Mordoviya, Respublika in the country of Russian Federation (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;RussianFederation"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ru">Mordoviya, Respublika</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ru">Mordovija, Respublika</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ru">Mordoviya, Respublika</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ru">Mordovija, Respublika</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ru;Republic"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ru;"/>
    </owl:NamedIndividual>
@@ -854,8 +854,8 @@
       <rdfs:label>Penzenskaya oblast'</rdfs:label>
       <skos:definition>The administrative region of Penzenskaya oblast' in the country of Russian Federation (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;RussianFederation"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ru">Penzenskaya oblast'</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ru">Penzenskaja oblast'</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ru">Penzenskaya oblast'</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ru">Penzenskaja oblast'</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ru;AdministrativeRegion"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ru;"/>
    </owl:NamedIndividual>
@@ -885,8 +885,8 @@
       <rdfs:label>Saha, Respublika</rdfs:label>
       <skos:definition>The republic of Saha, Respublika in the country of Russian Federation (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;RussianFederation"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ru">Saha, Respublika</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ru">Sakha, Respublika</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ru">Saha, Respublika</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ru">Sakha, Respublika</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ru;Republic"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ru;"/>
    </owl:NamedIndividual>
@@ -916,8 +916,8 @@
       <rdfs:label>Smolenskaja oblast'</rdfs:label>
       <skos:definition>The administrative region of Smolenskaja oblast' in the country of Russian Federation (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;RussianFederation"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ru">Smolenskaja oblast'</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ru">Smolenskaya oblast'</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ru">Smolenskaja oblast'</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ru">Smolenskaya oblast'</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ru;AdministrativeRegion"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ru;"/>
    </owl:NamedIndividual>
@@ -947,8 +947,8 @@
       <rdfs:label>Vologodskaya oblast'</rdfs:label>
       <skos:definition>The administrative region of Vologodskaya oblast' in the country of Russian Federation (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;RussianFederation"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ru">Vologodskaya oblast'</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ru">Vologodskaja oblast'</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ru">Vologodskaya oblast'</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ru">Vologodskaja oblast'</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ru;AdministrativeRegion"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ru;"/>
    </owl:NamedIndividual>
@@ -978,8 +978,8 @@
       <rdfs:label>Astrakhanskaya oblast'</rdfs:label>
       <skos:definition>The administrative region of Astrakhanskaya oblast' in the country of Russian Federation (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;RussianFederation"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ru">Astrakhanskaya oblast'</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ru">Astrahanskaja oblast'</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ru">Astrakhanskaya oblast'</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ru">Astrahanskaja oblast'</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ru;AdministrativeRegion"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ru;"/>
    </owl:NamedIndividual>
@@ -1009,8 +1009,8 @@
       <rdfs:label>Buryatiya, Respublika</rdfs:label>
       <skos:definition>The republic of Buryatiya, Respublika in the country of Russian Federation (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;RussianFederation"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ru">Buryatiya, Respublika</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ru">Burjatija, Respublika</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ru">Buryatiya, Respublika</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ru">Burjatija, Respublika</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ru;Republic"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ru;"/>
    </owl:NamedIndividual>
@@ -1040,8 +1040,8 @@
       <rdfs:label>Chukotskiy avtonomnyy okrug</rdfs:label>
       <skos:definition>The autonomous district of Chukotskiy avtonomnyy okrug in the country of Russian Federation (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;RussianFederation"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ru">Chukotskiy avtonomnyy okrug</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ru">Čukotskij avtonomnyj okrug</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ru">Chukotskiy avtonomnyy okrug</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ru">Čukotskij avtonomnyj okrug</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ru;AutonomousDistrict"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ru;"/>
    </owl:NamedIndividual>
@@ -1071,8 +1071,8 @@
       <rdfs:label>Stavropol'skiy kray</rdfs:label>
       <skos:definition>The administrative territory of Stavropol'skiy kray in the country of Russian Federation (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;RussianFederation"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ru">Stavropol'skiy kray</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ru">Stavropol'skij kraj</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ru">Stavropol'skiy kray</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ru">Stavropol'skij kraj</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ru;AdministrativeTerritory"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ru;"/>
    </owl:NamedIndividual>
@@ -1102,8 +1102,8 @@
       <rdfs:label>Jamalo-Neneckij avtonomnyj okrug</rdfs:label>
       <skos:definition>The autonomous district of Jamalo-Neneckij avtonomnyj okrug in the country of Russian Federation (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;RussianFederation"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ru">Jamalo-Neneckij avtonomnyj okrug</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ru">Yamalo-Nenetskiy avtonomnyy okrug</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ru">Jamalo-Neneckij avtonomnyj okrug</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ru">Yamalo-Nenetskiy avtonomnyy okrug</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ru;AutonomousDistrict"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ru;"/>
    </owl:NamedIndividual>
@@ -1133,8 +1133,8 @@
       <rdfs:label>Yevreyskaya avtonomnaya oblast'</rdfs:label>
       <skos:definition>The autonomous region of Yevreyskaya avtonomnaya oblast' in the country of Russian Federation (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;RussianFederation"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ru">Yevreyskaya avtonomnaya oblast'</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ru">Evrejskaja avtonomnaja oblast'</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ru">Yevreyskaya avtonomnaya oblast'</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ru">Evrejskaja avtonomnaja oblast'</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ru;AutonomousRegion"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ru;"/>
    </owl:NamedIndividual>
@@ -1164,8 +1164,8 @@
       <rdfs:label>Belgorodskaya oblast'</rdfs:label>
       <skos:definition>The administrative region of Belgorodskaya oblast' in the country of Russian Federation (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;RussianFederation"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ru">Belgorodskaya oblast'</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ru">Belgorodskaja oblast'</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ru">Belgorodskaya oblast'</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ru">Belgorodskaja oblast'</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ru;AdministrativeRegion"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ru;"/>
    </owl:NamedIndividual>
@@ -1195,8 +1195,8 @@
       <rdfs:label>Ingušetija, Respublika</rdfs:label>
       <skos:definition>The republic of Ingušetija, Respublika in the country of Russian Federation (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;RussianFederation"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ru">Ingušetija, Respublika</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ru">Ingushetiya, Respublika</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ru">Ingušetija, Respublika</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ru">Ingushetiya, Respublika</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ru;Republic"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ru;"/>
    </owl:NamedIndividual>
@@ -1226,8 +1226,8 @@
       <rdfs:label>Kareliya, Respublika</rdfs:label>
       <skos:definition>The republic of Kareliya, Respublika in the country of Russian Federation (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;RussianFederation"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ru">Kareliya, Respublika</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ru">Karelija, Respublika</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ru">Kareliya, Respublika</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ru">Karelija, Respublika</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ru;Republic"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ru;"/>
    </owl:NamedIndividual>
@@ -1257,8 +1257,8 @@
       <rdfs:label>Kurskaja oblast'</rdfs:label>
       <skos:definition>The administrative region of Kurskaja oblast' in the country of Russian Federation (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;RussianFederation"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ru">Kurskaja oblast'</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ru">Kurskaya oblast'</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ru">Kurskaja oblast'</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ru">Kurskaya oblast'</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ru;AdministrativeRegion"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ru;"/>
    </owl:NamedIndividual>
@@ -1288,8 +1288,8 @@
       <rdfs:label>Moskva</rdfs:label>
       <skos:definition>The autonomous city of Moskva in the country of Russian Federation (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;RussianFederation"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ru">Moskva</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ru">Moskva</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ru">Moskva</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ru">Moskva</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ru;AutonomousCity"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ru;"/>
    </owl:NamedIndividual>
@@ -1319,8 +1319,8 @@
       <rdfs:label>Rjazanskaja oblast'</rdfs:label>
       <skos:definition>The administrative region of Rjazanskaja oblast' in the country of Russian Federation (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;RussianFederation"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ru">Rjazanskaja oblast'</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ru">Ryazanskaya oblast'</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ru">Rjazanskaja oblast'</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ru">Ryazanskaya oblast'</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ru;AdministrativeRegion"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ru;"/>
    </owl:NamedIndividual>
@@ -1350,8 +1350,8 @@
       <rdfs:label>Sahalinskaja oblast'</rdfs:label>
       <skos:definition>The administrative region of Sahalinskaja oblast' in the country of Russian Federation (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;RussianFederation"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ru">Sahalinskaja oblast'</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ru">Sakhalinskaya oblast'</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ru">Sahalinskaja oblast'</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ru">Sakhalinskaya oblast'</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ru;AdministrativeRegion"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ru;"/>
    </owl:NamedIndividual>
@@ -1381,8 +1381,8 @@
       <rdfs:label>Tatarstan, Respublika</rdfs:label>
       <skos:definition>The republic of Tatarstan, Respublika in the country of Russian Federation (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;RussianFederation"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ru">Tatarstan, Respublika</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ru">Tatarstan, Respublika</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ru">Tatarstan, Respublika</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ru">Tatarstan, Respublika</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ru;Republic"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ru;"/>
    </owl:NamedIndividual>
@@ -1412,8 +1412,8 @@
       <rdfs:label>Tomskaya oblast'</rdfs:label>
       <skos:definition>The administrative region of Tomskaya oblast' in the country of Russian Federation (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;RussianFederation"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ru">Tomskaya oblast'</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ru">Tomskaja oblast'</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ru">Tomskaya oblast'</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ru">Tomskaja oblast'</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ru;AdministrativeRegion"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ru;"/>
    </owl:NamedIndividual>
@@ -1443,8 +1443,8 @@
       <rdfs:label>Tul'skaja oblast'</rdfs:label>
       <skos:definition>The administrative region of Tul'skaja oblast' in the country of Russian Federation (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;RussianFederation"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ru">Tul'skaja oblast'</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ru">Tul'skaya oblast'</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ru">Tul'skaja oblast'</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ru">Tul'skaya oblast'</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ru;AdministrativeRegion"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ru;"/>
    </owl:NamedIndividual>
@@ -1474,8 +1474,8 @@
       <rdfs:label>Ul'janovskaja oblast'</rdfs:label>
       <skos:definition>The administrative region of Ul'janovskaja oblast' in the country of Russian Federation (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;RussianFederation"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ru">Ul'janovskaja oblast'</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ru">Ul'yanovskaya oblast'</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ru">Ul'janovskaja oblast'</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ru">Ul'yanovskaya oblast'</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ru;AdministrativeRegion"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ru;"/>
    </owl:NamedIndividual>
@@ -1505,8 +1505,8 @@
       <rdfs:label>Vladimirskaya oblast'</rdfs:label>
       <skos:definition>The administrative region of Vladimirskaya oblast' in the country of Russian Federation (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;RussianFederation"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ru">Vladimirskaya oblast'</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ru">Vladimirskaja oblast'</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ru">Vladimirskaya oblast'</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ru">Vladimirskaja oblast'</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ru;AdministrativeRegion"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ru;"/>
    </owl:NamedIndividual>
@@ -1536,8 +1536,8 @@
       <rdfs:label>Voronežskaja oblast'</rdfs:label>
       <skos:definition>The administrative region of Voronežskaja oblast' in the country of Russian Federation (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;RussianFederation"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ru">Voronežskaja oblast'</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ru">Voronezhskaya oblast'</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ru">Voronežskaja oblast'</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ru">Voronezhskaya oblast'</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ru;AdministrativeRegion"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ru;"/>
    </owl:NamedIndividual>
@@ -1567,8 +1567,8 @@
       <rdfs:label>Bryanskaya oblast'</rdfs:label>
       <skos:definition>The administrative region of Bryanskaya oblast' in the country of Russian Federation (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;RussianFederation"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ru">Bryanskaya oblast'</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ru">Brjanskaja oblast'</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ru">Bryanskaya oblast'</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ru">Brjanskaja oblast'</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ru;AdministrativeRegion"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ru;"/>
    </owl:NamedIndividual>
@@ -1598,8 +1598,8 @@
       <rdfs:label>Čeljabinskaja oblast'</rdfs:label>
       <skos:definition>The administrative region of Čeljabinskaja oblast' in the country of Russian Federation (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;RussianFederation"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ru">Čeljabinskaja oblast'</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ru">Chelyabinskaya oblast'</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ru">Čeljabinskaja oblast'</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ru">Chelyabinskaya oblast'</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ru;AdministrativeRegion"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ru;"/>
    </owl:NamedIndividual>
@@ -1629,8 +1629,8 @@
       <rdfs:label>Kurganskaja oblast'</rdfs:label>
       <skos:definition>The administrative region of Kurganskaja oblast' in the country of Russian Federation (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;RussianFederation"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ru">Kurganskaja oblast'</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ru">Kurganskaya oblast'</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ru">Kurganskaja oblast'</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ru">Kurganskaya oblast'</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ru;AdministrativeRegion"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ru;"/>
    </owl:NamedIndividual>
@@ -1660,8 +1660,8 @@
       <rdfs:label>Kirovskaja oblast'</rdfs:label>
       <skos:definition>The administrative region of Kirovskaja oblast' in the country of Russian Federation (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;RussianFederation"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ru">Kirovskaja oblast'</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ru">Kirovskaya oblast'</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ru">Kirovskaja oblast'</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ru">Kirovskaya oblast'</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ru;AdministrativeRegion"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ru;"/>
    </owl:NamedIndividual>
@@ -1691,8 +1691,8 @@
       <rdfs:label>Moskovskaya oblast'</rdfs:label>
       <skos:definition>The administrative region of Moskovskaya oblast' in the country of Russian Federation (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;RussianFederation"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ru">Moskovskaya oblast'</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ru">Moskovskaja oblast'</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ru">Moskovskaya oblast'</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ru">Moskovskaja oblast'</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ru;AdministrativeRegion"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ru;"/>
    </owl:NamedIndividual>
@@ -1722,8 +1722,8 @@
       <rdfs:label>Samarskaya oblast'</rdfs:label>
       <skos:definition>The administrative region of Samarskaya oblast' in the country of Russian Federation (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;RussianFederation"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ru">Samarskaya oblast'</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ru">Samarskaja oblast'</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ru">Samarskaya oblast'</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ru">Samarskaja oblast'</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ru;AdministrativeRegion"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ru;"/>
    </owl:NamedIndividual>
@@ -1753,8 +1753,8 @@
       <rdfs:label>Tambovskaya oblast'</rdfs:label>
       <skos:definition>The administrative region of Tambovskaya oblast' in the country of Russian Federation (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;RussianFederation"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ru">Tambovskaya oblast'</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ru">Tambovskaja oblast'</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ru">Tambovskaya oblast'</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ru">Tambovskaja oblast'</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ru;AdministrativeRegion"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ru;"/>
    </owl:NamedIndividual>
@@ -1784,8 +1784,8 @@
       <rdfs:label>Jaroslavskaja oblast'</rdfs:label>
       <skos:definition>The administrative region of Jaroslavskaja oblast' in the country of Russian Federation (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;RussianFederation"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ru">Jaroslavskaja oblast'</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ru">Yaroslavskaya oblast'</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ru">Jaroslavskaja oblast'</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ru">Yaroslavskaya oblast'</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ru;AdministrativeRegion"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ru;"/>
    </owl:NamedIndividual>
@@ -1815,8 +1815,8 @@
       <rdfs:label>Zabaykal'skiy kray</rdfs:label>
       <skos:definition>The administrative territory of Zabaykal'skiy kray in the country of Russian Federation (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;RussianFederation"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ru">Zabaykal'skiy kray</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ru">Zabajkal'skij kraj</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ru">Zabaykal'skiy kray</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ru">Zabajkal'skij kraj</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ru;AdministrativeTerritory"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ru;"/>
    </owl:NamedIndividual>
@@ -1846,8 +1846,8 @@
       <rdfs:label>Amurskaya oblast'</rdfs:label>
       <skos:definition>The administrative region of Amurskaya oblast' in the country of Russian Federation (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;RussianFederation"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ru">Amurskaya oblast'</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ru">Amurskaja oblast'</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ru">Amurskaya oblast'</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ru">Amurskaja oblast'</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ru;AdministrativeRegion"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ru;"/>
    </owl:NamedIndividual>
@@ -1877,8 +1877,8 @@
       <rdfs:label>Kalmykija, Respublika</rdfs:label>
       <skos:definition>The republic of Kalmykija, Respublika in the country of Russian Federation (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;RussianFederation"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ru">Kalmykija, Respublika</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ru">Kalmykiya, Respublika</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ru">Kalmykija, Respublika</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ru">Kalmykiya, Respublika</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ru;Republic"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ru;"/>
    </owl:NamedIndividual>
@@ -1908,8 +1908,8 @@
       <rdfs:label>Kostromskaya oblast'</rdfs:label>
       <skos:definition>The administrative region of Kostromskaya oblast' in the country of Russian Federation (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;RussianFederation"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ru">Kostromskaya oblast'</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ru">Kostromskaja oblast'</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ru">Kostromskaya oblast'</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ru">Kostromskaja oblast'</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ru;AdministrativeRegion"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ru;"/>
    </owl:NamedIndividual>
@@ -1939,8 +1939,8 @@
       <rdfs:label>Murmanskaya oblast'</rdfs:label>
       <skos:definition>The administrative region of Murmanskaya oblast' in the country of Russian Federation (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;RussianFederation"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ru">Murmanskaya oblast'</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ru">Murmanskaja oblast'</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ru">Murmanskaya oblast'</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ru">Murmanskaja oblast'</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ru;AdministrativeRegion"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ru;"/>
    </owl:NamedIndividual>
@@ -1970,8 +1970,8 @@
       <rdfs:label>Omskaya oblast'</rdfs:label>
       <skos:definition>The administrative region of Omskaya oblast' in the country of Russian Federation (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;RussianFederation"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ru">Omskaya oblast'</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ru">Omskaja oblast'</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ru">Omskaya oblast'</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ru">Omskaja oblast'</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ru;AdministrativeRegion"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ru;"/>
    </owl:NamedIndividual>
@@ -2001,8 +2001,8 @@
       <rdfs:label>Tyva, Respublika</rdfs:label>
       <skos:definition>The republic of Tyva, Respublika in the country of Russian Federation (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;RussianFederation"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ru">Tyva, Respublika</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ru">Tyva, Respublika</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ru">Tyva, Respublika</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ru">Tyva, Respublika</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ru;Republic"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ru;"/>
    </owl:NamedIndividual>
@@ -2032,8 +2032,8 @@
       <rdfs:label>Adygeya, Respublika</rdfs:label>
       <skos:definition>The republic of Adygeya, Respublika in the country of Russian Federation (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;RussianFederation"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ru">Adygeya, Respublika</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ru">Adygeja, Respublika</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ru">Adygeya, Respublika</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ru">Adygeja, Respublika</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ru;Republic"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ru;"/>
    </owl:NamedIndividual>
@@ -2063,8 +2063,8 @@
       <rdfs:label>Baškortostan, Respublika</rdfs:label>
       <skos:definition>The republic of Baškortostan, Respublika in the country of Russian Federation (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;RussianFederation"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ru">Baškortostan, Respublika</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ru">Bashkortostan, Respublika</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ru">Baškortostan, Respublika</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ru">Bashkortostan, Respublika</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ru;Republic"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ru;"/>
    </owl:NamedIndividual>
@@ -2094,8 +2094,8 @@
       <rdfs:label>Karachayevo-Cherkesskaya Respublika</rdfs:label>
       <skos:definition>The republic of Karachayevo-Cherkesskaya Respublika in the country of Russian Federation (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;RussianFederation"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ru">Karachayevo-Cherkesskaya Respublika</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ru">Karačaevo-Čerkesskaja Respublika</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ru">Karachayevo-Cherkesskaya Respublika</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ru">Karačaevo-Čerkesskaja Respublika</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ru;Republic"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ru;"/>
    </owl:NamedIndividual>
@@ -2125,8 +2125,8 @@
       <rdfs:label>Kalužskaja oblast'</rdfs:label>
       <skos:definition>The administrative region of Kalužskaja oblast' in the country of Russian Federation (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;RussianFederation"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ru">Kalužskaja oblast'</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ru">Kaluzhskaya oblast'</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ru">Kalužskaja oblast'</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ru">Kaluzhskaya oblast'</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ru;AdministrativeRegion"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ru;"/>
    </owl:NamedIndividual>
@@ -2156,8 +2156,8 @@
       <rdfs:label>Leningradskaja oblast'</rdfs:label>
       <skos:definition>The administrative region of Leningradskaja oblast' in the country of Russian Federation (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;RussianFederation"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ru">Leningradskaja oblast'</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ru">Leningradskaya oblast'</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ru">Leningradskaja oblast'</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ru">Leningradskaya oblast'</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ru;AdministrativeRegion"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ru;"/>
    </owl:NamedIndividual>
@@ -2187,8 +2187,8 @@
       <rdfs:label>Novosibirskaya oblast'</rdfs:label>
       <skos:definition>The administrative region of Novosibirskaya oblast' in the country of Russian Federation (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;RussianFederation"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ru">Novosibirskaya oblast'</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ru">Novosibirskaja oblast'</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ru">Novosibirskaya oblast'</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ru">Novosibirskaja oblast'</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ru;AdministrativeRegion"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ru;"/>
    </owl:NamedIndividual>
@@ -2218,8 +2218,8 @@
       <rdfs:label>Permskiy kray</rdfs:label>
       <skos:definition>The administrative territory of Permskiy kray in the country of Russian Federation (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;RussianFederation"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ru">Permskiy kray</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ru">Permskij kraj</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ru">Permskiy kray</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ru">Permskij kraj</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ru;AdministrativeTerritory"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ru;"/>
    </owl:NamedIndividual>
@@ -2249,8 +2249,8 @@
       <rdfs:label>Tverskaja oblast'</rdfs:label>
       <skos:definition>The administrative region of Tverskaja oblast' in the country of Russian Federation (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;RussianFederation"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ru">Tverskaja oblast'</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ru">Tverskaya oblast'</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ru">Tverskaja oblast'</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ru">Tverskaya oblast'</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ru;AdministrativeRegion"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ru;"/>
    </owl:NamedIndividual>
@@ -2280,8 +2280,8 @@
       <rdfs:label>Volgogradskaja oblast'</rdfs:label>
       <skos:definition>The administrative region of Volgogradskaja oblast' in the country of Russian Federation (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;RussianFederation"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ru">Volgogradskaja oblast'</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ru">Volgogradskaya oblast'</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ru">Volgogradskaja oblast'</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ru">Volgogradskaya oblast'</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ru;AdministrativeRegion"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ru;"/>
    </owl:NamedIndividual>
@@ -2311,8 +2311,8 @@
       <rdfs:label>Altaj, Respublika</rdfs:label>
       <skos:definition>The republic of Altaj, Respublika in the country of Russian Federation (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;RussianFederation"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ru">Altaj, Respublika</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ru">Altay, Respublika</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ru">Altaj, Respublika</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ru">Altay, Respublika</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ru;Republic"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ru;"/>
    </owl:NamedIndividual>
@@ -2342,8 +2342,8 @@
       <rdfs:label>Arkhangel'skaya oblast'</rdfs:label>
       <skos:definition>The administrative region of Arkhangel'skaya oblast' in the country of Russian Federation (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;RussianFederation"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ru">Arkhangel'skaya oblast'</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ru">Arhangel'skaja oblast'</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ru">Arkhangel'skaya oblast'</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ru">Arhangel'skaja oblast'</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ru;AdministrativeRegion"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ru;"/>
    </owl:NamedIndividual>
@@ -2373,8 +2373,8 @@
       <rdfs:label>Čečenskaja Respublika</rdfs:label>
       <skos:definition>The republic of Čečenskaja Respublika in the country of Russian Federation (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;RussianFederation"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ru">Čečenskaja Respublika</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ru">Chechenskaya Respublika</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ru">Čečenskaja Respublika</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ru">Chechenskaya Respublika</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ru;Republic"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ru;"/>
    </owl:NamedIndividual>
@@ -2404,8 +2404,8 @@
       <rdfs:label>Kabardino-Balkarskaya Respublika</rdfs:label>
       <skos:definition>The republic of Kabardino-Balkarskaya Respublika in the country of Russian Federation (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;RussianFederation"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ru">Kabardino-Balkarskaya Respublika</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ru">Kabardino-Balkarskaja Respublika</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ru">Kabardino-Balkarskaya Respublika</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ru">Kabardino-Balkarskaja Respublika</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ru;Republic"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ru;"/>
    </owl:NamedIndividual>
@@ -2435,8 +2435,8 @@
       <rdfs:label>Kaliningradskaya oblast'</rdfs:label>
       <skos:definition>The administrative region of Kaliningradskaya oblast' in the country of Russian Federation (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;RussianFederation"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ru">Kaliningradskaya oblast'</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ru">Kaliningradskaja oblast'</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ru">Kaliningradskaya oblast'</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ru">Kaliningradskaja oblast'</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ru;AdministrativeRegion"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ru;"/>
    </owl:NamedIndividual>
@@ -2466,8 +2466,8 @@
       <rdfs:label>Komi, Respublika</rdfs:label>
       <skos:definition>The republic of Komi, Respublika in the country of Russian Federation (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;RussianFederation"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ru">Komi, Respublika</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ru">Komi, Respublika</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ru">Komi, Respublika</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ru">Komi, Respublika</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ru;Republic"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ru;"/>
    </owl:NamedIndividual>
@@ -2497,8 +2497,8 @@
       <rdfs:label>Krasnojarskij kraj</rdfs:label>
       <skos:definition>The administrative territory of Krasnojarskij kraj in the country of Russian Federation (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;RussianFederation"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ru">Krasnojarskij kraj</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ru">Krasnoyarskiy kray</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ru">Krasnojarskij kraj</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ru">Krasnoyarskiy kray</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ru;AdministrativeTerritory"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ru;"/>
    </owl:NamedIndividual>
@@ -2528,8 +2528,8 @@
       <rdfs:label>Nenetskiy avtonomnyy okrug</rdfs:label>
       <skos:definition>The autonomous district of Nenetskiy avtonomnyy okrug in the country of Russian Federation (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;RussianFederation"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ru">Nenetskiy avtonomnyy okrug</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ru">Neneckij avtonomnyj okrug</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ru">Nenetskiy avtonomnyy okrug</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ru">Neneckij avtonomnyj okrug</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ru;AutonomousDistrict"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ru;"/>
    </owl:NamedIndividual>
@@ -2559,8 +2559,8 @@
       <rdfs:label>Primorskij kraj</rdfs:label>
       <skos:definition>The administrative territory of Primorskij kraj in the country of Russian Federation (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;RussianFederation"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ur">Primorskij kraj</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ru">Primorskiy kray</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ur">Primorskij kraj</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ru">Primorskiy kray</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ru;AdministrativeTerritory"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ru;"/>
    </owl:NamedIndividual>
@@ -2590,8 +2590,8 @@
       <rdfs:label>Rostovskaja oblast'</rdfs:label>
       <skos:definition>The administrative region of Rostovskaja oblast' in the country of Russian Federation (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;RussianFederation"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ur">Rostovskaja oblast'</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ru">Rostovskaya oblast'</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ur">Rostovskaja oblast'</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ru">Rostovskaya oblast'</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ru;AdministrativeRegion"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ru;"/>
    </owl:NamedIndividual>
@@ -2621,8 +2621,8 @@
       <rdfs:label>Saratovskaya oblast'</rdfs:label>
       <skos:definition>The administrative region of Saratovskaya oblast' in the country of Russian Federation (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;RussianFederation"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ru">Saratovskaya oblast'</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ru">Saratovskaja oblast'</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ru">Saratovskaya oblast'</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ru">Saratovskaja oblast'</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ru;AdministrativeRegion"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ru;"/>
    </owl:NamedIndividual>
@@ -2652,8 +2652,8 @@
       <rdfs:label>Severnaya Osetiya, Respublika</rdfs:label>
       <skos:definition>The republic of Severnaya Osetiya, Respublika in the country of Russian Federation (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;RussianFederation"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ru">Severnaya Osetiya, Respublika</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ru">Severnaja Osetija, Respublika</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ru">Severnaya Osetiya, Respublika</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ru">Severnaja Osetija, Respublika</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ru;Republic"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ru;"/>
    </owl:NamedIndividual>
@@ -2683,8 +2683,8 @@
       <rdfs:label>Sankt-Peterburg</rdfs:label>
       <skos:definition>The autonomous city of Sankt-Peterburg in the country of Russian Federation (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;RussianFederation"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ru">Sankt-Peterburg</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ru">Sankt-Peterburg</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ru">Sankt-Peterburg</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ru">Sankt-Peterburg</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ru;AutonomousCity"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ru;"/>
    </owl:NamedIndividual>
@@ -2714,8 +2714,8 @@
       <rdfs:label>Kaliningrad Region</rdfs:label>
       <skos:definition>The territory of Kaliningrad Region in the country of Russian Federation (the)</skos:definition>
       <lcc-cr:hasNumericRegionCode rdf:datatype="&xsd;string">1095</lcc-cr:hasNumericRegionCode>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">la Région de Kaliningrad</lcc-cr:hasFrenchShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Kaliningrad Region</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">la Région de Kaliningrad</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Kaliningrad Region</lcc-cr:hasEnglishShortName>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;RussianFederation"/>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2;Territory"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ru;"/>

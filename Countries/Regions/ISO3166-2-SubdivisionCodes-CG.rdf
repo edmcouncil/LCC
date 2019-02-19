@@ -106,7 +106,7 @@
       <rdfs:label>Plateaux</rdfs:label>
       <skos:definition>The department of Plateaux in the country of Congo (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Congo"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Plateaux</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Plateaux</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-cg;Department"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-cg;"/>
    </owl:NamedIndividual>
@@ -136,7 +136,7 @@
       <rdfs:label>Lékoumou</rdfs:label>
       <skos:definition>The department of Lékoumou in the country of Congo (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Congo"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Lékoumou</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Lékoumou</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-cg;Department"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-cg;"/>
    </owl:NamedIndividual>
@@ -166,7 +166,7 @@
       <rdfs:label>Cuvette</rdfs:label>
       <skos:definition>The department of Cuvette in the country of Congo (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Congo"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Cuvette</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Cuvette</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-cg;Department"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-cg;"/>
    </owl:NamedIndividual>
@@ -196,7 +196,7 @@
       <rdfs:label>Niari</rdfs:label>
       <skos:definition>The department of Niari in the country of Congo (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Congo"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Niari</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Niari</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-cg;Department"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-cg;"/>
    </owl:NamedIndividual>
@@ -226,7 +226,7 @@
       <rdfs:label>Cuvette-Ouest</rdfs:label>
       <skos:definition>The department of Cuvette-Ouest in the country of Congo (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Congo"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Cuvette-Ouest</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Cuvette-Ouest</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-cg;Department"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-cg;"/>
    </owl:NamedIndividual>
@@ -256,7 +256,7 @@
       <rdfs:label>Kouilou</rdfs:label>
       <skos:definition>The department of Kouilou in the country of Congo (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Congo"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Kouilou</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Kouilou</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-cg;Department"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-cg;"/>
    </owl:NamedIndividual>
@@ -286,7 +286,7 @@
       <rdfs:label>Bouenza</rdfs:label>
       <skos:definition>The department of Bouenza in the country of Congo (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Congo"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Bouenza</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Bouenza</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-cg;Department"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-cg;"/>
    </owl:NamedIndividual>
@@ -316,7 +316,7 @@
       <rdfs:label>Brazzaville</rdfs:label>
       <skos:definition>The department of Brazzaville in the country of Congo (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Congo"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Brazzaville</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Brazzaville</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-cg;Department"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-cg;"/>
    </owl:NamedIndividual>
@@ -346,7 +346,7 @@
       <rdfs:label>Pointe-Noire</rdfs:label>
       <skos:definition>The department of Pointe-Noire in the country of Congo (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Congo"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Pointe-Noire</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Pointe-Noire</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-cg;Department"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-cg;"/>
    </owl:NamedIndividual>
@@ -376,7 +376,7 @@
       <rdfs:label>Pool</rdfs:label>
       <skos:definition>The department of Pool in the country of Congo (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Congo"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Pool</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Pool</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-cg;Department"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-cg;"/>
    </owl:NamedIndividual>
@@ -406,7 +406,7 @@
       <rdfs:label>Sangha</rdfs:label>
       <skos:definition>The department of Sangha in the country of Congo (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Congo"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Sangha</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Sangha</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-cg;Department"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-cg;"/>
    </owl:NamedIndividual>
@@ -436,7 +436,7 @@
       <rdfs:label>Likouala</rdfs:label>
       <skos:definition>The department of Likouala in the country of Congo (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Congo"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Likouala</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Likouala</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-cg;Department"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-cg;"/>
    </owl:NamedIndividual>

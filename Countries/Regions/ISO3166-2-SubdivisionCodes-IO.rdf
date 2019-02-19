@@ -99,8 +99,8 @@
       <rdfs:label>Chagos Archipelago</rdfs:label>
       <skos:definition>The territory of Chagos Archipelago in the country of British Indian Ocean Territory (the)</skos:definition>
       <lcc-cr:hasNumericRegionCode rdf:datatype="&xsd;string">1040</lcc-cr:hasNumericRegionCode>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">l'Archipel des Chagos</lcc-cr:hasFrenchShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Chagos Archipelago</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">l'Archipel des Chagos</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Chagos Archipelago</lcc-cr:hasEnglishShortName>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;BritishIndianOceanTerritory"/>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2;Territory"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-io;"/>
@@ -118,8 +118,8 @@
       <rdfs:label>Diego Garcia</rdfs:label>
       <skos:definition>The territory of Diego Garcia in the country of British Indian Ocean Territory (the)</skos:definition>
       <lcc-cr:hasNumericRegionCode rdf:datatype="&xsd;string">1051</lcc-cr:hasNumericRegionCode>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Diego Garcia</lcc-cr:hasFrenchShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Diego Garcia</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Diego Garcia</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Diego Garcia</lcc-cr:hasEnglishShortName>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;BritishIndianOceanTerritory"/>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2;Territory"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-io;"/>

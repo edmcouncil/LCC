@@ -120,7 +120,7 @@
       <rdfs:label>Abkhazia</rdfs:label>
       <skos:definition>The autonomous republic of Abkhazia in the country of Georgia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Georgia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ka">Abkhazia</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ka">Abkhazia</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ge;AutonomousRepublic"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ge;"/>
    </owl:NamedIndividual>
@@ -150,7 +150,7 @@
       <rdfs:label>Ajaria</rdfs:label>
       <skos:definition>The autonomous republic of Ajaria in the country of Georgia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Georgia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ka">Ajaria</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ka">Ajaria</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ge;AutonomousRepublic"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ge;"/>
    </owl:NamedIndividual>
@@ -180,7 +180,7 @@
       <rdfs:label>Mtskheta-Mtianeti</rdfs:label>
       <skos:definition>The region of Mtskheta-Mtianeti in the country of Georgia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Georgia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ka">Mtskheta-Mtianeti</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ka">Mtskheta-Mtianeti</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ge;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ge;"/>
    </owl:NamedIndividual>
@@ -210,7 +210,7 @@
       <rdfs:label>Samegrelo-Zemo Svaneti</rdfs:label>
       <skos:definition>The region of Samegrelo-Zemo Svaneti in the country of Georgia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Georgia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ka">Samegrelo-Zemo Svaneti</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ka">Samegrelo-Zemo Svaneti</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ge;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ge;"/>
    </owl:NamedIndividual>
@@ -240,7 +240,7 @@
       <rdfs:label>Shida Kartli</rdfs:label>
       <skos:definition>The region of Shida Kartli in the country of Georgia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Georgia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ka">Shida Kartli</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ka">Shida Kartli</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ge;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ge;"/>
    </owl:NamedIndividual>
@@ -270,7 +270,7 @@
       <rdfs:label>Imereti</rdfs:label>
       <skos:definition>The region of Imereti in the country of Georgia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Georgia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ka">Imereti</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ka">Imereti</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ge;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ge;"/>
    </owl:NamedIndividual>
@@ -300,7 +300,7 @@
       <rdfs:label>Samtskhe-Javakheti</rdfs:label>
       <skos:definition>The region of Samtskhe-Javakheti in the country of Georgia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Georgia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ka">Samtskhe-Javakheti</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ka">Samtskhe-Javakheti</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ge;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ge;"/>
    </owl:NamedIndividual>
@@ -330,7 +330,7 @@
       <rdfs:label>Guria</rdfs:label>
       <skos:definition>The region of Guria in the country of Georgia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Georgia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ka">Guria</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ka">Guria</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ge;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ge;"/>
    </owl:NamedIndividual>
@@ -360,7 +360,7 @@
       <rdfs:label>Rach'a-Lechkhumi-Kvemo Svaneti</rdfs:label>
       <skos:definition>The region of Rach'a-Lechkhumi-Kvemo Svaneti in the country of Georgia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Georgia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ka">Rach'a-Lechkhumi-Kvemo Svaneti</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ka">Rach'a-Lechkhumi-Kvemo Svaneti</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ge;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ge;"/>
    </owl:NamedIndividual>
@@ -390,7 +390,7 @@
       <rdfs:label>Tbilisi</rdfs:label>
       <skos:definition>The city of Tbilisi in the country of Georgia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Georgia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ka">Tbilisi</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ka">Tbilisi</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ge;City"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ge;"/>
    </owl:NamedIndividual>
@@ -420,7 +420,7 @@
       <rdfs:label>K'akheti</rdfs:label>
       <skos:definition>The region of K'akheti in the country of Georgia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Georgia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ka">K'akheti</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ka">K'akheti</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ge;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ge;"/>
    </owl:NamedIndividual>
@@ -450,7 +450,7 @@
       <rdfs:label>Kvemo Kartli</rdfs:label>
       <skos:definition>The region of Kvemo Kartli in the country of Georgia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Georgia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ka">Kvemo Kartli</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ka">Kvemo Kartli</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ge;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ge;"/>
    </owl:NamedIndividual>

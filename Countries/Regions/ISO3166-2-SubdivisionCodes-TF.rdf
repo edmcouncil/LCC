@@ -99,8 +99,8 @@
       <rdfs:label>Bassas da India</rdfs:label>
       <skos:definition>The territory of Bassas da India in the country of French Southern Territories (the)</skos:definition>
       <lcc-cr:hasNumericRegionCode rdf:datatype="&xsd;string">1020</lcc-cr:hasNumericRegionCode>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Bassas da India</lcc-cr:hasFrenchShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Bassas da India</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Bassas da India</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Bassas da India</lcc-cr:hasEnglishShortName>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;FrenchSouthernTerritories"/>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2;Territory"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-tf;"/>
@@ -118,8 +118,8 @@
       <rdfs:label>Crozet Archipelago</rdfs:label>
       <skos:definition>The territory of Crozet Archipelago in the country of French Southern Territories (the)</skos:definition>
       <lcc-cr:hasNumericRegionCode rdf:datatype="&xsd;string">1048</lcc-cr:hasNumericRegionCode>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">l'Archipel Crozet</lcc-cr:hasFrenchShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Crozet Archipelago</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">l'Archipel Crozet</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Crozet Archipelago</lcc-cr:hasEnglishShortName>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;FrenchSouthernTerritories"/>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2;Territory"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-tf;"/>
@@ -137,8 +137,8 @@
       <rdfs:label>French scattered Indian Ocean Islands</rdfs:label>
       <skos:definition>The territory of French scattered Indian Ocean Islands in the country of French Southern Territories (the)</skos:definition>
       <lcc-cr:hasNumericRegionCode rdf:datatype="&xsd;string">1057</lcc-cr:hasNumericRegionCode>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">French scattered Indian Ocean Islands</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">les Îles Éparses de l'Océan Indien</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">French scattered Indian Ocean Islands</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">les Îles Éparses de l'Océan Indien</lcc-cr:hasFrenchShortName>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;FrenchSouthernTerritories"/>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2;Territory"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-tf;"/>
@@ -156,8 +156,8 @@
       <rdfs:label>Europa Island</rdfs:label>
       <skos:definition>The territory of Europa Island in the country of French Southern Territories (the)</skos:definition>
       <lcc-cr:hasNumericRegionCode rdf:datatype="&xsd;string">1058</lcc-cr:hasNumericRegionCode>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">l'Île Europa</lcc-cr:hasFrenchShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Europa Island</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">l'Île Europa</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Europa Island</lcc-cr:hasEnglishShortName>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;FrenchSouthernTerritories"/>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2;Territory"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-tf;"/>
@@ -175,8 +175,8 @@
       <rdfs:label>Glorioso Islands</rdfs:label>
       <skos:definition>The territory of Glorioso Islands in the country of French Southern Territories (the)</skos:definition>
       <lcc-cr:hasNumericRegionCode rdf:datatype="&xsd;string">1068</lcc-cr:hasNumericRegionCode>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">les Îles Glorieuses</lcc-cr:hasFrenchShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Glorioso Islands</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">les Îles Glorieuses</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Glorioso Islands</lcc-cr:hasEnglishShortName>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;FrenchSouthernTerritories"/>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2;Territory"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-tf;"/>
@@ -194,8 +194,8 @@
       <rdfs:label>Juan de Nova Island</rdfs:label>
       <skos:definition>The territory of Juan de Nova Island in the country of French Southern Territories (the)</skos:definition>
       <lcc-cr:hasNumericRegionCode rdf:datatype="&xsd;string">1093</lcc-cr:hasNumericRegionCode>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">l'Île Juan de Nova</lcc-cr:hasFrenchShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Juan de Nova Island</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">l'Île Juan de Nova</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Juan de Nova Island</lcc-cr:hasEnglishShortName>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;FrenchSouthernTerritories"/>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2;Territory"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-tf;"/>
@@ -213,8 +213,8 @@
       <rdfs:label>Kerguelen Islands</rdfs:label>
       <skos:definition>The territory of Kerguelen Islands in the country of French Southern Territories (the)</skos:definition>
       <lcc-cr:hasNumericRegionCode rdf:datatype="&xsd;string">1096</lcc-cr:hasNumericRegionCode>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">les Îles Kerguelen</lcc-cr:hasFrenchShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Kerguelen Islands</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">les Îles Kerguelen</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Kerguelen Islands</lcc-cr:hasEnglishShortName>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;FrenchSouthernTerritories"/>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2;Territory"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-tf;"/>
@@ -232,8 +232,8 @@
       <rdfs:label>Saint-Paul Island</rdfs:label>
       <skos:definition>The territory of Saint-Paul Island in the country of French Southern Territories (the)</skos:definition>
       <lcc-cr:hasNumericRegionCode rdf:datatype="&xsd;string">1174</lcc-cr:hasNumericRegionCode>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">l'Île Saint-Paul</lcc-cr:hasFrenchShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Saint-Paul Island</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">l'Île Saint-Paul</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Saint-Paul Island</lcc-cr:hasEnglishShortName>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;FrenchSouthernTerritories"/>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2;Territory"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-tf;"/>
@@ -251,8 +251,8 @@
       <rdfs:label>Tromelin Island</rdfs:label>
       <skos:definition>The territory of Tromelin Island in the country of French Southern Territories (the)</skos:definition>
       <lcc-cr:hasNumericRegionCode rdf:datatype="&xsd;string">1214</lcc-cr:hasNumericRegionCode>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">l'Île Tromelin</lcc-cr:hasFrenchShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Tromelin Island</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">l'Île Tromelin</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Tromelin Island</lcc-cr:hasEnglishShortName>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;FrenchSouthernTerritories"/>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2;Territory"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-tf;"/>
@@ -270,8 +270,8 @@
       <rdfs:label>Amsterdam Island</rdfs:label>
       <skos:definition>The territory of Amsterdam Island in the country of French Southern Territories (the)</skos:definition>
       <lcc-cr:hasNumericRegionCode rdf:datatype="&xsd;string">1228</lcc-cr:hasNumericRegionCode>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">l'Île Amsterdam</lcc-cr:hasFrenchShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Amsterdam Island</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">l'Île Amsterdam</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Amsterdam Island</lcc-cr:hasEnglishShortName>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;FrenchSouthernTerritories"/>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2;Territory"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-tf;"/>

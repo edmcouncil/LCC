@@ -106,7 +106,7 @@
       <rdfs:label>Bié</rdfs:label>
       <skos:definition>The province of Bié in the country of Angola</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Angola"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="pt">Bié</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="pt">Bié</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ao;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ao;"/>
    </owl:NamedIndividual>
@@ -136,7 +136,7 @@
       <rdfs:label>Cabinda</rdfs:label>
       <skos:definition>The province of Cabinda in the country of Angola</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Angola"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="pt">Cabinda</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="pt">Cabinda</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ao;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ao;"/>
    </owl:NamedIndividual>
@@ -166,7 +166,7 @@
       <rdfs:label>Kuando Kubango</rdfs:label>
       <skos:definition>The province of Kuando Kubango in the country of Angola</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Angola"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="pt">Kuando Kubango</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="pt">Kuando Kubango</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ao;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ao;"/>
    </owl:NamedIndividual>
@@ -196,7 +196,7 @@
       <rdfs:label>Zaire</rdfs:label>
       <skos:definition>The province of Zaire in the country of Angola</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Angola"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="pt">Zaire</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="pt">Zaire</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ao;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ao;"/>
    </owl:NamedIndividual>
@@ -226,7 +226,7 @@
       <rdfs:label>Lunda Norte</rdfs:label>
       <skos:definition>The province of Lunda Norte in the country of Angola</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Angola"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="pt">Lunda Norte</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="pt">Lunda Norte</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ao;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ao;"/>
    </owl:NamedIndividual>
@@ -256,7 +256,7 @@
       <rdfs:label>Lunda Sul</rdfs:label>
       <skos:definition>The province of Lunda Sul in the country of Angola</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Angola"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="pt">Lunda Sul</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="pt">Lunda Sul</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ao;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ao;"/>
    </owl:NamedIndividual>
@@ -286,7 +286,7 @@
       <rdfs:label>Moxico</rdfs:label>
       <skos:definition>The province of Moxico in the country of Angola</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Angola"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="pt">Moxico</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="pt">Moxico</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ao;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ao;"/>
    </owl:NamedIndividual>
@@ -316,7 +316,7 @@
       <rdfs:label>Namibe</rdfs:label>
       <skos:definition>The province of Namibe in the country of Angola</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Angola"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="pt">Namibe</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="pt">Namibe</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ao;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ao;"/>
    </owl:NamedIndividual>
@@ -346,7 +346,7 @@
       <rdfs:label>Uíge</rdfs:label>
       <skos:definition>The province of Uíge in the country of Angola</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Angola"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="pt">Uíge</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="pt">Uíge</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ao;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ao;"/>
    </owl:NamedIndividual>
@@ -376,7 +376,7 @@
       <rdfs:label>Kwanza Norte</rdfs:label>
       <skos:definition>The province of Kwanza Norte in the country of Angola</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Angola"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="pt">Kwanza Norte</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="pt">Kwanza Norte</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ao;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ao;"/>
    </owl:NamedIndividual>
@@ -406,7 +406,7 @@
       <rdfs:label>Huíla</rdfs:label>
       <skos:definition>The province of Huíla in the country of Angola</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Angola"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="pt">Huíla</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="pt">Huíla</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ao;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ao;"/>
    </owl:NamedIndividual>
@@ -436,7 +436,7 @@
       <rdfs:label>Luanda</rdfs:label>
       <skos:definition>The province of Luanda in the country of Angola</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Angola"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="pt">Luanda</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="pt">Luanda</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ao;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ao;"/>
    </owl:NamedIndividual>
@@ -466,7 +466,7 @@
       <rdfs:label>Malange</rdfs:label>
       <skos:definition>The province of Malange in the country of Angola</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Angola"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="pt">Malange</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="pt">Malange</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ao;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ao;"/>
    </owl:NamedIndividual>
@@ -496,7 +496,7 @@
       <rdfs:label>Bengo</rdfs:label>
       <skos:definition>The province of Bengo in the country of Angola</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Angola"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="pt">Bengo</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="pt">Bengo</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ao;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ao;"/>
    </owl:NamedIndividual>
@@ -526,7 +526,7 @@
       <rdfs:label>Benguela</rdfs:label>
       <skos:definition>The province of Benguela in the country of Angola</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Angola"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="pt">Benguela</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="pt">Benguela</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ao;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ao;"/>
    </owl:NamedIndividual>
@@ -556,7 +556,7 @@
       <rdfs:label>Cunene</rdfs:label>
       <skos:definition>The province of Cunene in the country of Angola</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Angola"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="pt">Cunene</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="pt">Cunene</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ao;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ao;"/>
    </owl:NamedIndividual>
@@ -586,7 +586,7 @@
       <rdfs:label>Kwanza Sul</rdfs:label>
       <skos:definition>The province of Kwanza Sul in the country of Angola</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Angola"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="pt">Kwanza Sul</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="pt">Kwanza Sul</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ao;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ao;"/>
    </owl:NamedIndividual>
@@ -616,7 +616,7 @@
       <rdfs:label>Huambo</rdfs:label>
       <skos:definition>The province of Huambo in the country of Angola</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Angola"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="pt">Huambo</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="pt">Huambo</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ao;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ao;"/>
    </owl:NamedIndividual>
@@ -646,8 +646,8 @@
       <rdfs:label>Cabinda</rdfs:label>
       <skos:definition>The territory of Cabinda in the country of Angola</skos:definition>
       <lcc-cr:hasNumericRegionCode rdf:datatype="&xsd;string">1031</lcc-cr:hasNumericRegionCode>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Cabinda</lcc-cr:hasFrenchShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Cabinda</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Cabinda</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Cabinda</lcc-cr:hasEnglishShortName>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Angola"/>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2;Territory"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ao;"/>

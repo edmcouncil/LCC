@@ -113,7 +113,7 @@
       <rdfs:label>Western</rdfs:label>
       <skos:definition>The province of Western in the country of Solomon Islands</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;SolomonIslands"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Western</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Western</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-sb;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-sb;"/>
    </owl:NamedIndividual>
@@ -143,7 +143,7 @@
       <rdfs:label>Central</rdfs:label>
       <skos:definition>The province of Central in the country of Solomon Islands</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;SolomonIslands"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Central</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Central</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-sb;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-sb;"/>
    </owl:NamedIndividual>
@@ -173,7 +173,7 @@
       <rdfs:label>Capital Territory (Honiara)</rdfs:label>
       <skos:definition>The capital territory of Capital Territory (Honiara) in the country of Solomon Islands</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;SolomonIslands"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Capital Territory (Honiara)</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Capital Territory (Honiara)</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-sb;CapitalTerritory"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-sb;"/>
    </owl:NamedIndividual>
@@ -203,7 +203,7 @@
       <rdfs:label>Malaita</rdfs:label>
       <skos:definition>The province of Malaita in the country of Solomon Islands</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;SolomonIslands"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Malaita</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Malaita</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-sb;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-sb;"/>
    </owl:NamedIndividual>
@@ -233,7 +233,7 @@
       <rdfs:label>Makira-Ulawa</rdfs:label>
       <skos:definition>The province of Makira-Ulawa in the country of Solomon Islands</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;SolomonIslands"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Makira-Ulawa</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Makira-Ulawa</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-sb;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-sb;"/>
    </owl:NamedIndividual>
@@ -263,7 +263,7 @@
       <rdfs:label>Rennell and Bellona</rdfs:label>
       <skos:definition>The province of Rennell and Bellona in the country of Solomon Islands</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;SolomonIslands"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Rennell and Bellona</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Rennell and Bellona</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-sb;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-sb;"/>
    </owl:NamedIndividual>
@@ -293,7 +293,7 @@
       <rdfs:label>Guadalcanal</rdfs:label>
       <skos:definition>The province of Guadalcanal in the country of Solomon Islands</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;SolomonIslands"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Guadalcanal</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Guadalcanal</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-sb;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-sb;"/>
    </owl:NamedIndividual>
@@ -323,7 +323,7 @@
       <rdfs:label>Temotu</rdfs:label>
       <skos:definition>The province of Temotu in the country of Solomon Islands</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;SolomonIslands"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Temotu</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Temotu</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-sb;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-sb;"/>
    </owl:NamedIndividual>
@@ -353,7 +353,7 @@
       <rdfs:label>Isabel</rdfs:label>
       <skos:definition>The province of Isabel in the country of Solomon Islands</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;SolomonIslands"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Isabel</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Isabel</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-sb;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-sb;"/>
    </owl:NamedIndividual>
@@ -383,7 +383,7 @@
       <rdfs:label>Choiseul</rdfs:label>
       <skos:definition>The province of Choiseul in the country of Solomon Islands</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;SolomonIslands"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Choiseul</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Choiseul</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-sb;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-sb;"/>
    </owl:NamedIndividual>
@@ -413,8 +413,8 @@
       <rdfs:label>Guadalcanal (principal island)</rdfs:label>
       <skos:definition>The territory of Guadalcanal (principal island) in the country of Solomon Islands</skos:definition>
       <lcc-cr:hasNumericRegionCode rdf:datatype="&xsd;string">1079</lcc-cr:hasNumericRegionCode>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Guadalcanal (île principale)</lcc-cr:hasFrenchShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Guadalcanal (principal island)</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Guadalcanal (île principale)</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Guadalcanal (principal island)</lcc-cr:hasEnglishShortName>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;SolomonIslands"/>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2;Territory"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-sb;"/>
@@ -432,8 +432,8 @@
       <rdfs:label>Southern Solomon Islands</rdfs:label>
       <skos:definition>The territory of Southern Solomon Islands in the country of Solomon Islands</skos:definition>
       <lcc-cr:hasNumericRegionCode rdf:datatype="&xsd;string">1181</lcc-cr:hasNumericRegionCode>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">les Îles Salomon du Sud</lcc-cr:hasFrenchShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Southern Solomon Islands</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">les Îles Salomon du Sud</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Southern Solomon Islands</lcc-cr:hasEnglishShortName>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;SolomonIslands"/>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2;Territory"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-sb;"/>
@@ -451,8 +451,8 @@
       <rdfs:label>Santa Cruz Islands</rdfs:label>
       <skos:definition>The territory of Santa Cruz Islands in the country of Solomon Islands</skos:definition>
       <lcc-cr:hasNumericRegionCode rdf:datatype="&xsd;string">1186</lcc-cr:hasNumericRegionCode>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">les Îles Santa Cruz</lcc-cr:hasFrenchShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Santa Cruz Islands</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">les Îles Santa Cruz</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Santa Cruz Islands</lcc-cr:hasEnglishShortName>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;SolomonIslands"/>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2;Territory"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-sb;"/>

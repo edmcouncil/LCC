@@ -106,7 +106,7 @@
       <rdfs:label>Bomi</rdfs:label>
       <skos:definition>The county of Bomi in the country of Liberia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Liberia"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Bomi</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Bomi</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-lr;County"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-lr;"/>
    </owl:NamedIndividual>
@@ -136,7 +136,7 @@
       <rdfs:label>Grand Bassa</rdfs:label>
       <skos:definition>The county of Grand Bassa in the country of Liberia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Liberia"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Grand Bassa</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Grand Bassa</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-lr;County"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-lr;"/>
    </owl:NamedIndividual>
@@ -166,7 +166,7 @@
       <rdfs:label>Grand Gedeh</rdfs:label>
       <skos:definition>The county of Grand Gedeh in the country of Liberia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Liberia"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Grand Gedeh</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Grand Gedeh</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-lr;County"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-lr;"/>
    </owl:NamedIndividual>
@@ -196,7 +196,7 @@
       <rdfs:label>Lofa</rdfs:label>
       <skos:definition>The county of Lofa in the country of Liberia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Liberia"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Lofa</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Lofa</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-lr;County"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-lr;"/>
    </owl:NamedIndividual>
@@ -226,7 +226,7 @@
       <rdfs:label>River Cess</rdfs:label>
       <skos:definition>The county of River Cess in the country of Liberia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Liberia"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">River Cess</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">River Cess</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-lr;County"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-lr;"/>
    </owl:NamedIndividual>
@@ -256,7 +256,7 @@
       <rdfs:label>Grand Cape Mount</rdfs:label>
       <skos:definition>The county of Grand Cape Mount in the country of Liberia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Liberia"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Grand Cape Mount</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Grand Cape Mount</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-lr;County"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-lr;"/>
    </owl:NamedIndividual>
@@ -286,7 +286,7 @@
       <rdfs:label>Gbarpolu</rdfs:label>
       <skos:definition>The county of Gbarpolu in the country of Liberia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Liberia"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Gbarpolu</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Gbarpolu</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-lr;County"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-lr;"/>
    </owl:NamedIndividual>
@@ -316,7 +316,7 @@
       <rdfs:label>Margibi</rdfs:label>
       <skos:definition>The county of Margibi in the country of Liberia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Liberia"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Margibi</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Margibi</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-lr;County"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-lr;"/>
    </owl:NamedIndividual>
@@ -346,7 +346,7 @@
       <rdfs:label>Bong</rdfs:label>
       <skos:definition>The county of Bong in the country of Liberia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Liberia"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Bong</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Bong</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-lr;County"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-lr;"/>
    </owl:NamedIndividual>
@@ -376,7 +376,7 @@
       <rdfs:label>Maryland</rdfs:label>
       <skos:definition>The county of Maryland in the country of Liberia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Liberia"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Maryland</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Maryland</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-lr;County"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-lr;"/>
    </owl:NamedIndividual>
@@ -406,7 +406,7 @@
       <rdfs:label>Nimba</rdfs:label>
       <skos:definition>The county of Nimba in the country of Liberia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Liberia"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Nimba</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Nimba</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-lr;County"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-lr;"/>
    </owl:NamedIndividual>
@@ -436,7 +436,7 @@
       <rdfs:label>Sinoe</rdfs:label>
       <skos:definition>The county of Sinoe in the country of Liberia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Liberia"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Sinoe</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Sinoe</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-lr;County"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-lr;"/>
    </owl:NamedIndividual>
@@ -466,7 +466,7 @@
       <rdfs:label>River Gee</rdfs:label>
       <skos:definition>The county of River Gee in the country of Liberia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Liberia"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">River Gee</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">River Gee</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-lr;County"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-lr;"/>
    </owl:NamedIndividual>
@@ -496,7 +496,7 @@
       <rdfs:label>Montserrado</rdfs:label>
       <skos:definition>The county of Montserrado in the country of Liberia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Liberia"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Montserrado</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Montserrado</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-lr;County"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-lr;"/>
    </owl:NamedIndividual>
@@ -526,7 +526,7 @@
       <rdfs:label>Grand Kru</rdfs:label>
       <skos:definition>The county of Grand Kru in the country of Liberia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Liberia"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Grand Kru</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Grand Kru</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-lr;County"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-lr;"/>
    </owl:NamedIndividual>

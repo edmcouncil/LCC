@@ -106,7 +106,7 @@
       <rdfs:label>Ra’s al Khaymah</rdfs:label>
       <skos:definition>The emirate of Ra’s al Khaymah in the country of United Arab Emirates (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;UnitedArabEmirates"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Ra’s al Khaymah</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Ra’s al Khaymah</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ae;Emirate"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ae;"/>
    </owl:NamedIndividual>
@@ -136,7 +136,7 @@
       <rdfs:label>Ash Shāriqah</rdfs:label>
       <skos:definition>The emirate of Ash Shāriqah in the country of United Arab Emirates (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;UnitedArabEmirates"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Ash Shāriqah</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Ash Shāriqah</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ae;Emirate"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ae;"/>
    </owl:NamedIndividual>
@@ -166,7 +166,7 @@
       <rdfs:label>Al Fujayrah</rdfs:label>
       <skos:definition>The emirate of Al Fujayrah in the country of United Arab Emirates (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;UnitedArabEmirates"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Al Fujayrah</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Al Fujayrah</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ae;Emirate"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ae;"/>
    </owl:NamedIndividual>
@@ -196,7 +196,7 @@
       <rdfs:label>Dubayy</rdfs:label>
       <skos:definition>The emirate of Dubayy in the country of United Arab Emirates (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;UnitedArabEmirates"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Dubayy</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Dubayy</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ae;Emirate"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ae;"/>
    </owl:NamedIndividual>
@@ -226,7 +226,7 @@
       <rdfs:label>Abū Z̧aby</rdfs:label>
       <skos:definition>The emirate of Abū Z̧aby in the country of United Arab Emirates (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;UnitedArabEmirates"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Abū Z̧aby</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Abū Z̧aby</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ae;Emirate"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ae;"/>
    </owl:NamedIndividual>
@@ -256,7 +256,7 @@
       <rdfs:label>Umm al Qaywayn</rdfs:label>
       <skos:definition>The emirate of Umm al Qaywayn in the country of United Arab Emirates (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;UnitedArabEmirates"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Umm al Qaywayn</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Umm al Qaywayn</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ae;Emirate"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ae;"/>
    </owl:NamedIndividual>
@@ -286,7 +286,7 @@
       <rdfs:label>‘Ajmān</rdfs:label>
       <skos:definition>The emirate of ‘Ajmān in the country of United Arab Emirates (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;UnitedArabEmirates"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">‘Ajmān</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">‘Ajmān</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ae;Emirate"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ae;"/>
    </owl:NamedIndividual>

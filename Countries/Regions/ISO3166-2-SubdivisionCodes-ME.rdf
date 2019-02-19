@@ -106,7 +106,7 @@
       <rdfs:label>Andrijevica</rdfs:label>
       <skos:definition>The municipality of Andrijevica in the country of Montenegro</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Montenegro"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string">Andrijevica</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName>Andrijevica</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-me;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-me;"/>
    </owl:NamedIndividual>
@@ -136,7 +136,7 @@
       <rdfs:label>Danilovgrad</rdfs:label>
       <skos:definition>The municipality of Danilovgrad in the country of Montenegro</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Montenegro"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string">Danilovgrad</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName>Danilovgrad</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-me;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-me;"/>
    </owl:NamedIndividual>
@@ -166,7 +166,7 @@
       <rdfs:label>Kotor</rdfs:label>
       <skos:definition>The municipality of Kotor in the country of Montenegro</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Montenegro"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string">Kotor</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName>Kotor</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-me;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-me;"/>
    </owl:NamedIndividual>
@@ -196,7 +196,7 @@
       <rdfs:label>Rožaje</rdfs:label>
       <skos:definition>The municipality of Rožaje in the country of Montenegro</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Montenegro"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string">Rožaje</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName>Rožaje</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-me;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-me;"/>
    </owl:NamedIndividual>
@@ -226,7 +226,7 @@
       <rdfs:label>Cetinje</rdfs:label>
       <skos:definition>The municipality of Cetinje in the country of Montenegro</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Montenegro"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string">Cetinje</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName>Cetinje</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-me;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-me;"/>
    </owl:NamedIndividual>
@@ -256,7 +256,7 @@
       <rdfs:label>Kolašin</rdfs:label>
       <skos:definition>The municipality of Kolašin in the country of Montenegro</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Montenegro"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string">Kolašin</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName>Kolašin</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-me;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-me;"/>
    </owl:NamedIndividual>
@@ -286,7 +286,7 @@
       <rdfs:label>Pljevlja</rdfs:label>
       <skos:definition>The municipality of Pljevlja in the country of Montenegro</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Montenegro"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string">Pljevlja</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName>Pljevlja</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-me;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-me;"/>
    </owl:NamedIndividual>
@@ -316,7 +316,7 @@
       <rdfs:label>Šavnik</rdfs:label>
       <skos:definition>The municipality of Šavnik in the country of Montenegro</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Montenegro"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string">Šavnik</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName>Šavnik</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-me;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-me;"/>
    </owl:NamedIndividual>
@@ -346,7 +346,7 @@
       <rdfs:label>Žabljak</rdfs:label>
       <skos:definition>The municipality of Žabljak in the country of Montenegro</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Montenegro"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string">Žabljak</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName>Žabljak</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-me;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-me;"/>
    </owl:NamedIndividual>
@@ -376,7 +376,7 @@
       <rdfs:label>Bar</rdfs:label>
       <skos:definition>The municipality of Bar in the country of Montenegro</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Montenegro"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string">Bar</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName>Bar</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-me;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-me;"/>
    </owl:NamedIndividual>
@@ -406,7 +406,7 @@
       <rdfs:label>Bijelo Polje</rdfs:label>
       <skos:definition>The municipality of Bijelo Polje in the country of Montenegro</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Montenegro"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string">Bijelo Polje</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName>Bijelo Polje</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-me;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-me;"/>
    </owl:NamedIndividual>
@@ -436,7 +436,7 @@
       <rdfs:label>Herceg-Novi</rdfs:label>
       <skos:definition>The municipality of Herceg-Novi in the country of Montenegro</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Montenegro"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string">Herceg-Novi</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName>Herceg-Novi</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-me;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-me;"/>
    </owl:NamedIndividual>
@@ -466,7 +466,7 @@
       <rdfs:label>Mojkovac</rdfs:label>
       <skos:definition>The municipality of Mojkovac in the country of Montenegro</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Montenegro"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string">Mojkovac</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName>Mojkovac</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-me;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-me;"/>
    </owl:NamedIndividual>
@@ -496,7 +496,7 @@
       <rdfs:label>Berane</rdfs:label>
       <skos:definition>The municipality of Berane in the country of Montenegro</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Montenegro"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string">Berane</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName>Berane</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-me;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-me;"/>
    </owl:NamedIndividual>
@@ -526,7 +526,7 @@
       <rdfs:label>Podgorica</rdfs:label>
       <skos:definition>The municipality of Podgorica in the country of Montenegro</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Montenegro"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string">Podgorica</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName>Podgorica</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-me;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-me;"/>
    </owl:NamedIndividual>
@@ -556,7 +556,7 @@
       <rdfs:label>Ulcinj</rdfs:label>
       <skos:definition>The municipality of Ulcinj in the country of Montenegro</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Montenegro"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string">Ulcinj</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName>Ulcinj</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-me;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-me;"/>
    </owl:NamedIndividual>
@@ -586,7 +586,7 @@
       <rdfs:label>Gusinje</rdfs:label>
       <skos:definition>The municipality of Gusinje in the country of Montenegro</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Montenegro"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string">Gusinje</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName>Gusinje</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-me;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-me;"/>
    </owl:NamedIndividual>
@@ -616,7 +616,7 @@
       <rdfs:label>Petnjica</rdfs:label>
       <skos:definition>The municipality of Petnjica in the country of Montenegro</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Montenegro"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string">Petnjica</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName>Petnjica</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-me;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-me;"/>
    </owl:NamedIndividual>
@@ -646,7 +646,7 @@
       <rdfs:label>Budva</rdfs:label>
       <skos:definition>The municipality of Budva in the country of Montenegro</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Montenegro"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string">Budva</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName>Budva</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-me;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-me;"/>
    </owl:NamedIndividual>
@@ -676,7 +676,7 @@
       <rdfs:label>Plužine</rdfs:label>
       <skos:definition>The municipality of Plužine in the country of Montenegro</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Montenegro"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string">Plužine</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName>Plužine</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-me;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-me;"/>
    </owl:NamedIndividual>
@@ -706,7 +706,7 @@
       <rdfs:label>Tivat</rdfs:label>
       <skos:definition>The municipality of Tivat in the country of Montenegro</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Montenegro"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string">Tivat</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName>Tivat</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-me;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-me;"/>
    </owl:NamedIndividual>
@@ -736,7 +736,7 @@
       <rdfs:label>Plav</rdfs:label>
       <skos:definition>The municipality of Plav in the country of Montenegro</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Montenegro"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string">Plav</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName>Plav</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-me;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-me;"/>
    </owl:NamedIndividual>
@@ -766,7 +766,7 @@
       <rdfs:label>Nikšić</rdfs:label>
       <skos:definition>The municipality of Nikšić in the country of Montenegro</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Montenegro"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string">Nikšić</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName>Nikšić</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-me;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-me;"/>
    </owl:NamedIndividual>

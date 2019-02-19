@@ -106,7 +106,7 @@
       <rdfs:label>Line Islands</rdfs:label>
       <skos:definition>The group of islands (20 inhabited islands) of Line Islands in the country of Kiribati</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Kiribati"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Line Islands</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Line Islands</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ki;GroupOfIslands"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ki;"/>
    </owl:NamedIndividual>
@@ -136,7 +136,7 @@
       <rdfs:label>Phoenix Islands</rdfs:label>
       <skos:definition>The group of islands (20 inhabited islands) of Phoenix Islands in the country of Kiribati</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Kiribati"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Phoenix Islands</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Phoenix Islands</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ki;GroupOfIslands"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ki;"/>
    </owl:NamedIndividual>
@@ -166,7 +166,7 @@
       <rdfs:label>Gilbert Islands</rdfs:label>
       <skos:definition>The group of islands (20 inhabited islands) of Gilbert Islands in the country of Kiribati</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Kiribati"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Gilbert Islands</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Gilbert Islands</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ki;GroupOfIslands"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ki;"/>
    </owl:NamedIndividual>
@@ -196,8 +196,8 @@
       <rdfs:label>Abariringa</rdfs:label>
       <skos:definition>The territory of Abariringa in the country of Kiribati</skos:definition>
       <lcc-cr:hasNumericRegionCode rdf:datatype="&xsd;string">1000</lcc-cr:hasNumericRegionCode>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Abariringa</lcc-cr:hasFrenchShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Abariringa</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Abariringa</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Abariringa</lcc-cr:hasEnglishShortName>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Kiribati"/>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2;Territory"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ki;"/>
@@ -215,8 +215,8 @@
       <rdfs:label>Banaba</rdfs:label>
       <skos:definition>The territory of Banaba in the country of Kiribati</skos:definition>
       <lcc-cr:hasNumericRegionCode rdf:datatype="&xsd;string">1018</lcc-cr:hasNumericRegionCode>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Banaba</lcc-cr:hasFrenchShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Banaba</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Banaba</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Banaba</lcc-cr:hasEnglishShortName>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Kiribati"/>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2;Territory"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ki;"/>
@@ -234,8 +234,8 @@
       <rdfs:label>Enderbury Island</rdfs:label>
       <skos:definition>The territory of Enderbury Island in the country of Kiribati</skos:definition>
       <lcc-cr:hasNumericRegionCode rdf:datatype="&xsd;string">1056</lcc-cr:hasNumericRegionCode>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">l'Île Enderbury</lcc-cr:hasFrenchShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Enderbury Island</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">l'Île Enderbury</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Enderbury Island</lcc-cr:hasEnglishShortName>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Kiribati"/>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2;Territory"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ki;"/>
@@ -253,8 +253,8 @@
       <rdfs:label>Gilbert Islands</rdfs:label>
       <skos:definition>The territory of Gilbert Islands in the country of Kiribati</skos:definition>
       <lcc-cr:hasNumericRegionCode rdf:datatype="&xsd;string">1067</lcc-cr:hasNumericRegionCode>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">les Îles Gilbert</lcc-cr:hasFrenchShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Gilbert Islands</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">les Îles Gilbert</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Gilbert Islands</lcc-cr:hasEnglishShortName>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Kiribati"/>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2;Territory"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ki;"/>
@@ -272,8 +272,8 @@
       <rdfs:label>Kiritimati</rdfs:label>
       <skos:definition>The territory of Kiritimati in the country of Kiribati</skos:definition>
       <lcc-cr:hasNumericRegionCode rdf:datatype="&xsd;string">1099</lcc-cr:hasNumericRegionCode>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Kiritimati</lcc-cr:hasFrenchShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Kiritimati</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Kiritimati</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Kiritimati</lcc-cr:hasEnglishShortName>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Kiribati"/>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2;Territory"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ki;"/>
@@ -291,8 +291,8 @@
       <rdfs:label>part of Line Islands</rdfs:label>
       <skos:definition>The territory of part of Line Islands in the country of Kiribati</skos:definition>
       <lcc-cr:hasNumericRegionCode rdf:datatype="&xsd;string">1103</lcc-cr:hasNumericRegionCode>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">une partie des Îles de la Ligne</lcc-cr:hasFrenchShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">part of Line Islands</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">une partie des Îles de la Ligne</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">part of Line Islands</lcc-cr:hasEnglishShortName>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Kiribati"/>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2;Territory"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ki;"/>
@@ -310,8 +310,8 @@
       <rdfs:label>Phoenix Islands</rdfs:label>
       <skos:definition>The territory of Phoenix Islands in the country of Kiribati</skos:definition>
       <lcc-cr:hasNumericRegionCode rdf:datatype="&xsd;string">1150</lcc-cr:hasNumericRegionCode>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Phoenix Islands</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">les Îles Phoenix</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Phoenix Islands</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">les Îles Phoenix</lcc-cr:hasFrenchShortName>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Kiribati"/>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2;Territory"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ki;"/>
@@ -329,8 +329,8 @@
       <rdfs:label>Tarawa</rdfs:label>
       <skos:definition>The territory of Tarawa in the country of Kiribati</skos:definition>
       <lcc-cr:hasNumericRegionCode rdf:datatype="&xsd;string">1208</lcc-cr:hasNumericRegionCode>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Tarawa</lcc-cr:hasFrenchShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Tarawa</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Tarawa</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Tarawa</lcc-cr:hasEnglishShortName>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Kiribati"/>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2;Territory"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ki;"/>

@@ -106,8 +106,8 @@
       <rdfs:label>Songwe</rdfs:label>
       <skos:definition>The region of Songwe in the country of Tanzania, United Republic of</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Tanzania"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Songwe</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sw">Songwe</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Songwe</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sw">Songwe</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-tz;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-tz;"/>
    </owl:NamedIndividual>
@@ -137,7 +137,7 @@
       <rdfs:label>Dar es Salaam</rdfs:label>
       <skos:definition>The region of Dar es Salaam in the country of Tanzania, United Republic of</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Tanzania"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sw">Dar es Salaam</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sw">Dar es Salaam</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-tz;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-tz;"/>
    </owl:NamedIndividual>
@@ -167,7 +167,7 @@
       <rdfs:label>Iringa</rdfs:label>
       <skos:definition>The region of Iringa in the country of Tanzania, United Republic of</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Tanzania"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sw">Iringa</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sw">Iringa</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-tz;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-tz;"/>
    </owl:NamedIndividual>
@@ -197,7 +197,7 @@
       <rdfs:label>Kagera</rdfs:label>
       <skos:definition>The region of Kagera in the country of Tanzania, United Republic of</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Tanzania"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sw">Kagera</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sw">Kagera</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-tz;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-tz;"/>
    </owl:NamedIndividual>
@@ -227,8 +227,8 @@
       <rdfs:label>Zanzibar North</rdfs:label>
       <skos:definition>The region of Zanzibar North in the country of Tanzania, United Republic of</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Tanzania"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Zanzibar North</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sw">Kaskazini Unguja</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Zanzibar North</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sw">Kaskazini Unguja</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-tz;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-tz;"/>
    </owl:NamedIndividual>
@@ -258,7 +258,7 @@
       <rdfs:label>Arusha</rdfs:label>
       <skos:definition>The region of Arusha in the country of Tanzania, United Republic of</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Tanzania"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sw">Arusha</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sw">Arusha</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-tz;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-tz;"/>
    </owl:NamedIndividual>
@@ -288,7 +288,7 @@
       <rdfs:label>Lindi</rdfs:label>
       <skos:definition>The region of Lindi in the country of Tanzania, United Republic of</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Tanzania"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sw">Lindi</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sw">Lindi</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-tz;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-tz;"/>
    </owl:NamedIndividual>
@@ -318,8 +318,8 @@
       <rdfs:label>Zanzibar West</rdfs:label>
       <skos:definition>The region of Zanzibar West in the country of Tanzania, United Republic of</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Tanzania"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Zanzibar West</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sw">Mjini Magharibi</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Zanzibar West</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sw">Mjini Magharibi</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-tz;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-tz;"/>
    </owl:NamedIndividual>
@@ -349,7 +349,7 @@
       <rdfs:label>Singida</rdfs:label>
       <skos:definition>The region of Singida in the country of Tanzania, United Republic of</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Tanzania"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sw">Singida</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sw">Singida</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-tz;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-tz;"/>
    </owl:NamedIndividual>
@@ -379,8 +379,8 @@
       <rdfs:label>Coast</rdfs:label>
       <skos:definition>The region of Coast in the country of Tanzania, United Republic of</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Tanzania"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Coast</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sw">Pwani</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Coast</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sw">Pwani</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-tz;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-tz;"/>
    </owl:NamedIndividual>
@@ -410,7 +410,7 @@
       <rdfs:label>Tanga</rdfs:label>
       <skos:definition>The region of Tanga in the country of Tanzania, United Republic of</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Tanzania"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sw">Tanga</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sw">Tanga</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-tz;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-tz;"/>
    </owl:NamedIndividual>
@@ -440,8 +440,8 @@
       <rdfs:label>Pemba South</rdfs:label>
       <skos:definition>The region of Pemba South in the country of Tanzania, United Republic of</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Tanzania"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Pemba South</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sw">Kusini Pemba</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Pemba South</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sw">Kusini Pemba</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-tz;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-tz;"/>
    </owl:NamedIndividual>
@@ -471,7 +471,7 @@
       <rdfs:label>Mtwara</rdfs:label>
       <skos:definition>The region of Mtwara in the country of Tanzania, United Republic of</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Tanzania"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sw">Mtwara</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sw">Mtwara</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-tz;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-tz;"/>
    </owl:NamedIndividual>
@@ -501,8 +501,8 @@
       <rdfs:label>Zanzibar South</rdfs:label>
       <skos:definition>The region of Zanzibar South in the country of Tanzania, United Republic of</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Tanzania"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Zanzibar South</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sw">Kusini Unguja</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Zanzibar South</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sw">Kusini Unguja</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-tz;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-tz;"/>
    </owl:NamedIndividual>
@@ -532,7 +532,7 @@
       <rdfs:label>Ruvuma</rdfs:label>
       <skos:definition>The region of Ruvuma in the country of Tanzania, United Republic of</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Tanzania"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sw">Ruvuma</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sw">Ruvuma</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-tz;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-tz;"/>
    </owl:NamedIndividual>
@@ -562,7 +562,7 @@
       <rdfs:label>Tabora</rdfs:label>
       <skos:definition>The region of Tabora in the country of Tanzania, United Republic of</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Tanzania"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sw">Tabora</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sw">Tabora</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-tz;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-tz;"/>
    </owl:NamedIndividual>
@@ -592,7 +592,7 @@
       <rdfs:label>Geita</rdfs:label>
       <skos:definition>The region of Geita in the country of Tanzania, United Republic of</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Tanzania"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sw">Geita</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sw">Geita</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-tz;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-tz;"/>
    </owl:NamedIndividual>
@@ -622,7 +622,7 @@
       <rdfs:label>Katavi</rdfs:label>
       <skos:definition>The region of Katavi in the country of Tanzania, United Republic of</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Tanzania"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sw">Katavi</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sw">Katavi</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-tz;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-tz;"/>
    </owl:NamedIndividual>
@@ -652,7 +652,7 @@
       <rdfs:label>Njombe</rdfs:label>
       <skos:definition>The region of Njombe in the country of Tanzania, United Republic of</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Tanzania"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sw">Njombe</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sw">Njombe</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-tz;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-tz;"/>
    </owl:NamedIndividual>
@@ -682,7 +682,7 @@
       <rdfs:label>Simiyu</rdfs:label>
       <skos:definition>The region of Simiyu in the country of Tanzania, United Republic of</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Tanzania"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sw">Simiyu</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sw">Simiyu</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-tz;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-tz;"/>
    </owl:NamedIndividual>
@@ -712,7 +712,7 @@
       <rdfs:label>Dodoma</rdfs:label>
       <skos:definition>The region of Dodoma in the country of Tanzania, United Republic of</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Tanzania"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sw">Dodoma</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sw">Dodoma</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-tz;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-tz;"/>
    </owl:NamedIndividual>
@@ -742,7 +742,7 @@
       <rdfs:label>Kigoma</rdfs:label>
       <skos:definition>The region of Kigoma in the country of Tanzania, United Republic of</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Tanzania"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sw">Kigoma</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sw">Kigoma</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-tz;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-tz;"/>
    </owl:NamedIndividual>
@@ -772,7 +772,7 @@
       <rdfs:label>Kilimanjaro</rdfs:label>
       <skos:definition>The region of Kilimanjaro in the country of Tanzania, United Republic of</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Tanzania"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sw">Kilimanjaro</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sw">Kilimanjaro</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-tz;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-tz;"/>
    </owl:NamedIndividual>
@@ -802,7 +802,7 @@
       <rdfs:label>Morogoro</rdfs:label>
       <skos:definition>The region of Morogoro in the country of Tanzania, United Republic of</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Tanzania"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sw">Morogoro</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sw">Morogoro</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-tz;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-tz;"/>
    </owl:NamedIndividual>
@@ -832,7 +832,7 @@
       <rdfs:label>Mwanza</rdfs:label>
       <skos:definition>The region of Mwanza in the country of Tanzania, United Republic of</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Tanzania"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sw">Mwanza</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sw">Mwanza</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-tz;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-tz;"/>
    </owl:NamedIndividual>
@@ -862,7 +862,7 @@
       <rdfs:label>Mara</rdfs:label>
       <skos:definition>The region of Mara in the country of Tanzania, United Republic of</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Tanzania"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sw">Mara</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sw">Mara</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-tz;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-tz;"/>
    </owl:NamedIndividual>
@@ -892,7 +892,7 @@
       <rdfs:label>Shinyanga</rdfs:label>
       <skos:definition>The region of Shinyanga in the country of Tanzania, United Republic of</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Tanzania"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sw">Shinyanga</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sw">Shinyanga</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-tz;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-tz;"/>
    </owl:NamedIndividual>
@@ -922,8 +922,8 @@
       <rdfs:label>Pemba North</rdfs:label>
       <skos:definition>The region of Pemba North in the country of Tanzania, United Republic of</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Tanzania"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sw">Kaskazini Pemba</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Pemba North</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sw">Kaskazini Pemba</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Pemba North</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-tz;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-tz;"/>
    </owl:NamedIndividual>
@@ -953,7 +953,7 @@
       <rdfs:label>Mbeya</rdfs:label>
       <skos:definition>The region of Mbeya in the country of Tanzania, United Republic of</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Tanzania"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sw">Mbeya</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sw">Mbeya</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-tz;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-tz;"/>
    </owl:NamedIndividual>
@@ -983,7 +983,7 @@
       <rdfs:label>Rukwa</rdfs:label>
       <skos:definition>The region of Rukwa in the country of Tanzania, United Republic of</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Tanzania"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sw">Rukwa</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sw">Rukwa</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-tz;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-tz;"/>
    </owl:NamedIndividual>
@@ -1013,7 +1013,7 @@
       <rdfs:label>Manyara</rdfs:label>
       <skos:definition>The region of Manyara in the country of Tanzania, United Republic of</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Tanzania"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sw">Manyara</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sw">Manyara</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-tz;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-tz;"/>
    </owl:NamedIndividual>

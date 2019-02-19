@@ -106,7 +106,7 @@
       <rdfs:label>Anse la Raye</rdfs:label>
       <skos:definition>The district of Anse la Raye in the country of Saint Lucia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;SaintLucia"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Anse la Raye</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Anse la Raye</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-lc;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-lc;"/>
    </owl:NamedIndividual>
@@ -136,7 +136,7 @@
       <rdfs:label>Gros Islet</rdfs:label>
       <skos:definition>The district of Gros Islet in the country of Saint Lucia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;SaintLucia"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Gros Islet</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Gros Islet</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-lc;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-lc;"/>
    </owl:NamedIndividual>
@@ -166,7 +166,7 @@
       <rdfs:label>Choiseul</rdfs:label>
       <skos:definition>The district of Choiseul in the country of Saint Lucia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;SaintLucia"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Choiseul</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Choiseul</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-lc;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-lc;"/>
    </owl:NamedIndividual>
@@ -196,7 +196,7 @@
       <rdfs:label>Castries</rdfs:label>
       <skos:definition>The district of Castries in the country of Saint Lucia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;SaintLucia"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Castries</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Castries</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-lc;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-lc;"/>
    </owl:NamedIndividual>
@@ -226,7 +226,7 @@
       <rdfs:label>Dennery</rdfs:label>
       <skos:definition>The district of Dennery in the country of Saint Lucia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;SaintLucia"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Dennery</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Dennery</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-lc;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-lc;"/>
    </owl:NamedIndividual>
@@ -256,7 +256,7 @@
       <rdfs:label>Micoud</rdfs:label>
       <skos:definition>The district of Micoud in the country of Saint Lucia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;SaintLucia"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Micoud</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Micoud</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-lc;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-lc;"/>
    </owl:NamedIndividual>
@@ -286,7 +286,7 @@
       <rdfs:label>Canaries</rdfs:label>
       <skos:definition>The district of Canaries in the country of Saint Lucia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;SaintLucia"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Canaries</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Canaries</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-lc;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-lc;"/>
    </owl:NamedIndividual>
@@ -316,7 +316,7 @@
       <rdfs:label>Laborie</rdfs:label>
       <skos:definition>The district of Laborie in the country of Saint Lucia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;SaintLucia"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Laborie</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Laborie</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-lc;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-lc;"/>
    </owl:NamedIndividual>
@@ -346,7 +346,7 @@
       <rdfs:label>Soufrière</rdfs:label>
       <skos:definition>The district of Soufrière in the country of Saint Lucia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;SaintLucia"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Soufrière</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Soufrière</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-lc;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-lc;"/>
    </owl:NamedIndividual>
@@ -376,7 +376,7 @@
       <rdfs:label>Vieux Fort</rdfs:label>
       <skos:definition>The district of Vieux Fort in the country of Saint Lucia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;SaintLucia"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Vieux Fort</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Vieux Fort</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-lc;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-lc;"/>
    </owl:NamedIndividual>

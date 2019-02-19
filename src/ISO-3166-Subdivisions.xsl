@@ -47,10 +47,10 @@ exclude-result-prefixes="xsl xs">
     <xsl:output-character character="&amp;" string="&#x26;"/>
   </xsl:character-map> 
 
-<xsl:param name="destdir" select="'C:\Temp\Subdivisions'"/> <!-- The name of the output directory  --> <!-- Default is just for testing -->
+<xsl:param name="destdir" select="'../Countries/Regions'"/> <!-- The name of the output directory  --> <!-- Default is just for testing -->
 <xsl:param name="owl-file-extension" select="'.rdf'"/> <!-- To add to the generated files -->
 <xsl:param name="generate-entities" select="'false'"/> <!-- Whether to use XML entities - requires sepsrate mappign file described below -->
-<xsl:variable name="base-dir" select="concat('file:///', translate($destdir, '\', '/'), '/')"/> 
+<xsl:variable name="base-dir" select="concat(translate($destdir, '\', '/'), '/')"/> 
 <xsl:variable name="countries-base-uri" select="'&amp;lcc-3166-1;'"/>
 <xsl:variable name="subdivisions-base-uri" select="'http://www.omg.org/spec/LCC/Countries/Regions/ISO3166-2-SubdivisionCodes-'"/>
 
@@ -97,19 +97,19 @@ exclude-result-prefixes="xsl xs">
   <xsl:for-each select="subdivision-locale">
     <xsl:choose>
       <xsl:when test="@lang3code='eng'">
-        <lcc-cr:hasEnglishShortName rdf:datatype="&amp;xsd;string">
+        <lcc-cr:hasEnglishShortName>
           <xsl:copy-of select="@xml:lang"/>
           <xsl:value-of select="subdivision-locale-name"/>
         </lcc-cr:hasEnglishShortName>
       </xsl:when>
       <xsl:when test="@lang3code='fra'">
-        <lcc-cr:hasFrenchShortName rdf:datatype="&amp;xsd;string">
+        <lcc-cr:hasFrenchShortName>
           <xsl:copy-of select="@xml:lang"/>
           <xsl:value-of select="subdivision-locale-name"/>
         </lcc-cr:hasFrenchShortName>
       </xsl:when>
       <xsl:otherwise>
-        <lcc-cr:hasLocalShortName rdf:datatype="&amp;xsd;string">
+        <lcc-cr:hasLocalShortName>
           <xsl:copy-of select="@xml:lang"/>
           <xsl:value-of select="subdivision-locale-name"/>
         </lcc-cr:hasLocalShortName>    
@@ -124,19 +124,19 @@ exclude-result-prefixes="xsl xs">
     <xsl:for-each select="territory-name">
       <xsl:choose>
         <xsl:when test="@lang3code='eng'">
-          <lcc-cr:hasEnglishShortName rdf:datatype="&amp;xsd;string">
+          <lcc-cr:hasEnglishShortName>
             <xsl:copy-of select="@xml:lang"/>
             <xsl:value-of select="normalize-space(.)"/>
           </lcc-cr:hasEnglishShortName>
         </xsl:when>
         <xsl:when test="@lang3code='fra'">
-          <lcc-cr:hasFrenchShortName rdf:datatype="&amp;xsd;string">
+          <lcc-cr:hasFrenchShortName>
             <xsl:copy-of select="@xml:lang"/>
             <xsl:value-of select="normalize-space(.)"/>
           </lcc-cr:hasFrenchShortName>
         </xsl:when>
         <xsl:otherwise>
-          <lcc-cr:hasLocalShortName rdf:datatype="&amp;xsd;string">
+          <lcc-cr:hasLocalShortName>
             <xsl:copy-of select="@xml:lang"/>
             <xsl:value-of select="normalize-space(.)"/>
           </lcc-cr:hasLocalShortName>    

@@ -113,9 +113,9 @@
       <rdfs:label>Brčko distrikt</rdfs:label>
       <skos:definition>The district with special status of Brčko distrikt in the country of Bosnia and Herzegovina</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;BosniaAndHerzegovina"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sr">Brčko distrikt</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="hr">Brčko distrikt</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="bs">Brčko distrikt</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sr">Brčko distrikt</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="hr">Brčko distrikt</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="bs">Brčko distrikt</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ba;DistrictWithSpecialStatus"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ba;"/>
    </owl:NamedIndividual>
@@ -145,9 +145,9 @@
       <rdfs:label>Federacija Bosne i Hercegovine</rdfs:label>
       <skos:definition>The entity of Federacija Bosne i Hercegovine in the country of Bosnia and Herzegovina</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;BosniaAndHerzegovina"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sr">Federacija Bosne i Hercegovine</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="bs">Federacija Bosne i Hercegovine</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="hr">Federacija Bosne i Hercegovine</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sr">Federacija Bosne i Hercegovine</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="bs">Federacija Bosne i Hercegovine</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="hr">Federacija Bosne i Hercegovine</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ba;Entity"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ba;"/>
    </owl:NamedIndividual>
@@ -177,9 +177,9 @@
       <rdfs:label>Republika Srpska</rdfs:label>
       <skos:definition>The entity of Republika Srpska in the country of Bosnia and Herzegovina</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;BosniaAndHerzegovina"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sr">Republika Srpska</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="bs">Republika Srpska</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="hr">Republika Srpska</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sr">Republika Srpska</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="bs">Republika Srpska</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="hr">Republika Srpska</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ba;Entity"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ba;"/>
    </owl:NamedIndividual>
@@ -209,8 +209,8 @@
       <rdfs:label>Herzegovina *</rdfs:label>
       <skos:definition>The territory of Herzegovina * in the country of Bosnia and Herzegovina</skos:definition>
       <lcc-cr:hasNumericRegionCode rdf:datatype="&xsd;string">1082</lcc-cr:hasNumericRegionCode>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Herzegovina *</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Herzégovine *</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Herzegovina *</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Herzégovine *</lcc-cr:hasFrenchShortName>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;BosniaAndHerzegovina"/>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2;Territory"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ba;"/>

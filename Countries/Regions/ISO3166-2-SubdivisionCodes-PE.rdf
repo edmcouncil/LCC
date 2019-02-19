@@ -113,9 +113,9 @@
       <rdfs:label>Ica</rdfs:label>
       <skos:definition>The region of Ica in the country of Peru</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Peru"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Ica</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="qu">Ika</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ay">Ika</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Ica</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="qu">Ika</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ay">Ika</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-pe;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-pe;"/>
    </owl:NamedIndividual>
@@ -145,9 +145,9 @@
       <rdfs:label>Lima</rdfs:label>
       <skos:definition>The region of Lima in the country of Peru</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Peru"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ay">Lima</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="qu">Lima</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Lima</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ay">Lima</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="qu">Lima</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Lima</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-pe;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-pe;"/>
    </owl:NamedIndividual>
@@ -177,9 +177,9 @@
       <rdfs:label>Mayutata</rdfs:label>
       <skos:definition>The region of Mayutata in the country of Peru</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Peru"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="qu">Mayutata</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Madre de Dios</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ay">Madre de Dios</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="qu">Mayutata</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Madre de Dios</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ay">Madre de Dios</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-pe;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-pe;"/>
    </owl:NamedIndividual>
@@ -209,9 +209,9 @@
       <rdfs:label>Ayacucho</rdfs:label>
       <skos:definition>The region of Ayacucho in the country of Peru</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Peru"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Ayacucho</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="qu">Ayakuchu</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ay">Ayaquchu</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Ayacucho</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="qu">Ayakuchu</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ay">Ayaquchu</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-pe;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-pe;"/>
    </owl:NamedIndividual>
@@ -241,9 +241,9 @@
       <rdfs:label>Huánuco</rdfs:label>
       <skos:definition>The region of Huánuco in the country of Peru</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Peru"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Huánuco</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ay">Wanuku</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="qu">Wanuku</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Huánuco</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ay">Wanuku</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="qu">Wanuku</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-pe;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-pe;"/>
    </owl:NamedIndividual>
@@ -273,9 +273,9 @@
       <rdfs:label>Anqash</rdfs:label>
       <skos:definition>The region of Anqash in the country of Peru</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Peru"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="qu">Anqash</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ay">Ankashu</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Ancash</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="qu">Anqash</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ay">Ankashu</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Ancash</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-pe;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-pe;"/>
    </owl:NamedIndividual>
@@ -305,9 +305,9 @@
       <rdfs:label>Wankawelika</rdfs:label>
       <skos:definition>The region of Wankawelika in the country of Peru</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Peru"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ay">Wankawelika</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Huancavelica</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="qu">Wankawillka</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ay">Wankawelika</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Huancavelica</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="qu">Wankawillka</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-pe;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-pe;"/>
    </owl:NamedIndividual>
@@ -337,9 +337,9 @@
       <rdfs:label>Lambayeque</rdfs:label>
       <skos:definition>The region of Lambayeque in the country of Peru</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Peru"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ay">Lambayeque</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="qu">Lampalliqi</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Lambayeque</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ay">Lambayeque</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="qu">Lampalliqi</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Lambayeque</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-pe;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-pe;"/>
    </owl:NamedIndividual>
@@ -369,9 +369,9 @@
       <rdfs:label>Tacna</rdfs:label>
       <skos:definition>The region of Tacna in the country of Peru</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Peru"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Tacna</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ay">Takna</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="qu">Taqna</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Tacna</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ay">Takna</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="qu">Taqna</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-pe;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-pe;"/>
    </owl:NamedIndividual>
@@ -401,9 +401,9 @@
       <rdfs:label>Apurimaq</rdfs:label>
       <skos:definition>The region of Apurimaq in the country of Peru</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Peru"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ay">Apurimaq</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="qu">Apurimaq</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Apurímac</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ay">Apurimaq</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="qu">Apurimaq</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Apurímac</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-pe;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-pe;"/>
    </owl:NamedIndividual>
@@ -433,9 +433,9 @@
       <rdfs:label>La Libertad</rdfs:label>
       <skos:definition>The region of La Libertad in the country of Peru</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Peru"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">La Libertad</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ay">La Libertad</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="qu">Qispi kay</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">La Libertad</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ay">La Libertad</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="qu">Qispi kay</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-pe;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-pe;"/>
    </owl:NamedIndividual>
@@ -465,9 +465,9 @@
       <rdfs:label>Pasqu</rdfs:label>
       <skos:definition>The region of Pasqu in the country of Peru</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Peru"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ay">Pasqu</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="qu">Pasqu</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Pasco</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ay">Pasqu</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="qu">Pasqu</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Pasco</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-pe;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-pe;"/>
    </owl:NamedIndividual>
@@ -497,9 +497,9 @@
       <rdfs:label>Piwra</rdfs:label>
       <skos:definition>The region of Piwra in the country of Peru</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Peru"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="qu">Piwra</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ay">Piura</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Piura</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="qu">Piwra</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ay">Piura</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Piura</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-pe;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-pe;"/>
    </owl:NamedIndividual>
@@ -529,9 +529,9 @@
       <rdfs:label>Cusco</rdfs:label>
       <skos:definition>The region of Cusco in the country of Peru</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Peru"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Cusco</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="qu">Qusqu</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ay">Kusku</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Cusco</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="qu">Qusqu</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ay">Kusku</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-pe;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-pe;"/>
    </owl:NamedIndividual>
@@ -561,9 +561,9 @@
       <rdfs:label>Moquegua</rdfs:label>
       <skos:definition>The region of Moquegua in the country of Peru</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Peru"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Moquegua</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="qu">Muqiwa</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ay">Moqwegwa</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Moquegua</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="qu">Muqiwa</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ay">Moqwegwa</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-pe;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-pe;"/>
    </owl:NamedIndividual>
@@ -593,9 +593,9 @@
       <rdfs:label>Punu</rdfs:label>
       <skos:definition>The region of Punu in the country of Peru</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Peru"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="qu">Punu</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ay">Puno</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Puno</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="qu">Punu</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ay">Puno</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Puno</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-pe;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-pe;"/>
    </owl:NamedIndividual>
@@ -625,9 +625,9 @@
       <rdfs:label>San Martin</rdfs:label>
       <skos:definition>The region of San Martin in the country of Peru</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Peru"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="qu">San Martin</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ay">San Martín</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">San Martín</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="qu">San Martin</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ay">San Martín</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">San Martín</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-pe;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-pe;"/>
    </owl:NamedIndividual>
@@ -657,9 +657,9 @@
       <rdfs:label>El Callao</rdfs:label>
       <skos:definition>The region of El Callao in the country of Peru</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Peru"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">El Callao</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="qu">Qallaw</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ay">Kallao</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">El Callao</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="qu">Qallaw</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ay">Kallao</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-pe;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-pe;"/>
    </owl:NamedIndividual>
@@ -689,9 +689,9 @@
       <rdfs:label>Amasunu</rdfs:label>
       <skos:definition>The region of Amasunu in the country of Peru</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Peru"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ay">Amasunu</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="qu">Amarumayu</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Amazonas</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ay">Amasunu</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="qu">Amarumayu</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Amazonas</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-pe;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-pe;"/>
    </owl:NamedIndividual>
@@ -721,9 +721,9 @@
       <rdfs:label>Ariqipa</rdfs:label>
       <skos:definition>The region of Ariqipa in the country of Peru</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Peru"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="qu">Ariqipa</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ay">Arikipa</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Arequipa</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="qu">Ariqipa</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ay">Arikipa</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Arequipa</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-pe;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-pe;"/>
    </owl:NamedIndividual>
@@ -753,9 +753,9 @@
       <rdfs:label>Tumbes</rdfs:label>
       <skos:definition>The region of Tumbes in the country of Peru</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Peru"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Tumbes</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ay">Tumbes</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="qu">Tumpis</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Tumbes</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ay">Tumbes</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="qu">Tumpis</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-pe;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-pe;"/>
    </owl:NamedIndividual>
@@ -785,9 +785,9 @@
       <rdfs:label>Kashamarka</rdfs:label>
       <skos:definition>The region of Kashamarka in the country of Peru</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Peru"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="qu">Kashamarka</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ay">Qajamarka</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Cajamarca</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="qu">Kashamarka</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ay">Qajamarka</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Cajamarca</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-pe;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-pe;"/>
    </owl:NamedIndividual>
@@ -817,9 +817,9 @@
       <rdfs:label>Junín</rdfs:label>
       <skos:definition>The region of Junín in the country of Peru</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Peru"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Junín</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ay">Junin</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="qu">Hunin</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Junín</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ay">Junin</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="qu">Hunin</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-pe;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-pe;"/>
    </owl:NamedIndividual>
@@ -849,9 +849,9 @@
       <rdfs:label>Lima llaqta suyu</rdfs:label>
       <skos:definition>The municipality of Lima llaqta suyu in the country of Peru</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Peru"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="qu">Lima llaqta suyu</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ay">Lima hatun llaqta</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Municipalidad Metropolitana de Lima</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="qu">Lima llaqta suyu</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ay">Lima hatun llaqta</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Municipalidad Metropolitana de Lima</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-pe;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-pe;"/>
    </owl:NamedIndividual>
@@ -881,9 +881,9 @@
       <rdfs:label>Luritu</rdfs:label>
       <skos:definition>The region of Luritu in the country of Peru</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Peru"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="qu">Luritu</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ay">Luritu</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Loreto</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="qu">Luritu</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ay">Luritu</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Loreto</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-pe;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-pe;"/>
    </owl:NamedIndividual>
@@ -913,9 +913,9 @@
       <rdfs:label>Ucayali</rdfs:label>
       <skos:definition>The region of Ucayali in the country of Peru</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Peru"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Ucayali</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="qu">Ukayali</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ay">Ukayali</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Ucayali</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="qu">Ukayali</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ay">Ukayali</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-pe;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-pe;"/>
    </owl:NamedIndividual>

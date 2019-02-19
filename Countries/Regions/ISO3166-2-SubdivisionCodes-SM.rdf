@@ -106,7 +106,7 @@
       <rdfs:label>Acquaviva</rdfs:label>
       <skos:definition>The municipality of Acquaviva in the country of San Marino</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;SanMarino"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="it">Acquaviva</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="it">Acquaviva</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-sm;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-sm;"/>
    </owl:NamedIndividual>
@@ -136,7 +136,7 @@
       <rdfs:label>Fiorentino</rdfs:label>
       <skos:definition>The municipality of Fiorentino in the country of San Marino</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;SanMarino"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="it">Fiorentino</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="it">Fiorentino</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-sm;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-sm;"/>
    </owl:NamedIndividual>
@@ -166,7 +166,7 @@
       <rdfs:label>Domagnano</rdfs:label>
       <skos:definition>The municipality of Domagnano in the country of San Marino</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;SanMarino"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="it">Domagnano</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="it">Domagnano</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-sm;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-sm;"/>
    </owl:NamedIndividual>
@@ -196,7 +196,7 @@
       <rdfs:label>Borgo Maggiore</rdfs:label>
       <skos:definition>The municipality of Borgo Maggiore in the country of San Marino</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;SanMarino"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="it">Borgo Maggiore</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="it">Borgo Maggiore</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-sm;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-sm;"/>
    </owl:NamedIndividual>
@@ -226,7 +226,7 @@
       <rdfs:label>Montegiardino</rdfs:label>
       <skos:definition>The municipality of Montegiardino in the country of San Marino</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;SanMarino"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="it">Montegiardino</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="it">Montegiardino</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-sm;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-sm;"/>
    </owl:NamedIndividual>
@@ -256,7 +256,7 @@
       <rdfs:label>Chiesanuova</rdfs:label>
       <skos:definition>The municipality of Chiesanuova in the country of San Marino</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;SanMarino"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="it">Chiesanuova</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="it">Chiesanuova</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-sm;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-sm;"/>
    </owl:NamedIndividual>
@@ -286,7 +286,7 @@
       <rdfs:label>Faetano</rdfs:label>
       <skos:definition>The municipality of Faetano in the country of San Marino</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;SanMarino"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="it">Faetano</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="it">Faetano</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-sm;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-sm;"/>
    </owl:NamedIndividual>
@@ -316,7 +316,7 @@
       <rdfs:label>Serravalle</rdfs:label>
       <skos:definition>The municipality of Serravalle in the country of San Marino</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;SanMarino"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="it">Serravalle</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="it">Serravalle</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-sm;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-sm;"/>
    </owl:NamedIndividual>
@@ -346,7 +346,7 @@
       <rdfs:label>San Marino</rdfs:label>
       <skos:definition>The municipality of San Marino in the country of San Marino</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;SanMarino"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="it">San Marino</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="it">San Marino</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-sm;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-sm;"/>
    </owl:NamedIndividual>

@@ -113,7 +113,7 @@
       <rdfs:label>Andaman and Nicobar Islands</rdfs:label>
       <skos:definition>The Union territory of Andaman and Nicobar Islands in the country of India</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;India"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Andaman and Nicobar Islands</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Andaman and Nicobar Islands</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-in;UnionTerritory"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-in;"/>
    </owl:NamedIndividual>
@@ -143,7 +143,7 @@
       <rdfs:label>Andhra Pradesh</rdfs:label>
       <skos:definition>The state of Andhra Pradesh in the country of India</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;India"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Andhra Pradesh</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Andhra Pradesh</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-in;State"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-in;"/>
    </owl:NamedIndividual>
@@ -173,7 +173,7 @@
       <rdfs:label>Arunachal Pradesh</rdfs:label>
       <skos:definition>The state of Arunachal Pradesh in the country of India</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;India"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Arunachal Pradesh</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Arunachal Pradesh</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-in;State"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-in;"/>
    </owl:NamedIndividual>
@@ -203,7 +203,7 @@
       <rdfs:label>Karnataka</rdfs:label>
       <skos:definition>The state of Karnataka in the country of India</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;India"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Karnataka</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Karnataka</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-in;State"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-in;"/>
    </owl:NamedIndividual>
@@ -233,7 +233,7 @@
       <rdfs:label>Kerala</rdfs:label>
       <skos:definition>The state of Kerala in the country of India</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;India"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Kerala</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Kerala</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-in;State"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-in;"/>
    </owl:NamedIndividual>
@@ -263,7 +263,7 @@
       <rdfs:label>Lakshadweep</rdfs:label>
       <skos:definition>The Union territory of Lakshadweep in the country of India</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;India"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Lakshadweep</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Lakshadweep</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-in;UnionTerritory"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-in;"/>
    </owl:NamedIndividual>
@@ -293,7 +293,7 @@
       <rdfs:label>Maharashtra</rdfs:label>
       <skos:definition>The state of Maharashtra in the country of India</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;India"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Maharashtra</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Maharashtra</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-in;State"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-in;"/>
    </owl:NamedIndividual>
@@ -323,7 +323,7 @@
       <rdfs:label>Odisha</rdfs:label>
       <skos:definition>The state of Odisha in the country of India</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;India"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Odisha</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Odisha</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-in;State"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-in;"/>
    </owl:NamedIndividual>
@@ -353,7 +353,7 @@
       <rdfs:label>Bihar</rdfs:label>
       <skos:definition>The state of Bihar in the country of India</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;India"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Bihar</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Bihar</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-in;State"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-in;"/>
    </owl:NamedIndividual>
@@ -383,7 +383,7 @@
       <rdfs:label>Tripura</rdfs:label>
       <skos:definition>The state of Tripura in the country of India</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;India"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Tripura</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Tripura</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-in;State"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-in;"/>
    </owl:NamedIndividual>
@@ -413,7 +413,7 @@
       <rdfs:label>West Bengal</rdfs:label>
       <skos:definition>The state of West Bengal in the country of India</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;India"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">West Bengal</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">West Bengal</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-in;State"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-in;"/>
    </owl:NamedIndividual>
@@ -443,7 +443,7 @@
       <rdfs:label>Chhattisgarh</rdfs:label>
       <skos:definition>The state of Chhattisgarh in the country of India</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;India"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Chhattisgarh</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Chhattisgarh</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-in;State"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-in;"/>
    </owl:NamedIndividual>
@@ -473,7 +473,7 @@
       <rdfs:label>Haryana</rdfs:label>
       <skos:definition>The state of Haryana in the country of India</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;India"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Haryana</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Haryana</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-in;State"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-in;"/>
    </owl:NamedIndividual>
@@ -503,7 +503,7 @@
       <rdfs:label>Uttar Pradesh</rdfs:label>
       <skos:definition>The state of Uttar Pradesh in the country of India</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;India"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Uttar Pradesh</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Uttar Pradesh</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-in;State"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-in;"/>
    </owl:NamedIndividual>
@@ -533,7 +533,7 @@
       <rdfs:label>Daman and Diu</rdfs:label>
       <skos:definition>The Union territory of Daman and Diu in the country of India</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;India"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Daman and Diu</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Daman and Diu</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-in;UnionTerritory"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-in;"/>
    </owl:NamedIndividual>
@@ -563,7 +563,7 @@
       <rdfs:label>Himachal Pradesh</rdfs:label>
       <skos:definition>The state of Himachal Pradesh in the country of India</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;India"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Himachal Pradesh</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Himachal Pradesh</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-in;State"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-in;"/>
    </owl:NamedIndividual>
@@ -593,7 +593,7 @@
       <rdfs:label>Jharkhand</rdfs:label>
       <skos:definition>The state of Jharkhand in the country of India</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;India"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Jharkhand</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Jharkhand</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-in;State"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-in;"/>
    </owl:NamedIndividual>
@@ -623,7 +623,7 @@
       <rdfs:label>Jammu and Kashmir</rdfs:label>
       <skos:definition>The state of Jammu and Kashmir in the country of India</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;India"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Jammu and Kashmir</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Jammu and Kashmir</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-in;State"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-in;"/>
    </owl:NamedIndividual>
@@ -653,7 +653,7 @@
       <rdfs:label>Nagaland</rdfs:label>
       <skos:definition>The state of Nagaland in the country of India</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;India"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Nagaland</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Nagaland</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-in;State"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-in;"/>
    </owl:NamedIndividual>
@@ -683,7 +683,7 @@
       <rdfs:label>Chandigarh</rdfs:label>
       <skos:definition>The Union territory of Chandigarh in the country of India</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;India"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Chandigarh</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Chandigarh</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-in;UnionTerritory"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-in;"/>
    </owl:NamedIndividual>
@@ -713,7 +713,7 @@
       <rdfs:label>Goa</rdfs:label>
       <skos:definition>The state of Goa in the country of India</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;India"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Goa</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Goa</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-in;State"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-in;"/>
    </owl:NamedIndividual>
@@ -743,7 +743,7 @@
       <rdfs:label>Mizoram</rdfs:label>
       <skos:definition>The state of Mizoram in the country of India</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;India"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Mizoram</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Mizoram</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-in;State"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-in;"/>
    </owl:NamedIndividual>
@@ -773,7 +773,7 @@
       <rdfs:label>Puducherry</rdfs:label>
       <skos:definition>The Union territory of Puducherry in the country of India</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;India"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Puducherry</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Puducherry</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-in;UnionTerritory"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-in;"/>
    </owl:NamedIndividual>
@@ -803,7 +803,7 @@
       <rdfs:label>Sikkim</rdfs:label>
       <skos:definition>The state of Sikkim in the country of India</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;India"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Sikkim</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Sikkim</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-in;State"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-in;"/>
    </owl:NamedIndividual>
@@ -833,7 +833,7 @@
       <rdfs:label>Uttarakhand</rdfs:label>
       <skos:definition>The state of Uttarakhand in the country of India</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;India"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Uttarakhand</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Uttarakhand</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-in;State"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-in;"/>
    </owl:NamedIndividual>
@@ -863,7 +863,7 @@
       <rdfs:label>Telangana</rdfs:label>
       <skos:definition>The state of Telangana in the country of India</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;India"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Telangana</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Telangana</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-in;State"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-in;"/>
    </owl:NamedIndividual>
@@ -893,7 +893,7 @@
       <rdfs:label>Gujarat</rdfs:label>
       <skos:definition>The state of Gujarat in the country of India</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;India"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Gujarat</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Gujarat</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-in;State"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-in;"/>
    </owl:NamedIndividual>
@@ -923,7 +923,7 @@
       <rdfs:label>Meghalaya</rdfs:label>
       <skos:definition>The state of Meghalaya in the country of India</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;India"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Meghalaya</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Meghalaya</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-in;State"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-in;"/>
    </owl:NamedIndividual>
@@ -953,7 +953,7 @@
       <rdfs:label>Madhya Pradesh</rdfs:label>
       <skos:definition>The state of Madhya Pradesh in the country of India</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;India"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Madhya Pradesh</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Madhya Pradesh</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-in;State"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-in;"/>
    </owl:NamedIndividual>
@@ -983,7 +983,7 @@
       <rdfs:label>Delhi</rdfs:label>
       <skos:definition>The Union territory of Delhi in the country of India</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;India"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Delhi</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Delhi</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-in;UnionTerritory"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-in;"/>
    </owl:NamedIndividual>
@@ -1013,7 +1013,7 @@
       <rdfs:label>Assam</rdfs:label>
       <skos:definition>The state of Assam in the country of India</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;India"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Assam</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Assam</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-in;State"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-in;"/>
    </owl:NamedIndividual>
@@ -1043,7 +1043,7 @@
       <rdfs:label>Dadra and Nagar Haveli</rdfs:label>
       <skos:definition>The Union territory of Dadra and Nagar Haveli in the country of India</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;India"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Dadra and Nagar Haveli</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Dadra and Nagar Haveli</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-in;UnionTerritory"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-in;"/>
    </owl:NamedIndividual>
@@ -1073,7 +1073,7 @@
       <rdfs:label>Manipur</rdfs:label>
       <skos:definition>The state of Manipur in the country of India</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;India"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Manipur</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Manipur</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-in;State"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-in;"/>
    </owl:NamedIndividual>
@@ -1103,7 +1103,7 @@
       <rdfs:label>Punjab</rdfs:label>
       <skos:definition>The state of Punjab in the country of India</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;India"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Punjab</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Punjab</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-in;State"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-in;"/>
    </owl:NamedIndividual>
@@ -1133,7 +1133,7 @@
       <rdfs:label>Rajasthan</rdfs:label>
       <skos:definition>The state of Rajasthan in the country of India</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;India"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Rajasthan</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Rajasthan</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-in;State"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-in;"/>
    </owl:NamedIndividual>
@@ -1163,7 +1163,7 @@
       <rdfs:label>Tamil Nadu</rdfs:label>
       <skos:definition>The state of Tamil Nadu in the country of India</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;India"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Tamil Nadu</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Tamil Nadu</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-in;State"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-in;"/>
    </owl:NamedIndividual>
@@ -1193,8 +1193,8 @@
       <rdfs:label>Andaman Islands</rdfs:label>
       <skos:definition>The territory of Andaman Islands in the country of India</skos:definition>
       <lcc-cr:hasNumericRegionCode rdf:datatype="&xsd;string">1003</lcc-cr:hasNumericRegionCode>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">les Îles Andaman</lcc-cr:hasFrenchShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Andaman Islands</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">les Îles Andaman</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Andaman Islands</lcc-cr:hasEnglishShortName>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;India"/>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2;Territory"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-in;"/>
@@ -1212,8 +1212,8 @@
       <rdfs:label>Laccadive Islands</rdfs:label>
       <skos:definition>The territory of Laccadive Islands in the country of India</skos:definition>
       <lcc-cr:hasNumericRegionCode rdf:datatype="&xsd;string">1101</lcc-cr:hasNumericRegionCode>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Laccadive Islands</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">les Îles Laquedives</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Laccadive Islands</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">les Îles Laquedives</lcc-cr:hasFrenchShortName>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;India"/>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2;Territory"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-in;"/>
@@ -1231,8 +1231,8 @@
       <rdfs:label>Minicoy Island</rdfs:label>
       <skos:definition>The territory of Minicoy Island in the country of India</skos:definition>
       <lcc-cr:hasNumericRegionCode rdf:datatype="&xsd;string">1128</lcc-cr:hasNumericRegionCode>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">l'Île Minicoy</lcc-cr:hasFrenchShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Minicoy Island</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">l'Île Minicoy</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Minicoy Island</lcc-cr:hasEnglishShortName>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;India"/>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2;Territory"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-in;"/>
@@ -1250,8 +1250,8 @@
       <rdfs:label>Nicobar Islands</rdfs:label>
       <skos:definition>The territory of Nicobar Islands in the country of India</skos:definition>
       <lcc-cr:hasNumericRegionCode rdf:datatype="&xsd;string">1138</lcc-cr:hasNumericRegionCode>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">les Îles Nicobar</lcc-cr:hasFrenchShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Nicobar Islands</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">les Îles Nicobar</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Nicobar Islands</lcc-cr:hasEnglishShortName>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;India"/>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2;Territory"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-in;"/>
@@ -1269,8 +1269,8 @@
       <rdfs:label>Amindivi Islands</rdfs:label>
       <skos:definition>The territory of Amindivi Islands in the country of India</skos:definition>
       <lcc-cr:hasNumericRegionCode rdf:datatype="&xsd;string">1226</lcc-cr:hasNumericRegionCode>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">les Îles Amindivi</lcc-cr:hasFrenchShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Amindivi Islands</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">les Îles Amindivi</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Amindivi Islands</lcc-cr:hasEnglishShortName>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;India"/>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2;Territory"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-in;"/>

@@ -113,7 +113,7 @@
       <rdfs:label>North Western</rdfs:label>
       <skos:definition>The province of North Western in the country of Sierra Leone</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;SierraLeone"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">North Western</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">North Western</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-sl;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-sl;"/>
    </owl:NamedIndividual>
@@ -143,7 +143,7 @@
       <rdfs:label>Southern</rdfs:label>
       <skos:definition>The province of Southern in the country of Sierra Leone</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;SierraLeone"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Southern</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Southern</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-sl;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-sl;"/>
    </owl:NamedIndividual>
@@ -173,7 +173,7 @@
       <rdfs:label>Northern</rdfs:label>
       <skos:definition>The province of Northern in the country of Sierra Leone</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;SierraLeone"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Northern</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Northern</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-sl;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-sl;"/>
    </owl:NamedIndividual>
@@ -203,7 +203,7 @@
       <rdfs:label>Eastern</rdfs:label>
       <skos:definition>The province of Eastern in the country of Sierra Leone</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;SierraLeone"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Eastern</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Eastern</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-sl;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-sl;"/>
    </owl:NamedIndividual>
@@ -233,7 +233,7 @@
       <rdfs:label>Western Area (Freetown)</rdfs:label>
       <skos:definition>The area of Western Area (Freetown) in the country of Sierra Leone</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;SierraLeone"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Western Area (Freetown)</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Western Area (Freetown)</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-sl;Area"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-sl;"/>
    </owl:NamedIndividual>

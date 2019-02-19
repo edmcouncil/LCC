@@ -106,10 +106,10 @@
       <rdfs:label>Mūhīlī</rdfs:label>
       <skos:definition>The island of Mūhīlī in the country of Comoros (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Comoros"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Mūhīlī</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string">Mwali</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Moûhîlî</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Mohéli</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Mūhīlī</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName>Mwali</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Moûhîlî</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Mohéli</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-km;Island"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-km;"/>
    </owl:NamedIndividual>
@@ -139,10 +139,10 @@
       <rdfs:label>Anjazījah</rdfs:label>
       <skos:definition>The island of Anjazījah in the country of Comoros (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Comoros"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Anjazījah</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Andjazîdja</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string">Ngazidja</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Grande Comore</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Anjazījah</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Andjazîdja</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName>Ngazidja</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Grande Comore</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-km;Island"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-km;"/>
    </owl:NamedIndividual>
@@ -172,10 +172,10 @@
       <rdfs:label>Anjouan</rdfs:label>
       <skos:definition>The island of Anjouan in the country of Comoros (the)</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Comoros"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Anjouan</lcc-cr:hasFrenchShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string">Ndzuwani</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Anjwān</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Andjouân</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Anjouan</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasLocalShortName>Ndzuwani</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Anjwān</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Andjouân</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-km;Island"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-km;"/>
    </owl:NamedIndividual>
@@ -205,8 +205,8 @@
       <rdfs:label>Anjouan</rdfs:label>
       <skos:definition>The territory of Anjouan in the country of Comoros (the)</skos:definition>
       <lcc-cr:hasNumericRegionCode rdf:datatype="&xsd;string">1005</lcc-cr:hasNumericRegionCode>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Anjouan</lcc-cr:hasFrenchShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Anjouan</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Anjouan</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Anjouan</lcc-cr:hasEnglishShortName>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Comoros"/>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2;Territory"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-km;"/>
@@ -224,8 +224,8 @@
       <rdfs:label>Grande Comore</rdfs:label>
       <skos:definition>The territory of Grande Comore in the country of Comoros (the)</skos:definition>
       <lcc-cr:hasNumericRegionCode rdf:datatype="&xsd;string">1073</lcc-cr:hasNumericRegionCode>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">la Grande Comore</lcc-cr:hasFrenchShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Grande Comore</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">la Grande Comore</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Grande Comore</lcc-cr:hasEnglishShortName>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Comoros"/>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2;Territory"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-km;"/>
@@ -243,8 +243,8 @@
       <rdfs:label>Mohéli</rdfs:label>
       <skos:definition>The territory of Mohéli in the country of Comoros (the)</skos:definition>
       <lcc-cr:hasNumericRegionCode rdf:datatype="&xsd;string">1130</lcc-cr:hasNumericRegionCode>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Mohéli</lcc-cr:hasFrenchShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Mohéli</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Mohéli</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Mohéli</lcc-cr:hasEnglishShortName>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Comoros"/>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2;Territory"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-km;"/>

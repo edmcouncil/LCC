@@ -106,7 +106,7 @@
       <rdfs:label>Basel-Landschaft</rdfs:label>
       <skos:definition>The canton of Basel-Landschaft in the country of Switzerland</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Switzerland"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="de">Basel-Landschaft</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="de">Basel-Landschaft</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ch;Canton"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ch;"/>
    </owl:NamedIndividual>
@@ -136,7 +136,7 @@
       <rdfs:label>Uri</rdfs:label>
       <skos:definition>The canton of Uri in the country of Switzerland</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Switzerland"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="de">Uri</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="de">Uri</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ch;Canton"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ch;"/>
    </owl:NamedIndividual>
@@ -166,7 +166,7 @@
       <rdfs:label>Jura</rdfs:label>
       <skos:definition>The canton of Jura in the country of Switzerland</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Switzerland"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Jura</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Jura</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ch;Canton"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ch;"/>
    </owl:NamedIndividual>
@@ -196,7 +196,7 @@
       <rdfs:label>Luzern</rdfs:label>
       <skos:definition>The canton of Luzern in the country of Switzerland</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Switzerland"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="de">Luzern</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="de">Luzern</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ch;Canton"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ch;"/>
    </owl:NamedIndividual>
@@ -226,7 +226,7 @@
       <rdfs:label>Solothurn</rdfs:label>
       <skos:definition>The canton of Solothurn in the country of Switzerland</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Switzerland"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="de">Solothurn</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="de">Solothurn</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ch;Canton"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ch;"/>
    </owl:NamedIndividual>
@@ -256,7 +256,7 @@
       <rdfs:label>Thurgau</rdfs:label>
       <skos:definition>The canton of Thurgau in the country of Switzerland</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Switzerland"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="de">Thurgau</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="de">Thurgau</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ch;Canton"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ch;"/>
    </owl:NamedIndividual>
@@ -286,7 +286,7 @@
       <rdfs:label>Basel-Stadt</rdfs:label>
       <skos:definition>The canton of Basel-Stadt in the country of Switzerland</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Switzerland"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="de">Basel-Stadt</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="de">Basel-Stadt</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ch;Canton"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ch;"/>
    </owl:NamedIndividual>
@@ -316,7 +316,7 @@
       <rdfs:label>Schwyz</rdfs:label>
       <skos:definition>The canton of Schwyz in the country of Switzerland</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Switzerland"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="de">Schwyz</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="de">Schwyz</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ch;Canton"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ch;"/>
    </owl:NamedIndividual>
@@ -346,7 +346,7 @@
       <rdfs:label>Zug</rdfs:label>
       <skos:definition>The canton of Zug in the country of Switzerland</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Switzerland"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="de">Zug</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="de">Zug</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ch;Canton"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ch;"/>
    </owl:NamedIndividual>
@@ -376,7 +376,7 @@
       <rdfs:label>Aargau</rdfs:label>
       <skos:definition>The canton of Aargau in the country of Switzerland</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Switzerland"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="de">Aargau</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="de">Aargau</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ch;Canton"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ch;"/>
    </owl:NamedIndividual>
@@ -406,8 +406,8 @@
       <rdfs:label>Bern</rdfs:label>
       <skos:definition>The canton of Bern in the country of Switzerland</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Switzerland"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="de">Bern</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Berne</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasLocalShortName xml:lang="de">Bern</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Berne</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ch;Canton"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ch;"/>
    </owl:NamedIndividual>
@@ -437,8 +437,8 @@
       <rdfs:label>Freiburg</rdfs:label>
       <skos:definition>The canton of Freiburg in the country of Switzerland</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Switzerland"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="de">Freiburg</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Fribourg</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasLocalShortName xml:lang="de">Freiburg</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Fribourg</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ch;Canton"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ch;"/>
    </owl:NamedIndividual>
@@ -468,7 +468,7 @@
       <rdfs:label>Neuchâtel</rdfs:label>
       <skos:definition>The canton of Neuchâtel in the country of Switzerland</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Switzerland"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Neuchâtel</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Neuchâtel</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ch;Canton"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ch;"/>
    </owl:NamedIndividual>
@@ -498,7 +498,7 @@
       <rdfs:label>Obwalden</rdfs:label>
       <skos:definition>The canton of Obwalden in the country of Switzerland</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Switzerland"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="de">Obwalden</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="de">Obwalden</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ch;Canton"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ch;"/>
    </owl:NamedIndividual>
@@ -528,7 +528,7 @@
       <rdfs:label>Ticino</rdfs:label>
       <skos:definition>The canton of Ticino in the country of Switzerland</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Switzerland"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="it">Ticino</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="it">Ticino</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ch;Canton"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ch;"/>
    </owl:NamedIndividual>
@@ -558,7 +558,7 @@
       <rdfs:label>Vaud</rdfs:label>
       <skos:definition>The canton of Vaud in the country of Switzerland</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Switzerland"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Vaud</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Vaud</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ch;Canton"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ch;"/>
    </owl:NamedIndividual>
@@ -588,7 +588,7 @@
       <rdfs:label>Appenzell Ausserrhoden</rdfs:label>
       <skos:definition>The canton of Appenzell Ausserrhoden in the country of Switzerland</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Switzerland"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="de">Appenzell Ausserrhoden</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="de">Appenzell Ausserrhoden</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ch;Canton"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ch;"/>
    </owl:NamedIndividual>
@@ -618,7 +618,7 @@
       <rdfs:label>Genève</rdfs:label>
       <skos:definition>The canton of Genève in the country of Switzerland</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Switzerland"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Genève</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Genève</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ch;Canton"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ch;"/>
    </owl:NamedIndividual>
@@ -648,7 +648,7 @@
       <rdfs:label>Glarus</rdfs:label>
       <skos:definition>The canton of Glarus in the country of Switzerland</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Switzerland"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="de">Glarus</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="de">Glarus</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ch;Canton"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ch;"/>
    </owl:NamedIndividual>
@@ -678,7 +678,7 @@
       <rdfs:label>Sankt Gallen</rdfs:label>
       <skos:definition>The canton of Sankt Gallen in the country of Switzerland</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Switzerland"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="de">Sankt Gallen</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="de">Sankt Gallen</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ch;Canton"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ch;"/>
    </owl:NamedIndividual>
@@ -708,10 +708,10 @@
       <rdfs:label>Grigioni</rdfs:label>
       <skos:definition>The canton of Grigioni in the country of Switzerland</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Switzerland"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="it">Grigioni</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="rm">Grischun</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Grisons</lcc-cr:hasFrenchShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="de">Graubünden</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="it">Grigioni</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="rm">Grischun</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Grisons</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasLocalShortName xml:lang="de">Graubünden</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ch;Canton"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ch;"/>
    </owl:NamedIndividual>
@@ -741,7 +741,7 @@
       <rdfs:label>Nidwalden</rdfs:label>
       <skos:definition>The canton of Nidwalden in the country of Switzerland</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Switzerland"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="de">Nidwalden</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="de">Nidwalden</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ch;Canton"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ch;"/>
    </owl:NamedIndividual>
@@ -771,7 +771,7 @@
       <rdfs:label>Schaffhausen</rdfs:label>
       <skos:definition>The canton of Schaffhausen in the country of Switzerland</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Switzerland"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="de">Schaffhausen</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="de">Schaffhausen</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ch;Canton"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ch;"/>
    </owl:NamedIndividual>
@@ -801,7 +801,7 @@
       <rdfs:label>Zürich</rdfs:label>
       <skos:definition>The canton of Zürich in the country of Switzerland</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Switzerland"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="de">Zürich</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="de">Zürich</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ch;Canton"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ch;"/>
    </owl:NamedIndividual>
@@ -831,7 +831,7 @@
       <rdfs:label>Appenzell Innerrhoden</rdfs:label>
       <skos:definition>The canton of Appenzell Innerrhoden in the country of Switzerland</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Switzerland"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="de">Appenzell Innerrhoden</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="de">Appenzell Innerrhoden</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ch;Canton"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ch;"/>
    </owl:NamedIndividual>
@@ -861,8 +861,8 @@
       <rdfs:label>Valais</rdfs:label>
       <skos:definition>The canton of Valais in the country of Switzerland</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Switzerland"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Valais</lcc-cr:hasFrenchShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="de">Wallis</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Valais</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasLocalShortName xml:lang="de">Wallis</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ch;Canton"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ch;"/>
    </owl:NamedIndividual>

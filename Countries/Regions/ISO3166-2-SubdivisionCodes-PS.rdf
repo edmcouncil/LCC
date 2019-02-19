@@ -106,8 +106,8 @@
       <rdfs:label>Deir El Balah</rdfs:label>
       <skos:definition>The governorate of Deir El Balah in the country of Palestine, State of</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Palestine"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Deir El Balah</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Dayr al Balaḩ</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Deir El Balah</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Dayr al Balaḩ</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ps;Governorate"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ps;"/>
    </owl:NamedIndividual>
@@ -137,8 +137,8 @@
       <rdfs:label>Qalqilya</rdfs:label>
       <skos:definition>The governorate of Qalqilya in the country of Palestine, State of</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Palestine"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Qalqilya</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Qalqīlyah</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Qalqilya</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Qalqīlyah</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ps;Governorate"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ps;"/>
    </owl:NamedIndividual>
@@ -168,8 +168,8 @@
       <rdfs:label>Rafah</rdfs:label>
       <skos:definition>The governorate of Rafah in the country of Palestine, State of</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Palestine"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Rafah</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Rafaḩ</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Rafah</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Rafaḩ</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ps;Governorate"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ps;"/>
    </owl:NamedIndividual>
@@ -199,8 +199,8 @@
       <rdfs:label>Hebron</rdfs:label>
       <skos:definition>The governorate of Hebron in the country of Palestine, State of</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Palestine"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Hebron</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Al Khalīl</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Hebron</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Al Khalīl</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ps;Governorate"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ps;"/>
    </owl:NamedIndividual>
@@ -230,8 +230,8 @@
       <rdfs:label>Jenin</rdfs:label>
       <skos:definition>The governorate of Jenin in the country of Palestine, State of</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Palestine"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Jenin</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Janīn</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Jenin</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Janīn</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ps;Governorate"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ps;"/>
    </owl:NamedIndividual>
@@ -261,8 +261,8 @@
       <rdfs:label>North Gaza</rdfs:label>
       <skos:definition>The governorate of North Gaza in the country of Palestine, State of</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Palestine"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">North Gaza</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Shamāl Ghazzah</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">North Gaza</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Shamāl Ghazzah</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ps;Governorate"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ps;"/>
    </owl:NamedIndividual>
@@ -292,8 +292,8 @@
       <rdfs:label>Ramallah</rdfs:label>
       <skos:definition>The governorate of Ramallah in the country of Palestine, State of</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Palestine"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Ramallah</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Rām Allāh wal Bīrah</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Ramallah</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Rām Allāh wal Bīrah</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ps;Governorate"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ps;"/>
    </owl:NamedIndividual>
@@ -323,8 +323,8 @@
       <rdfs:label>Tubas</rdfs:label>
       <skos:definition>The governorate of Tubas in the country of Palestine, State of</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Palestine"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Tubas</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Ţūbās</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Tubas</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Ţūbās</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ps;Governorate"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ps;"/>
    </owl:NamedIndividual>
@@ -354,8 +354,8 @@
       <rdfs:label>Gaza</rdfs:label>
       <skos:definition>The governorate of Gaza in the country of Palestine, State of</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Palestine"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Gaza</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Ghazzah</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Gaza</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Ghazzah</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ps;Governorate"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ps;"/>
    </owl:NamedIndividual>
@@ -385,8 +385,8 @@
       <rdfs:label>Jericho and Al Aghwar</rdfs:label>
       <skos:definition>The governorate of Jericho and Al Aghwar in the country of Palestine, State of</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Palestine"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Jericho and Al Aghwar</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Arīḩā wal Aghwār</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Jericho and Al Aghwar</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Arīḩā wal Aghwār</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ps;Governorate"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ps;"/>
    </owl:NamedIndividual>
@@ -416,8 +416,8 @@
       <rdfs:label>Nablus</rdfs:label>
       <skos:definition>The governorate of Nablus in the country of Palestine, State of</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Palestine"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Nablus</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Nāblus</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Nablus</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Nāblus</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ps;Governorate"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ps;"/>
    </owl:NamedIndividual>
@@ -447,8 +447,8 @@
       <rdfs:label>Bethlehem</rdfs:label>
       <skos:definition>The governorate of Bethlehem in the country of Palestine, State of</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Palestine"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Bethlehem</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Bayt Laḩm</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Bethlehem</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Bayt Laḩm</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ps;Governorate"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ps;"/>
    </owl:NamedIndividual>
@@ -478,8 +478,8 @@
       <rdfs:label>Jerusalem</rdfs:label>
       <skos:definition>The governorate of Jerusalem in the country of Palestine, State of</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Palestine"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Jerusalem</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Al Quds</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Jerusalem</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Al Quds</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ps;Governorate"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ps;"/>
    </owl:NamedIndividual>
@@ -509,8 +509,8 @@
       <rdfs:label>Salfit</rdfs:label>
       <skos:definition>The governorate of Salfit in the country of Palestine, State of</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Palestine"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Salfit</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Salfīt</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Salfit</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Salfīt</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ps;Governorate"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ps;"/>
    </owl:NamedIndividual>
@@ -540,8 +540,8 @@
       <rdfs:label>Tulkarm</rdfs:label>
       <skos:definition>The governorate of Tulkarm in the country of Palestine, State of</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Palestine"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Tulkarm</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Ţūlkarm</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Tulkarm</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Ţūlkarm</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ps;Governorate"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ps;"/>
    </owl:NamedIndividual>
@@ -571,8 +571,8 @@
       <rdfs:label>Khan Yunis</rdfs:label>
       <skos:definition>The governorate of Khan Yunis in the country of Palestine, State of</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Palestine"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Khan Yunis</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Khān Yūnis</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Khan Yunis</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Khān Yūnis</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ps;Governorate"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ps;"/>
    </owl:NamedIndividual>

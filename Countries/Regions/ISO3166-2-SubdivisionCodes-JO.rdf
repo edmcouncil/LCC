@@ -106,7 +106,7 @@
       <rdfs:label>Al ‘Aqabah</rdfs:label>
       <skos:definition>The governorate of Al ‘Aqabah in the country of Jordan</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Jordan"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Al ‘Aqabah</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Al ‘Aqabah</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-jo;Governorate"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-jo;"/>
    </owl:NamedIndividual>
@@ -136,7 +136,7 @@
       <rdfs:label>Az Zarqā’</rdfs:label>
       <skos:definition>The governorate of Az Zarqā’ in the country of Jordan</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Jordan"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Az Zarqā’</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Az Zarqā’</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-jo;Governorate"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-jo;"/>
    </owl:NamedIndividual>
@@ -166,7 +166,7 @@
       <rdfs:label>Irbid</rdfs:label>
       <skos:definition>The governorate of Irbid in the country of Jordan</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Jordan"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Irbid</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Irbid</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-jo;Governorate"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-jo;"/>
    </owl:NamedIndividual>
@@ -196,7 +196,7 @@
       <rdfs:label>Ma‘ān</rdfs:label>
       <skos:definition>The governorate of Ma‘ān in the country of Jordan</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Jordan"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Ma‘ān</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Ma‘ān</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-jo;Governorate"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-jo;"/>
    </owl:NamedIndividual>
@@ -226,7 +226,7 @@
       <rdfs:label>‘Ajlūn</rdfs:label>
       <skos:definition>The governorate of ‘Ajlūn in the country of Jordan</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Jordan"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">‘Ajlūn</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">‘Ajlūn</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-jo;Governorate"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-jo;"/>
    </owl:NamedIndividual>
@@ -256,7 +256,7 @@
       <rdfs:label>Al Mafraq</rdfs:label>
       <skos:definition>The governorate of Al Mafraq in the country of Jordan</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Jordan"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Al Mafraq</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Al Mafraq</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-jo;Governorate"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-jo;"/>
    </owl:NamedIndividual>
@@ -286,7 +286,7 @@
       <rdfs:label>Al ‘A̅şimah</rdfs:label>
       <skos:definition>The governorate of Al ‘A̅şimah in the country of Jordan</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Jordan"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Al ‘A̅şimah</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Al ‘A̅şimah</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-jo;Governorate"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-jo;"/>
    </owl:NamedIndividual>
@@ -316,7 +316,7 @@
       <rdfs:label>Aţ Ţafīlah</rdfs:label>
       <skos:definition>The governorate of Aţ Ţafīlah in the country of Jordan</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Jordan"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Aţ Ţafīlah</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Aţ Ţafīlah</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-jo;Governorate"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-jo;"/>
    </owl:NamedIndividual>
@@ -346,7 +346,7 @@
       <rdfs:label>Jarash</rdfs:label>
       <skos:definition>The governorate of Jarash in the country of Jordan</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Jordan"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Jarash</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Jarash</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-jo;Governorate"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-jo;"/>
    </owl:NamedIndividual>
@@ -376,7 +376,7 @@
       <rdfs:label>Al Karak</rdfs:label>
       <skos:definition>The governorate of Al Karak in the country of Jordan</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Jordan"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Al Karak</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Al Karak</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-jo;Governorate"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-jo;"/>
    </owl:NamedIndividual>
@@ -406,7 +406,7 @@
       <rdfs:label>Al Balqā’</rdfs:label>
       <skos:definition>The governorate of Al Balqā’ in the country of Jordan</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Jordan"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Al Balqā’</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Al Balqā’</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-jo;Governorate"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-jo;"/>
    </owl:NamedIndividual>
@@ -436,7 +436,7 @@
       <rdfs:label>Mādabā</rdfs:label>
       <skos:definition>The governorate of Mādabā in the country of Jordan</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Jordan"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Mādabā</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Mādabā</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-jo;Governorate"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-jo;"/>
    </owl:NamedIndividual>

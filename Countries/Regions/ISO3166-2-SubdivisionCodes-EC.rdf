@@ -106,7 +106,7 @@
       <rdfs:label>Bolívar</rdfs:label>
       <skos:definition>The province of Bolívar in the country of Ecuador</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Ecuador"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Bolívar</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Bolívar</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ec;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ec;"/>
    </owl:NamedIndividual>
@@ -136,7 +136,7 @@
       <rdfs:label>Los Ríos</rdfs:label>
       <skos:definition>The province of Los Ríos in the country of Ecuador</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Ecuador"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Los Ríos</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Los Ríos</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ec;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ec;"/>
    </owl:NamedIndividual>
@@ -166,7 +166,7 @@
       <rdfs:label>Esmeraldas</rdfs:label>
       <skos:definition>The province of Esmeraldas in the country of Ecuador</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Ecuador"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Esmeraldas</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Esmeraldas</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ec;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ec;"/>
    </owl:NamedIndividual>
@@ -196,7 +196,7 @@
       <rdfs:label>Guayas</rdfs:label>
       <skos:definition>The province of Guayas in the country of Ecuador</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Ecuador"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Guayas</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Guayas</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ec;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ec;"/>
    </owl:NamedIndividual>
@@ -226,7 +226,7 @@
       <rdfs:label>Cotopaxi</rdfs:label>
       <skos:definition>The province of Cotopaxi in the country of Ecuador</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Ecuador"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Cotopaxi</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Cotopaxi</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ec;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ec;"/>
    </owl:NamedIndividual>
@@ -256,7 +256,7 @@
       <rdfs:label>Pastaza</rdfs:label>
       <skos:definition>The province of Pastaza in the country of Ecuador</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Ecuador"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Pastaza</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Pastaza</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ec;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ec;"/>
    </owl:NamedIndividual>
@@ -286,7 +286,7 @@
       <rdfs:label>Azuay</rdfs:label>
       <skos:definition>The province of Azuay in the country of Ecuador</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Ecuador"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Azuay</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Azuay</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ec;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ec;"/>
    </owl:NamedIndividual>
@@ -316,7 +316,7 @@
       <rdfs:label>Orellana</rdfs:label>
       <skos:definition>The province of Orellana in the country of Ecuador</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Ecuador"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Orellana</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Orellana</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ec;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ec;"/>
    </owl:NamedIndividual>
@@ -346,7 +346,7 @@
       <rdfs:label>Loja</rdfs:label>
       <skos:definition>The province of Loja in the country of Ecuador</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Ecuador"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Loja</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Loja</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ec;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ec;"/>
    </owl:NamedIndividual>
@@ -376,7 +376,7 @@
       <rdfs:label>El Oro</rdfs:label>
       <skos:definition>The province of El Oro in the country of Ecuador</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Ecuador"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">El Oro</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">El Oro</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ec;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ec;"/>
    </owl:NamedIndividual>
@@ -406,7 +406,7 @@
       <rdfs:label>Santa Elena</rdfs:label>
       <skos:definition>The province of Santa Elena in the country of Ecuador</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Ecuador"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Santa Elena</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Santa Elena</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ec;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ec;"/>
    </owl:NamedIndividual>
@@ -436,7 +436,7 @@
       <rdfs:label>Zamora Chinchipe</rdfs:label>
       <skos:definition>The province of Zamora Chinchipe in the country of Ecuador</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Ecuador"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Zamora Chinchipe</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Zamora Chinchipe</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ec;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ec;"/>
    </owl:NamedIndividual>
@@ -466,7 +466,7 @@
       <rdfs:label>Chimborazo</rdfs:label>
       <skos:definition>The province of Chimborazo in the country of Ecuador</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Ecuador"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Chimborazo</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Chimborazo</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ec;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ec;"/>
    </owl:NamedIndividual>
@@ -496,7 +496,7 @@
       <rdfs:label>Santo Domingo de los Tsáchilas</rdfs:label>
       <skos:definition>The province of Santo Domingo de los Tsáchilas in the country of Ecuador</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Ecuador"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Santo Domingo de los Tsáchilas</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Santo Domingo de los Tsáchilas</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ec;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ec;"/>
    </owl:NamedIndividual>
@@ -526,7 +526,7 @@
       <rdfs:label>Imbabura</rdfs:label>
       <skos:definition>The province of Imbabura in the country of Ecuador</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Ecuador"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Imbabura</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Imbabura</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ec;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ec;"/>
    </owl:NamedIndividual>
@@ -556,7 +556,7 @@
       <rdfs:label>Manabí</rdfs:label>
       <skos:definition>The province of Manabí in the country of Ecuador</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Ecuador"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Manabí</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Manabí</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ec;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ec;"/>
    </owl:NamedIndividual>
@@ -586,7 +586,7 @@
       <rdfs:label>Pichincha</rdfs:label>
       <skos:definition>The province of Pichincha in the country of Ecuador</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Ecuador"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Pichincha</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Pichincha</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ec;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ec;"/>
    </owl:NamedIndividual>
@@ -616,7 +616,7 @@
       <rdfs:label>Galápagos</rdfs:label>
       <skos:definition>The province of Galápagos in the country of Ecuador</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Ecuador"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Galápagos</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Galápagos</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ec;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ec;"/>
    </owl:NamedIndividual>
@@ -646,7 +646,7 @@
       <rdfs:label>Carchi</rdfs:label>
       <skos:definition>The province of Carchi in the country of Ecuador</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Ecuador"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Carchi</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Carchi</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ec;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ec;"/>
    </owl:NamedIndividual>
@@ -676,7 +676,7 @@
       <rdfs:label>Cañar</rdfs:label>
       <skos:definition>The province of Cañar in the country of Ecuador</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Ecuador"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Cañar</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Cañar</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ec;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ec;"/>
    </owl:NamedIndividual>
@@ -706,7 +706,7 @@
       <rdfs:label>Morona Santiago</rdfs:label>
       <skos:definition>The province of Morona Santiago in the country of Ecuador</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Ecuador"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Morona Santiago</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Morona Santiago</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ec;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ec;"/>
    </owl:NamedIndividual>
@@ -736,7 +736,7 @@
       <rdfs:label>Sucumbíos</rdfs:label>
       <skos:definition>The province of Sucumbíos in the country of Ecuador</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Ecuador"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Sucumbíos</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Sucumbíos</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ec;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ec;"/>
    </owl:NamedIndividual>
@@ -766,7 +766,7 @@
       <rdfs:label>Napo</rdfs:label>
       <skos:definition>The province of Napo in the country of Ecuador</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Ecuador"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Napo</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Napo</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ec;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ec;"/>
    </owl:NamedIndividual>
@@ -796,7 +796,7 @@
       <rdfs:label>Tungurahua</rdfs:label>
       <skos:definition>The province of Tungurahua in the country of Ecuador</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Ecuador"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Tungurahua</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Tungurahua</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ec;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ec;"/>
    </owl:NamedIndividual>
@@ -826,8 +826,8 @@
       <rdfs:label>Galápagos Islands</rdfs:label>
       <skos:definition>The territory of Galápagos Islands in the country of Ecuador</skos:definition>
       <lcc-cr:hasNumericRegionCode rdf:datatype="&xsd;string">1065</lcc-cr:hasNumericRegionCode>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">les Îles Galápagos</lcc-cr:hasFrenchShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Galápagos Islands</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">les Îles Galápagos</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Galápagos Islands</lcc-cr:hasEnglishShortName>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Ecuador"/>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2;Territory"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ec;"/>

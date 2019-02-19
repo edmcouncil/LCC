@@ -127,7 +127,7 @@
       <rdfs:label>Nei Mongol Zizhiqu</rdfs:label>
       <skos:definition>The autonomous region of Nei Mongol Zizhiqu in the country of China</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;China"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="mn">Nei Mongol Zizhiqu</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="mn">Nei Mongol Zizhiqu</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-cn;AutonomousRegion"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-cn;"/>
    </owl:NamedIndividual>
@@ -157,7 +157,7 @@
       <rdfs:label>Guangxi Zhuangzu Zizhiqu</rdfs:label>
       <skos:definition>The autonomous region of Guangxi Zhuangzu Zizhiqu in the country of China</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;China"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="zh">Guangxi Zhuangzu Zizhiqu</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="zh">Guangxi Zhuangzu Zizhiqu</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-cn;AutonomousRegion"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-cn;"/>
    </owl:NamedIndividual>
@@ -187,7 +187,7 @@
       <rdfs:label>Xizang Zizhiqu</rdfs:label>
       <skos:definition>The autonomous region of Xizang Zizhiqu in the country of China</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;China"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="zh">Xizang Zizhiqu</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="zh">Xizang Zizhiqu</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-cn;AutonomousRegion"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-cn;"/>
    </owl:NamedIndividual>
@@ -217,7 +217,7 @@
       <rdfs:label>Ningxia Huizi Zizhiqu</rdfs:label>
       <skos:definition>The autonomous region of Ningxia Huizi Zizhiqu in the country of China</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;China"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="zh">Ningxia Huizi Zizhiqu</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="zh">Ningxia Huizi Zizhiqu</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-cn;AutonomousRegion"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-cn;"/>
    </owl:NamedIndividual>
@@ -247,7 +247,7 @@
       <rdfs:label>Xinjiang Uygur Zizhiqu</rdfs:label>
       <skos:definition>The autonomous region of Xinjiang Uygur Zizhiqu in the country of China</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;China"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="zh">Xinjiang Uygur Zizhiqu</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="zh">Xinjiang Uygur Zizhiqu</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-cn;AutonomousRegion"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-cn;"/>
    </owl:NamedIndividual>
@@ -277,7 +277,7 @@
       <rdfs:label>Beijing Shi</rdfs:label>
       <skos:definition>The municipality of Beijing Shi in the country of China</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;China"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="zh">Beijing Shi</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="zh">Beijing Shi</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-cn;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-cn;"/>
    </owl:NamedIndividual>
@@ -307,7 +307,7 @@
       <rdfs:label>Tianjin Shi</rdfs:label>
       <skos:definition>The municipality of Tianjin Shi in the country of China</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;China"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="zh">Tianjin Shi</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="zh">Tianjin Shi</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-cn;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-cn;"/>
    </owl:NamedIndividual>
@@ -337,7 +337,7 @@
       <rdfs:label>Shanghai Shi</rdfs:label>
       <skos:definition>The municipality of Shanghai Shi in the country of China</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;China"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="zh">Shanghai Shi</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="zh">Shanghai Shi</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-cn;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-cn;"/>
    </owl:NamedIndividual>
@@ -367,7 +367,7 @@
       <rdfs:label>Chongqing Shi</rdfs:label>
       <skos:definition>The municipality of Chongqing Shi in the country of China</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;China"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="zh">Chongqing Shi</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="zh">Chongqing Shi</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-cn;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-cn;"/>
    </owl:NamedIndividual>
@@ -397,7 +397,7 @@
       <rdfs:label>Hebei Sheng</rdfs:label>
       <skos:definition>The province of Hebei Sheng in the country of China</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;China"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="zh">Hebei Sheng</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="zh">Hebei Sheng</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-cn;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-cn;"/>
    </owl:NamedIndividual>
@@ -427,7 +427,7 @@
       <rdfs:label>Shanxi Sheng</rdfs:label>
       <skos:definition>The province of Shanxi Sheng in the country of China</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;China"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="zh">Shanxi Sheng</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="zh">Shanxi Sheng</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-cn;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-cn;"/>
    </owl:NamedIndividual>
@@ -457,7 +457,7 @@
       <rdfs:label>Liaoning Sheng</rdfs:label>
       <skos:definition>The province of Liaoning Sheng in the country of China</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;China"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="zh">Liaoning Sheng</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="zh">Liaoning Sheng</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-cn;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-cn;"/>
    </owl:NamedIndividual>
@@ -487,7 +487,7 @@
       <rdfs:label>Jilin Sheng</rdfs:label>
       <skos:definition>The province of Jilin Sheng in the country of China</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;China"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="zh">Jilin Sheng</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="zh">Jilin Sheng</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-cn;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-cn;"/>
    </owl:NamedIndividual>
@@ -517,7 +517,7 @@
       <rdfs:label>Heilongjiang Sheng</rdfs:label>
       <skos:definition>The province of Heilongjiang Sheng in the country of China</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;China"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="zh">Heilongjiang Sheng</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="zh">Heilongjiang Sheng</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-cn;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-cn;"/>
    </owl:NamedIndividual>
@@ -547,7 +547,7 @@
       <rdfs:label>Zhejiang Sheng</rdfs:label>
       <skos:definition>The province of Zhejiang Sheng in the country of China</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;China"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="zh">Zhejiang Sheng</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="zh">Zhejiang Sheng</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-cn;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-cn;"/>
    </owl:NamedIndividual>
@@ -577,7 +577,7 @@
       <rdfs:label>Anhui Sheng</rdfs:label>
       <skos:definition>The province of Anhui Sheng in the country of China</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;China"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="zh">Anhui Sheng</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="zh">Anhui Sheng</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-cn;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-cn;"/>
    </owl:NamedIndividual>
@@ -607,7 +607,7 @@
       <rdfs:label>Fujian Sheng</rdfs:label>
       <skos:definition>The province of Fujian Sheng in the country of China</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;China"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="zh">Fujian Sheng</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="zh">Fujian Sheng</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-cn;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-cn;"/>
    </owl:NamedIndividual>
@@ -637,7 +637,7 @@
       <rdfs:label>Jiangxi Sheng</rdfs:label>
       <skos:definition>The province of Jiangxi Sheng in the country of China</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;China"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="zh">Jiangxi Sheng</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="zh">Jiangxi Sheng</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-cn;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-cn;"/>
    </owl:NamedIndividual>
@@ -667,7 +667,7 @@
       <rdfs:label>Shandong Sheng</rdfs:label>
       <skos:definition>The province of Shandong Sheng in the country of China</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;China"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="zh">Shandong Sheng</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="zh">Shandong Sheng</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-cn;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-cn;"/>
    </owl:NamedIndividual>
@@ -697,7 +697,7 @@
       <rdfs:label>Henan Sheng</rdfs:label>
       <skos:definition>The province of Henan Sheng in the country of China</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;China"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="zh">Henan Sheng</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="zh">Henan Sheng</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-cn;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-cn;"/>
    </owl:NamedIndividual>
@@ -727,7 +727,7 @@
       <rdfs:label>Hubei Sheng</rdfs:label>
       <skos:definition>The province of Hubei Sheng in the country of China</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;China"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="zh">Hubei Sheng</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="zh">Hubei Sheng</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-cn;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-cn;"/>
    </owl:NamedIndividual>
@@ -757,7 +757,7 @@
       <rdfs:label>Hunan Sheng</rdfs:label>
       <skos:definition>The province of Hunan Sheng in the country of China</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;China"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="zh">Hunan Sheng</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="zh">Hunan Sheng</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-cn;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-cn;"/>
    </owl:NamedIndividual>
@@ -787,7 +787,7 @@
       <rdfs:label>Guangdong Sheng</rdfs:label>
       <skos:definition>The province of Guangdong Sheng in the country of China</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;China"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="zh">Guangdong Sheng</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="zh">Guangdong Sheng</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-cn;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-cn;"/>
    </owl:NamedIndividual>
@@ -817,7 +817,7 @@
       <rdfs:label>Hainan Sheng</rdfs:label>
       <skos:definition>The province of Hainan Sheng in the country of China</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;China"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="zh">Hainan Sheng</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="zh">Hainan Sheng</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-cn;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-cn;"/>
    </owl:NamedIndividual>
@@ -847,7 +847,7 @@
       <rdfs:label>Sichuan Sheng</rdfs:label>
       <skos:definition>The province of Sichuan Sheng in the country of China</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;China"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="zh">Sichuan Sheng</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="zh">Sichuan Sheng</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-cn;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-cn;"/>
    </owl:NamedIndividual>
@@ -877,7 +877,7 @@
       <rdfs:label>Guizhou Sheng</rdfs:label>
       <skos:definition>The province of Guizhou Sheng in the country of China</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;China"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="zh">Guizhou Sheng</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="zh">Guizhou Sheng</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-cn;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-cn;"/>
    </owl:NamedIndividual>
@@ -907,7 +907,7 @@
       <rdfs:label>Yunnan Sheng</rdfs:label>
       <skos:definition>The province of Yunnan Sheng in the country of China</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;China"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="zh">Yunnan Sheng</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="zh">Yunnan Sheng</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-cn;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-cn;"/>
    </owl:NamedIndividual>
@@ -937,7 +937,7 @@
       <rdfs:label>Shaanxi Sheng</rdfs:label>
       <skos:definition>The province of Shaanxi Sheng in the country of China</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;China"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="zh">Shaanxi Sheng</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="zh">Shaanxi Sheng</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-cn;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-cn;"/>
    </owl:NamedIndividual>
@@ -967,7 +967,7 @@
       <rdfs:label>Gansu Sheng</rdfs:label>
       <skos:definition>The province of Gansu Sheng in the country of China</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;China"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="zh">Gansu Sheng</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="zh">Gansu Sheng</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-cn;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-cn;"/>
    </owl:NamedIndividual>
@@ -997,7 +997,7 @@
       <rdfs:label>Qinghai Sheng</rdfs:label>
       <skos:definition>The province of Qinghai Sheng in the country of China</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;China"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="zh">Qinghai Sheng</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="zh">Qinghai Sheng</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-cn;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-cn;"/>
    </owl:NamedIndividual>
@@ -1027,7 +1027,7 @@
       <rdfs:label>Taiwan Sheng (see also separate country code entry under TW)</rdfs:label>
       <skos:definition>The province of Taiwan Sheng (see also separate country code entry under TW) in the country of China</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;China"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="zh">Taiwan Sheng (see also separate country code entry under TW)</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="zh">Taiwan Sheng (see also separate country code entry under TW)</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-cn;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-cn;"/>
    </owl:NamedIndividual>
@@ -1057,8 +1057,8 @@
       <rdfs:label>Hong Kong SAR (see also separate country code entry under HK)</rdfs:label>
       <skos:definition>The special administrative region of Hong Kong SAR (see also separate country code entry under HK) in the country of China</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;China"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Hong Kong SAR (see also separate country code entry under HK)</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="zh">Xianggang Tebiexingzhengqu (see also separate country code entry under HK)</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Hong Kong SAR (see also separate country code entry under HK)</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="zh">Xianggang Tebiexingzhengqu (see also separate country code entry under HK)</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-cn;SpecialAdministrativeRegion"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-cn;"/>
    </owl:NamedIndividual>
@@ -1088,9 +1088,9 @@
       <rdfs:label>Macao SAR (see also separate country code entry under MO)</rdfs:label>
       <skos:definition>The special administrative region of Macao SAR (see also separate country code entry under MO) in the country of China</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;China"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Macao SAR (see also separate country code entry under MO)</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="pt">Macau SAR (see also separate country code entry under MO)</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="zh">Aomen Tebiexingzhengqu (see also separate country code entry under MO)</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Macao SAR (see also separate country code entry under MO)</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="pt">Macau SAR (see also separate country code entry under MO)</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="zh">Aomen Tebiexingzhengqu (see also separate country code entry under MO)</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-cn;SpecialAdministrativeRegion"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-cn;"/>
    </owl:NamedIndividual>
@@ -1120,7 +1120,7 @@
       <rdfs:label>Jiangsu Sheng</rdfs:label>
       <skos:definition>The province of Jiangsu Sheng in the country of China</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;China"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="zh">Jiangsu Sheng</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="zh">Jiangsu Sheng</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-cn;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-cn;"/>
    </owl:NamedIndividual>

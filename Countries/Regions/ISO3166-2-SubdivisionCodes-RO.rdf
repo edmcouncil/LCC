@@ -113,7 +113,7 @@
       <rdfs:label>Bihor</rdfs:label>
       <skos:definition>The department of Bihor in the country of Romania</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Romania"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ro">Bihor</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ro">Bihor</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ro;Department"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ro;"/>
    </owl:NamedIndividual>
@@ -143,7 +143,7 @@
       <rdfs:label>Ilfov</rdfs:label>
       <skos:definition>The department of Ilfov in the country of Romania</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Romania"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ro">Ilfov</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ro">Ilfov</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ro;Department"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ro;"/>
    </owl:NamedIndividual>
@@ -173,7 +173,7 @@
       <rdfs:label>Iași</rdfs:label>
       <skos:definition>The department of Iași in the country of Romania</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Romania"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ro">Iași</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ro">Iași</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ro;Department"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ro;"/>
    </owl:NamedIndividual>
@@ -203,7 +203,7 @@
       <rdfs:label>Vaslui</rdfs:label>
       <skos:definition>The department of Vaslui in the country of Romania</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Romania"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ro">Vaslui</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ro">Vaslui</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ro;Department"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ro;"/>
    </owl:NamedIndividual>
@@ -233,7 +233,7 @@
       <rdfs:label>București</rdfs:label>
       <skos:definition>The municipality of București in the country of Romania</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Romania"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ro">București</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ro">București</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ro;Municipality"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ro;"/>
    </owl:NamedIndividual>
@@ -263,7 +263,7 @@
       <rdfs:label>Galați</rdfs:label>
       <skos:definition>The department of Galați in the country of Romania</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Romania"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ro">Galați</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ro">Galați</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ro;Department"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ro;"/>
    </owl:NamedIndividual>
@@ -293,7 +293,7 @@
       <rdfs:label>Satu Mare</rdfs:label>
       <skos:definition>The department of Satu Mare in the country of Romania</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Romania"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ro">Satu Mare</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ro">Satu Mare</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ro;Department"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ro;"/>
    </owl:NamedIndividual>
@@ -323,7 +323,7 @@
       <rdfs:label>Suceava</rdfs:label>
       <skos:definition>The department of Suceava in the country of Romania</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Romania"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ro">Suceava</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ro">Suceava</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ro;Department"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ro;"/>
    </owl:NamedIndividual>
@@ -353,7 +353,7 @@
       <rdfs:label>Teleorman</rdfs:label>
       <skos:definition>The department of Teleorman in the country of Romania</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Romania"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ro">Teleorman</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ro">Teleorman</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ro;Department"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ro;"/>
    </owl:NamedIndividual>
@@ -383,7 +383,7 @@
       <rdfs:label>Vâlcea</rdfs:label>
       <skos:definition>The department of Vâlcea in the country of Romania</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Romania"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ro">Vâlcea</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ro">Vâlcea</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ro;Department"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ro;"/>
    </owl:NamedIndividual>
@@ -413,7 +413,7 @@
       <rdfs:label>Vrancea</rdfs:label>
       <skos:definition>The department of Vrancea in the country of Romania</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Romania"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ro">Vrancea</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ro">Vrancea</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ro;Department"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ro;"/>
    </owl:NamedIndividual>
@@ -443,7 +443,7 @@
       <rdfs:label>Brăila</rdfs:label>
       <skos:definition>The department of Brăila in the country of Romania</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Romania"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ro">Brăila</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ro">Brăila</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ro;Department"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ro;"/>
    </owl:NamedIndividual>
@@ -473,7 +473,7 @@
       <rdfs:label>Constanța</rdfs:label>
       <skos:definition>The department of Constanța in the country of Romania</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Romania"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ro">Constanța</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ro">Constanța</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ro;Department"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ro;"/>
    </owl:NamedIndividual>
@@ -503,7 +503,7 @@
       <rdfs:label>Ialomița</rdfs:label>
       <skos:definition>The department of Ialomița in the country of Romania</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Romania"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ro">Ialomița</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ro">Ialomița</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ro;Department"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ro;"/>
    </owl:NamedIndividual>
@@ -533,7 +533,7 @@
       <rdfs:label>Mehedinți</rdfs:label>
       <skos:definition>The department of Mehedinți in the country of Romania</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Romania"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ro">Mehedinți</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ro">Mehedinți</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ro;Department"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ro;"/>
    </owl:NamedIndividual>
@@ -563,7 +563,7 @@
       <rdfs:label>Maramureș</rdfs:label>
       <skos:definition>The department of Maramureș in the country of Romania</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Romania"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ro">Maramureș</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ro">Maramureș</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ro;Department"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ro;"/>
    </owl:NamedIndividual>
@@ -593,7 +593,7 @@
       <rdfs:label>Olt</rdfs:label>
       <skos:definition>The department of Olt in the country of Romania</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Romania"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ro">Olt</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ro">Olt</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ro;Department"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ro;"/>
    </owl:NamedIndividual>
@@ -623,7 +623,7 @@
       <rdfs:label>Prahova</rdfs:label>
       <skos:definition>The department of Prahova in the country of Romania</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Romania"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ro">Prahova</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ro">Prahova</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ro;Department"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ro;"/>
    </owl:NamedIndividual>
@@ -653,7 +653,7 @@
       <rdfs:label>Buzău</rdfs:label>
       <skos:definition>The department of Buzău in the country of Romania</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Romania"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ro">Buzău</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ro">Buzău</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ro;Department"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ro;"/>
    </owl:NamedIndividual>
@@ -683,7 +683,7 @@
       <rdfs:label>Dolj</rdfs:label>
       <skos:definition>The department of Dolj in the country of Romania</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Romania"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ro">Dolj</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ro">Dolj</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ro;Department"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ro;"/>
    </owl:NamedIndividual>
@@ -713,7 +713,7 @@
       <rdfs:label>Hunedoara</rdfs:label>
       <skos:definition>The department of Hunedoara in the country of Romania</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Romania"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ro">Hunedoara</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ro">Hunedoara</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ro;Department"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ro;"/>
    </owl:NamedIndividual>
@@ -743,7 +743,7 @@
       <rdfs:label>Harghita</rdfs:label>
       <skos:definition>The department of Harghita in the country of Romania</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Romania"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ro">Harghita</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ro">Harghita</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ro;Department"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ro;"/>
    </owl:NamedIndividual>
@@ -773,7 +773,7 @@
       <rdfs:label>Timiș</rdfs:label>
       <skos:definition>The department of Timiș in the country of Romania</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Romania"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ro">Timiș</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ro">Timiș</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ro;Department"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ro;"/>
    </owl:NamedIndividual>
@@ -803,7 +803,7 @@
       <rdfs:label>Argeș</rdfs:label>
       <skos:definition>The department of Argeș in the country of Romania</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Romania"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ro">Argeș</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ro">Argeș</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ro;Department"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ro;"/>
    </owl:NamedIndividual>
@@ -833,7 +833,7 @@
       <rdfs:label>Bacău</rdfs:label>
       <skos:definition>The department of Bacău in the country of Romania</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Romania"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ro">Bacău</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ro">Bacău</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ro;Department"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ro;"/>
    </owl:NamedIndividual>
@@ -863,7 +863,7 @@
       <rdfs:label>Gorj</rdfs:label>
       <skos:definition>The department of Gorj in the country of Romania</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Romania"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ro">Gorj</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ro">Gorj</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ro;Department"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ro;"/>
    </owl:NamedIndividual>
@@ -893,7 +893,7 @@
       <rdfs:label>Sălaj</rdfs:label>
       <skos:definition>The department of Sălaj in the country of Romania</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Romania"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ro">Sălaj</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ro">Sălaj</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ro;Department"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ro;"/>
    </owl:NamedIndividual>
@@ -923,7 +923,7 @@
       <rdfs:label>Brașov</rdfs:label>
       <skos:definition>The department of Brașov in the country of Romania</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Romania"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ro">Brașov</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ro">Brașov</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ro;Department"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ro;"/>
    </owl:NamedIndividual>
@@ -953,7 +953,7 @@
       <rdfs:label>Giurgiu</rdfs:label>
       <skos:definition>The department of Giurgiu in the country of Romania</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Romania"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ro">Giurgiu</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ro">Giurgiu</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ro;Department"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ro;"/>
    </owl:NamedIndividual>
@@ -983,7 +983,7 @@
       <rdfs:label>Neamț</rdfs:label>
       <skos:definition>The department of Neamț in the country of Romania</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Romania"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ro">Neamț</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ro">Neamț</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ro;Department"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ro;"/>
    </owl:NamedIndividual>
@@ -1013,7 +1013,7 @@
       <rdfs:label>Tulcea</rdfs:label>
       <skos:definition>The department of Tulcea in the country of Romania</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Romania"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ro">Tulcea</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ro">Tulcea</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ro;Department"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ro;"/>
    </owl:NamedIndividual>
@@ -1043,7 +1043,7 @@
       <rdfs:label>Bistrița-Năsăud</rdfs:label>
       <skos:definition>The department of Bistrița-Năsăud in the country of Romania</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Romania"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ro">Bistrița-Năsăud</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ro">Bistrița-Năsăud</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ro;Department"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ro;"/>
    </owl:NamedIndividual>
@@ -1073,7 +1073,7 @@
       <rdfs:label>Călărași</rdfs:label>
       <skos:definition>The department of Călărași in the country of Romania</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Romania"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ro">Călărași</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ro">Călărași</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ro;Department"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ro;"/>
    </owl:NamedIndividual>
@@ -1103,7 +1103,7 @@
       <rdfs:label>Caraș-Severin</rdfs:label>
       <skos:definition>The department of Caraș-Severin in the country of Romania</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Romania"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ro">Caraș-Severin</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ro">Caraș-Severin</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ro;Department"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ro;"/>
    </owl:NamedIndividual>
@@ -1133,7 +1133,7 @@
       <rdfs:label>Covasna</rdfs:label>
       <skos:definition>The department of Covasna in the country of Romania</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Romania"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ro">Covasna</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ro">Covasna</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ro;Department"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ro;"/>
    </owl:NamedIndividual>
@@ -1163,7 +1163,7 @@
       <rdfs:label>Dâmbovița</rdfs:label>
       <skos:definition>The department of Dâmbovița in the country of Romania</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Romania"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ro">Dâmbovița</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ro">Dâmbovița</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ro;Department"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ro;"/>
    </owl:NamedIndividual>
@@ -1193,7 +1193,7 @@
       <rdfs:label>Mureș</rdfs:label>
       <skos:definition>The department of Mureș in the country of Romania</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Romania"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ro">Mureș</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ro">Mureș</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ro;Department"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ro;"/>
    </owl:NamedIndividual>
@@ -1223,7 +1223,7 @@
       <rdfs:label>Alba</rdfs:label>
       <skos:definition>The department of Alba in the country of Romania</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Romania"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ro">Alba</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ro">Alba</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ro;Department"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ro;"/>
    </owl:NamedIndividual>
@@ -1253,7 +1253,7 @@
       <rdfs:label>Arad</rdfs:label>
       <skos:definition>The department of Arad in the country of Romania</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Romania"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ro">Arad</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ro">Arad</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ro;Department"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ro;"/>
    </owl:NamedIndividual>
@@ -1283,7 +1283,7 @@
       <rdfs:label>Botoșani</rdfs:label>
       <skos:definition>The department of Botoșani in the country of Romania</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Romania"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ro">Botoșani</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ro">Botoșani</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ro;Department"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ro;"/>
    </owl:NamedIndividual>
@@ -1313,7 +1313,7 @@
       <rdfs:label>Cluj</rdfs:label>
       <skos:definition>The department of Cluj in the country of Romania</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Romania"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ro">Cluj</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ro">Cluj</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ro;Department"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ro;"/>
    </owl:NamedIndividual>
@@ -1343,7 +1343,7 @@
       <rdfs:label>Sibiu</rdfs:label>
       <skos:definition>The department of Sibiu in the country of Romania</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Romania"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ro">Sibiu</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ro">Sibiu</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ro;Department"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ro;"/>
    </owl:NamedIndividual>

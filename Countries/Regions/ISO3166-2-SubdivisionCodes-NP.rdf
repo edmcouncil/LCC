@@ -120,8 +120,8 @@
       <rdfs:label>Province 1</rdfs:label>
       <skos:definition>The province of Province 1 in the country of Nepal</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Nepal"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Province 1</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ne">Pradesh 1</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Province 1</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ne">Pradesh 1</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-np;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-np;"/>
    </owl:NamedIndividual>
@@ -151,8 +151,8 @@
       <rdfs:label>Province 2</rdfs:label>
       <skos:definition>The province of Province 2 in the country of Nepal</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Nepal"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Province 2</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ne">Pradesh 2</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Province 2</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ne">Pradesh 2</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-np;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-np;"/>
    </owl:NamedIndividual>
@@ -182,8 +182,8 @@
       <rdfs:label>Province 3</rdfs:label>
       <skos:definition>The province of Province 3 in the country of Nepal</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Nepal"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Province 3</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ne">Pradesh 3</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Province 3</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ne">Pradesh 3</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-np;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-np;"/>
    </owl:NamedIndividual>
@@ -213,8 +213,8 @@
       <rdfs:label>Gandaki</rdfs:label>
       <skos:definition>The province of Gandaki in the country of Nepal</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Nepal"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Gandaki</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ne">Gandaki</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Gandaki</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ne">Gandaki</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-np;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-np;"/>
    </owl:NamedIndividual>
@@ -244,8 +244,8 @@
       <rdfs:label>Province 5</rdfs:label>
       <skos:definition>The province of Province 5 in the country of Nepal</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Nepal"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Province 5</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ne">Pradesh 5</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Province 5</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ne">Pradesh 5</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-np;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-np;"/>
    </owl:NamedIndividual>
@@ -275,8 +275,8 @@
       <rdfs:label>Karnali</rdfs:label>
       <skos:definition>The province of Karnali in the country of Nepal</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Nepal"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Karnali</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ne">Karnali</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Karnali</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ne">Karnali</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-np;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-np;"/>
    </owl:NamedIndividual>
@@ -306,8 +306,8 @@
       <rdfs:label>Province 7</rdfs:label>
       <skos:definition>The province of Province 7 in the country of Nepal</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Nepal"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Province 7</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ne">Pradesh 7</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Province 7</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ne">Pradesh 7</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-np;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-np;"/>
    </owl:NamedIndividual>
@@ -337,8 +337,8 @@
       <rdfs:label>Mid Western</rdfs:label>
       <skos:definition>The development region of Mid Western in the country of Nepal</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Nepal"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ne">Madhya Pashchimanchal</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Mid Western</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ne">Madhya Pashchimanchal</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Mid Western</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-np;DevelopmentRegion"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-np;"/>
    </owl:NamedIndividual>
@@ -366,7 +366,7 @@
       <rdfs:label>Bheri</rdfs:label>
       <skos:definition>The zone of Bheri in the country of Nepal</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-np;MidWestern"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ne">Bheri</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ne">Bheri</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-np;Zone"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-np;"/>
    </owl:NamedIndividual>
@@ -396,7 +396,7 @@
       <rdfs:label>Karnali</rdfs:label>
       <skos:definition>The zone of Karnali in the country of Nepal</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-np;MidWestern"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ne">Karnali</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ne">Karnali</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-np;Zone"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-np;"/>
    </owl:NamedIndividual>
@@ -426,7 +426,7 @@
       <rdfs:label>Rapti</rdfs:label>
       <skos:definition>The zone of Rapti in the country of Nepal</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-np;MidWestern"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ne">Rapti</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ne">Rapti</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-np;Zone"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-np;"/>
    </owl:NamedIndividual>
@@ -458,8 +458,8 @@
       <rdfs:label>Western</rdfs:label>
       <skos:definition>The development region of Western in the country of Nepal</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Nepal"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ne">Pashchimanchal</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Western</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ne">Pashchimanchal</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Western</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-np;DevelopmentRegion"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-np;"/>
    </owl:NamedIndividual>
@@ -487,7 +487,7 @@
       <rdfs:label>Gandaki</rdfs:label>
       <skos:definition>The zone of Gandaki in the country of Nepal</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-np;Western"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ne">Gandaki</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ne">Gandaki</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-np;Zone"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-np;"/>
    </owl:NamedIndividual>
@@ -517,7 +517,7 @@
       <rdfs:label>Lumbini</rdfs:label>
       <skos:definition>The zone of Lumbini in the country of Nepal</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-np;Western"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ne">Lumbini</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ne">Lumbini</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-np;Zone"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-np;"/>
    </owl:NamedIndividual>
@@ -547,7 +547,7 @@
       <rdfs:label>Dhawalagiri</rdfs:label>
       <skos:definition>The zone of Dhawalagiri in the country of Nepal</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-np;Western"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ne">Dhawalagiri</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ne">Dhawalagiri</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-np;Zone"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-np;"/>
    </owl:NamedIndividual>
@@ -579,8 +579,8 @@
       <rdfs:label>Eastern</rdfs:label>
       <skos:definition>The development region of Eastern in the country of Nepal</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Nepal"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ne">Purwanchal</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Eastern</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ne">Purwanchal</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Eastern</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-np;DevelopmentRegion"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-np;"/>
    </owl:NamedIndividual>
@@ -608,7 +608,7 @@
       <rdfs:label>Mechi</rdfs:label>
       <skos:definition>The zone of Mechi in the country of Nepal</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-np;Eastern"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ne">Mechi</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ne">Mechi</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-np;Zone"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-np;"/>
    </owl:NamedIndividual>
@@ -638,7 +638,7 @@
       <rdfs:label>Kosi</rdfs:label>
       <skos:definition>The zone of Kosi in the country of Nepal</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-np;Eastern"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ne">Kosi</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ne">Kosi</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-np;Zone"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-np;"/>
    </owl:NamedIndividual>
@@ -668,7 +668,7 @@
       <rdfs:label>Sagarmatha</rdfs:label>
       <skos:definition>The zone of Sagarmatha in the country of Nepal</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-np;Eastern"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ne">Sagarmatha</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ne">Sagarmatha</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-np;Zone"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-np;"/>
    </owl:NamedIndividual>
@@ -700,8 +700,8 @@
       <rdfs:label>Far Western</rdfs:label>
       <skos:definition>The development region of Far Western in the country of Nepal</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Nepal"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ne">Sudur Pashchimanchal</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Far Western</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ne">Sudur Pashchimanchal</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Far Western</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-np;DevelopmentRegion"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-np;"/>
    </owl:NamedIndividual>
@@ -729,7 +729,7 @@
       <rdfs:label>Seti</rdfs:label>
       <skos:definition>The zone of Seti in the country of Nepal</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-np;FarWestern"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ne">Seti</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ne">Seti</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-np;Zone"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-np;"/>
    </owl:NamedIndividual>
@@ -759,7 +759,7 @@
       <rdfs:label>Mahakali</rdfs:label>
       <skos:definition>The zone of Mahakali in the country of Nepal</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-np;FarWestern"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ne">Mahakali</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ne">Mahakali</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-np;Zone"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-np;"/>
    </owl:NamedIndividual>
@@ -791,8 +791,8 @@
       <rdfs:label>Central</rdfs:label>
       <skos:definition>The development region of Central in the country of Nepal</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Nepal"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Central</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ne">Madhyamanchal</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Central</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ne">Madhyamanchal</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-np;DevelopmentRegion"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-np;"/>
    </owl:NamedIndividual>
@@ -820,7 +820,7 @@
       <rdfs:label>Janakpur</rdfs:label>
       <skos:definition>The zone of Janakpur in the country of Nepal</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-np;Central"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ne">Janakpur</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ne">Janakpur</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-np;Zone"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-np;"/>
    </owl:NamedIndividual>
@@ -850,7 +850,7 @@
       <rdfs:label>Narayani</rdfs:label>
       <skos:definition>The zone of Narayani in the country of Nepal</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-np;Central"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ne">Narayani</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ne">Narayani</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-np;Zone"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-np;"/>
    </owl:NamedIndividual>
@@ -880,7 +880,7 @@
       <rdfs:label>Bagmati</rdfs:label>
       <skos:definition>The zone of Bagmati in the country of Nepal</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-np;Central"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ne">Bagmati</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ne">Bagmati</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-np;Zone"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-np;"/>
    </owl:NamedIndividual>

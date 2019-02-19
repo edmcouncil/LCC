@@ -106,8 +106,8 @@
       <rdfs:label>Lac</rdfs:label>
       <skos:definition>The region of Lac in the country of Chad</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Chad"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Lac</lcc-cr:hasFrenchShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Al Buḩayrah</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Lac</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Al Buḩayrah</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-td;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-td;"/>
    </owl:NamedIndividual>
@@ -137,8 +137,8 @@
       <rdfs:label>Māyū Kībbī ash Sharqī</rdfs:label>
       <skos:definition>The region of Māyū Kībbī ash Sharqī in the country of Chad</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Chad"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Māyū Kībbī ash Sharqī</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Mayo-Kebbi-Est</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Māyū Kībbī ash Sharqī</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Mayo-Kebbi-Est</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-td;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-td;"/>
    </owl:NamedIndividual>
@@ -168,8 +168,8 @@
       <rdfs:label>Wadi Fira</rdfs:label>
       <skos:definition>The region of Wadi Fira in the country of Chad</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Chad"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Wadi Fira</lcc-cr:hasFrenchShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Wādī Fīrā</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Wadi Fira</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Wādī Fīrā</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-td;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-td;"/>
    </owl:NamedIndividual>
@@ -199,8 +199,8 @@
       <rdfs:label>Lūqūn ash Sharqī</rdfs:label>
       <skos:definition>The region of Lūqūn ash Sharqī in the country of Chad</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Chad"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Lūqūn ash Sharqī</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Logone-Oriental</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Lūqūn ash Sharqī</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Logone-Oriental</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-td;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-td;"/>
    </owl:NamedIndividual>
@@ -230,8 +230,8 @@
       <rdfs:label>Sila</rdfs:label>
       <skos:definition>The region of Sila in the country of Chad</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Chad"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Sila</lcc-cr:hasFrenchShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Sīlā</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Sila</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Sīlā</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-td;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-td;"/>
    </owl:NamedIndividual>
@@ -261,8 +261,8 @@
       <rdfs:label>Būrkū</rdfs:label>
       <skos:definition>The region of Būrkū in the country of Chad</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Chad"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Būrkū</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Borkou</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Būrkū</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Borkou</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-td;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-td;"/>
    </owl:NamedIndividual>
@@ -292,8 +292,8 @@
       <rdfs:label>Guéra</rdfs:label>
       <skos:definition>The region of Guéra in the country of Chad</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Chad"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Guéra</lcc-cr:hasFrenchShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Qīrā</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Guéra</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Qīrā</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-td;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-td;"/>
    </owl:NamedIndividual>
@@ -323,8 +323,8 @@
       <rdfs:label>Tānjilī</rdfs:label>
       <skos:definition>The region of Tānjilī in the country of Chad</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Chad"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Tānjilī</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Tandjilé</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Tānjilī</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Tandjilé</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-td;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-td;"/>
    </owl:NamedIndividual>
@@ -354,8 +354,8 @@
       <rdfs:label>Tibastī</rdfs:label>
       <skos:definition>The region of Tibastī in the country of Chad</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Chad"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Tibastī</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Tibesti</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Tibastī</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Tibesti</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-td;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-td;"/>
    </owl:NamedIndividual>
@@ -385,8 +385,8 @@
       <rdfs:label>Baḩr al Ghazāl</rdfs:label>
       <skos:definition>The region of Baḩr al Ghazāl in the country of Chad</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Chad"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Baḩr al Ghazāl</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Bahr el Ghazal</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Baḩr al Ghazāl</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Bahr el Ghazal</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-td;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-td;"/>
    </owl:NamedIndividual>
@@ -416,8 +416,8 @@
       <rdfs:label>Shārī Bāqirmī</rdfs:label>
       <skos:definition>The region of Shārī Bāqirmī in the country of Chad</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Chad"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Shārī Bāqirmī</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Chari-Baguirmi</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Shārī Bāqirmī</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Chari-Baguirmi</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-td;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-td;"/>
    </owl:NamedIndividual>
@@ -447,8 +447,8 @@
       <rdfs:label>Logone-Occidental</rdfs:label>
       <skos:definition>The region of Logone-Occidental in the country of Chad</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Chad"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Logone-Occidental</lcc-cr:hasFrenchShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Lūqūn al Gharbī</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Logone-Occidental</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Lūqūn al Gharbī</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-td;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-td;"/>
    </owl:NamedIndividual>
@@ -478,8 +478,8 @@
       <rdfs:label>Mandoul</rdfs:label>
       <skos:definition>The region of Mandoul in the country of Chad</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Chad"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Mandoul</lcc-cr:hasFrenchShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Māndūl</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Mandoul</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Māndūl</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-td;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-td;"/>
    </owl:NamedIndividual>
@@ -509,8 +509,8 @@
       <rdfs:label>Batha</rdfs:label>
       <skos:definition>The region of Batha in the country of Chad</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Chad"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Batha</lcc-cr:hasFrenchShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Al Baţḩah</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Batha</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Al Baţḩah</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-td;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-td;"/>
    </owl:NamedIndividual>
@@ -540,8 +540,8 @@
       <rdfs:label>Ḩajjar Lamīs</rdfs:label>
       <skos:definition>The region of Ḩajjar Lamīs in the country of Chad</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Chad"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Ḩajjar Lamīs</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Hadjer Lamis</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Ḩajjar Lamīs</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Hadjer Lamis</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-td;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-td;"/>
    </owl:NamedIndividual>
@@ -571,8 +571,8 @@
       <rdfs:label>Māyū Kībbī al Gharbī</rdfs:label>
       <skos:definition>The region of Māyū Kībbī al Gharbī in the country of Chad</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Chad"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Māyū Kībbī al Gharbī</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Mayo-Kebbi-Ouest</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Māyū Kībbī al Gharbī</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Mayo-Kebbi-Ouest</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-td;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-td;"/>
    </owl:NamedIndividual>
@@ -602,7 +602,7 @@
       <rdfs:label>Ennedi-Est</rdfs:label>
       <skos:definition>The region of Ennedi-Est in the country of Chad</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Chad"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Ennedi-Est</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Ennedi-Est</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-td;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-td;"/>
    </owl:NamedIndividual>
@@ -632,7 +632,7 @@
       <rdfs:label>Ennedi-Ouest</rdfs:label>
       <skos:definition>The region of Ennedi-Ouest in the country of Chad</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Chad"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Ennedi-Ouest</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Ennedi-Ouest</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-td;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-td;"/>
    </owl:NamedIndividual>
@@ -662,8 +662,8 @@
       <rdfs:label>Kānim</rdfs:label>
       <skos:definition>The region of Kānim in the country of Chad</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Chad"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Kānim</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Kanem</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Kānim</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Kanem</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-td;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-td;"/>
    </owl:NamedIndividual>
@@ -693,8 +693,8 @@
       <rdfs:label>Shārī al Awsaţ</rdfs:label>
       <skos:definition>The region of Shārī al Awsaţ in the country of Chad</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Chad"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Shārī al Awsaţ</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Moyen-Chari</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Shārī al Awsaţ</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Moyen-Chari</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-td;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-td;"/>
    </owl:NamedIndividual>
@@ -724,8 +724,8 @@
       <rdfs:label>Madīnat Injamīnā</rdfs:label>
       <skos:definition>The region of Madīnat Injamīnā in the country of Chad</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Chad"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Madīnat Injamīnā</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Ville de Ndjamena</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Madīnat Injamīnā</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Ville de Ndjamena</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-td;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-td;"/>
    </owl:NamedIndividual>
@@ -755,8 +755,8 @@
       <rdfs:label>Waddāy</rdfs:label>
       <skos:definition>The region of Waddāy in the country of Chad</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Chad"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Waddāy</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Ouaddaï</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Waddāy</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Ouaddaï</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-td;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-td;"/>
    </owl:NamedIndividual>
@@ -786,8 +786,8 @@
       <rdfs:label>Salamat</rdfs:label>
       <skos:definition>The region of Salamat in the country of Chad</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Chad"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Salamat</lcc-cr:hasFrenchShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Salāmāt</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Salamat</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Salāmāt</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-td;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-td;"/>
    </owl:NamedIndividual>

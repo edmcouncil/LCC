@@ -113,7 +113,7 @@
       <rdfs:label>wallonne, Région</rdfs:label>
       <skos:definition>The region of wallonne, Région in the country of Belgium</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Belgium"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">wallonne, Région</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">wallonne, Région</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-be;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-be;"/>
    </owl:NamedIndividual>
@@ -141,7 +141,7 @@
       <rdfs:label>Luxembourg</rdfs:label>
       <skos:definition>The province of Luxembourg in the country of Belgium</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-be;Wallonne"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Luxembourg</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Luxembourg</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-be;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-be;"/>
    </owl:NamedIndividual>
@@ -171,7 +171,7 @@
       <rdfs:label>Namur</rdfs:label>
       <skos:definition>The province of Namur in the country of Belgium</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-be;Wallonne"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Namur</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Namur</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-be;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-be;"/>
    </owl:NamedIndividual>
@@ -201,7 +201,7 @@
       <rdfs:label>Hainaut</rdfs:label>
       <skos:definition>The province of Hainaut in the country of Belgium</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-be;Wallonne"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Hainaut</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Hainaut</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-be;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-be;"/>
    </owl:NamedIndividual>
@@ -231,7 +231,7 @@
       <rdfs:label>Brabant wallon</rdfs:label>
       <skos:definition>The province of Brabant wallon in the country of Belgium</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-be;Wallonne"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Brabant wallon</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Brabant wallon</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-be;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-be;"/>
    </owl:NamedIndividual>
@@ -261,7 +261,7 @@
       <rdfs:label>Liège</rdfs:label>
       <skos:definition>The province of Liège in the country of Belgium</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-be;Wallonne"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Liège</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Liège</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-be;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-be;"/>
    </owl:NamedIndividual>
@@ -293,8 +293,8 @@
       <rdfs:label>Brussels Hoofdstedelijk Gewest</rdfs:label>
       <skos:definition>The region of Brussels Hoofdstedelijk Gewest in the country of Belgium</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Belgium"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="nl">Brussels Hoofdstedelijk Gewest</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Bruxelles-Capitale, Région de</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasLocalShortName xml:lang="nl">Brussels Hoofdstedelijk Gewest</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Bruxelles-Capitale, Région de</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-be;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-be;"/>
    </owl:NamedIndividual>
@@ -324,7 +324,7 @@
       <rdfs:label>Vlaams Gewest</rdfs:label>
       <skos:definition>The region of Vlaams Gewest in the country of Belgium</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Belgium"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="nl">Vlaams Gewest</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="nl">Vlaams Gewest</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-be;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-be;"/>
    </owl:NamedIndividual>
@@ -352,7 +352,7 @@
       <rdfs:label>Vlaams-Brabant</rdfs:label>
       <skos:definition>The province of Vlaams-Brabant in the country of Belgium</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-be;VlaamsGewest"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="nl">Vlaams-Brabant</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="nl">Vlaams-Brabant</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-be;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-be;"/>
    </owl:NamedIndividual>
@@ -382,7 +382,7 @@
       <rdfs:label>West-Vlaanderen</rdfs:label>
       <skos:definition>The province of West-Vlaanderen in the country of Belgium</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-be;VlaamsGewest"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="nl">West-Vlaanderen</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="nl">West-Vlaanderen</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-be;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-be;"/>
    </owl:NamedIndividual>
@@ -412,7 +412,7 @@
       <rdfs:label>Antwerpen</rdfs:label>
       <skos:definition>The province of Antwerpen in the country of Belgium</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-be;VlaamsGewest"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="nl">Antwerpen</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="nl">Antwerpen</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-be;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-be;"/>
    </owl:NamedIndividual>
@@ -442,7 +442,7 @@
       <rdfs:label>Limburg</rdfs:label>
       <skos:definition>The province of Limburg in the country of Belgium</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-be;VlaamsGewest"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="nl">Limburg</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="nl">Limburg</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-be;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-be;"/>
    </owl:NamedIndividual>
@@ -472,7 +472,7 @@
       <rdfs:label>Oost-Vlaanderen</rdfs:label>
       <skos:definition>The province of Oost-Vlaanderen in the country of Belgium</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-2-be;VlaamsGewest"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="nl">Oost-Vlaanderen</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="nl">Oost-Vlaanderen</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-be;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-be;"/>
    </owl:NamedIndividual>

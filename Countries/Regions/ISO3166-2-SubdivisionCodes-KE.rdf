@@ -106,7 +106,7 @@
       <rdfs:label>Baringo</rdfs:label>
       <skos:definition>The county of Baringo in the country of Kenya</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Kenya"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Baringo</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Baringo</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ke;County"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ke;"/>
    </owl:NamedIndividual>
@@ -136,7 +136,7 @@
       <rdfs:label>Bomet</rdfs:label>
       <skos:definition>The county of Bomet in the country of Kenya</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Kenya"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Bomet</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Bomet</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ke;County"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ke;"/>
    </owl:NamedIndividual>
@@ -166,7 +166,7 @@
       <rdfs:label>Bungoma</rdfs:label>
       <skos:definition>The county of Bungoma in the country of Kenya</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Kenya"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Bungoma</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Bungoma</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ke;County"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ke;"/>
    </owl:NamedIndividual>
@@ -196,7 +196,7 @@
       <rdfs:label>Busia</rdfs:label>
       <skos:definition>The county of Busia in the country of Kenya</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Kenya"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Busia</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Busia</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ke;County"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ke;"/>
    </owl:NamedIndividual>
@@ -226,7 +226,7 @@
       <rdfs:label>Elgeyo/Marakwet</rdfs:label>
       <skos:definition>The county of Elgeyo/Marakwet in the country of Kenya</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Kenya"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Elgeyo/Marakwet</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Elgeyo/Marakwet</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ke;County"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ke;"/>
    </owl:NamedIndividual>
@@ -256,7 +256,7 @@
       <rdfs:label>Embu</rdfs:label>
       <skos:definition>The county of Embu in the country of Kenya</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Kenya"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Embu</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Embu</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ke;County"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ke;"/>
    </owl:NamedIndividual>
@@ -286,7 +286,7 @@
       <rdfs:label>Garissa</rdfs:label>
       <skos:definition>The county of Garissa in the country of Kenya</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Kenya"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Garissa</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Garissa</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ke;County"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ke;"/>
    </owl:NamedIndividual>
@@ -316,7 +316,7 @@
       <rdfs:label>Homa Bay</rdfs:label>
       <skos:definition>The county of Homa Bay in the country of Kenya</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Kenya"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Homa Bay</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Homa Bay</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ke;County"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ke;"/>
    </owl:NamedIndividual>
@@ -346,7 +346,7 @@
       <rdfs:label>Isiolo</rdfs:label>
       <skos:definition>The county of Isiolo in the country of Kenya</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Kenya"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Isiolo</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Isiolo</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ke;County"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ke;"/>
    </owl:NamedIndividual>
@@ -376,7 +376,7 @@
       <rdfs:label>Kajiado</rdfs:label>
       <skos:definition>The county of Kajiado in the country of Kenya</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Kenya"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Kajiado</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Kajiado</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ke;County"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ke;"/>
    </owl:NamedIndividual>
@@ -406,7 +406,7 @@
       <rdfs:label>Kakamega</rdfs:label>
       <skos:definition>The county of Kakamega in the country of Kenya</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Kenya"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Kakamega</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Kakamega</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ke;County"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ke;"/>
    </owl:NamedIndividual>
@@ -436,7 +436,7 @@
       <rdfs:label>Kericho</rdfs:label>
       <skos:definition>The county of Kericho in the country of Kenya</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Kenya"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Kericho</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Kericho</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ke;County"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ke;"/>
    </owl:NamedIndividual>
@@ -466,7 +466,7 @@
       <rdfs:label>Kiambu</rdfs:label>
       <skos:definition>The county of Kiambu in the country of Kenya</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Kenya"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Kiambu</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Kiambu</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ke;County"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ke;"/>
    </owl:NamedIndividual>
@@ -496,7 +496,7 @@
       <rdfs:label>Kilifi</rdfs:label>
       <skos:definition>The county of Kilifi in the country of Kenya</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Kenya"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Kilifi</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Kilifi</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ke;County"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ke;"/>
    </owl:NamedIndividual>
@@ -526,7 +526,7 @@
       <rdfs:label>Kirinyaga</rdfs:label>
       <skos:definition>The county of Kirinyaga in the country of Kenya</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Kenya"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Kirinyaga</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Kirinyaga</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ke;County"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ke;"/>
    </owl:NamedIndividual>
@@ -556,7 +556,7 @@
       <rdfs:label>Kisii</rdfs:label>
       <skos:definition>The county of Kisii in the country of Kenya</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Kenya"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Kisii</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Kisii</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ke;County"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ke;"/>
    </owl:NamedIndividual>
@@ -586,7 +586,7 @@
       <rdfs:label>Kisumu</rdfs:label>
       <skos:definition>The county of Kisumu in the country of Kenya</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Kenya"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Kisumu</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Kisumu</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ke;County"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ke;"/>
    </owl:NamedIndividual>
@@ -616,7 +616,7 @@
       <rdfs:label>Kitui</rdfs:label>
       <skos:definition>The county of Kitui in the country of Kenya</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Kenya"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Kitui</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Kitui</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ke;County"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ke;"/>
    </owl:NamedIndividual>
@@ -646,7 +646,7 @@
       <rdfs:label>Kwale</rdfs:label>
       <skos:definition>The county of Kwale in the country of Kenya</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Kenya"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Kwale</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Kwale</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ke;County"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ke;"/>
    </owl:NamedIndividual>
@@ -676,7 +676,7 @@
       <rdfs:label>Laikipia</rdfs:label>
       <skos:definition>The county of Laikipia in the country of Kenya</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Kenya"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Laikipia</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Laikipia</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ke;County"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ke;"/>
    </owl:NamedIndividual>
@@ -706,7 +706,7 @@
       <rdfs:label>Lamu</rdfs:label>
       <skos:definition>The county of Lamu in the country of Kenya</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Kenya"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Lamu</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Lamu</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ke;County"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ke;"/>
    </owl:NamedIndividual>
@@ -736,7 +736,7 @@
       <rdfs:label>Machakos</rdfs:label>
       <skos:definition>The county of Machakos in the country of Kenya</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Kenya"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Machakos</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Machakos</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ke;County"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ke;"/>
    </owl:NamedIndividual>
@@ -766,7 +766,7 @@
       <rdfs:label>Makueni</rdfs:label>
       <skos:definition>The county of Makueni in the country of Kenya</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Kenya"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Makueni</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Makueni</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ke;County"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ke;"/>
    </owl:NamedIndividual>
@@ -796,7 +796,7 @@
       <rdfs:label>Mandera</rdfs:label>
       <skos:definition>The county of Mandera in the country of Kenya</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Kenya"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Mandera</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Mandera</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ke;County"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ke;"/>
    </owl:NamedIndividual>
@@ -826,7 +826,7 @@
       <rdfs:label>Marsabit</rdfs:label>
       <skos:definition>The county of Marsabit in the country of Kenya</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Kenya"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Marsabit</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Marsabit</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ke;County"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ke;"/>
    </owl:NamedIndividual>
@@ -856,7 +856,7 @@
       <rdfs:label>Meru</rdfs:label>
       <skos:definition>The county of Meru in the country of Kenya</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Kenya"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Meru</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Meru</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ke;County"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ke;"/>
    </owl:NamedIndividual>
@@ -886,7 +886,7 @@
       <rdfs:label>Migori</rdfs:label>
       <skos:definition>The county of Migori in the country of Kenya</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Kenya"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Migori</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Migori</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ke;County"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ke;"/>
    </owl:NamedIndividual>
@@ -916,7 +916,7 @@
       <rdfs:label>Mombasa</rdfs:label>
       <skos:definition>The county of Mombasa in the country of Kenya</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Kenya"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Mombasa</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Mombasa</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ke;County"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ke;"/>
    </owl:NamedIndividual>
@@ -946,7 +946,7 @@
       <rdfs:label>Murang'a</rdfs:label>
       <skos:definition>The county of Murang'a in the country of Kenya</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Kenya"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Murang'a</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Murang'a</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ke;County"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ke;"/>
    </owl:NamedIndividual>
@@ -976,7 +976,7 @@
       <rdfs:label>Nairobi City</rdfs:label>
       <skos:definition>The county of Nairobi City in the country of Kenya</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Kenya"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Nairobi City</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Nairobi City</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ke;County"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ke;"/>
    </owl:NamedIndividual>
@@ -1006,7 +1006,7 @@
       <rdfs:label>Nakuru</rdfs:label>
       <skos:definition>The county of Nakuru in the country of Kenya</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Kenya"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Nakuru</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Nakuru</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ke;County"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ke;"/>
    </owl:NamedIndividual>
@@ -1036,7 +1036,7 @@
       <rdfs:label>Nandi</rdfs:label>
       <skos:definition>The county of Nandi in the country of Kenya</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Kenya"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Nandi</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Nandi</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ke;County"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ke;"/>
    </owl:NamedIndividual>
@@ -1066,7 +1066,7 @@
       <rdfs:label>Narok</rdfs:label>
       <skos:definition>The county of Narok in the country of Kenya</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Kenya"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Narok</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Narok</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ke;County"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ke;"/>
    </owl:NamedIndividual>
@@ -1096,7 +1096,7 @@
       <rdfs:label>Nyamira</rdfs:label>
       <skos:definition>The county of Nyamira in the country of Kenya</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Kenya"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Nyamira</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Nyamira</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ke;County"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ke;"/>
    </owl:NamedIndividual>
@@ -1126,7 +1126,7 @@
       <rdfs:label>Nyandarua</rdfs:label>
       <skos:definition>The county of Nyandarua in the country of Kenya</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Kenya"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Nyandarua</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Nyandarua</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ke;County"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ke;"/>
    </owl:NamedIndividual>
@@ -1156,7 +1156,7 @@
       <rdfs:label>Nyeri</rdfs:label>
       <skos:definition>The county of Nyeri in the country of Kenya</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Kenya"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Nyeri</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Nyeri</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ke;County"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ke;"/>
    </owl:NamedIndividual>
@@ -1186,7 +1186,7 @@
       <rdfs:label>Samburu</rdfs:label>
       <skos:definition>The county of Samburu in the country of Kenya</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Kenya"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Samburu</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Samburu</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ke;County"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ke;"/>
    </owl:NamedIndividual>
@@ -1216,7 +1216,7 @@
       <rdfs:label>Siaya</rdfs:label>
       <skos:definition>The county of Siaya in the country of Kenya</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Kenya"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Siaya</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Siaya</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ke;County"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ke;"/>
    </owl:NamedIndividual>
@@ -1246,7 +1246,7 @@
       <rdfs:label>Taita/Taveta</rdfs:label>
       <skos:definition>The county of Taita/Taveta in the country of Kenya</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Kenya"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Taita/Taveta</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Taita/Taveta</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ke;County"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ke;"/>
    </owl:NamedIndividual>
@@ -1276,7 +1276,7 @@
       <rdfs:label>Tana River</rdfs:label>
       <skos:definition>The county of Tana River in the country of Kenya</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Kenya"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Tana River</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Tana River</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ke;County"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ke;"/>
    </owl:NamedIndividual>
@@ -1306,7 +1306,7 @@
       <rdfs:label>Tharaka-Nithi</rdfs:label>
       <skos:definition>The county of Tharaka-Nithi in the country of Kenya</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Kenya"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Tharaka-Nithi</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Tharaka-Nithi</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ke;County"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ke;"/>
    </owl:NamedIndividual>
@@ -1336,7 +1336,7 @@
       <rdfs:label>Trans Nzoia</rdfs:label>
       <skos:definition>The county of Trans Nzoia in the country of Kenya</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Kenya"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Trans Nzoia</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Trans Nzoia</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ke;County"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ke;"/>
    </owl:NamedIndividual>
@@ -1366,7 +1366,7 @@
       <rdfs:label>Turkana</rdfs:label>
       <skos:definition>The county of Turkana in the country of Kenya</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Kenya"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Turkana</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Turkana</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ke;County"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ke;"/>
    </owl:NamedIndividual>
@@ -1396,7 +1396,7 @@
       <rdfs:label>Uasin Gishu</rdfs:label>
       <skos:definition>The county of Uasin Gishu in the country of Kenya</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Kenya"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Uasin Gishu</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Uasin Gishu</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ke;County"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ke;"/>
    </owl:NamedIndividual>
@@ -1426,7 +1426,7 @@
       <rdfs:label>Vihiga</rdfs:label>
       <skos:definition>The county of Vihiga in the country of Kenya</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Kenya"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Vihiga</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Vihiga</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ke;County"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ke;"/>
    </owl:NamedIndividual>
@@ -1456,7 +1456,7 @@
       <rdfs:label>Wajir</rdfs:label>
       <skos:definition>The county of Wajir in the country of Kenya</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Kenya"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Wajir</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Wajir</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ke;County"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ke;"/>
    </owl:NamedIndividual>
@@ -1486,7 +1486,7 @@
       <rdfs:label>West Pokot</rdfs:label>
       <skos:definition>The county of West Pokot in the country of Kenya</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Kenya"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">West Pokot</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">West Pokot</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-ke;County"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-ke;"/>
    </owl:NamedIndividual>

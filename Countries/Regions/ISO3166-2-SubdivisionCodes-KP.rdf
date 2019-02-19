@@ -127,8 +127,8 @@
       <rdfs:label>Hwanghae-namdo</rdfs:label>
       <skos:definition>The province of Hwanghae-namdo in the country of Korea Democratic Peoples Republic Of</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;KoreaDemocraticPeoplesRepublicOf"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ko">Hwanghae-namdo</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ko">Hwanghainamto</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ko">Hwanghae-namdo</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ko">Hwanghainamto</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-kp;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-kp;"/>
    </owl:NamedIndividual>
@@ -158,8 +158,8 @@
       <rdfs:label>Hwanghae-bukto</rdfs:label>
       <skos:definition>The province of Hwanghae-bukto in the country of Korea Democratic Peoples Republic Of</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;KoreaDemocraticPeoplesRepublicOf"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ko">Hwanghae-bukto</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ko">Hwanghaipukto</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ko">Hwanghae-bukto</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ko">Hwanghaipukto</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-kp;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-kp;"/>
    </owl:NamedIndividual>
@@ -189,8 +189,8 @@
       <rdfs:label>Ryangkangto</rdfs:label>
       <skos:definition>The province of Ryangkangto in the country of Korea Democratic Peoples Republic Of</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;KoreaDemocraticPeoplesRepublicOf"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ko">Ryangkangto</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ko">Ryanggang-do</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ko">Ryangkangto</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ko">Ryanggang-do</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-kp;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-kp;"/>
    </owl:NamedIndividual>
@@ -220,8 +220,8 @@
       <rdfs:label>Namp’o</rdfs:label>
       <skos:definition>The metropolitan city of Namp’o in the country of Korea Democratic Peoples Republic Of</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;KoreaDemocraticPeoplesRepublicOf"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ko">Namp’o</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ko">Nampho</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ko">Namp’o</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ko">Nampho</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-kp;MetropolitanCity"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-kp;"/>
    </owl:NamedIndividual>
@@ -251,8 +251,8 @@
       <rdfs:label>Phyeongannamto</rdfs:label>
       <skos:definition>The province of Phyeongannamto in the country of Korea Democratic Peoples Republic Of</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;KoreaDemocraticPeoplesRepublicOf"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ko">Phyeongannamto</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ko">P'yǒngan-namdo</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ko">Phyeongannamto</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ko">P'yǒngan-namdo</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-kp;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-kp;"/>
    </owl:NamedIndividual>
@@ -282,8 +282,8 @@
       <rdfs:label>P'yǒngan-bukto</rdfs:label>
       <skos:definition>The province of P'yǒngan-bukto in the country of Korea Democratic Peoples Republic Of</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;KoreaDemocraticPeoplesRepublicOf"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ko">P'yǒngan-bukto</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ko">Phyeonganpukto</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ko">P'yǒngan-bukto</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ko">Phyeonganpukto</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-kp;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-kp;"/>
    </owl:NamedIndividual>
@@ -313,8 +313,8 @@
       <rdfs:label>Chagang-do</rdfs:label>
       <skos:definition>The province of Chagang-do in the country of Korea Democratic Peoples Republic Of</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;KoreaDemocraticPeoplesRepublicOf"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ko">Chagang-do</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ko">Jakangto</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ko">Chagang-do</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ko">Jakangto</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-kp;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-kp;"/>
    </owl:NamedIndividual>
@@ -344,8 +344,8 @@
       <rdfs:label>Hamkyeongpukto</rdfs:label>
       <skos:definition>The province of Hamkyeongpukto in the country of Korea Democratic Peoples Republic Of</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;KoreaDemocraticPeoplesRepublicOf"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ko">Hamkyeongpukto</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ko">Hamgyǒng-bukto</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ko">Hamkyeongpukto</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ko">Hamgyǒng-bukto</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-kp;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-kp;"/>
    </owl:NamedIndividual>
@@ -375,8 +375,8 @@
       <rdfs:label>Raseon</rdfs:label>
       <skos:definition>The special city of Raseon in the country of Korea Democratic Peoples Republic Of</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;KoreaDemocraticPeoplesRepublicOf"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ko">Raseon</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ko">Rasǒn</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ko">Raseon</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ko">Rasǒn</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-kp;SpecialCity"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-kp;"/>
    </owl:NamedIndividual>
@@ -406,8 +406,8 @@
       <rdfs:label>Kangweonto</rdfs:label>
       <skos:definition>The province of Kangweonto in the country of Korea Democratic Peoples Republic Of</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;KoreaDemocraticPeoplesRepublicOf"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ko">Kangweonto</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ko">Kangwǒn-do</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ko">Kangweonto</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ko">Kangwǒn-do</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-kp;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-kp;"/>
    </owl:NamedIndividual>
@@ -437,8 +437,8 @@
       <rdfs:label>P'yǒngyang</rdfs:label>
       <skos:definition>The capital city of P'yǒngyang in the country of Korea Democratic Peoples Republic Of</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;KoreaDemocraticPeoplesRepublicOf"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ko">P'yǒngyang</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ko">Phyeongyang</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ko">P'yǒngyang</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ko">Phyeongyang</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-kp;CapitalCity"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-kp;"/>
    </owl:NamedIndividual>
@@ -468,8 +468,8 @@
       <rdfs:label>Hamgyǒng-namdo</rdfs:label>
       <skos:definition>The province of Hamgyǒng-namdo in the country of Korea Democratic Peoples Republic Of</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;KoreaDemocraticPeoplesRepublicOf"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ko">Hamgyǒng-namdo</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ko">Hamkyeongnamto</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ko">Hamgyǒng-namdo</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ko">Hamkyeongnamto</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-kp;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-kp;"/>
    </owl:NamedIndividual>

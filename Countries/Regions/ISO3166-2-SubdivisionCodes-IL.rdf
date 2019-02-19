@@ -106,8 +106,8 @@
       <rdfs:label>Al Janūbī</rdfs:label>
       <skos:definition>The district of Al Janūbī in the country of Israel</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Israel"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Al Janūbī</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="he">HaDarom</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Al Janūbī</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="he">HaDarom</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-il;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-il;"/>
    </owl:NamedIndividual>
@@ -137,8 +137,8 @@
       <rdfs:label>Ḩayfā</rdfs:label>
       <skos:definition>The district of Ḩayfā in the country of Israel</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Israel"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Ḩayfā</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="he">H̱efa</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Ḩayfā</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="he">H̱efa</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-il;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-il;"/>
    </owl:NamedIndividual>
@@ -168,8 +168,8 @@
       <rdfs:label>Al Quds</rdfs:label>
       <skos:definition>The district of Al Quds in the country of Israel</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Israel"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Al Quds</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="he">Yerushalayim</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Al Quds</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="he">Yerushalayim</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-il;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-il;"/>
    </owl:NamedIndividual>
@@ -199,8 +199,8 @@
       <rdfs:label>Al Awsaţ</rdfs:label>
       <skos:definition>The district of Al Awsaţ in the country of Israel</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Israel"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Al Awsaţ</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="he">HaMerkaz</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Al Awsaţ</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="he">HaMerkaz</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-il;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-il;"/>
    </owl:NamedIndividual>
@@ -230,8 +230,8 @@
       <rdfs:label>Ash Shamālī</rdfs:label>
       <skos:definition>The district of Ash Shamālī in the country of Israel</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Israel"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Ash Shamālī</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="he">HaTsafon</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Ash Shamālī</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="he">HaTsafon</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-il;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-il;"/>
    </owl:NamedIndividual>
@@ -261,8 +261,8 @@
       <rdfs:label>Tall Abīb</rdfs:label>
       <skos:definition>The district of Tall Abīb in the country of Israel</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Israel"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="ar">Tall Abīb</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="he">Tel Aviv</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="ar">Tall Abīb</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="he">Tel Aviv</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-il;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-il;"/>
    </owl:NamedIndividual>

@@ -106,7 +106,7 @@
       <rdfs:label>Galguduud</rdfs:label>
       <skos:definition>The region of Galguduud in the country of Somalia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Somalia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="so">Galguduud</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="so">Galguduud</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-so;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-so;"/>
    </owl:NamedIndividual>
@@ -136,7 +136,7 @@
       <rdfs:label>Bay</rdfs:label>
       <skos:definition>The region of Bay in the country of Somalia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Somalia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="so">Bay</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="so">Bay</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-so;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-so;"/>
    </owl:NamedIndividual>
@@ -166,7 +166,7 @@
       <rdfs:label>Jubbada Dhexe</rdfs:label>
       <skos:definition>The region of Jubbada Dhexe in the country of Somalia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Somalia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="so">Jubbada Dhexe</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="so">Jubbada Dhexe</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-so;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-so;"/>
    </owl:NamedIndividual>
@@ -196,7 +196,7 @@
       <rdfs:label>Mudug</rdfs:label>
       <skos:definition>The region of Mudug in the country of Somalia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Somalia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="so">Mudug</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="so">Mudug</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-so;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-so;"/>
    </owl:NamedIndividual>
@@ -226,7 +226,7 @@
       <rdfs:label>Sanaag</rdfs:label>
       <skos:definition>The region of Sanaag in the country of Somalia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Somalia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="so">Sanaag</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="so">Sanaag</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-so;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-so;"/>
    </owl:NamedIndividual>
@@ -256,7 +256,7 @@
       <rdfs:label>Shabeellaha Dhexe</rdfs:label>
       <skos:definition>The region of Shabeellaha Dhexe in the country of Somalia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Somalia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="so">Shabeellaha Dhexe</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="so">Shabeellaha Dhexe</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-so;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-so;"/>
    </owl:NamedIndividual>
@@ -286,7 +286,7 @@
       <rdfs:label>Sool</rdfs:label>
       <skos:definition>The region of Sool in the country of Somalia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Somalia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="so">Sool</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="so">Sool</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-so;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-so;"/>
    </owl:NamedIndividual>
@@ -316,7 +316,7 @@
       <rdfs:label>Woqooyi Galbeed</rdfs:label>
       <skos:definition>The region of Woqooyi Galbeed in the country of Somalia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Somalia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="so">Woqooyi Galbeed</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="so">Woqooyi Galbeed</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-so;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-so;"/>
    </owl:NamedIndividual>
@@ -346,7 +346,7 @@
       <rdfs:label>Bakool</rdfs:label>
       <skos:definition>The region of Bakool in the country of Somalia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Somalia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="so">Bakool</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="so">Bakool</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-so;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-so;"/>
    </owl:NamedIndividual>
@@ -376,7 +376,7 @@
       <rdfs:label>Bari</rdfs:label>
       <skos:definition>The region of Bari in the country of Somalia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Somalia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="so">Bari</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="so">Bari</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-so;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-so;"/>
    </owl:NamedIndividual>
@@ -406,7 +406,7 @@
       <rdfs:label>Hiiraan</rdfs:label>
       <skos:definition>The region of Hiiraan in the country of Somalia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Somalia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="so">Hiiraan</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="so">Hiiraan</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-so;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-so;"/>
    </owl:NamedIndividual>
@@ -436,7 +436,7 @@
       <rdfs:label>Shabeellaha Hoose</rdfs:label>
       <skos:definition>The region of Shabeellaha Hoose in the country of Somalia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Somalia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="so">Shabeellaha Hoose</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="so">Shabeellaha Hoose</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-so;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-so;"/>
    </owl:NamedIndividual>
@@ -466,7 +466,7 @@
       <rdfs:label>Banaadir</rdfs:label>
       <skos:definition>The region of Banaadir in the country of Somalia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Somalia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="so">Banaadir</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="so">Banaadir</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-so;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-so;"/>
    </owl:NamedIndividual>
@@ -496,7 +496,7 @@
       <rdfs:label>Awdal</rdfs:label>
       <skos:definition>The region of Awdal in the country of Somalia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Somalia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="so">Awdal</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="so">Awdal</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-so;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-so;"/>
    </owl:NamedIndividual>
@@ -526,7 +526,7 @@
       <rdfs:label>Gedo</rdfs:label>
       <skos:definition>The region of Gedo in the country of Somalia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Somalia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="so">Gedo</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="so">Gedo</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-so;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-so;"/>
    </owl:NamedIndividual>
@@ -556,7 +556,7 @@
       <rdfs:label>Jubbada Hoose</rdfs:label>
       <skos:definition>The region of Jubbada Hoose in the country of Somalia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Somalia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="so">Jubbada Hoose</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="so">Jubbada Hoose</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-so;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-so;"/>
    </owl:NamedIndividual>
@@ -586,7 +586,7 @@
       <rdfs:label>Nugaal</rdfs:label>
       <skos:definition>The region of Nugaal in the country of Somalia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Somalia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="so">Nugaal</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="so">Nugaal</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-so;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-so;"/>
    </owl:NamedIndividual>
@@ -616,7 +616,7 @@
       <rdfs:label>Togdheer</rdfs:label>
       <skos:definition>The region of Togdheer in the country of Somalia</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Somalia"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="so">Togdheer</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="so">Togdheer</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-so;Region"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-so;"/>
    </owl:NamedIndividual>

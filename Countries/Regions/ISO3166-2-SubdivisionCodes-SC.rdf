@@ -106,9 +106,9 @@
       <rdfs:label>Les Mamelles</rdfs:label>
       <skos:definition>The district of Les Mamelles in the country of Seychelles</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Seychelles"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Les Mamelles</lcc-cr:hasFrenchShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string">Lemamel</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Les Mamelles</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Les Mamelles</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasLocalShortName>Lemamel</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Les Mamelles</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-sc;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-sc;"/>
    </owl:NamedIndividual>
@@ -138,9 +138,9 @@
       <rdfs:label>Beau Vallon</rdfs:label>
       <skos:definition>The district of Beau Vallon in the country of Seychelles</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Seychelles"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Beau Vallon</lcc-cr:hasFrenchShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string">Bovalon</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Beau Vallon</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Beau Vallon</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasLocalShortName>Bovalon</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Beau Vallon</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-sc;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-sc;"/>
    </owl:NamedIndividual>
@@ -170,9 +170,9 @@
       <rdfs:label>Plaisance</rdfs:label>
       <skos:definition>The district of Plaisance in the country of Seychelles</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Seychelles"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Plaisance</lcc-cr:hasFrenchShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Plaisance</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string">Plezans</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Plaisance</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Plaisance</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName>Plezans</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-sc;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-sc;"/>
    </owl:NamedIndividual>
@@ -202,9 +202,9 @@
       <rdfs:label>Glacis</rdfs:label>
       <skos:definition>The district of Glacis in the country of Seychelles</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Seychelles"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Glacis</lcc-cr:hasFrenchShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string">Glasi</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Glacis</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Glacis</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasLocalShortName>Glasi</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Glacis</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-sc;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-sc;"/>
    </owl:NamedIndividual>
@@ -234,9 +234,9 @@
       <rdfs:label>Grand Anse Mahe</rdfs:label>
       <skos:definition>The district of Grand Anse Mahe in the country of Seychelles</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Seychelles"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Grand'Anse Mahé</lcc-cr:hasFrenchShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Grand Anse Mahe</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string">Grand Ans Mae</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Grand'Anse Mahé</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Grand Anse Mahe</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName>Grand Ans Mae</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-sc;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-sc;"/>
    </owl:NamedIndividual>
@@ -266,9 +266,9 @@
       <rdfs:label>Au Cap</rdfs:label>
       <skos:definition>The district of Au Cap in the country of Seychelles</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Seychelles"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string">O Kap</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Au Cap</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Au Cap</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasLocalShortName>O Kap</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Au Cap</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Au Cap</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-sc;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-sc;"/>
    </owl:NamedIndividual>
@@ -298,9 +298,9 @@
       <rdfs:label>Mont Buxton</rdfs:label>
       <skos:definition>The district of Mont Buxton in the country of Seychelles</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Seychelles"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Mont Buxton</lcc-cr:hasFrenchShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string">Mon Bikston</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Mont Buxton</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Mont Buxton</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasLocalShortName>Mon Bikston</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Mont Buxton</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-sc;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-sc;"/>
    </owl:NamedIndividual>
@@ -330,9 +330,9 @@
       <rdfs:label>La Digue</rdfs:label>
       <skos:definition>The district of La Digue in the country of Seychelles</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Seychelles"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string">Ladig</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">La Digue</lcc-cr:hasFrenchShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">La Digue</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName>Ladig</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">La Digue</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">La Digue</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-sc;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-sc;"/>
    </owl:NamedIndividual>
@@ -362,9 +362,9 @@
       <rdfs:label>Pointe Larue</rdfs:label>
       <skos:definition>The district of Pointe Larue in the country of Seychelles</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Seychelles"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string">Pwent Lari</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Pointe La Rue</lcc-cr:hasFrenchShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Pointe Larue</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName>Pwent Lari</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Pointe La Rue</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Pointe Larue</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-sc;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-sc;"/>
    </owl:NamedIndividual>
@@ -394,9 +394,9 @@
       <rdfs:label>Port Glaud</rdfs:label>
       <skos:definition>The district of Port Glaud in the country of Seychelles</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Seychelles"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Port Glaud</lcc-cr:hasFrenchShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Port Glaud</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string">Porglo</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Port Glaud</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Port Glaud</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName>Porglo</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-sc;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-sc;"/>
    </owl:NamedIndividual>
@@ -426,9 +426,9 @@
       <rdfs:label>Takamaka</rdfs:label>
       <skos:definition>The district of Takamaka in the country of Seychelles</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Seychelles"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Takamaka</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Takamaka</lcc-cr:hasFrenchShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string">Takamaka</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Takamaka</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Takamaka</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasLocalShortName>Takamaka</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-sc;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-sc;"/>
    </owl:NamedIndividual>
@@ -458,9 +458,9 @@
       <rdfs:label>Anse Royale</rdfs:label>
       <skos:definition>The district of Anse Royale in the country of Seychelles</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Seychelles"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string">Ans Royal</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Anse Royale</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Anse Royale</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasLocalShortName>Ans Royal</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Anse Royale</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Anse Royale</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-sc;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-sc;"/>
    </owl:NamedIndividual>
@@ -490,9 +490,9 @@
       <rdfs:label>Baie Sainte Anne</rdfs:label>
       <skos:definition>The district of Baie Sainte Anne in the country of Seychelles</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Seychelles"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string">Be Sent Ann</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Baie Sainte-Anne</lcc-cr:hasFrenchShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Baie Sainte Anne</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName>Be Sent Ann</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Baie Sainte-Anne</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Baie Sainte Anne</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-sc;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-sc;"/>
    </owl:NamedIndividual>
@@ -522,9 +522,9 @@
       <rdfs:label>Bel Ombre</rdfs:label>
       <skos:definition>The district of Bel Ombre in the country of Seychelles</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Seychelles"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Bel Ombre</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Bel Ombre</lcc-cr:hasFrenchShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string">Belonm</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Bel Ombre</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Bel Ombre</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasLocalShortName>Belonm</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-sc;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-sc;"/>
    </owl:NamedIndividual>
@@ -554,9 +554,9 @@
       <rdfs:label>Cascade</rdfs:label>
       <skos:definition>The district of Cascade in the country of Seychelles</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Seychelles"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Cascade</lcc-cr:hasFrenchShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Cascade</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string">Kaskad</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Cascade</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Cascade</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName>Kaskad</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-sc;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-sc;"/>
    </owl:NamedIndividual>
@@ -586,9 +586,9 @@
       <rdfs:label>English River</rdfs:label>
       <skos:definition>The district of English River in the country of Seychelles</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Seychelles"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">English River</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string">Larivyer Anglez</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">La Rivière Anglaise</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">English River</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName>Larivyer Anglez</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">La Rivière Anglaise</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-sc;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-sc;"/>
    </owl:NamedIndividual>
@@ -618,9 +618,9 @@
       <rdfs:label>Mont Fleuri</rdfs:label>
       <skos:definition>The district of Mont Fleuri in the country of Seychelles</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Seychelles"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Mont Fleuri</lcc-cr:hasFrenchShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Mont Fleuri</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string">Mon Fleri</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Mont Fleuri</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Mont Fleuri</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName>Mon Fleri</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-sc;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-sc;"/>
    </owl:NamedIndividual>
@@ -650,9 +650,9 @@
       <rdfs:label>Roche Caiman</rdfs:label>
       <skos:definition>The district of Roche Caiman in the country of Seychelles</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Seychelles"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Roche Caïman</lcc-cr:hasFrenchShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Roche Caiman</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string">Ros Kaiman</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Roche Caïman</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Roche Caiman</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName>Ros Kaiman</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-sc;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-sc;"/>
    </owl:NamedIndividual>
@@ -682,9 +682,9 @@
       <rdfs:label>Anse aux Pins</rdfs:label>
       <skos:definition>The district of Anse aux Pins in the country of Seychelles</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Seychelles"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string">Ans o Pen</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Anse aux Pins</lcc-cr:hasFrenchShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Anse aux Pins</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName>Ans o Pen</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Anse aux Pins</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Anse aux Pins</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-sc;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-sc;"/>
    </owl:NamedIndividual>
@@ -714,9 +714,9 @@
       <rdfs:label>Anse Boileau</rdfs:label>
       <skos:definition>The district of Anse Boileau in the country of Seychelles</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Seychelles"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Anse Boileau</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string">Ans Bwalo</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Anse Boileau</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Anse Boileau</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName>Ans Bwalo</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Anse Boileau</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-sc;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-sc;"/>
    </owl:NamedIndividual>
@@ -746,9 +746,9 @@
       <rdfs:label>Bel Air</rdfs:label>
       <skos:definition>The district of Bel Air in the country of Seychelles</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Seychelles"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string">Beler</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Bel Air</lcc-cr:hasFrenchShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Bel Air</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName>Beler</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Bel Air</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Bel Air</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-sc;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-sc;"/>
    </owl:NamedIndividual>
@@ -778,9 +778,9 @@
       <rdfs:label>Grand Anse Praslin</rdfs:label>
       <skos:definition>The district of Grand Anse Praslin in the country of Seychelles</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Seychelles"/>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Grand'Anse Praslin</lcc-cr:hasFrenchShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string">Grand Ans Pralen</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Grand Anse Praslin</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Grand'Anse Praslin</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasLocalShortName>Grand Ans Pralen</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Grand Anse Praslin</lcc-cr:hasEnglishShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-sc;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-sc;"/>
    </owl:NamedIndividual>
@@ -810,9 +810,9 @@
       <rdfs:label>Saint Louis</rdfs:label>
       <skos:definition>The district of Saint Louis in the country of Seychelles</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Seychelles"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Saint Louis</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Saint-Louis</lcc-cr:hasFrenchShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string">Sen Lwi</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Saint Louis</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Saint-Louis</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasLocalShortName>Sen Lwi</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-sc;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-sc;"/>
    </owl:NamedIndividual>
@@ -842,9 +842,9 @@
       <rdfs:label>Anse Etoile</rdfs:label>
       <skos:definition>The district of Anse Etoile in the country of Seychelles</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Seychelles"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string">Ans Etwal</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Anse Etoile</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Anse Étoile</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasLocalShortName>Ans Etwal</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Anse Etoile</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Anse Étoile</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-sc;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-sc;"/>
    </owl:NamedIndividual>
@@ -874,9 +874,9 @@
       <rdfs:label>Baie Lazare</rdfs:label>
       <skos:definition>The district of Baie Lazare in the country of Seychelles</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Seychelles"/>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Baie Lazare</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string">Be Lazar</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Baie Lazare</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Baie Lazare</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasLocalShortName>Be Lazar</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Baie Lazare</lcc-cr:hasFrenchShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-sc;District"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-sc;"/>
    </owl:NamedIndividual>
@@ -906,8 +906,8 @@
       <rdfs:label>Cosmoledo Islands</rdfs:label>
       <skos:definition>The territory of Cosmoledo Islands in the country of Seychelles</skos:definition>
       <lcc-cr:hasNumericRegionCode rdf:datatype="&xsd;string">1047</lcc-cr:hasNumericRegionCode>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">les Îles Cosmoledo</lcc-cr:hasFrenchShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Cosmoledo Islands</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">les Îles Cosmoledo</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Cosmoledo Islands</lcc-cr:hasEnglishShortName>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Seychelles"/>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2;Territory"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-sc;"/>
@@ -925,8 +925,8 @@
       <rdfs:label>Farquhar Islands</rdfs:label>
       <skos:definition>The territory of Farquhar Islands in the country of Seychelles</skos:definition>
       <lcc-cr:hasNumericRegionCode rdf:datatype="&xsd;string">1059</lcc-cr:hasNumericRegionCode>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">les Îles Farquhar</lcc-cr:hasFrenchShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Farquhar Islands</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">les Îles Farquhar</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Farquhar Islands</lcc-cr:hasEnglishShortName>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Seychelles"/>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2;Territory"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-sc;"/>
@@ -944,8 +944,8 @@
       <rdfs:label>Mahé (principal island)</rdfs:label>
       <skos:definition>The territory of Mahé (principal island) in the country of Seychelles</skos:definition>
       <lcc-cr:hasNumericRegionCode rdf:datatype="&xsd;string">1112</lcc-cr:hasNumericRegionCode>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">Mahé (île principale)</lcc-cr:hasFrenchShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Mahé (principal island)</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">Mahé (île principale)</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Mahé (principal island)</lcc-cr:hasEnglishShortName>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Seychelles"/>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2;Territory"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-sc;"/>
@@ -963,8 +963,8 @@
       <rdfs:label>Aldabra Islands</rdfs:label>
       <skos:definition>The territory of Aldabra Islands in the country of Seychelles</skos:definition>
       <lcc-cr:hasNumericRegionCode rdf:datatype="&xsd;string">1225</lcc-cr:hasNumericRegionCode>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">les Îles Aldabra</lcc-cr:hasFrenchShortName>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Aldabra Islands</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">les Îles Aldabra</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Aldabra Islands</lcc-cr:hasEnglishShortName>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Seychelles"/>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2;Territory"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-sc;"/>
@@ -982,8 +982,8 @@
       <rdfs:label>Amirante Islands</rdfs:label>
       <skos:definition>The territory of Amirante Islands in the country of Seychelles</skos:definition>
       <lcc-cr:hasNumericRegionCode rdf:datatype="&xsd;string">1227</lcc-cr:hasNumericRegionCode>
-      <lcc-cr:hasEnglishShortName rdf:datatype="&xsd;string" xml:lang="en">Amirante Islands</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasFrenchShortName rdf:datatype="&xsd;string" xml:lang="fr">les Îles Amirantes</lcc-cr:hasFrenchShortName>
+      <lcc-cr:hasEnglishShortName xml:lang="en">Amirante Islands</lcc-cr:hasEnglishShortName>
+      <lcc-cr:hasFrenchShortName xml:lang="fr">les Îles Amirantes</lcc-cr:hasFrenchShortName>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Seychelles"/>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2;Territory"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-sc;"/>

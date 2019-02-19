@@ -106,7 +106,7 @@
       <rdfs:label>Västra Götalands län [SE-14]</rdfs:label>
       <skos:definition>The county of Västra Götalands län [SE-14] in the country of Sweden</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Sweden"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sv">Västra Götalands län [SE-14]</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sv">Västra Götalands län [SE-14]</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-se;County"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-se;"/>
    </owl:NamedIndividual>
@@ -136,7 +136,7 @@
       <rdfs:label>Gävleborgs län [SE-21]</rdfs:label>
       <skos:definition>The county of Gävleborgs län [SE-21] in the country of Sweden</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Sweden"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sv">Gävleborgs län [SE-21]</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sv">Gävleborgs län [SE-21]</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-se;County"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-se;"/>
    </owl:NamedIndividual>
@@ -166,7 +166,7 @@
       <rdfs:label>Blekinge län [SE-10]</rdfs:label>
       <skos:definition>The county of Blekinge län [SE-10] in the country of Sweden</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Sweden"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sv">Blekinge län [SE-10]</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sv">Blekinge län [SE-10]</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-se;County"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-se;"/>
    </owl:NamedIndividual>
@@ -196,7 +196,7 @@
       <rdfs:label>Västmanlands län [SE-19]</rdfs:label>
       <skos:definition>The county of Västmanlands län [SE-19] in the country of Sweden</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Sweden"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sv">Västmanlands län [SE-19]</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sv">Västmanlands län [SE-19]</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-se;County"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-se;"/>
    </owl:NamedIndividual>
@@ -226,7 +226,7 @@
       <rdfs:label>Dalarnas län [SE-20]</rdfs:label>
       <skos:definition>The county of Dalarnas län [SE-20] in the country of Sweden</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Sweden"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sv">Dalarnas län [SE-20]</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sv">Dalarnas län [SE-20]</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-se;County"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-se;"/>
    </owl:NamedIndividual>
@@ -256,7 +256,7 @@
       <rdfs:label>Västernorrlands län [SE-22]</rdfs:label>
       <skos:definition>The county of Västernorrlands län [SE-22] in the country of Sweden</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Sweden"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sv">Västernorrlands län [SE-22]</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sv">Västernorrlands län [SE-22]</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-se;County"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-se;"/>
    </owl:NamedIndividual>
@@ -286,7 +286,7 @@
       <rdfs:label>Östergötlands län [SE-05]</rdfs:label>
       <skos:definition>The county of Östergötlands län [SE-05] in the country of Sweden</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Sweden"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sv">Östergötlands län [SE-05]</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sv">Östergötlands län [SE-05]</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-se;County"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-se;"/>
    </owl:NamedIndividual>
@@ -316,7 +316,7 @@
       <rdfs:label>Stockholms län [SE-01]</rdfs:label>
       <skos:definition>The county of Stockholms län [SE-01] in the country of Sweden</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Sweden"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sv">Stockholms län [SE-01]</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sv">Stockholms län [SE-01]</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-se;County"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-se;"/>
    </owl:NamedIndividual>
@@ -346,7 +346,7 @@
       <rdfs:label>Södermanlands län [SE-04]</rdfs:label>
       <skos:definition>The county of Södermanlands län [SE-04] in the country of Sweden</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Sweden"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sv">Södermanlands län [SE-04]</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sv">Södermanlands län [SE-04]</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-se;County"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-se;"/>
    </owl:NamedIndividual>
@@ -376,7 +376,7 @@
       <rdfs:label>Kronobergs län [SE-07]</rdfs:label>
       <skos:definition>The county of Kronobergs län [SE-07] in the country of Sweden</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Sweden"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sv">Kronobergs län [SE-07]</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sv">Kronobergs län [SE-07]</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-se;County"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-se;"/>
    </owl:NamedIndividual>
@@ -406,7 +406,7 @@
       <rdfs:label>Jämtlands län [SE-23]</rdfs:label>
       <skos:definition>The county of Jämtlands län [SE-23] in the country of Sweden</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Sweden"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sv">Jämtlands län [SE-23]</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sv">Jämtlands län [SE-23]</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-se;County"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-se;"/>
    </owl:NamedIndividual>
@@ -436,7 +436,7 @@
       <rdfs:label>Gotlands län [SE-09]</rdfs:label>
       <skos:definition>The county of Gotlands län [SE-09] in the country of Sweden</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Sweden"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sv">Gotlands län [SE-09]</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sv">Gotlands län [SE-09]</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-se;County"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-se;"/>
    </owl:NamedIndividual>
@@ -466,7 +466,7 @@
       <rdfs:label>Hallands län [SE-13]</rdfs:label>
       <skos:definition>The county of Hallands län [SE-13] in the country of Sweden</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Sweden"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sv">Hallands län [SE-13]</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sv">Hallands län [SE-13]</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-se;County"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-se;"/>
    </owl:NamedIndividual>
@@ -496,7 +496,7 @@
       <rdfs:label>Värmlands län [SE-17]</rdfs:label>
       <skos:definition>The county of Värmlands län [SE-17] in the country of Sweden</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Sweden"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sv">Värmlands län [SE-17]</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sv">Värmlands län [SE-17]</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-se;County"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-se;"/>
    </owl:NamedIndividual>
@@ -526,7 +526,7 @@
       <rdfs:label>Örebro län [SE-18]</rdfs:label>
       <skos:definition>The county of Örebro län [SE-18] in the country of Sweden</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Sweden"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sv">Örebro län [SE-18]</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sv">Örebro län [SE-18]</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-se;County"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-se;"/>
    </owl:NamedIndividual>
@@ -556,7 +556,7 @@
       <rdfs:label>Norrbottens län [SE-25]</rdfs:label>
       <skos:definition>The county of Norrbottens län [SE-25] in the country of Sweden</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Sweden"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sv">Norrbottens län [SE-25]</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sv">Norrbottens län [SE-25]</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-se;County"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-se;"/>
    </owl:NamedIndividual>
@@ -586,7 +586,7 @@
       <rdfs:label>Jönköpings län [SE-06]</rdfs:label>
       <skos:definition>The county of Jönköpings län [SE-06] in the country of Sweden</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Sweden"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sv">Jönköpings län [SE-06]</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sv">Jönköpings län [SE-06]</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-se;County"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-se;"/>
    </owl:NamedIndividual>
@@ -616,7 +616,7 @@
       <rdfs:label>Västerbottens län [SE-24]</rdfs:label>
       <skos:definition>The county of Västerbottens län [SE-24] in the country of Sweden</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Sweden"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sv">Västerbottens län [SE-24]</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sv">Västerbottens län [SE-24]</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-se;County"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-se;"/>
    </owl:NamedIndividual>
@@ -646,7 +646,7 @@
       <rdfs:label>Uppsala län [SE-03]</rdfs:label>
       <skos:definition>The county of Uppsala län [SE-03] in the country of Sweden</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Sweden"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sv">Uppsala län [SE-03]</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sv">Uppsala län [SE-03]</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-se;County"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-se;"/>
    </owl:NamedIndividual>
@@ -676,7 +676,7 @@
       <rdfs:label>Kalmar län [SE-08]</rdfs:label>
       <skos:definition>The county of Kalmar län [SE-08] in the country of Sweden</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Sweden"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sv">Kalmar län [SE-08]</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sv">Kalmar län [SE-08]</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-se;County"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-se;"/>
    </owl:NamedIndividual>
@@ -706,7 +706,7 @@
       <rdfs:label>Skåne län [SE-12]</rdfs:label>
       <skos:definition>The county of Skåne län [SE-12] in the country of Sweden</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Sweden"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="sv">Skåne län [SE-12]</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="sv">Skåne län [SE-12]</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-se;County"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-se;"/>
    </owl:NamedIndividual>

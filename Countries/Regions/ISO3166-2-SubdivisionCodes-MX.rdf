@@ -113,7 +113,7 @@
       <rdfs:label>Aguascalientes</rdfs:label>
       <skos:definition>The state of Aguascalientes in the country of Mexico</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Mexico"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Aguascalientes</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Aguascalientes</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mx;State"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mx;"/>
    </owl:NamedIndividual>
@@ -143,7 +143,7 @@
       <rdfs:label>Baja California</rdfs:label>
       <skos:definition>The state of Baja California in the country of Mexico</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Mexico"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Baja California</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Baja California</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mx;State"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mx;"/>
    </owl:NamedIndividual>
@@ -173,7 +173,7 @@
       <rdfs:label>Campeche</rdfs:label>
       <skos:definition>The state of Campeche in the country of Mexico</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Mexico"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Campeche</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Campeche</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mx;State"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mx;"/>
    </owl:NamedIndividual>
@@ -203,7 +203,7 @@
       <rdfs:label>Guanajuato</rdfs:label>
       <skos:definition>The state of Guanajuato in the country of Mexico</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Mexico"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Guanajuato</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Guanajuato</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mx;State"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mx;"/>
    </owl:NamedIndividual>
@@ -233,7 +233,7 @@
       <rdfs:label>Morelos</rdfs:label>
       <skos:definition>The state of Morelos in the country of Mexico</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Mexico"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Morelos</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Morelos</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mx;State"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mx;"/>
    </owl:NamedIndividual>
@@ -263,7 +263,7 @@
       <rdfs:label>Ciudad de México</rdfs:label>
       <skos:definition>The federal district of Ciudad de México in the country of Mexico</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Mexico"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Ciudad de México</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Ciudad de México</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mx;FederalDistrict"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mx;"/>
    </owl:NamedIndividual>
@@ -293,7 +293,7 @@
       <rdfs:label>Baja California Sur</rdfs:label>
       <skos:definition>The state of Baja California Sur in the country of Mexico</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Mexico"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Baja California Sur</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Baja California Sur</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mx;State"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mx;"/>
    </owl:NamedIndividual>
@@ -323,7 +323,7 @@
       <rdfs:label>Guerrero</rdfs:label>
       <skos:definition>The state of Guerrero in the country of Mexico</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Mexico"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Guerrero</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Guerrero</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mx;State"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mx;"/>
    </owl:NamedIndividual>
@@ -353,7 +353,7 @@
       <rdfs:label>Hidalgo</rdfs:label>
       <skos:definition>The state of Hidalgo in the country of Mexico</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Mexico"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Hidalgo</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Hidalgo</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mx;State"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mx;"/>
    </owl:NamedIndividual>
@@ -383,7 +383,7 @@
       <rdfs:label>Sonora</rdfs:label>
       <skos:definition>The state of Sonora in the country of Mexico</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Mexico"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Sonora</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Sonora</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mx;State"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mx;"/>
    </owl:NamedIndividual>
@@ -413,7 +413,7 @@
       <rdfs:label>Zacatecas</rdfs:label>
       <skos:definition>The state of Zacatecas in the country of Mexico</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Mexico"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Zacatecas</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Zacatecas</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mx;State"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mx;"/>
    </owl:NamedIndividual>
@@ -443,7 +443,7 @@
       <rdfs:label>Coahuila de Zaragoza</rdfs:label>
       <skos:definition>The state of Coahuila de Zaragoza in the country of Mexico</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Mexico"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Coahuila de Zaragoza</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Coahuila de Zaragoza</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mx;State"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mx;"/>
    </owl:NamedIndividual>
@@ -473,7 +473,7 @@
       <rdfs:label>Colima</rdfs:label>
       <skos:definition>The state of Colima in the country of Mexico</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Mexico"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Colima</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Colima</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mx;State"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mx;"/>
    </owl:NamedIndividual>
@@ -503,7 +503,7 @@
       <rdfs:label>Durango</rdfs:label>
       <skos:definition>The state of Durango in the country of Mexico</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Mexico"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Durango</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Durango</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mx;State"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mx;"/>
    </owl:NamedIndividual>
@@ -533,7 +533,7 @@
       <rdfs:label>Querétaro</rdfs:label>
       <skos:definition>The state of Querétaro in the country of Mexico</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Mexico"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Querétaro</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Querétaro</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mx;State"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mx;"/>
    </owl:NamedIndividual>
@@ -563,7 +563,7 @@
       <rdfs:label>Sinaloa</rdfs:label>
       <skos:definition>The state of Sinaloa in the country of Mexico</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Mexico"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Sinaloa</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Sinaloa</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mx;State"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mx;"/>
    </owl:NamedIndividual>
@@ -593,7 +593,7 @@
       <rdfs:label>Veracruz de Ignacio de la Llave</rdfs:label>
       <skos:definition>The state of Veracruz de Ignacio de la Llave in the country of Mexico</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Mexico"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Veracruz de Ignacio de la Llave</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Veracruz de Ignacio de la Llave</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mx;State"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mx;"/>
    </owl:NamedIndividual>
@@ -623,7 +623,7 @@
       <rdfs:label>Chiapas</rdfs:label>
       <skos:definition>The state of Chiapas in the country of Mexico</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Mexico"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Chiapas</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Chiapas</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mx;State"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mx;"/>
    </owl:NamedIndividual>
@@ -653,7 +653,7 @@
       <rdfs:label>Jalisco</rdfs:label>
       <skos:definition>The state of Jalisco in the country of Mexico</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Mexico"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Jalisco</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Jalisco</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mx;State"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mx;"/>
    </owl:NamedIndividual>
@@ -683,7 +683,7 @@
       <rdfs:label>Puebla</rdfs:label>
       <skos:definition>The state of Puebla in the country of Mexico</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Mexico"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Puebla</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Puebla</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mx;State"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mx;"/>
    </owl:NamedIndividual>
@@ -713,7 +713,7 @@
       <rdfs:label>Quintana Roo</rdfs:label>
       <skos:definition>The state of Quintana Roo in the country of Mexico</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Mexico"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Quintana Roo</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Quintana Roo</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mx;State"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mx;"/>
    </owl:NamedIndividual>
@@ -743,7 +743,7 @@
       <rdfs:label>Tlaxcala</rdfs:label>
       <skos:definition>The state of Tlaxcala in the country of Mexico</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Mexico"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Tlaxcala</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Tlaxcala</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mx;State"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mx;"/>
    </owl:NamedIndividual>
@@ -773,7 +773,7 @@
       <rdfs:label>México</rdfs:label>
       <skos:definition>The state of México in the country of Mexico</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Mexico"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">México</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">México</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mx;State"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mx;"/>
    </owl:NamedIndividual>
@@ -803,7 +803,7 @@
       <rdfs:label>Nayarit</rdfs:label>
       <skos:definition>The state of Nayarit in the country of Mexico</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Mexico"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Nayarit</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Nayarit</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mx;State"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mx;"/>
    </owl:NamedIndividual>
@@ -833,7 +833,7 @@
       <rdfs:label>Oaxaca</rdfs:label>
       <skos:definition>The state of Oaxaca in the country of Mexico</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Mexico"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Oaxaca</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Oaxaca</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mx;State"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mx;"/>
    </owl:NamedIndividual>
@@ -863,7 +863,7 @@
       <rdfs:label>San Luis Potosí</rdfs:label>
       <skos:definition>The state of San Luis Potosí in the country of Mexico</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Mexico"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">San Luis Potosí</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">San Luis Potosí</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mx;State"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mx;"/>
    </owl:NamedIndividual>
@@ -893,7 +893,7 @@
       <rdfs:label>Tabasco</rdfs:label>
       <skos:definition>The state of Tabasco in the country of Mexico</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Mexico"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Tabasco</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Tabasco</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mx;State"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mx;"/>
    </owl:NamedIndividual>
@@ -923,7 +923,7 @@
       <rdfs:label>Chihuahua</rdfs:label>
       <skos:definition>The state of Chihuahua in the country of Mexico</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Mexico"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Chihuahua</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Chihuahua</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mx;State"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mx;"/>
    </owl:NamedIndividual>
@@ -953,7 +953,7 @@
       <rdfs:label>Nuevo León</rdfs:label>
       <skos:definition>The state of Nuevo León in the country of Mexico</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Mexico"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Nuevo León</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Nuevo León</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mx;State"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mx;"/>
    </owl:NamedIndividual>
@@ -983,7 +983,7 @@
       <rdfs:label>Tamaulipas</rdfs:label>
       <skos:definition>The state of Tamaulipas in the country of Mexico</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Mexico"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Tamaulipas</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Tamaulipas</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mx;State"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mx;"/>
    </owl:NamedIndividual>
@@ -1013,7 +1013,7 @@
       <rdfs:label>Yucatán</rdfs:label>
       <skos:definition>The state of Yucatán in the country of Mexico</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Mexico"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Yucatán</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Yucatán</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mx;State"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mx;"/>
    </owl:NamedIndividual>
@@ -1043,7 +1043,7 @@
       <rdfs:label>Michoacán de Ocampo</rdfs:label>
       <skos:definition>The state of Michoacán de Ocampo in the country of Mexico</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;Mexico"/>
-      <lcc-cr:hasLocalShortName rdf:datatype="&xsd;string" xml:lang="es">Michoacán de Ocampo</lcc-cr:hasLocalShortName>
+      <lcc-cr:hasLocalShortName xml:lang="es">Michoacán de Ocampo</lcc-cr:hasLocalShortName>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-mx;State"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-mx;"/>
    </owl:NamedIndividual>
