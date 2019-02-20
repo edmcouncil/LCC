@@ -53,6 +53,7 @@
 
         <sm:contentLanguage rdf:datatype="&xsd;anyURI">http://www.w3.org/standards/techs/owl#w3c_all</sm:contentLanguage>
         <sm:contentLanguage rdf:datatype="&xsd;anyURI">http://www.omg.org/spec/ODM/</sm:contentLanguage>
+        <owl:imports rdf:resource="https://www.omg.org/spec/LCC/AboutLCC/"/>
 
         </owl:Ontology>
 
@@ -65,7 +66,7 @@
     ///////////////////////////////////////////////////////////////////////////////////////
      -->
 
-    <owl:NamedIndividual rdf:about="&lcc-cty;RegionsModule">
+    <owl:NamedIndividual rdf:about="&lcc-reg;RegionsModule">
         <rdf:type rdf:resource="&sm;Module"/>
         <rdfs:label>LCC Regions Module</rdfs:label>
         <skos:definition rdf:datatype="&xsd;string">individual representing metadata about the LCC regions module</skos:definition>
