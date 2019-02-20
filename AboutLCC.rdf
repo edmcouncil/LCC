@@ -39,7 +39,7 @@ Copyright (c) 2015-2017 Unisys</sm:copyright>
 
         <sm:filename rdf:datatype="&xsd;string">AboutLCC.rdf</sm:filename>
         <sm:fileAbbreviation rdf:datatype="&xsd;string">lcc-spc</sm:fileAbbreviation>
-        <owl:versionIRI rdf:resource="https://www.omg.org/spec/LCC/20170801/AboutLCC/"/>
+        <owl:versionIRI rdf:resource="http://www.omg.org/spec/LCC/20170801/AboutLCC/"/>
 
         <sm:publicationDate rdf:datatype="&xsd;dateTime">2017-08-28T18:00:00</sm:publicationDate>
 

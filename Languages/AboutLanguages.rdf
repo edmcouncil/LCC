@@ -43,7 +43,7 @@ Copyright (c) 2015-2017 Unisys
 
         <sm:filename rdf:datatype="&xsd;string">AboutLanguages.rdf</sm:filename>
         <sm:fileAbbreviation rdf:datatype="&xsd;string">lcc-lng</sm:fileAbbreviation>
-        <owl:versionIRI rdf:resource="https://www.omg.org/spec/LCC/20170801/Languages/AboutLanguages/"/>
+        <owl:versionIRI rdf:resource="http://www.omg.org/spec/LCC/20170801/Languages/AboutLanguages/"/>
 
         <sm:publicationDate rdf:datatype="&xsd;dateTime">2017-08-28T18:00:00</sm:publicationDate>
 

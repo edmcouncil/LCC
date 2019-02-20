@@ -42,7 +42,7 @@ Copyright (c) 2015-2017 Unisys</sm:copyright>
 
         <sm:filename rdf:datatype="&xsd;string">AboutLCC-1.0-Regions.rdf</sm:filename>
         <sm:fileAbbreviation rdf:datatype="&xsd;string">lcc-spc-1.0-reg</sm:fileAbbreviation>
-        <owl:versionIRI rdf:resource="https://www.omg.org/spec/LCC/20170801/AboutLCC-1.0-Regions/"/>
+        <owl:versionIRI rdf:resource="http://www.omg.org/spec/LCC/20170801/AboutLCC-1.0-Regions/"/>
 
         <sm:publicationDate rdf:datatype="&xsd;dateTime">2017-08-28T18:00:00</sm:publicationDate>
 

@@ -62,7 +62,7 @@ Copyright (c) 2015-2017 Unisys</sm:copyright>
 
         <sm:filename rdf:datatype="&xsd;string">AboutLCC-1.0.rdf</sm:filename>
         <sm:fileAbbreviation rdf:datatype="&xsd;string">lcc-spc-1.0</sm:fileAbbreviation>
-        <owl:versionIRI rdf:resource="https://www.omg.org/spec/LCC/20170801/AboutLCC-1.0/"/>
+        <owl:versionIRI rdf:resource="http://www.omg.org/spec/LCC/20170801/AboutLCC-1.0/"/>
 
         <skos:changeNote rdf:datatype="&xsd;string">The http://www.omg.org/spec/LCC/20151101/AboutLCC-1.0/ version of this ontology was revised to incorporate the changes required by the LCC 1.0 FTF report.</skos:changeNote>
 
