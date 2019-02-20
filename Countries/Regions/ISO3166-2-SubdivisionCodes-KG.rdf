@@ -4,11 +4,11 @@
     <!ENTITY rdf "http://www.w3.org/1999/02/22-rdf-syntax-ns#" >
     <!ENTITY dct "http://purl.org/dc/terms/" >
     <!ENTITY sm "http://www.omg.org/techprocess/ab/SpecificationMetadata/" >
-    <!ENTITY lcc-lr "http://www.omg.org/spec/LCC/Languages/LanguageRepresentation/" >
-    <!ENTITY lcc-cr "http://www.omg.org/spec/LCC/Countries/CountryRepresentation/" >
-    <!ENTITY lcc-3166-1 "http://www.omg.org/spec/LCC/Countries/ISO3166-1-CountryCodes/" >
-    <!ENTITY lcc-3166-2 "http://www.omg.org/spec/LCC/Countries/ISO3166-2-SubdivisionCodes/" >
-    <!ENTITY lcc-3166-2-kg "http://www.omg.org/spec/LCC/Countries/Regions/ISO3166-2-SubdivisionCodes-KG/" >
+    <!ENTITY lcc-lr "https://www.omg.org/spec/LCC/Languages/LanguageRepresentation/" >
+    <!ENTITY lcc-cr "https://www.omg.org/spec/LCC/Countries/CountryRepresentation/" >
+    <!ENTITY lcc-3166-1 "https://www.omg.org/spec/LCC/Countries/ISO3166-1-CountryCodes/" >
+    <!ENTITY lcc-3166-2 "https://www.omg.org/spec/LCC/Countries/ISO3166-2-SubdivisionCodes/" >
+    <!ENTITY lcc-3166-2-kg "https://www.omg.org/spec/LCC/Countries/Regions/ISO3166-2-SubdivisionCodes-KG/" >
 ]>
 <rdf:RDF xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
          xmlns:owl="http://www.w3.org/2002/07/owl#"
@@ -17,12 +17,12 @@
          xmlns:skos="http://www.w3.org/2004/02/skos/core#"
          xmlns:dct="http://purl.org/dc/terms/"
          xmlns:sm="http://www.omg.org/techprocess/ab/SpecificationMetadata/"
-         xmlns:lcc-lr="http://www.omg.org/spec/LCC/Languages/LanguageRepresentation/"
-         xmlns:lcc-cr="http://www.omg.org/spec/LCC/Countries/CountryRepresentation/"
-         xmlns:lcc-3166-1="http://www.omg.org/spec/LCC/Countries/ISO3166-1-CountryCodes/"
-         xmlns:lcc-3166-2="http://www.omg.org/spec/LCC/Countries/ISO3166-2-SubdivisionCodes/"
-         xmlns:lcc-3166-2-kg="http://www.omg.org/spec/LCC/Countries/Regions/ISO3166-2-SubdivisionCodes-KG/"
-         xml:base="http://www.omg.org/spec/LCC/Countries/Regions/ISO3166-2-SubdivisionCodes-KG/">
+         xmlns:lcc-lr="https://www.omg.org/spec/LCC/Languages/LanguageRepresentation/"
+         xmlns:lcc-cr="https://www.omg.org/spec/LCC/Countries/CountryRepresentation/"
+         xmlns:lcc-3166-1="https://www.omg.org/spec/LCC/Countries/ISO3166-1-CountryCodes/"
+         xmlns:lcc-3166-2="https://www.omg.org/spec/LCC/Countries/ISO3166-2-SubdivisionCodes/"
+         xmlns:lcc-3166-2-kg="https://www.omg.org/spec/LCC/Countries/Regions/ISO3166-2-SubdivisionCodes-KG/"
+         xml:base="https://www.omg.org/spec/LCC/Countries/Regions/ISO3166-2-SubdivisionCodes-KG/">
 
   <!--
     ///////////////////////////////////////////////////////////////////////////////////////
@@ -31,7 +31,7 @@
     //
     ///////////////////////////////////////////////////////////////////////////////////////
     -->
-   <owl:Ontology rdf:about="http://www.omg.org/spec/LCC/Countries/Regions/ISO3166-2-SubdivisionCodes-KG/">
+   <owl:Ontology rdf:about="https://www.omg.org/spec/LCC/Countries/Regions/ISO3166-2-SubdivisionCodes-KG/">
       <rdfs:label> ISO 3166-2 Subdivision Codes for Kyrgyzstan Ontology</rdfs:label>
 
       <!-- Curation and Rights Metadata for the LCC ISO 3166-2 Subdivision Codes for Kyrgyzstan Ontology -->
@@ -47,25 +47,25 @@
 
       <sm:filename rdf:datatype="&xsd;string">ISO3166-2-SubdivisionCodes-KG.rdf</sm:filename>
       <sm:fileAbbreviation rdf:datatype="&xsd;string">lcc-3166-2-kg</sm:fileAbbreviation>
-      <owl:versionIRI rdf:resource="http://www.omg.org/spec/LCC/20190201/Countries/Regions/ISO3166-2-SubdivisionCodes-KG/"/>
+      <owl:versionIRI rdf:resource="https://www.omg.org/spec/LCC/20190201/Countries/Regions/ISO3166-2-SubdivisionCodes-KG/"/>
       <sm:fileAbstract rdf:datatype="&xsd;string">This ontology represents the subset of the ISO 3166 standard that includes the actual ISO 3166-2 subdivision codes for Kyrgyzstan, with the ontology and codes for the other parts of the standard represented in models that this ontology depends on.</sm:fileAbstract>
       <dct:issued rdf:datatype="&xsd;dateTime">2019-02-14T00:48:51.124818+01:00</dct:issued>
 
-      <sm:dependsOn rdf:datatype="&xsd;anyURI">http://www.omg.org/spec/LCC/Languages/LanguageRepresentation/</sm:dependsOn>
-      <sm:dependsOn rdf:datatype="&xsd;anyURI">http://www.omg.org/spec/LCC/Countries/CountryRepresentation/</sm:dependsOn>
-      <sm:dependsOn rdf:datatype="&xsd;anyURI">http://www.omg.org/spec/LCC/Countries/ISO3166-1-CountryCodes/</sm:dependsOn>
-      <sm:dependsOn rdf:datatype="&xsd;anyURI">http://www.omg.org/spec/LCC/Countries/ISO3166-2-SubdivisionCodes/</sm:dependsOn>
+      <sm:dependsOn rdf:datatype="&xsd;anyURI">https://www.omg.org/spec/LCC/Languages/LanguageRepresentation/</sm:dependsOn>
+      <sm:dependsOn rdf:datatype="&xsd;anyURI">https://www.omg.org/spec/LCC/Countries/CountryRepresentation/</sm:dependsOn>
+      <sm:dependsOn rdf:datatype="&xsd;anyURI">https://www.omg.org/spec/LCC/Countries/ISO3166-1-CountryCodes/</sm:dependsOn>
+      <sm:dependsOn rdf:datatype="&xsd;anyURI">https://www.omg.org/spec/LCC/Countries/ISO3166-2-SubdivisionCodes/</sm:dependsOn>
 
       <sm:contentLanguage rdf:datatype="&xsd;anyURI">http://www.w3.org/standards/techs/owl#w3c_all</sm:contentLanguage>
       <sm:contentLanguage rdf:datatype="&xsd;anyURI">http://www.omg.org/spec/ODM/</sm:contentLanguage>
 
-      <rdfs:seeAlso rdf:resource="http://www.omg.org/spec/LCC/AboutLCC/"/>
-      <rdfs:seeAlso rdf:resource="http://www.omg.org/spec/LCC/Countries/AboutCountries/"/>
+      <rdfs:seeAlso rdf:resource="https://www.omg.org/spec/LCC/AboutLCC/"/>
+      <rdfs:seeAlso rdf:resource="https://www.omg.org/spec/LCC/Countries/AboutCountries/"/>
 
-      <owl:imports rdf:resource="http://www.omg.org/spec/LCC/Languages/LanguageRepresentation/"/>
-      <owl:imports rdf:resource="http://www.omg.org/spec/LCC/Countries/CountryRepresentation/"/>
-      <owl:imports rdf:resource="http://www.omg.org/spec/LCC/Countries/ISO3166-1-CountryCodes/"/>
-      <owl:imports rdf:resource="http://www.omg.org/spec/LCC/Countries/ISO3166-2-SubdivisionCodes/"/>
+      <owl:imports rdf:resource="https://www.omg.org/spec/LCC/Languages/LanguageRepresentation/"/>
+      <owl:imports rdf:resource="https://www.omg.org/spec/LCC/Countries/CountryRepresentation/"/>
+      <owl:imports rdf:resource="https://www.omg.org/spec/LCC/Countries/ISO3166-1-CountryCodes/"/>
+      <owl:imports rdf:resource="https://www.omg.org/spec/LCC/Countries/ISO3166-2-SubdivisionCodes/"/>
 
    </owl:Ontology>
 

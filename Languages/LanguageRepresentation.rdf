@@ -8,10 +8,10 @@
     <!ENTITY dct "http://purl.org/dc/terms/" >
     <!ENTITY skos "http://www.w3.org/2004/02/skos/core#" >
     <!ENTITY sm "http://www.omg.org/techprocess/ab/SpecificationMetadata/" >
-    <!ENTITY lcc-lr "http://www.omg.org/spec/LCC/Languages/LanguageRepresentation/" >
+    <!ENTITY lcc-lr "https://www.omg.org/spec/LCC/Languages/LanguageRepresentation/" >
 ]>
 
-<rdf:RDF xml:base="http://www.omg.org/spec/LCC/Languages/LanguageRepresentation/"
+<rdf:RDF xml:base="https://www.omg.org/spec/LCC/Languages/LanguageRepresentation/"
      xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
      xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
      xmlns:owl="http://www.w3.org/2002/07/owl#"
@@ -19,10 +19,10 @@
      xmlns:dct="http://purl.org/dc/terms/"
      xmlns:skos="http://www.w3.org/2004/02/skos/core#"
 	 xmlns:sm="http://www.omg.org/techprocess/ab/SpecificationMetadata/"
-     xmlns:lcc-lr="http://www.omg.org/spec/LCC/Languages/LanguageRepresentation/">
+     xmlns:lcc-lr="https://www.omg.org/spec/LCC/Languages/LanguageRepresentation/">
 
 
-    <owl:Ontology rdf:about="http://www.omg.org/spec/LCC/Languages/LanguageRepresentation/">
+    <owl:Ontology rdf:about="https://www.omg.org/spec/LCC/Languages/LanguageRepresentation/">
         <rdfs:label>Language Representation Ontology</rdfs:label>
 
 
@@ -40,7 +40,7 @@ Copyright (c) 2015-2017 Unisys
 
         <sm:filename rdf:datatype="&xsd;string">LanguageRepresentation.rdf</sm:filename>
         <sm:fileAbbreviation rdf:datatype="&xsd;string">lcc-lr</sm:fileAbbreviation>
-        <owl:versionIRI rdf:resource="http://www.omg.org/spec/LCC/20170801/Languages/LanguageRepresentation/"/>
+        <owl:versionIRI rdf:resource="https://www.omg.org/spec/LCC/20170801/Languages/LanguageRepresentation/"/>
         <sm:fileAbstract rdf:datatype="&xsd;string">This ontology, based on ISO 639 as well as the language element of the Language Tag specified in BCP 47 (RFC 4646, RFC 4647), provides a systemic description of the vocabulary used for language representation, including natural and artificial languages. 
 
 ISO 639 provides two language codes, one as a two-letter code (ISO 639-1) and another as a three-letter code (ISO 639-2, ISO 639-3, ISO 639-5) for the representation of names of languages.  ISO 639-1 was devised primarily for use in terminology, lexicography, and linguistics.  ISO 639-2 represents all of the languages contained in ISO 639-1, additional languages and language groups, as they may be coded for special purposes when more specificity in coding is needed.  The languages listed in ISO 639-1 are a subset of the languages listed in ISO 639-2; every language code element in the two-letter code has a corresponding language code element in the three-letter code, but not necessarily vice versa.  ISO 639-4 provides the basis for describing languages, as defined in this ontology, and additional codes are provided in 639-5 and other parts of the standard, again with more details about macrolanguages, other lesser known independent languages, and special language groups.
@@ -88,8 +88,8 @@ This ontology (Language Representation) defines the model for the standard, base
         <sm:contentLanguage rdf:datatype="&xsd;anyURI">http://www.omg.org/spec/ODM/</sm:contentLanguage>
         <sm:contentLanguage rdf:datatype="&xsd;anyURI">http://www.w3.org/standards/techs/owl#w3c_all</sm:contentLanguage>
 
-        <rdfs:seeAlso rdf:resource="http://www.omg.org/spec/LCC/AboutLCC/"/>
-        <rdfs:seeAlso rdf:resource="http://www.omg.org/spec/LCC/Languages/AboutLanguages/"/> 
+        <rdfs:seeAlso rdf:resource="https://www.omg.org/spec/LCC/AboutLCC/"/>
+        <rdfs:seeAlso rdf:resource="https://www.omg.org/spec/LCC/Languages/AboutLanguages/"/> 
 
         <owl:imports rdf:resource="http://www.omg.org/techprocess/ab/SpecificationMetadata/"/>
 
