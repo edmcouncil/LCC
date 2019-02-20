@@ -8,12 +8,12 @@
     <!ENTITY dct "http://purl.org/dc/terms/" >
     <!ENTITY skos "http://www.w3.org/2004/02/skos/core#" >
     <!ENTITY sm "http://www.omg.org/techprocess/ab/SpecificationMetadata/" >
-    <!ENTITY lcc-spc "http://www.omg.org/spec/LCC/AboutLCC/" >
-    <!ENTITY lcc-cty "http://www.omg.org/spec/LCC/Countries/AboutCountries/" >
+    <!ENTITY lcc-spc "https://www.omg.org/spec/LCC/AboutLCC/" >
+    <!ENTITY lcc-cty "https://www.omg.org/spec/LCC/Countries/AboutCountries/" >
 ]>
 
 <rdf:RDF 
-xml:base="http://www.omg.org/spec/LCC/Countries/AboutCountries/"
+xml:base="https://www.omg.org/spec/LCC/Countries/AboutCountries/"
      xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
      xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
      xmlns:owl="http://www.w3.org/2002/07/owl#"
@@ -21,11 +21,11 @@ xml:base="http://www.omg.org/spec/LCC/Countries/AboutCountries/"
      xmlns:dct="http://purl.org/dc/terms/"
      xmlns:skos="http://www.w3.org/2004/02/skos/core#"
 	 xmlns:sm="http://www.omg.org/techprocess/ab/SpecificationMetadata/"
-     xmlns:lcc-spc="http://www.omg.org/spec/LCC/AboutLCC/"
-     xmlns:lcc-cty="http://www.omg.org/spec/LCC/Countries/AboutCountries/">
+     xmlns:lcc-spc="https://www.omg.org/spec/LCC/AboutLCC/"
+     xmlns:lcc-cty="https://www.omg.org/spec/LCC/Countries/AboutCountries/">
 
 
-    <owl:Ontology rdf:about="http://www.omg.org/spec/LCC/Countries/AboutCountries/">
+    <owl:Ontology rdf:about="https://www.omg.org/spec/LCC/Countries/AboutCountries/">
         <rdfs:label>About the Languages, Countries and Codes (LCC) Countries Module</rdfs:label>
 
 
@@ -53,7 +53,7 @@ Copyright (c) 2015-2017 Unisys
         <sm:contentLanguage rdf:datatype="&xsd;anyURI">http://www.omg.org/spec/ODM/</sm:contentLanguage>
 
 
-        <owl:imports rdf:resource="http://www.omg.org/spec/LCC/AboutLCC/"/>
+        <owl:imports rdf:resource="https://www.omg.org/spec/LCC/AboutLCC/"/>
     </owl:Ontology>
 
 
@@ -74,7 +74,7 @@ Copyright (c) 2015-2017 Unisys
         <sm:moduleVersion rdf:datatype="&xsd;string">1.0</sm:moduleVersion>
         <sm:moduleAbstract rdf:datatype="&xsd;string">This module contains ontologies representing countries, territories, subdivisions, and other geopolitical entities commonly used in business, scientific, and government systems and applications.  The main body of the module is designed to support ISO 3166 and the U.N. M49 region codes as normative a-box extensions, as well as the country element of the Language Tag specified in BCP 47 (RFC 4646, RFC 4647).  It is intended to provide a systematic description of the vocabulary used for country representation in applications requiring geophysical and geopolitical concepts derived from, or in compliance with ISO 3166 and M49, including but not limited to web-based applications.  It is also compatible with the GeoNames ontology, but represents only a subset of the content provided in GeoNames.</sm:moduleAbstract>
 
-        <rdfs:seeAlso rdf:resource="http://www.omg.org/spec/LCC/AboutLCC/"/>
+        <rdfs:seeAlso rdf:resource="https://www.omg.org/spec/LCC/AboutLCC/"/>
     </owl:NamedIndividual>
 
 </rdf:RDF>
