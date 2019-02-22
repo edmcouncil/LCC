@@ -20,7 +20,7 @@
      xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
      xmlns:dct="http://purl.org/dc/terms/"
      xmlns:skos="http://www.w3.org/2004/02/skos/core#"
-	   xmlns:sm="http://www.omg.org/techprocess/ab/SpecificationMetadata/"
+	 xmlns:sm="http://www.omg.org/techprocess/ab/SpecificationMetadata/"
      xmlns:lcc-spc="https://www.omg.org/spec/LCC/AboutLCC/"
      xmlns:lcc-spc-1.1-reg="https://www.omg.org/spec/LCC/1.1/AboutLCC-1.1-Regions/">
 
@@ -48,7 +48,9 @@ Copyright (c) 2015-2017 Unisys</sm:copyright>
 
         <sm:contentLanguage rdf:datatype="&xsd;anyURI">http://www.w3.org/standards/techs/owl#w3c_all</sm:contentLanguage>
         <sm:contentLanguage rdf:datatype="&xsd;anyURI">http://www.omg.org/spec/ODM/</sm:contentLanguage>
-
+      
+	  <owl:imports rdf:resource="https://www.omg.org/spec/LCC/1.1/AboutLCC-1.1/"/>
+		
       <owl:imports rdf:resource="https://www.omg.org/spec/LCC/Countries/Regions/ISO3166-2-SubdivisionCodes-AD/"/>
       <owl:imports rdf:resource="https://www.omg.org/spec/LCC/Countries/Regions/ISO3166-2-SubdivisionCodes-AE/"/>
       <owl:imports rdf:resource="https://www.omg.org/spec/LCC/Countries/Regions/ISO3166-2-SubdivisionCodes-AF/"/>

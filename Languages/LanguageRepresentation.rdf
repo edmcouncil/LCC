@@ -170,6 +170,7 @@ This ontology (Language Representation) defines the model for the standard, base
     <owl:DatatypeProperty rdf:about="&lcc-lr;hasName">
         <rdfs:label>has name</rdfs:label>
         <skos:definition rdf:datatype="&xsd;string">associates a name, reference name, or appellation with an individual concept</skos:definition>
+		<skos:note rdf:datatype="&xsd;string">Note that the hasName properties defined herein have an implicit range of rdfs:Literal.  This is purposeful, so that users can specify any element that has a name with or without a language tag without concern for conflicting datatypes (i.e., xsd:string vs. rdf:langString, which are logically disjoint).</skos:note>
         <dct:source rdf:datatype="&xsd;string">Section 3.4, ISO 639-3</dct:source>
         <rdfs:isDefinedBy rdf:resource="&lcc-lr;"/>
 	</owl:DatatypeProperty>

@@ -82,6 +82,7 @@ Copyright (c) 2015-2017 Unisys</sm:copyright>
         <owl:imports rdf:resource="https://www.omg.org/spec/LCC/Countries/CountryRepresentation/"/>
         <owl:imports rdf:resource="https://www.omg.org/spec/LCC/Countries/ISO3166-1-CountryCodes/"/>
         <owl:imports rdf:resource="https://www.omg.org/spec/LCC/Countries/ISO3166-2-SubdivisionCodes/"/>
+		<owl:imports rdf:resource="https://www.omg.org/spec/LCC/Countries/UN-M49-RegionCodes/"/>
 
     </owl:Ontology>
 
