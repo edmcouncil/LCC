@@ -19,7 +19,7 @@
      xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
      xmlns:dct="http://purl.org/dc/terms/"
      xmlns:skos="http://www.w3.org/2004/02/skos/core#"
-xmlns:sm="http://www.omg.org/techprocess/ab/SpecificationMetadata/"
+     xmlns:sm="http://www.omg.org/techprocess/ab/SpecificationMetadata/"
      xmlns:lcc-lr="https://www.omg.org/spec/LCC/Languages/LanguageRepresentation/"
      xmlns:lcc-cr="https://www.omg.org/spec/LCC/Countries/CountryRepresentation/">
 
@@ -30,11 +30,10 @@ xmlns:sm="http://www.omg.org/techprocess/ab/SpecificationMetadata/"
 
     <!-- Curation and Rights Metadata for the LCC Country and Subdivision Representation Ontology -->
 
-        <sm:copyright rdf:datatype="&xsd;string">Copyright (c) 2015-2017 Object Management Group, Inc.
-Copyright (c) 2015-2017 Adaptive Inc.
-Copyright (c) 2015-2017 Thematix Partners LLC
-Copyright (c) 2015-2017 Unisys
-</sm:copyright>
+        <sm:copyright rdf:datatype="&xsd;string">Copyright (c) 2015-2019 Object Management Group, Inc.</sm:copyright>
+        <sm:copyright>Copyright (c) 2015-2019 Adaptive Inc.</sm:copyright>
+        <sm:copyright>Copyright (c) 2015-2019 Thematix Partners LLC</sm:copyright>
+        <sm:copyright>Copyright (c) 2015-2017 Unisys</sm:copyright>
         <dct:license rdf:resource="http://www.omg.org/techprocess/ab/SpecificationMetadata/MITLicense"/>
 
 
@@ -42,7 +41,7 @@ Copyright (c) 2015-2017 Unisys
 
         <sm:filename rdf:datatype="&xsd;string">CountryRepresentation.rdf</sm:filename>
         <sm:fileAbbreviation rdf:datatype="&xsd;string">lcc-cr</sm:fileAbbreviation>
-        <owl:versionIRI rdf:resource="http://www.omg.org/spec/LCC/20170801/Countries/CountryRepresentation/"/>
+        <owl:versionIRI rdf:resource="https://www.omg.org/spec/LCC/20190201/Countries/CountryRepresentation/"/>
         <sm:fileAbstract rdf:datatype="&xsd;string">The purpose of the Country Representation ontology, based on ISO 3166 and other representations of geographic regions and countries, such as the ISO Online Browsing Platform, UN M49 Region codes, SWIFT registry, UN FAO and CIA World Factbook, FIPA and International Olympics codes for countries, and GeoNames, is to provide a systematic description of the vocabulary used for country and geopolitical entity representation (based strictly on requirements for business applications, not broader geographic or political uses). A few additional properties to support geophysical coordinates, identified in the UN FAO and CIA World Factbook as well as from the well-known GeoNames ontology, have been added, but extensions to support other coding systems, such as the FAOSTAT code, have not been included.
 
 ISO 3166 provides widely, though not universally, applicable coded representations of names of countries, dependencies, and other areas of particular geopolitical interest and their subdivisions.
@@ -63,6 +62,7 @@ This ontology provides a reference model to support the first two parts of ISO 3
         <sm:relatedSpecification rdf:datatype="&xsd;string">International Olympic Committee list of national committees and their representation, see https://www.olympic.org/national-olympic-committees</sm:relatedSpecification>
 
         <skos:changeNote rdf:datatype="&xsd;string">The http://www.omg.org/spec/LCC/20151101/Countries/CountryRepresentation.rdf version of this ontology has been revised to reflect the issues addressed by the LCC 1.0 FTF report. This includes generalizing the ontology to accommodate country and region coding systems in addition to the ISO 3166 codes, providing some flexibility to use this ontology as the schema to support integration and use of other systems.  Such coding systems might include governmental and corporate distinctions from the codes published by the U.N. and standardized by ISO, or reflect domain-specific codes such as the International Olympic Committee, International Federation of Association Football (FIFA), or other international or national sporting organizations. The structure of the ontologies representing the codes themselves has been revised to support an ontology per country for the subdivision codes, so that users can leverage only those they need rather than having to load close to five thousand individuals for applications requiring a small subset of that number. Generation of the country and subdivision ontologies is entirely automated to facilitate change management going forward.</skos:changeNote>
+		<skos:changeNote rdf:datatype="&xsd;string">The http://www.omg.org/spec/LCC/20171801/Countries/CountryRepresentation.rdf version of this ontology was revised loosen the range constraints on the hasName properties to enable use of language tags, as stated in the LCC 1.1 RTF report.</skos:changeNote>
         <sm:dependsOn rdf:datatype="&xsd;anyURI">https://www.omg.org/spec/LCC/Languages/LanguageRepresentation/</sm:dependsOn>
 
         <sm:contentLanguage rdf:datatype="&xsd;anyURI">http://www.w3.org/standards/techs/owl#w3c_all</sm:contentLanguage>
@@ -167,7 +167,7 @@ This ontology provides a reference model to support the first two parts of ISO 3
         <rdfs:label>has English full name</rdfs:label>
         <skos:definition rdf:datatype="&xsd;string">the full name, if different from the short form of the country name, in lower case</skos:definition>
         <rdfs:subPropertyOf rdf:resource="&lcc-lr;hasEnglishName"/>
-        <rdfs:range rdf:resource="&xsd;string"/>
+		<rdfs:range rdf:resource="&rdfs;Literal"/>
         <rdfs:isDefinedBy rdf:resource="&lcc-cr;"/>
     </owl:DatatypeProperty>
     
@@ -175,7 +175,7 @@ This ontology provides a reference model to support the first two parts of ISO 3
         <rdfs:label>has English short name</rdfs:label>
         <skos:definition rdf:datatype="&xsd;string">the short form of the country name, in English</skos:definition>
         <rdfs:subPropertyOf rdf:resource="&lcc-lr;hasEnglishName"/>
-        <rdfs:range rdf:resource="&xsd;string"/>
+		<rdfs:range rdf:resource="&rdfs;Literal"/>
         <rdfs:isDefinedBy rdf:resource="&lcc-cr;"/>
     </owl:DatatypeProperty>
     
@@ -183,7 +183,7 @@ This ontology provides a reference model to support the first two parts of ISO 3
         <rdfs:label>has English short name in capitals</rdfs:label>
         <skos:definition rdf:datatype="&xsd;string">the short form of the country name, in English (capitals)</skos:definition>
         <rdfs:subPropertyOf rdf:resource="&lcc-lr;hasEnglishName"/>
-        <rdfs:range rdf:resource="&xsd;string"/>
+		<rdfs:range rdf:resource="&rdfs;Literal"/>
         <rdfs:isDefinedBy rdf:resource="&lcc-cr;"/>
     </owl:DatatypeProperty>
     
@@ -191,7 +191,7 @@ This ontology provides a reference model to support the first two parts of ISO 3
         <rdfs:label>has French full name</rdfs:label>
         <skos:definition rdf:datatype="&xsd;string">the full name, if different from the short form of the country name, in lower case</skos:definition>
         <rdfs:subPropertyOf rdf:resource="&lcc-lr;hasFrenchName"/>
-        <rdfs:range rdf:resource="&xsd;string"/>
+		<rdfs:range rdf:resource="&rdfs;Literal"/>
         <rdfs:isDefinedBy rdf:resource="&lcc-cr;"/>
     </owl:DatatypeProperty>
     
@@ -199,7 +199,7 @@ This ontology provides a reference model to support the first two parts of ISO 3
         <rdfs:label>has French short name</rdfs:label>
         <skos:definition rdf:datatype="&xsd;string">the short form of the country name, in French</skos:definition>
         <rdfs:subPropertyOf rdf:resource="&lcc-lr;hasFrenchName"/>
-        <rdfs:range rdf:resource="&xsd;string"/>
+		<rdfs:range rdf:resource="&rdfs;Literal"/>
         <rdfs:isDefinedBy rdf:resource="&lcc-cr;"/>
     </owl:DatatypeProperty>
     
@@ -207,7 +207,7 @@ This ontology provides a reference model to support the first two parts of ISO 3
         <rdfs:label>has French short name in capitals</rdfs:label>
         <skos:definition rdf:datatype="&xsd;string">the short form of the country name, in French (capitals)</skos:definition>
         <rdfs:subPropertyOf rdf:resource="&lcc-lr;hasFrenchName"/>
-        <rdfs:range rdf:resource="&xsd;string"/>
+		<rdfs:range rdf:resource="&rdfs;Literal"/>
         <rdfs:isDefinedBy rdf:resource="&lcc-cr;"/>
     </owl:DatatypeProperty>
     
@@ -236,7 +236,7 @@ This ontology provides a reference model to support the first two parts of ISO 3
         <rdfs:label>has local short name</rdfs:label>
         <skos:definition rdf:datatype="&xsd;string">the local, regional, cultural, or indigenous short form of the country name</skos:definition>
         <rdfs:subPropertyOf rdf:resource="&lcc-lr;hasName"/>
-        <rdfs:range rdf:resource="&xsd;string"/>
+		<rdfs:range rdf:resource="&rdfs;Literal"/>
         <rdfs:isDefinedBy rdf:resource="&lcc-cr;"/>
     </owl:DatatypeProperty>
     
@@ -356,42 +356,42 @@ This ontology provides a reference model to support the first two parts of ISO 3
         <rdfs:subClassOf>
             <owl:Restriction>
                 <owl:onProperty rdf:resource="&lcc-cr;hasEnglishShortName"/>
-                <owl:onDataRange rdf:resource="&xsd;string"/>
+                <owl:onDataRange rdf:resource="&rdfs;Literal"/>
                 <owl:qualifiedCardinality rdf:datatype="&xsd;nonNegativeInteger">1</owl:qualifiedCardinality>
             </owl:Restriction>
         </rdfs:subClassOf>
         <rdfs:subClassOf>
             <owl:Restriction>
                 <owl:onProperty rdf:resource="&lcc-cr;hasFrenchShortNameInCapitals"/>
-                <owl:onDataRange rdf:resource="&xsd;string"/>
+                <owl:onDataRange rdf:resource="&rdfs;Literal"/>
                 <owl:qualifiedCardinality rdf:datatype="&xsd;nonNegativeInteger">1</owl:qualifiedCardinality>
             </owl:Restriction>
         </rdfs:subClassOf>
         <rdfs:subClassOf>
             <owl:Restriction>
                 <owl:onProperty rdf:resource="&lcc-cr;hasEnglishShortNameInCapitals"/>
-                <owl:onDataRange rdf:resource="&xsd;string"/>
+                <owl:onDataRange rdf:resource="&rdfs;Literal"/>
                 <owl:qualifiedCardinality rdf:datatype="&xsd;nonNegativeInteger">1</owl:qualifiedCardinality>
             </owl:Restriction>
         </rdfs:subClassOf>
         <rdfs:subClassOf>
             <owl:Restriction>
                 <owl:onProperty rdf:resource="&lcc-cr;hasFrenchShortName"/>
-                <owl:onDataRange rdf:resource="&xsd;string"/>
+                <owl:onDataRange rdf:resource="&rdfs;Literal"/>
                 <owl:qualifiedCardinality rdf:datatype="&xsd;nonNegativeInteger">1</owl:qualifiedCardinality>
             </owl:Restriction>
         </rdfs:subClassOf>
         <rdfs:subClassOf>
             <owl:Restriction>
                 <owl:onProperty rdf:resource="&lcc-cr;hasEnglishFullName"/>
-                <owl:onDataRange rdf:resource="&xsd;string"/>
+                <owl:onDataRange rdf:resource="&rdfs;Literal"/>
                 <owl:maxQualifiedCardinality rdf:datatype="&xsd;nonNegativeInteger">1</owl:maxQualifiedCardinality>
             </owl:Restriction>
         </rdfs:subClassOf>
         <rdfs:subClassOf>
             <owl:Restriction>
                 <owl:onProperty rdf:resource="&lcc-cr;hasFrenchFullName"/>
-                <owl:onDataRange rdf:resource="&xsd;string"/>
+                <owl:onDataRange rdf:resource="&rdfs;Literal"/>
                 <owl:maxQualifiedCardinality rdf:datatype="&xsd;nonNegativeInteger">1</owl:maxQualifiedCardinality>
             </owl:Restriction>
         </rdfs:subClassOf>
