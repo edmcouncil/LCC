@@ -170,7 +170,6 @@ This ontology (Language Representation) defines the model for the standard, base
     <owl:DatatypeProperty rdf:about="&lcc-lr;hasName">
         <rdfs:label>has name</rdfs:label>
         <skos:definition rdf:datatype="&xsd;string">associates a name, reference name, or appellation with an individual concept</skos:definition>
-		<rdfs:range rdf:resource="&rdfs;Literal"/>
         <dct:source rdf:datatype="&xsd;string">Section 3.4, ISO 639-3</dct:source>
         <rdfs:isDefinedBy rdf:resource="&lcc-lr;"/>
 	</owl:DatatypeProperty>
@@ -179,7 +178,6 @@ This ontology (Language Representation) defines the model for the standard, base
         <rdfs:label>has English name</rdfs:label>
         <skos:definition rdf:datatype="&xsd;string">associates a name in English with an individual concept</skos:definition>
         <rdfs:subPropertyOf rdf:resource="&lcc-lr;hasName"/>
-		<rdfs:range rdf:resource="&rdfs;Literal"/>
         <dct:source rdf:datatype="&xsd;string">Section 3.4, ISO 639-3</dct:source>
         <rdfs:isDefinedBy rdf:resource="&lcc-lr;"/>
 	</owl:DatatypeProperty>
@@ -188,7 +186,6 @@ This ontology (Language Representation) defines the model for the standard, base
         <rdfs:label>has French name</rdfs:label>
         <skos:definition rdf:datatype="&xsd;string">associates a name in French with an individual concept</skos:definition>
         <rdfs:subPropertyOf rdf:resource="&lcc-lr;hasName"/>
-		<rdfs:range rdf:resource="&rdfs;Literal"/>
         <dct:source rdf:datatype="&xsd;string">Section 3.4, ISO 639-3</dct:source>
         <rdfs:isDefinedBy rdf:resource="&lcc-lr;"/>
 	</owl:DatatypeProperty>
@@ -197,7 +194,6 @@ This ontology (Language Representation) defines the model for the standard, base
         <rdfs:label>has German name</rdfs:label>
         <skos:definition rdf:datatype="&xsd;string">associates a name in German with an individual concept</skos:definition>
         <rdfs:subPropertyOf rdf:resource="&lcc-lr;hasName"/>
-		<rdfs:range rdf:resource="&rdfs;Literal"/>
         <rdfs:isDefinedBy rdf:resource="&lcc-lr;"/>
 	</owl:DatatypeProperty>
     
@@ -205,7 +201,6 @@ This ontology (Language Representation) defines the model for the standard, base
         <rdfs:label>has indigenous name</rdfs:label>
         <skos:definition rdf:datatype="&xsd;string">associates a local regional or cultural name with an individual concept</skos:definition>
         <rdfs:subPropertyOf rdf:resource="&lcc-lr;hasName"/>
-		<rdfs:range rdf:resource="&rdfs;Literal"/>
         <dct:source rdf:datatype="&xsd;string">Section 3.4, ISO 639-3</dct:source>
         <rdfs:isDefinedBy rdf:resource="&lcc-lr;"/>
 	</owl:DatatypeProperty>
@@ -460,13 +455,13 @@ This ontology (Language Representation) defines the model for the standard, base
         <rdfs:subClassOf>
             <owl:Restriction>
                 <owl:onProperty rdf:resource="&lcc-lr;hasGermanName"/>
-                <owl:allValuesFrom rdf:resource="&rdfs;Literal"/>
+                <owl:minCardinality rdf:datatype="&xsd;nonNegativeInteger">0</owl:minCardinality>
             </owl:Restriction>
         </rdfs:subClassOf>
         <rdfs:subClassOf>
             <owl:Restriction>
                 <owl:onProperty rdf:resource="&lcc-lr;hasIndigenousName"/>
-                <owl:allValuesFrom rdf:resource="&rdfs;Literal"/>
+                <owl:minCardinality rdf:datatype="&xsd;nonNegativeInteger">0</owl:minCardinality>
             </owl:Restriction>
         </rdfs:subClassOf>
         <skos:definition rdf:datatype="&xsd;string">a systematic use of sounds, characters, symbols or signs to communicate meaning</skos:definition>
