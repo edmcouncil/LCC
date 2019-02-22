@@ -9,6 +9,8 @@
     <!ENTITY skos "http://www.w3.org/2004/02/skos/core#" >
     <!ENTITY sm "http://www.omg.org/techprocess/ab/SpecificationMetadata/" >
     <!ENTITY lcc-spc "https://www.omg.org/spec/LCC/AboutLCC/" >
+    <!ENTITY lcc-lng "https://www.omg.org/spec/LCC/Languages/AboutLanguages/" >
+    <!ENTITY lcc-cty "https://www.omg.org/spec/LCC/Countries/AboutCountries/" >
 ]>
 
 <rdf:RDF xml:base="https://www.omg.org/spec/LCC/AboutLCC/"
@@ -18,8 +20,11 @@
      xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
      xmlns:dct="http://purl.org/dc/terms/"
      xmlns:skos="http://www.w3.org/2004/02/skos/core#"
-xmlns:sm="http://www.omg.org/techprocess/ab/SpecificationMetadata/"
-     xmlns:lcc-spc="https://www.omg.org/spec/LCC/AboutLCC/">
+     xmlns:sm="http://www.omg.org/techprocess/ab/SpecificationMetadata/"
+     xmlns:lcc-spc="https://www.omg.org/spec/LCC/AboutLCC/"
+     xmlns:lcc-lng="https://www.omg.org/spec/LCC/Languages/AboutLanguages/"
+     xmlns:lcc-cty="https://www.omg.org/spec/LCC/Countries/AboutCountries/"
+>
 
 
     <owl:Ontology rdf:about="https://www.omg.org/spec/LCC/AboutLCC/">
@@ -28,10 +33,10 @@ xmlns:sm="http://www.omg.org/techprocess/ab/SpecificationMetadata/"
 
     <!-- Curation and Rights Metadata for AboutLCC -->
 
-        <sm:copyright rdf:datatype="&xsd;string">Copyright (c) 2015-2017 Adaptive, Inc.
-Copyright (c) 2015-2017 Object Management Group, Inc.
-Copyright (c) 2015-2017 Thematix Partners LLC
-Copyright (c) 2015-2017 Unisys</sm:copyright>
+        <sm:copyright rdf:datatype="&xsd;string">Copyright (c) 2015-2019 Adaptive</sm:copyright>
+        <sm:copyright rdf:datatype="&xsd;string">Copyright (c) 2015-2019 Object Management Group, Inc.</sm:copyright>
+        <sm:copyright rdf:datatype="&xsd;string">Copyright (c) 2015-2019 Thematix Partners LLC</sm:copyright>
+        <sm:copyright rdf:datatype="&xsd;string">Copyright (c) 2015-2017 Unisys</sm:copyright>
         <dct:license rdf:resource="&sm;MITLicense"/>
 
 
@@ -39,9 +44,9 @@ Copyright (c) 2015-2017 Unisys</sm:copyright>
 
         <sm:filename rdf:datatype="&xsd;string">AboutLCC.rdf</sm:filename>
         <sm:fileAbbreviation rdf:datatype="&xsd;string">lcc-spc</sm:fileAbbreviation>
-        <owl:versionIRI rdf:resource="http://www.omg.org/spec/LCC/20170801/AboutLCC/"/>
+        <owl:versionIRI rdf:resource="http://www.omg.org/spec/LCC/20190201/AboutLCC/"/>
 
-        <sm:publicationDate rdf:datatype="&xsd;dateTime">2017-08-28T18:00:00</sm:publicationDate>
+        <sm:publicationDate rdf:datatype="&xsd;dateTime">2019-02-19T18:00:00</sm:publicationDate>
 
         <sm:contentLanguage rdf:datatype="&xsd;anyURI">http://www.w3.org/standards/techs/owl#w3c_all</sm:contentLanguage>
         <sm:contentLanguage rdf:datatype="&xsd;anyURI">http://www.omg.org/spec/ODM/</sm:contentLanguage>
@@ -68,17 +73,17 @@ Copyright (c) 2015-2017 Unisys</sm:copyright>
         <sm:specificationURL rdf:datatype="&xsd;anyURI">https://www.omg.org/spec/LCC/</sm:specificationURL>
         <sm:specificationAbstract rdf:datatype="&xsd;string">The Languages, Countries and Codes (LCC) Specification provides ontologies defining concepts required for use in developing ontologies for many applications, based on ISO and other specifications that cover them. These include concepts and relationships about languages and the related language codes as specified in ISO 639, countries and related country codes as specified in ISO 3166, and regions specified in the United Nations M49 codes.</sm:specificationAbstract>
 
-        <sm:copyright rdf:datatype="&xsd;string">Copyright (c) 2015-2017 Adaptive
-Copyright (c) 2015-2017 Object Management Group, Inc.
-Copyright (c) 2015-2017 Thematix Partners LLC
-Copyright (c) 2015-2017 Unisys</sm:copyright>
+        <sm:copyright rdf:datatype="&xsd;string">Copyright (c) 2015-2019 Adaptive</sm:copyright>
+        <sm:copyright rdf:datatype="&xsd;string">Copyright (c) 2015-2019 Object Management Group, Inc.</sm:copyright>
+        <sm:copyright rdf:datatype="&xsd;string">Copyright (c) 2015-2019 Thematix Partners LLC</sm:copyright>
+        <sm:copyright rdf:datatype="&xsd;string">Copyright (c) 2015-2017 Unisys</sm:copyright>
         <sm:submitter rdf:datatype="&xsd;string">Thematix Partners LLC</sm:submitter>
         <sm:submitter rdf:datatype="&xsd;string">Adaptive, Inc.</sm:submitter>
         <sm:contributor rdf:datatype="&xsd;string">Unisys</sm:contributor>
         <dct:license rdf:resource="&sm;MITLicense"/>
-        <sm:responsibleTaskForce rdf:datatype="&xsd;anyURI">http://adtf.omg.org/</sm:responsibleTaskForce>
+        <sm:responsibleTaskForce rdf:datatype="&xsd;anyURI">https://adtf.omg.org/</sm:responsibleTaskForce>
 
-        <sm:dependsOn rdf:datatype="&xsd;anyURI">http://www.omg.org/techprocess/ab/SpecificationMetadata/</sm:dependsOn>
+        <sm:dependsOn rdf:datatype="&xsd;anyURI">https://www.omg.org/techprocess/ab/SpecificationMetadata/</sm:dependsOn>
 
         <sm:keyword rdf:datatype="&xsd;string">language</sm:keyword>
         <sm:keyword rdf:datatype="&xsd;string">language code</sm:keyword>
@@ -91,6 +96,8 @@ Copyright (c) 2015-2017 Unisys</sm:copyright>
         <sm:keyword rdf:datatype="&xsd;string">country subdivision code</sm:keyword>
         <sm:keyword rdf:datatype="&xsd;string">ISO 3166</sm:keyword>
         <sm:keyword rdf:datatype="&xsd;string">U.N. M49 code</sm:keyword>
+        <dct:hasPart rdf:resource="&lcc-lng;LanguagesModule"</dct:hasPart>
+        <dct:hasPart rdf:resource="&lcc-cty;CountriesModule"</dct:hasPart>
     </owl:NamedIndividual>
 
 </rdf:RDF>
