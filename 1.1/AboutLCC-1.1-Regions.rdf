@@ -48,6 +48,7 @@
 
         <sm:contentLanguage rdf:datatype="&xsd;anyURI">http://www.w3.org/standards/techs/owl#w3c_all</sm:contentLanguage>
         <sm:contentLanguage rdf:datatype="&xsd;anyURI">http://www.omg.org/spec/ODM/</sm:contentLanguage>
+      
         <owl:imports rdf:resource="https://www.omg.org/spec/LCC/1.1/AboutLCC-1.1/"/>
         <owl:imports rdf:resource="https://www.omg.org/spec/LCC/Countries/Regions/ISO3166-2-SubdivisionCodes-AD/"/>
         <owl:imports rdf:resource="https://www.omg.org/spec/LCC/Countries/Regions/ISO3166-2-SubdivisionCodes-AE/"/>

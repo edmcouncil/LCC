@@ -78,6 +78,7 @@ xml:base="https://www.omg.org/spec/LCC/1.1/AboutLCC-1.1/"
         <owl:imports rdf:resource="https://www.omg.org/spec/LCC/Countries/CountryRepresentation/"/>
         <owl:imports rdf:resource="https://www.omg.org/spec/LCC/Countries/ISO3166-1-CountryCodes/"/>
         <owl:imports rdf:resource="https://www.omg.org/spec/LCC/Countries/ISO3166-2-SubdivisionCodes/"/>
+		<owl:imports rdf:resource="https://www.omg.org/spec/LCC/Countries/UN-M49-RegionCodes/"/>
 
     </owl:Ontology>
 
