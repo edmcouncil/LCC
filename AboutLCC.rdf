@@ -96,8 +96,8 @@
         <sm:keyword rdf:datatype="&xsd;string">country subdivision code</sm:keyword>
         <sm:keyword rdf:datatype="&xsd;string">ISO 3166</sm:keyword>
         <sm:keyword rdf:datatype="&xsd;string">U.N. M49 code</sm:keyword>
-        <dct:hasPart rdf:resource="&lcc-lng;LanguagesModule"</dct:hasPart>
-        <dct:hasPart rdf:resource="&lcc-cty;CountriesModule"</dct:hasPart>
+        <dct:hasPart rdf:resource="&lcc-lng;LanguagesModule"></dct:hasPart>
+        <dct:hasPart rdf:resource="&lcc-cty;CountriesModule"></dct:hasPart>
     </owl:NamedIndividual>
 
 </rdf:RDF>
