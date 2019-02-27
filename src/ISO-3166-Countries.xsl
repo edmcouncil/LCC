@@ -4,11 +4,11 @@
   <!ENTITY rdf "http://www.w3.org/1999/02/22-rdf-syntax-ns#" >
   <!ENTITY dct "http://purl.org/dc/terms/" >
   <!ENTITY sm "http://www.omg.org/techprocess/ab/SpecificationMetadata/" >
-  <!ENTITY lcc-lr "http://www.omg.org/spec/LCC/Languages/LanguageRepresentation/" >
-  <!ENTITY lcc-639-1 "http://www.omg.org/spec/LCC/Languages/ISO639-1-LanguageCodes/" >
-  <!ENTITY lcc-639-2 "http://www.omg.org/spec/LCC/Languages/ISO639-2-LanguageCodes/" >
-  <!ENTITY lcc-cr "http://www.omg.org/spec/LCC/Countries/CountryRepresentation/" >
-  <!ENTITY lcc-3166-1 "http://www.omg.org/spec/LCC/Countries/ISO3166-1-CountryCodes/" >
+  <!ENTITY lcc-lr "https://www.omg.org/spec/LCC/Languages/LanguageRepresentation/" >
+  <!ENTITY lcc-639-1 "https://www.omg.org/spec/LCC/Languages/ISO639-1-LanguageCodes/" >
+  <!ENTITY lcc-639-2 "https://www.omg.org/spec/LCC/Languages/ISO639-2-LanguageCodes/" >
+  <!ENTITY lcc-cr "https://www.omg.org/spec/LCC/Countries/CountryRepresentation/" >
+  <!ENTITY lcc-3166-1 "https://www.omg.org/spec/LCC/Countries/ISO3166-1-CountryCodes/" >
 ]>
 
 <!-- This file is copyright 2017-2019, Adaptive Inc.  -->
@@ -30,9 +30,9 @@ xmlns:skos="http://www.w3.org/2004/02/skos/core#"
 xmlns:dct="http://purl.org/dc/terms/"
 xmlns:xsd ="http://www.w3.org/2001/XMLSchema#"
 xmlns:sm="http://www.omg.org/techprocess/ab/SpecificationMetadata/" 
-xmlns:lcc-lr="http://www.omg.org/spec/LCC/Languages/LanguageRepresentation/"
-xmlns:lcc-cr="http://www.omg.org/spec/LCC/Countries/CountryRepresentation/"
-xmlns:lcc-3166-1="http://www.omg.org/spec/LCC/Countries/ISO3166-1-CountryCodes/"
+xmlns:lcc-lr="https://www.omg.org/spec/LCC/Languages/LanguageRepresentation/"
+xmlns:lcc-cr="https://www.omg.org/spec/LCC/Countries/CountryRepresentation/"
+xmlns:lcc-3166-1="https://www.omg.org/spec/LCC/Countries/ISO3166-1-CountryCodes/"
 exclude-result-prefixes="xsl xs">
 
 <!-- Converts iso_country_codes.xml file downloaded from ISO and generates one ontology with all the countries -->
@@ -180,11 +180,11 @@ exclude-result-prefixes="xsl xs">
     <!ENTITY rdf "http://www.w3.org/1999/02/22-rdf-syntax-ns#" >
     <!ENTITY dct "http://purl.org/dc/terms/" >
     <!ENTITY sm "http://www.omg.org/techprocess/ab/SpecificationMetadata/" >
-    <!ENTITY lcc-lr "http://www.omg.org/spec/LCC/Languages/LanguageRepresentation/" >
-    <!ENTITY lcc-639-1 "http://www.omg.org/spec/LCC/Languages/ISO639-1-LanguageCodes/" >
-    <!ENTITY lcc-639-2 "http://www.omg.org/spec/LCC/Languages/ISO639-2-LanguageCodes/" >
-    <!ENTITY lcc-cr "http://www.omg.org/spec/LCC/Countries/CountryRepresentation/" >
-    <!ENTITY lcc-3166-1 "http://www.omg.org/spec/LCC/Countries/ISO3166-1-CountryCodes/" >
+    <!ENTITY lcc-lr "https://www.omg.org/spec/LCC/Languages/LanguageRepresentation/" >
+    <!ENTITY lcc-639-1 "https://www.omg.org/spec/LCC/Languages/ISO639-1-LanguageCodes/" >
+    <!ENTITY lcc-639-2 "https://www.omg.org/spec/LCC/Languages/ISO639-2-LanguageCodes/" >
+    <!ENTITY lcc-cr "https://www.omg.org/spec/LCC/Countries/CountryRepresentation/" >
+    <!ENTITY lcc-3166-1 "https://www.omg.org/spec/LCC/Countries/ISO3166-1-CountryCodes/" >
     ]> ]]>
 </xsl:text>    
   
@@ -196,12 +196,12 @@ exclude-result-prefixes="xsl xs">
     xmlns:skos="http://www.w3.org/2004/02/skos/core#"
     xmlns:dct="http://purl.org/dc/terms/"
     xmlns:sm="http://www.omg.org/techprocess/ab/SpecificationMetadata/"
-    xmlns:lcc-lr="http://www.omg.org/spec/LCC/Languages/LanguageRepresentation/"
-    xmlns:lcc-639-1="http://www.omg.org/spec/LCC/Languages/ISO639-1-LanguageCodes/"
-    xmlns:lcc-639-2="http://www.omg.org/spec/LCC/Languages/ISO639-2-LanguageCodes/"
-    xmlns:lcc-cr="http://www.omg.org/spec/LCC/Countries/CountryRepresentation/"
-    xmlns:lcc-3166-1="http://www.omg.org/spec/LCC/Countries/ISO3166-1-CountryCodes/"
-    xml:base="http://www.omg.org/spec/LCC/Countries/ISO3166-1-CountryCodes/">
+    xmlns:lcc-lr="https://www.omg.org/spec/LCC/Languages/LanguageRepresentation/"
+    xmlns:lcc-639-1="https://www.omg.org/spec/LCC/Languages/ISO639-1-LanguageCodes/"
+    xmlns:lcc-639-2="https://www.omg.org/spec/LCC/Languages/ISO639-2-LanguageCodes/"
+    xmlns:lcc-cr="https://www.omg.org/spec/LCC/Countries/CountryRepresentation/"
+    xmlns:lcc-3166-1="https://www.omg.org/spec/LCC/Countries/ISO3166-1-CountryCodes/"
+    xml:base="https://www.omg.org/spec/LCC/Countries/ISO3166-1-CountryCodes/">
     
   <xsl:value-of select="'&#x0A;&#x0A;'"/>
   <owl:Ontology>
@@ -223,26 +223,26 @@ exclude-result-prefixes="xsl xs">
       <sm:filename rdf:datatype="&amp;xsd;string">ISO3166-1-CountryCodes.rdf</sm:filename>
       <sm:fileAbbreviation rdf:datatype="&amp;xsd;string">lcc-3166-1</sm:fileAbbreviation>
       <owl:versionIRI>
-        <xsl:attribute name="rdf:resource" select="'http://www.omg.org/spec/LCC/20190201/Countries/ISO3166-1-CountryCodes/'"/>         
+        <xsl:attribute name="rdf:resource" select="'https://www.omg.org/spec/LCC/20190201/Countries/ISO3166-1-CountryCodes/'"/>
       </owl:versionIRI> 
       <sm:fileAbstract rdf:datatype="&amp;xsd;string">This ontology represents the subset of the ISO 3166 standard that include the actual ISO 3166-1 country codes, with the ontology and codes for the other parts of the standard represented in dependent models.</sm:fileAbstract>
-      <skos:changeNote rdf:datatype="&amp;xsd;string">The http://www.omg.org/spec/LCC/20151101/Countries/ISO3166-1-CountryCodes.rdf version of this ontology has been revised to reflect the issues addressed by the LCC 1.0 FTF report.  The country codes and related metadata contained herein are current as of the July 2017 revision to the online code set.</skos:changeNote>
-      <skos:changeNote rdf:datatype="&amp;xsd;string">The http://www.omg.org/spec/LCC/20190201/Countries/ISO3166-1-CountryCodes.rdf version of this ontology has been revised to reflect the issues addressed by the LCC 1.1 FTF report.  The country codes and related metadata contained herein are current as of the February 2019 revision to the online code set.</skos:changeNote>
+      <skos:changeNote rdf:datatype="&amp;xsd;string">The https://www.omg.org/spec/LCC/20151101/Countries/ISO3166-1-CountryCodes.rdf version of this ontology has been revised to reflect the issues addressed by the LCC 1.0 FTF report.  The country codes and related metadata contained herein are current as of the July 2017 revision to the online code set.</skos:changeNote>
+      <skos:changeNote rdf:datatype="&amp;xsd;string">The https://www.omg.org/spec/LCC/20190201/Countries/ISO3166-1-CountryCodes.rdf version of this ontology has been revised to reflect the issues addressed by the LCC 1.1 FTF report.  The country codes and related metadata contained herein are current as of the February 2019 revision to the online code set.</skos:changeNote>
     <dct:issued rdf:datatype="&amp;xsd;dateTime">
         <xsl:value-of select="/country-codes/@generated"/>         
       </dct:issued> 
       <xsl:value-of select="'&#x0A;&#x0A;'"/>
-      <sm:dependsOn rdf:datatype="&amp;xsd;anyURI">http://www.omg.org/spec/LCC/Languages/LanguageRepresentation/</sm:dependsOn>
-      <sm:dependsOn rdf:datatype="&amp;xsd;anyURI">http://www.omg.org/spec/LCC/Countries/CountryRepresentation/</sm:dependsOn>
+      <sm:dependsOn rdf:datatype="&amp;xsd;anyURI">https://www.omg.org/spec/LCC/Languages/LanguageRepresentation/</sm:dependsOn>
+      <sm:dependsOn rdf:datatype="&amp;xsd;anyURI">https://www.omg.org/spec/LCC/Countries/CountryRepresentation/</sm:dependsOn>
       <xsl:value-of select="'&#x0A;&#x0A;'"/>        
       <sm:contentLanguage rdf:datatype="&amp;xsd;anyURI">http://www.w3.org/standards/techs/owl#w3c_all</sm:contentLanguage>
       <sm:contentLanguage rdf:datatype="&amp;xsd;anyURI">http://www.omg.org/spec/ODM/</sm:contentLanguage>
       <xsl:value-of select="'&#x0A;&#x0A;'"/>        
-      <rdfs:seeAlso rdf:datatype="&amp;xsd;anyURI">http://www.omg.org/spec/LCC/AboutLCC/</rdfs:seeAlso>
-      <rdfs:seeAlso rdf:datatype="&amp;xsd;anyURI">http://www.omg.org/spec/LCC/Countries/AboutCountries/</rdfs:seeAlso>        
+      <rdfs:seeAlso rdf:datatype="&amp;xsd;anyURI">https://www.omg.org/spec/LCC/AboutLCC/</rdfs:seeAlso>
+      <rdfs:seeAlso rdf:datatype="&amp;xsd;anyURI">https://www.omg.org/spec/LCC/Countries/AboutCountries/</rdfs:seeAlso>
       <xsl:value-of select="'&#x0A;&#x0A;'"/>
-      <owl:imports rdf:resource="http://www.omg.org/spec/LCC/Languages/LanguageRepresentation/"/>
-      <owl:imports rdf:resource="http://www.omg.org/spec/LCC/Countries/CountryRepresentation/"/>
+      <owl:imports rdf:resource="https://www.omg.org/spec/LCC/Languages/LanguageRepresentation/"/>
+      <owl:imports rdf:resource="https://www.omg.org/spec/LCC/Countries/CountryRepresentation/"/>
       <xsl:value-of select="'&#x0A;&#x0A;'"/>       
     </owl:Ontology>
     

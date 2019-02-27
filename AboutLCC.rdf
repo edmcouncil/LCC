@@ -44,7 +44,7 @@
 
         <sm:filename rdf:datatype="&xsd;string">AboutLCC.rdf</sm:filename>
         <sm:fileAbbreviation rdf:datatype="&xsd;string">lcc-spc</sm:fileAbbreviation>
-        <owl:versionIRI rdf:resource="http://www.omg.org/spec/LCC/20190201/AboutLCC/"/>
+        <owl:versionIRI rdf:resource="https://www.omg.org/spec/LCC/20190201/AboutLCC/"/>
 
         <sm:publicationDate rdf:datatype="&xsd;dateTime">2019-02-19T18:00:00</sm:publicationDate>
 
