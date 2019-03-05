@@ -29,10 +29,10 @@ xmlns:skos="http://www.w3.org/2004/02/skos/core#"
 xmlns:dct="http://purl.org/dc/terms/"
 xmlns:xsd ="http://www.w3.org/2001/XMLSchema#"
 xmlns:sm="http://www.omg.org/techprocess/ab/SpecificationMetadata/" 
-xmlns:lcc-lr="http://www.omg.org/spec/LCC/Languages/LanguageRepresentation/"
-xmlns:lcc-cr="http://www.omg.org/spec/LCC/Countries/CountryRepresentation/"
-xmlns:lcc-3166-1="http://www.omg.org/spec/LCC/Countries/ISO3166-1-CountryCodes/"
-xmlns:lcc-3166-2="http://www.omg.org/spec/LCC/Countries/ISO3166-2-SubdivisionCodes/"
+xmlns:lcc-lr="https://www.omg.org/spec/LCC/Languages/LanguageRepresentation/"
+xmlns:lcc-cr="https://www.omg.org/spec/LCC/Countries/CountryRepresentation/"
+xmlns:lcc-3166-1="https://www.omg.org/spec/LCC/Countries/ISO3166-1-CountryCodes/"
+xmlns:lcc-3166-2="https://www.omg.org/spec/LCC/Countries/ISO3166-2-SubdivisionCodes/"
 exclude-result-prefixes="xsl xs">
 
   <!-- Converts iso_country_codes.xml file downloaded from ISO and for each country with subdivisions or territories
@@ -52,7 +52,7 @@ exclude-result-prefixes="xsl xs">
 <xsl:param name="generate-entities" select="'false'"/> <!-- Whether to use XML entities - requires sepsrate mappign file described below -->
 <xsl:variable name="base-dir" select="concat(translate($destdir, '\', '/'), '/')"/> 
 <xsl:variable name="countries-base-uri" select="'&amp;lcc-3166-1;'"/>
-<xsl:variable name="subdivisions-base-uri" select="'http://www.omg.org/spec/LCC/Countries/Regions/ISO3166-2-SubdivisionCodes-'"/>
+<xsl:variable name="subdivisions-base-uri" select="'https://www.omg.org/spec/LCC/Countries/Regions/ISO3166-2-SubdivisionCodes-'"/>
 
 <xsl:key name="country-key" match="country" use="@id"/>
 
@@ -149,7 +149,7 @@ exclude-result-prefixes="xsl xs">
 <xsl:template match="/">
   <!-- Ontology here is root element for the about file. It will need boilerplate adding -->
   <rdf:RDF>
-    <owl:Ontology rdf:about="http://www.omg.org/spec/LCC/1.0/AboutLCC-1.1-Regions/">
+    <owl:Ontology rdf:about="https://www.omg.org/spec/LCC/1.0/AboutLCC-1.1-Regions/">
       <xsl:apply-templates select="country-codes/country"/>
     </owl:Ontology>
   </rdf:RDF>
@@ -203,10 +203,10 @@ exclude-result-prefixes="xsl xs">
     <!ENTITY rdf "http://www.w3.org/1999/02/22-rdf-syntax-ns#" >
     <!ENTITY dct "http://purl.org/dc/terms/" >
     <!ENTITY sm "http://www.omg.org/techprocess/ab/SpecificationMetadata/" >
-    <!ENTITY lcc-lr "http://www.omg.org/spec/LCC/Languages/LanguageRepresentation/" >
-    <!ENTITY lcc-cr "http://www.omg.org/spec/LCC/Countries/CountryRepresentation/" >
-    <!ENTITY lcc-3166-1 "http://www.omg.org/spec/LCC/Countries/ISO3166-1-CountryCodes/" >
-    <!ENTITY lcc-3166-2 "http://www.omg.org/spec/LCC/Countries/ISO3166-2-SubdivisionCodes/" >
+    <!ENTITY lcc-lr "https://www.omg.org/spec/LCC/Languages/LanguageRepresentation/" >
+    <!ENTITY lcc-cr "https://www.omg.org/spec/LCC/Countries/CountryRepresentation/" >
+    <!ENTITY lcc-3166-1 "https://www.omg.org/spec/LCC/Countries/ISO3166-1-CountryCodes/" >
+    <!ENTITY lcc-3166-2 "https://www.omg.org/spec/LCC/Countries/ISO3166-2-SubdivisionCodes/" >
     <!ENTITY ]]></xsl:text>    
   <xsl:value-of select="concat($subdivs-ont-abbrev, ' &quot;',$subdivs-ont-uri, '&quot;')"/>
   <xsl:text disable-output-escaping="yes"><![CDATA[ >
@@ -220,10 +220,10 @@ exclude-result-prefixes="xsl xs">
        xmlns:skos="http://www.w3.org/2004/02/skos/core#"
        xmlns:dct="http://purl.org/dc/terms/"
        xmlns:sm="http://www.omg.org/techprocess/ab/SpecificationMetadata/"
-       xmlns:lcc-lr="http://www.omg.org/spec/LCC/Languages/LanguageRepresentation/"
-       xmlns:lcc-cr="http://www.omg.org/spec/LCC/Countries/CountryRepresentation/"
-       xmlns:lcc-3166-1="http://www.omg.org/spec/LCC/Countries/ISO3166-1-CountryCodes/"
-       xmlns:lcc-3166-2="http://www.omg.org/spec/LCC/Countries/ISO3166-2-SubdivisionCodes/">
+       xmlns:lcc-lr="https://www.omg.org/spec/LCC/Languages/LanguageRepresentation/"
+       xmlns:lcc-cr="https://www.omg.org/spec/LCC/Countries/CountryRepresentation/"
+       xmlns:lcc-3166-1="https://www.omg.org/spec/LCC/Countries/ISO3166-1-CountryCodes/"
+       xmlns:lcc-3166-2="https://www.omg.org/spec/LCC/Countries/ISO3166-2-SubdivisionCodes/">
       <xsl:attribute name="xml:base" select="$subdivs-ont-uri"/>
       
       <xsl:namespace name="{$subdivs-ont-abbrev}" select="$subdivs-ont-uri"></xsl:namespace>
@@ -267,21 +267,21 @@ exclude-result-prefixes="xsl xs">
           <xsl:value-of select="/country-codes/@generated"/>         
         </dct:issued> 
         <xsl:value-of select="'&#x0A;&#x0A;'"/>
-        <sm:dependsOn rdf:datatype="&amp;xsd;anyURI">http://www.omg.org/spec/LCC/Languages/LanguageRepresentation/</sm:dependsOn>
-        <sm:dependsOn rdf:datatype="&amp;xsd;anyURI">http://www.omg.org/spec/LCC/Countries/CountryRepresentation/</sm:dependsOn>
-        <sm:dependsOn rdf:datatype="&amp;xsd;anyURI">http://www.omg.org/spec/LCC/Countries/ISO3166-1-CountryCodes/</sm:dependsOn>
-        <sm:dependsOn rdf:datatype="&amp;xsd;anyURI">http://www.omg.org/spec/LCC/Countries/ISO3166-2-SubdivisionCodes/</sm:dependsOn>
+        <sm:dependsOn rdf:datatype="&amp;xsd;anyURI">https://www.omg.org/spec/LCC/Languages/LanguageRepresentation/</sm:dependsOn>
+        <sm:dependsOn rdf:datatype="&amp;xsd;anyURI">https://www.omg.org/spec/LCC/Countries/CountryRepresentation/</sm:dependsOn>
+        <sm:dependsOn rdf:datatype="&amp;xsd;anyURI">https://www.omg.org/spec/LCC/Countries/ISO3166-1-CountryCodes/</sm:dependsOn>
+        <sm:dependsOn rdf:datatype="&amp;xsd;anyURI">https://www.omg.org/spec/LCC/Countries/ISO3166-2-SubdivisionCodes/</sm:dependsOn>
         <xsl:value-of select="'&#x0A;&#x0A;'"/>        
         <sm:contentLanguage rdf:datatype="&amp;xsd;anyURI">http://www.w3.org/standards/techs/owl#w3c_all</sm:contentLanguage>
         <sm:contentLanguage rdf:datatype="&amp;xsd;anyURI">http://www.omg.org/spec/ODM/</sm:contentLanguage>
         <xsl:value-of select="'&#x0A;&#x0A;'"/>        
-        <rdfs:seeAlso rdf:resource="http://www.omg.org/spec/LCC/AboutLCC/"/>
-        <rdfs:seeAlso rdf:resource="http://www.omg.org/spec/LCC/Countries/AboutCountries/"/>        
+        <rdfs:seeAlso rdf:resource="https://www.omg.org/spec/LCC/AboutLCC/"/>
+        <rdfs:seeAlso rdf:resource="https://www.omg.org/spec/LCC/Countries/AboutCountries/"/>        
         <xsl:value-of select="'&#x0A;&#x0A;'"/>
-        <owl:imports rdf:resource="http://www.omg.org/spec/LCC/Languages/LanguageRepresentation/"/>
-        <owl:imports rdf:resource="http://www.omg.org/spec/LCC/Countries/CountryRepresentation/"/>
-        <owl:imports rdf:resource="http://www.omg.org/spec/LCC/Countries/ISO3166-1-CountryCodes/"/>
-        <owl:imports rdf:resource="http://www.omg.org/spec/LCC/Countries/ISO3166-2-SubdivisionCodes/"/>
+        <owl:imports rdf:resource="https://www.omg.org/spec/LCC/Languages/LanguageRepresentation/"/>
+        <owl:imports rdf:resource="https://www.omg.org/spec/LCC/Countries/CountryRepresentation/"/>
+        <owl:imports rdf:resource="https://www.omg.org/spec/LCC/Countries/ISO3166-1-CountryCodes/"/>
+        <owl:imports rdf:resource="https://www.omg.org/spec/LCC/Countries/ISO3166-2-SubdivisionCodes/"/>
         <xsl:value-of select="'&#x0A;&#x0A;'"/>       
       </owl:Ontology>
       
@@ -438,9 +438,23 @@ exclude-result-prefixes="xsl xs">
         </xsl:attribute>
       </lcc-cr:isSubregionOf>
       <xsl:choose>
-        <xsl:when test="subdivision-related-country">
+        <xsl:when test="subdivision-related-country or contains($name, '(see also separate country code entry under ')">
          <owl:sameAs>
-           <xsl:variable name="country" as="element()" select="key('country-key', subdivision-related-country/@country-id)"/>
+           <xsl:variable name="country-id">
+             <xsl:choose>
+               <xsl:when test="subdivision-related-country">
+                 <xsl:value-of select="subdivision-related-country/@country-id"/>
+               </xsl:when>
+               <xsl:when test="contains($name, '(see also separate country code entry under')">
+                 <xsl:value-of select="substring-before(substring-after($name, '(see also separate country code entry under '), ')')"/>
+                 <xsl:message select="concat('Warning: probably missing subdivision-related-country element, using SEE ALSO country code for ', $name)"/>
+               </xsl:when>
+               <xsl:otherwise>
+                 <xsl:message select="concat('Error: missing subdivision-related-country element, and incomplete SEE ALSO country code for ', $name)"/>
+               </xsl:otherwise>
+             </xsl:choose>
+           </xsl:variable>
+           <xsl:variable name="country" as="element()" select="key('country-key', $country-id)"/>
            <xsl:variable name="country-name">
              <!-- Prefer English -->
              <xsl:choose>
