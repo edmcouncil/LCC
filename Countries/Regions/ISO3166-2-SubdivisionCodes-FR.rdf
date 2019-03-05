@@ -3568,7 +3568,7 @@
       <rdfs:label>Guyane (française) (see also separate country code entry under GF)</rdfs:label>
       <skos:definition>The overseas territorial collectivity of Guyane (française) (see also separate country code entry under GF) in the country of France</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;France"/>
-      <lcc-cr:hasFrenchShortName xml:lang="fr">Guyane (française) (see also separate country code entry under GF)</lcc-cr:hasFrenchShortName>
+      <owl:sameAs rdf:resource="&lcc-3166-1;FrenchGuiana"/>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-fr;OverseasTerritorialCollectivity"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-fr;"/>
    </owl:NamedIndividual>
@@ -3598,7 +3598,7 @@
       <rdfs:label>Martinique (see also separate country code entry under MQ)</rdfs:label>
       <skos:definition>The overseas territorial collectivity of Martinique (see also separate country code entry under MQ) in the country of France</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;France"/>
-      <lcc-cr:hasFrenchShortName xml:lang="fr">Martinique (see also separate country code entry under MQ)</lcc-cr:hasFrenchShortName>
+      <owl:sameAs rdf:resource="&lcc-3166-1;Martinique"/>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-fr;OverseasTerritorialCollectivity"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-fr;"/>
    </owl:NamedIndividual>
