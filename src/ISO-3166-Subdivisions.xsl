@@ -4,10 +4,10 @@
   <!ENTITY rdf "http://www.w3.org/1999/02/22-rdf-syntax-ns#" >
   <!ENTITY dct "http://purl.org/dc/terms/" >
   <!ENTITY sm "http://www.omg.org/techprocess/ab/SpecificationMetadata/" >
-  <!ENTITY lcc-lr "http://www.omg.org/spec/LCC/Languages/LanguageRepresentation/" >
-  <!ENTITY lcc-cr "http://www.omg.org/spec/LCC/Countries/CountryRepresentation/" >
-  <!ENTITY lcc-3166-1 "http://www.omg.org/spec/LCC/Countries/ISO3166-1-CountryCodes/" >
-  <!ENTITY lcc-3166-2 "http://www.omg.org/spec/LCC/Countries/ISO3166-2-SubdivisionCodes/" >
+  <!ENTITY lcc-lr "https://www.omg.org/spec/LCC/Languages/LanguageRepresentation/" >
+  <!ENTITY lcc-cr "https://www.omg.org/spec/LCC/Countries/CountryRepresentation/" >
+  <!ENTITY lcc-3166-1 "https://www.omg.org/spec/LCC/Countries/ISO3166-1-CountryCodes/" >
+  <!ENTITY lcc-3166-2 "https://www.omg.org/spec/LCC/Countries/ISO3166-2-SubdivisionCodes/" >
 ]>
 
 <!-- This file is copyright 2017-2019, Adaptive Inc.  -->
@@ -277,6 +277,7 @@ exclude-result-prefixes="xsl xs">
         <xsl:value-of select="'&#x0A;&#x0A;'"/>        
         <rdfs:seeAlso rdf:resource="https://www.omg.org/spec/LCC/AboutLCC/"/>
         <rdfs:seeAlso rdf:resource="https://www.omg.org/spec/LCC/Countries/AboutCountries/"/>        
+
         <xsl:value-of select="'&#x0A;&#x0A;'"/>
         <owl:imports rdf:resource="https://www.omg.org/spec/LCC/Languages/LanguageRepresentation/"/>
         <owl:imports rdf:resource="https://www.omg.org/spec/LCC/Countries/CountryRepresentation/"/>

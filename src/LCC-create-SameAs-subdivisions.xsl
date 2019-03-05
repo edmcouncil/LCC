@@ -4,9 +4,9 @@
   <!ENTITY rdf "http://www.w3.org/1999/02/22-rdf-syntax-ns#" >
   <!ENTITY dct "http://purl.org/dc/terms/" >
   <!ENTITY sm "http://www.omg.org/techprocess/ab/SpecificationMetadata/" >
-  <!ENTITY lcc-cr "http://www.omg.org/spec/LCC/Countries/CountryRepresentation/" >
-  <!ENTITY lcc-3166-2 "http://www.omg.org/spec/LCC/Countries/ISO3166-2-SubdivisionCodes/" >
-  <!ENTITY lcc-3166-2-adj "http://www.omg.org/spec/LCC/Countries/ISO3166-2-SubdivisionCodes-Adjunct/" >
+  <!ENTITY lcc-cr "https://www.omg.org/spec/LCC/Countries/CountryRepresentation/" >
+  <!ENTITY lcc-3166-2 "https://www.omg.org/spec/LCC/Countries/ISO3166-2-SubdivisionCodes/" >
+  <!ENTITY lcc-3166-2-adj "https://www.omg.org/spec/LCC/Countries/ISO3166-2-SubdivisionCodes-Adjunct/" >
 ]>
 
 <!-- This file is copyright 2018-2019, Adaptive Inc.  -->
@@ -28,12 +28,12 @@ xmlns:skos="http://www.w3.org/2004/02/skos/core#"
 xmlns:dct="http://purl.org/dc/terms/"
 xmlns:xsd ="http://www.w3.org/2001/XMLSchema#"
 xmlns:sm="http://www.omg.org/techprocess/ab/SpecificationMetadata/" 
-xmlns:lcc-lr="http://www.omg.org/spec/LCC/Languages/LanguageRepresentation/"
-xmlns:lcc-cr="http://www.omg.org/spec/LCC/Countries/CountryRepresentation/"
-xmlns:lcc-3166-2-adj="http://www.omg.org/spec/LCC/Countries/ISO3166-2-SubdivisionCodes-Adjunct/"
-xmlns:lcc-639-1="http://www.omg.org/spec/LCC/Languages/ISO639-1-LanguageCodes/"
-xmlns:lcc-639-2="http://www.omg.org/spec/LCC/Languages/ISO639-2-LanguageCodes/"
-xmlns:lcc-3166-1="http://www.omg.org/spec/LCC/Countries/ISO3166-1-CountryCodes/"
+xmlns:lcc-lr="https://www.omg.org/spec/LCC/Languages/LanguageRepresentation/"
+xmlns:lcc-cr="https://www.omg.org/spec/LCC/Countries/CountryRepresentation/"
+xmlns:lcc-3166-2-adj="https://www.omg.org/spec/LCC/Countries/ISO3166-2-SubdivisionCodes-Adjunct/"
+xmlns:lcc-639-1="https://www.omg.org/spec/LCC/Languages/ISO639-1-LanguageCodes/"
+xmlns:lcc-639-2="https://www.omg.org/spec/LCC/Languages/ISO639-2-LanguageCodes/"
+xmlns:lcc-3166-1="https://www.omg.org/spec/LCC/Countries/ISO3166-1-CountryCodes/"
 
 xmlns:file="http://expath.org/ns/file"
 extension-element-prefixes="file"
@@ -81,8 +81,8 @@ exclude-result-prefixes="xsl xs lcc-639-1 lcc-639-2 lcc-3166-1">
     <!ENTITY rdf "http://www.w3.org/1999/02/22-rdf-syntax-ns#" >
     <!ENTITY dct "http://purl.org/dc/terms/" >
     <!ENTITY sm "http://www.omg.org/techprocess/ab/SpecificationMetadata/" >
-    <!ENTITY lcc-cr "http://www.omg.org/spec/LCC/Countries/CountryRepresentation/" >
-    <!ENTITY lcc-3166-2-adj "http://www.omg.org/spec/LCC/Countries/ISO3166-2-SubdivisionCodes-Adjunct/" >
+    <!ENTITY lcc-cr "https://www.omg.org/spec/LCC/Countries/CountryRepresentation/" >
+    <!ENTITY lcc-3166-2-adj "https://www.omg.org/spec/LCC/Countries/ISO3166-2-SubdivisionCodes-Adjunct/" >
     ]> ]]>
 </xsl:text>    
   
@@ -94,10 +94,10 @@ exclude-result-prefixes="xsl xs lcc-639-1 lcc-639-2 lcc-3166-1">
     xmlns:skos="http://www.w3.org/2004/02/skos/core#"
     xmlns:dct="http://purl.org/dc/terms/"
     xmlns:sm="http://www.omg.org/techprocess/ab/SpecificationMetadata/"
-    xmlns:lcc-cr="http://www.omg.org/spec/LCC/Countries/CountryRepresentation/"
-    xmlns:lcc-lr="http://www.omg.org/spec/LCC/Languages/LanguageRepresentation/"
-    xmlns:lcc-3166-2-adj="http://www.omg.org/spec/LCC/Countries/ISO3166-2-SubdivisionCodes-Adjunct/"
-    xml:base="http://www.omg.org/spec/LCC/Countries/ISO3166-2-SubdivisionCodes-Adjunct/">
+    xmlns:lcc-cr="https://www.omg.org/spec/LCC/Countries/CountryRepresentation/"
+    xmlns:lcc-lr="https://www.omg.org/spec/LCC/Languages/LanguageRepresentation/"
+    xmlns:lcc-3166-2-adj="https://www.omg.org/spec/LCC/Countries/ISO3166-2-SubdivisionCodes-Adjunct/"
+    xml:base="https://www.omg.org/spec/LCC/Countries/ISO3166-2-SubdivisionCodes-Adjunct/">
     
   <xsl:variable name="dir" select="file:parent(document-uri(/))"/>
   
@@ -119,7 +119,7 @@ exclude-result-prefixes="xsl xs lcc-639-1 lcc-639-2 lcc-3166-1">
       <sm:filename rdf:datatype="&amp;xsd;string">ISO3166-2-SubdivisionCodes-Adjunct.rdf</sm:filename>
       <sm:fileAbbreviation rdf:datatype="&amp;xsd;string">lcc-3166-2-adj</sm:fileAbbreviation>
       <owl:versionIRI>
-        <xsl:attribute name="rdf:resource" select="'http://www.omg.org/spec/LCC/20190201/Countries/ISO3166-2-SubdivisionCodes-Adjunct/'"/>         
+        <xsl:attribute name="rdf:resource" select="'https://www.omg.org/spec/LCC/20190201/Countries/ISO3166-2-SubdivisionCodes-Adjunct/'"/>
       </owl:versionIRI> 
       <sm:fileAbstract rdf:datatype="&amp;xsd;string">This ontology represents an additional set of URIs for ISO 3166-2 subdivisions, based on their 2-char+2/3 char codes.</sm:fileAbstract>
       <skos:changeNote>This ontology was added by the LCC 1.1 RTF</skos:changeNote>
@@ -127,8 +127,8 @@ exclude-result-prefixes="xsl xs lcc-639-1 lcc-639-2 lcc-3166-1">
         <xsl:value-of select="/rdf:RDF/owl:Ontology/dct:issued"/>
       </dct:issued>        
       <xsl:value-of select="'&#x0A;&#x0A;'"/>
-      <owl:imports rdf:resource="http://www.omg.org/spec/LCC/Countries/CountryRepresentation/"/>
-      <owl:imports rdf:resource="http://www.omg.org/spec/LCC/Countries/ISO3166-2-SubdivisionCodes/"/>
+      <owl:imports rdf:resource="https://www.omg.org/spec/LCC/Countries/CountryRepresentation/"/>
+      <owl:imports rdf:resource="https://www.omg.org/spec/LCC/Countries/ISO3166-2-SubdivisionCodes/"/>
       <xsl:value-of select="'&#x0A;&#x0A;'"/>       
     </owl:Ontology>
     

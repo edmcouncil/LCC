@@ -4,9 +4,9 @@
   <!ENTITY rdf "http://www.w3.org/1999/02/22-rdf-syntax-ns#" >
   <!ENTITY dct "http://purl.org/dc/terms/" >
   <!ENTITY sm "http://www.omg.org/techprocess/ab/SpecificationMetadata/" >
-  <!ENTITY lcc-cr "http://www.omg.org/spec/LCC/Countries/CountryRepresentation/" >
-  <!ENTITY lcc-3166-1 "http://www.omg.org/spec/LCC/Countries/ISO3166-1-CountryCodes/" >
-  <!ENTITY lcc-3166-1-adj "http://www.omg.org/spec/LCC/Countries/ISO3166-1-CountryCodes-Adjunct/" >
+  <!ENTITY lcc-cr "https://www.omg.org/spec/LCC/Countries/CountryRepresentation/" >
+  <!ENTITY lcc-3166-1 "https://www.omg.org/spec/LCC/Countries/ISO3166-1-CountryCodes/" >
+  <!ENTITY lcc-3166-1-adj "https://www.omg.org/spec/LCC/Countries/ISO3166-1-CountryCodes-Adjunct/" >
 ]>
 
 <!-- This file is copyright 2018-2019, Adaptive Inc.  -->
@@ -28,9 +28,9 @@ xmlns:skos="http://www.w3.org/2004/02/skos/core#"
 xmlns:dct="http://purl.org/dc/terms/"
 xmlns:xsd ="http://www.w3.org/2001/XMLSchema#"
 xmlns:sm="http://www.omg.org/techprocess/ab/SpecificationMetadata/" 
-xmlns:lcc-lr="http://www.omg.org/spec/LCC/Languages/LanguageRepresentation/"
-xmlns:lcc-cr="http://www.omg.org/spec/LCC/Countries/CountryRepresentation/"
-xmlns:lcc-3166-1-adj="http://www.omg.org/spec/LCC/Countries/ISO3166-1-CountryCodes-Adjunct/"
+xmlns:lcc-lr="https://www.omg.org/spec/LCC/Languages/LanguageRepresentation/"
+xmlns:lcc-cr="https://www.omg.org/spec/LCC/Countries/CountryRepresentation/"
+xmlns:lcc-3166-1-adj="https://www.omg.org/spec/LCC/Countries/ISO3166-1-CountryCodes-Adjunct/"
 exclude-result-prefixes="xsl xs">
 
 <!-- Takes the standard LCC Country code file and generates one additional ontology with all the countries referenced by their 2 letter code -->
@@ -74,9 +74,9 @@ exclude-result-prefixes="xsl xs">
     <!ENTITY rdf "http://www.w3.org/1999/02/22-rdf-syntax-ns#" >
     <!ENTITY dct "http://purl.org/dc/terms/" >
     <!ENTITY sm "http://www.omg.org/techprocess/ab/SpecificationMetadata/" >
-    <!ENTITY lcc-cr "http://www.omg.org/spec/LCC/Countries/CountryRepresentation/" >
-    <!ENTITY lcc-3166-1 "http://www.omg.org/spec/LCC/Countries/ISO3166-1-CountryCodes/" >
-    <!ENTITY lcc-3166-1-adj "http://www.omg.org/spec/LCC/Countries/ISO3166-1-CountryCodes-Adjunct/" >
+    <!ENTITY lcc-cr "https://www.omg.org/spec/LCC/Countries/CountryRepresentation/" >
+    <!ENTITY lcc-3166-1 "https://www.omg.org/spec/LCC/Countries/ISO3166-1-CountryCodes/" >
+    <!ENTITY lcc-3166-1-adj "https://www.omg.org/spec/LCC/Countries/ISO3166-1-CountryCodes-Adjunct/" >
     ]> ]]>
 </xsl:text>    
   
@@ -88,11 +88,11 @@ exclude-result-prefixes="xsl xs">
     xmlns:skos="http://www.w3.org/2004/02/skos/core#"
     xmlns:dct="http://purl.org/dc/terms/"
     xmlns:sm="http://www.omg.org/techprocess/ab/SpecificationMetadata/"
-    xmlns:lcc-cr="http://www.omg.org/spec/LCC/Countries/CountryRepresentation/"
-    xmlns:lcc-lr="http://www.omg.org/spec/LCC/Languages/LanguageRepresentation/"
-    xmlns:lcc-3166-1="http://www.omg.org/spec/LCC/Countries/ISO3166-1-CountryCodes/"
-    xmlns:lcc-3166-1-adj="http://www.omg.org/spec/LCC/Countries/ISO3166-1-CountryCodes-Adjunct/"
-    xml:base="http://www.omg.org/spec/LCC/Countries/ISO3166-1-CountryCodes-Adjunct/">
+    xmlns:lcc-cr="https://www.omg.org/spec/LCC/Countries/CountryRepresentation/"
+    xmlns:lcc-lr="https://www.omg.org/spec/LCC/Languages/LanguageRepresentation/"
+    xmlns:lcc-3166-1="https://www.omg.org/spec/LCC/Countries/ISO3166-1-CountryCodes/"
+    xmlns:lcc-3166-1-adj="https://www.omg.org/spec/LCC/Countries/ISO3166-1-CountryCodes-Adjunct/"
+    xml:base="https://www.omg.org/spec/LCC/Countries/ISO3166-1-CountryCodes-Adjunct/">
     
   <xsl:value-of select="'&#x0A;&#x0A;'"/>
   <owl:Ontology>
@@ -112,7 +112,7 @@ exclude-result-prefixes="xsl xs">
     <sm:filename rdf:datatype="&amp;xsd;string">ISO3166-1-CountryCodes-Adjunct.rdf</sm:filename>
       <sm:fileAbbreviation rdf:datatype="&amp;xsd;string">lcc-3166-1-adj</sm:fileAbbreviation>
       <owl:versionIRI>
-        <xsl:attribute name="rdf:resource" select="'http://www.omg.org/spec/LCC/20190201/Countries/ISO3166-1-CountryCodes-Adjunct/'"/>         
+        <xsl:attribute name="rdf:resource" select="'https://www.omg.org/spec/LCC/20190201/Countries/ISO3166-1-CountryCodes-Adjunct/'"/>
       </owl:versionIRI> 
       <sm:fileAbstract rdf:datatype="&amp;xsd;string">This ontology represents an additional set of URIs for ISO 3166-1 countries, based on their 2-char codes.</sm:fileAbstract>
       <skos:changeNote>This ontology was added by the LCC 1.1 RTF</skos:changeNote>
@@ -120,8 +120,8 @@ exclude-result-prefixes="xsl xs">
         <xsl:value-of select="/rdf:RDF/owl:Ontology/dct:issued"/>
       </dct:issued>        
       <xsl:value-of select="'&#x0A;&#x0A;'"/>
-      <owl:imports rdf:resource="http://www.omg.org/spec/LCC/Countries/CountryRepresentation/"/>
-      <owl:imports rdf:resource="http://www.omg.org/spec/LCC/Countries/ISO3166-1-CountryCodes/"/>
+      <owl:imports rdf:resource="https://www.omg.org/spec/LCC/Countries/CountryRepresentation/"/>
+      <owl:imports rdf:resource="https://www.omg.org/spec/LCC/Countries/ISO3166-1-CountryCodes/"/>
     <xsl:value-of select="'&#x0A;&#x0A;'"/>       
     </owl:Ontology>
     

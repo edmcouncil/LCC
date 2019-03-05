@@ -4,12 +4,12 @@
   <!ENTITY rdf "http://www.w3.org/1999/02/22-rdf-syntax-ns#" >
   <!ENTITY dct "http://purl.org/dc/terms/" >
   <!ENTITY sm "http://www.omg.org/techprocess/ab/SpecificationMetadata/" >
-  <!ENTITY lcc-lr "http://www.omg.org/spec/LCC/Languages/LanguageRepresentation/" >
-  <!ENTITY lcc-639-1 "http://www.omg.org/spec/LCC/Languages/ISO639-1-LanguageCodes/" >
-  <!ENTITY lcc-639-2 "http://www.omg.org/spec/LCC/Languages/ISO639-2-LanguageCodes/" >
-  <!ENTITY lcc-cr "http://www.omg.org/spec/LCC/Countries/CountryRepresentation/" >
-  <!ENTITY lcc-3166-1 "http://www.omg.org/spec/LCC/Countries/ISO3166-1-CountryCodes/" >
-  <!ENTITY lcc-m49 "http://www.omg.org/spec/LCC/Countries/UN-M49-RegionCodes/" >
+  <!ENTITY lcc-lr "https://www.omg.org/spec/LCC/Languages/LanguageRepresentation/" >
+  <!ENTITY lcc-639-1 "https://www.omg.org/spec/LCC/Languages/ISO639-1-LanguageCodes/" >
+  <!ENTITY lcc-639-2 "https://www.omg.org/spec/LCC/Languages/ISO639-2-LanguageCodes/" >
+  <!ENTITY lcc-cr "https://www.omg.org/spec/LCC/Countries/CountryRepresentation/" >
+  <!ENTITY lcc-3166-1 "https://www.omg.org/spec/LCC/Countries/ISO3166-1-CountryCodes/" >
+  <!ENTITY lcc-m49 "https://www.omg.org/spec/LCC/Countries/UN-M49-RegionCodes/" >
 ]>
 
 <!-- This file is copyright 2017, Adaptive Inc.  -->
@@ -31,9 +31,9 @@ xmlns:skos="http://www.w3.org/2004/02/skos/core#"
 xmlns:dct="http://purl.org/dc/terms/"
 xmlns:xsd ="http://www.w3.org/2001/XMLSchema#"
 xmlns:sm="http://www.omg.org/techprocess/ab/SpecificationMetadata/" 
-xmlns:lcc-lr="http://www.omg.org/spec/LCC/Languages/LanguageRepresentation/"
-xmlns:lcc-cr="http://www.omg.org/spec/LCC/Countries/CountryRepresentation/"
-xmlns:lcc-3166-1="http://www.omg.org/spec/LCC/Countries/ISO3166-1-CountryCodes/"
+xmlns:lcc-lr="https://www.omg.org/spec/LCC/Languages/LanguageRepresentation/"
+xmlns:lcc-cr="https://www.omg.org/spec/LCC/Countries/CountryRepresentation/"
+xmlns:lcc-3166-1="https://www.omg.org/spec/LCC/Countries/ISO3166-1-CountryCodes/"
 exclude-result-prefixes="xsl xs">
 
 <!-- Formats a raw RDF/XML file generated from the M49 CSV and adds formating for standards publication -->  
@@ -168,10 +168,10 @@ exclude-result-prefixes="xsl xs">
     <!ENTITY rdf "http://www.w3.org/1999/02/22-rdf-syntax-ns#" >
     <!ENTITY dct "http://purl.org/dc/terms/" >
     <!ENTITY sm "http://www.omg.org/techprocess/ab/SpecificationMetadata/" >
-    <!ENTITY lcc-lr "http://www.omg.org/spec/LCC/Languages/LanguageRepresentation/" >
-    <!ENTITY lcc-cr "http://www.omg.org/spec/LCC/Countries/CountryRepresentation/" >
-    <!ENTITY lcc-3166-1 "http://www.omg.org/spec/LCC/Countries/ISO3166-1-CountryCodes/" >
-    <!ENTITY lcc-m49 "http://www.omg.org/spec/LCC/Countries/UN-M49-RegionCodes/" >
+    <!ENTITY lcc-lr "https://www.omg.org/spec/LCC/Languages/LanguageRepresentation/" >
+    <!ENTITY lcc-cr "https://www.omg.org/spec/LCC/Countries/CountryRepresentation/" >
+    <!ENTITY lcc-3166-1 "https://www.omg.org/spec/LCC/Countries/ISO3166-1-CountryCodes/" >
+    <!ENTITY lcc-m49 "https://www.omg.org/spec/LCC/Countries/UN-M49-RegionCodes/" >
     ]> ]]>
 </xsl:text>    
   
@@ -183,11 +183,11 @@ exclude-result-prefixes="xsl xs">
     xmlns:skos="http://www.w3.org/2004/02/skos/core#"
     xmlns:dct="http://purl.org/dc/terms/"
     xmlns:sm="http://www.omg.org/techprocess/ab/SpecificationMetadata/"
-    xmlns:lcc-lr="http://www.omg.org/spec/LCC/Languages/LanguageRepresentation/"
-    xmlns:lcc-cr="http://www.omg.org/spec/LCC/Countries/CountryRepresentation/"
-    xmlns:lcc-3166-1="http://www.omg.org/spec/LCC/Countries/ISO3166-1-CountryCodes/"
-    xmlns:lcc-m49="http://www.omg.org/spec/LCC/Countries/UN-M49-RegionCodes/"
-    xml:base="http://www.omg.org/spec/LCC/Countries/UN-M49-RegionCodes/">  
+    xmlns:lcc-lr="https://www.omg.org/spec/LCC/Languages/LanguageRepresentation/"
+    xmlns:lcc-cr="https://www.omg.org/spec/LCC/Countries/CountryRepresentation/"
+    xmlns:lcc-3166-1="https://www.omg.org/spec/LCC/Countries/ISO3166-1-CountryCodes/"
+    xmlns:lcc-m49="https://www.omg.org/spec/LCC/Countries/UN-M49-RegionCodes/"
+    xml:base="https://www.omg.org/spec/LCC/Countries/UN-M49-RegionCodes/">
     
   <xsl:value-of select="'&#x0A;&#x0A;'"/>
   <owl:Ontology>
@@ -209,26 +209,26 @@ exclude-result-prefixes="xsl xs">
       <sm:filename rdf:datatype="&amp;xsd;string">UN-M49-RegionCodes.rdf</sm:filename>
       <sm:fileAbbreviation rdf:datatype="&amp;xsd;string">lcc-m49</sm:fileAbbreviation>
       <owl:versionIRI>
-        <xsl:attribute name="rdf:resource" select="'http://www.omg.org/spec/LCC/20170801/Countries/UN-M49-RegionCodes/'"/>         
+        <xsl:attribute name="rdf:resource" select="'https://www.omg.org/spec/LCC/20170801/Countries/UN-M49-RegionCodes/'"/>
       </owl:versionIRI> 
       <sm:fileAbstract rdf:datatype="&amp;xsd;string">This ontology represents the United Nations publication 'Standard Country or Area Codes for Statistical Use' originally published as Series M, No. 49 and now commonly referred to as the M49 standard. The assignment of countries or areas to specific groupings is for statistical convenience and does not imply any assumption regarding political or other affiliation of countries or territories by the United Nations. The codes included herein are current as of the version IRI for this ontology.</sm:fileAbstract>
       <dct:issued rdf:datatype="&amp;xsd;dateTime">
         <xsl:value-of select="'2017-08-03T22:26:02.631805+02:00'"/>         
       </dct:issued> 
       <xsl:value-of select="'&#x0A;&#x0A;'"/>
-      <sm:dependsOn rdf:datatype="&amp;xsd;anyURI">http://www.omg.org/spec/LCC/Languages/LanguageRepresentation/</sm:dependsOn>
-      <sm:dependsOn rdf:datatype="&amp;xsd;anyURI">http://www.omg.org/spec/LCC/Countries/CountryRepresentation/</sm:dependsOn>
-      <sm:dependsOn rdf:datatype="&amp;xsd;anyURI">http://www.omg.org/spec/LCC/Countries/ISO3166-1-CountryCodes/</sm:dependsOn>
+      <sm:dependsOn rdf:datatype="&amp;xsd;anyURI">https://www.omg.org/spec/LCC/Languages/LanguageRepresentation/</sm:dependsOn>
+      <sm:dependsOn rdf:datatype="&amp;xsd;anyURI">https://www.omg.org/spec/LCC/Countries/CountryRepresentation/</sm:dependsOn>
+      <sm:dependsOn rdf:datatype="&amp;xsd;anyURI">https://www.omg.org/spec/LCC/Countries/ISO3166-1-CountryCodes/</sm:dependsOn>
      <xsl:value-of select="'&#x0A;&#x0A;'"/>        
       <sm:contentLanguage rdf:datatype="&amp;xsd;anyURI">http://www.w3.org/standards/techs/owl#w3c_all</sm:contentLanguage>
       <sm:contentLanguage rdf:datatype="&amp;xsd;anyURI">http://www.omg.org/spec/ODM/</sm:contentLanguage>
       <xsl:value-of select="'&#x0A;&#x0A;'"/>        
-      <rdfs:seeAlso rdf:datatype="&amp;xsd;anyURI">http://www.omg.org/spec/LCC/AboutLCC/</rdfs:seeAlso>
-      <rdfs:seeAlso rdf:datatype="&amp;xsd;anyURI">http://www.omg.org/spec/LCC/Countries/AboutCountries/</rdfs:seeAlso>        
+      <rdfs:seeAlso rdf:datatype="&amp;xsd;anyURI">https://www.omg.org/spec/LCC/AboutLCC/</rdfs:seeAlso>
+      <rdfs:seeAlso rdf:datatype="&amp;xsd;anyURI">https://www.omg.org/spec/LCC/Countries/AboutCountries/</rdfs:seeAlso>
       <xsl:value-of select="'&#x0A;&#x0A;'"/>
-      <owl:imports rdf:resource="http://www.omg.org/spec/LCC/Languages/LanguageRepresentation/"/>
-      <owl:imports rdf:resource="http://www.omg.org/spec/LCC/Countries/CountryRepresentation/"/>
-      <owl:imports rdf:resource="http://www.omg.org/spec/LCC/Countries/ISO3166-1-CountryCodes/"/>
+      <owl:imports rdf:resource="https://www.omg.org/spec/LCC/Languages/LanguageRepresentation/"/>
+      <owl:imports rdf:resource="https://www.omg.org/spec/LCC/Countries/CountryRepresentation/"/>
+      <owl:imports rdf:resource="https://www.omg.org/spec/LCC/Countries/ISO3166-1-CountryCodes/"/>
       <xsl:value-of select="'&#x0A;&#x0A;'"/>       
     </owl:Ontology>
     
