@@ -1027,7 +1027,7 @@
       <rdfs:label>Taiwan Sheng (see also separate country code entry under TW)</rdfs:label>
       <skos:definition>The province of Taiwan Sheng (see also separate country code entry under TW) in the country of China</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;China"/>
-      <lcc-cr:hasLocalShortName xml:lang="zh">Taiwan Sheng (see also separate country code entry under TW)</lcc-cr:hasLocalShortName>
+      <owl:sameAs rdf:resource="&lcc-3166-1;Taiwan"/>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-cn;Province"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-cn;"/>
    </owl:NamedIndividual>
@@ -1057,8 +1057,7 @@
       <rdfs:label>Hong Kong SAR (see also separate country code entry under HK)</rdfs:label>
       <skos:definition>The special administrative region of Hong Kong SAR (see also separate country code entry under HK) in the country of China</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;China"/>
-      <lcc-cr:hasEnglishShortName xml:lang="en">Hong Kong SAR (see also separate country code entry under HK)</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasLocalShortName xml:lang="zh">Xianggang Tebiexingzhengqu (see also separate country code entry under HK)</lcc-cr:hasLocalShortName>
+      <owl:sameAs rdf:resource="&lcc-3166-1;HongKong"/>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-cn;SpecialAdministrativeRegion"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-cn;"/>
    </owl:NamedIndividual>
@@ -1088,9 +1087,7 @@
       <rdfs:label>Macao SAR (see also separate country code entry under MO)</rdfs:label>
       <skos:definition>The special administrative region of Macao SAR (see also separate country code entry under MO) in the country of China</skos:definition>
       <lcc-cr:isSubregionOf rdf:resource="&lcc-3166-1;China"/>
-      <lcc-cr:hasEnglishShortName xml:lang="en">Macao SAR (see also separate country code entry under MO)</lcc-cr:hasEnglishShortName>
-      <lcc-cr:hasLocalShortName xml:lang="pt">Macau SAR (see also separate country code entry under MO)</lcc-cr:hasLocalShortName>
-      <lcc-cr:hasLocalShortName xml:lang="zh">Aomen Tebiexingzhengqu (see also separate country code entry under MO)</lcc-cr:hasLocalShortName>
+      <owl:sameAs rdf:resource="&lcc-3166-1;Macao"/>
       <lcc-cr:isClassifiedBy rdf:resource="&lcc-3166-2-cn;SpecialAdministrativeRegion"/>
       <rdfs:isDefinedBy rdf:resource="&lcc-3166-2-cn;"/>
    </owl:NamedIndividual>

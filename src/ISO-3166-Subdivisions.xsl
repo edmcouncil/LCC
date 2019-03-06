@@ -276,7 +276,8 @@ exclude-result-prefixes="xsl xs">
         <sm:contentLanguage rdf:datatype="&amp;xsd;anyURI">http://www.omg.org/spec/ODM/</sm:contentLanguage>
         <xsl:value-of select="'&#x0A;&#x0A;'"/>        
         <rdfs:seeAlso rdf:resource="https://www.omg.org/spec/LCC/AboutLCC/"/>
-        <rdfs:seeAlso rdf:resource="https://www.omg.org/spec/LCC/Countries/AboutCountries/"/>
+        <rdfs:seeAlso rdf:resource="https://www.omg.org/spec/LCC/Countries/AboutCountries/"/>        
+
         <xsl:value-of select="'&#x0A;&#x0A;'"/>
         <owl:imports rdf:resource="https://www.omg.org/spec/LCC/Languages/LanguageRepresentation/"/>
         <owl:imports rdf:resource="https://www.omg.org/spec/LCC/Countries/CountryRepresentation/"/>
@@ -438,9 +439,23 @@ exclude-result-prefixes="xsl xs">
         </xsl:attribute>
       </lcc-cr:isSubregionOf>
       <xsl:choose>
-        <xsl:when test="subdivision-related-country">
+        <xsl:when test="subdivision-related-country or contains($name, '(see also separate country code entry under ')">
          <owl:sameAs>
-           <xsl:variable name="country" as="element()" select="key('country-key', subdivision-related-country/@country-id)"/>
+           <xsl:variable name="country-id">
+             <xsl:choose>
+               <xsl:when test="subdivision-related-country">
+                 <xsl:value-of select="subdivision-related-country/@country-id"/>
+               </xsl:when>
+               <xsl:when test="contains($name, '(see also separate country code entry under')">
+                 <xsl:value-of select="substring-before(substring-after($name, '(see also separate country code entry under '), ')')"/>
+                 <xsl:message select="concat('Warning: probably missing subdivision-related-country element, using SEE ALSO country code for ', $name)"/>
+               </xsl:when>
+               <xsl:otherwise>
+                 <xsl:message select="concat('Error: missing subdivision-related-country element, and incomplete SEE ALSO country code for ', $name)"/>
+               </xsl:otherwise>
+             </xsl:choose>
+           </xsl:variable>
+           <xsl:variable name="country" as="element()" select="key('country-key', $country-id)"/>
            <xsl:variable name="country-name">
              <!-- Prefer English -->
              <xsl:choose>
