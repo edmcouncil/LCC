@@ -47,7 +47,7 @@ xml:base="https://www.omg.org/spec/LCC/Countries/AboutCountries/"
         <sm:fileAbbreviation rdf:datatype="&xsd;string">lcc-cty</sm:fileAbbreviation>
         <owl:versionIRI rdf:resource="https://www.omg.org/spec/LCC/20190201/Countries/AboutCountries/"/>
 
-        <skos:changeNote rdf:datatype="&xsd;string">The https://www.omg.org/spec/LCC/20151101/Countries/AboutCountries.rdf version of this ontology was revised to reflect the issues addressed by the LCC 1.0 FTF report.</skos:changeNote>
+        <skos:changeNote rdf:datatype="&xsd;string">The http://www.omg.org/spec/LCC/20151101/Countries/AboutCountries.rdf version of this ontology was revised to reflect the issues addressed by the LCC 1.0 FTF report.</skos:changeNote>
 
         <sm:publicationDate rdf:datatype="&xsd;dateTime">2019-02-19T18:00:00</sm:publicationDate>
 
