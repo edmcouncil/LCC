@@ -20,7 +20,7 @@ xml:base="https://www.omg.org/spec/LCC/1.0/AboutLCC-1.0-Regions/"
      xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
      xmlns:dct="http://purl.org/dc/terms/"
      xmlns:skos="http://www.w3.org/2004/02/skos/core#"
-	 xmlns:sm="http://www.omg.org/techprocess/ab/SpecificationMetadata/"
+     xmlns:sm="http://www.omg.org/techprocess/ab/SpecificationMetadata/"
      xmlns:lcc-spc="https://www.omg.org/spec/LCC/AboutLCC/"
      xmlns:lcc-spc-1.0-reg="https://www.omg.org/spec/LCC/1.0/AboutLCC-1.0-Regions/">
 
@@ -42,7 +42,7 @@ Copyright (c) 2015-2017 Unisys</sm:copyright>
 
         <sm:filename rdf:datatype="&xsd;string">AboutLCC-1.0-Regions.rdf</sm:filename>
         <sm:fileAbbreviation rdf:datatype="&xsd;string">lcc-spc-1.0-reg</sm:fileAbbreviation>
-        <owl:versionIRI rdf:resource="https://www.omg.org/spec/LCC/20170801/AboutLCC-1.0-Regions/"/>
+        <owl:versionIRI rdf:resource="http://www.omg.org/spec/LCC/20170801/AboutLCC-1.0-Regions/"/>
 
         <sm:publicationDate rdf:datatype="&xsd;dateTime">2017-08-28T18:00:00</sm:publicationDate>
 
